@@ -1,9 +1,9 @@
 import { getServiceBySlug, getAllServiceSlugs } from '@/data/services';
 import { ServicePageSchema, FAQPageSchema, LocalBusinessSchema } from '@/components/SchemaMarkup';
-import LeadForm from '@/components/LeadForm';
+import ServiceQuoteForm from '@/components/ServiceQuoteForm';
 import FAQ from '@/components/FAQ';
 import Link from 'next/link';
-import { ArrowRight, Phone, MessageCircle } from 'lucide-react';
+import { ArrowRight, Phone, MessageCircle, CheckCircle, CheckCircle2 } from 'lucide-react';
 
 export async function generateStaticParams() {
   const slugs = getAllServiceSlugs();
@@ -13,7 +13,7 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }) {
   const service = getServiceBySlug(params.slug);
   if (!service) {
-    return { title: 'Service Not Found | Kenya Consultancy' };
+    return { title: 'Service Not Found | ProTech Consulting' };
   }
   return {
     title: service.metaTitle,
@@ -44,6 +44,8 @@ export default function ServicePage({ params }) {
 
   const faqs = service.faqs;
   const serviceUrl = `https://www.yourdomain.co.ke/services/${service.slug}`;
+  const WHATSAPP_NUMBER = '254707526602';
+  const PHONE = '+254 707 526 602';
 
   return (
     <div>
@@ -63,17 +65,18 @@ export default function ServicePage({ params }) {
               {service.description}
             </p>
             <div className="flex flex-wrap gap-4">
-              <Link href="/request-a-quote" className="bg-white text-navy-900 hover:bg-primary-50 font-bold px-8 py-4 rounded-xl shadow-xl transition-all flex items-center gap-2">
+              <Link
+                href="/request-a-quote"
+                className="bg-white text-navy-900 hover:bg-primary-50 font-bold px-8 py-4 rounded-xl shadow-xl transition-all flex items-center gap-2"
+              >
                 Get Free Quote <ArrowRight className="w-5 h-5" />
               </Link>
               <a
-                href={`https://wa.me/254700000000?text=Hello%2C%20I%20am%20interested%20in%20${encodeURIComponent(service.name)}`}
-                target="_blank"
-                rel="noopener noreferrer"
+                href={`tel:${PHONE}`}
                 className="bg-green-600 hover:bg-green-700 text-white font-bold px-8 py-4 rounded-xl shadow-xl shadow-green-600/30 transition-all flex items-center gap-2"
               >
-                <MessageCircle className="w-5 h-5" />
-                WhatsApp
+                <Phone className="w-5 h-5" />
+                Call Us
               </a>
             </div>
           </div>
@@ -118,9 +121,10 @@ export default function ServicePage({ params }) {
                 ))}
               </div>
             </div>
+
             <div className="bg-white rounded-2xl shadow-xl p-6 md:p-8">
-              <h3 className="font-heading font-bold text-xl mb-6">Request a Quote</h3>
-              <LeadForm showServiceSelector={false} />
+              <h3 className="font-heading font-bold text-xl mb-6">Request a Quote for {service.name}</h3>
+              <ServiceQuoteForm serviceName={service.name} />
             </div>
           </div>
         </div>
@@ -145,7 +149,7 @@ export default function ServicePage({ params }) {
       </section>
 
       {/* CTA */}
-      <section className="section-padding bg-primary-600">
+      <section className="section-padding" style={{ background: 'linear-gradient(135deg, #0B1F3A 0%, #0F4C2C 100%)' }}>
         <div className="container-custom text-center">
           <h2 className="text-3xl font-heading font-bold text-white mb-4">
             Ready to Get Started?
@@ -154,21 +158,19 @@ export default function ServicePage({ params }) {
             Contact us today for a free, no-obligation quote
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a
-              href={`https://wa.me/254700000000?text=Hello%2C%20I%20need%20${encodeURIComponent(service.name)}`}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="bg-green-600 hover:bg-green-700 text-white font-bold px-8 py-4 rounded-xl shadow-xl flex items-center justify-center gap-2"
+            <Link
+              href="/request-a-quote"
+              className="bg-white text-navy-900 hover:bg-primary-50 font-bold px-8 py-4 rounded-xl shadow-xl flex items-center justify-center gap-2"
             >
               <MessageCircle className="w-5 h-5" />
-              WhatsApp Us
-            </a>
+              Get a Quote
+            </Link>
             <a
-              href={`tel:+254700000000`}
-              className="bg-white text-primary-700 hover:bg-primary-50 font-bold px-8 py-4 rounded-xl shadow-xl flex items-center justify-center gap-2"
+              href={`tel:${PHONE}`}
+              className="bg-green-600 hover:bg-green-700 text-white font-bold px-8 py-4 rounded-xl shadow-xl flex items-center justify-center gap-2"
             >
               <Phone className="w-5 h-5" />
-              Call Now
+              Call Us Now
             </a>
           </div>
         </div>

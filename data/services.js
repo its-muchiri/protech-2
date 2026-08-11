@@ -2,7 +2,7 @@ export const services = [
   {
     slug: 'construction-civil-engineering',
     name: 'Construction & Civil Engineering',
-    icon: '🏗️',
+    icon: 'Building2',
     description: 'End-to-end construction and civil engineering services for commercial and residential projects across Kenya.',
     longDescription: 'We deliver comprehensive construction and civil engineering solutions from foundation to completion. Our NCA-certified project managers ensure every project meets the highest standards of quality, safety, and regulatory compliance.',
     subServices: [
@@ -28,7 +28,7 @@ export const services = [
   {
     slug: 'swimming-pool-construction',
     name: 'Swimming Pool Construction & Maintenance',
-    icon: '🏊',
+    icon: 'Droplets',
     description: 'Professional swimming pool construction, maintenance, and water treatment solutions for homes, hotels, and commercial properties.',
     longDescription: 'We design and build custom swimming pools using premium materials and modern techniques. Our services include concrete pools, fiberglass installations, pool heating, and comprehensive water treatment systems.',
     subServices: [
@@ -53,7 +53,7 @@ export const services = [
   {
     slug: 'medical-equipment-supplies',
     name: 'Medical Equipment & Supplies',
-    icon: '🏥',
+    icon: 'Heart',
     description: 'Comprehensive medical equipment, hospital furniture, diagnostic devices, and healthcare supplies for hospitals and clinics.',
     longDescription: 'We supply a complete range of medical equipment and supplies to hospitals, clinics, and healthcare facilities across Kenya. Our products meet international quality standards and are approved by the Ministry of Health.',
     subServices: [
@@ -78,7 +78,7 @@ export const services = [
   {
     slug: 'logistics-freight-services',
     name: 'Logistics & Freight Services',
-    icon: '🚛',
+    icon: 'Truck',
     description: 'Reliable countrywide haulage, last-mile delivery, moving services, and clearing & forwarding solutions.',
     longDescription: 'We provide end-to-end logistics and freight solutions across Kenya. From heavy haulage to last-mile delivery, our fleet and experienced team ensure your cargo arrives safely and on time.',
     subServices: [
@@ -103,7 +103,7 @@ export const services = [
   {
     slug: 'technical-repairs-appliance',
     name: 'Technical Repairs & Appliance Servicing',
-    icon: '🔧',
+    icon: 'Wrench',
     description: 'Expert repair and servicing for heavy appliances, commercial refrigeration, and industrial equipment.',
     longDescription: 'Our certified technicians provide comprehensive repair and servicing for all types of heavy appliances, commercial refrigeration systems, and industrial machinery. We offer on-site diagnostics and emergency repair services.',
     subServices: [
@@ -128,7 +128,7 @@ export const services = [
   {
     slug: 'water-filtration-purification',
     name: 'Water Filtration & Purification Systems',
-    icon: '💧',
+    icon: 'Droplets',
     description: 'Complete water purification solutions including RO plants, borehole treatment, UV purifiers, and commercial bottling lines.',
     longDescription: 'We design and install comprehensive water filtration and purification systems for residential, commercial, and industrial use. Our solutions include reverse osmosis plants, borehole water treatment, UV purification, and commercial bottling lines.',
     subServices: [
@@ -153,7 +153,7 @@ export const services = [
   {
     slug: 'solar-power-renewable-energy',
     name: 'Solar Power & Renewable Energy',
-    icon: '☀️',
+    icon: 'Sun',
     description: 'EPRA-certified solar installations including off-grid systems, solar water heaters, solar pumping, and lithium-ion battery backups.',
     longDescription: 'We design and install EPRA-certified solar power systems for residential, commercial, and industrial clients. Our solutions include grid-tie and off-grid systems, solar water heaters, solar pumping, and lithium-ion battery backup systems.',
     subServices: [
@@ -178,7 +178,7 @@ export const services = [
   {
     slug: 'roofing-systems-waterproofing',
     name: 'Roofing Systems & Waterproofing',
-    icon: '🏠',
+    icon: 'Home',
     description: 'Professional roofing solutions including stone-coated tiles, box profile sheets, flat roof waterproofing, and gutter installation.',
     longDescription: 'We provide comprehensive roofing and waterproofing services for residential and commercial properties. Our services include stone-coated tile installation, box profile sheets, flat roof waterproofing, gutter systems, and roof leak repairs.',
     subServices: [
@@ -203,7 +203,7 @@ export const services = [
   {
     slug: 'plumbing-drainage-services',
     name: 'Plumbing & Drainage Services',
-    icon: '🔩',
+    icon: 'Wrench',
     description: 'Complete plumbing and drainage solutions including pipe fitting, sewer unblocking, high-pressure jetting, and leak detection.',
     longDescription: 'We provide professional plumbing and drainage services for residential and commercial properties. Our services include pipe fitting, sewer unblocking, high-pressure jetting, solar water heater integration, and advanced leak detection.',
     subServices: [
@@ -228,7 +228,7 @@ export const services = [
   {
     slug: 'security-systems-physical-security',
     name: 'Security Systems & Physical Security',
-    icon: '🔒',
+    icon: 'Shield',
     description: 'Comprehensive security solutions including CCTV installation, electric fencing, access control, biometric systems, and alarm systems.',
     longDescription: 'We design and install comprehensive security systems for homes, businesses, and industrial sites. Our solutions include CCTV cameras, electric fencing, access control, biometric systems, automatic gate openers, and alarm systems.',
     subServices: [
@@ -253,7 +253,7 @@ export const services = [
   {
     slug: 'garage-automotive-services',
     name: 'Garage & Automotive Services',
-    icon: '🚗',
+    icon: 'Car',
     description: 'Professional garage and automotive services including fleet maintenance, diagnostic scanning, mobile mechanic dispatch, and bodywork.',
     longDescription: 'We provide comprehensive garage and automotive services for personal and commercial vehicles. Our services include fleet maintenance, engine diagnostic scanning, mobile mechanic dispatch, and professional bodywork and spraying.',
     subServices: [
@@ -278,7 +278,7 @@ export const services = [
   {
     slug: 'borehole-drilling-water-services',
     name: 'Borehole Drilling & Water Services',
-    icon: '⛏️',
+    icon: 'Drill',
     description: 'Complete borehole drilling services including hydrogeological surveys, NEMA licensing, drilling, pump installation, and test pumping.',
     longDescription: 'We provide end-to-end borehole drilling and water services across Kenya. Our services include hydrogeological surveys, NEMA licensing assistance, professional drilling, pump installation, and test pumping to ensure water quality and yield.',
     subServices: [
@@ -303,7 +303,7 @@ export const services = [
   {
     slug: 'architectural-design-house-plans',
     name: 'Architectural Design & House Plans',
-    icon: '📐',
+    icon: 'Ruler',
     description: 'Professional architectural design services including 2D/3D floor plans, structural drawings, county government approvals, and interior rendering.',
     longDescription: 'We provide comprehensive architectural design services for residential and commercial projects. Our architects create detailed 2D and 3D floor plans, structural drawings, and interior renderings. We also handle county government approval processes.',
     subServices: [
@@ -328,7 +328,7 @@ export const services = [
   {
     slug: 'generator-sales-repair',
     name: 'Generator Sales & Repair',
-    icon: '⚡',
+    icon: 'Zap',
     description: 'Sales, servicing, and repair of commercial generators including diesel engine overhauls and automatic transfer switch installation.',
     longDescription: 'We supply and service all major brands of commercial and industrial generators. Our services include diesel engine overhauls, automatic transfer switch (ATS) installation, preventive maintenance, and emergency repair services.',
     subServices: [
@@ -353,7 +353,7 @@ export const services = [
   {
     slug: 'electrical-installation-wiring',
     name: 'Electrical Installation & Wiring',
-    icon: '💡',
+    icon: 'Lightbulb',
     description: 'Professional electrical installation for domestic and commercial properties including power audits, circuit breaker panels, and smart lighting.',
     longDescription: 'We provide comprehensive electrical installation and wiring services for residential and commercial properties. Our ERC and EPRA-certified electricians handle everything from domestic wiring to smart lighting installations and power audits.',
     subServices: [
@@ -378,7 +378,7 @@ export const services = [
   {
     slug: 'interior-design-office-fitouts',
     name: 'Interior Design & Office Fit-Outs',
-    icon: '🛋️',
+    icon: 'Sofa',
     description: 'Turnkey interior design and office fit-out solutions including space planning, gypsum ceilings, acoustic paneling, and flooring.',
     longDescription: 'We deliver complete interior design and office fit-out solutions for corporate and commercial spaces. Our services include space planning, gypsum ceiling design, acoustic paneling, flooring, and turnkey office transformations.',
     subServices: [
@@ -403,7 +403,7 @@ export const services = [
   {
     slug: 'office-partitions-glass-works',
     name: 'Office Partitions & Glass Works',
-    icon: '🪟',
+    icon: 'Frame',
     description: 'Frameless glass partitions, aluminum partitioning, acoustic drywall dividers, and office cubicle solutions.',
     longDescription: 'We design and install high-quality office partitioning solutions including frameless glass partitions, aluminum systems, acoustic drywall dividers, and custom office cubicles. Our work enhances workspace functionality and aesthetics.',
     subServices: [

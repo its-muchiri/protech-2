@@ -2,9 +2,9 @@
 
 import { useState } from 'react';
 import { useForm } from 'react-hook-form';
-import { Phone, Mail, Send, MessageCircle } from 'lucide-react';
+import { MessageCircle, CheckCircle2 } from 'lucide-react';
 
-const WHATSAPP_NUMBER = '254700000000';
+const WHATSAPP_NUMBER = '254707526602';
 
 const serviceOptions = [
   'Construction & Civil Engineering',
@@ -29,54 +29,70 @@ const serviceOptions = [
 const locationOptions = [
   'Nairobi',
   'Kiambu',
+  'Machakos',
   'Mombasa',
-  'Nakuru',
   'Kisumu',
+  'Nakuru',
   'Eldoret',
+  'Thika',
   'Other',
 ];
 
-export default function LeadForm({ compact = false, showServiceSelector = true, className = '' }) {
+export default function LeadForm({ compact = false, showServiceSelector = true, className = '', preselectedService = '' }) {
   const [submitted, setSubmitted] = useState(false);
-  const [submitType, setSubmitType] = useState(null);
-  const { register, handleSubmit, formState: { errors, isSubmitting }, reset } = useForm();
+  const { register, handleSubmit, formState: { errors, isSubmitting }, reset } = useForm({
+    defaultValues: {
+      service: preselectedService,
+    },
+  });
 
   const onSubmit = async (data) => {
     try {
-      const response = await fetch('/api/lead', {
+      // Send to email via API
+      await fetch('/api/lead', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(data),
       });
 
-      if (response.ok) {
-        setSubmitted(true);
-        setSubmitType('email');
-        reset();
-      }
+      // Open WhatsApp with the message
+      const message = `Hello, I am interested in getting a quote for ${data.service || 'your services'} in ${data.location || 'Kenya'}.
+
+Name: ${data.name}
+Phone: ${data.phone}
+Email: ${data.email || 'Not provided'}
+
+Project Details:
+${data.details || 'No details provided'}
+
+Please send me a detailed quotation. Thank you.`;
+
+      const whatsappUrl = `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(message)}`;
+      window.open(whatsappUrl, '_blank', 'noopener,noreferrer');
+
+      setSubmitted(true);
+      reset();
     } catch (error) {
       console.error('Form submission error:', error);
     }
-  };
-
-  const handleWhatsApp = (data) => {
-    const message = `Hello, I am interested in getting a quote for ${data.service || 'your services'} in ${data.location || 'Kenya'}. My name is ${data.name} and my phone number is ${data.phone}. Project details: ${data.details || 'N/A'}. Budget: ${data.budget || 'Not specified'}.`;
-    const whatsappUrl = `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(message)}`;
-    window.open(whatsappUrl, '_blank', 'noopener,noreferrer');
   };
 
   if (submitted) {
     return (
       <div className={`bg-green-50 border border-green-200 rounded-xl p-6 text-center ${className}`}>
         <div className="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-3">
-          <Send className="w-6 h-6 text-green-600" />
+          <CheckCircle2 className="w-6 h-6 text-green-600" />
         </div>
         <h3 className="font-heading font-bold text-lg text-navy-900 mb-2">Thank You!</h3>
-        <p className="text-sm text-gray-600">
-          {submitType === 'email'
-            ? 'Your inquiry has been sent. A consultant will reach out within 30 minutes.'
-            : 'Redirecting to WhatsApp...'}
+        <p className="text-sm text-gray-600 mb-4">
+          Your quote request has been sent to our team via email. We&apos;ve also opened WhatsApp so you can continue the conversation with us directly.
         </p>
+        <button
+          onClick={() => setSubmitted(false)}
+          className="text-sm font-semibold text-primary-600 hover:text-primary-700"
+        >
+          Submit Another Request
+        </button>
       </div>
     );
   }
@@ -166,32 +182,17 @@ export default function LeadForm({ compact = false, showServiceSelector = true, 
         />
       </div>
 
-      <div className="flex flex-col sm:flex-row gap-3">
-        <button
-          type="submit"
-          disabled={isSubmitting}
-          className="flex-1 btn-primary flex items-center justify-center gap-2"
-        >
-          <Mail className="w-4 h-4" />
-          {isSubmitting ? 'Sending...' : 'Send via Email'}
-        </button>
-        <button
-          type="button"
-          onClick={() => {
-            const formData = new FormData(document.querySelector('form'));
-            const data = Object.fromEntries(formData.entries());
-            handleWhatsApp(data);
-            setSubmitType('whatsapp');
-          }}
-          className="flex-1 bg-green-600 hover:bg-green-700 text-white font-semibold px-6 py-3 rounded-lg shadow-lg shadow-green-600/30 transition-all duration-300 flex items-center justify-center gap-2"
-        >
-          <MessageCircle className="w-4 h-4" />
-          WhatsApp
-        </button>
-      </div>
+      <button
+        type="submit"
+        disabled={isSubmitting}
+        className="w-full btn-cta flex items-center justify-center gap-2"
+      >
+        <MessageCircle className="w-4 h-4" />
+        {isSubmitting ? 'Sending...' : 'Get Quote via Email & WhatsApp'}
+      </button>
 
       <p className="text-xs text-gray-400 text-center">
-        * Required fields. We respond within 30 minutes during business hours.
+        We&apos;ll send your quote request via email and open WhatsApp for instant communication.
       </p>
     </form>
   );

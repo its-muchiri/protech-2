@@ -1,137 +1,422 @@
+﻿'use client';
+
+import { useState } from 'react';
+import { useForm } from 'react-hook-form';
 import Hero from '@/components/Hero';
-import LeadForm from '@/components/LeadForm';
-import TrustBadges from '@/components/TrustBadges';
 import FAQ from '@/components/FAQ';
-import PriceEstimator from '@/components/PriceEstimator';
 import { services } from '@/data/services';
 import { siteFAQs } from '@/data/faqs';
 import Link from 'next/link';
-import { ArrowRight, CheckCircle, Clock, Shield, Star } from 'lucide-react';
+import {
+  ArrowRight,
+  MessageCircle,
+  Award,
+  FolderCheck,
+  Users,
+  Headset,
+  CheckCircle2,
+  Phone,
+  Star,
+  Building2,
+  Droplets,
+  Truck,
+  Wrench,
+  Sun,
+  Home,
+  Shield,
+  Car,
+  Drill,
+  Ruler,
+  Zap,
+  Lightbulb,
+  Sofa,
+  Frame,
+  Heart,
+  Mail,
+} from 'lucide-react';
 
+const WHATSAPP_NUMBER = '254707526602';
+const WHATSAPP_LINK = `https://wa.me/${WHATSAPP_NUMBER}?text=Hello%20ProTech%20Consultants%2C%20I%20would%20like%20to%20request%20a%20quote.`;
+const PHONE = '+254 707 526 602';
 const featuredServices = services.slice(0, 6);
 
+const ICON_MAP = {
+  Building2,
+  Droplets,
+  Truck,
+  Wrench,
+  Sun,
+  Home,
+  Shield,
+  Car,
+  Drill,
+  Ruler,
+  Zap,
+  Lightbulb,
+  Sofa,
+  Frame,
+  Heart,
+};
+
+const CERTS = [
+  { short: 'NCA', full: 'National Construction Authority - Registered and licensed contractor in Kenya.' },
+  { short: 'EPRA', full: 'Energy & Petroleum Regulatory Authority - Certified for solar and energy installations.' },
+  { short: 'NEMA', full: 'National Environment Management Authority - Compliant with all environmental regulations.' },
+  { short: 'KRA', full: 'Kenya Revenue Authority - Fully tax-compliant business.' },
+  { short: 'ERC', full: 'Energy Regulatory Commission - Registered energy service provider.' },
+  { short: 'ISO', full: 'ISO 9001:2015 - Quality management system certified.' },
+];
+
+const TESTIMONIALS = [
+  { name: 'James Kariuki', role: 'Property Developer', location: 'Nairobi', text: "ProTech delivered our 12-unit apartment block on time and within budget. Their NCA-certified team handled everything from foundation to finishing. Exceptional professionalism throughout.", rating: 5 },
+  { name: 'Amina Hassan', role: 'Business Owner', location: 'Mombasa', text: "We had solar panels and a security system installed at our factory. The team was fast, clean and explained everything clearly. Our electricity bill dropped by 60% in the first month.", rating: 5 },
+  { name: 'Peter Mutua', role: 'Facilities Manager', location: 'Kiambu', text: "ProTech drilled our borehole and installed the complete water system within one week. Clean water 24/7 - it has transformed operations at our school. Highly recommended.", rating: 5 },
+];
+
+const VALUE_PROPS = [
+  { icon: Award, title: 'Certified Professionals', desc: 'NCA, EPRA, NEMA and ISO certified. Every project meets regulatory standards.' },
+  { icon: FolderCheck, title: '500+ Projects Delivered', desc: 'Across 17 service lines, residential to industrial, county to county.' },
+  { icon: Users, title: 'Dedicated Project Teams', desc: 'One project manager, one point of contact, end-to-end accountability.' },
+  { icon: Headset, title: '24/7 Support', desc: 'Round-the-clock emergency response for plumbing, electrical and security.' },
+];
+
+function IconBadge({ icon: Icon, color, bg }) {
+  return (
+    <span style={{ background: bg, borderRadius: '50%', width: 48, height: 48, display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }}>
+      <Icon size={22} style={{ color }} strokeWidth={1.75} />
+    </span>
+  );
+}
+
 export default function HomePage() {
+  const [showQuoteForm, setShowQuoteForm] = useState(false);
+  const [submitted, setSubmitted] = useState(false);
+  const { register, handleSubmit, formState: { errors, isSubmitting }, reset } = useForm();
+
+  const onSubmit = async (data) => {
+    try {
+      // Send to email via API
+      await fetch('/api/lead', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ ...data, page: 'Home Page' }),
+      });
+
+      // Open WhatsApp with the message
+      const message = `Hello, I would like to request a quote.
+
+Name: ${data.name}
+Phone: ${data.phone}
+Email: ${data.email || 'Not provided'}
+Service: ${data.service || 'General Inquiry'}
+Location: ${data.location || 'Not specified'}
+
+Project Details:
+${data.details || 'No details provided'}
+
+Please send me a detailed quotation. Thank you.`;
+
+      const whatsappUrl = `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(message)}`;
+      window.open(whatsappUrl, '_blank', 'noopener,noreferrer');
+
+      setSubmitted(true);
+      reset();
+    } catch (error) {
+      console.error('Form submission error:', error);
+    }
+  };
+
   return (
     <div>
       <Hero />
 
-      <section className="section-padding bg-white">
+      {/* Stats Bar */}
+      <div style={{ background: '#0F4C2C' }}>
         <div className="container-custom">
-          <div className="text-center mb-12">
-            <h2 className="section-title">Our Services</h2>
-            <p className="section-subtitle">
-              Comprehensive multi-service solutions for your construction, commercial, and residential needs across Kenya
+          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: 0 }}>
+            {[
+              { value: '500+', label: 'Projects Delivered' },
+              { value: '17+', label: 'Services Offered' },
+              { value: '5+', label: 'Years of Excellence' },
+              { value: '24/7', label: 'Client Support' },
+            ].map((s, i) => (
+              <div key={i} style={{ padding: '28px 24px', textAlign: 'center', borderRight: i < 3 ? '1px solid rgba(255,255,255,0.12)' : 'none' }}>
+                <div style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 800, fontSize: 34, color: '#fff', lineHeight: 1 }}>{s.value}</div>
+                <div style={{ fontSize: 13, color: 'rgba(255,255,255,0.7)', marginTop: 4, fontWeight: 500 }}>{s.label}</div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </div>
+
+      {/* Trust Badges */}
+      <div style={{ background: '#F8FAFC', borderBottom: '1px solid #E2E8F0', padding: '20px 0' }}>
+        <div className="container-custom">
+          <div style={{ display: 'flex', alignItems: 'center', gap: 8, flexWrap: 'wrap', justifyContent: 'center' }}>
+            <span style={{ fontSize: 12, fontWeight: 600, color: '#94A3B8', letterSpacing: '0.08em', textTransform: 'uppercase', marginRight: 8 }}>Certified & Regulated:</span>
+            {CERTS.map(c => (
+              <div key={c.short} style={{ padding: '6px 16px', borderRadius: 999, border: '1.5px solid #E2E8F0', background: '#fff', fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 13, color: '#0B1F3A', cursor: 'default', userSelect: 'none' }}>
+                {c.short}
+              </div>
+            ))}
+          </div>
+        </div>
+      </div>
+
+      {/* Services Grid */}
+      <section className="section-padding" style={{ background: '#fff' }} id="services">
+        <div className="container-custom">
+          <div style={{ textAlign: 'center', marginBottom: 56 }}>
+            <p style={{ fontSize: 13, fontWeight: 600, color: '#15803D', letterSpacing: '0.1em', textTransform: 'uppercase', marginBottom: 8 }}>What We Do</p>
+            <h2 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 'clamp(26px, 3.5vw, 38px)', color: '#0B1F3A', marginBottom: 14 }}>17 Professional Services,<br />One Trusted Partner</h2>
+            <p style={{ fontSize: 16, color: '#334155', maxWidth: 520, margin: '0 auto' }}>
+              Every service is delivered by certified engineers with regulatory compliance built in from day one.
             </p>
           </div>
 
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-            {featuredServices.map((service) => (
-              <Link
-                key={service.slug}
-                href={`/services/${service.slug}`}
-                className="service-card group"
-              >
-                <div className="text-4xl mb-4">{service.icon}</div>
-                <h3 className="font-heading font-semibold text-navy-900 mb-2 group-hover:text-primary-600 transition-colors">
-                  {service.name}
-                </h3>
-                <p className="text-sm text-gray-600 line-clamp-2">
-                  {service.description}
-                </p>
-                <div className="mt-4 flex items-center gap-1 text-sm font-semibold text-primary-600 group-hover:gap-2 transition-all">
-                  Learn More <ArrowRight className="w-4 h-4" />
-                </div>
-              </Link>
-            ))}
+          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: 24 }}>
+            {featuredServices.map((svc, i) => {
+              const ServiceIcon = ICON_MAP[svc.icon] || Award;
+              return (
+                <Link key={i} href={`/services/${svc.slug}`} className="card" style={{ padding: 28, display: 'flex', flexDirection: 'column', gap: 16, textDecoration: 'none' }}>
+                  <div style={{ display: 'flex', alignItems: 'center', gap: 14 }}>
+                    <IconBadge icon={ServiceIcon} color="#0F4C2C" bg="#F0FDF4" />
+                    <h3 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 600, fontSize: 16, color: '#0B1F3A', margin: 0 }}>{svc.name}</h3>
+                  </div>
+                  <p style={{ fontSize: 14, lineHeight: 1.65, color: '#334155', margin: 0 }}>{svc.description}</p>
+                  <span style={{ display: 'inline-flex', alignItems: 'center', gap: 4, fontSize: 13, fontWeight: 600, color: '#0F4C2C', marginTop: 'auto' }}>
+                    Get a Quote <ArrowRight size={13} />
+                  </span>
+                </Link>
+              );
+            })}
           </div>
 
-          <div className="text-center mt-10">
-            <Link href="/services" className="btn-outline inline-flex items-center gap-2">
-              View All 17 Services <ArrowRight className="w-4 h-4" />
-            </Link>
+          <div style={{ marginTop: 48, textAlign: 'center' }}>
+            <Link href="/services" className="btn-cta">View All 17 Services <ArrowRight size={16} /></Link>
           </div>
         </div>
       </section>
 
-      <TrustBadges />
-
-      <section className="section-padding bg-gray-50">
+      {/* Why Choose Us + Quote Form */}
+      <section className="section-padding" style={{ background: '#F8FAFC' }}>
         <div className="container-custom">
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 80, alignItems: 'start' }}>
             <div>
-              <h2 className="section-title">Why Choose Kenya Consultancy?</h2>
-              <p className="text-gray-600 mb-8">
-                We deliver quality, reliability, and value across all our service lines. Here is why Kenyan businesses and homeowners trust us.
+              <p style={{ fontSize: 13, fontWeight: 600, color: '#15803D', letterSpacing: '0.1em', textTransform: 'uppercase', marginBottom: 8 }}>Why ProTech</p>
+              <h2 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 'clamp(26px, 3vw, 36px)', color: '#0B1F3A', marginBottom: 16 }}>Built on Certification, Delivered with Accountability</h2>
+              <p style={{ fontSize: 15, lineHeight: 1.75, color: '#334155', marginBottom: 32 }}>
+                We combine deep technical expertise with genuine project accountability. Every job has a named project manager, a detailed milestone plan, and full regulatory compliance.
               </p>
-              <div className="space-y-6">
-                {[
-                  { icon: Shield, title: 'NCA & EPRA Certified', desc: 'All our construction and solar projects meet the highest regulatory standards.' },
-                  { icon: Clock, title: 'Fast Response', desc: 'We respond to all inquiries within 30 minutes during business hours.' },
-                  { icon: CheckCircle, title: 'Quality Guarantee', desc: 'Every project comes with a warranty and our commitment to excellence.' },
-                  { icon: Star, title: '500+ Completed Projects', desc: 'Trusted by homeowners, businesses, and government agencies across Kenya.' },
-                ].map((item, i) => (
-                  <div key={i} className="flex items-start gap-4">
-                    <div className="w-12 h-12 bg-primary-100 rounded-xl flex items-center justify-center flex-shrink-0">
-                      <item.icon className="w-6 h-6 text-primary-600" />
-                    </div>
+              <div style={{ display: 'flex', flexDirection: 'column', gap: 20 }}>
+                {VALUE_PROPS.map((vp, i) => (
+                  <div key={i} style={{ display: 'flex', gap: 16, alignItems: 'flex-start' }}>
+                    <IconBadge icon={vp.icon} color="#0F4C2C" bg="#F0FDF4" />
                     <div>
-                      <h3 className="font-heading font-semibold text-navy-900 mb-1">{item.title}</h3>
-                      <p className="text-sm text-gray-600">{item.desc}</p>
+                      <div style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 600, fontSize: 15, color: '#0B1F3A', marginBottom: 2 }}>{vp.title}</div>
+                      <div style={{ fontSize: 13, color: '#334155', lineHeight: 1.6 }}>{vp.desc}</div>
                     </div>
                   </div>
                 ))}
               </div>
+              {!showQuoteForm && (
+                <button
+                  onClick={() => setShowQuoteForm(true)}
+                  className="btn-cta"
+                  style={{ marginTop: 32, display: 'inline-flex', alignItems: 'center', gap: 8 }}
+                >
+                  Get a Quote <ArrowRight size={16} />
+                </button>
+              )}
             </div>
-            <div className="bg-white rounded-2xl shadow-xl p-6 md:p-8">
-              <h3 className="font-heading font-bold text-xl mb-6 text-center">Quick Quote</h3>
-              <LeadForm />
-            </div>
-          </div>
-        </div>
-      </section>
 
-      <section className="section-padding bg-white">
-        <div className="container-custom">
-          <div className="text-center mb-12">
-            <h2 className="section-title">Price Estimator</h2>
-            <p className="section-subtitle">
-              Get a rough estimate for your project in seconds
-            </p>
-          </div>
-          <div className="max-w-2xl mx-auto">
-            <PriceEstimator />
-          </div>
-        </div>
-      </section>
-
-      <section className="section-padding bg-gray-50">
-        <div className="container-custom">
-          <div className="text-center mb-12">
-            <h2 className="section-title">What Our Clients Say</h2>
-            <p className="section-subtitle">
-              Trusted by homeowners, businesses, and organizations across Kenya
-            </p>
-          </div>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-            {[
-              { name: 'James Mwangi', location: 'Nairobi', text: 'Excellent construction quality. Our residential project was completed on time and within budget. Highly recommended!', rating: 5 },
-              { name: 'Sarah Wanjiku', location: 'Mombasa', text: 'The solar installation team was professional and knowledgeable. Our business now saves 60% on electricity costs.', rating: 5 },
-              { name: 'David Ochieng', location: 'Kisumu', text: 'Professional plumbing and drainage services. They resolved a chronic leak issue that other contractors could not fix.', rating: 5 },
-            ].map((testimonial, i) => (
-              <div key={i} className="bg-white rounded-xl p-6 shadow-sm border border-gray-100">
-                <div className="flex items-center gap-1 mb-3">
-                  {Array.from({ length: testimonial.rating }).map((_, j) => (
-                    <Star key={j} className="w-4 h-4 fill-yellow-400 text-yellow-400" />
-                  ))}
+            {/* Quote Form Section */}
+            <div id="quote">
+              {submitted ? (
+                <div className="card" style={{ padding: '48px 32px', textAlign: 'center' }}>
+                  <div style={{
+                    width: 72,
+                    height: 72,
+                    borderRadius: '50%',
+                    background: '#F0FDF4',
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                    margin: '0 auto 24px',
+                  }}>
+                    <CheckCircle2 size={36} color="#16A34A" />
+                  </div>
+                  <h3 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 24, color: '#0B1F3A', marginBottom: 12 }}>
+                    Thank You!
+                  </h3>
+                  <p style={{ fontSize: 15, color: '#334155', lineHeight: 1.7, marginBottom: 24 }}>
+                    Your quote request has been sent to our team via email. We&apos;ve also opened WhatsApp so you can continue the conversation with us directly.
+                  </p>
+                  <button
+                    onClick={() => setSubmitted(false)}
+                    className="btn-outline"
+                  >
+                    Submit Another Request
+                  </button>
                 </div>
-                <p className="text-gray-600 text-sm mb-4">&quot;{testimonial.text}&quot;</p>
-                <div className="flex items-center gap-3">
-                  <div className="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center font-bold text-primary-700">
-                    {testimonial.name.charAt(0)}
+              ) : showQuoteForm ? (
+                <div className="card" style={{ padding: 36 }}>
+                  <h3 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 22, color: '#0B1F3A', marginBottom: 4 }}>Request a Free Quote</h3>
+                  <p style={{ fontSize: 14, color: '#94A3B8', marginBottom: 24 }}>We respond within 2 hours. No obligation.</p>
+                  <form onSubmit={handleSubmit(onSubmit)} style={{ display: 'flex', flexDirection: 'column', gap: 14 }}>
+                    <input
+                      type="text"
+                      {...register('name', { required: 'Full name is required' })}
+                      placeholder="Your Full Name *"
+                      style={{ width: '100%', padding: '11px 14px', borderRadius: 6, border: '1.5px solid #E2E8F0', fontSize: 14, color: '#0B1F3A', fontFamily: "'Inter', sans-serif", outline: 'none' }}
+                    />
+                    {errors.name && <p className="form-error">{errors.name.message}</p>}
+
+                    <input
+                      type="tel"
+                      {...register('phone', {
+                        required: 'Phone number is required',
+                        pattern: {
+                          value: /^(\+254|07|01)\d{7,9}$/,
+                          message: 'Valid Kenyan phone number',
+                        },
+                      })}
+                      placeholder="Phone Number *"
+                      style={{ width: '100%', padding: '11px 14px', borderRadius: 6, border: '1.5px solid #E2E8F0', fontSize: 14, color: '#0B1F3A', fontFamily: "'Inter', sans-serif", outline: 'none' }}
+                    />
+                    {errors.phone && <p className="form-error">{errors.phone.message}</p>}
+
+                    <input
+                      type="email"
+                      {...register('email')}
+                      placeholder="Email Address"
+                      style={{ width: '100%', padding: '11px 14px', borderRadius: 6, border: '1.5px solid #E2E8F0', fontSize: 14, color: '#0B1F3A', fontFamily: "'Inter', sans-serif", outline: 'none' }}
+                    />
+
+                    <select
+                      {...register('service', { required: 'Please select a service' })}
+                      style={{ width: '100%', padding: '11px 14px', borderRadius: 6, border: '1.5px solid #E2E8F0', fontSize: 14, color: '#0B1F3A', fontFamily: "'Inter', sans-serif", outline: 'none', background: '#fff' }}
+                    >
+                      <option value="">Select Service *</option>
+                      {services.map(s => <option key={s.slug} value={s.name}>{s.name}</option>)}
+                    </select>
+                    {errors.service && <p className="form-error">{errors.service.message}</p>}
+
+                    <select
+                      {...register('location')}
+                      style={{ width: '100%', padding: '11px 14px', borderRadius: 6, border: '1.5px solid #E2E8F0', fontSize: 14, color: '#0B1F3A', fontFamily: "'Inter', sans-serif", outline: 'none', background: '#fff' }}
+                    >
+                      <option value="">County / Location</option>
+                      {['Nairobi', 'Kiambu', 'Machakos', 'Mombasa', 'Kisumu', 'Nakuru', 'Thika', 'Other'].map(l => <option key={l} value={l}>{l}</option>)}
+                    </select>
+
+                    <textarea
+                      {...register('details')}
+                      placeholder="Project details (optional)"
+                      rows={3}
+                      style={{ width: '100%', padding: '11px 14px', borderRadius: 6, border: '1.5px solid #E2E8F0', fontSize: 14, color: '#0B1F3A', fontFamily: "'Inter', sans-serif", outline: 'none', resize: 'vertical' }}
+                    />
+
+                    <button
+                      type="submit"
+                      disabled={isSubmitting}
+                      className="btn-cta"
+                      style={{ width: '100%', justifyContent: 'center', padding: '14px 24px', fontSize: 15, display: 'flex', alignItems: 'center', gap: 8 }}
+                    >
+                      <MessageCircle size={16} />
+                      {isSubmitting ? 'Sending...' : 'Get Quote via Email & WhatsApp'}
+                    </button>
+
+                    <p style={{ fontSize: 11, color: '#94A3B8', textAlign: 'center', marginTop: 4 }}>
+                      We&apos;ll send your quote request via email and open WhatsApp for instant communication.
+                    </p>
+                  </form>
+                </div>
+              ) : (
+                <div className="card" style={{ padding: 36, textAlign: 'center' }}>
+                  <div style={{
+                    width: 64,
+                    height: 64,
+                    borderRadius: '50%',
+                    background: '#F0FDF4',
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                    margin: '0 auto 20px',
+                  }}>
+                    <MessageCircle size={28} color="#0F4C2C" />
+                  </div>
+                  <h3 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 20, color: '#0B1F3A', marginBottom: 12 }}>Ready to Get Started?</h3>
+                  <p style={{ fontSize: 14, color: '#64748B', marginBottom: 24, lineHeight: 1.6 }}>
+                    Click the button below to request a free quote. We&apos;ll send your details via email and open WhatsApp for instant communication.
+                  </p>
+                  <div style={{ display: 'flex', flexDirection: 'column', gap: 12, marginBottom: 24, textAlign: 'left' }}>
+                    <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+                      <CheckCircle2 size={18} color="#16A34A" />
+                      <span style={{ fontSize: 14, color: '#334155' }}>Quote sent to our team via email</span>
+                    </div>
+                    <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+                      <CheckCircle2 size={18} color="#16A34A" />
+                      <span style={{ fontSize: 14, color: '#334155' }}>WhatsApp opens for direct conversation</span>
+                    </div>
+                    <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+                      <CheckCircle2 size={18} color="#16A34A" />
+                      <span style={{ fontSize: 14, color: '#334155' }}>Response within 2 hours guaranteed</span>
+                    </div>
+                  </div>
+                  <button
+                    onClick={() => setShowQuoteForm(true)}
+                    className="btn-cta"
+                    style={{ width: '100%', justifyContent: 'center', padding: '14px 24px', fontSize: 15, display: 'flex', alignItems: 'center', gap: 8 }}
+                  >
+                    <ArrowRight size={16} /> Get a Quote
+                  </button>
+                </div>
+              )}
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* CTA Strip */}
+      <div style={{ background: '#EA580C', padding: '40px 0' }}>
+        <div className="container-custom" style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 24, flexWrap: 'wrap' }}>
+          <div>
+            <div style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 22, color: '#fff' }}>Need an urgent assessment or emergency service?</div>
+            <div style={{ fontSize: 14, color: 'rgba(255,255,255,0.85)', marginTop: 4 }}>Our teams are on standby 24/7 across Nairobi and surrounding counties.</div>
+          </div>
+          <div style={{ display: 'flex', gap: 12 }}>
+            <a href={`tel:${PHONE}`} style={{ background: '#fff', color: '#EA580C', padding: '12px 24px', borderRadius: 6, fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 14, textDecoration: 'none', display: 'flex', alignItems: 'center', gap: 8 }}>
+              <Phone size={15} /> {PHONE}
+            </a>
+            <a href={WHATSAPP_LINK} className="btn-whatsapp" style={{ fontSize: 14 }}><MessageCircle size={15} /> WhatsApp</a>
+          </div>
+        </div>
+      </div>
+
+      {/* Testimonials */}
+      <section className="section-padding" style={{ background: '#fff' }}>
+        <div className="container-custom">
+          <div style={{ textAlign: 'center', marginBottom: 56 }}>
+            <p style={{ fontSize: 13, fontWeight: 600, color: '#15803D', letterSpacing: '0.1em', textTransform: 'uppercase', marginBottom: 8 }}>Client Stories</p>
+            <h2 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 'clamp(26px, 3.5vw, 38px)', color: '#0B1F3A' }}>What Our Clients Say</h2>
+          </div>
+          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: 24 }}>
+            {TESTIMONIALS.map((t, i) => (
+              <div key={i} className="card" style={{ padding: 32, display: 'flex', flexDirection: 'column', gap: 16 }}>
+                <span style={{ display: 'flex', gap: 2 }}>
+                  {Array.from({ length: t.rating }).map((_, j) => (
+                    <Star key={j} size={14} fill="#EA580C" color="#EA580C" />
+                  ))}
+                </span>
+                <p style={{ fontSize: 15, lineHeight: 1.7, color: '#334155', margin: 0, fontStyle: 'italic' }}>&quot;{t.text}&quot;</p>
+                <div style={{ display: 'flex', alignItems: 'center', gap: 12, marginTop: 'auto', paddingTop: 16, borderTop: '1px solid #E2E8F0' }}>
+                  <div style={{ width: 44, height: 44, borderRadius: '50%', background: '#F0FDF4', display: 'flex', alignItems: 'center', justifyContent: 'center', fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 16, color: '#0F4C2C' }}>
+                    {t.name.charAt(0)}
                   </div>
                   <div>
-                    <p className="font-semibold text-sm text-navy-900">{testimonial.name}</p>
-                    <p className="text-xs text-gray-400">{testimonial.location}</p>
+                    <div style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 600, fontSize: 14, color: '#0B1F3A' }}>{t.name}</div>
+                    <div style={{ fontSize: 12, color: '#94A3B8' }}>{t.role} - {t.location}</div>
                   </div>
                 </div>
               </div>
@@ -142,29 +427,32 @@ export default function HomePage() {
 
       <FAQ faqs={siteFAQs} />
 
-      <section className="section-padding bg-primary-600">
-        <div className="container-custom text-center">
-          <h2 className="text-3xl md:text-4xl font-heading font-bold text-white mb-4">
-            Ready to Start Your Project?
+      {/* Final CTA */}
+      <section style={{ background: 'linear-gradient(135deg, #0B1F3A 0%, #0F4C2C 100%)', padding: '80px 0', position: 'relative', overflow: 'hidden' }}>
+        <div style={{ position: 'absolute', inset: 0, backgroundImage: 'radial-gradient(circle at 80% 50%, rgba(21,128,61,0.3) 0%, transparent 60%)' }} />
+        <div className="container-custom" style={{ position: 'relative', textAlign: 'center' }}>
+          <h2 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 800, fontSize: 'clamp(26px, 4vw, 44px)', color: '#fff', marginBottom: 14 }}>
+            Start Your Project Today
           </h2>
-          <p className="text-lg text-primary-100 mb-8 max-w-2xl mx-auto">
-            Get a free, no-obligation quote today. We respond within 30 minutes.
+          <p style={{ fontSize: 16, color: 'rgba(255,255,255,0.75)', marginBottom: 36, maxWidth: 480, margin: '0 auto 36px' }}>
+            Get a free, no-obligation quote from Kenya&apos;s most trusted multi-service contractor. Response within 2 hours guaranteed.
           </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link href="/request-a-quote" className="bg-white text-primary-700 hover:bg-primary-50 font-bold px-8 py-4 rounded-xl shadow-xl transition-all duration-300 flex items-center justify-center gap-2">
-              Request Free Quote <ArrowRight className="w-5 h-5" />
-            </Link>
-            <a
-              href="https://wa.me/254700000000?text=Hello%2C%20I%20need%20assistance%20with%20your%20services"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="bg-green-600 hover:bg-green-700 text-white font-bold px-8 py-4 rounded-xl shadow-xl shadow-green-600/30 transition-all duration-300 flex items-center justify-center gap-2"
+          <div style={{ display: 'flex', gap: 14, justifyContent: 'center', flexWrap: 'wrap' }}>
+            <button
+              onClick={() => { setShowQuoteForm(true); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
+              className="btn-cta"
+              style={{ fontSize: 15, padding: '14px 32px', display: 'flex', alignItems: 'center', gap: 8 }}
             >
-              <svg viewBox="0 0 24 24" className="w-5 h-5 fill-white" xmlns="http://www.w3.org/2000/svg">
-                <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347"/>
-              </svg>
-              Chat on WhatsApp
-            </a>
+              <ArrowRight size={16} /> Get a Quote
+            </button>
+            <a href={WHATSAPP_LINK} className="btn-whatsapp" style={{ fontSize: 15, padding: '14px 32px' }}><MessageCircle size={16} /> WhatsApp Us</a>
+          </div>
+          <div style={{ marginTop: 40, display: 'flex', justifyContent: 'center', gap: 24, flexWrap: 'wrap' }}>
+            {['Free Quote', 'Certified Engineers', 'Pan-Kenya Coverage', '24/7 Support'].map(b => (
+              <div key={b} style={{ display: 'flex', alignItems: 'center', gap: 6, color: 'rgba(255,255,255,0.75)', fontSize: 13 }}>
+                <CheckCircle2 size={14} color="#86EFAC" /> {b}
+              </div>
+            ))}
           </div>
         </div>
       </section>
