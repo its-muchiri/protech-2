@@ -1,41 +1,5 @@
 import { services } from '@/data/services';
-import Link from 'next/link';
-import {
-  ArrowRight,
-  Building2,
-  Droplets,
-  Truck,
-  Wrench,
-  Sun,
-  Home,
-  Shield,
-  Car,
-  Drill,
-  Ruler,
-  Zap,
-  Lightbulb,
-  Sofa,
-  Frame,
-  Heart,
-} from 'lucide-react';
-
-const ICON_MAP = {
-  Building2,
-  Droplets,
-  Truck,
-  Wrench,
-  Sun,
-  Home,
-  Shield,
-  Car,
-  Drill,
-  Ruler,
-  Zap,
-  Lightbulb,
-  Sofa,
-  Frame,
-  Heart,
-};
+import ServiceCard from '@/components/ServiceCard';
 
 export const metadata = {
   title: 'All Services | ProTech Consulting Kenya',
@@ -44,50 +8,55 @@ export const metadata = {
 
 export default function ServicesPage() {
   return (
-    <div className="section-padding">
-      <div className="container-custom">
-        <div className="text-center mb-12">
-          <h1 className="section-title">All Services</h1>
-          <p className="section-subtitle">
+    <div>
+      {/* Hero */}
+      <section style={{
+        background: 'linear-gradient(135deg, #0B1F3A 0%, #0F4C2C 100%)',
+        padding: '80px 0 60px',
+        position: 'relative',
+        overflow: 'hidden',
+      }}>
+        <div style={{
+          position: 'absolute',
+          inset: 0,
+          backgroundImage: 'radial-gradient(circle at 70% 30%, rgba(234,88,12,0.15) 0%, transparent 50%)',
+        }} />
+        <div className="container-custom" style={{ position: 'relative', textAlign: 'center' }}>
+          <h1 style={{
+            fontFamily: "'Poppins', sans-serif",
+            fontWeight: 800,
+            fontSize: 'clamp(28px, 4vw, 44px)',
+            color: '#fff',
+            marginBottom: 16,
+          }}>
+            All Services
+          </h1>
+          <p style={{
+            fontSize: 17,
+            color: 'rgba(255,255,255,0.75)',
+            maxWidth: 600,
+            margin: '0 auto',
+            lineHeight: 1.7,
+          }}>
             Comprehensive multi-service solutions for your construction, commercial, and residential needs across Kenya
           </p>
         </div>
+      </section>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {services.map((service) => {
-            const ServiceIcon = ICON_MAP[service.icon] || Building2;
-            return (
-              <Link
-                key={service.slug}
-                href={`/services/${service.slug}`}
-                className="service-card group"
-              >
-                <div style={{
-                  width: 56,
-                  height: 56,
-                  borderRadius: 12,
-                  background: '#F0FDF4',
-                  display: 'flex',
-                  alignItems: 'center',
-                  justifyContent: 'center',
-                  marginBottom: 16,
-                }}>
-                  <ServiceIcon size={28} color="#0F4C2C" strokeWidth={1.75} />
-                </div>
-                <h3 className="font-heading font-semibold text-navy-900 mb-2 group-hover:text-primary-600 transition-colors">
-                  {service.name}
-                </h3>
-                <p className="text-sm text-gray-600 line-clamp-2 mb-4">
-                  {service.description}
-                </p>
-                <div className="flex items-center gap-1 text-sm font-semibold text-primary-600 group-hover:gap-2 transition-all">
-                  View Details <ArrowRight className="w-4 h-4" />
-                </div>
-              </Link>
-            );
-          })}
+      {/* Services Grid */}
+      <section style={{ background: '#F0FDF4', padding: '80px 0' }}>
+        <div className="container-custom">
+          <div style={{
+            display: 'grid',
+            gridTemplateColumns: 'repeat(auto-fill, minmax(340px, 1fr))',
+            gap: 28,
+          }}>
+            {services.map((service) => (
+              <ServiceCard key={service.slug} service={service} />
+            ))}
+          </div>
         </div>
-      </div>
+      </section>
     </div>
   );
 }

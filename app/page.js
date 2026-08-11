@@ -4,6 +4,7 @@ import { useState } from 'react';
 import { useForm } from 'react-hook-form';
 import Hero from '@/components/Hero';
 import FAQ from '@/components/FAQ';
+import ServiceCard from '@/components/ServiceCard';
 import { services } from '@/data/services';
 import { siteFAQs } from '@/data/faqs';
 import Link from 'next/link';
@@ -80,13 +81,23 @@ const VALUE_PROPS = [
   { icon: Headset, title: '24/7 Support', desc: 'Round-the-clock emergency response for plumbing, electrical and security.' },
 ];
 
-function IconBadge({ icon: Icon, color, bg }) {
-  return (
-    <span style={{ background: bg, borderRadius: '50%', width: 48, height: 48, display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }}>
-      <Icon size={22} style={{ color }} strokeWidth={1.75} />
-    </span>
-  );
-}
+const glass = {
+  background: 'rgba(255, 255, 255, 0.6)',
+  backdropFilter: 'blur(16px)',
+  WebkitBackdropFilter: 'blur(16px)',
+  border: '1px solid rgba(255, 255, 255, 0.3)',
+  borderRadius: 16,
+  boxShadow: '0 8px 32px rgba(0, 0, 0, 0.08)',
+};
+
+const glassDark = {
+  background: 'rgba(11, 31, 58, 0.55)',
+  backdropFilter: 'blur(20px)',
+  WebkitBackdropFilter: 'blur(20px)',
+  border: '1px solid rgba(255, 255, 255, 0.15)',
+  borderRadius: 16,
+  boxShadow: '0 8px 32px rgba(0, 0, 0, 0.18)',
+};
 
 export default function HomePage() {
   const [showQuoteForm, setShowQuoteForm] = useState(false);
@@ -95,14 +106,12 @@ export default function HomePage() {
 
   const onSubmit = async (data) => {
     try {
-      // Send to email via API
       await fetch('/api/lead', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ ...data, page: 'Home Page' }),
       });
 
-      // Open WhatsApp with the message
       const message = `Hello, I would like to request a quote.
 
 Name: ${data.name}
@@ -164,7 +173,7 @@ Please send me a detailed quotation. Thank you.`;
       </div>
 
       {/* Services Grid */}
-      <section className="section-padding" style={{ background: '#fff' }} id="services">
+      <section className="section-padding" style={{ background: '#F0FDF4' }} id="services">
         <div className="container-custom">
           <div style={{ textAlign: 'center', marginBottom: 56 }}>
             <p style={{ fontSize: 13, fontWeight: 600, color: '#15803D', letterSpacing: '0.1em', textTransform: 'uppercase', marginBottom: 8 }}>What We Do</p>
@@ -175,33 +184,21 @@ Please send me a detailed quotation. Thank you.`;
           </div>
 
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: 24 }}>
-            {featuredServices.map((svc, i) => {
-              const ServiceIcon = ICON_MAP[svc.icon] || Award;
-              return (
-                <Link key={i} href={`/services/${svc.slug}`} className="card" style={{ padding: 28, display: 'flex', flexDirection: 'column', gap: 16, textDecoration: 'none' }}>
-                  <div style={{ display: 'flex', alignItems: 'center', gap: 14 }}>
-                    <IconBadge icon={ServiceIcon} color="#0F4C2C" bg="#F0FDF4" />
-                    <h3 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 600, fontSize: 16, color: '#0B1F3A', margin: 0 }}>{svc.name}</h3>
-                  </div>
-                  <p style={{ fontSize: 14, lineHeight: 1.65, color: '#334155', margin: 0 }}>{svc.description}</p>
-                  <span style={{ display: 'inline-flex', alignItems: 'center', gap: 4, fontSize: 13, fontWeight: 600, color: '#0F4C2C', marginTop: 'auto' }}>
-                    Get a Quote <ArrowRight size={13} />
-                  </span>
-                </Link>
-              );
-            })}
+            {featuredServices.map((svc, i) => (
+              <ServiceCard key={i} service={svc} />
+            ))}
           </div>
 
           <div style={{ marginTop: 48, textAlign: 'center' }}>
-            <Link href="/services" className="btn-cta">View All 17 Services <ArrowRight size={16} /></Link>
+            <Link href="/services" className="btn-cta" style={{ backdropFilter: 'blur(8px)' }}>View All 17 Services <ArrowRight size={16} /></Link>
           </div>
         </div>
       </section>
 
       {/* Why Choose Us + Quote Form */}
-      <section className="section-padding" style={{ background: '#F8FAFC' }}>
+      <section className="section-padding" style={{ position: 'relative', background: 'linear-gradient(135deg, #E2E8F0 0%, #F0FDF4 100%)' }}>
         <div className="container-custom">
-          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 80, alignItems: 'start' }}>
+          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 60, alignItems: 'start' }}>
             <div>
               <p style={{ fontSize: 13, fontWeight: 600, color: '#15803D', letterSpacing: '0.1em', textTransform: 'uppercase', marginBottom: 8 }}>Why ProTech</p>
               <h2 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 'clamp(26px, 3vw, 36px)', color: '#0B1F3A', marginBottom: 16 }}>Built on Certification, Delivered with Accountability</h2>
@@ -211,7 +208,9 @@ Please send me a detailed quotation. Thank you.`;
               <div style={{ display: 'flex', flexDirection: 'column', gap: 20 }}>
                 {VALUE_PROPS.map((vp, i) => (
                   <div key={i} style={{ display: 'flex', gap: 16, alignItems: 'flex-start' }}>
-                    <IconBadge icon={vp.icon} color="#0F4C2C" bg="#F0FDF4" />
+                    <span style={{ ...glass, width: 48, height: 48, display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0, borderRadius: 12 }}>
+                      <vp.icon size={22} style={{ color: '#0F4C2C' }} strokeWidth={1.75} />
+                    </span>
                     <div>
                       <div style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 600, fontSize: 15, color: '#0B1F3A', marginBottom: 2 }}>{vp.title}</div>
                       <div style={{ fontSize: 13, color: '#334155', lineHeight: 1.6 }}>{vp.desc}</div>
@@ -233,16 +232,18 @@ Please send me a detailed quotation. Thank you.`;
             {/* Quote Form Section */}
             <div id="quote">
               {submitted ? (
-                <div className="card" style={{ padding: '48px 32px', textAlign: 'center' }}>
+                <div style={{ ...glass, padding: '48px 32px', textAlign: 'center' }}>
                   <div style={{
                     width: 72,
                     height: 72,
                     borderRadius: '50%',
-                    background: '#F0FDF4',
+                    background: 'rgba(16, 185, 129, 0.15)',
+                    backdropFilter: 'blur(4px)',
                     display: 'flex',
                     alignItems: 'center',
                     justifyContent: 'center',
                     margin: '0 auto 24px',
+                    border: '1px solid rgba(16, 185, 129, 0.3)',
                   }}>
                     <CheckCircle2 size={36} color="#16A34A" />
                   </div>
@@ -260,7 +261,7 @@ Please send me a detailed quotation. Thank you.`;
                   </button>
                 </div>
               ) : showQuoteForm ? (
-                <div className="card" style={{ padding: 36 }}>
+                <div style={{ ...glass, padding: 36 }}>
                   <h3 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 22, color: '#0B1F3A', marginBottom: 4 }}>Request a Free Quote</h3>
                   <p style={{ fontSize: 14, color: '#94A3B8', marginBottom: 24 }}>We respond within 2 hours. No obligation.</p>
                   <form onSubmit={handleSubmit(onSubmit)} style={{ display: 'flex', flexDirection: 'column', gap: 14 }}>
@@ -268,7 +269,7 @@ Please send me a detailed quotation. Thank you.`;
                       type="text"
                       {...register('name', { required: 'Full name is required' })}
                       placeholder="Your Full Name *"
-                      style={{ width: '100%', padding: '11px 14px', borderRadius: 6, border: '1.5px solid #E2E8F0', fontSize: 14, color: '#0B1F3A', fontFamily: "'Inter', sans-serif", outline: 'none' }}
+                      style={{ width: '100%', padding: '11px 14px', borderRadius: 8, border: '1.5px solid rgba(255,255,255,0.4)', background: 'rgba(255,255,255,0.5)', backdropFilter: 'blur(4px)', fontSize: 14, color: '#0B1F3A', fontFamily: "'Inter', sans-serif", outline: 'none' }}
                     />
                     {errors.name && <p className="form-error">{errors.name.message}</p>}
 
@@ -282,7 +283,7 @@ Please send me a detailed quotation. Thank you.`;
                         },
                       })}
                       placeholder="Phone Number *"
-                      style={{ width: '100%', padding: '11px 14px', borderRadius: 6, border: '1.5px solid #E2E8F0', fontSize: 14, color: '#0B1F3A', fontFamily: "'Inter', sans-serif", outline: 'none' }}
+                      style={{ width: '100%', padding: '11px 14px', borderRadius: 8, border: '1.5px solid rgba(255,255,255,0.4)', background: 'rgba(255,255,255,0.5)', backdropFilter: 'blur(4px)', fontSize: 14, color: '#0B1F3A', fontFamily: "'Inter', sans-serif", outline: 'none' }}
                     />
                     {errors.phone && <p className="form-error">{errors.phone.message}</p>}
 
@@ -290,12 +291,12 @@ Please send me a detailed quotation. Thank you.`;
                       type="email"
                       {...register('email')}
                       placeholder="Email Address"
-                      style={{ width: '100%', padding: '11px 14px', borderRadius: 6, border: '1.5px solid #E2E8F0', fontSize: 14, color: '#0B1F3A', fontFamily: "'Inter', sans-serif", outline: 'none' }}
+                      style={{ width: '100%', padding: '11px 14px', borderRadius: 8, border: '1.5px solid rgba(255,255,255,0.4)', background: 'rgba(255,255,255,0.5)', backdropFilter: 'blur(4px)', fontSize: 14, color: '#0B1F3A', fontFamily: "'Inter', sans-serif", outline: 'none' }}
                     />
 
                     <select
                       {...register('service', { required: 'Please select a service' })}
-                      style={{ width: '100%', padding: '11px 14px', borderRadius: 6, border: '1.5px solid #E2E8F0', fontSize: 14, color: '#0B1F3A', fontFamily: "'Inter', sans-serif", outline: 'none', background: '#fff' }}
+                      style={{ width: '100%', padding: '11px 14px', borderRadius: 8, border: '1.5px solid rgba(255,255,255,0.4)', background: 'rgba(255,255,255,0.5)', backdropFilter: 'blur(4px)', fontSize: 14, color: '#0B1F3A', fontFamily: "'Inter', sans-serif", outline: 'none' }}
                     >
                       <option value="">Select Service *</option>
                       {services.map(s => <option key={s.slug} value={s.name}>{s.name}</option>)}
@@ -304,7 +305,7 @@ Please send me a detailed quotation. Thank you.`;
 
                     <select
                       {...register('location')}
-                      style={{ width: '100%', padding: '11px 14px', borderRadius: 6, border: '1.5px solid #E2E8F0', fontSize: 14, color: '#0B1F3A', fontFamily: "'Inter', sans-serif", outline: 'none', background: '#fff' }}
+                      style={{ width: '100%', padding: '11px 14px', borderRadius: 8, border: '1.5px solid rgba(255,255,255,0.4)', background: 'rgba(255,255,255,0.5)', backdropFilter: 'blur(4px)', fontSize: 14, color: '#0B1F3A', fontFamily: "'Inter', sans-serif", outline: 'none' }}
                     >
                       <option value="">County / Location</option>
                       {['Nairobi', 'Kiambu', 'Machakos', 'Mombasa', 'Kisumu', 'Nakuru', 'Thika', 'Other'].map(l => <option key={l} value={l}>{l}</option>)}
@@ -314,7 +315,7 @@ Please send me a detailed quotation. Thank you.`;
                       {...register('details')}
                       placeholder="Project details (optional)"
                       rows={3}
-                      style={{ width: '100%', padding: '11px 14px', borderRadius: 6, border: '1.5px solid #E2E8F0', fontSize: 14, color: '#0B1F3A', fontFamily: "'Inter', sans-serif", outline: 'none', resize: 'vertical' }}
+                      style={{ width: '100%', padding: '11px 14px', borderRadius: 8, border: '1.5px solid rgba(255,255,255,0.4)', background: 'rgba(255,255,255,0.5)', backdropFilter: 'blur(4px)', fontSize: 14, color: '#0B1F3A', fontFamily: "'Inter', sans-serif", outline: 'none', resize: 'vertical' }}
                     />
 
                     <button
@@ -333,16 +334,18 @@ Please send me a detailed quotation. Thank you.`;
                   </form>
                 </div>
               ) : (
-                <div className="card" style={{ padding: 36, textAlign: 'center' }}>
+                <div style={{ ...glass, padding: 36, textAlign: 'center' }}>
                   <div style={{
                     width: 64,
                     height: 64,
                     borderRadius: '50%',
-                    background: '#F0FDF4',
+                    background: 'rgba(15, 76, 44, 0.1)',
+                    backdropFilter: 'blur(4px)',
                     display: 'flex',
                     alignItems: 'center',
                     justifyContent: 'center',
                     margin: '0 auto 20px',
+                    border: '1px solid rgba(15, 76, 44, 0.2)',
                   }}>
                     <MessageCircle size={28} color="#0F4C2C" />
                   </div>
@@ -351,18 +354,12 @@ Please send me a detailed quotation. Thank you.`;
                     Click the button below to request a free quote. We&apos;ll send your details via email and open WhatsApp for instant communication.
                   </p>
                   <div style={{ display: 'flex', flexDirection: 'column', gap: 12, marginBottom: 24, textAlign: 'left' }}>
-                    <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
-                      <CheckCircle2 size={18} color="#16A34A" />
-                      <span style={{ fontSize: 14, color: '#334155' }}>Quote sent to our team via email</span>
-                    </div>
-                    <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
-                      <CheckCircle2 size={18} color="#16A34A" />
-                      <span style={{ fontSize: 14, color: '#334155' }}>WhatsApp opens for direct conversation</span>
-                    </div>
-                    <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
-                      <CheckCircle2 size={18} color="#16A34A" />
-                      <span style={{ fontSize: 14, color: '#334155' }}>Response within 2 hours guaranteed</span>
-                    </div>
+                    {['Quote sent to our team via email', 'WhatsApp opens for direct conversation', 'Response within 2 hours guaranteed'].map((text, i) => (
+                      <div key={i} style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+                        <CheckCircle2 size={18} color="#16A34A" />
+                        <span style={{ fontSize: 14, color: '#334155' }}>{text}</span>
+                      </div>
+                    ))}
                   </div>
                   <button
                     onClick={() => setShowQuoteForm(true)}
@@ -379,14 +376,24 @@ Please send me a detailed quotation. Thank you.`;
       </section>
 
       {/* CTA Strip */}
-      <div style={{ background: '#EA580C', padding: '40px 0' }}>
-        <div className="container-custom" style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 24, flexWrap: 'wrap' }}>
-          <div>
+      <div style={{ position: 'relative', overflow: 'hidden' }}>
+        <div style={{
+          position: 'absolute',
+          inset: 0,
+          background: 'linear-gradient(135deg, #EA580C 0%, #C2410C 100%)',
+        }} />
+        <div style={{
+          position: 'absolute',
+          inset: 0,
+          backgroundImage: 'url("data:image/svg+xml,%3Csvg width=\'60\' height=\'60\' viewBox=\'0 0 60 60\' xmlns=\'http://www.w3.org/2000/svg\'%3E%3Cg fill=\'none\' fill-rule=\'evenodd\'%3E%3Cg fill=\'%23ffffff\' fill-opacity=\'0.05\'%3E%3Cpath d=\'M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z\'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E")',
+        }} />
+        <div className="container-custom" style={{ position: 'relative', display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 24, flexWrap: 'wrap', padding: '40px 0' }}>
+          <div style={{ ...glassDark, padding: '24px 32px', flex: 1, minWidth: 280 }}>
             <div style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 22, color: '#fff' }}>Need an urgent assessment or emergency service?</div>
-            <div style={{ fontSize: 14, color: 'rgba(255,255,255,0.85)', marginTop: 4 }}>Our teams are on standby 24/7 across Nairobi and surrounding counties.</div>
+            <div style={{ fontSize: 14, color: 'rgba(255,255,255,0.8)', marginTop: 4 }}>Our teams are on standby 24/7 across Nairobi and surrounding counties.</div>
           </div>
-          <div style={{ display: 'flex', gap: 12 }}>
-            <a href={`tel:${PHONE}`} style={{ background: '#fff', color: '#EA580C', padding: '12px 24px', borderRadius: 6, fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 14, textDecoration: 'none', display: 'flex', alignItems: 'center', gap: 8 }}>
+          <div style={{ display: 'flex', gap: 12, flexWrap: 'wrap' }}>
+            <a href={`tel:${PHONE}`} style={{ ...glassDark, padding: '12px 24px', color: '#fff', fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 14, textDecoration: 'none', display: 'flex', alignItems: 'center', gap: 8 }}>
               <Phone size={15} /> {PHONE}
             </a>
             <a href={WHATSAPP_LINK} className="btn-whatsapp" style={{ fontSize: 14 }}><MessageCircle size={15} /> WhatsApp</a>
@@ -395,28 +402,29 @@ Please send me a detailed quotation. Thank you.`;
       </div>
 
       {/* Testimonials */}
-      <section className="section-padding" style={{ background: '#fff' }}>
-        <div className="container-custom">
+      <section className="section-padding" style={{ position: 'relative', background: 'linear-gradient(135deg, #F0FDF4 0%, #E0F2FE 100%)' }}>
+        <div style={{ position: 'absolute', inset: 0, backgroundImage: 'radial-gradient(circle at 20% 30%, rgba(15,76,44,0.08) 0%, transparent 50%), radial-gradient(circle at 80% 70%, rgba(234,88,12,0.06) 0%, transparent 50%)' }} />
+        <div className="container-custom" style={{ position: 'relative' }}>
           <div style={{ textAlign: 'center', marginBottom: 56 }}>
             <p style={{ fontSize: 13, fontWeight: 600, color: '#15803D', letterSpacing: '0.1em', textTransform: 'uppercase', marginBottom: 8 }}>Client Stories</p>
             <h2 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 'clamp(26px, 3.5vw, 38px)', color: '#0B1F3A' }}>What Our Clients Say</h2>
           </div>
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: 24 }}>
             {TESTIMONIALS.map((t, i) => (
-              <div key={i} className="card" style={{ padding: 32, display: 'flex', flexDirection: 'column', gap: 16 }}>
+              <div key={i} style={{ ...glass, padding: 32, display: 'flex', flexDirection: 'column', gap: 16 }}>
                 <span style={{ display: 'flex', gap: 2 }}>
                   {Array.from({ length: t.rating }).map((_, j) => (
                     <Star key={j} size={14} fill="#EA580C" color="#EA580C" />
                   ))}
                 </span>
                 <p style={{ fontSize: 15, lineHeight: 1.7, color: '#334155', margin: 0, fontStyle: 'italic' }}>&quot;{t.text}&quot;</p>
-                <div style={{ display: 'flex', alignItems: 'center', gap: 12, marginTop: 'auto', paddingTop: 16, borderTop: '1px solid #E2E8F0' }}>
-                  <div style={{ width: 44, height: 44, borderRadius: '50%', background: '#F0FDF4', display: 'flex', alignItems: 'center', justifyContent: 'center', fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 16, color: '#0F4C2C' }}>
+                <div style={{ display: 'flex', alignItems: 'center', gap: 12, marginTop: 'auto', paddingTop: 16, borderTop: '1px solid rgba(255,255,255,0.3)' }}>
+                  <div style={{ width: 44, height: 44, borderRadius: '50%', background: 'rgba(15, 76, 44, 0.1)', backdropFilter: 'blur(4px)', display: 'flex', alignItems: 'center', justifyContent: 'center', fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 16, color: '#0F4C2C', border: '1px solid rgba(15, 76, 44, 0.2)' }}>
                     {t.name.charAt(0)}
                   </div>
                   <div>
                     <div style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 600, fontSize: 14, color: '#0B1F3A' }}>{t.name}</div>
-                    <div style={{ fontSize: 12, color: '#94A3B8' }}>{t.role} - {t.location}</div>
+                    <div style={{ fontSize: 12, color: '#64748B' }}>{t.role} - {t.location}</div>
                   </div>
                 </div>
               </div>
@@ -428,31 +436,34 @@ Please send me a detailed quotation. Thank you.`;
       <FAQ faqs={siteFAQs} />
 
       {/* Final CTA */}
-      <section style={{ background: 'linear-gradient(135deg, #0B1F3A 0%, #0F4C2C 100%)', padding: '80px 0', position: 'relative', overflow: 'hidden' }}>
+      <section style={{ position: 'relative', overflow: 'hidden', padding: '80px 0' }}>
+        <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(135deg, #0B1F3A 0%, #0F4C2C 100%)' }} />
         <div style={{ position: 'absolute', inset: 0, backgroundImage: 'radial-gradient(circle at 80% 50%, rgba(21,128,61,0.3) 0%, transparent 60%)' }} />
         <div className="container-custom" style={{ position: 'relative', textAlign: 'center' }}>
-          <h2 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 800, fontSize: 'clamp(26px, 4vw, 44px)', color: '#fff', marginBottom: 14 }}>
-            Start Your Project Today
-          </h2>
-          <p style={{ fontSize: 16, color: 'rgba(255,255,255,0.75)', marginBottom: 36, maxWidth: 480, margin: '0 auto 36px' }}>
-            Get a free, no-obligation quote from Kenya&apos;s most trusted multi-service contractor. Response within 2 hours guaranteed.
-          </p>
-          <div style={{ display: 'flex', gap: 14, justifyContent: 'center', flexWrap: 'wrap' }}>
-            <button
-              onClick={() => { setShowQuoteForm(true); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
-              className="btn-cta"
-              style={{ fontSize: 15, padding: '14px 32px', display: 'flex', alignItems: 'center', gap: 8 }}
-            >
-              <ArrowRight size={16} /> Get a Quote
-            </button>
-            <a href={WHATSAPP_LINK} className="btn-whatsapp" style={{ fontSize: 15, padding: '14px 32px' }}><MessageCircle size={16} /> WhatsApp Us</a>
-          </div>
-          <div style={{ marginTop: 40, display: 'flex', justifyContent: 'center', gap: 24, flexWrap: 'wrap' }}>
-            {['Free Quote', 'Certified Engineers', 'Pan-Kenya Coverage', '24/7 Support'].map(b => (
-              <div key={b} style={{ display: 'flex', alignItems: 'center', gap: 6, color: 'rgba(255,255,255,0.75)', fontSize: 13 }}>
-                <CheckCircle2 size={14} color="#86EFAC" /> {b}
-              </div>
-            ))}
+          <div style={{ ...glassDark, maxWidth: 640, margin: '0 auto', padding: '48px 40px' }}>
+            <h2 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 800, fontSize: 'clamp(26px, 4vw, 44px)', color: '#fff', marginBottom: 14 }}>
+              Start Your Project Today
+            </h2>
+            <p style={{ fontSize: 16, color: 'rgba(255,255,255,0.75)', marginBottom: 36, maxWidth: 480, margin: '0 auto 36px' }}>
+              Get a free, no-obligation quote from Kenya&apos;s most trusted multi-service contractor. Response within 2 hours guaranteed.
+            </p>
+            <div style={{ display: 'flex', gap: 14, justifyContent: 'center', flexWrap: 'wrap' }}>
+              <button
+                onClick={() => { setShowQuoteForm(true); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
+                className="btn-cta"
+                style={{ fontSize: 15, padding: '14px 32px', display: 'flex', alignItems: 'center', gap: 8 }}
+              >
+                <ArrowRight size={16} /> Get a Quote
+              </button>
+              <a href={WHATSAPP_LINK} className="btn-whatsapp" style={{ fontSize: 15, padding: '14px 32px' }}><MessageCircle size={16} /> WhatsApp Us</a>
+            </div>
+            <div style={{ marginTop: 40, display: 'flex', justifyContent: 'center', gap: 24, flexWrap: 'wrap' }}>
+              {['Free Quote', 'Certified Engineers', 'Pan-Kenya Coverage', '24/7 Support'].map(b => (
+                <div key={b} style={{ display: 'flex', alignItems: 'center', gap: 6, color: 'rgba(255,255,255,0.75)', fontSize: 13 }}>
+                  <CheckCircle2 size={14} color="#86EFAC" /> {b}
+                </div>
+              ))}
+            </div>
           </div>
         </div>
       </section>

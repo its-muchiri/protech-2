@@ -255,3 +255,264 @@ img {
     transition-duration: 0.01ms !important;
   }
 }
+
+/* ═══════════════════════════════════════════
+   GLASSMORPHISM UTILITIES
+   ═══════════════════════════════════════════ */
+
+/* ── Base Glass Panel ── */
+.glass-panel {
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  transition: background 0.3s, box-shadow 0.3s, border-color 0.3s;
+}
+
+/* ── Light Glass (white frosted) ── */
+.glass-panel--light,
+.glass {
+  background: rgba(255, 255, 255, 0.55);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+}
+
+/* ── Dark Glass (navy frosted) ── */
+.glass-panel--dark,
+.glass-dark {
+  background: rgba(11, 31, 58, 0.65);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  color: #f1f5f9;
+}
+
+/* ── Accent Glass (green-tinted) ── */
+.glass-panel--accent,
+.glass-accent {
+  background: rgba(15, 76, 44, 0.55);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15);
+  border-radius: 20px;
+  color: #f1f5f9;
+}
+
+/* ── Fallback for browsers without backdrop-filter ── */
+@supports not (backdrop-filter: blur(16px)) {
+  .glass-panel,
+  .glass {
+    background: rgba(255, 255, 255, 0.92);
+  }
+  .glass-panel--dark,
+  .glass-dark {
+    background: rgba(11, 31, 58, 0.95);
+  }
+  .glass-panel--accent,
+  .glass-accent {
+    background: rgba(15, 76, 44, 0.92);
+  }
+}
+
+/* ═══════════════════════════════════════════
+   SERVICE GLASS CARD
+   ═══════════════════════════════════════════ */
+
+.service-glass-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  border-radius: 20px;
+  overflow: hidden;
+  text-decoration: none;
+  color: inherit;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+  transition: transform 0.35s ease, box-shadow 0.35s ease;
+}
+
+.service-glass-card:hover {
+  transform: translateY(-4px);
+  box-shadow:
+    0 8px 32px rgba(15, 76, 44, 0.18),
+    0 0 0 1px rgba(134, 239, 172, 0.25);
+}
+
+/* ── Image Container ── */
+.service-glass-card__image-wrap {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
+}
+
+.service-glass-card__image {
+  object-fit: cover;
+  transition: transform 0.45s ease;
+}
+
+.service-glass-card:hover .service-glass-card__image {
+  transform: scale(1.05);
+}
+
+/* ── Glass Overlay ── */
+.service-glass-card__overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 20px;
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  background: rgba(255, 255, 255, 0.6);
+  border-top: 1px solid rgba(255, 255, 255, 0.3);
+  transition: background 0.3s ease, border-color 0.3s ease;
+}
+
+.service-glass-card:hover .service-glass-card__overlay {
+  background: rgba(255, 255, 255, 0.75);
+  border-top-color: rgba(134, 239, 172, 0.4);
+}
+
+.service-glass-card__content {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.service-glass-card__name {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: #0B1F3A;
+  margin: 0;
+}
+
+.service-glass-card__price {
+  display: inline-block;
+  align-self: flex-start;
+  padding: 3px 10px;
+  border-radius: 999px;
+  background: rgba(15, 76, 44, 0.1);
+  color: #0F4C2C;
+  font-size: 0.75rem;
+  font-weight: 600;
+  font-family: 'Inter', sans-serif;
+}
+
+.service-glass-card__cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 4px;
+  color: #0F4C2C;
+  font-size: 0.85rem;
+  font-weight: 600;
+  font-family: 'Inter', sans-serif;
+  transition: gap 0.25s ease;
+}
+
+.service-glass-card:hover .service-glass-card__cta {
+  gap: 10px;
+}
+
+/* ── Fallback for backdrop-filter ── */
+@supports not (backdrop-filter: blur(16px)) {
+  .service-glass-card__overlay {
+    background: rgba(255, 255, 255, 0.92);
+  }
+}
+
+/* ═══════════════════════════════════════════
+   LIGHTBOX STYLES (Service Gallery)
+   ═══════════════════════════════════════════ */
+
+.lightbox-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(11, 31, 58, 0.85);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+}
+
+.lightbox-overlay.active {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.lightbox-content {
+  position: relative;
+  max-width: 90vw;
+  max-height: 85vh;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 24px 64px rgba(0, 0, 0, 0.4);
+}
+
+.lightbox-content img {
+  display: block;
+  max-width: 100%;
+  max-height: 85vh;
+  object-fit: contain;
+}
+
+.lightbox-close {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  z-index: 10;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: none;
+  background: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  color: #fff;
+  font-size: 1.25rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.2s;
+}
+
+.lightbox-close:hover {
+  background: rgba(255, 255, 255, 0.35);
+}
+
+.lightbox-nav {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  border: none;
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  color: #fff;
+  font-size: 1.1rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.2s;
+}
+
+.lightbox-nav:hover {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.lightbox-nav--prev {
+  left: 16px;
+}
+
+.lightbox-nav--next {
+  right: 16px;
+}

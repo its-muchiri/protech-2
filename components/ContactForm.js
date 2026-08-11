@@ -2,9 +2,23 @@
 
 import { useState } from 'react';
 import { useForm } from 'react-hook-form';
-import { Phone, Mail, MapPin, Clock, MessageCircle, CheckCircle2 } from 'lucide-react';
+import { Phone, Mail, MessageCircle, CheckCircle2 } from 'lucide-react';
 
 const WHATSAPP_NUMBER = '254707526602';
+
+const glassInputStyle = {
+  background: 'rgba(255, 255, 255, 0.45)',
+  backdropFilter: 'blur(8px)',
+  WebkitBackdropFilter: 'blur(8px)',
+  border: '1px solid rgba(255, 255, 255, 0.4)',
+  borderRadius: 10,
+  padding: '12px 14px',
+  fontSize: 14,
+  color: '#0B1F3A',
+  width: '100%',
+  outline: 'none',
+  transition: 'border-color 0.2s, box-shadow 0.2s',
+};
 
 export default function ContactForm() {
   const [submitted, setSubmitted] = useState(false);
@@ -12,23 +26,13 @@ export default function ContactForm() {
 
   const onSubmit = async (data) => {
     try {
-      // Send to email via API
       await fetch('/api/lead', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ ...data, page: 'Contact Page' }),
       });
 
-      // Open WhatsApp with the message
-      const message = `Hello, I would like to get in touch.
-
-Name: ${data.name}
-Phone: ${data.phone}
-Email: ${data.email || 'Not provided'}
-Service: ${data.service || 'General Inquiry'}
-
-Message:
-${data.message || 'No message provided'}`;
+      const message = `Hello, I would like to get in touch.\n\nName: ${data.name}\nPhone: ${data.phone}\nEmail: ${data.email || 'Not provided'}\nService: ${data.service || 'General Inquiry'}\n\nMessage:\n${data.message || 'No message provided'}`;
 
       const whatsappUrl = `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(message)}`;
       window.open(whatsappUrl, '_blank', 'noopener,noreferrer');
@@ -42,17 +46,34 @@ ${data.message || 'No message provided'}`;
 
   if (submitted) {
     return (
-      <div className="bg-green-50 border border-green-200 rounded-xl p-6 text-center">
-        <div className="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-3">
-          <CheckCircle2 className="w-6 h-6 text-green-600" />
+      <div style={{
+        background: 'rgba(34, 197, 94, 0.1)',
+        border: '1px solid rgba(34, 197, 94, 0.3)',
+        borderRadius: 16,
+        padding: 32,
+        textAlign: 'center',
+      }}>
+        <div style={{
+          width: 52, height: 52, borderRadius: '50%',
+          background: 'rgba(34, 197, 94, 0.2)',
+          display: 'flex', alignItems: 'center', justifyContent: 'center',
+          margin: '0 auto 14px',
+        }}>
+          <CheckCircle2 size={28} color="#16A34A" />
         </div>
-        <h3 className="font-heading font-bold text-lg text-navy-900 mb-2">Thank You!</h3>
-        <p className="text-sm text-gray-600 mb-4">
-          Your message has been sent to our team via email. We&apos;ve also opened WhatsApp so you can continue the conversation with us directly.
+        <h3 style={{
+          fontFamily: "'Poppins', sans-serif",
+          fontWeight: 700, fontSize: 20, color: '#0B1F3A', marginBottom: 10,
+        }}>Thank You!</h3>
+        <p style={{ fontSize: 14, color: '#334155', lineHeight: 1.7, marginBottom: 18 }}>
+          Your message has been sent to our team via email. We have also opened WhatsApp so you can continue the conversation with us directly.
         </p>
         <button
           onClick={() => setSubmitted(false)}
-          className="text-sm font-semibold text-primary-600 hover:text-primary-700"
+          style={{
+            background: 'none', border: 'none', color: '#0F4C2C',
+            fontWeight: 600, fontSize: 14, cursor: 'pointer', textDecoration: 'underline',
+          }}
         >
           Send Another Message
         </button>
@@ -61,20 +82,26 @@ ${data.message || 'No message provided'}`;
   }
 
   return (
-    <form onSubmit={handleSubmit(onSubmit)} className="space-y-4">
-      <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+    <form onSubmit={handleSubmit(onSubmit)} style={{ display: 'flex', flexDirection: 'column', gap: 16 }}>
+      <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 14 }}>
         <div>
-          <label className="form-label">Full Name *</label>
+          <label style={{ display: 'block', fontSize: 13, fontWeight: 600, color: '#334155', marginBottom: 6 }}>
+            Full Name *
+          </label>
           <input
             type="text"
             {...register('name', { required: 'Full name is required' })}
-            className="form-input"
+            style={glassInputStyle}
             placeholder="John Doe"
+            onFocus={(e) => { e.target.style.borderColor = 'rgba(15,76,44,0.5)'; e.target.style.boxShadow = '0 0 0 3px rgba(15,76,44,0.1)'; }}
+            onBlur={(e) => { e.target.style.borderColor = 'rgba(255,255,255,0.4)'; e.target.style.boxShadow = 'none'; }}
           />
-          {errors.name && <p className="form-error">{errors.name.message}</p>}
+          {errors.name && <p style={{ fontSize: 12, color: '#EF4444', marginTop: 4 }}>{errors.name.message}</p>}
         </div>
         <div>
-          <label className="form-label">Phone Number *</label>
+          <label style={{ display: 'block', fontSize: 13, fontWeight: 600, color: '#334155', marginBottom: 6 }}>
+            Phone Number *
+          </label>
           <input
             type="tel"
             {...register('phone', {
@@ -84,26 +111,39 @@ ${data.message || 'No message provided'}`;
                 message: 'Valid Kenyan phone number',
               },
             })}
-            className="form-input"
+            style={glassInputStyle}
             placeholder="+254 7XX XXX XXX"
+            onFocus={(e) => { e.target.style.borderColor = 'rgba(15,76,44,0.5)'; e.target.style.boxShadow = '0 0 0 3px rgba(15,76,44,0.1)'; }}
+            onBlur={(e) => { e.target.style.borderColor = 'rgba(255,255,255,0.4)'; e.target.style.boxShadow = 'none'; }}
           />
-          {errors.phone && <p className="form-error">{errors.phone.message}</p>}
+          {errors.phone && <p style={{ fontSize: 12, color: '#EF4444', marginTop: 4 }}>{errors.phone.message}</p>}
         </div>
       </div>
 
       <div>
-        <label className="form-label">Email Address</label>
+        <label style={{ display: 'block', fontSize: 13, fontWeight: 600, color: '#334155', marginBottom: 6 }}>
+          Email Address
+        </label>
         <input
           type="email"
           {...register('email')}
-          className="form-input"
+          style={glassInputStyle}
           placeholder="you@email.com"
+          onFocus={(e) => { e.target.style.borderColor = 'rgba(15,76,44,0.5)'; e.target.style.boxShadow = '0 0 0 3px rgba(15,76,44,0.1)'; }}
+          onBlur={(e) => { e.target.style.borderColor = 'rgba(255,255,255,0.4)'; e.target.style.boxShadow = 'none'; }}
         />
       </div>
 
       <div>
-        <label className="form-label">Service Interested In</label>
-        <select {...register('service')} className="form-input">
+        <label style={{ display: 'block', fontSize: 13, fontWeight: 600, color: '#334155', marginBottom: 6 }}>
+          Service Interested In
+        </label>
+        <select
+          {...register('service')}
+          style={glassInputStyle}
+          onFocus={(e) => { e.target.style.borderColor = 'rgba(15,76,44,0.5)'; e.target.style.boxShadow = '0 0 0 3px rgba(15,76,44,0.1)'; }}
+          onBlur={(e) => { e.target.style.borderColor = 'rgba(255,255,255,0.4)'; e.target.style.boxShadow = 'none'; }}
+        >
           <option value="">Select a service...</option>
           {[
             'Construction & Civil Engineering',
@@ -130,27 +170,41 @@ ${data.message || 'No message provided'}`;
       </div>
 
       <div>
-        <label className="form-label">Your Message *</label>
+        <label style={{ display: 'block', fontSize: 13, fontWeight: 600, color: '#334155', marginBottom: 6 }}>
+          Your Message *
+        </label>
         <textarea
           {...register('message', { required: 'Please enter your message' })}
-          className="form-input"
+          style={{ ...glassInputStyle, resize: 'vertical' }}
           rows={4}
           placeholder="How can we help you?"
+          onFocus={(e) => { e.target.style.borderColor = 'rgba(15,76,44,0.5)'; e.target.style.boxShadow = '0 0 0 3px rgba(15,76,44,0.1)'; }}
+          onBlur={(e) => { e.target.style.borderColor = 'rgba(255,255,255,0.4)'; e.target.style.boxShadow = 'none'; }}
         />
-        {errors.message && <p className="form-error">{errors.message.message}</p>}
+        {errors.message && <p style={{ fontSize: 12, color: '#EF4444', marginTop: 4 }}>{errors.message.message}</p>}
       </div>
 
       <button
         type="submit"
         disabled={isSubmitting}
-        className="w-full btn-cta flex items-center justify-center gap-2"
+        style={{
+          width: '100%', padding: '14px 24px', fontSize: 15, fontWeight: 700,
+          fontFamily: "'Poppins', sans-serif",
+          background: 'linear-gradient(135deg, #0F4C2C 0%, #166534 100%)',
+          color: '#fff', border: 'none', borderRadius: 12, cursor: 'pointer',
+          display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 10,
+          transition: 'transform 0.2s, box-shadow 0.2s',
+          boxShadow: '0 4px 20px rgba(15,76,44,0.3)',
+        }}
+        onMouseEnter={(e) => { e.target.style.transform = 'translateY(-2px)'; e.target.style.boxShadow = '0 6px 28px rgba(15,76,44,0.4)'; }}
+        onMouseLeave={(e) => { e.target.style.transform = 'translateY(0)'; e.target.style.boxShadow = '0 4px 20px rgba(15,76,44,0.3)'; }}
       >
-        <MessageCircle className="w-4 h-4" />
+        <MessageCircle size={16} />
         {isSubmitting ? 'Sending...' : 'Send via Email & WhatsApp'}
       </button>
 
-      <p className="text-xs text-gray-400 text-center">
-        We&apos;ll send your message via email and open WhatsApp for instant communication.
+      <p style={{ fontSize: 11, color: '#94A3B8', textAlign: 'center' }}>
+        We will send your message via email and open WhatsApp for instant communication.
       </p>
     </form>
   );

@@ -1,21 +1,21 @@
 import './globals.css';
+import Script from 'next/script';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import WhatsAppFloat from '@/components/WhatsAppFloat';
 import StickyBar from '@/components/StickyBar';
-import { Metadata } from 'next';
 
 export const metadata = {
   metadataBase: new URL('https://www.yourdomain.co.ke'),
   title: {
     default: 'Kenya Multi-Service Consultancy | Construction, Solar, Plumbing & More',
-    template: '%s | Kenya Consultancy',
+    template: '%s | ProTech Consulting',
   },
   description: 'Leading multi-service consultancy in Kenya. Construction, Solar, Plumbing, Security, Borehole Drilling & 15+ services. Get a free quote today.',
   keywords: ['Kenya consultancy', 'construction services Kenya', 'solar installation Kenya', 'plumbing services Nairobi', 'borehole drilling Kenya', 'security systems Kenya'],
-  authors: [{ name: 'Kenya Consultancy' }],
-  creator: 'Kenya Consultancy',
-  publisher: 'Kenya Consultancy',
+  authors: [{ name: 'ProTech Consulting' }],
+  creator: 'ProTech Consulting',
+  publisher: 'ProTech Consulting',
   formatDetection: {
     email: false,
     address: false,
@@ -25,7 +25,7 @@ export const metadata = {
     type: 'website',
     locale: 'en_KE',
     url: 'https://www.yourdomain.co.ke',
-    siteName: 'Kenya Consultancy',
+    siteName: 'ProTech Consulting',
     title: 'Kenya Multi-Service Consultancy | 17+ Services Nationwide',
     description: 'Leading multi-service consultancy in Kenya. Construction, Solar, Plumbing, Security, Borehole Drilling & more. Get a free quote today.',
     images: [
@@ -33,7 +33,7 @@ export const metadata = {
         url: 'https://www.yourdomain.co.ke/og-image.jpg',
         width: 1200,
         height: 630,
-        alt: 'Kenya Consultancy - Multi-Service Provider',
+        alt: 'ProTech Consulting - Multi-Service Provider',
       },
     ],
   },
@@ -54,11 +54,10 @@ export const metadata = {
     },
   },
   icons: {
-    icon: '/favicon.ico',
-    shortcut: '/favicon.ico',
-    apple: '/apple-touch-icon.png',
+    icon: '/favicon.png',
+    shortcut: '/favicon.png',
+    apple: '/favicon.png',
   },
-  manifest: '/site.webmanifest',
 };
 
 export default function RootLayout({ children }) {
@@ -71,13 +70,18 @@ export default function RootLayout({ children }) {
         <link rel="dns-prefetch" href="//www.google.com" />
         <meta name="theme-color" content="#102a43" />
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5" />
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
-        <script dangerouslySetInnerHTML={{ __html: `
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'G-XXXXXXXXXX');
-        ` }} />
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-XXXXXXXXXX');
+          `}
+        </Script>
       </head>
       <body className="antialiased">
         <Header />
