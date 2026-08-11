@@ -206,7 +206,7 @@ export default function RequestQuotePage() {
               Request a Free Quote
             </h1>
             <p style={{ fontSize: 16, color: 'rgba(255,255,255,0.75)', maxWidth: 520, lineHeight: 1.7 }}>
-              Get a detailed, no-obligation quotation from Kenya's most trusted multi-service contractor. We respond within 2 hours.
+              Get a detailed, no-obligation quotation from Kenya&apos;s most trusted multi-service contractor. We respond within 2 hours.
             </p>
           </div>
         </div>
