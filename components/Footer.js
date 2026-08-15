@@ -28,12 +28,13 @@ const COMPANY_LINKS = [
 const CERTS = ['NCA', 'EPRA', 'NEMA', 'KRA', 'ERC', 'ISO'];
 
 const glassPanel = {
-  background: 'rgba(255,255,255,0.06)',
-  backdropFilter: 'blur(16px)',
-  WebkitBackdropFilter: 'blur(16px)',
+  background: 'rgba(15,76,44,0.85)',
+  backdropFilter: 'blur(20px)',
+  WebkitBackdropFilter: 'blur(20px)',
   border: '1px solid rgba(255,255,255,0.1)',
   borderRadius: 16,
   padding: '28px 24px',
+  boxShadow: '0 8px 32px rgba(0,0,0,0.2)',
 };
 
 export default function Footer() {
@@ -180,14 +181,13 @@ export default function Footer() {
               {CERTS.map(c => (
                 <span
                   key={c}
+                  className="glass-badge"
                   style={{
                     fontSize: 11,
                     fontWeight: 700,
-                    color: 'rgba(255,255,255,0.5)',
-                    background: 'rgba(255,255,255,0.08)',
-                    border: '1px solid rgba(255,255,255,0.15)',
-                    borderRadius: 4,
-                    padding: '3px 8px',
+                    color: '#fff',
+                    background: 'rgba(255,255,255,0.15)',
+                    border: '1px solid rgba(255,255,255,0.2)',
                   }}
                 >
                   {c}

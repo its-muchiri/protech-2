@@ -57,18 +57,12 @@ export default function ServicesPage() {
           backgroundImage: 'radial-gradient(circle at 70% 30%, rgba(234,88,12,0.15) 0%, transparent 50%)',
         }} />
         <div className="container-custom" style={{ position: 'relative', textAlign: 'center' }}>
-          <span style={{
-            display: 'inline-block',
-            padding: '6px 16px',
+          <span className="glass-badge" style={{
             background: 'rgba(234,88,12,0.2)',
             border: '1px solid rgba(234,88,12,0.3)',
-            borderRadius: 9999,
-            fontSize: 13,
-            fontWeight: 600,
             color: '#EA580C',
-            textTransform: 'uppercase',
-            letterSpacing: '0.1em',
-            marginBottom: 24,
+            padding: '8px 20px',
+            fontSize: 12,
           }}>
             17+ Professional Services · Nationwide Coverage · NCA & EPRA Certified
           </span>
@@ -92,10 +86,10 @@ export default function ServicesPage() {
             From construction and solar to medical supplies and logistics — ProTech delivers integrated solutions for commercial, industrial, and residential clients across Kenya.
           </p>
           <div style={{ display: 'flex', gap: 16, justifyContent: 'center', flexWrap: 'wrap' }}>
-            <a href="/request-a-quote" className="btn-cta" style={{ padding: '14px 32px', fontSize: 16 }}>
+            <a href="/request-a-quote" className="glass-btn-cta" style={{ padding: '14px 32px', fontSize: 16, borderRadius: 8, textDecoration: 'none', fontWeight: 600, color: '#fff' }}>
               Get a Custom Quote
             </a>
-            <a href="/contact" className="btn-outline" style={{ padding: '14px 32px', fontSize: 16, borderColor: '#fff', color: '#fff' }}>
+            <a href="/contact" className="glass-btn" style={{ padding: '14px 32px', fontSize: 16, borderRadius: 8, textDecoration: 'none', fontWeight: 600, color: '#fff', borderColor: 'rgba(255,255,255,0.3)' }}>
               Contact Us
             </a>
           </div>
@@ -103,7 +97,7 @@ export default function ServicesPage() {
       </section>
 
       {/* Featured Services */}
-      <section style={{ background: '#fff', padding: '80px 0' }}>
+      <section className="glass-section" style={{ background: 'rgba(255,255,255,0.6)', padding: '80px 0', margin: '40px auto', maxWidth: '1280px', borderRadius: 24 }}>
         <div className="container-custom">
           <div style={{ textAlign: 'center', maxWidth: 720, margin: '0 auto 60px' }}>
             <h2 style={{
@@ -163,15 +157,17 @@ export default function ServicesPage() {
             const Icon = iconMap[group.icon];
             return (
               <section key={group.id} style={{ marginBottom: 60 }}>
-                <div style={{
+                <div className="glass-card" style={{
                   display: 'flex',
                   alignItems: 'center',
                   gap: 12,
                   marginBottom: 28,
-                  paddingBottom: 12,
-                  borderBottom: '2px solid #0F4C2C',
+                  padding: '16px 20px',
+                  borderBottom: 'none',
                 }}>
-                  <Icon size={24} style={{ color: '#0F4C2C' }} />
+                  <div className="glass" style={{ width: 44, height: 44, borderRadius: 12, display: 'flex', alignItems: 'center', justifyContent: 'center', background: 'rgba(15,76,44,0.1)' }}>
+                    <Icon size={24} style={{ color: '#0F4C2C' }} />
+                  </div>
                   <h3 style={{
                     fontFamily: "'Poppins', sans-serif",
                     fontWeight: 700,
@@ -199,7 +195,7 @@ export default function ServicesPage() {
       </section>
 
       {/* Why Choose ProTech */}
-      <section style={{ background: '#fff', padding: '80px 0' }}>
+      <section className="glass-section" style={{ background: 'rgba(255,255,255,0.6)', padding: '80px 0', margin: '40px auto', maxWidth: '1280px', borderRadius: 24 }}>
         <div className="container-custom">
           <div style={{ textAlign: 'center', maxWidth: 720, margin: '0 auto 60px' }}>
             <h2 style={{
@@ -233,15 +229,11 @@ export default function ServicesPage() {
               { title: 'Transparent Pricing', description: 'Detailed BOQs, no hidden costs, milestone-based payments, and fixed-price options for defined scopes.', icon: Lightbulb },
               { title: '24/7 Support', description: 'Emergency response teams for critical infrastructure — power, water, security, and medical equipment — with SLA-backed uptime.', icon: Wrench },
             ].map((item, i) => (
-              <div key={i} style={{
+              <div key={i} className="glass-card hover-lift" style={{
                 padding: '32px 24px',
-                background: '#F0FDF4',
-                borderRadius: 12,
-                border: '1px solid #DCFCE7',
-                transition: 'transform 0.2s, box-shadow 0.2s',
-              }} onMouseEnter={e => e.currentTarget.style.transform = 'translateY(-4px)'} onMouseLeave={e => e.currentTarget.style.transform = 'translateY(0)'}>
-                <div style={{ width: 48, height: 48, background: '#0F4C2C', borderRadius: 12, display: 'flex', alignItems: 'center', justifyContent: 'center', marginBottom: 16 }}>
-                  <item.icon size={24} style={{ color: '#fff' }} />
+              }}>
+                <div className="glass" style={{ width: 48, height: 48, background: 'rgba(15,76,44,0.1)', borderRadius: 12, display: 'flex', alignItems: 'center', justifyContent: 'center', marginBottom: 16 }}>
+                  <item.icon size={24} style={{ color: '#0F4C2C' }} />
                 </div>
                 <h4 style={{
                   fontFamily: "'Poppins', sans-serif",
@@ -262,7 +254,7 @@ export default function ServicesPage() {
       </section>
 
       {/* Service Delivery Process */}
-      <section style={{ background: '#0B1F3A', padding: '80px 0' }}>
+      <section className="glass-section glass-dark" style={{ background: 'rgba(11,31,58,0.9)', padding: '80px 0', margin: '40px auto', maxWidth: '1280px', borderRadius: 24, border: '1px solid rgba(255,255,255,0.1)' }}>
         <div className="container-custom">
           <div style={{ textAlign: 'center', maxWidth: 720, margin: '0 auto 60px' }}>
             <h2 style={{
@@ -297,7 +289,7 @@ export default function ServicesPage() {
               { step: '05', title: 'Execution & Supervision', desc: 'Certified project managers oversee daily operations with quality checks at every milestone.' },
               { step: '06', title: 'Testing, Handover & Support', desc: 'Commissioning tests, client walkthrough, documentation handover, and warranty activation.' },
             ].map((item, i) => (
-              <div key={i} style={{ position: 'relative', padding: '32px 24px', textAlign: 'center' }}>
+              <div key={i} className="glass-card glass-dark hover-lift" style={{ padding: '32px 24px', textAlign: 'center', border: '1px solid rgba(255,255,255,0.1)' }}>
                 <div style={{
                   width: 56, height: 56, margin: '0 auto 20px',
                   background: 'linear-gradient(135deg, #EA580C 0%, #0F4C2C 100%)',
@@ -327,7 +319,7 @@ export default function ServicesPage() {
       </section>
 
       {/* Certifications & Accreditations */}
-      <section style={{ background: '#F0FDF4', padding: '60px 0' }}>
+      <section className="glass-section" style={{ background: 'rgba(255,255,255,0.6)', padding: '60px 0', margin: '40px auto', maxWidth: '1280px', borderRadius: 24 }}>
         <div className="container-custom">
           <div style={{ textAlign: 'center', marginBottom: 40 }}>
             <h3 style={{
@@ -351,14 +343,12 @@ export default function ServicesPage() {
             alignItems: 'center',
           }}>
             {['NCA Registered', 'EPRA Licensed', 'NEMA Compliant', 'ERC Certified', 'ISO 9001:2015', 'KRA Tax Compliant', 'Ministry of Health Approved', 'County Government Approved'].map((cert, i) => (
-              <span key={i} style={{
-                padding: '10px 20px',
-                background: '#fff',
-                border: '1px solid #DCFCE7',
-                borderRadius: 8,
-                fontSize: 13,
-                fontWeight: 500,
+              <span key={i} className="glass-badge" style={{
+                fontSize: 12,
+                fontWeight: 600,
                 color: '#0F4C2C',
+                background: 'rgba(15,76,44,0.1)',
+                border: '1px solid rgba(15,76,44,0.2)',
               }}>
                 {cert}
               </span>
@@ -368,7 +358,7 @@ export default function ServicesPage() {
       </section>
 
       {/* CTA Section */}
-      <section style={{ background: 'linear-gradient(135deg, #0B1F3A 0%, #0F4C2C 100%)', padding: '80px 0' }}>
+      <section className="glass-section glass-dark" style={{ background: 'rgba(11,31,58,0.9)', padding: '80px 0', margin: '40px auto', maxWidth: '1280px', borderRadius: 24, border: '1px solid rgba(255,255,255,0.1)' }}>
         <div className="container-custom" style={{ textAlign: 'center', maxWidth: 720, margin: '0 auto' }}>
           <h2 style={{
             fontFamily: "'Playfair Display', serif",
@@ -388,10 +378,10 @@ export default function ServicesPage() {
             Get a detailed proposal with timelines, cost breakdown, and compliance roadmap — free consultation for new clients.
           </p>
           <div style={{ display: 'flex', gap: 16, justifyContent: 'center', flexWrap: 'wrap' }}>
-            <a href="/request-a-quote" className="btn-cta" style={{ padding: '14px 32px', fontSize: 16 }}>
+            <a href="/request-a-quote" className="glass-btn-cta" style={{ padding: '14px 32px', fontSize: 16, borderRadius: 8, textDecoration: 'none', fontWeight: 600, color: '#fff' }}>
               Request a Quote
             </a>
-            <a href="tel:0725310112" className="btn-whatsapp" style={{ padding: '14px 32px', fontSize: 16 }}>
+            <a href="tel:0725310112" className="glass-btn" style={{ padding: '14px 32px', fontSize: 16, borderRadius: 8, textDecoration: 'none', fontWeight: 600, color: '#fff', borderColor: 'rgba(255,255,255,0.3)', background: 'rgba(37,211,102,0.9)' }}>
               Call 0725310112
             </a>
           </div>

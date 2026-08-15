@@ -26,16 +26,11 @@ export default function Header() {
   }, []);
 
   return (
-    <header className="animate-fadeIn" style={{
+    <header className="animate-fadeIn glass-nav" style={{
       position: 'sticky',
       top: 0,
       zIndex: 100,
-      backdropFilter: 'blur(16px)',
-      WebkitBackdropFilter: 'blur(16px)',
-      background: scrolled ? 'rgba(15,76,44,0.88)' : 'rgba(15,76,44,0.55)',
-      borderBottom: '1px solid rgba(255,255,255,0.1)',
-      boxShadow: scrolled ? '0 4px 24px rgba(0,0,0,0.18)' : 'none',
-      transition: 'background 0.3s, box-shadow 0.3s',
+      transition: 'box-shadow 0.3s, background 0.3s',
     }}>
       <div className="container-custom" style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', height: 72 }}>
         {/* Logo */}
