@@ -1,43 +1,34 @@
 import { services } from '@/data/services';
 import ServiceCard from '@/components/ServiceCard';
 import BlogCarouselSection from '@/components/BlogCarouselSection';
-import { Building2, Sun, Droplets, Wrench, Home, Shield, Car, Drill, Ruler, Zap, Lightbulb, Sofa, Frame, Truck, Heart } from 'lucide-react';
-
-export const metadata = {
-  title: 'All Services | ProTech Consulting Kenya',
-  description: 'Browse all 17+ professional services offered by ProTech Consulting. Construction, Solar, Plumbing, Security, Borehole Drilling and more.',
-};
+import IconRenderer from '@/components/IconRenderer';
 
 const categoryGroups = [
   {
     id: 'construction',
     label: 'Construction & Property',
-    icon: Building2,
+    icon: 'Building2',
     slugs: ['construction-civil-engineering', 'swimming-pool-construction', 'roofing-systems-waterproofing', 'architectural-design-house-plans', 'interior-design-office-fitouts', 'office-partitions-glass-works'],
   },
   {
     id: 'engineering',
     label: 'Engineering & Technical',
-    icon: Wrench,
+    icon: 'Wrench',
     slugs: ['solar-power-renewable-energy', 'generator-sales-repair', 'electrical-installation-wiring', 'technical-repairs-appliance', 'plumbing-drainage-services'],
   },
   {
     id: 'water',
     label: 'Water & Environment',
-    icon: Droplets,
+    icon: 'Droplets',
     slugs: ['water-filtration-purification', 'borehole-drilling-water-services'],
   },
   {
     id: 'specialized',
     label: 'Specialized Services',
-    icon: Shield,
+    icon: 'Shield',
     slugs: ['security-systems-physical-security', 'medical-equipment-supplies', 'logistics-freight-services', 'garage-automotive-services'],
   },
 ];
-
-const iconMap = {
-  Building2, Sun, Droplets, Wrench, Home, Shield, Car, Drill, Ruler, Zap, Lightbulb, Sofa, Frame, Truck, Heart
-};
 
 export default function ServicesPage() {
   const featuredServices = services.slice(0, 6);
@@ -154,7 +145,6 @@ export default function ServicesPage() {
 
           {categoryGroups.map((group) => {
             const groupServices = services.filter(s => group.slugs.includes(s.slug));
-            const Icon = iconMap[group.icon];
             return (
               <section key={group.id} style={{ marginBottom: 60 }}>
                 <div className="glass-card" style={{
@@ -166,7 +156,7 @@ export default function ServicesPage() {
                   borderBottom: 'none',
                 }}>
                   <div className="glass" style={{ width: 44, height: 44, borderRadius: 12, display: 'flex', alignItems: 'center', justifyContent: 'center', background: 'rgba(15,76,44,0.1)' }}>
-                    <Icon size={24} style={{ color: '#0F4C2C' }} />
+                    <IconRenderer name={group.icon} size={24} style={{ color: '#0F4C2C' }} />
                   </div>
                   <h3 style={{
                     fontFamily: "'Poppins', sans-serif",
@@ -212,7 +202,7 @@ export default function ServicesPage() {
               color: '#334155',
               lineHeight: 1.7,
             }}>
-              We don't just deliver services — we build lasting partnerships through expertise, transparency, and accountability.
+              We don&apos;t just deliver services — we build lasting partnerships through expertise, transparency, and accountability.
             </p>
           </div>
 
@@ -222,18 +212,18 @@ export default function ServicesPage() {
             gap: 24,
           }}>
             {[
-              { title: 'Multi-Disciplinary Expertise', description: 'One partner for construction, engineering, water, energy, security, medical, and logistics — eliminating vendor fragmentation.', icon: Building2 },
-              { title: 'NCA & EPRA Certified', description: 'Fully licensed by the National Construction Authority and Energy & Petroleum Regulatory Authority for compliant project execution.', icon: Shield },
-              { title: 'Countrywide Coverage', description: 'Operations across all 47 counties with dedicated regional teams and local supply chains for rapid deployment.', icon: Truck },
-              { title: 'Turnkey Delivery', description: 'From concept and design through procurement, installation, commissioning, and ongoing maintenance — all in-house.', icon: Ruler },
-              { title: 'Transparent Pricing', description: 'Detailed BOQs, no hidden costs, milestone-based payments, and fixed-price options for defined scopes.', icon: Lightbulb },
-              { title: '24/7 Support', description: 'Emergency response teams for critical infrastructure — power, water, security, and medical equipment — with SLA-backed uptime.', icon: Wrench },
+              { title: 'Multi-Disciplinary Expertise', description: 'One partner for construction, engineering, water, energy, security, medical, and logistics — eliminating vendor fragmentation.', icon: 'Building2' },
+              { title: 'NCA & EPRA Certified', description: 'Fully licensed by the National Construction Authority and Energy & Petroleum Regulatory Authority for compliant project execution.', icon: 'Shield' },
+              { title: 'Countrywide Coverage', description: 'Operations across all 47 counties with dedicated regional teams and local supply chains for rapid deployment.', icon: 'Truck' },
+              { title: 'Turnkey Delivery', description: 'From concept and design through procurement, installation, commissioning, and ongoing maintenance — all in-house.', icon: 'Ruler' },
+              { title: 'Transparent Pricing', description: 'Detailed BOQs, no hidden costs, milestone-based payments, and fixed-price options for defined scopes.', icon: 'Lightbulb' },
+              { title: '24/7 Support', description: 'Emergency response teams for critical infrastructure — power, water, security, and medical equipment — with SLA-backed uptime.', icon: 'Wrench' },
             ].map((item, i) => (
               <div key={i} className="glass-card hover-lift" style={{
                 padding: '32px 24px',
               }}>
                 <div className="glass" style={{ width: 48, height: 48, background: 'rgba(15,76,44,0.1)', borderRadius: 12, display: 'flex', alignItems: 'center', justifyContent: 'center', marginBottom: 16 }}>
-                  <item.icon size={24} style={{ color: '#0F4C2C' }} />
+                  <IconRenderer name={item.icon} size={24} style={{ color: '#0F4C2C' }} />
                 </div>
                 <h4 style={{
                   fontFamily: "'Poppins', sans-serif",

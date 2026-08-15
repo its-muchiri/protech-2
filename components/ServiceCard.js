@@ -1,9 +1,12 @@
+'use client';
+
 import Image from 'next/image';
 import Link from 'next/link';
 import { ArrowRight } from 'lucide-react';
+import IconRenderer from './IconRenderer';
 
 export default function ServiceCard({ service, variant = 'standard' }) {
-  const { slug, name, startingPrice, heroImage, description, subServices, icon } = service;
+  const { slug, name, startingPrice, heroImage, description, subServices, icon: iconName } = service;
 
   if (variant === 'featured') {
     return (
@@ -52,7 +55,7 @@ export default function ServiceCard({ service, variant = 'standard' }) {
       >
         <div className="flex items-start gap-4">
           <div className="w-12 h-12 rounded-lg bg-primary-50 flex items-center justify-center flex-shrink-0">
-            <icon.size={22} style={{ color: '#0F4C2C' }} />
+            <IconRenderer name={iconName} size={22} style={{ color: '#0F4C2C' }} />
           </div>
           <div className="flex-1 min-w-0">
             <h3 className="font-semibold text-gray-900 mb-1 leading-snug">{name}</h3>

@@ -11,8 +11,11 @@ export const dynamicParams = true;
 
 export async function generateStaticParams() {
   const posts = getAllPosts();
-  return posts.map((post) => ({ slug: post.slug }));
+  // Pre-render only the 50 most recent posts at build time
+  return posts.slice(0, 50).map((post) => ({ slug: post.slug }));
 }
+
+export const revalidate = 3600; // ISR: regenerate at most once per hour
 
 export async function generateMetadata({ params }) {
   const post = getPostBySlug(params.slug);
