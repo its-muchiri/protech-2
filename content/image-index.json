@@ -1,0 +1,492 @@
+﻿{
+    "images":  [
+                   {
+                       "path":  "/protech-img/protech-6-1.png",
+                       "category":  "protech-img",
+                       "filename":  "protech-6-1.png",
+                       "width":  334,
+                       "height":  100,
+                       "size":  45262,
+                       "type":  "png"
+                   },
+                   {
+                       "path":  "/protech-img/protech-6.png",
+                       "category":  "protech-img",
+                       "filename":  "protech-6.png",
+                       "width":  1181,
+                       "height":  354,
+                       "size":  45262,
+                       "type":  "png"
+                   },
+                   {
+                       "path":  "/protech-img/protech-logo-2.png",
+                       "category":  "protech-img",
+                       "filename":  "protech-logo-2.png",
+                       "width":  1181,
+                       "height":  1181,
+                       "size":  59568,
+                       "type":  "png"
+                   },
+                   {
+                       "path":  "/protech-img/architectural-design-house-plans/architectural-design-house-plans_1.jpg",
+                       "category":  "architectural-design-house-plans",
+                       "filename":  "architectural-design-house-plans_1.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  67362,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/architectural-design-house-plans/architectural-design-house-plans_2.jpg",
+                       "category":  "architectural-design-house-plans",
+                       "filename":  "architectural-design-house-plans_2.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  72052,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/architectural-design-house-plans/architectural-design-house-plans_3.jpg",
+                       "category":  "architectural-design-house-plans",
+                       "filename":  "architectural-design-house-plans_3.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  128800,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/borehole-drilling-water-services/borehole-drilling-water-services_1.jpg",
+                       "category":  "borehole-drilling-water-services",
+                       "filename":  "borehole-drilling-water-services_1.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  74082,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/borehole-drilling-water-services/borehole-drilling-water-services_2.jpg",
+                       "category":  "borehole-drilling-water-services",
+                       "filename":  "borehole-drilling-water-services_2.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  176143,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/borehole-drilling-water-services/borehole-drilling-water-services_3.jpg",
+                       "category":  "borehole-drilling-water-services",
+                       "filename":  "borehole-drilling-water-services_3.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  122589,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/construction-civil-engineering/construction-civil-engineering_1.jpg",
+                       "category":  "construction-civil-engineering",
+                       "filename":  "construction-civil-engineering_1.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  87975,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/construction-civil-engineering/construction-civil-engineering_2.jpg",
+                       "category":  "construction-civil-engineering",
+                       "filename":  "construction-civil-engineering_2.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  173014,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/construction-civil-engineering/construction-civil-engineering_3.jpg",
+                       "category":  "construction-civil-engineering",
+                       "filename":  "construction-civil-engineering_3.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  173278,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/electrical-installation-wiring/electrical-installation-wiring_1.jpg",
+                       "category":  "electrical-installation-wiring",
+                       "filename":  "electrical-installation-wiring_1.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  104549,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/electrical-installation-wiring/electrical-installation-wiring_2.jpg",
+                       "category":  "electrical-installation-wiring",
+                       "filename":  "electrical-installation-wiring_2.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  113212,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/electrical-installation-wiring/electrical-installation-wiring_3.jpg",
+                       "category":  "electrical-installation-wiring",
+                       "filename":  "electrical-installation-wiring_3.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  98950,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/garage-automotive-services/garage-automotive-services_1.jpg",
+                       "category":  "garage-automotive-services",
+                       "filename":  "garage-automotive-services_1.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  191218,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/garage-automotive-services/garage-automotive-services_2.jpg",
+                       "category":  "garage-automotive-services",
+                       "filename":  "garage-automotive-services_2.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  128980,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/garage-automotive-services/garage-automotive-services_3.jpg",
+                       "category":  "garage-automotive-services",
+                       "filename":  "garage-automotive-services_3.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  133100,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/generator-sales-repair/generator-sales-repair_1.jpg",
+                       "category":  "generator-sales-repair",
+                       "filename":  "generator-sales-repair_1.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  97854,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/generator-sales-repair/generator-sales-repair_2.jpg",
+                       "category":  "generator-sales-repair",
+                       "filename":  "generator-sales-repair_2.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  114333,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/generator-sales-repair/generator-sales-repair_3.jpg",
+                       "category":  "generator-sales-repair",
+                       "filename":  "generator-sales-repair_3.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  133646,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/interior-design-office-fitouts/interior-design-office-fitouts_1.jpg",
+                       "category":  "interior-design-office-fitouts",
+                       "filename":  "interior-design-office-fitouts_1.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  111247,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/interior-design-office-fitouts/interior-design-office-fitouts_2.jpg",
+                       "category":  "interior-design-office-fitouts",
+                       "filename":  "interior-design-office-fitouts_2.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  112641,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/interior-design-office-fitouts/interior-design-office-fitouts_3.jpg",
+                       "category":  "interior-design-office-fitouts",
+                       "filename":  "interior-design-office-fitouts_3.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  66303,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/logistics-freight-services/logistics-freight-services_1.jpg",
+                       "category":  "logistics-freight-services",
+                       "filename":  "logistics-freight-services_1.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  100393,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/logistics-freight-services/logistics-freight-services_2.jpg",
+                       "category":  "logistics-freight-services",
+                       "filename":  "logistics-freight-services_2.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  75896,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/logistics-freight-services/logistics-freight-services_3.jpg",
+                       "category":  "logistics-freight-services",
+                       "filename":  "logistics-freight-services_3.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  80578,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/medical-equipment-supplies/medical-equipment-supplies_1.jpg",
+                       "category":  "medical-equipment-supplies",
+                       "filename":  "medical-equipment-supplies_1.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  56999,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/medical-equipment-supplies/medical-equipment-supplies_2.jpg",
+                       "category":  "medical-equipment-supplies",
+                       "filename":  "medical-equipment-supplies_2.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  87814,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/medical-equipment-supplies/medical-equipment-supplies_3.jpg",
+                       "category":  "medical-equipment-supplies",
+                       "filename":  "medical-equipment-supplies_3.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  31834,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/office-partitions-glass-works/office-partitions-glass-works_1.jpg",
+                       "category":  "office-partitions-glass-works",
+                       "filename":  "office-partitions-glass-works_1.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  43582,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/office-partitions-glass-works/office-partitions-glass-works_2.jpg",
+                       "category":  "office-partitions-glass-works",
+                       "filename":  "office-partitions-glass-works_2.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  59270,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/office-partitions-glass-works/office-partitions-glass-works_3.jpg",
+                       "category":  "office-partitions-glass-works",
+                       "filename":  "office-partitions-glass-works_3.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  37567,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/plumbing-drainage-services/plumbing-drainage-services_1.jpg",
+                       "category":  "plumbing-drainage-services",
+                       "filename":  "plumbing-drainage-services_1.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  60085,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/plumbing-drainage-services/plumbing-drainage-services_2.jpg",
+                       "category":  "plumbing-drainage-services",
+                       "filename":  "plumbing-drainage-services_2.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  115546,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/plumbing-drainage-services/plumbing-drainage-services_3.jpg",
+                       "category":  "plumbing-drainage-services",
+                       "filename":  "plumbing-drainage-services_3.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  67242,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/roofing-systems-waterproofing/roofing-systems-waterproofing_1.jpg",
+                       "category":  "roofing-systems-waterproofing",
+                       "filename":  "roofing-systems-waterproofing_1.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  88773,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/roofing-systems-waterproofing/roofing-systems-waterproofing_2.jpg",
+                       "category":  "roofing-systems-waterproofing",
+                       "filename":  "roofing-systems-waterproofing_2.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  133710,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/roofing-systems-waterproofing/roofing-systems-waterproofing_3.jpg",
+                       "category":  "roofing-systems-waterproofing",
+                       "filename":  "roofing-systems-waterproofing_3.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  96243,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/security-systems-physical-security/security-systems-physical-security_1.jpg",
+                       "category":  "security-systems-physical-security",
+                       "filename":  "security-systems-physical-security_1.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  76157,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/security-systems-physical-security/security-systems-physical-security_2.jpg",
+                       "category":  "security-systems-physical-security",
+                       "filename":  "security-systems-physical-security_2.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  105661,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/security-systems-physical-security/security-systems-physical-security_3.jpg",
+                       "category":  "security-systems-physical-security",
+                       "filename":  "security-systems-physical-security_3.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  60027,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/solar-power-renewable-energy/solar-power-renewable-energy_1.jpg",
+                       "category":  "solar-power-renewable-energy",
+                       "filename":  "solar-power-renewable-energy_1.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  103711,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/solar-power-renewable-energy/solar-power-renewable-energy_2.jpg",
+                       "category":  "solar-power-renewable-energy",
+                       "filename":  "solar-power-renewable-energy_2.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  106679,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/solar-power-renewable-energy/solar-power-renewable-energy_3.jpg",
+                       "category":  "solar-power-renewable-energy",
+                       "filename":  "solar-power-renewable-energy_3.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  95239,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/swimming-pool-construction/swimming-pool-construction_1.jpg",
+                       "category":  "swimming-pool-construction",
+                       "filename":  "swimming-pool-construction_1.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  110122,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/swimming-pool-construction/swimming-pool-construction_2.jpg",
+                       "category":  "swimming-pool-construction",
+                       "filename":  "swimming-pool-construction_2.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  108377,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/swimming-pool-construction/swimming-pool-construction_3.jpg",
+                       "category":  "swimming-pool-construction",
+                       "filename":  "swimming-pool-construction_3.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  211740,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/technical-repairs-appliance/technical-repairs-appliance_1.jpg",
+                       "category":  "technical-repairs-appliance",
+                       "filename":  "technical-repairs-appliance_1.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  58470,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/technical-repairs-appliance/technical-repairs-appliance_2.jpg",
+                       "category":  "technical-repairs-appliance",
+                       "filename":  "technical-repairs-appliance_2.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  73265,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/technical-repairs-appliance/technical-repairs-appliance_3.jpg",
+                       "category":  "technical-repairs-appliance",
+                       "filename":  "technical-repairs-appliance_3.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  69920,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/water-filtration-purification/water-filtration-purification_1.jpg",
+                       "category":  "water-filtration-purification",
+                       "filename":  "water-filtration-purification_1.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  82526,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/water-filtration-purification/water-filtration-purification_2.jpg",
+                       "category":  "water-filtration-purification",
+                       "filename":  "water-filtration-purification_2.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  115546,
+                       "type":  "jpg"
+                   },
+                   {
+                       "path":  "/protech-img/water-filtration-purification/water-filtration-purification_3.jpg",
+                       "category":  "water-filtration-purification",
+                       "filename":  "water-filtration-purification_3.jpg",
+                       "width":  800,
+                       "height":  600,
+                       "size":  195847,
+                       "type":  "jpg"
+                   }
+               ],
+    "generated":  "2026-08-15T16:03:58.4232931+03:00",
+    "count":  54
+}

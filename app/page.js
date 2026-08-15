@@ -1,4 +1,4 @@
-﻿'use client';
+'use client';
 
 import { useState } from 'react';
 import { useForm } from 'react-hook-form';
@@ -37,9 +37,9 @@ import {
   Mail,
 } from 'lucide-react';
 
-const WHATSAPP_NUMBER = '254725310112';
+const WHATSAPP_NUMBER = '0725310112';
 const WHATSAPP_LINK = `https://wa.me/${WHATSAPP_NUMBER}?text=Hello%20ProTech%20Consultants%2C%20I%20would%20like%20to%20request%20a%20quote.`;
-const PHONE = '+254 707 526 602';
+const PHONE = '0725310112';
 const featuredServices = services.slice(0, 6);
 
 const ICON_MAP = {
@@ -438,7 +438,7 @@ Please send me a detailed quotation. Thank you.`;
       <BlogCarousel
         variant="home"
         title="From the ProTech Journal"
-        subtitle="Expert guides on medical equipment, construction, solar, safaris and more — explore our latest articles."
+        subtitle="Expert guides on medical equipment, construction, solar, safaris and more � explore our latest articles."
         limit={15}
       />
 
@@ -478,3 +478,4 @@ Please send me a detailed quotation. Thank you.`;
     </div>
   );
 }
+

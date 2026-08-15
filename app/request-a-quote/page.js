@@ -8,7 +8,7 @@ import {
   Clock, Shield, Award, Building2,
 } from 'lucide-react';
 
-const WHATSAPP_NUMBER = '254725310112';
+const WHATSAPP_NUMBER = '0725310112';
 const PHONE = '+254 707 526 602';
 const EMAIL = 'protech.ke.group@gmail.com';
 
@@ -378,3 +378,4 @@ export default function RequestQuotePage() {
     </div>
   );
 }
+

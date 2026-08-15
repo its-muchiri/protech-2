@@ -1,6 +1,11 @@
 import Link from 'next/link';
-import { ArrowLeft, Calendar, Clock, MessageCircle, Phone, Mail } from 'lucide-react';
+import { MessageCircle, Phone, Mail, ArrowLeft } from 'lucide-react';
 import { getAllPosts, getPostBySlug } from '@/lib/blog-content';
+import ReadingProgress from '@/components/ReadingProgress';
+import Breadcrumbs from '@/components/Breadcrumbs';
+import ArticleMetadata from '@/components/ArticleMetadata';
+import RelatedArticles from '@/components/RelatedArticles';
+import NewsletterCTA from '@/components/NewsletterCTA';
 
 export const dynamicParams = true;
 
@@ -15,33 +20,22 @@ export async function generateMetadata({ params }) {
     return { title: 'Article Not Found | ProTech Consulting' };
   }
   return {
-    title: `${post.title} | ProTech Consulting`,
+    title: `${post.title} | ProTech Journal`,
     description: post.excerpt,
     openGraph: {
       type: 'article',
-      title: `${post.title} | ProTech Consulting`,
+      title: post.title,
       description: post.excerpt,
       publishedTime: post.date,
+      images: [{ url: post.coverImage, alt: post.title }],
     },
   };
 }
 
 const SHARE_PLATFORMS = [
-  {
-    name: 'Facebook',
-    href: (u) => `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(u)}`,
-    color: '#1877F2',
-  },
-  {
-    name: 'Twitter',
-    href: (u) => `https://twitter.com/intent/tweet?url=${encodeURIComponent(u)}&text=${encodeURIComponent('ProTech Consulting')}`,
-    color: '#1DA1F2',
-  },
-  {
-    name: 'WhatsApp',
-    href: (u) => `https://wa.me/?text=${encodeURIComponent(u)}`,
-    color: '#25D366',
-  },
+  { name: 'Facebook', href: (u) => `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(u)}` },
+  { name: 'Twitter', href: (u) => `https://twitter.com/intent/tweet?url=${encodeURIComponent(u)}` },
+  { name: 'WhatsApp', href: (u) => `https://wa.me/?text=${encodeURIComponent(u)}` },
 ];
 
 export default function BlogPostPage({ params }) {
@@ -50,178 +44,101 @@ export default function BlogPostPage({ params }) {
   if (!post) {
     return (
       <div className="section-padding text-center">
-        <h1 className="text-4xl font-bold text-navy-900 mb-4">Article Not Found</h1>
+        <h1 className="text-4xl font-bold text-gray-900 mb-4">Article Not Found</h1>
         <p className="text-gray-600 mb-8">The article you are looking for does not exist.</p>
-        <Link href="/blog" className="btn-primary">
-          Back to Blog
+        <Link href="/blog" className="inline-flex items-center gap-2 text-orange-600 font-semibold">
+          <ArrowLeft size={16} /> Back to Blog
         </Link>
       </div>
     );
   }
 
   const allPosts = getAllPosts();
-  const related = allPosts
-    .filter((p) => p.slug !== post.slug && p.category === post.category)
-    .slice(0, 3);
+  const related = allPosts.filter((p) => p.slug !== post.slug && p.category === post.category).slice(0, 3);
   const url = `https://www.protech.co.ke/blog/${post.slug}`;
 
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: post.title,
+    description: post.excerpt,
+    image: post.coverImage,
+    datePublished: post.date,
+    author: { '@type': 'Organization', name: 'ProTech Consultants' },
+    publisher: { '@type': 'Organization', name: 'ProTech Consultants' },
+  };
+
   return (
-    <div>
-      {/* Editorial header */}
-      <section style={{
-        background: 'linear-gradient(160deg, #F0FDF4 0%, #fff 60%, #F8FAFC 100%)',
-        borderBottom: '1px solid #E2E8F0',
-        padding: '64px 0 56px',
-        position: 'relative',
-      }}>
-        <div style={{
-          position: 'absolute',
-          inset: 0,
-          backgroundImage: 'radial-gradient(circle at 85% 15%, rgba(234,88,12,0.08) 0%, transparent 40%)',
-        }} />
-        <div className="container-custom" style={{ position: 'relative', maxWidth: 860, margin: '0 auto' }}>
-          <Link href="/blog" style={{ display: 'inline-flex', alignItems: 'center', gap: 8, color: '#0F4C2C', fontWeight: 600, fontSize: 14, marginBottom: 24, fontFamily: "'Inter', sans-serif" }}>
-            <ArrowLeft size={16} /> Back to Blog
-          </Link>
-
-          <p className="article-eyebrow" style={{ marginBottom: 14 }}>{post.categoryLabel}</p>
-
-          <h1 style={{
-            fontFamily: "'Playfair Display', Georgia, serif",
-            fontWeight: 800,
-            fontSize: 'clamp(28px, 4.5vw, 46px)',
-            lineHeight: 1.15,
-            color: '#0B1F3A',
-            marginBottom: 20,
-          }}>
+    <div className="bg-white">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      <ReadingProgress />
+      <Breadcrumbs items={[
+        { label: 'Home', href: '/' },
+        { label: 'Journal', href: '/blog' },
+        { label: post.categoryLabel, href: `/blog?category=${post.category}` },
+        { label: post.title, href: '#' }
+      ]} />
+      
+      <section className="py-12 md:py-20 bg-gradient-to-b from-gray-50 to-white">
+        <div className="container mx-auto px-4 max-w-4xl">
+          <span className="inline-block text-xs font-semibold uppercase tracking-wider text-orange-600 bg-orange-50 px-3 py-1 rounded-full mb-6">
+            {post.categoryLabel}
+          </span>
+          <h1 className="font-serif text-3xl md:text-5xl lg:text-6xl font-bold text-gray-900 leading-tight mb-6">
             {post.title}
           </h1>
-
-          <div style={{ display: 'flex', flexWrap: 'wrap', gap: 10 }}>
-            <span className="article-meta-chip"><Calendar size={13} /> {post.date}</span>
-            <span className="article-meta-chip"><Clock size={13} /> {post.readTime}</span>
-            <span className="article-meta-chip">{post.word_count?.toLocaleString?.() || post.word_count} words</span>
+          <ArticleMetadata post={post} />
+          <div className="mt-8 relative aspect-[16/9] overflow-hidden rounded-xl bg-gray-100">
+            <img src={post.coverImage} alt={post.title} className="w-full h-full object-cover" />
           </div>
         </div>
       </section>
 
-      {/* Body */}
-      <section className="section-padding" style={{ padding: '64px 0 88px', background: '#fff' }}>
-        <div className="container-custom" style={{ maxWidth: 860, margin: '0 auto' }}>
-          <div
-            className="article-body"
-            dangerouslySetInnerHTML={{ __html: post.content }}
-          />
+      <section className="py-12">
+        <div className="container mx-auto px-4 max-w-4xl">
+          <div className="grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-12">
+            <article className="prose prose-lg max-w-none prose-headings:font-serif prose-headings:font-bold prose-a:text-orange-600">
+              <div dangerouslySetInnerHTML={{ __html: post.content }} />
+            </article>
+            <aside className="hidden lg:block">
+              <div className="sticky top-24 space-y-6">
+                <div className="border border-gray-200 rounded-lg p-6">
+                  <h3 className="font-semibold mb-3">Share this article</h3>
+                  <div className="flex flex-col gap-2">
+                    {SHARE_PLATFORMS.map((p) => (
+                      <a key={p.name} href={p.href(url)} target="_blank" rel="noopener noreferrer" className="text-sm text-gray-600 hover:text-orange-600">
+                        {p.name}
+                      </a>
+                    ))}
+                  </div>
+                </div>
+              </div>
+            </aside>
+          </div>
 
-          {/* CTA */}
-          <div style={{
-            marginTop: 56,
-            padding: '32px 32px 28px',
-            borderRadius: 16,
-            background: 'linear-gradient(135deg, #0B1F3A 0%, #0F4C2C 100%)',
-            color: '#fff',
-            position: 'relative',
-            overflow: 'hidden',
-          }}>
-            <div style={{ position: 'absolute', inset: 0, backgroundImage: 'radial-gradient(circle at 85% 20%, rgba(234,88,12,0.25) 0%, transparent 50%)' }} />
-            <div style={{ position: 'relative' }}>
-              <h2 style={{ fontFamily: "'Playfair Display', Georgia, serif", fontWeight: 700, fontSize: 'clamp(20px, 3vw, 28px)', color: '#fff', marginBottom: 10 }}>
-                Get a Free Quote
-              </h2>
-              <p style={{ fontSize: 15, lineHeight: 1.7, color: 'rgba(255,255,255,0.8)', marginBottom: 24, maxWidth: 560 }}>
-                Every project is different, so get a free, no-obligation quote from ProTech Consultants today. Our team will assess your needs, confirm current market pricing, and guide you through the best option for your situation in Kenya.
+          <div className="mt-16 bg-gray-900 rounded-xl p-8 md:p-12 text-white relative overflow-hidden">
+            <div className="absolute inset-0 bg-gradient-to-r from-orange-600/20 to-transparent pointer-events-none" />
+            <div className="relative">
+              <h2 className="font-serif text-2xl md:text-3xl font-bold mb-4">Get a Free Quote</h2>
+              <p className="text-gray-300 mb-6 max-w-2xl">
+                Get a free, no-obligation quote from ProTech Consultants. Our team will assess your needs and guide you through the best option for your situation in Kenya.
               </p>
-              <div style={{ display: 'flex', gap: 12, flexWrap: 'wrap' }}>
-                <Link href="/request-a-quote" className="btn-cta" style={{ display: 'inline-flex', alignItems: 'center', gap: 8, fontSize: 14 }}>
+              <div className="flex flex-wrap gap-3">
+                <Link href="/request-a-quote" className="inline-flex items-center gap-2 px-6 py-3 bg-orange-600 text-white font-semibold rounded-lg hover:bg-orange-700">
                   <MessageCircle size={16} /> Get a Quote
                 </Link>
-                <a href="tel:+254707526602" style={{ display: 'inline-flex', alignItems: 'center', gap: 8, padding: '12px 24px', borderRadius: 6, background: 'rgba(255,255,255,0.14)', color: '#fff', fontFamily: "'Poppins', sans-serif", fontWeight: 600, fontSize: 14, textDecoration: 'none' }}>
-                  <Phone size={15} /> +254 707 526 602
-                </a>
-                <a href="mailto:protech.ke.group@gmail.com" style={{ display: 'inline-flex', alignItems: 'center', gap: 8, padding: '12px 24px', borderRadius: 6, background: 'rgba(255,255,255,0.14)', color: '#fff', fontFamily: "'Poppins', sans-serif", fontWeight: 600, fontSize: 14, textDecoration: 'none' }}>
-                  <Mail size={15} /> Email Us
+                <a href="tel:0725310112" className="inline-flex items-center gap-2 px-6 py-3 bg-white/10 text-white rounded-lg hover:bg-white/20">
+                  <Phone size={16} /> 0725310112
                 </a>
               </div>
             </div>
           </div>
-
-          {/* Share */}
-          <footer style={{ marginTop: 40, paddingTop: 28, borderTop: '1px solid #E2E8F0' }}>
-            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap', gap: 16 }}>
-              <p style={{ fontSize: 14, color: '#64748B', fontFamily: "'Inter', sans-serif", fontWeight: 600 }}>
-                Share this article:
-              </p>
-              <div style={{ display: 'flex', gap: 10 }}>
-                {SHARE_PLATFORMS.map((p) => (
-                  <a
-                    key={p.name}
-                    href={p.href(url)}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    style={{
-                      display: 'inline-flex',
-                      alignItems: 'center',
-                      gap: 6,
-                      padding: '8px 16px',
-                      borderRadius: 999,
-                      border: `1.5px solid ${p.color}`,
-                      color: p.color,
-                      fontSize: 13,
-                      fontWeight: 600,
-                      fontFamily: "'Inter', sans-serif",
-                      textDecoration: 'none',
-                      transition: 'all 0.2s',
-                    }}
-                  >
-                    {p.name}
-                  </a>
-                ))}
-              </div>
-            </div>
-          </footer>
         </div>
       </section>
 
-      {/* Related */}
-      {related.length > 0 && (
-        <section className="section-padding" style={{ background: '#F8FAFC', padding: '72px 0' }}>
-          <div className="container-custom">
-            <div style={{ textAlign: 'center', marginBottom: 40 }}>
-              <p style={{ fontSize: 13, fontWeight: 600, color: '#15803D', letterSpacing: '0.1em', textTransform: 'uppercase', marginBottom: 8 }}>Keep Reading</p>
-              <h2 style={{ fontFamily: "'Playfair Display', Georgia, serif", fontWeight: 700, fontSize: 'clamp(24px, 3vw, 34px)', color: '#0B1F3A' }}>
-                Related Articles
-              </h2>
-            </div>
-            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', gap: 24 }}>
-              {related.map((p) => (
-                <Link key={p.slug} href={`/blog/${p.slug}`} className="related-card">
-                  <div style={{ position: 'relative', width: '100%', aspectRatio: '16 / 9', overflow: 'hidden' }}>
-                    {p.coverImage && (
-                      // eslint-disable-next-line @next/next/no-img-element
-                      <img src={p.coverImage} alt={p.title} loading="lazy" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
-                    )}
-                  </div>
-                  <div style={{ padding: 18 }}>
-                    <div className="blog-card__meta" style={{ marginBottom: 8 }}>
-                      <span><Calendar size={12} /> {p.date}</span>
-                      <span><Clock size={12} /> {p.readTime}</span>
-                    </div>
-                    <h3 style={{ fontFamily: "'Playfair Display', Georgia, serif", fontSize: '1.05rem', fontWeight: 700, lineHeight: 1.35, color: '#0B1F3A', margin: 0 }}>
-                      {p.title}
-                    </h3>
-                  </div>
-                </Link>
-              ))}
-            </div>
-          </div>
-        </section>
-      )}
-
-      {/* Related site link */}
-      <div className="section-padding" style={{ padding: '40px 0 72px', background: '#fff', textAlign: 'center' }}>
-        <Link href="/blog" className="btn-outline" style={{ display: 'inline-flex', alignItems: 'center', gap: 8 }}>
-          <ArrowLeft size={16} /> All Articles
-        </Link>
+      <RelatedArticles posts={related} />
+      <div className="container mx-auto px-4 py-8">
+        <NewsletterCTA />
       </div>
     </div>
   );

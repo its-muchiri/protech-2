@@ -3,7 +3,7 @@
 import Link from 'next/link';
 import { Building2, Phone, Mail, MapPin, Clock } from 'lucide-react';
 
-const PHONE = '+254 707 526 602';
+const PHONE = '0725310112';
 
 const TOP_SERVICES = [
   'Construction & Building',
@@ -41,6 +41,7 @@ export default function Footer() {
 
   return (
     <footer
+      className="animate-fadeIn"
       style={{
         background: 'linear-gradient(160deg, #0B1F3A 0%, #0F4C2C 100%)',
         color: 'rgba(255,255,255,0.75)',

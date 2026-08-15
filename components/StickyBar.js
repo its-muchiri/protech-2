@@ -2,7 +2,7 @@
 
 import { Phone, ArrowRight } from 'lucide-react';
 
-const PHONE = '+254 707 526 602';
+const PHONE = '0725310112';
 
 function StickyBtn({ bg, href, icon: Icon, label, target }) {
   return (

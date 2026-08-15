@@ -246,7 +246,7 @@ Each service contains:
 
 **Response**: 302 redirect to `https://wa.me/254707526602?text=...`
 
-**Note**: WhatsApp phone number set to `254707526602` (0707526602).
+**Note**: WhatsApp phone number set to `254707526602` ().
 
 ---
 
@@ -416,7 +416,7 @@ Each service contains:
 - **Format**: HTML email with lead details
 
 ### WhatsApp
-- **Phone**: `254707526602` (0707526602)
+- **Phone**: `254707526602` ()
 - **Method**: URL redirect to `wa.me` with pre-filled text
 - **Usage**: Floating button + form submission option
 
@@ -526,3 +526,4 @@ Each service contains:
 ---
 
 *End of Audit*
+

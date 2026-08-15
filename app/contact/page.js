@@ -34,7 +34,7 @@ export default function ContactPage() {
                   <Phone className="w-5 h-5 text-primary-600 mt-0.5" />
                   <div>
                     <p className="font-semibold text-navy-900">Phone</p>
-                    <a href="tel:+254725310112" className="text-gray-600 hover:text-primary-600 transition-colors">+254 725 310 112</a>
+                    <a href="tel:+0725310112" className="text-gray-600 hover:text-primary-600 transition-colors">0725310112</a>
                   </div>
                 </div>
                 <div className="flex items-start gap-3">
@@ -72,3 +72,4 @@ export default function ContactPage() {
     </div>
   );
 }
+

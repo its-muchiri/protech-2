@@ -5,7 +5,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { Phone, Menu, X } from 'lucide-react';
 
-const PHONE = '+254 707 526 602';
+const PHONE = '0725310112';
 
 const NAV_LINKS = [
   { label: 'Services', href: '/services' },
@@ -26,7 +26,7 @@ export default function Header() {
   }, []);
 
   return (
-    <header style={{
+    <header className="animate-fadeIn" style={{
       position: 'sticky',
       top: 0,
       zIndex: 100,

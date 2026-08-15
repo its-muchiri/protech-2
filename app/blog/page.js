@@ -1,129 +1,104 @@
 import Link from 'next/link';
-import { Calendar, Clock, ArrowRight } from 'lucide-react';
+import { ArrowRight, Search } from 'lucide-react';
 import { getAllPosts } from '@/lib/blog-content';
-import BlogGrid from '@/components/BlogGrid';
+import HeroArticle from '@/components/HeroArticle';
+import ArticleCard from '@/components/ArticleCard';
+import ArticleCarousel from '@/components/ArticleCarousel';
+import Breadcrumbs from '@/components/Breadcrumbs';
+import BlogSearch from '@/components/BlogSearch';
+import { useState } from 'react';
 
 export const metadata = {
-  title: 'Blog & Knowledge Hub | ProTech Consulting',
-  description: 'Read our latest articles and guides on construction, solar, plumbing, security, medical equipment, safaris and professional services in Kenya.',
+  title: 'ProTech Journal | Guides, Insights & Industry News',
+  description: 'Editorial guides and industry insights on solar power, water systems, medical equipment, construction and professional services in Kenya.',
 };
 
 export default function BlogPage() {
+  const [searchOpen, setSearchOpen] = useState(false);
   const blogPosts = getAllPosts();
   const featured = blogPosts[0];
+  const topStories = blogPosts.slice(1, 4);
+  const latest = blogPosts.slice(4, 10);
+  const popular = blogPosts.slice(0, 6);
 
   return (
-    <div>
+    <div className="bg-white">
+      <Breadcrumbs items={[
+        { label: 'Home', href: '/' },
+        { label: 'Journal', href: '/blog' }
+      ]} />
+      <BlogSearch onClose={() => setSearchOpen(false)} />
+      
       {/* Editorial Hero */}
-      <section style={{
-        background: 'linear-gradient(160deg, #0B1F3A 0%, #0F4C2C 100%)',
-        padding: '76px 0 64px',
-        position: 'relative',
-        overflow: 'hidden',
-      }}>
-        <div style={{
-          position: 'absolute',
-          inset: 0,
-          backgroundImage: 'radial-gradient(circle at 78% 22%, rgba(234,88,12,0.2) 0%, transparent 45%), radial-gradient(circle at 15% 85%, rgba(134,239,172,0.12) 0%, transparent 50%)',
-        }} />
-        <div className="container-custom" style={{ position: 'relative' }}>
-          <p className="article-eyebrow" style={{ color: '#86EFAC', marginBottom: 16 }}>The Journal</p>
-          <h1 style={{
-            fontFamily: "'Playfair Display', Georgia, serif",
-            fontWeight: 800,
-            fontSize: 'clamp(34px, 5.5vw, 60px)',
-            lineHeight: 1.1,
-            color: '#fff',
-            maxWidth: 720,
-            marginBottom: 18,
-          }}>
-            Ideas, Guides &amp; Insights from ProTech
-          </h1>
-          <p style={{
-            fontSize: 17,
-            lineHeight: 1.7,
-            color: 'rgba(255,255,255,0.8)',
-            maxWidth: 560,
-            marginBottom: 32,
-          }}>
-            Expert advice on medical equipment, construction, solar, safaris and professional services across Kenya — written in plain language.
-          </p>
-
-          {featured && (
-            <Link
-              href={`/blog/${featured.slug}`}
-              style={{
-                display: 'inline-flex',
-                alignItems: 'center',
-                gap: 10,
-                padding: '13px 28px',
-                borderRadius: 8,
-                background: '#EA580C',
-                color: '#fff',
-                fontFamily: "'Poppins', sans-serif",
-                fontWeight: 600,
-                fontSize: 14,
-                textDecoration: 'none',
-                transition: 'background 0.2s',
-              }}
-            >
-              <span>Read the Latest Feature</span>
-              <ArrowRight size={16} />
-            </Link>
-          )}
+      <section className="bg-gradient-to-br from-gray-900 to-gray-800 py-16 md:py-24 relative">
+        <button
+          onClick={() => setSearchOpen(true)}
+          className="absolute top-6 right-6 bg-white/10 backdrop-blur px-4 py-2 rounded-lg text-white flex items-center gap-2 hover:bg-white/20"
+        >
+          <Search size={18} /> Search
+        </button>
+        <div className="container mx-auto px-4">
+          <div className="max-w-4xl">
+            <p className="text-orange-400 text-sm font-semibold uppercase tracking-wider mb-4">The ProTech Journal</p>
+            <h1 className="font-serif text-4xl md:text-6xl font-bold text-white leading-tight mb-6">
+              Guides, Insights & Industry Knowledge
+            </h1>
+            <p className="text-lg text-gray-300 max-w-2xl">
+              Expert articles on solar power, water systems, medical equipment, construction and professional services across Kenya.
+            </p>
+          </div>
         </div>
       </section>
 
-      {/* Featured editorial card */}
+      {/* Featured Story */}
       {featured && (
-        <section className="section-padding" style={{ background: '#fff', paddingBottom: 40 }}>
-          <div className="container-custom">
-            <Link href={`/blog/${featured.slug}`} className="blog-featured-card group" style={{ display: 'block' }}>
-              <div style={{ position: 'absolute', inset: 0, overflow: 'hidden' }}>
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img src={featured.coverImage} alt={featured.title} className="blog-featured-card__bg" style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover' }} />
-                <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(to top, rgba(11,31,58,0.92) 0%, rgba(11,31,58,0.4) 60%, rgba(11,31,58,0.15) 100%)' }} />
-              </div>
-              <div className="blog-featured-card__content">
-                <span className="blog-card__category">{featured.categoryLabel}</span>
-                <h2 className="blog-featured-card__title">{featured.title}</h2>
-                <p className="blog-featured-card__excerpt">{featured.excerpt}</p>
-                <div className="blog-featured-card__meta">
-                  <span style={{ display: 'inline-flex', alignItems: 'center', gap: 6 }}>
-                    <Calendar size={14} /> {featured.date}
-                  </span>
-                  <span style={{ display: 'inline-flex', alignItems: 'center', gap: 6 }}>
-                    <Clock size={14} /> {featured.readTime}
-                  </span>
-                  <span style={{ display: 'inline-flex', alignItems: 'center', gap: 6, color: '#FDBA74', fontWeight: 600 }}>
-                    Read Full Article <ArrowRight size={15} />
-                  </span>
-                </div>
-              </div>
-            </Link>
+        <section className="py-12">
+          <div className="container mx-auto px-4">
+            <HeroArticle post={featured} />
           </div>
         </section>
       )}
 
-      {/* All posts with category filter */}
-      <section className="section-padding" style={{ background: '#F8FAFC' }}>
-        <div className="container-custom">
-          <div style={{ textAlign: 'center', marginBottom: 40 }}>
-            <h2 style={{ fontFamily: "'Playfair Display', Georgia, serif", fontWeight: 700, fontSize: 'clamp(26px, 3vw, 34px)', color: '#0B1F3A', marginBottom: 10 }}>
-              Explore All Articles
-            </h2>
-            <p style={{ fontSize: 15, color: '#475569', maxWidth: 560, margin: '0 auto' }}>
-              Filter by topic to find exactly what you need.
-            </p>
+      {/* Top Stories */}
+      {topStories.length > 0 && (
+        <section className="py-12 bg-gray-50">
+          <div className="container mx-auto px-4">
+            <h2 className="font-serif text-2xl md:text-3xl font-bold mb-8">Top Stories</h2>
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+              {topStories.map(post => (
+                <ArticleCard key={post.slug} post={post} />
+              ))}
+            </div>
           </div>
+        </section>
+      )}
 
-          {blogPosts.length === 0 ? (
-            <p className="text-center text-gray-600">No articles yet. Check back soon.</p>
-          ) : (
-            <BlogGrid posts={blogPosts} />
-          )}
+      {/* Latest Articles */}
+      <section className="py-12">
+        <div className="container mx-auto px-4">
+          <div className="flex items-baseline justify-between mb-8">
+            <h2 className="font-serif text-2xl md:text-3xl font-bold">Latest Articles</h2>
+            <Link href="/blog" className="text-orange-600 hover:text-orange-700 font-semibold flex items-center gap-2">
+              View All <ArrowRight size={16} />
+            </Link>
+          </div>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {latest.map(post => (
+              <ArticleCard key={post.slug} post={post} />
+            ))}
+          </div>
         </div>
       </section>
+
+      {/* Popular Articles Carousel */}
+      <ArticleCarousel posts={popular} title="Popular This Week" />
+
+      {blogPosts.length === 0 && (
+        <section className="py-24 text-center">
+          <p className="text-gray-600">No articles yet. Check back soon.</p>
+        </section>
+      )}
     </div>
   );
 }
+

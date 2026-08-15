@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server';
 
-const WHATSAPP_NUMBER = '254725310112';
+const WHATSAPP_NUMBER = '0725310112';
 const ADMIN_EMAIL = 'protech.ke.group@gmail.com';
 const SMTP_HOST = process.env.SMTP_HOST || 'smtp.sendgrid.net';
 const SMTP_PORT = parseInt(process.env.SMTP_PORT || '587');
