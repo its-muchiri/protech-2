@@ -10,11 +10,6 @@ import Breadcrumbs from '@/components/Breadcrumbs';
 import BlogSearch from '@/components/BlogSearch';
 import { useState } from 'react';
 
-export const metadata = {
-  title: 'ProTech Journal | Guides, Insights & Industry News',
-  description: 'Editorial guides and industry insights on solar power, water systems, medical equipment, construction and professional services in Kenya.',
-};
-
 export default function BlogPage() {
   const [searchOpen, setSearchOpen] = useState(false);
   const blogPosts = getAllPosts();
