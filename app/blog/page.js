@@ -1,17 +1,18 @@
-'use client';
-
 import Link from 'next/link';
-import { ArrowRight, Search } from 'lucide-react';
+import { ArrowRight } from 'lucide-react';
 import { getAllPosts } from '@/lib/blog-content';
 import HeroArticle from '@/components/HeroArticle';
 import ArticleCard from '@/components/ArticleCard';
 import ArticleCarousel from '@/components/ArticleCarousel';
 import Breadcrumbs from '@/components/Breadcrumbs';
-import BlogSearch from '@/components/BlogSearch';
-import { useState } from 'react';
+import SearchToggle from '@/components/SearchToggle';
+
+export const metadata = {
+  title: 'ProTech Journal | Guides, Insights & Industry News',
+  description: 'Editorial guides and industry insights on solar power, water systems, medical equipment, construction and professional services in Kenya.',
+};
 
 export default function BlogPage() {
-  const [searchOpen, setSearchOpen] = useState(false);
   const blogPosts = getAllPosts();
   const featured = blogPosts[0];
   const topStories = blogPosts.slice(1, 4);
@@ -24,16 +25,11 @@ export default function BlogPage() {
         { label: 'Home', href: '/' },
         { label: 'Journal', href: '/blog' }
       ]} />
-      <BlogSearch onClose={() => setSearchOpen(false)} />
+      <SearchToggle />
       
       {/* Editorial Hero */}
       <section className="bg-gradient-to-br from-gray-900 to-gray-800 py-16 md:py-24 relative">
-        <button
-          onClick={() => setSearchOpen(true)}
-          className="absolute top-6 right-6 bg-white/10 backdrop-blur px-4 py-2 rounded-lg text-white flex items-center gap-2 hover:bg-white/20"
-        >
-          <Search size={18} /> Search
-        </button>
+        
         <div className="container mx-auto px-4">
           <div className="max-w-4xl">
             <p className="text-orange-400 text-sm font-semibold uppercase tracking-wider mb-4">The ProTech Journal</p>
