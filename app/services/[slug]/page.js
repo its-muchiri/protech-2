@@ -67,7 +67,7 @@ export default function ServicePage({ params }) {
   const remainingImages = gallery.slice(1);
   const serviceUrl = `https://www.protech.co.ke/services/${service.slug}`;
   const PHONE = '+254 707 526 602';
-  const WHATSAPP_NUMBER = '254707526602';
+  const WHATSAPP_NUMBER = '254725310112';
 
   return (
     <div>

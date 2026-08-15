@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   images: {
-    domains: ['yourdomain.co.ke', 'www.google.com', 'lh3.google.com'],
+    domains: ['protech.co.ke', 'www.protech.co.ke', 'www.google.com', 'lh3.google.com'],
     formats: ['image/avif', 'image/webp'],
   },
   async headers() {

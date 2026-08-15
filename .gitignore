@@ -1,1 +1,12 @@
 node_modules/
+.next/
+.vercel
+
+# Design prototypes & scratch
+design 2/
+Set Company Name/
+.firecrawl/
+build-output.txt
+protech img/
+__pycache__/
+*.pyc

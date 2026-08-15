@@ -1,9 +1,8 @@
-import { metadata } from '@/app/layout';
 import LeadForm from '@/components/LeadForm';
 
 export const metadata = {
-  title: 'About Us | Kenya Consultancy',
-  description: 'Learn about Kenya Consultancy - your trusted multi-service partner for construction, solar, plumbing, security, and professional services across Kenya.',
+  title: 'About Us | ProTech Consulting',
+  description: 'Learn about ProTech Consulting - your trusted multi-service partner for construction, solar, plumbing, security, and professional services across Kenya.',
 };
 
 export default function AboutPage() {
@@ -11,9 +10,9 @@ export default function AboutPage() {
     <div className="section-padding">
       <div className="container-custom">
         <div className="text-center mb-12">
-          <h1 className="section-title">About Kenya Consultancy</h1>
+          <h1 className="section-title">About ProTech Consulting</h1>
           <p className="section-subtitle">
-            We are Kenya's trusted multi-service consultancy, delivering quality and reliability across 17+ service lines.
+            We are Kenya&apos;s trusted multi-service consultancy, delivering quality and reliability across 17+ service lines.
           </p>
         </div>
 
@@ -21,7 +20,7 @@ export default function AboutPage() {
           <div>
             <h2 className="font-heading text-2xl font-bold text-navy-900 mb-4">Our Story</h2>
             <p className="text-gray-600 mb-4">
-              Kenya Consultancy was founded with a vision to provide comprehensive, professional services to Kenyan businesses and homeowners. With over 5 years of experience and 500+ completed projects, we have established ourselves as a trusted partner in the construction and professional services industry.
+              ProTech Consulting was founded with a vision to provide comprehensive, professional services to Kenyan businesses and homeowners. With over 5 years of experience and 500+ completed projects, we have established ourselves as a trusted partner in the construction and professional services industry.
             </p>
             <p className="text-gray-600 mb-4">
               Our team of certified professionals brings together expertise in construction, renewable energy, plumbing, security, and more. We are committed to delivering quality work on time and within budget.
@@ -40,8 +39,12 @@ export default function AboutPage() {
               ))}
             </div>
           </div>
-          <div className="bg-gray-100 rounded-2xl h-80 flex items-center justify-center">
-            <span className="text-gray-400 text-lg">Our Office & Team</span>
+          <div className="rounded-2xl overflow-hidden h-80">
+            <img
+              src="/protech-img/construction-civil-engineering/construction-civil-engineering_1.jpg"
+              alt="ProTech Consulting construction project"
+              className="w-full h-full object-cover"
+            />
           </div>
         </div>
 

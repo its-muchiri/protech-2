@@ -4,7 +4,7 @@ import { useState } from 'react';
 import { useForm } from 'react-hook-form';
 import { Phone, Mail, MessageCircle, CheckCircle2 } from 'lucide-react';
 
-const WHATSAPP_NUMBER = '254707526602';
+const WHATSAPP_NUMBER = '254725310112';
 
 const glassInputStyle = {
   background: 'rgba(255, 255, 255, 0.45)',
@@ -92,7 +92,7 @@ export default function ContactForm() {
             type="text"
             {...register('name', { required: 'Full name is required' })}
             style={glassInputStyle}
-            placeholder="John Doe"
+            placeholder="Your Full Name"
             onFocus={(e) => { e.target.style.borderColor = 'rgba(15,76,44,0.5)'; e.target.style.boxShadow = '0 0 0 3px rgba(15,76,44,0.1)'; }}
             onBlur={(e) => { e.target.style.borderColor = 'rgba(255,255,255,0.4)'; e.target.style.boxShadow = 'none'; }}
           />

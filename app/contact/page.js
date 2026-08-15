@@ -1,12 +1,10 @@
 import ContactForm from '@/components/ContactForm';
-import { Phone, Mail, MapPin, Clock, MessageCircle } from 'lucide-react';
+import { Phone, Mail, MapPin, Clock } from 'lucide-react';
 
 export const metadata = {
   title: 'Contact Us | ProTech Consulting',
   description: 'Contact ProTech Consulting for all your service needs. Call us, email us, or fill out our online form. We respond within 30 minutes.',
 };
-
-const WHATSAPP_NUMBER = '254707526602';
 
 export default function ContactPage() {
   return (
@@ -35,7 +33,7 @@ export default function ContactPage() {
                   <Phone className="w-5 h-5 text-primary-600 mt-0.5" />
                   <div>
                     <p className="font-semibold text-navy-900">Phone</p>
-                    <a href="tel:+254707526602" className="text-gray-600 hover:text-primary-600 transition-colors">+254 707 526 602</a>
+                    <a href="tel:+254725310112" className="text-gray-600 hover:text-primary-600 transition-colors">+254 725 310 112</a>
                   </div>
                 </div>
                 <div className="flex items-start gap-3">
@@ -55,20 +53,6 @@ export default function ContactPage() {
                   </div>
                 </div>
               </div>
-            </div>
-
-            <div className="bg-green-50 border border-green-200 rounded-2xl p-6">
-              <h3 className="font-heading font-semibold text-lg mb-3 text-green-800">WhatsApp Us</h3>
-              <p className="text-sm text-green-700 mb-4">Chat with us directly for quick responses</p>
-              <a
-                href={`https://wa.me/${WHATSAPP_NUMBER}?text=Hello%2C%20I%20would%20like%20to%20get%20in%20touch`}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 bg-green-600 hover:bg-green-700 text-white font-semibold px-6 py-3 rounded-xl transition-colors"
-              >
-                <MessageCircle className="w-5 h-5" />
-                WhatsApp Us
-              </a>
             </div>
           </div>
 

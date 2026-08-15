@@ -4,7 +4,7 @@ import { useState } from 'react';
 import { useForm } from 'react-hook-form';
 import { MessageCircle, CheckCircle2 } from 'lucide-react';
 
-const WHATSAPP_NUMBER = '254707526602';
+const WHATSAPP_NUMBER = '254725310112';
 
 const serviceOptions = [
   'Construction & Civil Engineering',
@@ -105,7 +105,7 @@ Please send me a detailed quotation. Thank you.`;
           type="text"
           {...register('name', { required: 'Full name is required' })}
           className="form-input"
-          placeholder="John Doe"
+          placeholder="Your Full Name"
         />
         {errors.name && <p className="form-error">{errors.name.message}</p>}
       </div>

@@ -3,9 +3,8 @@
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
-import { Phone, MessageCircle, Menu, X } from 'lucide-react';
+import { Phone, Menu, X } from 'lucide-react';
 
-const WHATSAPP_LINK = 'https://wa.me/254707526602?text=Hello%20ProTech%20Consultants%2C%20I%20would%20like%20to%20request%20a%20quote.';
 const PHONE = '+254 707 526 602';
 
 const NAV_LINKS = [
@@ -147,27 +146,6 @@ export default function Header() {
               }}
             >
               <Phone size={14} /> Call Us
-            </a>
-            <a
-              href={WHATSAPP_LINK}
-              target="_blank"
-              rel="noopener noreferrer"
-              style={{
-                flex: 1,
-                display: 'flex',
-                alignItems: 'center',
-                justifyContent: 'center',
-                gap: 6,
-                background: '#25D366',
-                color: '#fff',
-                fontWeight: 600,
-                fontSize: 13,
-                padding: '10px 0',
-                borderRadius: 8,
-                textDecoration: 'none',
-              }}
-            >
-              <MessageCircle size={14} /> WhatsApp
             </a>
           </div>
         </div>

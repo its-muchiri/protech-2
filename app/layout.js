@@ -2,11 +2,10 @@ import './globals.css';
 import Script from 'next/script';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
-import WhatsAppFloat from '@/components/WhatsAppFloat';
 import StickyBar from '@/components/StickyBar';
 
 export const metadata = {
-  metadataBase: new URL('https://www.yourdomain.co.ke'),
+  metadataBase: new URL('https://www.protech.co.ke'),
   title: {
     default: 'Kenya Multi-Service Consultancy | Construction, Solar, Plumbing & More',
     template: '%s | ProTech Consulting',
@@ -24,13 +23,13 @@ export const metadata = {
   openGraph: {
     type: 'website',
     locale: 'en_KE',
-    url: 'https://www.yourdomain.co.ke',
+    url: 'https://www.protech.co.ke',
     siteName: 'ProTech Consulting',
     title: 'Kenya Multi-Service Consultancy | 17+ Services Nationwide',
     description: 'Leading multi-service consultancy in Kenya. Construction, Solar, Plumbing, Security, Borehole Drilling & more. Get a free quote today.',
     images: [
       {
-        url: 'https://www.yourdomain.co.ke/og-image.jpg',
+        url: 'https://www.protech.co.ke/og-image.jpg',
         width: 1200,
         height: 630,
         alt: 'ProTech Consulting - Multi-Service Provider',
@@ -87,7 +86,6 @@ export default function RootLayout({ children }) {
         <Header />
         <main className="min-h-screen">{children}</main>
         <Footer />
-        <WhatsAppFloat />
         <StickyBar />
       </body>
     </html>

@@ -1,4 +1,4 @@
-# Kenya Consultancy - Multi-Service Lead Generation Website
+# ProTech Consulting - Multi-Service Lead Generation Website
 
 A high-performance, mobile-optimized, SEO-optimized multi-service consultancy website for the Kenyan market. Built with Next.js 14, Tailwind CSS, and designed for lead generation across 17+ service verticals.
 

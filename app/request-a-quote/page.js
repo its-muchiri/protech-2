@@ -7,7 +7,7 @@ import {
   Clock, Shield, Award, Building2,
 } from 'lucide-react';
 
-const WHATSAPP_NUMBER = '254707526602';
+const WHATSAPP_NUMBER = '254725310112';
 const PHONE = '+254 707 526 602';
 const EMAIL = 'protech.ke.group@gmail.com';
 
@@ -245,7 +245,7 @@ export default function RequestQuotePage() {
               </p>
 
               <form onSubmit={handleSubmit(onSubmit)} style={{ display: 'flex', flexDirection: 'column', gap: 18 }}>
-                <GlassInput label="Full Name" required type="text" placeholder="John Doe"
+                <GlassInput label="Full Name" required type="text" placeholder="Your Full Name"
                   registerProps={register('name', { required: 'Full name is required' })}
                   error={errors.name && errors.name.message} />
 

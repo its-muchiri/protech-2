@@ -1,13 +1,13 @@
 import { NextResponse } from 'next/server';
 
-const WHATSAPP_NUMBER = '254700000000';
-const ADMIN_EMAIL = 'sales@yourdomain.co.ke';
+const WHATSAPP_NUMBER = '254725310112';
+const ADMIN_EMAIL = 'protech.ke.group@gmail.com';
 const SMTP_HOST = process.env.SMTP_HOST || 'smtp.sendgrid.net';
 const SMTP_PORT = parseInt(process.env.SMTP_PORT || '587');
 const SMTP_USER = process.env.SMTP_USER || '';
 const SMTP_PASS = process.env.SMTP_PASS || '';
-const FROM_EMAIL = process.env.FROM_EMAIL || 'noreply@yourdomain.co.ke';
-const FROM_NAME = process.env.FROM_NAME || 'Kenya Consultancy';
+const FROM_EMAIL = process.env.FROM_EMAIL || 'noreply@protech.co.ke';
+const FROM_NAME = process.env.FROM_NAME || 'ProTech Consulting';
 
 function formatPhone(phone) {
   let cleaned = phone.replace(/[\s\-()]/g, '');
@@ -23,7 +23,7 @@ function buildEmailHTML(data) {
   return `
     <html>
       <body style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto; padding: 20px;">
-        <h2 style="color: #102a43;">New Lead Inquiry from Kenya Consultancy</h2>
+        <h2 style="color: #102a43;">New Lead Inquiry from ProTech Consulting</h2>
         <div style="background: #f8fafc; padding: 20px; border-radius: 8px; margin: 16px 0;">
           <p><strong>Name:</strong> ${data.name || 'N/A'}</p>
           <p><strong>Phone:</strong> ${formatPhone(data.phone || 'N/A')}</p>
@@ -35,7 +35,7 @@ function buildEmailHTML(data) {
           <p><strong>Page:</strong> ${data.page || 'Unknown'}</p>
           <p><strong>Timestamp:</strong> ${new Date().toLocaleString('en-KE')}</p>
         </div>
-        <p style="color: #666; font-size: 14px;">This is an automated notification from Kenya Consultancy lead capture system.</p>
+        <p style="color: #666; font-size: 14px;">This is an automated notification from ProTech Consulting lead capture system.</p>
       </body>
     </html>
   `;

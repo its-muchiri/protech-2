@@ -6,11 +6,11 @@ export function LocalBusinessSchema() {
         __html: JSON.stringify({
           '@context': 'https://schema.org',
           '@type': 'LocalBusiness',
-          name: 'Kenya Consultancy',
+          name: 'ProTech Consulting',
           description: 'Leading multi-service consultancy in Kenya providing construction, solar, plumbing, security, and professional services nationwide.',
-          url: 'https://www.yourdomain.co.ke',
-          telephone: '+254700000000',
-          email: 'sales@yourdomain.co.ke',
+          url: 'https://www.protech.co.ke',
+          telephone: '+254725310112',
+          email: 'protech.ke.group@gmail.com',
           address: {
             '@type': 'PostalAddress',
             streetAddress: 'Nairobi',
@@ -30,10 +30,10 @@ export function LocalBusinessSchema() {
             name: 'Kenya',
           },
           sameAs: [
-            'https://www.facebook.com/yourdomain',
-            'https://twitter.com/yourdomain',
-            'https://www.instagram.com/yourdomain',
-            'https://www.linkedin.com/company/yourdomain',
+            'https://www.facebook.com/protechconsultants',
+            'https://twitter.com/protechconsultants',
+            'https://www.instagram.com/protechconsultants',
+            'https://www.linkedin.com/company/protechconsultants',
           ],
         }),
       }}
@@ -76,8 +76,8 @@ export function ServicePageSchema({ service, description, url }) {
           url: url,
           provider: {
             '@type': 'LocalBusiness',
-            name: 'Kenya Consultancy',
-            telephone: '+254700000000',
+            name: 'ProTech Consulting',
+            telephone: '+254725310112',
             address: {
               '@type': 'PostalAddress',
               addressLocality: 'Nairobi',

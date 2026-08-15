@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server';
 
-const WHATSAPP_NUMBER = '254700000000';
+const WHATSAPP_NUMBER = '254725310112';
 
 export async function GET(request) {
   const { searchParams } = new URL(request.url);

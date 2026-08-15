@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
-import { ArrowRight, MessageCircle, CheckCircle2 } from 'lucide-react';
+import { ArrowRight, CheckCircle2 } from 'lucide-react';
 
 const IMAGES = [
   '/protech-img/solar-power-renewable-energy/solar-power-renewable-energy_1.jpg',
@@ -10,8 +10,6 @@ const IMAGES = [
   '/protech-img/swimming-pool-construction/swimming-pool-construction_1.jpg',
   '/protech-img/security-systems-physical-security/security-systems-physical-security_1.jpg',
 ];
-
-const WHATSAPP_LINK = 'https://wa.me/254707526602?text=Hello%20ProTech%20Consultants%2C%20I%20would%20like%20to%20request%20a%20quote.';
 
 export default function Hero() {
   const [active, setActive] = useState(0);
@@ -117,26 +115,6 @@ export default function Hero() {
             >
               <ArrowRight size={16} /> Get a Quote
             </Link>
-            <a
-              href={WHATSAPP_LINK}
-              target="_blank"
-              rel="noopener noreferrer"
-              style={{
-                display: 'inline-flex',
-                alignItems: 'center',
-                gap: 8,
-                background: '#25D366',
-                color: '#fff',
-                fontWeight: 600,
-                fontSize: 15,
-                padding: '14px 28px',
-                borderRadius: 10,
-                textDecoration: 'none',
-                transition: 'background 0.2s',
-              }}
-            >
-              <MessageCircle size={16} /> WhatsApp Us
-            </a>
           </div>
         </div>
       </div>

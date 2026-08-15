@@ -1,9 +1,8 @@
 ﻿'use client';
 
 import Link from 'next/link';
-import { Building2, Phone, MessageCircle, Mail, MapPin, Clock } from 'lucide-react';
+import { Building2, Phone, Mail, MapPin, Clock } from 'lucide-react';
 
-const WHATSAPP_LINK = 'https://wa.me/254707526602';
 const PHONE = '+254 707 526 602';
 
 const TOP_SERVICES = [
@@ -162,10 +161,7 @@ export default function Footer() {
                 <Phone size={14} style={{ marginTop: 2, flexShrink: 0, color: '#86EFAC' }} />
                 <span>{PHONE}</span>
               </a>
-              <a href={WHATSAPP_LINK} target="_blank" rel="noopener noreferrer" style={{ display: 'flex', alignItems: 'flex-start', gap: 10, fontSize: 13, color: 'rgba(255,255,255,0.65)', textDecoration: 'none', lineHeight: 1.55 }}>
-                <MessageCircle size={14} style={{ marginTop: 2, flexShrink: 0, color: '#86EFAC' }} />
-                <span>WhatsApp Us</span>
-              </a>
+
               <a href="mailto:protech.ke.group@gmail.com" style={{ display: 'flex', alignItems: 'flex-start', gap: 10, fontSize: 13, color: 'rgba(255,255,255,0.65)', textDecoration: 'none', lineHeight: 1.55 }}>
                 <Mail size={14} style={{ marginTop: 2, flexShrink: 0, color: '#86EFAC' }} />
                 <span>protech.ke.group@gmail.com</span>

@@ -36,7 +36,7 @@ import {
   Mail,
 } from 'lucide-react';
 
-const WHATSAPP_NUMBER = '254707526602';
+const WHATSAPP_NUMBER = '254725310112';
 const WHATSAPP_LINK = `https://wa.me/${WHATSAPP_NUMBER}?text=Hello%20ProTech%20Consultants%2C%20I%20would%20like%20to%20request%20a%20quote.`;
 const PHONE = '+254 707 526 602';
 const featuredServices = services.slice(0, 6);
@@ -396,7 +396,7 @@ Please send me a detailed quotation. Thank you.`;
             <a href={`tel:${PHONE}`} style={{ ...glassDark, padding: '12px 24px', color: '#fff', fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 14, textDecoration: 'none', display: 'flex', alignItems: 'center', gap: 8 }}>
               <Phone size={15} /> {PHONE}
             </a>
-            <a href={WHATSAPP_LINK} className="btn-whatsapp" style={{ fontSize: 14 }}><MessageCircle size={15} /> WhatsApp</a>
+            <a href="/request-a-quote" className="btn-whatsapp" style={{ fontSize: 14 }}><MessageCircle size={15} /> Get a Quote</a>
           </div>
         </div>
       </div>
@@ -455,7 +455,6 @@ Please send me a detailed quotation. Thank you.`;
               >
                 <ArrowRight size={16} /> Get a Quote
               </button>
-              <a href={WHATSAPP_LINK} className="btn-whatsapp" style={{ fontSize: 15, padding: '14px 32px' }}><MessageCircle size={16} /> WhatsApp Us</a>
             </div>
             <div style={{ marginTop: 40, display: 'flex', justifyContent: 'center', gap: 24, flexWrap: 'wrap' }}>
               {['Free Quote', 'Certified Engineers', 'Pan-Kenya Coverage', '24/7 Support'].map(b => (
