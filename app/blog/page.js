@@ -1,3 +1,5 @@
+'use client';
+
 import Link from 'next/link';
 import { ArrowRight, Search } from 'lucide-react';
 import { getAllPosts } from '@/lib/blog-content';
