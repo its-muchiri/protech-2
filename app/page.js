@@ -5,6 +5,7 @@ import { useForm } from 'react-hook-form';
 import Hero from '@/components/Hero';
 import FAQ from '@/components/FAQ';
 import ServiceCard from '@/components/ServiceCard';
+import BlogCarousel from '@/components/BlogCarousel';
 import { services } from '@/data/services';
 import { siteFAQs } from '@/data/faqs';
 import Link from 'next/link';
@@ -142,7 +143,7 @@ Please send me a detailed quotation. Thank you.`;
       {/* Stats Bar */}
       <div style={{ background: '#0F4C2C' }}>
         <div className="container-custom">
-          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: 0 }}>
+          <div className="stats-grid" style={{ display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: 0 }}>
             {[
               { value: '500+', label: 'Projects Delivered' },
               { value: '17+', label: 'Services Offered' },
@@ -198,7 +199,7 @@ Please send me a detailed quotation. Thank you.`;
       {/* Why Choose Us + Quote Form */}
       <section className="section-padding" style={{ position: 'relative', background: 'linear-gradient(135deg, #E2E8F0 0%, #F0FDF4 100%)' }}>
         <div className="container-custom">
-          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 60, alignItems: 'start' }}>
+          <div className="grid-2col" style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 60, alignItems: 'start' }}>
             <div>
               <p style={{ fontSize: 13, fontWeight: 600, color: '#15803D', letterSpacing: '0.1em', textTransform: 'uppercase', marginBottom: 8 }}>Why ProTech</p>
               <h2 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 'clamp(26px, 3vw, 36px)', color: '#0B1F3A', marginBottom: 16 }}>Built on Certification, Delivered with Accountability</h2>
@@ -432,6 +433,14 @@ Please send me a detailed quotation. Thank you.`;
           </div>
         </div>
       </section>
+
+      {/* Blog Carousel - more posts on home */}
+      <BlogCarousel
+        variant="home"
+        title="From the ProTech Journal"
+        subtitle="Expert guides on medical equipment, construction, solar, safaris and more — explore our latest articles."
+        limit={15}
+      />
 
       <FAQ faqs={siteFAQs} />
 

@@ -48,6 +48,8 @@ module.exports = {
       fontFamily: {
         sans: ['Inter', 'system-ui', '-apple-system', 'sans-serif'],
         heading: ['Poppins', 'Inter', 'sans-serif'],
+        serif: ['Source Serif 4', 'Georgia', 'Times New Roman', 'serif'],
+        editorial: ['Playfair Display', 'Georgia', 'serif'],
       },
       borderRadius: {
         card: '8px',

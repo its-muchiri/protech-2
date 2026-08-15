@@ -22,7 +22,7 @@ export default function Hero() {
   }, []);
 
   return (
-    <section style={{ position: 'relative', minHeight: '100vh', display: 'flex', alignItems: 'center', overflow: 'hidden', background: '#0B1F3A' }}>
+    <section className="hero-section" style={{ position: 'relative', minHeight: '100vh', display: 'flex', alignItems: 'center', overflow: 'hidden', background: '#0B1F3A' }}>
       {IMAGES.map((src, i) => (
         <img
           key={src}
@@ -48,7 +48,7 @@ export default function Hero() {
       }} />
 
       <div className="container-custom" style={{ position: 'relative', zIndex: 1, padding: '80px 64px', width: '100%' }}>
-        <div style={{
+        <div className="hero-content-card" style={{
           maxWidth: 640,
           backdropFilter: 'blur(20px)',
           WebkitBackdropFilter: 'blur(20px)',

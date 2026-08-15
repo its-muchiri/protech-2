@@ -1,4 +1,5 @@
 import ContactForm from '@/components/ContactForm';
+import BlogCarouselSection from '@/components/BlogCarouselSection';
 import { Phone, Mail, MapPin, Clock } from 'lucide-react';
 
 export const metadata = {
@@ -61,6 +62,12 @@ export default function ContactPage() {
             <ContactForm />
           </div>
         </div>
+
+        <BlogCarouselSection
+          title="Latest From Our Journal"
+          subtitle="Guides and insights from the ProTech team."
+          limit={9}
+        />
       </div>
     </div>
   );

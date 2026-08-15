@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import { useForm } from 'react-hook-form';
+import BlogCarousel from '@/components/BlogCarousel';
 import {
   MessageCircle, Phone, Mail, CheckCircle2,
   Clock, Shield, Award, Building2,
@@ -368,6 +369,12 @@ export default function RequestQuotePage() {
           </div>
         </div>
       </section>
+
+      <BlogCarousel
+        title="Explore Our Guides"
+        subtitle="Read helpful guides while you plan your project."
+        limit={9}
+      />
     </div>
   );
 }

@@ -1,4 +1,5 @@
 import LeadForm from '@/components/LeadForm';
+import BlogCarouselSection from '@/components/BlogCarouselSection';
 
 export const metadata = {
   title: 'About Us | ProTech Consulting',
@@ -71,6 +72,12 @@ export default function AboutPage() {
             <LeadForm />
           </div>
         </div>
+
+        <BlogCarouselSection
+          title="Latest From Our Journal"
+          subtitle="Guides and insights from the ProTech team."
+          limit={9}
+        />
       </div>
     </div>
   );

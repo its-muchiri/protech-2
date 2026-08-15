@@ -1,5 +1,6 @@
 import { services } from '@/data/services';
 import ServiceCard from '@/components/ServiceCard';
+import BlogCarouselSection from '@/components/BlogCarouselSection';
 
 export const metadata = {
   title: 'All Services | ProTech Consulting Kenya',
@@ -57,6 +58,12 @@ export default function ServicesPage() {
           </div>
         </div>
       </section>
+
+      <BlogCarouselSection
+        title="Service Guides & Insights"
+        subtitle="Read in-depth guides related to our services across Kenya."
+        limit={9}
+      />
     </div>
   );
 }

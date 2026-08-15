@@ -1,6 +1,7 @@
 import { services } from '@/data/services';
 import Link from 'next/link';
 import { ArrowRight } from 'lucide-react';
+import BlogCarouselSection from '@/components/BlogCarouselSection';
 
 export const metadata = {
   title: 'Project Portfolio | ProTech Consulting',
@@ -30,10 +31,11 @@ export default function PortfolioPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
           {portfolioItems.map((item, i) => (
             <div key={i} className="bg-white rounded-2xl shadow-sm border border-gray-100 overflow-hidden hover:shadow-xl transition-shadow">
-              <div className="h-48 overflow-hidden">
+              <div style={{ position: 'relative', width: '100%', aspectRatio: '16 / 10' }} className="overflow-hidden">
                 <img
                   src={item.image}
                   alt={item.title}
+                  loading="lazy"
                   className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
                 />
               </div>
@@ -58,6 +60,12 @@ export default function PortfolioPage() {
             <a href="#" className="text-primary-600 hover:text-primary-700 font-semibold">LinkedIn</a>
           </div>
         </div>
+
+        <BlogCarouselSection
+          title="Latest From Our Journal"
+          subtitle="Guides and insights from the ProTech team."
+          limit={9}
+        />
       </div>
     </div>
   );
