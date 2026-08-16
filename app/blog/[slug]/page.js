@@ -72,7 +72,7 @@ export default function BlogPostPage({ params }) {
   };
 
   return (
-    <div className="bg-white">
+    <div className="min-h-screen bg-gradient-to-b from-gray-50 via-white to-gray-50">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <ReadingProgress />
       <Breadcrumbs items={[
@@ -82,67 +82,87 @@ export default function BlogPostPage({ params }) {
         { label: post.title, href: '#' }
       ]} />
       
-      <section className="py-12 md:py-20 bg-gradient-to-b from-gray-50 to-white">
-        <div className="container mx-auto px-4 max-w-4xl">
-          <span className="inline-block text-xs font-semibold uppercase tracking-wider text-orange-600 bg-orange-50 px-3 py-1 rounded-full mb-6">
-            {post.categoryLabel}
-          </span>
-          <h1 className="font-serif text-3xl md:text-5xl lg:text-6xl font-bold text-gray-900 leading-tight mb-6">
-            {post.title}
-          </h1>
-          <ArticleMetadata post={post} />
-          <div className="mt-8 relative aspect-[16/9] overflow-hidden rounded-xl bg-gray-100">
-            <img src={post.coverImage} alt={post.title} className="w-full h-full object-cover" />
+      {/* Hero with Glassmorphism */}
+      <section className="relative overflow-hidden">
+        <div className="absolute inset-0 bg-gradient-to-b from-gray-900/95 via-gray-900/90 to-gray-50/50" />
+        <div className="container mx-auto px-4 max-w-4xl relative z-10 py-10 md:py-16">
+          <div className="glass-editorial p-6 md:p-8 max-w-3xl mx-auto animate-fadeInUp">
+            <span className="blog-category-tag inline-block mb-4">{post.categoryLabel}</span>
+            <h1 className="font-serif text-3xl md:text-5xl lg:text-6xl font-bold text-gray-900 leading-tight mb-5 tracking-tight">
+              {post.title}
+            </h1>
+            <ArticleMetadata post={post} />
+          </div>
+          <div className="mt-6 relative aspect-[16/9] overflow-hidden rounded-2xl animate-fadeInUp" style={{animationDelay: '150ms'}}>
+            <div className="absolute inset-0 glass-hero" />
+            <img src={post.coverImage} alt={post.title} className="w-full h-full object-cover relative z-10" />
           </div>
         </div>
       </section>
 
-      <section className="py-12">
-        <div className="container mx-auto px-4 max-w-4xl">
-          <div className="grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-12">
-            <article className="prose prose-lg max-w-none prose-headings:font-serif prose-headings:font-bold prose-a:text-orange-600">
+      {/* Article Content with Glass Sidebar */}
+      <section className="section-tighter">
+        <div className="container mx-auto px-4 max-w-7xl">
+          <div className="grid grid-cols-1 lg:grid-cols-[1fr_300px] gap-6">
+            {/* Main Article */}
+            <article className="glass-editorial p-6 md:p-8 animate-fadeInUp editorial-prose">
               <div dangerouslySetInnerHTML={{ __html: post.content }} />
             </article>
+
+            {/* Sidebar */}
             <aside className="hidden lg:block">
-              <div className="sticky top-24 space-y-6">
-                <div className="border border-gray-200 rounded-lg p-6">
-                  <h3 className="font-semibold mb-3">Share this article</h3>
+              <div className="sticky top-24 space-y-4">
+                {/* Share */}
+                <div className="glass-card-hover p-5 animate-fadeInUp" style={{animationDelay: '100ms'}}>
+                  <h3 className="font-semibold mb-3 text-gray-900">Share this article</h3>
                   <div className="flex flex-col gap-2">
                     {SHARE_PLATFORMS.map((p) => (
-                      <a key={p.name} href={p.href(url)} target="_blank" rel="noopener noreferrer" className="text-sm text-gray-600 hover:text-orange-600">
+                      <a key={p.name} href={p.href(url)} target="_blank" rel="noopener noreferrer" className="text-sm text-gray-600 hover:text-orange-600 transition-colors flex items-center gap-2 p-2 rounded-lg hover:bg-gray-50">
                         {p.name}
                       </a>
                     ))}
                   </div>
                 </div>
+
+                {/* CTA */}
+                <div className="glass-strong-dark p-6 text-white animate-fadeInUp" style={{animationDelay: '200ms'}}>
+                  <div className="absolute inset-0 bg-gradient-to-r from-orange-600/20 to-transparent pointer-events-none" />
+                  <div className="relative">
+                    <h2 className="font-serif text-xl md:text-2xl font-bold mb-3">Get a Free Quote</h2>
+                    <p className="text-gray-300 mb-5 max-w-xs text-sm">
+                      Get a free, no-obligation quote from ProTech Consultants. Our team will assess your needs and guide you through the best option for your situation in Kenya.
+                    </p>
+                    <div className="flex flex-col gap-2">
+                      <Link href="/request-a-quote" className="glass-btn-cta text-center py-3 px-4 rounded-lg font-semibold text-sm hover:scale-[1.02] transition-transform">
+                        <MessageCircle size={14} className="inline-block mr-2" /> Get a Quote
+                      </Link>
+                      <a href="tel:0725310112" className="glass-btn text-center py-3 px-4 rounded-lg font-semibold text-sm hover:scale-[1.02] transition-transform border border-white/20 bg-white/10">
+                        <Phone size={14} className="inline-block mr-2" /> 0725310112
+                      </a>
+                    </div>
+                  </div>
+                </div>
               </div>
             </aside>
-          </div>
-
-          <div className="mt-16 bg-gray-900 rounded-xl p-8 md:p-12 text-white relative overflow-hidden">
-            <div className="absolute inset-0 bg-gradient-to-r from-orange-600/20 to-transparent pointer-events-none" />
-            <div className="relative">
-              <h2 className="font-serif text-2xl md:text-3xl font-bold mb-4">Get a Free Quote</h2>
-              <p className="text-gray-300 mb-6 max-w-2xl">
-                Get a free, no-obligation quote from ProTech Consultants. Our team will assess your needs and guide you through the best option for your situation in Kenya.
-              </p>
-              <div className="flex flex-wrap gap-3">
-                <Link href="/request-a-quote" className="inline-flex items-center gap-2 px-6 py-3 bg-orange-600 text-white font-semibold rounded-lg hover:bg-orange-700">
-                  <MessageCircle size={16} /> Get a Quote
-                </Link>
-                <a href="tel:0725310112" className="inline-flex items-center gap-2 px-6 py-3 bg-white/10 text-white rounded-lg hover:bg-white/20">
-                  <Phone size={16} /> 0725310112
-                </a>
-              </div>
-            </div>
           </div>
         </div>
       </section>
 
-      <RelatedArticles posts={related} />
-      <div className="container mx-auto px-4 py-8">
-        <NewsletterCTA />
-      </div>
+      {/* Related Articles */}
+      <section className="section-tighter bg-gray-50/50">
+        <div className="container mx-auto px-4">
+          <RelatedArticles posts={related} />
+        </div>
+      </section>
+
+      {/* Newsletter CTA */}
+      <section className="section-tight">
+        <div className="container mx-auto px-4">
+          <div className="glass-strong p-6 md:p-8 max-w-3xl mx-auto text-center animate-fadeInUp">
+            <NewsletterCTA />
+          </div>
+        </div>
+      </section>
     </div>
   );
 }
