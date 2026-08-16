@@ -191,6 +191,7 @@ export default function Header() {
           .container-custom { padding: 0 12px !important; }
         }
       `}
+      </style>
     </header>
   );
 }

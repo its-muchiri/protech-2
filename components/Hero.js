@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
-import { ArrowRight, CheckCircle2 } from 'lucide-react';
+import { ArrowRight, CheckCircle2, Phone } from 'lucide-react';
 
 const IMAGES = [
   '/protech-img/solar-power-renewable-energy/solar-power-renewable-energy_1.jpg',
