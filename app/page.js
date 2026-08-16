@@ -9,6 +9,9 @@ import BlogCarousel from '@/components/BlogCarousel';
 import { services } from '@/data/services';
 import { siteFAQs } from '@/data/faqs';
 import Link from 'next/link';
+import LogoCarousel from '@/components/LogoCarousel';
+import { governmentAuthorities } from '@/data/government-authorities';
+import { kenyaCounties } from '@/data/kenya-counties';
 import {
   ArrowRight,
   MessageCircle,
@@ -434,13 +437,41 @@ Please send me a detailed quotation. Thank you.`;
         </div>
       </section>
 
-      {/* Blog Carousel - more posts on home */}
+{/* Blog Carousel - more posts on home */}
       <BlogCarousel
         variant="home"
         title="From the ProTech Journal"
-        subtitle="Expert guides on medical equipment, construction, solar, safaris and more � explore our latest articles."
+        subtitle="Expert guides on medical equipment, construction, solar, safaris and more \u2014 explore our latest articles."
         limit={15}
       />
+
+      {/* Regulatory Authorities */}
+      <section className="section-tighter bg-gradient-to-b from-orange-50/50 to-white">
+        <div className="container-custom">
+          <LogoCarousel
+            items={governmentAuthorities}
+            title="Regulatory Authorities & Certifications"
+            subtitle="Fully compliant with Kenya's key regulatory bodies"
+            itemsPerView={4}
+            interval={4000}
+            className="mb-16"
+          />
+        </div>
+      </section>
+
+      {/* Counties We Serve */}
+      <section className="section-tighter bg-gradient-to-b from-green-50/50 to-white">
+        <div className="container-custom">
+          <LogoCarousel
+            items={kenyaCounties.slice(0, 16)}
+            title="Counties We Serve"
+            subtitle="Delivering services across Kenya's counties"
+            itemsPerView={6}
+            interval={3500}
+            className="mb-16"
+          />
+        </div>
+      </section>
 
       <FAQ faqs={siteFAQs} />
 

@@ -2,6 +2,9 @@ import { services } from '@/data/services';
 import ServiceCard from '@/components/ServiceCard';
 import BlogCarouselSection from '@/components/BlogCarouselSection';
 import IconRenderer from '@/components/IconRenderer';
+import LogoCarousel from '@/components/LogoCarousel';
+import { governmentAuthorities } from '@/data/government-authorities';
+import { kenyaCounties } from '@/data/kenya-counties';
 
 const categoryGroups = [
   {
@@ -378,6 +381,34 @@ export default function ServicesPage() {
               Call 0725310112
             </a>
           </div>
+        </div>
+      </section>
+
+      {/* Regulatory Authorities */}
+      <section className="section-tighter bg-gradient-to-b from-orange-50/50 to-white">
+        <div className="container-custom">
+          <LogoCarousel
+            items={governmentAuthorities}
+            title="Regulatory Authorities & Certifications"
+            subtitle="We operate under the strict oversight of Kenya's key regulatory bodies"
+            itemsPerView={4}
+            interval={4000}
+            className="mb-16"
+          />
+        </div>
+      </section>
+
+      {/* Counties We Serve */}
+      <section className="section-tighter bg-gradient-to-b from-green-50/50 to-white">
+        <div className="container-custom">
+          <LogoCarousel
+            items={kenyaCounties.slice(0, 20)}
+            title="Counties We Serve"
+            subtitle="Proudly delivering services across 20+ counties in Kenya"
+            itemsPerView={6}
+            interval={3500}
+            className="mb-16"
+          />
         </div>
       </section>
 
