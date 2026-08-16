@@ -4,7 +4,7 @@ import { useCallback, useEffect, useRef, useState } from 'react';
 import Link from 'next/link';
 import { ChevronLeft, ChevronRight, Calendar, Clock, ArrowRight } from 'lucide-react';
 
-const AUTOPLAY_MS = 4200;
+const AUTOPLAY_MS = 2000;
 
 export default function BlogCarousel({
   posts,

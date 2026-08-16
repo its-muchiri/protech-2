@@ -8,12 +8,12 @@ export default function LogoCarousel({
   title, 
   subtitle,
   autoplay = true,
-  interval = 3000,
+  interval = 2000,
   showArrows = true,
   showDots = true,
   itemsPerView = 5,
   pauseOnHover = true,
-  animationDuration = 500,
+  animationDuration = 400,
   className = ''
 }) {
   const [currentIndex, setCurrentIndex] = useState(0);

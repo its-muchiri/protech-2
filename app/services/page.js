@@ -392,7 +392,7 @@ export default function ServicesPage() {
             title="Regulatory Authorities & Certifications"
             subtitle="We operate under the strict oversight of Kenya's key regulatory bodies"
             itemsPerView={4}
-            interval={4000}
+            interval={2000}
             className="mb-16"
           />
         </div>
@@ -406,7 +406,7 @@ export default function ServicesPage() {
             title="Counties We Serve"
             subtitle="Proudly delivering services across 20+ counties in Kenya"
             itemsPerView={6}
-            interval={3500}
+            interval={2000}
             className="mb-16"
           />
         </div>
