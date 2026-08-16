@@ -1,6 +1,36 @@
 import { NextResponse } from 'next/server';
 
 const WHATSAPP_NUMBER = '0725310112';
+
+// Simple in-memory rate limiter (5 requests per IP per hour)
+const rateLimitMap = new Map();
+const RATE_LIMIT = 5; // 5 requests
+const WINDOW_MS = 60 * 60 * 1000; // 1 hour
+
+function checkRateLimit(ip) {
+  const now = Date.now();
+  const windowStart = now - WINDOW_MS;
+  
+  if (!rateLimitMap.has(ip)) {
+    rateLimitMap.set(ip, []);
+  }
+  
+  const requests = rateLimitMap.get(ip).filter(time => time > windowStart);
+  
+  if (requests.length >= RATE_LIMIT) {
+    return false;
+  }
+  
+  requests.push(now);
+  rateLimitMap.set(ip, requests);
+  return true;
+}
+
+function getClientIP(request) {
+  const forwarded = request.headers.get('x-forwarded-for');
+  const realIP = request.headers.get('x-real-ip');
+  return forwarded?.split(',')[0]?.trim() || realIP || 'unknown';
+}
 const ADMIN_EMAIL = 'protech.ke.group@gmail.com';
 const SMTP_HOST = process.env.SMTP_HOST || 'smtp.sendgrid.net';
 const SMTP_PORT = parseInt(process.env.SMTP_PORT || '587');
@@ -75,6 +105,14 @@ async function sendEmail(data) {
 
 export async function POST(request) {
   try {
+    const clientIP = getClientIP(request);
+    if (!checkRateLimit(clientIP)) {
+      return NextResponse.json(
+        { success: false, error: 'Too many requests. Please try again later.' },
+        { status: 429 }
+      );
+    }
+
     const body = await request.json();
     const { name, phone, email, service, location, details, budget, page } = body;
 

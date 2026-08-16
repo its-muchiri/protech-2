@@ -1,6 +1,6 @@
 ﻿'use client';
 
-import { Phone, ArrowRight, MessageCircle } from 'lucide-react';
+import { Phone, ArrowRight } from 'lucide-react';
 
 const PHONE = '0725310112';
 
@@ -40,7 +40,6 @@ export default function StickyBar() {
       paddingBottom: 'env(safe-area-inset-bottom)',
     }}>
       <StickyBtn bg="#0F4C2C" href={`tel:${PHONE}`} icon={Phone} label="Call" />
-      <StickyBtn bg="#25D366" href={`https://wa.me/${PHONE}`} target="_blank" icon={MessageCircle} label="WhatsApp" />
       <StickyBtn bg="#EA580C" href="/request-a-quote" icon={ArrowRight} label="Get Quote" />
     </div>
   );

@@ -453,7 +453,7 @@ Please send me a detailed quotation. Thank you.`;
             title="Regulatory Authorities & Certifications"
             subtitle="Fully compliant with Kenya's key regulatory bodies"
             itemsPerView={4}
-            interval={2000}
+            interval={1000}
             className="mb-16"
           />
         </div>
@@ -467,7 +467,7 @@ Please send me a detailed quotation. Thank you.`;
             title="Counties We Serve"
             subtitle="Delivering services across Kenya's counties"
             itemsPerView={6}
-            interval={2000}
+            interval={1000}
             className="mb-16"
           />
         </div>
