@@ -272,34 +272,37 @@ export default function ServicesPage() {
             position: 'relative',
           }}>
             {[
-              { step: '01', title: 'Consultation & Site Survey', desc: 'Free initial consultation, site assessment, and requirement gathering by our technical team.' },
-              { step: '02', title: 'Design & Proposal', desc: 'Detailed scope, BOQ, timeline, and 3D visualizations where applicable. Presented for client approval.' },
-              { step: '03', title: 'Approvals & Permits', desc: 'We handle NCA, NEMA, county government, and EPRA approvals — ensuring full regulatory compliance.' },
-              { step: '04', title: 'Procurement & Mobilization', desc: 'Materials sourced from vetted suppliers. Teams mobilized with safety briefings and project schedules.' },
-              { step: '05', title: 'Execution & Supervision', desc: 'Certified project managers oversee daily operations with quality checks at every milestone.' },
-              { step: '06', title: 'Testing, Handover & Support', desc: 'Commissioning tests, client walkthrough, documentation handover, and warranty activation.' },
+              { step: '01', title: 'Consultation & Site Survey', desc: 'Free initial consultation, site assessment, and requirement gathering by our technical team.', accent: '#EA580C', bg: 'rgba(234,88,12,0.15)', border: 'rgba(234,88,12,0.4)' },
+              { step: '02', title: 'Design & Proposal', desc: 'Detailed scope, BOQ, timeline, and 3D visualizations where applicable. Presented for client approval.', accent: '#0F4C2C', bg: 'rgba(15,76,44,0.15)', border: 'rgba(15,76,44,0.4)' },
+              { step: '03', title: 'Approvals & Permits', desc: 'We handle NCA, NEMA, county government, and EPRA approvals — ensuring full regulatory compliance.', accent: '#1E3A8A', bg: 'rgba(30,58,138,0.15)', border: 'rgba(30,58,138,0.4)' },
+              { step: '04', title: 'Procurement & Mobilization', desc: 'Materials sourced from vetted suppliers. Teams mobilized with safety briefings and project schedules.', accent: '#B45309', bg: 'rgba(180,83,9,0.15)', border: 'rgba(180,83,9,0.4)' },
+              { step: '05', title: 'Execution & Supervision', desc: 'Certified project managers oversee daily operations with quality checks at every milestone.', accent: '#0F4C2C', bg: 'rgba(15,76,44,0.15)', border: 'rgba(15,76,44,0.4)' },
+              { step: '06', title: 'Testing, Handover & Support', desc: 'Commissioning tests, client walkthrough, documentation handover, and warranty activation.', accent: '#EA580C', bg: 'rgba(234,88,12,0.15)', border: 'rgba(234,88,12,0.4)' },
             ].map((item, i) => (
-              <div key={i} className="glass-card glass-dark hover-lift" style={{ padding: '32px 24px', textAlign: 'center', border: '1px solid rgba(255,255,255,0.1)' }}>
+              <div key={i} className="glass-card-hover" style={{ padding: '36px 28px', textAlign: 'center', background: item.bg, border: `2px solid ${item.border}` }}>
                 <div style={{
-                  width: 56, height: 56, margin: '0 auto 20px',
-                  background: 'linear-gradient(135deg, #EA580C 0%, #0F4C2C 100%)',
+                  width: 64, height: 64, margin: '0 auto 22px',
+                  background: `linear-gradient(135deg, ${item.accent} 0%, ${item.accent}CC 100%)`,
                   borderRadius: '50%',
                   display: 'flex', alignItems: 'center', justifyContent: 'center',
                   fontFamily: "'Poppins', sans-serif",
-                  fontWeight: 700, fontSize: 18, color: '#fff',
+                  fontWeight: 800, fontSize: 20, color: '#fff',
+                  boxShadow: `0 8px 24px ${item.accent}40`,
+                  border: '3px solid rgba(255,255,255,0.2)',
                 }}>
                   {item.step}
                 </div>
                 <h4 style={{
                   fontFamily: "'Poppins', sans-serif",
-                  fontWeight: 600,
-                  fontSize: 17,
+                  fontWeight: 700,
+                  fontSize: 18,
                   color: '#fff',
-                  marginBottom: 8,
+                  marginBottom: 10,
+                  textShadow: '0 2px 8px rgba(0,0,0,0.3)',
                 }}>
                   {item.title}
                 </h4>
-                <p style={{ fontSize: 14, color: 'rgba(255,255,255,0.7)', lineHeight: 1.6 }}>
+                <p style={{ fontSize: 14.5, color: 'rgba(255,255,255,0.85)', lineHeight: 1.65, fontWeight: 400 }}>
                   {item.desc}
                 </p>
               </div>
