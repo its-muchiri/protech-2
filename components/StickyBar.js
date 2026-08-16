@@ -1,6 +1,6 @@
 ﻿'use client';
 
-import { Phone, ArrowRight } from 'lucide-react';
+import { Phone, ArrowRight, MessageCircle } from 'lucide-react';
 
 const PHONE = '0725310112';
 
@@ -16,27 +16,31 @@ function StickyBtn({ bg, href, icon: Icon, label, target }) {
         flexDirection: 'column',
         alignItems: 'center',
         justifyContent: 'center',
-        gap: 3,
-        padding: '10px 0',
+        gap: 4,
+        padding: '8px 4px',
         background: bg,
         color: '#fff',
         textDecoration: 'none',
-        fontSize: 11,
+        fontSize: 10,
         fontWeight: 600,
         fontFamily: "'Poppins', sans-serif",
-        minHeight: 56,
+        minHeight: '48px',
+        minWidth: '48px',
       }}
     >
-      <Icon size={18} />
-      <span>{label}</span>
+      <Icon size={16} />
+      <span style={{ lineHeight: 1, whiteSpace: 'nowrap' }}>{label}</span>
     </a>
   );
 }
 
 export default function StickyBar() {
   return (
-    <div className="sticky-bottom-bar">
+    <div className="sticky-bottom-bar safe-area-bottom" style={{
+      paddingBottom: 'env(safe-area-inset-bottom)',
+    }}>
       <StickyBtn bg="#0F4C2C" href={`tel:${PHONE}`} icon={Phone} label="Call" />
+      <StickyBtn bg="#25D366" href={`https://wa.me/${PHONE}`} target="_blank" icon={MessageCircle} label="WhatsApp" />
       <StickyBtn bg="#EA580C" href="/request-a-quote" icon={ArrowRight} label="Get Quote" />
     </div>
   );
