@@ -190,10 +190,18 @@
   },
   "active": "8bdcd72c1b1476d3",
   "lastOpenFiles": [
-    "public/sitemap.xml",
-    "scripts/generate-sitemap.js",
-    "lib/useMediaQuery.js",
-    "app/not-found.js",
+    "node_modules/gcp-metadata/node_modules/google-logging-utils/build",
+    "node_modules/gcp-metadata/node_modules/gaxios/LICENSE",
+    "node_modules/gcp-metadata/build/src/gcp-residency.js",
+    "node_modules/gcp-metadata/node_modules/gaxios/build",
+    "node_modules/gcp-metadata/build/src/index.js",
+    "node_modules/gcp-metadata/node_modules/rimraf",
+    "node_modules/gcp-metadata/node_modules/google-logging-utils",
+    "node_modules/gcp-metadata/node_modules/gaxios",
+    "node_modules/gcp-metadata/build/src",
+    "node_modules/gcp-metadata/LICENSE",
+    "node_modules/gcp-metadata/node_modules",
+    "node_modules/ecdsa-sig-formatter/README.md",
     "PROJECT_ANALYSIS_V1.md"
   ]
 }

@@ -67,6 +67,7 @@ export default function RootLayout({ children }) {
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
         <link rel="dns-prefetch" href="//fonts.googleapis.com" />
         <link rel="dns-prefetch" href="//www.google.com" />
+        <meta name="google-site-verification" content="REPLACE_WITH_YOUR_GSC_VERIFICATION_CODE" />
         <meta name="theme-color" content="#102a43" />
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5" />
         <Script
