@@ -3,6 +3,7 @@
 import { useState } from 'react';
 import { useForm } from 'react-hook-form';
 import BlogCarousel from '@/components/BlogCarousel';
+import { useIsMobile } from '@/lib/useMediaQuery';
 import {
   MessageCircle, Phone, Mail, CheckCircle2,
   Clock, Shield, Award, Building2,
@@ -146,6 +147,7 @@ function GlassSelect({ label, required, options, registerProps, error, placehold
 }
 
 export default function RequestQuotePage() {
+  const isMobile = useIsMobile();
   const [submitted, setSubmitted] = useState(false);
   const { register, handleSubmit, formState: { errors, isSubmitting }, reset } = useForm();
 
@@ -191,19 +193,19 @@ export default function RequestQuotePage() {
 
   return (
     <div style={{ background: '#0B1F3A' }}>
-      {/* Hero Section */}
-      <section style={{ position: 'relative', minHeight: 420, display: 'flex', alignItems: 'center', overflow: 'hidden' }}>
-        <div style={{ position: 'absolute', inset: 0, backgroundImage: 'url(/protech-img/construction-civil-engineering/construction-civil-engineering_1.jpg)', backgroundSize: 'cover', backgroundPosition: 'center' }} />
+{/* Hero Section */}
+      <section style={{ position: 'relative', minHeight: isMobile ? 'auto' : 420, display: 'flex', alignItems: 'center', overflow: 'hidden' }}>
+        <div style={{ position: 'absolute', inset: 0, backgroundImage: 'url(/protech-img/construction-civil-engineering/construction-civil-engineering_1.jpg)', backgroundSize: 'cover', backgroundPosition: isMobile ? 'top center' : 'center' }} />
         <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(135deg, rgba(11,31,58,0.92) 0%, rgba(15,76,44,0.85) 50%, rgba(11,31,58,0.9) 100%)' }} />
-        <div className="container-custom" style={{ position: 'relative', zIndex: 2, padding: '64px 20px' }}>
-          <div style={{ ...glassStyle, maxWidth: 600, padding: '48px 44px' }}>
+        <div className="container-custom" style={{ position: 'relative', zIndex: 2, padding: isMobile ? '48px 16px' : '64px 20px' }}>
+          <div style={{ ...glassStyle, maxWidth: 600, padding: isMobile ? '32px 24px' : '48px 44px' }}>
             <div style={{ display: 'flex', alignItems: 'center', gap: 12, marginBottom: 20 }}>
               <div style={{ width: 48, height: 48, background: 'rgba(234, 88, 12, 0.85)', borderRadius: 12, display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
                 <Building2 size={26} color="#fff" strokeWidth={2} />
               </div>
               <span style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 20, color: '#fff' }}>ProTech Consultants</span>
             </div>
-            <h1 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 800, fontSize: 'clamp(30px, 4vw, 44px)', color: '#fff', marginBottom: 14, lineHeight: 1.15 }}>
+            <h1 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 800, fontSize: 'clamp(26px, 4vw, 40px)', color: '#fff', marginBottom: 14, lineHeight: 1.15 }}>
               Request a Free Quote
             </h1>
             <p style={{ fontSize: 16, color: 'rgba(255,255,255,0.75)', maxWidth: 520, lineHeight: 1.7 }}>
@@ -213,18 +215,18 @@ export default function RequestQuotePage() {
         </div>
       </section>
 
-      {/* Trust Indicators */}
-      <section style={{ background: 'rgba(255,255,255,0.06)', backdropFilter: 'blur(12px)', WebkitBackdropFilter: 'blur(12px)', borderBottom: '1px solid rgba(255,255,255,0.08)', padding: '24px 0' }}>
+{/* Trust Indicators */}
+      <section style={{ background: 'rgba(255,255,255,0.06)', backdropFilter: 'blur(12px)', WebkitBackdropFilter: 'blur(12px)', borderBottom: '1px solid rgba(255,255,255,0.08)', padding: isMobile ? '20px 0' : '24px 0' }}>
         <div className="container-custom">
-          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(220px, 1fr))', gap: 24 }}>
+          <div style={{ display: 'grid', gridTemplateColumns: isMobile ? '1fr' : 'repeat(auto-fit, minmax(220px, 1fr))', gap: isMobile ? '16px' : '24px' }}>
             {TRUST_ITEMS.map((item, i) => (
-              <div key={i} style={{ display: 'flex', alignItems: 'center', gap: 14 }}>
-                <div style={{ width: 46, height: 46, borderRadius: '50%', background: 'rgba(74, 222, 128, 0.15)', border: '1px solid rgba(74, 222, 128, 0.25)', display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }}>
-                  <item.icon size={20} color="#4ADE80" />
+              <div key={i} style={{ display: 'flex', alignItems: 'center', gap: isMobile ? '12px' : '14px' }}>
+                <div style={{ width: isMobile ? '40px' : '46px', height: isMobile ? '40px' : '46px', borderRadius: '50%', background: 'rgba(74, 222, 128, 0.15)', border: '1px solid rgba(74, 222, 128, 0.25)', display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }}>
+                  <item.icon size={isMobile ? 18 : 20} color="#4ADE80" />
                 </div>
                 <div>
-                  <div style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 600, fontSize: 14, color: '#fff' }}>{item.label}</div>
-                  <div style={{ fontSize: 12, color: 'rgba(255,255,255,0.55)' }}>{item.desc}</div>
+                  <div style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 600, fontSize: isMobile ? '13px' : '14px', color: '#fff' }}>{item.label}</div>
+                  <div style={{ fontSize: isMobile ? '11px' : '12px', color: 'rgba(255,255,255,0.55)' }}>{item.desc}</div>
                 </div>
               </div>
             ))}
@@ -232,12 +234,12 @@ export default function RequestQuotePage() {
         </div>
       </section>
 
-      {/* Main Form Section */}
-      <section style={{ padding: '72px 0', background: 'linear-gradient(180deg, #0B1F3A 0%, #0D2847 100%)' }}>
+{/* Main Form Section */}
+      <section style={{ padding: isMobile ? '48px 0' : '72px 0', background: 'linear-gradient(180deg, #0B1F3A 0%, #0D2847 100%)' }}>
         <div className="container-custom" style={{ maxWidth: 1140, margin: '0 auto' }}>
-          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 48, alignItems: 'start' }}>
+          <div style={{ display: 'grid', gridTemplateColumns: isMobile ? '1fr' : '1fr 1fr', gap: isMobile ? '32px' : '48px', alignItems: 'start' }}>
             {/* Left: Form */}
-            <div style={{ ...glassCardStyle, padding: '40px 36px' }}>
+            <div style={{ ...glassCardStyle, padding: isMobile ? '28px 20px' : '40px 36px' }}>
               <h2 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 24, color: '#0B1F3A', marginBottom: 6 }}>
                 Tell Us About Your Project
               </h2>
@@ -245,12 +247,12 @@ export default function RequestQuotePage() {
                 Fill in the details below. We will send your quote via email and open WhatsApp for instant communication.
               </p>
 
-              <form onSubmit={handleSubmit(onSubmit)} style={{ display: 'flex', flexDirection: 'column', gap: 18 }}>
+<form onSubmit={handleSubmit(onSubmit)} style={{ display: 'flex', flexDirection: 'column', gap: 18 }}>
                 <GlassInput label="Full Name" required type="text" placeholder="Your Full Name"
                   registerProps={register('name', { required: 'Full name is required' })}
                   error={errors.name && errors.name.message} />
 
-                <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 14 }}>
+                <div style={{ display: 'grid', gridTemplateColumns: isMobile ? '1fr' : '1fr 1fr', gap: isMobile ? '14px' : '14px' }}>
                   <GlassInput label="Phone Number" required type="tel" placeholder="+254 7XX XXX XXX"
                     registerProps={register('phone', { required: 'Phone number is required', pattern: { value: /^(\+254|07|01)\d{7,9}$/, message: 'Valid Kenyan phone number' } })}
                     error={errors.phone && errors.phone.message} />
@@ -295,42 +297,42 @@ export default function RequestQuotePage() {
               </form>
             </div>
 
-            {/* Right: Info Panel */}
-            <div style={{ display: 'flex', flexDirection: 'column', gap: 24 }}>
+{/* Right: Info Panel */}
+            <div style={{ display: 'flex', flexDirection: 'column', gap: isMobile ? '16px' : '24px' }}>
               {/* Benefits Card */}
-              <div style={{ ...glassCardStyle, padding: '28px 24px' }}>
-                <h3 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 18, color: '#0B1F3A', marginBottom: 20 }}>
+              <div style={{ ...glassCardStyle, padding: isMobile ? '20px 16px' : '28px 24px' }}>
+                <h3 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: isMobile ? '16px' : '18px', color: '#0B1F3A', marginBottom: isMobile ? '16px' : '20px' }}>
                   What You Get With Your Quote
                 </h3>
-                <div style={{ display: 'flex', flexDirection: 'column', gap: 14 }}>
+                <div style={{ display: 'flex', flexDirection: 'column', gap: isMobile ? '10px' : '14px' }}>
                   {BENEFITS.map((benefit, i) => (
                     <div key={i} style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
-                      <CheckCircle2 size={16} color="#16A34A" style={{ flexShrink: 0 }} />
-                      <span style={{ fontSize: 14, color: '#334155' }}>{benefit}</span>
+                      <CheckCircle2 size={14} color="#16A34A" style={{ flexShrink: 0 }} />
+                      <span style={{ fontSize: 13, color: '#334155' }}>{benefit}</span>
                     </div>
                   ))}
                 </div>
               </div>
 
               {/* How It Works Card */}
-              <div style={{ ...glassDarkStyle, padding: '28px 24px', background: 'rgba(15,76,44,0.85)', border: '1px solid rgba(255,255,255,0.12)' }}>
-                <h3 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 18, color: '#fff', marginBottom: 16 }}>
+              <div style={{ ...glassDarkStyle, padding: isMobile ? '20px 16px' : '28px 24px', background: 'rgba(15,76,44,0.85)', border: '1px solid rgba(255,255,255,0.12)' }}>
+                <h3 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: isMobile ? '16px' : '18px', color: '#fff', marginBottom: isMobile ? '12px' : '16px' }}>
                   How It Works
                 </h3>
-                <div style={{ display: 'flex', flexDirection: 'column', gap: 16 }}>
+                <div style={{ display: 'flex', flexDirection: 'column', gap: isMobile ? '12px' : '16px' }}>
                   {[
                     { num: '1', title: 'Fill Out the Form', desc: 'Provide your project details and requirements' },
                     { num: '2', title: 'Email Sent to Our Team', desc: 'Your quote request is immediately sent to our consultants' },
                     { num: '3', title: 'Continue on WhatsApp', desc: 'WhatsApp opens automatically for instant conversation' },
                     { num: '4', title: 'Receive Your Quote', desc: 'Detailed quotation within 2 hours guaranteed' },
                   ].map((step) => (
-                    <div key={step.num} style={{ display: 'flex', gap: 12, alignItems: 'flex-start' }}>
-                      <div style={{ width: 30, height: 30, borderRadius: '50%', background: 'rgba(255,255,255,0.2)', border: '1px solid rgba(255,255,255,0.15)', display: 'flex', alignItems: 'center', justifyContent: 'center', fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 13, color: '#fff', flexShrink: 0 }}>
+                    <div key={step.num} style={{ display: 'flex', gap: isMobile ? '10px' : '12px', alignItems: 'flex-start' }}>
+                      <div style={{ width: isMobile ? '26px' : '30px', height: isMobile ? '26px' : '30px', borderRadius: '50%', background: 'rgba(255,255,255,0.2)', border: '1px solid rgba(255,255,255,0.15)', display: 'flex', alignItems: 'center', justifyContent: 'center', fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: isMobile ? '12px' : '13px', color: '#fff', flexShrink: 0 }}>
                         {step.num}
                       </div>
                       <div>
-                        <div style={{ fontSize: 14, fontWeight: 600, color: '#fff', marginBottom: 2 }}>{step.title}</div>
-                        <div style={{ fontSize: 12, color: 'rgba(255,255,255,0.7)' }}>{step.desc}</div>
+                        <div style={{ fontSize: isMobile ? '13px' : '14px', fontWeight: 600, color: '#fff', marginBottom: 2 }}>{step.title}</div>
+                        <div style={{ fontSize: isMobile ? '11px' : '12px', color: 'rgba(255,255,255,0.7)' }}>{step.desc}</div>
                       </div>
                     </div>
                   ))}
@@ -338,16 +340,16 @@ export default function RequestQuotePage() {
               </div>
 
               {/* Quick Contact */}
-              <div style={{ ...glassCardStyle, padding: '24px' }}>
-                <h3 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 16, color: '#0B1F3A', marginBottom: 16 }}>
+              <div style={{ ...glassCardStyle, padding: isMobile ? '20px 16px' : '24px' }}>
+                <h3 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: isMobile ? '15px' : '16px', color: '#0B1F3A', marginBottom: 12 }}>
                   Need Help? Contact Us
                 </h3>
-                <div style={{ display: 'flex', flexDirection: 'column', gap: 12 }}>
-                  <a href={'tel:' + PHONE} style={{ display: 'flex', alignItems: 'center', gap: 10, padding: '10px 14px', borderRadius: 10, border: '1px solid rgba(15,76,44,0.2)', background: 'rgba(15,76,44,0.05)', color: '#0B1F3A', textDecoration: 'none' }}>
+                <div style={{ display: 'flex', flexDirection: 'column', gap: 10 }}>
+                  <a href={'tel:' + PHONE} style={{ display: 'flex', alignItems: 'center', gap: 10, padding: '12px 14px', borderRadius: 10, border: '1px solid rgba(15,76,44,0.2)', background: 'rgba(15,76,44,0.05)', color: '#0B1F3A', textDecoration: 'none', minHeight: '48px' }}>
                     <Phone size={16} color="#0F4C2C" />
                     <span style={{ fontSize: 14, fontWeight: 500 }}>{PHONE}</span>
                   </a>
-                  <a href={'mailto:' + EMAIL} style={{ display: 'flex', alignItems: 'center', gap: 10, padding: '10px 14px', borderRadius: 10, border: '1px solid rgba(15,76,44,0.2)', background: 'rgba(15,76,44,0.05)', color: '#0B1F3A', textDecoration: 'none' }}>
+                  <a href={'mailto:' + EMAIL} style={{ display: 'flex', alignItems: 'center', gap: 10, padding: '12px 14px', borderRadius: 10, border: '1px solid rgba(15,76,44,0.2)', background: 'rgba(15,76,44,0.05)', color: '#0B1F3A', textDecoration: 'none', minHeight: '48px' }}>
                     <Mail size={16} color="#0F4C2C" />
                     <span style={{ fontSize: 14, fontWeight: 500 }}>{EMAIL}</span>
                   </a>
@@ -355,13 +357,13 @@ export default function RequestQuotePage() {
               </div>
 
               {/* Certifications */}
-              <div style={{ ...glassCardStyle, padding: '24px' }}>
-                <h3 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 16, color: '#0B1F3A', marginBottom: 16 }}>
+              <div style={{ ...glassCardStyle, padding: isMobile ? '20px 16px' : '24px' }}>
+                <h3 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: isMobile ? '15px' : '16px', color: '#0B1F3A', marginBottom: 12 }}>
                   Certified & Regulated
                 </h3>
-                <div style={{ display: 'flex', flexWrap: 'wrap', gap: 8 }}>
+                <div style={{ display: 'flex', flexWrap: 'wrap', gap: 6 }}>
                   {['NCA', 'EPRA', 'NEMA', 'KRA', 'ERC', 'ISO 9001:2015'].map((cert) => (
-                    <span key={cert} style={{ padding: '6px 14px', borderRadius: 999, border: '1.5px solid rgba(15,76,44,0.2)', background: 'rgba(15,76,44,0.06)', fontSize: 12, fontWeight: 700, color: '#0B1F3A' }}>{cert}</span>
+                    <span key={cert} style={{ padding: '6px 12px', borderRadius: 999, border: '1.5px solid rgba(15,76,44,0.2)', background: 'rgba(15,76,44,0.06)', fontSize: 11, fontWeight: 700, color: '#0B1F3A' }}>{cert}</span>
                   ))}
                 </div>
               </div>
