@@ -190,6 +190,8 @@
   },
   "active": "8bdcd72c1b1476d3",
   "lastOpenFiles": [
+    "public/sitemap.xml",
+    "scripts/generate-sitemap.js",
     "lib/useMediaQuery.js",
     "app/not-found.js",
     "PROJECT_ANALYSIS_V1.md"
