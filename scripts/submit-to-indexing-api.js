@@ -129,7 +129,7 @@ async function submitChangedPosts() {
   
   // Get changed URLs
   const { newUrls, updatedUrls } = getChangedUrls(
-    getCurrentBlogSlugs(),
+    currentSlugs,
     previousManifest
   );
   
