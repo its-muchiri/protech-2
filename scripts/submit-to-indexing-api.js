@@ -171,9 +171,8 @@ async function submitChangedPosts() {
   }
   
   // Save new manifest
-  const newManifest = {};
-  const currentSlugs = getCurrentBlogSlugs();
-  for (const post of currentSlugs) {
+  const currentSlugsForManifest = getCurrentBlogSlugs();
+  for (const post of currentSlugsForManifest) {
     previousManifest[post.slug] = { modifiedTime: post.modifiedTime };
   }
   saveManifest(previousManifest);
