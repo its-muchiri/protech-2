@@ -6,6 +6,7 @@ import Breadcrumbs from '@/components/Breadcrumbs';
 import ArticleMetadata from '@/components/ArticleMetadata';
 import RelatedArticles from '@/components/RelatedArticles';
 import NewsletterCTA from '@/components/NewsletterCTA';
+import SectionBG from '@/components/SectionBG';
 
 export const dynamicParams = true;
 
@@ -72,7 +73,7 @@ export default function BlogPostPage({ params }) {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-gray-50 via-white to-gray-50">
+    <SectionBG as="div" className="min-h-screen" image="/protech-img/architectural-design-house-plans/architectural-design-house-plans_2.jpg" overlay="light">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <ReadingProgress />
       <Breadcrumbs items={[
@@ -163,6 +164,6 @@ export default function BlogPostPage({ params }) {
           </div>
         </div>
       </section>
-    </div>
+    </SectionBG>
   );
 }

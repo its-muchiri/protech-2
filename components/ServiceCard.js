@@ -11,8 +11,8 @@ export default function ServiceCard({ service, variant = 'standard' }) {
     return (
       <Link
         href={`/services/${slug}`}
-        className="group block bg-white hover:shadow-lg transition-all duration-300"
-        style={{ borderRadius: 12, overflow: 'hidden', display: 'flex', flexDirection: 'column', border: '1px solid #E8EBF0', textDecoration: 'none' }}
+        className="group block transition-all duration-300"
+        style={{ borderRadius: 12, overflow: 'hidden', display: 'flex', flexDirection: 'column', border: '1px solid rgba(255,255,255,0.55)', textDecoration: 'none', background: 'rgba(255,255,255,0.6)', backdropFilter: 'blur(18px)', WebkitBackdropFilter: 'blur(18px)', boxShadow: '0 8px 32px rgba(0,0,0,0.08), inset 0 1px 0 rgba(255,255,255,0.6)', transition: 'box-shadow 0.3s ease, transform 0.3s ease' }}
       >
         <div style={{ height: 4, background: 'linear-gradient(90deg, #6A1B9A, #D4AF37)' }} />
         <div className="flex flex-1 flex-col p-6">
@@ -34,7 +34,7 @@ export default function ServiceCard({ service, variant = 'standard' }) {
               </span>
             ))}
           </div>
-          <div className="mt-auto pt-4 border-t" style={{ borderColor: '#E8EBF0', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+          <div className="mt-auto pt-4 border-t" style={{ borderColor: 'rgba(255,255,255,0.5)', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
             {startingPrice ? (
               <span style={{ fontSize: 13, fontWeight: 600, color: '#0D47A1' }}>From {startingPrice}</span>
             ) : <span />}
@@ -51,10 +51,10 @@ export default function ServiceCard({ service, variant = 'standard' }) {
     return (
       <Link
         href={`/services/${slug}`}
-        className="group block p-6 bg-white transition-all duration-300"
-        style={{ borderRadius: 12, border: '1px solid #E8EBF0', display: 'flex', flexDirection: 'column', minHeight: 240, textDecoration: 'none' }}
+        className="group block p-6 transition-all duration-300"
+        style={{ borderRadius: 12, border: '1px solid rgba(255,255,255,0.55)', display: 'flex', flexDirection: 'column', minHeight: 240, textDecoration: 'none', background: 'rgba(255,255,255,0.6)', backdropFilter: 'blur(18px)', WebkitBackdropFilter: 'blur(18px)', boxShadow: '0 8px 32px rgba(0,0,0,0.06), inset 0 1px 0 rgba(255,255,255,0.5)' }}
         onMouseEnter={e => { e.currentTarget.style.boxShadow = '0 12px 32px rgba(106,27,154,0.2)'; e.currentTarget.style.transform = 'translateY(-2px)'; }}
-        onMouseLeave={e => { e.currentTarget.style.boxShadow = 'none'; e.currentTarget.style.transform = 'translateY(0)'; }}
+        onMouseLeave={e => { e.currentTarget.style.boxShadow = '0 8px 32px rgba(0,0,0,0.06), inset 0 1px 0 rgba(255,255,255,0.5)'; e.currentTarget.style.transform = 'translateY(0)'; }}
       >
         <div style={{ height: 3, background: 'linear-gradient(90deg, #6A1B9A, #D4AF37)', borderRadius: 2, marginBottom: 20 }} />
         <div className="flex items-start gap-4">
@@ -81,10 +81,10 @@ export default function ServiceCard({ service, variant = 'standard' }) {
   return (
     <Link
       href={`/services/${slug}`}
-      className="group block p-6 bg-white transition-all duration-300"
-      style={{ borderRadius: 12, border: '1px solid #E8EBF0', display: 'flex', flexDirection: 'column', minHeight: 260, textDecoration: 'none' }}
+      className="group block p-6 transition-all duration-300"
+      style={{ borderRadius: 12, border: '1px solid rgba(255,255,255,0.55)', display: 'flex', flexDirection: 'column', minHeight: 260, textDecoration: 'none', background: 'rgba(255,255,255,0.6)', backdropFilter: 'blur(18px)', WebkitBackdropFilter: 'blur(18px)', boxShadow: '0 8px 32px rgba(0,0,0,0.06), inset 0 1px 0 rgba(255,255,255,0.5)' }}
       onMouseEnter={e => { e.currentTarget.style.boxShadow = '0 12px 32px rgba(106,27,154,0.2)'; e.currentTarget.style.transform = 'translateY(-2px)'; }}
-      onMouseLeave={e => { e.currentTarget.style.boxShadow = 'none'; e.currentTarget.style.transform = 'translateY(0)'; }}
+      onMouseLeave={e => { e.currentTarget.style.boxShadow = '0 8px 32px rgba(0,0,0,0.06), inset 0 1px 0 rgba(255,255,255,0.5)'; e.currentTarget.style.transform = 'translateY(0)'; }}
     >
       <div style={{ height: 3, background: 'linear-gradient(90deg, #6A1B9A, #D4AF37)', borderRadius: 2, marginBottom: 20 }} />
       <div className="flex items-start gap-4">

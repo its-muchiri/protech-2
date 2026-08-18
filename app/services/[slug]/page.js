@@ -2,6 +2,7 @@ import { getServiceBySlug, getAllServiceSlugs } from '@/data/services';
 import { ServicePageSchema, FAQPageSchema, LocalBusinessSchema } from '@/components/SchemaMarkup';
 import ServiceQuoteForm from '@/components/ServiceQuoteForm';
 import FAQ from '@/components/FAQ';
+import SectionBG from '@/components/SectionBG';
 import Link from 'next/link';
 import Image from 'next/image';
 import { ArrowRight, Phone, MessageCircle, CheckCircle2, MapPin, Star, Shield, Clock, Award } from 'lucide-react';
@@ -146,7 +147,7 @@ export default function ServicePage({ params }) {
       </section>
 
       {/* What We Offer */}
-      <section style={{ padding: '80px 20px', background: '#f8faf9' }}>
+      <SectionBG style={{ padding: '80px 20px' }} image={service.heroImage} overlay="light">
         <div style={{ maxWidth: 1200, margin: '0 auto' }}>
           <h2 style={{ fontFamily: "'Poppins', sans-serif", fontSize: 28, fontWeight: 700, color: '#1A1A1A', textAlign: 'center', marginBottom: 12 }}>
             What We Offer
@@ -167,10 +168,10 @@ export default function ServicePage({ params }) {
             ))}
           </div>
         </div>
-      </section>
+      </SectionBG>
 
       {/* Why Choose Us + Quote Form */}
-      <section style={{ padding: '80px 20px', background: '#1A1A1A' }}>
+      <SectionBG style={{ padding: '80px 20px' }} image={service.gallery?.[1] || service.heroImage} overlay="dark">
         <div style={{ maxWidth: 1200, margin: '0 auto', display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 48, alignItems: 'start' }}>
           <div>
             <h2 style={{ fontFamily: "'Poppins', sans-serif", fontSize: 28, fontWeight: 700, color: '#fff', marginBottom: 20 }}>
@@ -205,11 +206,11 @@ export default function ServicePage({ params }) {
             <ServiceQuoteForm serviceName={service.name} />
           </div>
         </div>
-      </section>
+      </SectionBG>
 
       {/* Gallery */}
       {remainingImages.length > 0 && (
-        <section style={{ padding: '80px 20px', background: '#f8faf9' }}>
+        <SectionBG style={{ padding: '80px 20px' }} image={service.gallery?.[2] || service.heroImage} overlay="light">
           <div style={{ maxWidth: 1200, margin: '0 auto' }}>
             <h2 style={{ fontFamily: "'Poppins', sans-serif", fontSize: 28, fontWeight: 700, color: '#1A1A1A', textAlign: 'center', marginBottom: 40 }}>
               Our Work
@@ -237,11 +238,11 @@ export default function ServicePage({ params }) {
               ))}
             </div>
           </div>
-        </section>
+        </SectionBG>
       )}
 
       {/* Pricing */}
-      <section style={{ padding: '80px 20px', background: '#fff' }}>
+      <SectionBG style={{ padding: '80px 20px' }} image={service.gallery?.[3] || service.heroImage} overlay="light">
         <div style={{ maxWidth: 700, margin: '0 auto', textAlign: 'center' }}>
           <h2 style={{ fontFamily: "'Poppins', sans-serif", fontSize: 28, fontWeight: 700, color: '#1A1A1A', marginBottom: 16 }}>
             Pricing
@@ -253,23 +254,22 @@ export default function ServicePage({ params }) {
             *All prices are estimates. Final pricing is determined after a site assessment.
           </p>
         </div>
-      </section>
+      </SectionBG>
 
       {/* FAQ */}
       {faqs.length > 0 && (
-        <section style={{ padding: '80px 20px', background: '#f8faf9' }}>
+        <SectionBG style={{ padding: '80px 20px' }} image={service.heroImage} overlay="light">
           <div style={{ maxWidth: 900, margin: '0 auto' }}>
             <FAQ faqs={faqs} />
           </div>
-        </section>
+        </SectionBG>
       )}
 
       {/* CTA */}
-      <section
-        style={{
-          padding: '80px 20px',
-          background: 'linear-gradient(135deg, #1A1A1A 0%, #0D47A1 100%)',
-        }}
+      <SectionBG
+        style={{ padding: '80px 20px' }}
+        image={service.gallery?.[4] || service.heroImage}
+        overlay="dark"
       >
         <div style={{ maxWidth: 800, margin: '0 auto', textAlign: 'center' }}>
           <div style={{ ...glassPanel, maxWidth: 600, margin: '0 auto', background: 'rgba(255,255,255,0.08)' }}>
@@ -320,7 +320,7 @@ export default function ServicePage({ params }) {
             </div>
           </div>
         </div>
-      </section>
+      </SectionBG>
     </div>
   );
 }

@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { ArrowRight } from 'lucide-react';
 import IconRenderer from './IconRenderer';
 import Reveal from './Reveal';
+import SectionBG from './SectionBG';
 
 const CATEGORIES = [
   {
@@ -38,7 +39,7 @@ const CATEGORIES = [
 
 export default function CategoryShowcase() {
   return (
-    <section className="section-padding" style={{ background: '#F5F7FA' }}>
+    <SectionBG className="section-padding" image="/protech-img/garage-automotive-services/garage-automotive-services_1.jpg" overlay="light" style={{ padding: '64px 0' }}>
       <div className="container-custom">
         <Reveal style={{ display: 'flex', alignItems: 'flex-end', justifyContent: 'space-between', gap: 16, flexWrap: 'wrap', marginBottom: 28 }}>
           <div style={{ maxWidth: 560 }}>
@@ -134,6 +135,6 @@ export default function CategoryShowcase() {
           ))}
         </div>
       </div>
-    </section>
+    </SectionBG>
   );
 }

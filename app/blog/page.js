@@ -6,6 +6,7 @@ import ArticleCard from '@/components/ArticleCard';
 import ArticleCarousel from '@/components/ArticleCarousel';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import SearchToggle from '@/components/SearchToggle';
+import SectionBG from '@/components/SectionBG';
 
 export const metadata = {
   title: 'ProTech Journal | Guides, Insights & Industry News',
@@ -20,7 +21,7 @@ export default function BlogPage() {
   const popular = blogPosts.slice(0, 6);
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-gray-50 via-white to-gray-50">
+    <SectionBG as="div" className="min-h-screen" image="/protech-img/water-filtration-purification/water-filtration-purification_2.jpg" overlay="light">
       <Breadcrumbs items={[
         { label: 'Home', href: '/' },
         { label: 'Journal', href: '/blog' }
@@ -29,7 +30,10 @@ export default function BlogPage() {
       
       {/* Editorial Hero */}
       <section className="blog-hero relative overflow-hidden">
-        <div className="absolute inset-0 bg-gradient-to-r from-primary-600/5 via-transparent to-secondary-600/5" />
+        <div className="absolute inset-0 z-0">
+          <img src="/protech-img/construction-civil-engineering/construction-civil-engineering_2.jpg" alt="" aria-hidden="true" className="w-full h-full object-cover" />
+          <div className="absolute inset-0" style={{ background: 'linear-gradient(135deg, rgba(13,71,161,0.92) 0%, rgba(26,26,26,0.85) 100%)' }} />
+        </div>
         <div className="container mx-auto px-4 relative z-10">
           <div className="max-w-4xl">
             <span className="glass-badge inline-block mb-5" style={{background: 'rgba(212,175,55,0.2)', borderColor: 'rgba(212,175,55,0.3)', color: '#D4AF37'}}>
@@ -97,7 +101,7 @@ export default function BlogPage() {
           <p className="text-gray-600">No articles yet. Check back soon.</p>
         </section>
       )}
-    </div>
+    </SectionBG>
   );
 }
 

@@ -1,5 +1,6 @@
 import LeadForm from '@/components/LeadForm';
 import BlogCarouselSection from '@/components/BlogCarouselSection';
+import SectionBG from '@/components/SectionBG';
 
 export const metadata = {
   title: 'About Us | ProTech Consulting',
@@ -8,7 +9,7 @@ export const metadata = {
 
 export default function AboutPage() {
   return (
-    <div className="section-padding">
+    <SectionBG as="div" className="section-padding" image="/protech-img/interior-design-office-fitouts/interior-design-office-fitouts_2.jpg" overlay="light">
       <div className="container-custom">
         <div className="text-center mb-12">
           <h1 className="section-title">About ProTech Consulting</h1>
@@ -57,7 +58,7 @@ export default function AboutPage() {
               { title: 'Integrity', desc: 'We are transparent in our pricing, timelines, and communication with every client.' },
               { title: 'Customer Focus', desc: 'Your satisfaction is our priority. We go the extra mile to exceed expectations.' },
             ].map((value, i) => (
-              <div key={i} className="bg-white rounded-xl p-6 shadow-sm border border-gray-100 text-center">
+              <div key={i} className="glass-card p-6 text-center">
                 <h3 className="font-heading font-semibold text-lg text-navy-900 mb-2">{value.title}</h3>
                 <p className="text-sm text-gray-600">{value.desc}</p>
               </div>
@@ -65,7 +66,7 @@ export default function AboutPage() {
           </div>
         </div>
 
-        <div className="bg-gray-50 rounded-2xl p-8 md:p-10">
+        <div className="glass-card p-8 md:p-10">
           <h2 className="font-heading font-bold text-2xl text-navy-900 mb-4 text-center">Ready to Work With Us?</h2>
           <p className="text-gray-600 text-center mb-8">Get a free, no-obligation quote for your next project.</p>
           <div className="max-w-lg mx-auto">
@@ -79,6 +80,6 @@ export default function AboutPage() {
           limit={9}
         />
       </div>
-    </div>
+    </SectionBG>
   );
 }

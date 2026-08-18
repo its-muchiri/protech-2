@@ -1,5 +1,6 @@
 import ContactForm from '@/components/ContactForm';
 import BlogCarouselSection from '@/components/BlogCarouselSection';
+import SectionBG from '@/components/SectionBG';
 import { Phone, Mail, MapPin, Clock } from 'lucide-react';
 
 export const metadata = {
@@ -10,7 +11,7 @@ export const metadata = {
 export default function ContactPage() {
 
   return (
-    <div className="section-padding">
+    <SectionBG as="div" className="section-padding" image="/protech-img/office-partitions-glass-works/office-partitions-glass-works_1.jpg" overlay="light">
       <div className="container-custom">
         <div className="text-center mb-12">
           <h1 className="section-title">Contact Us</h1>
@@ -21,7 +22,7 @@ export default function ContactPage() {
 
 <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 lg:gap-8">
           <div className="lg:col-span-1 space-y-4 lg:space-y-6">
-            <div className="bg-white rounded-2xl shadow-sm border border-gray-100 p-4 md:p-6 lg:p-6">
+            <div className="glass-card p-4 md:p-6 lg:p-6">
               <h3 className="font-heading font-semibold text-lg mb-3 mb-4 md:mb-4">Get In Touch</h3>
               <div className="space-y-3 lg:space-y-4">
                 <div className="flex items-start gap-3">
@@ -58,7 +59,7 @@ export default function ContactPage() {
             </div>
           </div>
 
-          <div className="lg:col-span-2 bg-white rounded-2xl shadow-xl p-4 md:p-6 lg:p-8">
+          <div className="lg:col-span-2 glass-card p-4 md:p-6 lg:p-8">
             <h3 className="font-heading font-bold text-lg md:text-xl mb-4 md:mb-6">Send Us a Message</h3>
             <ContactForm />
           </div>
@@ -70,7 +71,7 @@ export default function ContactPage() {
           limit={9}
         />
       </div>
-    </div>
+    </SectionBG>
   );
 }
 

@@ -2,6 +2,7 @@ import { services } from '@/data/services';
 import Link from 'next/link';
 import { ArrowRight } from 'lucide-react';
 import BlogCarouselSection from '@/components/BlogCarouselSection';
+import SectionBG from '@/components/SectionBG';
 
 export const metadata = {
   title: 'Project Portfolio | ProTech Consulting',
@@ -19,7 +20,7 @@ const portfolioItems = [
 
 export default function PortfolioPage() {
   return (
-    <div className="section-padding">
+    <SectionBG as="div" className="section-padding" image="/protech-img/construction-civil-engineering/construction-civil-engineering_1.jpg" overlay="light">
       <div className="container-custom">
         <div className="text-center mb-12">
           <h1 className="section-title">Our Portfolio</h1>
@@ -30,7 +31,7 @@ export default function PortfolioPage() {
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
           {portfolioItems.map((item, i) => (
-            <div key={i} className="bg-white rounded-2xl shadow-sm border border-gray-100 overflow-hidden hover:shadow-xl transition-shadow">
+            <div key={i} className="glass-card overflow-hidden" style={{ border: '1px solid rgba(255,255,255,0.55)', background: 'rgba(255,255,255,0.6)', backdropFilter: 'blur(18px)', WebkitBackdropFilter: 'blur(18px)', borderRadius: 16, overflow: 'hidden' }}>
               <div style={{ position: 'relative', width: '100%', aspectRatio: '16 / 10' }} className="overflow-hidden">
                 <img
                   src={item.image}
@@ -67,6 +68,6 @@ export default function PortfolioPage() {
           limit={9}
         />
       </div>
-    </div>
+    </SectionBG>
   );
 }

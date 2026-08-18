@@ -9,6 +9,7 @@ import BlogCarousel from '@/components/BlogCarousel';
 import CertificationSection from '@/components/CertificationSection';
 import WhyProTech from '@/components/WhyProTech';
 import CategoryShowcase from '@/components/CategoryShowcase';
+import SectionBG from '@/components/SectionBG';
 import Reveal from '@/components/Reveal';
 import { services } from '@/data/services';
 import { siteFAQs } from '@/data/faqs';
@@ -148,7 +149,7 @@ Please send me a detailed quotation. Thank you.`;
       <Hero />
 
 {/* Stats Bar */}
-      <div style={{ background: '#0D47A1' }}>
+      <SectionBG as="div" image="/protech-img/construction-civil-engineering/construction-civil-engineering_2.jpg" overlay="dark">
         <div className="container-custom">
           <div className="stats-grid" style={{ display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: 0 }}>
             {[
@@ -166,24 +167,24 @@ Please send me a detailed quotation. Thank you.`;
             ))}
           </div>
         </div>
-      </div>
+      </SectionBG>
 
-      {/* Trust Badges */}
-      <div style={{ background: '#F8FAFC', borderBottom: '1px solid #E2E8F0', padding: '20px 0' }}>
+{/* Trust Badges */}
+      <SectionBG as="div" image="/protech-img/solar-power-renewable-energy/solar-power-renewable-energy_1.jpg" overlay="light">
         <div className="container-custom">
-          <div style={{ display: 'flex', alignItems: 'center', gap: 8, flexWrap: 'wrap', justifyContent: 'center' }}>
-            <span style={{ fontSize: 12, fontWeight: 600, color: '#94A3B8', letterSpacing: '0.08em', textTransform: 'uppercase', marginRight: 8 }}>Certified & Regulated:</span>
+          <div style={{ display: 'flex', alignItems: 'center', gap: 8, flexWrap: 'wrap', justifyContent: 'center', padding: '20px 0' }}>
+            <span style={{ fontSize: 12, fontWeight: 600, color: '#5A6C7D', letterSpacing: '0.08em', textTransform: 'uppercase', marginRight: 8 }}>Certified & Regulated:</span>
             {CERTS.map(c => (
-              <div key={c.short} style={{ padding: '6px 16px', borderRadius: 999, border: '1.5px solid #E2E8F0', background: '#fff', fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 13, color: '#1A1A1A', cursor: 'default', userSelect: 'none' }}>
+              <div key={c.short} className="glass" style={{ padding: '6px 16px', borderRadius: 999, border: '1.5px solid rgba(13,71,161,0.2)', background: 'rgba(255,255,255,0.6)', fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 13, color: '#1A1A1A', cursor: 'default', userSelect: 'none' }}>
                 {c.short}
               </div>
             ))}
           </div>
         </div>
-      </div>
+      </SectionBG>
 
       {/* Services Grid */}
-      <section className="section-padding" style={{ background: '#F5F7FA' }} id="services">
+      <SectionBG className="section-padding" image="/protech-img/roofing-systems-waterproofing/roofing-systems-waterproofing_2.jpg" overlay="light" style={{ padding: '64px 0' }} id="services">
         <div className="container-custom">
           <Reveal style={{ textAlign: 'center', marginBottom: 40 }}>
             <p style={{ fontSize: 13, fontWeight: 700, color: '#D4AF37', letterSpacing: '0.1em', textTransform: 'uppercase', marginBottom: 8 }}>What We Do</p>
@@ -205,7 +206,7 @@ Please send me a detailed quotation. Thank you.`;
             <Link href="/services" className="btn-cta" style={{ backdropFilter: 'blur(8px)' }}>Explore All Services <ArrowRight size={16} /></Link>
           </Reveal>
         </div>
-      </section>
+      </SectionBG>
 
       {/* Category Showcase */}
       <CategoryShowcase />
@@ -214,7 +215,7 @@ Please send me a detailed quotation. Thank you.`;
       <WhyProTech />
 
       {/* Why Choose Us + Quote Form */}
-      <section className="section-padding" style={{ position: 'relative', background: 'linear-gradient(135deg, #E8EBF0 0%, #F5F7FA 100%)' }}>
+      <SectionBG className="section-padding" image="/protech-img/electrical-installation-wiring/electrical-installation-wiring_1.jpg" overlay="light" style={{ position: 'relative', padding: '64px 0' }}>
         <div className="container-custom">
           <div className="grid-2col" style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 44, alignItems: 'start' }}>
             <div>
@@ -391,21 +392,17 @@ Please send me a detailed quotation. Thank you.`;
             </div>
           </div>
         </div>
-      </section>
+      </SectionBG>
 
       {/* Certification Section */}
       <CertificationSection />
 
       {/* CTA Strip */}
-      <div style={{ position: 'relative', overflow: 'hidden' }}>
+      <SectionBG as="div" image="/protech-img/generator-sales-repair/generator-sales-repair_2.jpg" overlay="gold" style={{ position: 'relative', overflow: 'hidden' }}>
         <div style={{
           position: 'absolute',
           inset: 0,
-          background: 'linear-gradient(135deg, #D4AF37 0%, #B8942E 100%)',
-        }} />
-        <div style={{
-          position: 'absolute',
-          inset: 0,
+          zIndex: 2,
           backgroundImage: 'url("data:image/svg+xml,%3Csvg width=\'60\' height=\'60\' viewBox=\'0 0 60 60\' xmlns=\'http://www.w3.org/2000/svg\'%3E%3Cg fill=\'none\' fill-rule=\'evenodd\'%3E%3Cg fill=\'%23ffffff\' fill-opacity=\'0.05\'%3E%3Cpath d=\'M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z\'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E")',
         }} />
         <div className="container-custom" style={{ position: 'relative', display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 24, flexWrap: 'wrap', padding: '40px 0' }}>
@@ -420,12 +417,12 @@ Please send me a detailed quotation. Thank you.`;
             <a href="/request-a-quote" className="btn-whatsapp" style={{ fontSize: 14 }}><MessageCircle size={15} /> Get a Quote</a>
           </div>
         </div>
-      </div>
+      </SectionBG>
 
       {/* Testimonials */}
-      <section className="section-padding" style={{ position: 'relative', background: 'linear-gradient(135deg, #F5F7FA 0%, #E8EBF0 100%)' }}>
-        <div style={{ position: 'absolute', inset: 0, backgroundImage: 'radial-gradient(circle at 20% 30%, rgba(13,71,161,0.08) 0%, transparent 50%), radial-gradient(circle at 80% 70%, rgba(212,175,55,0.06) 0%, transparent 50%)' }} />
-        <div className="container-custom" style={{ position: 'relative' }}>
+      <SectionBG className="section-padding" image="/protech-img/medical-equipment-supplies/medical-equipment-supplies_1.jpg" overlay="light" style={{ position: 'relative', padding: '64px 0' }}>
+        <div style={{ position: 'absolute', inset: 0, zIndex: 2, backgroundImage: 'radial-gradient(circle at 20% 30%, rgba(13,71,161,0.08) 0%, transparent 50%), radial-gradient(circle at 80% 70%, rgba(212,175,55,0.06) 0%, transparent 50%)' }} />
+        <div className="container-custom" style={{ position: 'relative', zIndex: 3 }}>
           <div style={{ textAlign: 'center', marginBottom: 48 }}>
             <p style={{ fontSize: 13, fontWeight: 600, color: '#D4AF37', letterSpacing: '0.1em', textTransform: 'uppercase', marginBottom: 8 }}>Client Stories</p>
             <h2 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 'clamp(26px, 3.5vw, 38px)', color: '#1A1A1A' }}>What Our Clients Say</h2>
@@ -454,18 +451,20 @@ Please send me a detailed quotation. Thank you.`;
             ))}
           </div>
         </div>
-      </section>
+      </SectionBG>
 
 {/* Blog Carousel - more posts on home */}
-      <BlogCarousel
-        variant="home"
-        title="From the ProTech Journal"
-        subtitle="Expert guides on medical equipment, construction, solar, safaris and more \u2014 explore our latest articles."
-        limit={15}
-      />
+      <SectionBG as="div" image="/protech-img/logistics-freight-services/logistics-freight-services_1.jpg" overlay="light">
+        <BlogCarousel
+          variant="home"
+          title="From the ProTech Journal"
+          subtitle="Expert guides on medical equipment, construction, solar, safaris and more \u2014 explore our latest articles."
+          limit={15}
+        />
+      </SectionBG>
 
       {/* Regulatory Authorities */}
-      <section className="section-tighter bg-gradient-to-b from-secondary-50/50 to-white">
+      <SectionBG className="section-tighter" image="/protech-img/plumbing-drainage-services/plumbing-drainage-services_1.jpg" overlay="light">
         <div className="container-custom">
           <LogoCarousel
             items={governmentAuthorities}
@@ -476,10 +475,10 @@ Please send me a detailed quotation. Thank you.`;
             className="mb-16"
           />
         </div>
-      </section>
+      </SectionBG>
 
       {/* Counties We Serve */}
-      <section className="section-tighter bg-gradient-to-b from-surface-50/50 to-white">
+      <SectionBG className="section-tighter" image="/protech-img/security-systems-physical-security/security-systems-physical-security_1.jpg" overlay="light">
         <div className="container-custom">
           <LogoCarousel
             items={kenyaCounties.slice(0, 16)}
@@ -490,14 +489,15 @@ Please send me a detailed quotation. Thank you.`;
             className="mb-16"
           />
         </div>
-      </section>
+      </SectionBG>
 
-      <FAQ faqs={siteFAQs} />
+      <SectionBG as="div" image="/protech-img/interior-design-office-fitouts/interior-design-office-fitouts_1.jpg" overlay="light">
+        <FAQ faqs={siteFAQs} />
+      </SectionBG>
 
       {/* Final CTA */}
-      <section style={{ position: 'relative', overflow: 'hidden', padding: '64px 0' }}>
-        <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(135deg, #1A1A1A 0%, #0D47A1 100%)' }} />
-        <div style={{ position: 'absolute', inset: 0, backgroundImage: 'radial-gradient(circle at 80% 50%, rgba(212,175,55,0.3) 0%, transparent 60%)' }} />
+      <SectionBG style={{ padding: '64px 0' }} image="/protech-img/construction-civil-engineering/construction-civil-engineering_3.jpg" overlay="dark">
+        <div style={{ position: 'absolute', inset: 0, zIndex: 2, backgroundImage: 'radial-gradient(circle at 80% 50%, rgba(212,175,55,0.3) 0%, transparent 60%)' }} />
         <div className="container-custom" style={{ position: 'relative', textAlign: 'center' }}>
           <div style={{ ...glassDark, maxWidth: 640, margin: '0 auto', padding: '48px 40px' }}>
             <h2 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 800, fontSize: 'clamp(26px, 4vw, 44px)', color: '#fff', marginBottom: 14 }}>
@@ -524,7 +524,7 @@ Please send me a detailed quotation. Thank you.`;
             </div>
           </div>
         </div>
-      </section>
+      </SectionBG>
     </div>
   );
 }

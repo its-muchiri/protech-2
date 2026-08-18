@@ -4,6 +4,7 @@ import BlogCarouselSection from '@/components/BlogCarouselSection';
 import IconRenderer from '@/components/IconRenderer';
 import LogoCarousel from '@/components/LogoCarousel';
 import CertificationSection from '@/components/CertificationSection';
+import SectionBG from '@/components/SectionBG';
 import Reveal from '@/components/Reveal';
 import { governmentAuthorities } from '@/data/government-authorities';
 import { kenyaCounties } from '@/data/kenya-counties';
@@ -41,18 +42,22 @@ export default function ServicesPage() {
   return (
     <div>
       {/* Hero */}
-      <section style={{
-        background: 'linear-gradient(135deg, #1A1A1A 0%, #0D47A1 100%)',
-        padding: '100px 0 80px',
-        position: 'relative',
-        overflow: 'hidden',
-      }}>
+      <SectionBG
+        image="/protech-img/construction-civil-engineering/construction-civil-engineering_2.jpg"
+        overlay="dark"
+        style={{
+          padding: '100px 0 80px',
+          position: 'relative',
+          overflow: 'hidden',
+        }}
+      >
         <div style={{
           position: 'absolute',
           inset: 0,
+          zIndex: 2,
           backgroundImage: 'radial-gradient(circle at 70% 30%, rgba(212,175,55,0.15) 0%, transparent 50%)',
         }} />
-        <div className="container-custom" style={{ position: 'relative', textAlign: 'center' }}>
+        <div className="container-custom" style={{ position: 'relative', zIndex: 3, textAlign: 'center' }}>
           <span className="glass-badge" style={{
             background: 'rgba(212,175,55,0.2)',
             border: '1px solid rgba(212,175,55,0.3)',
@@ -90,10 +95,10 @@ export default function ServicesPage() {
             </a>
           </div>
         </div>
-      </section>
+      </SectionBG>
 
       {/* Featured Services */}
-      <section className="glass-section" style={{ background: 'rgba(255,255,255,0.6)', padding: '64px 0', margin: '24px auto', maxWidth: '1280px', borderRadius: 24 }}>
+      <SectionBG className="glass-section" image="/protech-img/solar-power-renewable-energy/solar-power-renewable-energy_2.jpg" overlay="light" style={{ padding: '64px 0', margin: '24px auto', maxWidth: '1280px', borderRadius: 24 }}>
         <div className="container-custom">
           <div style={{ textAlign: 'center', maxWidth: 720, margin: '0 auto 60px' }}>
             <h2 style={{
@@ -126,10 +131,10 @@ export default function ServicesPage() {
             ))}
           </div>
         </div>
-      </section>
+      </SectionBG>
 
       {/* Services by Category */}
-      <section style={{ background: '#F5F7FA', padding: '80px 0' }}>
+      <SectionBG image="/protech-img/electrical-installation-wiring/electrical-installation-wiring_2.jpg" overlay="light" style={{ padding: '80px 0' }}>
         <div className="container-custom">
           <div style={{ textAlign: 'center', maxWidth: 720, margin: '0 auto 60px' }}>
             <h2 style={{
@@ -191,10 +196,10 @@ export default function ServicesPage() {
             );
           })}
         </div>
-      </section>
+      </SectionBG>
 
       {/* Why Choose ProTech */}
-      <section className="glass-section" style={{ background: 'rgba(255,255,255,0.6)', padding: '64px 0', margin: '24px auto', maxWidth: '1280px', borderRadius: 24 }}>
+      <SectionBG className="glass-section" image="/protech-img/security-systems-physical-security/security-systems-physical-security_2.jpg" overlay="light" style={{ padding: '64px 0', margin: '24px auto', maxWidth: '1280px', borderRadius: 24 }}>
         <div className="container-custom">
           <div style={{ textAlign: 'center', maxWidth: 720, margin: '0 auto 60px' }}>
             <h2 style={{
@@ -253,10 +258,10 @@ export default function ServicesPage() {
             ))}
           </div>
         </div>
-      </section>
+      </SectionBG>
 
       {/* Service Delivery Process */}
-      <section className="glass-section glass-dark" style={{ background: 'rgba(13,71,161,0.9)', padding: '64px 0', margin: '24px auto', maxWidth: '1280px', borderRadius: 24, border: '1px solid rgba(255,255,255,0.1)' }}>
+      <SectionBG className="glass-section" image="/protech-img/borehole-drilling-water-services/borehole-drilling-water-services_2.jpg" overlay="dark" style={{ padding: '64px 0', margin: '24px auto', maxWidth: '1280px', borderRadius: 24 }}>
         <div className="container-custom">
           <div style={{ textAlign: 'center', maxWidth: 720, margin: '0 auto 60px' }}>
             <h2 style={{
@@ -323,13 +328,13 @@ export default function ServicesPage() {
             ))}
           </div>
         </div>
-      </section>
+      </SectionBG>
 
       {/* Certifications & Accreditations */}
       <CertificationSection />
 
       {/* CTA Section */}
-      <section className="glass-section glass-dark" style={{ background: 'rgba(13,71,161,0.9)', padding: '64px 0', margin: '24px auto', maxWidth: '1280px', borderRadius: 24, border: '1px solid rgba(255,255,255,0.1)' }}>
+      <SectionBG className="glass-section" image="/protech-img/roofing-systems-waterproofing/roofing-systems-waterproofing_1.jpg" overlay="dark" style={{ padding: '64px 0', margin: '24px auto', maxWidth: '1280px', borderRadius: 24 }}>
         <div className="container-custom" style={{ textAlign: 'center', maxWidth: 720, margin: '0 auto' }}>
           <h2 style={{
             fontFamily: "'Poppins', sans-serif",
@@ -357,10 +362,10 @@ export default function ServicesPage() {
             </a>
           </div>
         </div>
-      </section>
+      </SectionBG>
 
       {/* Regulatory Authorities */}
-      <section className="section-tighter bg-gradient-to-b from-secondary-50/50 to-white">
+      <SectionBG className="section-tighter" image="/protech-img/plumbing-drainage-services/plumbing-drainage-services_1.jpg" overlay="light">
         <div className="container-custom">
           <LogoCarousel
             items={governmentAuthorities}
@@ -371,10 +376,10 @@ export default function ServicesPage() {
             className="mb-16"
           />
         </div>
-      </section>
+      </SectionBG>
 
       {/* Counties We Serve */}
-      <section className="section-tighter bg-gradient-to-b from-surface-50/50 to-white">
+      <SectionBG className="section-tighter" image="/protech-img/security-systems-physical-security/security-systems-physical-security_1.jpg" overlay="light">
         <div className="container-custom">
           <LogoCarousel
             items={kenyaCounties.slice(0, 20)}
@@ -385,13 +390,15 @@ export default function ServicesPage() {
             className="mb-16"
           />
         </div>
-      </section>
+      </SectionBG>
 
-      <BlogCarouselSection
-        title="Service Guides & Insights"
-        subtitle="Read in-depth guides related to our services across Kenya."
-        limit={9}
-      />
+      <SectionBG as="div" image="/protech-img/water-filtration-purification/water-filtration-purification_1.jpg" overlay="light">
+        <BlogCarouselSection
+          title="Service Guides & Insights"
+          subtitle="Read in-depth guides related to our services across Kenya."
+          limit={9}
+        />
+      </SectionBG>
     </div>
   );
 }

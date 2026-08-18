@@ -4,6 +4,7 @@ import { useState } from 'react';
 import { useForm } from 'react-hook-form';
 import BlogCarousel from '@/components/BlogCarousel';
 import Reveal from '@/components/Reveal';
+import SectionBG from '@/components/SectionBG';
 import { useIsMobile } from '@/lib/useMediaQuery';
 import {
   MessageCircle, Phone, Mail, CheckCircle2,
@@ -236,7 +237,7 @@ export default function RequestQuotePage() {
       </section>
 
 {/* Main Form Section */}
-      <section style={{ padding: isMobile ? '48px 0' : '64px 0', background: 'linear-gradient(180deg, #1A1A1A 0%, #0D2847 100%)' }}>
+      <SectionBG style={{ padding: isMobile ? '48px 0' : '64px 0' }} image="/protech-img/borehole-drilling-water-services/borehole-drilling-water-services_1.jpg" overlay="dark">
         <div className="container-custom" style={{ maxWidth: 1140, margin: '0 auto' }}>
           <Reveal style={{ display: 'grid', gridTemplateColumns: isMobile ? '1fr' : '1fr 1fr', gap: isMobile ? '32px' : '48px', alignItems: 'start' }}>
             {/* Left: Form */}
@@ -371,13 +372,15 @@ export default function RequestQuotePage() {
             </div>
           </Reveal>
         </div>
-      </section>
+      </SectionBG>
 
-      <BlogCarousel
-        title="Explore Our Guides"
-        subtitle="Read helpful guides while you plan your project."
-        limit={9}
-      />
+      <SectionBG as="div" image="/protech-img/architectural-design-house-plans/architectural-design-house-plans_1.jpg" overlay="light">
+        <BlogCarousel
+          title="Explore Our Guides"
+          subtitle="Read helpful guides while you plan your project."
+          limit={9}
+        />
+      </SectionBG>
     </div>
   );
 }
