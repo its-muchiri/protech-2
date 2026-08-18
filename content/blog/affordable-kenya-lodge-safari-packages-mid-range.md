@@ -1,14 +1,14 @@
 ---
 title: 'Affordable Kenya Lodge Safari Packages Mid-range: Complete Guide'
-description: Kenya safari guide covering affordable kenya lodge safari packages mid-range, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering affordable kenya lodge safari packages mid-range, including what is included, pricing, and booking advice.'
 slug: affordable-kenya-lodge-safari-packages-mid-range
-primary_keyword: Affordable Kenya lodge safari packages mid-range
+primary_keyword: 'Affordable Kenya lodge safari packages mid-range'
 secondary_keywords:
-- Laikipia conservancy tours luxury
-- Chyulu Hills safari operators
-- Photographic safari workshops Kenya operators
-- Sheldrick Elephant Orphanage visit organizers
-- 3 day Masai Mara budget camping tour
+- 'Laikipia conservancy tours luxury'
+- 'Chyulu Hills safari operators'
+- 'Photographic safari workshops Kenya operators'
+- 'Sheldrick Elephant Orphanage visit organizers'
+- '3 day Masai Mara budget camping tour'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

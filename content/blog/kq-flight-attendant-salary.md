@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight Attendant Salary: Complete Guide'
-description: Everything you need to know about kq flight attendant salary, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight attendant salary, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-attendant-salary
-primary_keyword: kq flight attendant salary
+primary_keyword: 'kq flight attendant salary'
 secondary_keywords:
-- kenya airways flight from london to nairobi
-- kenya airways flight from accra to nairobi ticket price
-- flight from nairobi to mombasa price in ksh
-- air india flight from nairobi to ahmedabad
-- flight from nairobi to brazil
+- 'kenya airways flight from london to nairobi'
+- 'kenya airways flight from accra to nairobi ticket price'
+- 'flight from nairobi to mombasa price in ksh'
+- 'air india flight from nairobi to ahmedabad'
+- 'flight from nairobi to brazil'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

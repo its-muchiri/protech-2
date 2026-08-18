@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is Flight from Kisumu to Mombasa: Complete Guide'
-description: Everything you need to know about how much is flight from kisumu to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is flight from kisumu to mombasa, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-flight-from-kisumu-to-mombasa
-primary_keyword: how much is flight from kisumu to mombasa
+primary_keyword: 'how much is flight from kisumu to mombasa'
 secondary_keywords:
-- emirates flight schedule from dubai to nairobi
-- emirates flight 587
-- emirates flight 764 accident
-- emirates flight 835
-- flight price from nairobi to qatar
+- 'emirates flight schedule from dubai to nairobi'
+- 'emirates flight 587'
+- 'emirates flight 764 accident'
+- 'emirates flight 835'
+- 'flight price from nairobi to qatar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

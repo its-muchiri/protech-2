@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Jeddah: Complete Guide'
-description: Everything you need to know about flights nairobi to jeddah, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to jeddah, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-jeddah
-primary_keyword: flights nairobi to jeddah
+primary_keyword: 'flights nairobi to jeddah'
 secondary_keywords:
-- return flights to kenya from uk
-- flights from seattle to nairobi kenya
-- cheap flights to kenya from usa
-- flights from burlington vt to nairobi kenya
-- flights from kenya to new york
+- 'return flights to kenya from uk'
+- 'flights from seattle to nairobi kenya'
+- 'cheap flights to kenya from usa'
+- 'flights from burlington vt to nairobi kenya'
+- 'flights from kenya to new york'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

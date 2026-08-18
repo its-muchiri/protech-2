@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flying Blue Miles: Complete Guide'
-description: Everything you need to know about kq flying blue miles, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flying blue miles, including routes, airlines, booking tips, and fares.'
 slug: kq-flying-blue-miles
-primary_keyword: kq flying blue miles
+primary_keyword: 'kq flying blue miles'
 secondary_keywords:
-- kq flight from nairobi to accra
-- kq direct flight from nairobi to new york time
-- how much is kq flight from nairobi to new york
-- kenya airways flight from nairobi to london today timetable
-- kq flight from dubai to nairobi today ticket price
+- 'kq flight from nairobi to accra'
+- 'kq direct flight from nairobi to new york time'
+- 'how much is kq flight from nairobi to new york'
+- 'kenya airways flight from nairobi to london today timetable'
+- 'kq flight from dubai to nairobi today ticket price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Eldoret to Entebbe: Complete Guide'
-description: Everything you need to know about flight from eldoret to entebbe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from eldoret to entebbe, including routes, airlines, booking tips, and fares.'
 slug: flight-from-eldoret-to-entebbe
-primary_keyword: flight from eldoret to entebbe
+primary_keyword: 'flight from eldoret to entebbe'
 secondary_keywords:
-- kq flights from nairobi to london heathrow
-- kq flights to jfk
-- kq flights to london
-- kq flights to mogadishu
-- kq flight from paris to nairobi
+- 'kq flights from nairobi to london heathrow'
+- 'kq flights to jfk'
+- 'kq flights to london'
+- 'kq flights to mogadishu'
+- 'kq flight from paris to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Mombasa in December: Complete Guide'
-description: Everything you need to know about flights to mombasa in december, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to mombasa in december, including routes, airlines, booking tips, and fares.'
 slug: flights-to-mombasa-in-december
-primary_keyword: flights to mombasa in december
+primary_keyword: 'flights to mombasa in december'
 secondary_keywords:
-- flights from nairobi to helsinki
-- indigo flights from nairobi to mumbai
-- jambojet flights from nairobi to ukunda
-- kq flights from nairobi to zanzibar
-- flight from nairobi mombasa
+- 'flights from nairobi to helsinki'
+- 'indigo flights from nairobi to mumbai'
+- 'jambojet flights from nairobi to ukunda'
+- 'kq flights from nairobi to zanzibar'
+- 'flight from nairobi mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

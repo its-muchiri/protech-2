@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Edinburgh: Complete Guide'
-description: Everything you need to know about flights from nairobi to edinburgh, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to edinburgh, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-edinburgh
-primary_keyword: flights from nairobi to edinburgh
+primary_keyword: 'flights from nairobi to edinburgh'
 secondary_keywords:
-- emirates flights from bangalore to dubai
-- emirates flights from cairo to dubai
-- emirates flights from dubai to manchester today
-- emirates flights to europe from dubai
-- does emirates fly to frankfurt
+- 'emirates flights from bangalore to dubai'
+- 'emirates flights from cairo to dubai'
+- 'emirates flights from dubai to manchester today'
+- 'emirates flights to europe from dubai'
+- 'does emirates fly to frankfurt'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Eldoret to Lodwar Price: Complete Guide'
-description: Everything you need to know about flight from eldoret to lodwar price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from eldoret to lodwar price, including routes, airlines, booking tips, and fares.'
 slug: flight-from-eldoret-to-lodwar-price
-primary_keyword: flight from eldoret to lodwar price
+primary_keyword: 'flight from eldoret to lodwar price'
 secondary_keywords:
-- air india flight from nairobi to mumbai
-- british airways flight from nairobi to london
-- cheapest flight from nairobi to mombasa
-- domestic flight from nairobi to mombasa price in ksh
-- flight for nairobi
+- 'air india flight from nairobi to mumbai'
+- 'british airways flight from nairobi to london'
+- 'cheapest flight from nairobi to mombasa'
+- 'domestic flight from nairobi to mombasa price in ksh'
+- 'flight for nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

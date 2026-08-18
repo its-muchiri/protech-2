@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways Nairobi Kenya: Complete Guide'
-description: Everything you need to know about qatar airways nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-nairobi-kenya
-primary_keyword: qatar airways nairobi kenya
+primary_keyword: 'qatar airways nairobi kenya'
 secondary_keywords:
-- emirates flight from riyadh to nairobi today
-- emirates from kenya to canada
-- emirates cargo kenya
-- emirates holidays kenya safari
-- emirates kenya
+- 'emirates flight from riyadh to nairobi today'
+- 'emirates from kenya to canada'
+- 'emirates cargo kenya'
+- 'emirates holidays kenya safari'
+- 'emirates kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

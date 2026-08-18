@@ -1,14 +1,14 @@
 ---
 title: 'Rollator with Seat for Elderly in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to rollator with seat for elderly in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to rollator with seat for elderly in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: rollator-with-seat-for-elderly-in-nairobi
-primary_keyword: Rollator with seat for elderly in Nairobi
+primary_keyword: 'Rollator with seat for elderly in Nairobi'
 secondary_keywords:
-- How to register a medical device in Kenya
-- Hospital floor cleaning and disinfection machines
-- Used laboratory equipment auction Nairobi
-- Disaster response medical kits suppliers
-- wheelchair spare parts in Kisumu
+- 'How to register a medical device in Kenya'
+- 'Hospital floor cleaning and disinfection machines'
+- 'Used laboratory equipment auction Nairobi'
+- 'Disaster response medical kits suppliers'
+- 'wheelchair spare parts in Kisumu'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

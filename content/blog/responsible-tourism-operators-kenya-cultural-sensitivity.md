@@ -1,14 +1,14 @@
 ---
 title: 'Responsible Tourism Operators Kenya Cultural Sensitivity: Complete Guide'
-description: Kenya safari guide covering responsible tourism operators kenya cultural sensitivity, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering responsible tourism operators kenya cultural sensitivity, including what is included, pricing, and booking advice.'
 slug: responsible-tourism-operators-kenya-cultural-sensitivity
-primary_keyword: Responsible tourism operators Kenya cultural sensitivity
+primary_keyword: 'Responsible tourism operators Kenya cultural sensitivity'
 secondary_keywords:
-- Tsavo East safari
-- Kakamega Forest safari
-- Child-friendly Kenya safari
-- Tailor-made Kenya safari
-- Camel safari Kenya
+- 'Tsavo East safari'
+- 'Kakamega Forest safari'
+- 'Child-friendly Kenya safari'
+- 'Tailor-made Kenya safari'
+- 'Camel safari Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

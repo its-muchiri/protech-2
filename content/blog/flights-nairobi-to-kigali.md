@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Kigali: Complete Guide'
-description: Everything you need to know about flights nairobi to kigali, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to kigali, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-kigali
-primary_keyword: flights nairobi to kigali
+primary_keyword: 'flights nairobi to kigali'
 secondary_keywords:
-- emirates flights from adelaide to dubai
-- emirates flights from beirut to dubai
-- emirates flights from colombo to dubai
-- emirates flights from dubai to london
-- emirates flights from frankfurt to dubai
+- 'emirates flights from adelaide to dubai'
+- 'emirates flights from beirut to dubai'
+- 'emirates flights from colombo to dubai'
+- 'emirates flights from dubai to london'
+- 'emirates flights from frankfurt to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

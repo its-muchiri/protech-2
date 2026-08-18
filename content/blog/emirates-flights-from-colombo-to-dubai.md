@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Colombo to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from colombo to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from colombo to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-colombo-to-dubai
-primary_keyword: emirates flights from colombo to dubai
+primary_keyword: 'emirates flights from colombo to dubai'
 secondary_keywords:
-- flight from wajir to nairobi
-- flight from nairobi to new zealand
-- book a flight from nairobi to mombasa
-- flight 540 nairobi to mombasa price in kenya shillings today
-- 748 flight from mombasa to nairobi
+- 'flight from wajir to nairobi'
+- 'flight from nairobi to new zealand'
+- 'book a flight from nairobi to mombasa'
+- 'flight 540 nairobi to mombasa price in kenya shillings today'
+- '748 flight from mombasa to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

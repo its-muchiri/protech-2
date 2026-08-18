@@ -1,14 +1,14 @@
 ---
 title: 'Urine Sediment Analyzer for Sale: 2026 Price Guide'
-description: Kenya buying guide to urine sediment analyzer for sale. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to urine sediment analyzer for sale. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: urine-sediment-analyzer-for-sale
-primary_keyword: Urine sediment analyzer for sale
+primary_keyword: 'Urine sediment analyzer for sale'
 secondary_keywords:
-- Patient stretcher on trolley for sale in Kisumu
-- Transport ventilator for ambulance use
-- Defibrillator with pacing capability price
-- Combination therapy unit (IFT, TENS, US) price
-- Veterinary hematology and chemistry analyzer price
+- 'Patient stretcher on trolley for sale in Kisumu'
+- 'Transport ventilator for ambulance use'
+- 'Defibrillator with pacing capability price'
+- 'Combination therapy unit (IFT, TENS, US) price'
+- 'Veterinary hematology and chemistry analyzer price'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

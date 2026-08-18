@@ -1,14 +1,14 @@
 ---
 title: 'Horse Riding Safari Kenya Chyulu Hills / Laikipia Ranches: Complete Guide'
-description: Kenya safari guide covering horse riding safari kenya chyulu hills / laikipia ranches, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering horse riding safari kenya chyulu hills / laikipia ranches, including what is included, pricing, and booking advice.'
 slug: horse-riding-safari-kenya-chyulu-hills-laikipia-ranches
-primary_keyword: Horse riding safari Kenya Chyulu Hills / Laikipia ranches
+primary_keyword: 'Horse riding safari Kenya Chyulu Hills / Laikipia ranches'
 secondary_keywords:
-- Find Kenya safari tour with hot springs visit package USA Lake Bogoria deals
-- Book paragliding safari Kerio Valley Kenya experience USA adventure sports booking cost
-- Kenya wildlife safari
-- Safari Masai Mara
-- Lake Naivasha safari
+- 'Find Kenya safari tour with hot springs visit package USA Lake Bogoria deals'
+- 'Book paragliding safari Kerio Valley Kenya experience USA adventure sports booking cost'
+- 'Kenya wildlife safari'
+- 'Safari Masai Mara'
+- 'Lake Naivasha safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

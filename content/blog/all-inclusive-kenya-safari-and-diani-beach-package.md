@@ -1,14 +1,14 @@
 ---
 title: 'All-inclusive Kenya Safari and Diani Beach Package: Complete Guide'
-description: Kenya safari guide covering all-inclusive kenya safari and diani beach package, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering all-inclusive kenya safari and diani beach package, including what is included, pricing, and booking advice.'
 slug: all-inclusive-kenya-safari-and-diani-beach-package
-primary_keyword: All-inclusive Kenya safari and Diani beach package
+primary_keyword: 'All-inclusive Kenya safari and Diani beach package'
 secondary_keywords:
-- Fly-in Masai Mara safari package book
-- Finch Hattons Tsavo luxury package quote
-- Private Kenya honeymoon safari quote
-- Overland truck safari Kenya package price
-- Tsavo Mombasa beach safari package quote
+- 'Fly-in Masai Mara safari package book'
+- 'Finch Hattons Tsavo luxury package quote'
+- 'Private Kenya honeymoon safari quote'
+- 'Overland truck safari Kenya package price'
+- 'Tsavo Mombasa beach safari package quote'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

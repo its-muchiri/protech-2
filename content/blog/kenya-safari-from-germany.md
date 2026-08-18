@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari from Germany: Complete Guide'
-description: Kenya safari guide covering kenya safari from germany, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari from germany, including what is included, pricing, and booking advice.'
 slug: kenya-safari-from-germany
-primary_keyword: Kenya safari from Germany
+primary_keyword: 'Kenya safari from Germany'
 secondary_keywords:
-- Digital detox safari Kenya
-- Using credit cards Kenya safari
-- Affordable 7 day Masai Mara Amboseli safari
-- Best time hot air balloon Masai Mara
-- Avoid tourist traps Kenya safari
+- 'Digital detox safari Kenya'
+- 'Using credit cards Kenya safari'
+- 'Affordable 7 day Masai Mara Amboseli safari'
+- 'Best time hot air balloon Masai Mara'
+- 'Avoid tourist traps Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

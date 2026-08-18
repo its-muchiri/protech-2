@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Garissa: Complete Guide'
-description: Everything you need to know about flights from mombasa to garissa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to garissa, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-garissa
-primary_keyword: flights from mombasa to garissa
+primary_keyword: 'flights from mombasa to garissa'
 secondary_keywords:
-- kenya airways flights from harare to london
-- kq flight from lagos to nairobi today
-- kq flight from new york to nairobi today
-- kq flight from nairobi to juba
-- kq direct flight from nairobi to new york
+- 'kenya airways flights from harare to london'
+- 'kq flight from lagos to nairobi today'
+- 'kq flight from new york to nairobi today'
+- 'kq flight from nairobi to juba'
+- 'kq direct flight from nairobi to new york'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

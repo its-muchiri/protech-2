@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights from Nairobi to South Africa Today: Complete Guide'
-description: Everything you need to know about kenya airways flights from nairobi to south africa today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights from nairobi to south africa today, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-from-nairobi-to-south-africa-today
-primary_keyword: kenya airways flights from nairobi to south africa today
+primary_keyword: 'kenya airways flights from nairobi to south africa today'
 secondary_keywords:
-- flight time from nairobi to new delhi
-- flight from nairobi to paris
-- flight price from nairobi to turkey
-- return flight from nairobi to cape town
-- time taken by flight from nairobi to mombasa
+- 'flight time from nairobi to new delhi'
+- 'flight from nairobi to paris'
+- 'flight price from nairobi to turkey'
+- 'return flight from nairobi to cape town'
+- 'time taken by flight from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

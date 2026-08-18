@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Heathrow to Dubai Which Terminal: Complete Guide'
-description: Everything you need to know about emirates flights from heathrow to dubai which terminal, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from heathrow to dubai which terminal, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-heathrow-to-dubai-which-terminal
-primary_keyword: emirates flights from heathrow to dubai which terminal
+primary_keyword: 'emirates flights from heathrow to dubai which terminal'
 secondary_keywords:
-- domestic flight from nairobi to mombasa
-- lufthansa flight from nairobi to frankfurt
-- flight from nairobi to geneva
-- flight from nairobi to heathrow today
-- indigo flight from nairobi to ahmedabad
+- 'domestic flight from nairobi to mombasa'
+- 'lufthansa flight from nairobi to frankfurt'
+- 'flight from nairobi to geneva'
+- 'flight from nairobi to heathrow today'
+- 'indigo flight from nairobi to ahmedabad'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

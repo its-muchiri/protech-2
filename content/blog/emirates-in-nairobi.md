@@ -1,14 +1,14 @@
 ---
 title: 'Emirates in Nairobi: Complete Guide'
-description: Everything you need to know about emirates in nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates in nairobi, including routes, airlines, booking tips, and fares.'
 slug: emirates-in-nairobi
-primary_keyword: emirates in nairobi
+primary_keyword: 'emirates in nairobi'
 secondary_keywords:
-- booking flights in kenya
-- flights to kenya british airways
-- cheap flights to kenya in december
-- flights to kenya from london
-- flights from nairobi kenya to harare zimbabwe
+- 'booking flights in kenya'
+- 'flights to kenya british airways'
+- 'cheap flights to kenya in december'
+- 'flights to kenya from london'
+- 'flights from nairobi kenya to harare zimbabwe'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

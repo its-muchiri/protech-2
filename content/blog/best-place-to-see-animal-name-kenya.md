@@ -1,14 +1,14 @@
 ---
 title: 'Best Place to See  Kenya: Complete Guide'
-description: Kenya safari guide covering best place to see  kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering best place to see  kenya, including what is included, pricing, and booking advice.'
 slug: best-place-to-see-animal-name-kenya
-primary_keyword: Best place to see  Kenya
+primary_keyword: 'Best place to see  Kenya'
 secondary_keywords:
-- Kenya tour package cancellation policy refund options
-- Internal flights Kenya Safarilink / AirKenya schedule / price
-- Gorilla trekking tours from Kenya combined Uganda / Rwanda trip
-- Tours starting from Wilson Airport Nairobi fly-in safaris
-- Purchase Kenya honeymoon safari package online
+- 'Kenya tour package cancellation policy refund options'
+- 'Internal flights Kenya Safarilink / AirKenya schedule / price'
+- 'Gorilla trekking tours from Kenya combined Uganda / Rwanda trip'
+- 'Tours starting from Wilson Airport Nairobi fly-in safaris'
+- 'Purchase Kenya honeymoon safari package online'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

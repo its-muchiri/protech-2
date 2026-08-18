@@ -1,14 +1,14 @@
 ---
 title: 'Luxury Tented Camps Samburu (Elephant Bedroom, Sasaab) Booking: Complete Guide'
-description: Kenya safari guide covering luxury tented camps samburu (elephant bedroom, sasaab) booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering luxury tented camps samburu (elephant bedroom, sasaab) booking, including what is included, pricing, and booking advice.'
 slug: luxury-tented-camps-samburu-elephant-bedroom-sasaab-booking
-primary_keyword: Luxury tented camps Samburu (Elephant Bedroom, Sasaab) booking
+primary_keyword: 'Luxury tented camps Samburu (Elephant Bedroom, Sasaab) booking'
 secondary_keywords:
-- Malindi beach hotels deals Italian influence
-- Mount Longonot hike day trip from Nairobi / Thika price / guide
-- Day trip Nairobi National Park tour company price
-- Pollman''s Tours & Safaris Kenya contact / services
-- Perfect Wilderness Tours Kenya reviews
+- 'Malindi beach hotels deals Italian influence'
+- 'Mount Longonot hike day trip from Nairobi / Thika price / guide'
+- 'Day trip Nairobi National Park tour company price'
+- 'Pollman''''s Tours & Safaris Kenya contact / services'
+- 'Perfect Wilderness Tours Kenya reviews'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Kilifi: Complete Guide'
-description: Everything you need to know about flights nairobi to kilifi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to kilifi, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-kilifi
-primary_keyword: flights nairobi to kilifi
+primary_keyword: 'flights nairobi to kilifi'
 secondary_keywords:
-- flights from italy to mombasa
-- flights from mombasa to kigali
-- fly from mombasa to lamu
-- morning flights from mombasa to nairobi
-- flight from kisumu to mombasa price
+- 'flights from italy to mombasa'
+- 'flights from mombasa to kigali'
+- 'fly from mombasa to lamu'
+- 'morning flights from mombasa to nairobi'
+- 'flight from kisumu to mombasa price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

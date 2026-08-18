@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Direct Flights from New York: Complete Guide'
-description: Everything you need to know about emirates direct flights from new york, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates direct flights from new york, including routes, airlines, booking tips, and fares.'
 slug: emirates-direct-flights-from-new-york
-primary_keyword: emirates direct flights from new york
+primary_keyword: 'emirates direct flights from new york'
 secondary_keywords:
-- kenya airways flight schedule from nairobi to addis ababa
-- kenya airways flight status from nairobi to dubai
-- kenya airways flight from nairobi to jfk
-- kenya airways flight schedule from lagos to nairobi
-- kenya airways flight from new york to nairobi
+- 'kenya airways flight schedule from nairobi to addis ababa'
+- 'kenya airways flight status from nairobi to dubai'
+- 'kenya airways flight from nairobi to jfk'
+- 'kenya airways flight schedule from lagos to nairobi'
+- 'kenya airways flight from new york to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

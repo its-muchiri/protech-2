@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to New York: Complete Guide'
-description: Everything you need to know about kq flights to new york, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to new york, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-new-york
-primary_keyword: kq flights to new york
+primary_keyword: 'kq flights to new york'
 secondary_keywords:
-- flight from nairobi to bahamas
-- flight 540 nairobi to diani
-- how much flight from kenya to usa
-- turkish airlines nairobi office phone number
-- turkish airlines departures nairobi
+- 'flight from nairobi to bahamas'
+- 'flight 540 nairobi to diani'
+- 'how much flight from kenya to usa'
+- 'turkish airlines nairobi office phone number'
+- 'turkish airlines departures nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

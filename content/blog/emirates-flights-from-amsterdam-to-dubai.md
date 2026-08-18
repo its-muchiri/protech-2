@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Amsterdam to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from amsterdam to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from amsterdam to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-amsterdam-to-dubai
-primary_keyword: emirates flights from amsterdam to dubai
+primary_keyword: 'emirates flights from amsterdam to dubai'
 secondary_keywords:
-- flights from eldoret to nairobi price
-- today''s flights from eldoret to nairobi
-- kq flight amsterdam to nairobi
-- kenya airways flights bookings
-- kq flights cancelled
+- 'flights from eldoret to nairobi price'
+- 'today''''s flights from eldoret to nairobi'
+- 'kq flight amsterdam to nairobi'
+- 'kenya airways flights bookings'
+- 'kq flights cancelled'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

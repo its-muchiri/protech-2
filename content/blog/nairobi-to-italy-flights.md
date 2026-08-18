@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi to Italy Flights: Complete Guide'
-description: Everything you need to know about nairobi to italy flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about nairobi to italy flights, including routes, airlines, booking tips, and fares.'
 slug: nairobi-to-italy-flights
-primary_keyword: nairobi to italy flights
+primary_keyword: 'nairobi to italy flights'
 secondary_keywords:
-- kq flight from new york
-- kq flight from nairobi to dubai today
-- kq direct flight from nairobi to new york ticket price
-- how much is kq flight from nairobi to dubai
-- kenya airways flight from nairobi to lagos
+- 'kq flight from new york'
+- 'kq flight from nairobi to dubai today'
+- 'kq direct flight from nairobi to new york ticket price'
+- 'how much is kq flight from nairobi to dubai'
+- 'kenya airways flight from nairobi to lagos'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

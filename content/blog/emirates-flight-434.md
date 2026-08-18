@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 434: Complete Guide'
-description: Everything you need to know about emirates flight 434, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 434, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-434
-primary_keyword: emirates flight 434
+primary_keyword: 'emirates flight 434'
 secondary_keywords:
-- kq flight rates
-- kq flights to senegal
-- kq flights from nairobi to london
-- kq flight 100
-- kq 274 flight status
+- 'kq flight rates'
+- 'kq flights to senegal'
+- 'kq flights from nairobi to london'
+- 'kq flight 100'
+- 'kq 274 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

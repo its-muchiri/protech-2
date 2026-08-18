@@ -1,14 +1,14 @@
 ---
 title: 'Small Group Kenya Safari: Complete Guide'
-description: Kenya safari guide covering small group kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering small group kenya safari, including what is included, pricing, and booking advice.'
 slug: small-group-kenya-safari
-primary_keyword: Small group Kenya safari
+primary_keyword: 'Small group Kenya safari'
 secondary_keywords:
-- Buy Laikipia luxury safari booking
-- Secure Great Rift Valley lakes tour booking
-- Buy weekend Kenya safari getaway booking
-- Reserve 5 day family fly-in Amboseli package
-- Amboseli tour package price quote
+- 'Buy Laikipia luxury safari booking'
+- 'Secure Great Rift Valley lakes tour booking'
+- 'Buy weekend Kenya safari getaway booking'
+- 'Reserve 5 day family fly-in Amboseli package'
+- 'Amboseli tour package price quote'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

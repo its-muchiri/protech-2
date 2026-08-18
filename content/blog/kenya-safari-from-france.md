@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari from France: Complete Guide'
-description: Kenya safari guide covering kenya safari from france, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari from france, including what is included, pricing, and booking advice.'
 slug: kenya-safari-from-france
-primary_keyword: Kenya safari from France
+primary_keyword: 'Kenya safari from France'
 secondary_keywords:
-- Negative reviews Kenya tour companies common complaints
-- Tour companies based in Mombasa Kenya South Coast departures
-- Reserve Kenya family safari package USA deals
-- Purchase last minute Kenya safari online Europe
-- Kenya safari and beach package cost USA Diani/Zanzibar
+- 'Negative reviews Kenya tour companies common complaints'
+- 'Tour companies based in Mombasa Kenya South Coast departures'
+- 'Reserve Kenya family safari package USA deals'
+- 'Purchase last minute Kenya safari online Europe'
+- 'Kenya safari and beach package cost USA Diani/Zanzibar'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

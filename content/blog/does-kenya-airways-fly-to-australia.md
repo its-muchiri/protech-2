@@ -1,14 +1,14 @@
 ---
 title: 'Does Kenya Airways Fly to Australia: Complete Guide'
-description: Everything you need to know about does kenya airways fly to australia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about does kenya airways fly to australia, including routes, airlines, booking tips, and fares.'
 slug: does-kenya-airways-fly-to-australia
-primary_keyword: does kenya airways fly to australia
+primary_keyword: 'does kenya airways fly to australia'
 secondary_keywords:
-- renegade flight from nairobi to kisumu
-- seychelles flight from nairobi
-- flight from nairobi to uk
-- klm flight from nairobi to vancouver
-- flight from nairobi to los angeles
+- 'renegade flight from nairobi to kisumu'
+- 'seychelles flight from nairobi'
+- 'flight from nairobi to uk'
+- 'klm flight from nairobi to vancouver'
+- 'flight from nairobi to los angeles'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

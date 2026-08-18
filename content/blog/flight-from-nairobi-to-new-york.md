@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to New York: Complete Guide'
-description: Everything you need to know about flight from nairobi to new york, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to new york, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-new-york
-primary_keyword: flight from nairobi to new york
+primary_keyword: 'flight from nairobi to new york'
 secondary_keywords:
-- emirates flights from dubai
-- emirates flights from entebbe to london
-- flights from faisalabad to dubai united arab emirates
-- emirates flights from dubai to glasgow today
-- how many emirates flights from heathrow
+- 'emirates flights from dubai'
+- 'emirates flights from entebbe to london'
+- 'flights from faisalabad to dubai united arab emirates'
+- 'emirates flights from dubai to glasgow today'
+- 'how many emirates flights from heathrow'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines in Nairobi: Complete Guide'
-description: Everything you need to know about ethiopian airlines in nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines in nairobi, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-in-nairobi
-primary_keyword: ethiopian airlines in nairobi
+primary_keyword: 'ethiopian airlines in nairobi'
 secondary_keywords:
-- flights from nairobi to amsterdam today
-- flights from nairobi to boston
-- flights from nairobi to cape town
-- cheap flights from nairobi to usa
-- flights from nairobi to entebbe today
+- 'flights from nairobi to amsterdam today'
+- 'flights from nairobi to boston'
+- 'flights from nairobi to cape town'
+- 'cheap flights from nairobi to usa'
+- 'flights from nairobi to entebbe today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

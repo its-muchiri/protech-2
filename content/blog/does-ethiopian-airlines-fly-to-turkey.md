@@ -1,14 +1,14 @@
 ---
 title: 'Does Ethiopian Airlines Fly to Turkey: Complete Guide'
-description: Everything you need to know about does ethiopian airlines fly to turkey, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about does ethiopian airlines fly to turkey, including routes, airlines, booking tips, and fares.'
 slug: does-ethiopian-airlines-fly-to-turkey
-primary_keyword: does ethiopian airlines fly to turkey
+primary_keyword: 'does ethiopian airlines fly to turkey'
 secondary_keywords:
-- flight from nairobi to vietnam
-- flight time from wajir to nairobi
-- flight zagreb nairobi
-- cost of flight from nairobi to usa
-- 540 flight from nairobi to mombasa
+- 'flight from nairobi to vietnam'
+- 'flight time from wajir to nairobi'
+- 'flight zagreb nairobi'
+- 'cost of flight from nairobi to usa'
+- '540 flight from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

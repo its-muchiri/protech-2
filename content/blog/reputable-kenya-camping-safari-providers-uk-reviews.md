@@ -1,14 +1,14 @@
 ---
 title: 'Reputable Kenya Camping Safari Providers UK Reviews: Complete Guide'
-description: Kenya safari guide covering reputable kenya camping safari providers uk reviews, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reputable kenya camping safari providers uk reviews, including what is included, pricing, and booking advice.'
 slug: reputable-kenya-camping-safari-providers-uk-reviews
-primary_keyword: Reputable Kenya camping safari providers UK reviews
+primary_keyword: 'Reputable Kenya camping safari providers UK reviews'
 secondary_keywords:
-- Purchase short Kenya safari package (3-5 days)
-- Secure all-inclusive luxury safari Kenya purchase
-- Kenya safari cost per person quote
-- 9 day migration special safari rates request
-- Cost quote 4 day Tsavo lodge safari package from Mombasa
+- 'Purchase short Kenya safari package (3-5 days)'
+- 'Secure all-inclusive luxury safari Kenya purchase'
+- 'Kenya safari cost per person quote'
+- '9 day migration special safari rates request'
+- 'Cost quote 4 day Tsavo lodge safari package from Mombasa'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

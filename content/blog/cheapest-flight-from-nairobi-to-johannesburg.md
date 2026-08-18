@@ -1,14 +1,14 @@
 ---
 title: 'Cheapest Flight from Nairobi to Johannesburg: Complete Guide'
-description: Everything you need to know about cheapest flight from nairobi to johannesburg, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheapest flight from nairobi to johannesburg, including routes, airlines, booking tips, and fares.'
 slug: cheapest-flight-from-nairobi-to-johannesburg
-primary_keyword: cheapest flight from nairobi to johannesburg
+primary_keyword: 'cheapest flight from nairobi to johannesburg'
 secondary_keywords:
-- how much is flight from kenya to south africa
-- 748 flights to kisumu
-- flights from nairobi to kisumu
-- air india flights from nairobi to india
-- british airways flights from nairobi to london
+- 'how much is flight from kenya to south africa'
+- '748 flights to kisumu'
+- 'flights from nairobi to kisumu'
+- 'air india flights from nairobi to india'
+- 'british airways flights from nairobi to london'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

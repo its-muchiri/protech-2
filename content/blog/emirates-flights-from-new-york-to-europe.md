@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from New York to Europe: Complete Guide'
-description: Everything you need to know about emirates flights from new york to europe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from new york to europe, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-new-york-to-europe
-primary_keyword: emirates flights from new york to europe
+primary_keyword: 'emirates flights from new york to europe'
 secondary_keywords:
-- kq flights to guangzhou
-- kq flight intercepted
-- kq flights from juba to nairobi
-- kq flights to lusaka
-- kq flights to mauritius
+- 'kq flights to guangzhou'
+- 'kq flight intercepted'
+- 'kq flights from juba to nairobi'
+- 'kq flights to lusaka'
+- 'kq flights to mauritius'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

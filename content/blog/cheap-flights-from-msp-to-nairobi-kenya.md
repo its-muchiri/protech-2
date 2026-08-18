@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Msp to Nairobi Kenya: Complete Guide'
-description: Everything you need to know about cheap flights from msp to nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from msp to nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-msp-to-nairobi-kenya
-primary_keyword: cheap flights from msp to nairobi kenya
+primary_keyword: 'cheap flights from msp to nairobi kenya'
 secondary_keywords:
-- rwandair flights from nairobi to kigali today
-- safarilink flights from nairobi to eldoret
-- flight from nairobi to united kingdom
-- flights from nairobi wilson to mombasa
-- cheap flights from nairobi to south africa
+- 'rwandair flights from nairobi to kigali today'
+- 'safarilink flights from nairobi to eldoret'
+- 'flight from nairobi to united kingdom'
+- 'flights from nairobi wilson to mombasa'
+- 'cheap flights from nairobi to south africa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

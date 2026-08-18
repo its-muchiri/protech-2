@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Hamburg: Complete Guide'
-description: Everything you need to know about flights from nairobi to hamburg, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to hamburg, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-hamburg
-primary_keyword: flights from nairobi to hamburg
+primary_keyword: 'flights from nairobi to hamburg'
 secondary_keywords:
-- turkish airlines terminal in nairobi
-- turkish airlines no last name
-- turkish airlines istanbul to nairobi today timetable
-- ethiopian airlines from nairobi
-- ethiopian airlines location in nairobi
+- 'turkish airlines terminal in nairobi'
+- 'turkish airlines no last name'
+- 'turkish airlines istanbul to nairobi today timetable'
+- 'ethiopian airlines from nairobi'
+- 'ethiopian airlines location in nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

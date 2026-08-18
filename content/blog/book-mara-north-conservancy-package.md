@@ -1,14 +1,14 @@
 ---
 title: 'Book Mara North Conservancy Package: Complete Guide'
-description: Kenya safari guide covering book mara north conservancy package, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book mara north conservancy package, including what is included, pricing, and booking advice.'
 slug: book-mara-north-conservancy-package
-primary_keyword: Book Mara North Conservancy package
+primary_keyword: 'Book Mara North Conservancy package'
 secondary_keywords:
-- Kenya safari package purchase
-- Add-ons for Kenya safari package purchase
-- (Adding 'buy', 'book', 'package', 'cost', 'quote', 'deal', 'reserve', 'operator' to core terms)
-- Christmas safari deal buy
-- Book 9 day mid-range Kenya classic circuit package
+- 'Kenya safari package purchase'
+- 'Add-ons for Kenya safari package purchase'
+- '(Adding ''buy'', ''book'', ''package'', ''cost'', ''quote'', ''deal'', ''reserve'', ''operator'' to core terms)'
+- 'Christmas safari deal buy'
+- 'Book 9 day mid-range Kenya classic circuit package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

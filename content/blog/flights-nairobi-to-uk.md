@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Uk: Complete Guide'
-description: Everything you need to know about flights nairobi to uk, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to uk, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-uk
-primary_keyword: flights nairobi to uk
+primary_keyword: 'flights nairobi to uk'
 secondary_keywords:
-- air india flight from nairobi to delhi
-- flight from nairobi to busia
-- flight from nairobi to california
-- flight from nairobi to diani beach
-- egypt air flight from nairobi to cairo
+- 'air india flight from nairobi to delhi'
+- 'flight from nairobi to busia'
+- 'flight from nairobi to california'
+- 'flight from nairobi to diani beach'
+- 'egypt air flight from nairobi to cairo'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

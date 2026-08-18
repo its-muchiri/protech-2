@@ -1,14 +1,14 @@
 ---
 title: 'Book Masai Mara Safari Online UK Migration Season: Complete Guide'
-description: Kenya safari guide covering book masai mara safari online uk migration season, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book masai mara safari online uk migration season, including what is included, pricing, and booking advice.'
 slug: book-masai-mara-safari-online-uk-migration-season
-primary_keyword: Book Masai Mara safari online UK migration season
+primary_keyword: 'Book Masai Mara safari online UK migration season'
 secondary_keywords:
-- Taita Hills Wildlife Sanctuary tours Voi
-- Accessible safari tours Kenya wheelchair friendly
-- Great Rift Valley viewpoint tour operators
-- 10 day Kenya wildlife photography tour
-- Off-season safari deals Kenya companies
+- 'Taita Hills Wildlife Sanctuary tours Voi'
+- 'Accessible safari tours Kenya wheelchair friendly'
+- 'Great Rift Valley viewpoint tour operators'
+- '10 day Kenya wildlife photography tour'
+- 'Off-season safari deals Kenya companies'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

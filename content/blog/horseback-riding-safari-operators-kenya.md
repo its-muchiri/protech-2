@@ -1,14 +1,14 @@
 ---
 title: 'Horseback Riding Safari Operators Kenya: Complete Guide'
-description: Kenya safari guide covering horseback riding safari operators kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering horseback riding safari operators kenya, including what is included, pricing, and booking advice.'
 slug: horseback-riding-safari-operators-kenya
-primary_keyword: Horseback riding safari operators Kenya
+primary_keyword: 'Horseback riding safari operators Kenya'
 secondary_keywords:
-- Request price list Kenya safari packages
-- Cost per person 8 day Kenya discovery package
-- Price list 6 day group joining Nakuru Mara safari
-- Ol Pejeta Conservancy safari special offer
-- Private guided Kenya safari early bird promotion
+- 'Request price list Kenya safari packages'
+- 'Cost per person 8 day Kenya discovery package'
+- 'Price list 6 day group joining Nakuru Mara safari'
+- 'Ol Pejeta Conservancy safari special offer'
+- 'Private guided Kenya safari early bird promotion'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

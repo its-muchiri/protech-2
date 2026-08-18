@@ -1,14 +1,14 @@
 ---
 title: 'LED Light Cure Unit for Dental Fillings in Mombasa: 2026 Price Guide'
-description: Kenya buying guide to led light cure unit for dental fillings in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to led light cure unit for dental fillings in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: led-light-cure-unit-for-dental-fillings-in-mombasa
-primary_keyword: LED light cure unit for dental fillings in Mombasa
+primary_keyword: 'LED light cure unit for dental fillings in Mombasa'
 secondary_keywords:
-- Dettol Kenya price
-- test tubes Kenya wholesale
-- thermometers Kenya digital price
-- sterile water for injection Kenya
-- vaccine carriers Kenya price
+- 'Dettol Kenya price'
+- 'test tubes Kenya wholesale'
+- 'thermometers Kenya digital price'
+- 'sterile water for injection Kenya'
+- 'vaccine carriers Kenya price'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights for Kenya: Complete Guide'
-description: Everything you need to know about flights for kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights for kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-for-kenya
-primary_keyword: flights for kenya
+primary_keyword: 'flights for kenya'
 secondary_keywords:
-- flights from peshawar to dubai united arab emirates
-- flights from al qaisumah to dubai united arab emirates
-- when will emirates resume flights from adelaide 2023
-- emirates flights from tehran to toronto
-- emirates flights from venice to dubai
+- 'flights from peshawar to dubai united arab emirates'
+- 'flights from al qaisumah to dubai united arab emirates'
+- 'when will emirates resume flights from adelaide 2023'
+- 'emirates flights from tehran to toronto'
+- 'emirates flights from venice to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

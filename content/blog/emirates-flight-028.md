@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 028: Complete Guide'
-description: Everything you need to know about emirates flight 028, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 028, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-028
-primary_keyword: emirates flight 028
+primary_keyword: 'emirates flight 028'
 secondary_keywords:
-- flight kq
-- i-fly air booking
-- kq flights to kenya
-- kq flights mombasa
-- kq flight nairobi to new york
+- 'flight kq'
+- 'i-fly air booking'
+- 'kq flights to kenya'
+- 'kq flights mombasa'
+- 'kq flight nairobi to new york'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

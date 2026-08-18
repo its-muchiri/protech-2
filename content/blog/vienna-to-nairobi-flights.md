@@ -1,14 +1,14 @@
 ---
 title: 'Vienna to Nairobi Flights: Complete Guide'
-description: Everything you need to know about vienna to nairobi flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about vienna to nairobi flights, including routes, airlines, booking tips, and fares.'
 slug: vienna-to-nairobi-flights
-primary_keyword: vienna to nairobi flights
+primary_keyword: 'vienna to nairobi flights'
 secondary_keywords:
-- emirates flight 805
-- qatar flight from nairobi to doha today
-- how long is a flight from nairobi to qatar
-- qatar airways nairobi email
-- qatar airways from nairobi to london
+- 'emirates flight 805'
+- 'qatar flight from nairobi to doha today'
+- 'how long is a flight from nairobi to qatar'
+- 'qatar airways nairobi email'
+- 'qatar airways from nairobi to london'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Uk to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from uk to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from uk to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-uk-to-dubai
-primary_keyword: emirates flights from uk to dubai
+primary_keyword: 'emirates flights from uk to dubai'
 secondary_keywords:
-- emirates flight 005
-- emirates flights 203
-- emirates flight 373
-- emirates flight 434
-- emirates flight 612 status
+- 'emirates flight 005'
+- 'emirates flights 203'
+- 'emirates flight 373'
+- 'emirates flight 434'
+- 'emirates flight 612 status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

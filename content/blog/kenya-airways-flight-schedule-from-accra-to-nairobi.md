@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight Schedule from Accra to Nairobi: Complete Guide'
-description: Everything you need to know about kenya airways flight schedule from accra to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight schedule from accra to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-schedule-from-accra-to-nairobi
-primary_keyword: kenya airways flight schedule from accra to nairobi
+primary_keyword: 'kenya airways flight schedule from accra to nairobi'
 secondary_keywords:
-- flight to nairobi time
-- flights nairobi to vietnam
-- flights nairobi wilson to malindi
-- flights nairobi to zurich
-- how much is a flight from nairobi to ukunda
+- 'flight to nairobi time'
+- 'flights nairobi to vietnam'
+- 'flights nairobi wilson to malindi'
+- 'flights nairobi to zurich'
+- 'how much is a flight from nairobi to ukunda'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

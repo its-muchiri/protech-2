@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from Uganda to Kenya Today Timetable: Complete Guide'
-description: Everything you need to know about kq flights from uganda to kenya today timetable, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from uganda to kenya today timetable, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-uganda-to-kenya-today-timetable
-primary_keyword: kq flights from uganda to kenya today timetable
+primary_keyword: 'kq flights from uganda to kenya today timetable'
 secondary_keywords:
-- emirates flight 923
-- qatar airways flight ticket from doha to nairobi
-- qatar airways flight schedule from nairobi to doha today
-- does qatar airways fly to hong kong
-- qatar airways flight schedule from nairobi to doha price
+- 'emirates flight 923'
+- 'qatar airways flight ticket from doha to nairobi'
+- 'qatar airways flight schedule from nairobi to doha today'
+- 'does qatar airways fly to hong kong'
+- 'qatar airways flight schedule from nairobi to doha price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

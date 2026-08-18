@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Wellness Safari Retreat Booking UK Spa Lodge: Complete Guide'
-description: Kenya safari guide covering kenya wellness safari retreat booking uk spa lodge, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya wellness safari retreat booking uk spa lodge, including what is included, pricing, and booking advice.'
 slug: kenya-wellness-safari-retreat-booking-uk-spa-lodge
-primary_keyword: Kenya wellness safari retreat booking UK spa lodge
+primary_keyword: 'Kenya wellness safari retreat booking UK spa lodge'
 secondary_keywords:
-- Masai Mara National Reserve safari packages 3 days 2 nights from Nairobi
-- Budget camping safari Tsavo East red elephants
-- Crescent Island walking safari Lake Naivasha cost
-- Student safari packages Kenya budget options
-- Family friendly beach resorts Kenya kids club / activities
+- 'Masai Mara National Reserve safari packages 3 days 2 nights from Nairobi'
+- 'Budget camping safari Tsavo East red elephants'
+- 'Crescent Island walking safari Lake Naivasha cost'
+- 'Student safari packages Kenya budget options'
+- 'Family friendly beach resorts Kenya kids club / activities'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

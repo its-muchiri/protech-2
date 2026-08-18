@@ -1,14 +1,14 @@
 ---
 title: 'All-inclusive Safari Cost Kenya: Complete Guide'
-description: Kenya safari guide covering all-inclusive safari cost kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering all-inclusive safari cost kenya, including what is included, pricing, and booking advice.'
 slug: all-inclusive-safari-cost-kenya
-primary_keyword: All-inclusive safari cost Kenya
+primary_keyword: 'All-inclusive safari cost Kenya'
 secondary_keywords:
-- Budget camping safari Kenya solo traveler
-- 2 week Kenya Tanzania combined luxury safari
-- Kenya safari cancellation policy
-- Viaggio safari Kenia (Italian)
-- Swahili phrases for safari
+- 'Budget camping safari Kenya solo traveler'
+- '2 week Kenya Tanzania combined luxury safari'
+- 'Kenya safari cancellation policy'
+- 'Viaggio safari Kenia (Italian)'
+- 'Swahili phrases for safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

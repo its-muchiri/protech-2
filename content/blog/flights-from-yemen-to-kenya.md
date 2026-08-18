@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Yemen to Kenya: Complete Guide'
-description: Everything you need to know about flights from yemen to kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from yemen to kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-yemen-to-kenya
-primary_keyword: flights from yemen to kenya
+primary_keyword: 'flights from yemen to kenya'
 secondary_keywords:
-- 740 flight
-- turkish airlines nairobi office
-- what terminal is turkish airlines
-- turkish airlines jkia
-- turkish airlines pet allowance
+- '740 flight'
+- 'turkish airlines nairobi office'
+- 'what terminal is turkish airlines'
+- 'turkish airlines jkia'
+- 'turkish airlines pet allowance'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

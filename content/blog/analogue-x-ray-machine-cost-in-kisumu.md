@@ -1,14 +1,14 @@
 ---
 title: 'Analogue X-ray Machine Cost in Kisumu: 2026 Price Guide'
-description: Kenya buying guide to analogue x-ray machine cost in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to analogue x-ray machine cost in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: analogue-x-ray-machine-cost-in-kisumu
-primary_keyword: Analogue X-ray machine cost in Kisumu
+primary_keyword: 'Analogue X-ray machine cost in Kisumu'
 secondary_keywords:
-- ENT microscope for surgery cost
-- Elisa test kits for HIV suppliers
-- Cold chain solutions for vaccine transport
-- Hospital kitchen equipment suppliers
-- Ultrasound transducer compatibility check
+- 'ENT microscope for surgery cost'
+- 'Elisa test kits for HIV suppliers'
+- 'Cold chain solutions for vaccine transport'
+- 'Hospital kitchen equipment suppliers'
+- 'Ultrasound transducer compatibility check'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

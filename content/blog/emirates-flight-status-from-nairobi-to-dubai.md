@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight Status from Nairobi to Dubai: Complete Guide'
-description: Everything you need to know about emirates flight status from nairobi to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight status from nairobi to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-status-from-nairobi-to-dubai
-primary_keyword: emirates flight status from nairobi to dubai
+primary_keyword: 'emirates flight status from nairobi to dubai'
 secondary_keywords:
-- emirates nairobi airport terminal
-- emirates departure nairobi
-- emirates nairobi kenya
-- emirates skycargo nairobi
-- emirates kenya airways
+- 'emirates nairobi airport terminal'
+- 'emirates departure nairobi'
+- 'emirates nairobi kenya'
+- 'emirates skycargo nairobi'
+- 'emirates kenya airways'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

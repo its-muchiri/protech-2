@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Mombasa from Heathrow: Complete Guide'
-description: Everything you need to know about flights to mombasa from heathrow, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to mombasa from heathrow, including routes, airlines, booking tips, and fares.'
 slug: flights-to-mombasa-from-heathrow
-primary_keyword: flights to mombasa from heathrow
+primary_keyword: 'flights to mombasa from heathrow'
 secondary_keywords:
-- flights from kenya to djibouti
-- emirates flights from kenya to australia ticket price
-- flights to fiji from kenya
-- flights to greece from kenya
-- flights to kenya from heathrow
+- 'flights from kenya to djibouti'
+- 'emirates flights from kenya to australia ticket price'
+- 'flights to fiji from kenya'
+- 'flights to greece from kenya'
+- 'flights to kenya from heathrow'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

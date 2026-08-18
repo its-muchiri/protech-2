@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Nairobi to Kisumu: Complete Guide'
-description: Everything you need to know about kq flight from nairobi to kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from nairobi to kisumu, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-nairobi-to-kisumu
-primary_keyword: kq flight from nairobi to kisumu
+primary_keyword: 'kq flight from nairobi to kisumu'
 secondary_keywords:
-- flights from kenya to dc
-- kenya airways flights from eldoret to nairobi
-- flights from victoria falls zimbabwe to nairobi kenya
-- flights from gaborone to kenya
-- cheap flights from heathrow to nairobi kenya
+- 'flights from kenya to dc'
+- 'kenya airways flights from eldoret to nairobi'
+- 'flights from victoria falls zimbabwe to nairobi kenya'
+- 'flights from gaborone to kenya'
+- 'cheap flights from heathrow to nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

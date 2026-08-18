@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Geneva to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from geneva to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from geneva to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-geneva-to-dubai
-primary_keyword: emirates flights from geneva to dubai
+primary_keyword: 'emirates flights from geneva to dubai'
 secondary_keywords:
-- kq103 flight status
-- does kq fly to ukunda
-- kq 414 flight status
-- kq 554 flight status
-- kq 882 flight status
+- 'kq103 flight status'
+- 'does kq fly to ukunda'
+- 'kq 414 flight status'
+- 'kq 554 flight status'
+- 'kq 882 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

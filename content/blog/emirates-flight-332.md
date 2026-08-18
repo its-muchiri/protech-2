@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 332: Complete Guide'
-description: Everything you need to know about emirates flight 332, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 332, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-332
-primary_keyword: emirates flight 332
+primary_keyword: 'emirates flight 332'
 secondary_keywords:
-- air india flights from nairobi to mumbai
-- british airways flights from nairobi today
-- flights from nairobi to copenhagen
-- flights from nairobi to dublin
-- eldoret flights from nairobi
+- 'air india flights from nairobi to mumbai'
+- 'british airways flights from nairobi today'
+- 'flights from nairobi to copenhagen'
+- 'flights from nairobi to dublin'
+- 'eldoret flights from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

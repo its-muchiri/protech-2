@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi to Seattle Flights: Complete Guide'
-description: Everything you need to know about nairobi to seattle flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about nairobi to seattle flights, including routes, airlines, booking tips, and fares.'
 slug: nairobi-to-seattle-flights
-primary_keyword: nairobi to seattle flights
+primary_keyword: 'nairobi to seattle flights'
 secondary_keywords:
-- kenya airways flight from nairobi to lusaka
-- kenya airways flight from nairobi to mombasa ticket price
-- kenya airways flight 431 survivors
-- flight from nairobi to accra
-- flight from nairobi to bungoma
+- 'kenya airways flight from nairobi to lusaka'
+- 'kenya airways flight from nairobi to mombasa ticket price'
+- 'kenya airways flight 431 survivors'
+- 'flight from nairobi to accra'
+- 'flight from nairobi to bungoma'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

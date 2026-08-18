@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Edinburgh to Perth Australia: Complete Guide'
-description: Everything you need to know about emirates flights from edinburgh to perth australia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from edinburgh to perth australia, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-edinburgh-to-perth-australia
-primary_keyword: emirates flights from edinburgh to perth australia
+primary_keyword: 'emirates flights from edinburgh to perth australia'
 secondary_keywords:
-- emirates flights from johannesburg to london
-- emirates flights from kochi
-- emirates flights from london to dubai today
-- emirates flights from newcastle to dubai
-- flights from ottawa to dubai emirates
+- 'emirates flights from johannesburg to london'
+- 'emirates flights from kochi'
+- 'emirates flights from london to dubai today'
+- 'emirates flights from newcastle to dubai'
+- 'flights from ottawa to dubai emirates'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

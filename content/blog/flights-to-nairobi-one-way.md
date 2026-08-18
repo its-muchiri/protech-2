@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Nairobi One Way: Complete Guide'
-description: Everything you need to know about flights to nairobi one way, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to nairobi one way, including routes, airlines, booking tips, and fares.'
 slug: flights-to-nairobi-one-way
-primary_keyword: flights to nairobi one way
+primary_keyword: 'flights to nairobi one way'
 secondary_keywords:
-- how many airlines are in kenya
-- flight kenya london
-- flights to kenya in november
-- qatar airways in kenya
-- flights kenya to johannesburg
+- 'how many airlines are in kenya'
+- 'flight kenya london'
+- 'flights to kenya in november'
+- 'qatar airways in kenya'
+- 'flights kenya to johannesburg'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

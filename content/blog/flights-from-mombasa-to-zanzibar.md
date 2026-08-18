@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Zanzibar: Complete Guide'
-description: Everything you need to know about flights from mombasa to zanzibar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to zanzibar, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-zanzibar
-primary_keyword: flights from mombasa to zanzibar
+primary_keyword: 'flights from mombasa to zanzibar'
 secondary_keywords:
-- is kenya airport open today
-- does united fly to kenya
-- flights from kenya to new zealand
-- flights from kenya to australia
-- flights from kenya to south africa today
+- 'is kenya airport open today'
+- 'does united fly to kenya'
+- 'flights from kenya to new zealand'
+- 'flights from kenya to australia'
+- 'flights from kenya to south africa today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

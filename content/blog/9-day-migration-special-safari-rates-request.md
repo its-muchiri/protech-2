@@ -1,14 +1,14 @@
 ---
 title: '9 Day Migration Special Safari Rates Request: Complete Guide'
-description: Kenya safari guide covering 9 day migration special safari rates request, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering 9 day migration special safari rates request, including what is included, pricing, and booking advice.'
 slug: 9-day-migration-special-safari-rates-request
-primary_keyword: 9 day migration special safari rates request
+primary_keyword: '9 day migration special safari rates request'
 secondary_keywords:
-- Masai Mara safari booking from USA dates & availability
-- Kenya travel agents specializing in safaris Europe based
-- Independent travel agent Kenya safari booking Europe
-- Kenya safari offers departing within 30 days UK
-- Recommended Kenya honeymoon safari itinerary luxury lodges
+- 'Masai Mara safari booking from USA dates & availability'
+- 'Kenya travel agents specializing in safaris Europe based'
+- 'Independent travel agent Kenya safari booking Europe'
+- 'Kenya safari offers departing within 30 days UK'
+- 'Recommended Kenya honeymoon safari itinerary luxury lodges'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

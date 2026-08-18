@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Reviews: Complete Guide'
-description: Kenya safari guide covering kenya safari reviews, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari reviews, including what is included, pricing, and booking advice.'
 slug: kenya-safari-reviews
-primary_keyword: Kenya safari reviews
+primary_keyword: 'Kenya safari reviews'
 secondary_keywords:
-- Book Great Rift Valley birding safari tour specialist operator USA checklist species focus
-- Book safari tour focusing on big cat sightings Mara conservancies Europe best guides reviews
-- Book voluntourism placement Kenya wildlife conservation project safari included USA program fees cost
-- Purchase vintage car safari tour Kenya experience USA classic vehicle booking price
-- Reserve Elsamere Conservation Centre visit Lake Naivasha safari UK Joy Adamson history booking
+- 'Book Great Rift Valley birding safari tour specialist operator USA checklist species focus'
+- 'Book safari tour focusing on big cat sightings Mara conservancies Europe best guides reviews'
+- 'Book voluntourism placement Kenya wildlife conservation project safari included USA program fees cost'
+- 'Purchase vintage car safari tour Kenya experience USA classic vehicle booking price'
+- 'Reserve Elsamere Conservation Centre visit Lake Naivasha safari UK Joy Adamson history booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

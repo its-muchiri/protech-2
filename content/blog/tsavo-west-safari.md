@@ -1,14 +1,14 @@
 ---
 title: 'Tsavo West Safari: Complete Guide'
-description: Kenya safari guide covering tsavo west safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering tsavo west safari, including what is included, pricing, and booking advice.'
 slug: tsavo-west-safari
-primary_keyword: Tsavo West safari
+primary_keyword: 'Tsavo West safari'
 secondary_keywords:
-- Eco-friendly safari companies Kenya
-- Samburu fly-in safari companies
-- Shimba Hills National Reserve tours from Diani
-- Adventure safari companies Kenya (hiking, rafting)
-- Giraffe Centre Nairobi tour packages
+- 'Eco-friendly safari companies Kenya'
+- 'Samburu fly-in safari companies'
+- 'Shimba Hills National Reserve tours from Diani'
+- 'Adventure safari companies Kenya (hiking, rafting)'
+- 'Giraffe Centre Nairobi tour packages'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

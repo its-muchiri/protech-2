@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Lagos to Nairobi Kenya: Complete Guide'
-description: Everything you need to know about flights from lagos to nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from lagos to nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-lagos-to-nairobi-kenya
-primary_keyword: flights from lagos to nairobi kenya
+primary_keyword: 'flights from lagos to nairobi kenya'
 secondary_keywords:
-- emirates flights from johannesburg to orlando florida
-- emirates flights to uk from perth
-- emirates flight status contact number
-- emirates flights from south africa to india ticket price
-- emirates flights from tehran today
+- 'emirates flights from johannesburg to orlando florida'
+- 'emirates flights to uk from perth'
+- 'emirates flight status contact number'
+- 'emirates flights from south africa to india ticket price'
+- 'emirates flights from tehran today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

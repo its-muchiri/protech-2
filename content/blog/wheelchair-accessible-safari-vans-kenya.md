@@ -1,14 +1,14 @@
 ---
 title: 'Wheelchair Accessible Safari Vans Kenya: Complete Guide'
-description: Kenya safari guide covering wheelchair accessible safari vans kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering wheelchair accessible safari vans kenya, including what is included, pricing, and booking advice.'
 slug: wheelchair-accessible-safari-vans-kenya
-primary_keyword: Wheelchair accessible safari vans Kenya
+primary_keyword: 'Wheelchair accessible safari vans Kenya'
 secondary_keywords:
-- Cost of Kenya safari tour
-- 3 day Kenya safari package price quote
-- Fly-in Kenya safari package price quote
-- Kenya safari package special offers
-- 9 day migration special safari discount booking
+- 'Cost of Kenya safari tour'
+- '3 day Kenya safari package price quote'
+- 'Fly-in Kenya safari package price quote'
+- 'Kenya safari package special offers'
+- '9 day migration special safari discount booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

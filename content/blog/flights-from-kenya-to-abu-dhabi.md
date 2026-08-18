@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Abu Dhabi: Complete Guide'
-description: Everything you need to know about flights from kenya to abu dhabi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to abu dhabi, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-abu-dhabi
-primary_keyword: flights from kenya to abu dhabi
+primary_keyword: 'flights from kenya to abu dhabi'
 secondary_keywords:
-- flights from nairobi to seychelles direct
-- flights from nairobi to south korea
-- flights from mombasa to wilson airport
-- airlines that fly to mombasa
-- cheap flights from mombasa to zanzibar
+- 'flights from nairobi to seychelles direct'
+- 'flights from nairobi to south korea'
+- 'flights from mombasa to wilson airport'
+- 'airlines that fly to mombasa'
+- 'cheap flights from mombasa to zanzibar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Zimbabwe: Complete Guide'
-description: Everything you need to know about flights from nairobi to zimbabwe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to zimbabwe, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-zimbabwe
-primary_keyword: flights from nairobi to zimbabwe
+primary_keyword: 'flights from nairobi to zimbabwe'
 secondary_keywords:
-- flights from nairobi to watamu
-- flights from nairobi to new york usa
-- one way flight from nairobi to mombasa
-- 748 flights from nairobi to mombasa
-- flights from mombasa to lamu
+- 'flights from nairobi to watamu'
+- 'flights from nairobi to new york usa'
+- 'one way flight from nairobi to mombasa'
+- '748 flights from nairobi to mombasa'
+- 'flights from mombasa to lamu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Lamu Island: Complete Guide'
-description: Everything you need to know about flights nairobi to lamu island, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to lamu island, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-lamu-island
-primary_keyword: flights nairobi to lamu island
+primary_keyword: 'flights nairobi to lamu island'
 secondary_keywords:
-- emirates flight 923
-- qatar airways flight ticket from doha to nairobi
-- qatar airways flight schedule from nairobi to doha today
-- does qatar airways fly to hong kong
-- qatar airways flight schedule from nairobi to doha price
+- 'emirates flight 923'
+- 'qatar airways flight ticket from doha to nairobi'
+- 'qatar airways flight schedule from nairobi to doha today'
+- 'does qatar airways fly to hong kong'
+- 'qatar airways flight schedule from nairobi to doha price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Solo Traveler Tours Kenya Safe Operators: Complete Guide'
-description: Kenya safari guide covering solo traveler tours kenya safe operators, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering solo traveler tours kenya safe operators, including what is included, pricing, and booking advice.'
 slug: solo-traveler-tours-kenya-safe-operators
-primary_keyword: Solo traveler tours Kenya safe operators
+primary_keyword: 'Solo traveler tours Kenya safe operators'
 secondary_keywords:
-- Shimba Hills National Reserve safari
-- Kenya safari with kids
-- Custom Kenya safari
-- Horseback safari Kenya
-- One week Kenya safari
+- 'Shimba Hills National Reserve safari'
+- 'Kenya safari with kids'
+- 'Custom Kenya safari'
+- 'Horseback safari Kenya'
+- 'One week Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

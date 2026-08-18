@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi to Diani Flights Price: Complete Guide'
-description: Everything you need to know about nairobi to diani flights price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about nairobi to diani flights price, including routes, airlines, booking tips, and fares.'
 slug: nairobi-to-diani-flights-price
-primary_keyword: nairobi to diani flights price
+primary_keyword: 'nairobi to diani flights price'
 secondary_keywords:
-- emirates flight 763
-- emirates flight 9
-- qatar airways nairobi address
-- qatar airways nairobi careers
-- how many hours flight from nairobi to qatar
+- 'emirates flight 763'
+- 'emirates flight 9'
+- 'qatar airways nairobi address'
+- 'qatar airways nairobi careers'
+- 'how many hours flight from nairobi to qatar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

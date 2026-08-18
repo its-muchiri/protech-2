@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Lamu: Complete Guide'
-description: Everything you need to know about kq flights to lamu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to lamu, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-lamu
-primary_keyword: kq flights to lamu
+primary_keyword: 'kq flights to lamu'
 secondary_keywords:
-- kq flights from eldoret to nairobi timetable
-- kenya airways flights from eldoret to nairobi price
-- kq flights to malindi
-- kq flights to america
-- kq flights to bangui
+- 'kq flights from eldoret to nairobi timetable'
+- 'kenya airways flights from eldoret to nairobi price'
+- 'kq flights to malindi'
+- 'kq flights to america'
+- 'kq flights to bangui'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi to Bujumbura Flights: Complete Guide'
-description: Everything you need to know about nairobi to bujumbura flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about nairobi to bujumbura flights, including routes, airlines, booking tips, and fares.'
 slug: nairobi-to-bujumbura-flights
-primary_keyword: nairobi to bujumbura flights
+primary_keyword: 'nairobi to bujumbura flights'
 secondary_keywords:
-- last flight from nairobi to mombasa
-- flight from nairobi to mogadishu
-- flight from nairobi to oslo
-- flight from nairobi to pakistan
-- flight from nairobi to costa rica
+- 'last flight from nairobi to mombasa'
+- 'flight from nairobi to mogadishu'
+- 'flight from nairobi to oslo'
+- 'flight from nairobi to pakistan'
+- 'flight from nairobi to costa rica'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Cape Town to New York Emirates: Complete Guide'
-description: Everything you need to know about flights from cape town to new york emirates, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from cape town to new york emirates, including routes, airlines, booking tips, and fares.'
 slug: flights-from-cape-town-to-new-york-emirates
-primary_keyword: flights from cape town to new york emirates
+primary_keyword: 'flights from cape town to new york emirates'
 secondary_keywords:
-- turkish airlines nairobi contacts
-- ethiopian airlines nairobi office address
-- ethiopian airlines offices in nairobi location
-- ethiopian airlines from riyadh to nairobi
-- turkish airlines nairobi istanbul
+- 'turkish airlines nairobi contacts'
+- 'ethiopian airlines nairobi office address'
+- 'ethiopian airlines offices in nairobi location'
+- 'ethiopian airlines from riyadh to nairobi'
+- 'turkish airlines nairobi istanbul'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

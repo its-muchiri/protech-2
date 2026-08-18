@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 817: Complete Guide'
-description: Everything you need to know about emirates flight 817, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 817, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-817
-primary_keyword: emirates flight 817
+primary_keyword: 'emirates flight 817'
 secondary_keywords:
-- kq flight reschedule
-- kq flights to seychelles
-- kq flights to new york
-- flight kq101
-- kq 257 flight status
+- 'kq flight reschedule'
+- 'kq flights to seychelles'
+- 'kq flights to new york'
+- 'flight kq101'
+- 'kq 257 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

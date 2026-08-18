@@ -1,14 +1,14 @@
 ---
 title: 'Wilson Airport Charter Flight Safari Companies: Complete Guide'
-description: Kenya safari guide covering wilson airport charter flight safari companies, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering wilson airport charter flight safari companies, including what is included, pricing, and booking advice.'
 slug: wilson-airport-charter-flight-safari-companies
-primary_keyword: Wilson Airport charter flight safari companies
+primary_keyword: 'Wilson Airport charter flight safari companies'
 secondary_keywords:
-- Meru National Park package price estimate
-- Lodge safari package Kenya rates request
-- Last minute Kenya safari deals
-- One week Kenya wildlife tour special offers
-- Promotion 8 day private photographic Samburu tour operator deal
+- 'Meru National Park package price estimate'
+- 'Lodge safari package Kenya rates request'
+- 'Last minute Kenya safari deals'
+- 'One week Kenya wildlife tour special offers'
+- 'Promotion 8 day private photographic Samburu tour operator deal'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

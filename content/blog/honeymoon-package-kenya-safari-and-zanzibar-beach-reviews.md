@@ -1,14 +1,14 @@
 ---
 title: 'Honeymoon Package Kenya Safari and Zanzibar Beach Reviews: Complete Guide'
-description: Kenya safari guide covering honeymoon package kenya safari and zanzibar beach reviews, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering honeymoon package kenya safari and zanzibar beach reviews, including what is included, pricing, and booking advice.'
 slug: honeymoon-package-kenya-safari-and-zanzibar-beach-reviews
-primary_keyword: Honeymoon package Kenya safari and Zanzibar beach reviews
+primary_keyword: 'Honeymoon package Kenya safari and Zanzibar beach reviews'
 secondary_keywords:
-- One week Kenya wildlife tour budget enquiry
-- Budget for 8 day private photographic Samburu tour
-- Lake Nakuru safari tour early bird promotion
-- Honeymoon Kenya safari package sale price
-- Masai Mara tour package details
+- 'One week Kenya wildlife tour budget enquiry'
+- 'Budget for 8 day private photographic Samburu tour'
+- 'Lake Nakuru safari tour early bird promotion'
+- 'Honeymoon Kenya safari package sale price'
+- 'Masai Mara tour package details'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

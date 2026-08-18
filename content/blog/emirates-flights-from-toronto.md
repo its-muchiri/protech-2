@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Toronto: Complete Guide'
-description: Everything you need to know about emirates flights from toronto, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from toronto, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-toronto
-primary_keyword: emirates flights from toronto
+primary_keyword: 'emirates flights from toronto'
 secondary_keywords:
-- flights nairobi to ottawa
-- nairobi to kisumu flights price
-- qatar airways flights to nairobi today
-- flights nairobi to singapore
-- flight to nairobi time
+- 'flights nairobi to ottawa'
+- 'nairobi to kisumu flights price'
+- 'qatar airways flights to nairobi today'
+- 'flights nairobi to singapore'
+- 'flight to nairobi time'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

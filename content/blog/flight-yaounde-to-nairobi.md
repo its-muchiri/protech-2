@@ -1,14 +1,14 @@
 ---
 title: 'Flight Yaounde to Nairobi: Complete Guide'
-description: Everything you need to know about flight yaounde to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight yaounde to nairobi, including routes, airlines, booking tips, and fares.'
 slug: flight-yaounde-to-nairobi
-primary_keyword: flight yaounde to nairobi
+primary_keyword: 'flight yaounde to nairobi'
 secondary_keywords:
-- flights from kenya to lithuania
-- flights from kenya to manchester
-- kenya airways flights from nairobi to south africa
-- flights from ottawa to nairobi kenya
-- flights to kenya from perth
+- 'flights from kenya to lithuania'
+- 'flights from kenya to manchester'
+- 'kenya airways flights from nairobi to south africa'
+- 'flights from ottawa to nairobi kenya'
+- 'flights to kenya from perth'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

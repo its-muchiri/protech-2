@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Flight to Nairobi: Complete Guide'
-description: Everything you need to know about turkish airlines flight to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines flight to nairobi, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-flight-to-nairobi
-primary_keyword: turkish airlines flight to nairobi
+primary_keyword: 'turkish airlines flight to nairobi'
 secondary_keywords:
-- mombasa flights from jkia
-- flight from mombasa to lagos
-- flights from mombasa to mauritius
-- cost of flights from nairobi to mombasa
-- flights rome mombasa
+- 'mombasa flights from jkia'
+- 'flight from mombasa to lagos'
+- 'flights from mombasa to mauritius'
+- 'cost of flights from nairobi to mombasa'
+- 'flights rome mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Portugal: Complete Guide'
-description: Everything you need to know about flights from kenya to portugal, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to portugal, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-portugal
-primary_keyword: flights from kenya to portugal
+primary_keyword: 'flights from kenya to portugal'
 secondary_keywords:
-- emirates flights from uk to south africa
-- emirates flights from india to canada via dubai
-- emirates airline passenger information
-- emirates flights from london to new york
-- emirates flight 0406
+- 'emirates flights from uk to south africa'
+- 'emirates flights from india to canada via dubai'
+- 'emirates airline passenger information'
+- 'emirates flights from london to new york'
+- 'emirates flight 0406'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

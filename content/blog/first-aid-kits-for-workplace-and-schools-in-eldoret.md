@@ -1,14 +1,14 @@
 ---
 title: 'First Aid Kits for Workplace and Schools in Eldoret: 2026 Price Guide'
-description: Kenya buying guide to first aid kits for workplace and schools in eldoret. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to first aid kits for workplace and schools in eldoret. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: first-aid-kits-for-workplace-and-schools-in-eldoret
-primary_keyword: First aid kits for workplace and schools in Eldoret
+primary_keyword: 'First aid kits for workplace and schools in Eldoret'
 secondary_keywords:
-- Microscope servicing in Kisumu
-- Medical equipment for rent in Kisumu
-- C-arm machine for orthopedic surgery price in Nairobi
-- Used analogue X-ray machine for sale in Nakuru
-- Roche Cobas C311 chemistry analyzer in Mombasa
+- 'Microscope servicing in Kisumu'
+- 'Medical equipment for rent in Kisumu'
+- 'C-arm machine for orthopedic surgery price in Nairobi'
+- 'Used analogue X-ray machine for sale in Nakuru'
+- 'Roche Cobas C311 chemistry analyzer in Mombasa'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

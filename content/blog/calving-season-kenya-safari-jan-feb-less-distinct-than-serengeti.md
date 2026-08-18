@@ -1,14 +1,14 @@
 ---
 title: 'Calving Season Kenya Safari (Jan/Feb, Less Distinct Than Serengeti): Complete Guide'
-description: Kenya safari guide covering calving season kenya safari (jan/feb, less distinct than serengeti), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering calving season kenya safari (jan/feb, less distinct than serengeti), including what is included, pricing, and booking advice.'
 slug: calving-season-kenya-safari-jan-feb-less-distinct-than-serengeti
-primary_keyword: Calving season Kenya safari (Jan/Feb, less distinct than Serengeti)
+primary_keyword: 'Calving season Kenya safari (Jan/Feb, less distinct than Serengeti)'
 secondary_keywords:
-- Recommended private Kenya safari companies expert reviews
-- Combination & Long-Tail Keywords (Examples)
-- Reserve luxury tented camp Ol Pejeta safari USA chimpanzee sanctuary visit reviews
-- Cost of honeymoon safari Angama Mara lodge USA package inclusions price quote
-- Buy Reteti Elephant Sanctuary visit Samburu safari Europe ethical tourism booking
+- 'Recommended private Kenya safari companies expert reviews'
+- 'Combination & Long-Tail Keywords (Examples)'
+- 'Reserve luxury tented camp Ol Pejeta safari USA chimpanzee sanctuary visit reviews'
+- 'Cost of honeymoon safari Angama Mara lodge USA package inclusions price quote'
+- 'Buy Reteti Elephant Sanctuary visit Samburu safari Europe ethical tourism booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

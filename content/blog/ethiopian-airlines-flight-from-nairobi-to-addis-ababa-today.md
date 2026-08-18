@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Flight from Nairobi to Addis Ababa Today: Complete Guide'
-description: Everything you need to know about ethiopian airlines flight from nairobi to addis ababa today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines flight from nairobi to addis ababa today, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-flight-from-nairobi-to-addis-ababa-today
-primary_keyword: ethiopian airlines flight from nairobi to addis ababa today
+primary_keyword: 'ethiopian airlines flight from nairobi to addis ababa today'
 secondary_keywords:
-- emirates flights from perth to dubai
-- emirates flight quality
-- emirates flights from rome to sydney
-- emirates flights from sydney to dubai
-- emirates flights from usa to dubai
+- 'emirates flights from perth to dubai'
+- 'emirates flight quality'
+- 'emirates flights from rome to sydney'
+- 'emirates flights from sydney to dubai'
+- 'emirates flights from usa to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

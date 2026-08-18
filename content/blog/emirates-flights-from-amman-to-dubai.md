@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Amman to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from amman to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from amman to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-amman-to-dubai
-primary_keyword: emirates flights from amman to dubai
+primary_keyword: 'emirates flights from amman to dubai'
 secondary_keywords:
-- ethiopian airlines nairobi kenya
-- ethiopian airlines from doha to nairobi price one way
-- ethiopian airlines flight 319
-- flights nairobi to arusha tanzania
-- flights nairobi to baku
+- 'ethiopian airlines nairobi kenya'
+- 'ethiopian airlines from doha to nairobi price one way'
+- 'ethiopian airlines flight 319'
+- 'flights nairobi to arusha tanzania'
+- 'flights nairobi to baku'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

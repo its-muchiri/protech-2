@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to: Complete Guide'
-description: Everything you need to know about flights nairobi to, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to
-primary_keyword: flights nairobi to
+primary_keyword: 'flights nairobi to'
 secondary_keywords:
-- flight from nairobi to ghana
-- flight from nairobi to hargeisa
-- flight from nairobi to eldoret is how much
-- jambojet flight from nairobi to malindi
-- flight from nairobi to luanda angola
+- 'flight from nairobi to ghana'
+- 'flight from nairobi to hargeisa'
+- 'flight from nairobi to eldoret is how much'
+- 'jambojet flight from nairobi to malindi'
+- 'flight from nairobi to luanda angola'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

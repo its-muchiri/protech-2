@@ -1,14 +1,14 @@
 ---
 title: 'Samburu Fly-in Safari Companies: Complete Guide'
-description: Kenya safari guide covering samburu fly-in safari companies, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering samburu fly-in safari companies, including what is included, pricing, and booking advice.'
 slug: samburu-fly-in-safari-companies
-primary_keyword: Samburu fly-in safari companies
+primary_keyword: 'Samburu fly-in safari companies'
 secondary_keywords:
-- How are safari guides trained Kenya
-- Kenya safari booking online
-- Kenya safari deposit payment
-- Long Kenya safari package (10+ days) quote
-- Kenya multi-park safari package deal
+- 'How are safari guides trained Kenya'
+- 'Kenya safari booking online'
+- 'Kenya safari deposit payment'
+- 'Long Kenya safari package (10+ days) quote'
+- 'Kenya multi-park safari package deal'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

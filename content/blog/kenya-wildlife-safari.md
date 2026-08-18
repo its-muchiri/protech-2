@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Wildlife Safari: Complete Guide'
-description: Kenya safari guide covering kenya wildlife safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya wildlife safari, including what is included, pricing, and booking advice.'
 slug: kenya-wildlife-safari
-primary_keyword: Kenya wildlife safari
+primary_keyword: 'Kenya wildlife safari'
 secondary_keywords:
-- Reserve 9 day Joy''s Camp Shaba Samburu package deal
-- Secure booking philanthropic safari package Kenya donation focus
-- Eco-friendly safari companies Kenya
-- Samburu fly-in safari companies
-- Shimba Hills National Reserve tours from Diani
+- 'Reserve 9 day Joy''''s Camp Shaba Samburu package deal'
+- 'Secure booking philanthropic safari package Kenya donation focus'
+- 'Eco-friendly safari companies Kenya'
+- 'Samburu fly-in safari companies'
+- 'Shimba Hills National Reserve tours from Diani'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Jambojet Flight from Nairobi to Mombasa: Complete Guide'
-description: Everything you need to know about jambojet flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about jambojet flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.'
 slug: jambojet-flight-from-nairobi-to-mombasa
-primary_keyword: jambojet flight from nairobi to mombasa
+primary_keyword: 'jambojet flight from nairobi to mombasa'
 secondary_keywords:
-- emirates flights from lusaka to harare
-- emirates flights to australia from manchester
-- emirates flight from or tambo to dubai
-- emirates flights from zimbabwe to uk price
-- flights from doha qatar to dubai united arab emirates
+- 'emirates flights from lusaka to harare'
+- 'emirates flights to australia from manchester'
+- 'emirates flight from or tambo to dubai'
+- 'emirates flights from zimbabwe to uk price'
+- 'flights from doha qatar to dubai united arab emirates'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

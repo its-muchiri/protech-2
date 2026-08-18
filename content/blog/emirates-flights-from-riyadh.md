@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Riyadh: Complete Guide'
-description: Everything you need to know about emirates flights from riyadh, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from riyadh, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-riyadh
-primary_keyword: emirates flights from riyadh
+primary_keyword: 'emirates flights from riyadh'
 secondary_keywords:
-- flights to kenya return
-- flights kenya to dubai
-- flights with kenya airways
-- 748 flights to mombasa
-- are there direct flights from kenya to usa
+- 'flights to kenya return'
+- 'flights kenya to dubai'
+- 'flights with kenya airways'
+- '748 flights to mombasa'
+- 'are there direct flights from kenya to usa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

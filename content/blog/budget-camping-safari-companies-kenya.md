@@ -1,14 +1,14 @@
 ---
 title: 'Budget Camping Safari Companies Kenya: Complete Guide'
-description: Kenya safari guide covering budget camping safari companies kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering budget camping safari companies kenya, including what is included, pricing, and booking advice.'
 slug: budget-camping-safari-companies-kenya
-primary_keyword: Budget camping safari companies Kenya
+primary_keyword: 'Budget camping safari companies Kenya'
 secondary_keywords:
-- 4 day Lake Nakuru Masai Mara package booking
-- Tsavo budget camping safari package buy
-- Angama Mara safari package cost
-- Romantic Kenya safari package deals
-- Discounted Kenya safari tours purchase
+- '4 day Lake Nakuru Masai Mara package booking'
+- 'Tsavo budget camping safari package buy'
+- 'Angama Mara safari package cost'
+- 'Romantic Kenya safari package deals'
+- 'Discounted Kenya safari tours purchase'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Buy Tsavo National Park Safari Online Now: Complete Guide'
-description: Kenya safari guide covering buy tsavo national park safari online now, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy tsavo national park safari online now, including what is included, pricing, and booking advice.'
 slug: buy-tsavo-national-park-safari-online-now
-primary_keyword: Buy Tsavo National Park safari online now
+primary_keyword: 'Buy Tsavo National Park safari online now'
 secondary_keywords:
-- Kiambethu Tea Farm tour Limuru booking / price from Nairobi / Thika
-- Gamewatchers Safaris Porini Camps price / reviews
-- Kenya tour package cancellation policy refund options
-- Internal flights Kenya Safarilink / AirKenya schedule / price
-- Gorilla trekking tours from Kenya combined Uganda / Rwanda trip
+- 'Kiambethu Tea Farm tour Limuru booking / price from Nairobi / Thika'
+- 'Gamewatchers Safaris Porini Camps price / reviews'
+- 'Kenya tour package cancellation policy refund options'
+- 'Internal flights Kenya Safarilink / AirKenya schedule / price'
+- 'Gorilla trekking tours from Kenya combined Uganda / Rwanda trip'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight Schedule Nairobi to Kisumu: Complete Guide'
-description: Everything you need to know about kq flight schedule nairobi to kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight schedule nairobi to kisumu, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-schedule-nairobi-to-kisumu
-primary_keyword: kq flight schedule nairobi to kisumu
+primary_keyword: 'kq flight schedule nairobi to kisumu'
 secondary_keywords:
-- flight 540 nairobi to eldoret
-- b6 6 flight status
-- turkish airlines routes
-- turkish airlines airport contact number
-- turkish airlines in nairobi offices
+- 'flight 540 nairobi to eldoret'
+- 'b6 6 flight status'
+- 'turkish airlines routes'
+- 'turkish airlines airport contact number'
+- 'turkish airlines in nairobi offices'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

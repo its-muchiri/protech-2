@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Airline 2 Letter Code: Complete Guide'
-description: Everything you need to know about emirates airline 2 letter code, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates airline 2 letter code, including routes, airlines, booking tips, and fares.'
 slug: emirates-airline-2-letter-code
-primary_keyword: emirates airline 2 letter code
+primary_keyword: 'emirates airline 2 letter code'
 secondary_keywords:
-- cheapest flight from nairobi to canada
-- flight from nairobi to eldoret price
-- flight time from nairobi to france
-- flight from nairobi to goma
-- flight from nairobi to hong kong
+- 'cheapest flight from nairobi to canada'
+- 'flight from nairobi to eldoret price'
+- 'flight time from nairobi to france'
+- 'flight from nairobi to goma'
+- 'flight from nairobi to hong kong'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

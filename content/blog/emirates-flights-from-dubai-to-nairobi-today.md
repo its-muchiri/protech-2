@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Dubai to Nairobi Today: Complete Guide'
-description: Everything you need to know about emirates flights from dubai to nairobi today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from dubai to nairobi today, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-dubai-to-nairobi-today
-primary_keyword: emirates flights from dubai to nairobi today
+primary_keyword: 'emirates flights from dubai to nairobi today'
 secondary_keywords:
-- flights in kenya
-- flights in wilson airport
-- flights to kenya cheap
-- how many flights per day in kenya
-- does kenya airways fly to usa
+- 'flights in kenya'
+- 'flights in wilson airport'
+- 'flights to kenya cheap'
+- 'how many flights per day in kenya'
+- 'does kenya airways fly to usa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

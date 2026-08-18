@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Dubai Nairobi Schedule: Complete Guide'
-description: Everything you need to know about emirates dubai nairobi schedule, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates dubai nairobi schedule, including routes, airlines, booking tips, and fares.'
 slug: emirates-dubai-nairobi-schedule
-primary_keyword: emirates dubai nairobi schedule
+primary_keyword: 'emirates dubai nairobi schedule'
 secondary_keywords:
-- emirates flights from kenya to dubai
-- flights from finland to kenya
-- flights to germany from kenya today
-- how many flights from kenya to qatar
-- india flights from kenya
+- 'emirates flights from kenya to dubai'
+- 'flights from finland to kenya'
+- 'flights to germany from kenya today'
+- 'how many flights from kenya to qatar'
+- 'india flights from kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

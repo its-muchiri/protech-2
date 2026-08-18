@@ -1,14 +1,14 @@
 ---
 title: 'Private Kenya Safari Tour Booking UK Custom Itinerary: Complete Guide'
-description: Kenya safari guide covering private kenya safari tour booking uk custom itinerary, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering private kenya safari tour booking uk custom itinerary, including what is included, pricing, and booking advice.'
 slug: private-kenya-safari-tour-booking-uk-custom-itinerary
-primary_keyword: Private Kenya safari tour booking UK custom itinerary
+primary_keyword: 'Private Kenya safari tour booking UK custom itinerary'
 secondary_keywords:
-- Kenya safari package itinerary 7 days
-- Fly-in Masai Mara trip package reserve
-- Buy Kenya tour package park fees included cost
-- Purchase small group photography safari package Kenya booking
-- Secure Easter holiday Kenya tour package booking
+- 'Kenya safari package itinerary 7 days'
+- 'Fly-in Masai Mara trip package reserve'
+- 'Buy Kenya tour package park fees included cost'
+- 'Purchase small group photography safari package Kenya booking'
+- 'Secure Easter holiday Kenya tour package booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

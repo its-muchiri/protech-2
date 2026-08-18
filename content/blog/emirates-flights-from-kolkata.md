@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Kolkata: Complete Guide'
-description: Everything you need to know about emirates flights from kolkata, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from kolkata, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-kolkata
-primary_keyword: emirates flights from kolkata
+primary_keyword: 'emirates flights from kolkata'
 secondary_keywords:
-- flights to kenya in september
-- flights nairobi ukunda
-- z flip price in kenya
-- flights from kenya to abu dhabi
-- flights to kenya from atlanta
+- 'flights to kenya in september'
+- 'flights nairobi ukunda'
+- 'z flip price in kenya'
+- 'flights from kenya to abu dhabi'
+- 'flights to kenya from atlanta'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

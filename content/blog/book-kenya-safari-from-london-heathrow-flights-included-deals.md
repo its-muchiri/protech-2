@@ -1,14 +1,14 @@
 ---
 title: 'Book Kenya Safari from London Heathrow Flights Included Deals: Complete Guide'
-description: Kenya safari guide covering book kenya safari from london heathrow flights included deals, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book kenya safari from london heathrow flights included deals, including what is included, pricing, and booking advice.'
 slug: book-kenya-safari-from-london-heathrow-flights-included-deals
-primary_keyword: Book Kenya safari from London Heathrow flights included deals
+primary_keyword: 'Book Kenya safari from London Heathrow flights included deals'
 secondary_keywords:
-- Get quote private 8 day photo safari package Kenya
-- Cost of 6 day Kenya cultural immersion safari package
-- Reserve 7 day Mara Plains luxury package deal
-- Price for 9 day luxury mobile camping safari package Kenya
-- Book now 3 day Tsavo express safari deal
+- 'Get quote private 8 day photo safari package Kenya'
+- 'Cost of 6 day Kenya cultural immersion safari package'
+- 'Reserve 7 day Mara Plains luxury package deal'
+- 'Price for 9 day luxury mobile camping safari package Kenya'
+- 'Book now 3 day Tsavo express safari deal'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

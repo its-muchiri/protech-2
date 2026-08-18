@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight Jfk to Nbo: Complete Guide'
-description: Everything you need to know about kq flight jfk to nbo, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight jfk to nbo, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-jfk-to-nbo
-primary_keyword: kq flight jfk to nbo
+primary_keyword: 'kq flight jfk to nbo'
 secondary_keywords:
-- flight from nairobi to guangzhou
-- flight from nairobi to houston tx
-- indigo flight from nairobi to mumbai
-- jambojet flight from nairobi to lamu
-- last flight from nairobi to mombasa
+- 'flight from nairobi to guangzhou'
+- 'flight from nairobi to houston tx'
+- 'indigo flight from nairobi to mumbai'
+- 'jambojet flight from nairobi to lamu'
+- 'last flight from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

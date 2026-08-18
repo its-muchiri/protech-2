@@ -1,14 +1,14 @@
 ---
 title: 'Maasai Village Visit Kenya: Complete Guide'
-description: Kenya safari guide covering maasai village visit kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering maasai village visit kenya, including what is included, pricing, and booking advice.'
 slug: maasai-village-visit-kenya
-primary_keyword: Maasai village visit Kenya
+primary_keyword: 'Maasai village visit Kenya'
 secondary_keywords:
-- Cost of 5 day Samburu Intrepids family package
-- Buy 9 day Kenya family adventure lodge safari package
-- Book 14 day ultimate East Africa luxury package quote
-- Compare and book Kenya safari packages online
-- Confirmed itinerary cost 7 day Masai Mara booking
+- 'Cost of 5 day Samburu Intrepids family package'
+- 'Buy 9 day Kenya family adventure lodge safari package'
+- 'Book 14 day ultimate East Africa luxury package quote'
+- 'Compare and book Kenya safari packages online'
+- 'Confirmed itinerary cost 7 day Masai Mara booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

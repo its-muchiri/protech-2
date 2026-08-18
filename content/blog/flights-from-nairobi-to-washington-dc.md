@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Washington Dc: Complete Guide'
-description: Everything you need to know about flights from nairobi to washington dc, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to washington dc, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-washington-dc
-primary_keyword: flights from nairobi to washington dc
+primary_keyword: 'flights from nairobi to washington dc'
 secondary_keywords:
-- return flight from nairobi to kisumu
-- flight from nairobi to spain
-- flight from nairobi to uganda
-- flight from nairobi to vietnam
-- flight time from wajir to nairobi
+- 'return flight from nairobi to kisumu'
+- 'flight from nairobi to spain'
+- 'flight from nairobi to uganda'
+- 'flight from nairobi to vietnam'
+- 'flight time from wajir to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

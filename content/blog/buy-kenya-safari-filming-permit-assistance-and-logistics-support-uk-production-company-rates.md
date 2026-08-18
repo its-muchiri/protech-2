@@ -1,14 +1,14 @@
 ---
 title: 'Buy Kenya Safari Filming Permit Assistance and Logistics Support UK Production Company Rates: Complete Guide'
-description: Kenya safari guide covering buy kenya safari filming permit assistance and logistics support uk production company rates, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy kenya safari filming permit assistance and logistics support uk production company rates, including what is included, pricing, and booking advice.'
 slug: buy-kenya-safari-filming-permit-assistance-and-logistics-support-uk-production-company-rates
-primary_keyword: Buy Kenya safari filming permit assistance and logistics support UK production company rates
+primary_keyword: 'Buy Kenya safari filming permit assistance and logistics support UK production company rates'
 secondary_keywords:
-- Mid-range Kenya safari cost
-- Lake Nakuru accommodation
-- Chimpanzee tracking Kenya (Ol Pejeta)
-- Elephant safari Kenya
-- Safari starting Mombasa
+- 'Mid-range Kenya safari cost'
+- 'Lake Nakuru accommodation'
+- 'Chimpanzee tracking Kenya (Ol Pejeta)'
+- 'Elephant safari Kenya'
+- 'Safari starting Mombasa'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Tented Camps: Complete Guide'
-description: Kenya safari guide covering kenya tented camps, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya tented camps, including what is included, pricing, and booking advice.'
 slug: kenya-tented-camps
-primary_keyword: Kenya tented camps
+primary_keyword: 'Kenya tented camps'
 secondary_keywords:
-- Running safari Kenya (specialized)
-- Kenya safari insurance
-- Private fly-in safari Masai Mara honeymoon
-- Short fly-in safari Ol Pejeta Conservancy
-- Is  legit Kenya safari
+- 'Running safari Kenya (specialized)'
+- 'Kenya safari insurance'
+- 'Private fly-in safari Masai Mara honeymoon'
+- 'Short fly-in safari Ol Pejeta Conservancy'
+- 'Is  legit Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

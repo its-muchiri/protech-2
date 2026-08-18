@@ -1,14 +1,14 @@
 ---
 title: 'Laikipia Conservancy Luxury Safari Booking UK Private Ranch: Complete Guide'
-description: Kenya safari guide covering laikipia conservancy luxury safari booking uk private ranch, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering laikipia conservancy luxury safari booking uk private ranch, including what is included, pricing, and booking advice.'
 slug: laikipia-conservancy-luxury-safari-booking-uk-private-ranch
-primary_keyword: Laikipia conservancy luxury safari booking UK private ranch
+primary_keyword: 'Laikipia conservancy luxury safari booking UK private ranch'
 secondary_keywords:
-- Book last minute Kenya safari deal
-- Buy 14 day Kenya grand safari package
-- Laikipia luxury safari package booking
-- Exclusive Kenya safari experience booking
-- Kenya safari package for family with kids
+- 'Book last minute Kenya safari deal'
+- 'Buy 14 day Kenya grand safari package'
+- 'Laikipia luxury safari package booking'
+- 'Exclusive Kenya safari experience booking'
+- 'Kenya safari package for family with kids'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

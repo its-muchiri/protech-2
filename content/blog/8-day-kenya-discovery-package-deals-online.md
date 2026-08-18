@@ -1,14 +1,14 @@
 ---
 title: '8 Day Kenya Discovery Package Deals Online: Complete Guide'
-description: Kenya safari guide covering 8 day kenya discovery package deals online, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering 8 day kenya discovery package deals online, including what is included, pricing, and booking advice.'
 slug: 8-day-kenya-discovery-package-deals-online
-primary_keyword: 8 day Kenya discovery package deals online
+primary_keyword: '8 day Kenya discovery package deals online'
 secondary_keywords:
-- Reserve 5 day Lake Nakuru Aberdares package operator
-- Book 5 day Tsavo West Finch Hattons luxury package
-- Cost of 3 day basic camping Masai Mara package buy
-- Reserve 6 day family fun safari package Ol Pejeta Mara
-- Reserve seats 12 day group overland Kenya package
+- 'Reserve 5 day Lake Nakuru Aberdares package operator'
+- 'Book 5 day Tsavo West Finch Hattons luxury package'
+- 'Cost of 3 day basic camping Masai Mara package buy'
+- 'Reserve 6 day family fun safari package Ol Pejeta Mara'
+- 'Reserve seats 12 day group overland Kenya package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

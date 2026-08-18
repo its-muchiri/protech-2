@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Kampala: Complete Guide'
-description: Everything you need to know about flights nairobi to kampala, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to kampala, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-kampala
-primary_keyword: flights nairobi to kampala
+primary_keyword: 'flights nairobi to kampala'
 secondary_keywords:
-- flight from nairobi to mombasa fare
-- flights from nairobi to greece
-- flights from nairobi to houston
-- indigo flights from nairobi
-- jambojet flights from nairobi to malindi
+- 'flight from nairobi to mombasa fare'
+- 'flights from nairobi to greece'
+- 'flights from nairobi to houston'
+- 'indigo flights from nairobi'
+- 'jambojet flights from nairobi to malindi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Windhoek to Kenya: Complete Guide'
-description: Everything you need to know about flights from windhoek to kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from windhoek to kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-windhoek-to-kenya
-primary_keyword: flights from windhoek to kenya
+primary_keyword: 'flights from windhoek to kenya'
 secondary_keywords:
-- flights from kenya to bahamas
-- flights from kenya to canada
-- flights from kenya to dubai today
-- flights from kenya to edinburgh
-- flights from kenya to sierra leone
+- 'flights from kenya to bahamas'
+- 'flights from kenya to canada'
+- 'flights from kenya to dubai today'
+- 'flights from kenya to edinburgh'
+- 'flights from kenya to sierra leone'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

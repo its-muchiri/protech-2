@@ -1,14 +1,14 @@
 ---
 title: 'Nihon Kohden Hematology Analyzer Price: 2026 Price Guide'
-description: Kenya buying guide to nihon kohden hematology analyzer price. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to nihon kohden hematology analyzer price. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: nihon-kohden-hematology-analyzer-price
-primary_keyword: Nihon Kohden hematology analyzer price
+primary_keyword: 'Nihon Kohden hematology analyzer price'
 secondary_keywords:
-- Glucometer and blood pressure monitor wholesale
-- Hospital laundry equipment suppliers
-- Tonometer repair and calibration
-- Thermal paper for ultrasound machine
-- Audiology booth installation cost
+- 'Glucometer and blood pressure monitor wholesale'
+- 'Hospital laundry equipment suppliers'
+- 'Tonometer repair and calibration'
+- 'Thermal paper for ultrasound machine'
+- 'Audiology booth installation cost'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

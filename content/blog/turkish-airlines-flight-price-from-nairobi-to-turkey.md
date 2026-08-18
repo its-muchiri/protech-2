@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Flight Price from Nairobi to Turkey: Complete Guide'
-description: Everything you need to know about turkish airlines flight price from nairobi to turkey, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines flight price from nairobi to turkey, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-flight-price-from-nairobi-to-turkey
-primary_keyword: turkish airlines flight price from nairobi to turkey
+primary_keyword: 'turkish airlines flight price from nairobi to turkey'
 secondary_keywords:
-- flight from nairobi to jersey
-- flight from nairobi to lodwar
-- flight from nairobi to masai mara
-- cost of flight from nairobi to nanyuki
-- flight from nairobi to perth
+- 'flight from nairobi to jersey'
+- 'flight from nairobi to lodwar'
+- 'flight from nairobi to masai mara'
+- 'cost of flight from nairobi to nanyuki'
+- 'flight from nairobi to perth'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Syringe Pump Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to syringe pump price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to syringe pump price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: syringe-pump-price-in-kenya
-primary_keyword: Syringe pump price in Kenya
+primary_keyword: 'Syringe pump price in Kenya'
 secondary_keywords:
-- urinary catheters Kenya cost
-- underpads Kenya for beds
-- surgical sutures Kenya types
-- elastic bandages Kenya buy
-- medical drapes Kenya
+- 'urinary catheters Kenya cost'
+- 'underpads Kenya for beds'
+- 'surgical sutures Kenya types'
+- 'elastic bandages Kenya buy'
+- 'medical drapes Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

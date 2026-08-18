@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Jobs in Kenya: Complete Guide'
-description: Everything you need to know about ethiopian airlines jobs in kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines jobs in kenya, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-jobs-in-kenya
-primary_keyword: ethiopian airlines jobs in kenya
+primary_keyword: 'ethiopian airlines jobs in kenya'
 secondary_keywords:
-- skyward flights from mombasa to nairobi
-- flights from nairobi to windhoek namibia
-- flights from nairobi to phoenix arizona
-- flights from qatar to nairobi today
-- rwandair flights from nairobi to kigali ticket price
+- 'skyward flights from mombasa to nairobi'
+- 'flights from nairobi to windhoek namibia'
+- 'flights from nairobi to phoenix arizona'
+- 'flights from qatar to nairobi today'
+- 'rwandair flights from nairobi to kigali ticket price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

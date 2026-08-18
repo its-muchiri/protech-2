@@ -1,14 +1,14 @@
 ---
 title: 'Second-hand Dental Chair for Sale in Kisumu: 2026 Price Guide'
-description: Kenya buying guide to second-hand dental chair for sale in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to second-hand dental chair for sale in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: second-hand-dental-chair-for-sale-in-kisumu
-primary_keyword: Second-hand dental chair for sale in Kisumu
+primary_keyword: 'Second-hand dental chair for sale in Kisumu'
 secondary_keywords:
-- manual hospital bed Kenya
-- AED machine Kenya
-- baby incubator price Kenya
-- exercise bikes medical Kenya
-- shower chairs medical Kenya
+- 'manual hospital bed Kenya'
+- 'AED machine Kenya'
+- 'baby incubator price Kenya'
+- 'exercise bikes medical Kenya'
+- 'shower chairs medical Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

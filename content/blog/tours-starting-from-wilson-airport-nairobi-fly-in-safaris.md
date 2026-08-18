@@ -1,14 +1,14 @@
 ---
 title: 'Tours Starting from Wilson Airport Nairobi Fly-in Safaris: Complete Guide'
-description: Kenya safari guide covering tours starting from wilson airport nairobi fly-in safaris, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering tours starting from wilson airport nairobi fly-in safaris, including what is included, pricing, and booking advice.'
 slug: tours-starting-from-wilson-airport-nairobi-fly-in-safaris
-primary_keyword: Tours starting from Wilson Airport Nairobi fly-in safaris
+primary_keyword: 'Tours starting from Wilson Airport Nairobi fly-in safaris'
 secondary_keywords:
-- Crowds during migration Kenya
-- Safari en Kenia (Spanish)
-- Kenya safari blog
-- Purchase Kenya safari tour
-- Pay for Kenya safari tour
+- 'Crowds during migration Kenya'
+- 'Safari en Kenia (Spanish)'
+- 'Kenya safari blog'
+- 'Purchase Kenya safari tour'
+- 'Pay for Kenya safari tour'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

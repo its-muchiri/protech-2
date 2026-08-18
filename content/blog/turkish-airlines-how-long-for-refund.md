@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines How Long for Refund: Complete Guide'
-description: Everything you need to know about turkish airlines how long for refund, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines how long for refund, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-how-long-for-refund
-primary_keyword: turkish airlines how long for refund
+primary_keyword: 'turkish airlines how long for refund'
 secondary_keywords:
-- emirates flight from kenya
-- emirates flight from kenya to dubai price
-- how much is the flight from kenya to dubai
-- emirates kenya safari
-- ethiopian flight from nairobi
+- 'emirates flight from kenya'
+- 'emirates flight from kenya to dubai price'
+- 'how much is the flight from kenya to dubai'
+- 'emirates kenya safari'
+- 'ethiopian flight from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

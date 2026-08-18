@@ -1,14 +1,14 @@
 ---
 title: 'One Way Flight from Nairobi to Kisumu: Complete Guide'
-description: Everything you need to know about one way flight from nairobi to kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about one way flight from nairobi to kisumu, including routes, airlines, booking tips, and fares.'
 slug: one-way-flight-from-nairobi-to-kisumu
-primary_keyword: one way flight from nairobi to kisumu
+primary_keyword: 'one way flight from nairobi to kisumu'
 secondary_keywords:
-- kenya airways flights from eldoret to nairobi today
-- who flies to penticton
-- kq flights to eldoret
-- kq flights to accra
-- tanzania bans kq flights
+- 'kenya airways flights from eldoret to nairobi today'
+- 'who flies to penticton'
+- 'kq flights to eldoret'
+- 'kq flights to accra'
+- 'tanzania bans kq flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Cost of Honeymoon Safari Angama Mara Lodge USA Package Inclusions Price Quote: Complete Guide'
-description: Kenya safari guide covering cost of honeymoon safari angama mara lodge usa package inclusions price quote, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering cost of honeymoon safari angama mara lodge usa package inclusions price quote, including what is included, pricing, and booking advice.'
 slug: cost-of-honeymoon-safari-angama-mara-lodge-usa-package-inclusions-price-quote
-primary_keyword: Cost of honeymoon safari Angama Mara lodge USA package inclusions price quote
+primary_keyword: 'Cost of honeymoon safari Angama Mara lodge USA package inclusions price quote'
 secondary_keywords:
-- Kenya luxury lodge safari operators
-- Women-only safari tours Kenya
-- Nairobi Railway Museum tour guide
-- Short notice safari booking Kenya
-- No hidden fees Kenya tour operators
+- 'Kenya luxury lodge safari operators'
+- 'Women-only safari tours Kenya'
+- 'Nairobi Railway Museum tour guide'
+- 'Short notice safari booking Kenya'
+- 'No hidden fees Kenya tour operators'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

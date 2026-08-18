@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights Kisumu to Nairobi: Complete Guide'
-description: Everything you need to know about kq flights kisumu to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights kisumu to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-kisumu-to-nairobi
-primary_keyword: kq flights kisumu to nairobi
+primary_keyword: 'kq flights kisumu to nairobi'
 secondary_keywords:
-- domestic flight booking in kenya
-- kenya airways mombasa to nairobi price
-- kenya international flights
-- flights beirut kenya
-- cheap flights to kenya in july
+- 'domestic flight booking in kenya'
+- 'kenya airways mombasa to nairobi price'
+- 'kenya international flights'
+- 'flights beirut kenya'
+- 'cheap flights to kenya in july'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

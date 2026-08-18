@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Homabay to Mombasa: Complete Guide'
-description: Everything you need to know about flights from homabay to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from homabay to mombasa, including routes, airlines, booking tips, and fares.'
 slug: flights-from-homabay-to-mombasa
-primary_keyword: flights from homabay to mombasa
+primary_keyword: 'flights from homabay to mombasa'
 secondary_keywords:
-- emirates flights from warsaw to dubai
-- does emirates fly from boston
-- emirates flights from zanzibar to dubai
-- emirates flight 0221
-- emirates flights from newcastle 2023
+- 'emirates flights from warsaw to dubai'
+- 'does emirates fly from boston'
+- 'emirates flights from zanzibar to dubai'
+- 'emirates flight 0221'
+- 'emirates flights from newcastle 2023'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

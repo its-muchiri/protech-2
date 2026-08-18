@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Glasgow to Abu Dhabi: Complete Guide'
-description: Everything you need to know about emirates flights from glasgow to abu dhabi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from glasgow to abu dhabi, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-glasgow-to-abu-dhabi
-primary_keyword: emirates flights from glasgow to abu dhabi
+primary_keyword: 'emirates flights from glasgow to abu dhabi'
 secondary_keywords:
-- emirates flights from colombo to dubai
-- emirates flights from dubai to london
-- emirates flights from frankfurt to dubai
-- emirates flights from glasgow
-- emirates flights from hyderabad to dubai
+- 'emirates flights from colombo to dubai'
+- 'emirates flights from dubai to london'
+- 'emirates flights from frankfurt to dubai'
+- 'emirates flights from glasgow'
+- 'emirates flights from hyderabad to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

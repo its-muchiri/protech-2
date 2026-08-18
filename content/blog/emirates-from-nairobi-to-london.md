@@ -1,14 +1,14 @@
 ---
 title: 'Emirates from Nairobi to London: Complete Guide'
-description: Everything you need to know about emirates from nairobi to london, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates from nairobi to london, including routes, airlines, booking tips, and fares.'
 slug: emirates-from-nairobi-to-london
-primary_keyword: emirates from nairobi to london
+primary_keyword: 'emirates from nairobi to london'
 secondary_keywords:
-- kenya airways check in time for domestic flights
-- flights to kenya from south africa
-- how many types of flights in kenya
-- klm in kenya
-- flight in nairobi kenya
+- 'kenya airways check in time for domestic flights'
+- 'flights to kenya from south africa'
+- 'how many types of flights in kenya'
+- 'klm in kenya'
+- 'flight in nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

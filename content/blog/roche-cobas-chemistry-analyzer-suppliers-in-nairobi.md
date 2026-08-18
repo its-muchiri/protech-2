@@ -1,14 +1,14 @@
 ---
 title: 'Roche Cobas Chemistry Analyzer Suppliers in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to roche cobas chemistry analyzer suppliers in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to roche cobas chemistry analyzer suppliers in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: roche-cobas-chemistry-analyzer-suppliers-in-nairobi
-primary_keyword: Roche Cobas chemistry analyzer suppliers in Nairobi
+primary_keyword: 'Roche Cobas chemistry analyzer suppliers in Nairobi'
 secondary_keywords:
-- pulse oximeters Kenya price
-- vital signs monitor Kenya
-- laboratory microscopes Kenya price
-- operating tables Kenya price
-- laparoscopy equipment Kenya
+- 'pulse oximeters Kenya price'
+- 'vital signs monitor Kenya'
+- 'laboratory microscopes Kenya price'
+- 'operating tables Kenya price'
+- 'laparoscopy equipment Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

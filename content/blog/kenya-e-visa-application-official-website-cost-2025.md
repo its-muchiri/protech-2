@@ -1,14 +1,14 @@
 ---
 title: 'Kenya E-Visa Application Official Website / Cost 2025: Complete Guide'
-description: Kenya safari guide covering kenya e-visa application official website / cost 2025, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya e-visa application official website / cost 2025, including what is included, pricing, and booking advice.'
 slug: kenya-e-visa-application-official-website-cost-2025
-primary_keyword: Kenya e-Visa application official website / cost 2025
+primary_keyword: 'Kenya e-Visa application official website / cost 2025'
 secondary_keywords:
-- Buy 5 day Fairmont Mara Safari Club package offer
-- Get final cost 7 day Masai Mara fly-in package August booking
-- Reserve guaranteed window seat safari vehicle package Kenya
-- International tour operators in Kenya
-- Ol Pejeta chimpanzee sanctuary tours
+- 'Buy 5 day Fairmont Mara Safari Club package offer'
+- 'Get final cost 7 day Masai Mara fly-in package August booking'
+- 'Reserve guaranteed window seat safari vehicle package Kenya'
+- 'International tour operators in Kenya'
+- 'Ol Pejeta chimpanzee sanctuary tours'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

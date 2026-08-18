@@ -1,14 +1,14 @@
 ---
 title: 'Intraoral Camera for Dental Diagnosis: 2026 Price Guide'
-description: Kenya buying guide to intraoral camera for dental diagnosis. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to intraoral camera for dental diagnosis. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: intraoral-camera-for-dental-diagnosis
-primary_keyword: Intraoral camera for dental diagnosis
+primary_keyword: 'Intraoral camera for dental diagnosis'
 secondary_keywords:
-- patient lifting equipment Kenya
-- water purification systems medical Kenya
-- medical furniture Kenya price
-- mobile X-ray unit Kenya
-- portable oxygen concentrator Kenya
+- 'patient lifting equipment Kenya'
+- 'water purification systems medical Kenya'
+- 'medical furniture Kenya price'
+- 'mobile X-ray unit Kenya'
+- 'portable oxygen concentrator Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

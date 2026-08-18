@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from Eldoret to Nairobi Timetable: Complete Guide'
-description: Everything you need to know about kq flights from eldoret to nairobi timetable, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from eldoret to nairobi timetable, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-eldoret-to-nairobi-timetable
-primary_keyword: kq flights from eldoret to nairobi timetable
+primary_keyword: 'kq flights from eldoret to nairobi timetable'
 secondary_keywords:
-- 540 flight from nairobi to mombasa today
-- flight from nairobi to kinshasa
-- turkish airline nairobi
-- how do i track a turkish airlines flight
-- turkish airlines contact number nairobi kenya
+- '540 flight from nairobi to mombasa today'
+- 'flight from nairobi to kinshasa'
+- 'turkish airline nairobi'
+- 'how do i track a turkish airlines flight'
+- 'turkish airlines contact number nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

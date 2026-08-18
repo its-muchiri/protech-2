@@ -1,14 +1,14 @@
 ---
 title: 'Women-only Safari Tours Kenya: Complete Guide'
-description: Kenya safari guide covering women-only safari tours kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering women-only safari tours kenya, including what is included, pricing, and booking advice.'
 slug: women-only-safari-tours-kenya
-primary_keyword: Women-only safari tours Kenya
+primary_keyword: 'Women-only safari tours Kenya'
 secondary_keywords:
-- Buy 4 day Tsavo lodge safari package from Mombasa
-- Ol Pejeta Conservancy safari cost per day
-- Private guided Kenya safari cost per day quote
-- Kenya safari holiday sale
-- 6 day Samburu Nakuru safari sale price
+- 'Buy 4 day Tsavo lodge safari package from Mombasa'
+- 'Ol Pejeta Conservancy safari cost per day'
+- 'Private guided Kenya safari cost per day quote'
+- 'Kenya safari holiday sale'
+- '6 day Samburu Nakuru safari sale price'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

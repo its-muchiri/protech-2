@@ -1,14 +1,14 @@
 ---
 title: 'Flights from New York City to Nairobi Kenya: Complete Guide'
-description: Everything you need to know about flights from new york city to nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from new york city to nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-new-york-city-to-nairobi-kenya
-primary_keyword: flights from new york city to nairobi kenya
+primary_keyword: 'flights from new york city to nairobi kenya'
 secondary_keywords:
-- emirates flight 408
-- emirates flight 585
-- emirates flight 762
-- emirates flight 954
-- qatar airways nairobi airport terminal
+- 'emirates flight 408'
+- 'emirates flight 585'
+- 'emirates flight 762'
+- 'emirates flight 954'
+- 'qatar airways nairobi airport terminal'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

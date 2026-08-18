@@ -1,14 +1,14 @@
 ---
 title: '5 Day Kenya Safari: Complete Guide'
-description: Kenya safari guide covering 5 day kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering 5 day kenya safari, including what is included, pricing, and booking advice.'
 slug: 5-day-kenya-safari
-primary_keyword: 5 day Kenya safari
+primary_keyword: '5 day Kenya safari'
 secondary_keywords:
-- Reserve 5 day Serena Lodges circuit package Kenya
-- Buy 5 day Fairmont Mara Safari Club package offer
-- Get final cost 7 day Masai Mara fly-in package August booking
-- Reserve guaranteed window seat safari vehicle package Kenya
-- International tour operators in Kenya
+- 'Reserve 5 day Serena Lodges circuit package Kenya'
+- 'Buy 5 day Fairmont Mara Safari Club package offer'
+- 'Get final cost 7 day Masai Mara fly-in package August booking'
+- 'Reserve guaranteed window seat safari vehicle package Kenya'
+- 'International tour operators in Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Refurbished Siemens MRI Scanner for Sale in Mombasa: 2026 Price Guide'
-description: Kenya buying guide to refurbished siemens mri scanner for sale in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to refurbished siemens mri scanner for sale in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: refurbished-siemens-mri-scanner-for-sale-in-mombasa
-primary_keyword: Refurbished Siemens MRI scanner for sale in Mombasa
+primary_keyword: 'Refurbished Siemens MRI scanner for sale in Mombasa'
 secondary_keywords:
-- Gynecological examination chair for sale in Nairobi
-- 5-parameter patient monitor (ECG, NIBP, SpO2, Resp, Temp)
-- Feeding pump for enteral nutrition
-- Shortwave diathermy unit price in Eldoret
-- Continuous Passive Motion (CPM) machine for knee
+- 'Gynecological examination chair for sale in Nairobi'
+- '5-parameter patient monitor (ECG, NIBP, SpO2, Resp, Temp)'
+- 'Feeding pump for enteral nutrition'
+- 'Shortwave diathermy unit price in Eldoret'
+- 'Continuous Passive Motion (CPM) machine for knee'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

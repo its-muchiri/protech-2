@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi Kenya to Omaha Ne: Complete Guide'
-description: Everything you need to know about flights from nairobi kenya to omaha ne, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi kenya to omaha ne, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-kenya-to-omaha-ne
-primary_keyword: flights from nairobi kenya to omaha ne
+primary_keyword: 'flights from nairobi kenya to omaha ne'
 secondary_keywords:
-- kq flight attendants
-- kq flight booking price
-- kq flights check in
-- kq flights dar to nairobi
-- kq flights entebbe to nairobi
+- 'kq flight attendants'
+- 'kq flight booking price'
+- 'kq flights check in'
+- 'kq flights dar to nairobi'
+- 'kq flights entebbe to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

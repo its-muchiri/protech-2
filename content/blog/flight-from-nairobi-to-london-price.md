@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to London Price: Complete Guide'
-description: Everything you need to know about flight from nairobi to london price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to london price, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-london-price
-primary_keyword: flight from nairobi to london price
+primary_keyword: 'flight from nairobi to london price'
 secondary_keywords:
-- cheap flights from jeddah to kenya
-- kenya airways flights from kinshasa to nairobi
-- flights from lagos to kenya
-- cheap flights from manchester to mombasa kenya
-- flight from kenya to oslo
+- 'cheap flights from jeddah to kenya'
+- 'kenya airways flights from kinshasa to nairobi'
+- 'flights from lagos to kenya'
+- 'cheap flights from manchester to mombasa kenya'
+- 'flight from kenya to oslo'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

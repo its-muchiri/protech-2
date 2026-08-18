@@ -1,14 +1,14 @@
 ---
 title: 'Dental Lab Equipment Suppliers in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to dental lab equipment suppliers in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to dental lab equipment suppliers in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: dental-lab-equipment-suppliers-in-nairobi
-primary_keyword: Dental lab equipment suppliers in Nairobi
+primary_keyword: 'Dental lab equipment suppliers in Nairobi'
 secondary_keywords:
-- incubators for labs Kenya
-- operating theatre equipment Kenya
-- medical training models Kenya
-- PPE suppliers Kenya for COVID
-- medical supplies for schools Kenya
+- 'incubators for labs Kenya'
+- 'operating theatre equipment Kenya'
+- 'medical training models Kenya'
+- 'PPE suppliers Kenya for COVID'
+- 'medical supplies for schools Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kenya to Addis Ababa: Complete Guide'
-description: Everything you need to know about flight from kenya to addis ababa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kenya to addis ababa, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kenya-to-addis-ababa
-primary_keyword: flight from kenya to addis ababa
+primary_keyword: 'flight from kenya to addis ababa'
 secondary_keywords:
-- flights from nairobi to gaborone
-- flights from nairobi to hargeisa
-- flights from nairobi to kilimanjaro international airport
-- flights from nairobi to jro
-- kq flights from nairobi to eldoret
+- 'flights from nairobi to gaborone'
+- 'flights from nairobi to hargeisa'
+- 'flights from nairobi to kilimanjaro international airport'
+- 'flights from nairobi to jro'
+- 'kq flights from nairobi to eldoret'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

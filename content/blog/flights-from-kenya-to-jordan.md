@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Jordan: Complete Guide'
-description: Everything you need to know about flights from kenya to jordan, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to jordan, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-jordan
-primary_keyword: flights from kenya to jordan
+primary_keyword: 'flights from kenya to jordan'
 secondary_keywords:
-- kq flights from south africa today timetable
-- kq flights to zambia
-- kq 117 flight status
-- kq 2 flight
-- kq 487 flight status
+- 'kq flights from south africa today timetable'
+- 'kq flights to zambia'
+- 'kq 117 flight status'
+- 'kq 2 flight'
+- 'kq 487 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

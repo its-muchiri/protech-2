@@ -1,14 +1,14 @@
 ---
 title: 'Mindray BC-series Hematology Analyzer Suppliers: 2026 Price Guide'
-description: Kenya buying guide to mindray bc-series hematology analyzer suppliers. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to mindray bc-series hematology analyzer suppliers. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: mindray-bc-series-hematology-analyzer-suppliers
-primary_keyword: Mindray BC-series hematology analyzer suppliers
+primary_keyword: 'Mindray BC-series hematology analyzer suppliers'
 secondary_keywords:
-- Hospital Furniture & Patient Mobility
-- Emergency crash cart (fully stocked) price
-- Central monitoring station for ICU setup
-- Dental autoclave sterilizer (Class B) price
-- Parallel bars for gait training cost
+- 'Hospital Furniture & Patient Mobility'
+- 'Emergency crash cart (fully stocked) price'
+- 'Central monitoring station for ICU setup'
+- 'Dental autoclave sterilizer (Class B) price'
+- 'Parallel bars for gait training cost'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

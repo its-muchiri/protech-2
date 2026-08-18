@@ -1,14 +1,14 @@
 ---
 title: 'Samburu Special Five Animals Tour Guide Kenya: Complete Guide'
-description: Kenya safari guide covering samburu special five animals tour guide kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering samburu special five animals tour guide kenya, including what is included, pricing, and booking advice.'
 slug: samburu-special-five-animals-tour-guide-kenya
-primary_keyword: Samburu Special Five animals tour guide Kenya
+primary_keyword: 'Samburu Special Five animals tour guide Kenya'
 secondary_keywords:
-- Aberdares treetop lodge package sale price
-- Luxury tented camp safari discount booking
-- Lake Nakuru tour package cost 4 days
-- Reserve tour  Kenya branch
-- Buy full board Kenya lodge safari package online
+- 'Aberdares treetop lodge package sale price'
+- 'Luxury tented camp safari discount booking'
+- 'Lake Nakuru tour package cost 4 days'
+- 'Reserve tour  Kenya branch'
+- 'Buy full board Kenya lodge safari package online'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

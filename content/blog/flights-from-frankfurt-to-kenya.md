@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Frankfurt to Kenya: Complete Guide'
-description: Everything you need to know about flights from frankfurt to kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from frankfurt to kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-frankfurt-to-kenya
-primary_keyword: flights from frankfurt to kenya
+primary_keyword: 'flights from frankfurt to kenya'
 secondary_keywords:
-- flight time nairobi to india
-- jambojet flights nairobi to kisumu
-- kenya airways flights nairobi to lamu
-- flights nairobi to melbourne
-- flights nairobi to new delhi
+- 'flight time nairobi to india'
+- 'jambojet flights nairobi to kisumu'
+- 'kenya airways flights nairobi to lamu'
+- 'flights nairobi to melbourne'
+- 'flights nairobi to new delhi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

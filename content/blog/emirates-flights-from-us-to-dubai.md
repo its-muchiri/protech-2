@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Us to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from us to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from us to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-us-to-dubai
-primary_keyword: emirates flights from us to dubai
+primary_keyword: 'emirates flights from us to dubai'
 secondary_keywords:
-- cost of flight from nairobi to qatar
-- kq flight from addis to nairobi
-- kq flights from dubai
-- kq flight from nairobi to heathrow
-- kq flights from nairobi to mombasa today
+- 'cost of flight from nairobi to qatar'
+- 'kq flight from addis to nairobi'
+- 'kq flights from dubai'
+- 'kq flight from nairobi to heathrow'
+- 'kq flights from nairobi to mombasa today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

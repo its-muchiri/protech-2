@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Malindi Kenya: Complete Guide'
-description: Everything you need to know about flights from mombasa to malindi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to malindi kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-malindi-kenya
-primary_keyword: flights from mombasa to malindi kenya
+primary_keyword: 'flights from mombasa to malindi kenya'
 secondary_keywords:
-- ethiopian airlines nairobi number
-- ethiopian airline ticket from kenya to qatar
-- flights nairobi to malindi
-- uganda airlines flights from entebbe to nairobi
-- flights nairobi to blantyre
+- 'ethiopian airlines nairobi number'
+- 'ethiopian airline ticket from kenya to qatar'
+- 'flights nairobi to malindi'
+- 'uganda airlines flights from entebbe to nairobi'
+- 'flights nairobi to blantyre'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

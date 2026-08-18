@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Orlando to Kenya: Complete Guide'
-description: Everything you need to know about flights from orlando to kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from orlando to kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-orlando-to-kenya
-primary_keyword: flights from orlando to kenya
+primary_keyword: 'flights from orlando to kenya'
 secondary_keywords:
-- riyadh to nairobi flights
-- flights nairobi to toronto
-- nairobi to ukunda flights
-- virgin flights to nairobi
-- flights yvr to nairobi
+- 'riyadh to nairobi flights'
+- 'flights nairobi to toronto'
+- 'nairobi to ukunda flights'
+- 'virgin flights to nairobi'
+- 'flights yvr to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

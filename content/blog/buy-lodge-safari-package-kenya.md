@@ -1,14 +1,14 @@
 ---
 title: 'Buy Lodge Safari Package Kenya: Complete Guide'
-description: Kenya safari guide covering buy lodge safari package kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy lodge safari package kenya, including what is included, pricing, and booking advice.'
 slug: buy-lodge-safari-package-kenya
-primary_keyword: Buy lodge safari package Kenya
+primary_keyword: 'Buy lodge safari package Kenya'
 secondary_keywords:
-- Buy 3 get 1 free Kenya safari package deal (hypothetical offer search)
-- Purchase upgrade Kenya safari package private jeep
-- Secure 5 day Kilaguni Serena Tsavo package booking
-- Buy 6 day Great Plains Conservation Kenya package Mara
-- Quote wedding safari package Kenya elopement
+- 'Buy 3 get 1 free Kenya safari package deal (hypothetical offer search)'
+- 'Purchase upgrade Kenya safari package private jeep'
+- 'Secure 5 day Kilaguni Serena Tsavo package booking'
+- 'Buy 6 day Great Plains Conservation Kenya package Mara'
+- 'Quote wedding safari package Kenya elopement'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

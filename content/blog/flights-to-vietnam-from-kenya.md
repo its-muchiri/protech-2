@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Vietnam from Kenya: Complete Guide'
-description: Everything you need to know about flights to vietnam from kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to vietnam from kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-to-vietnam-from-kenya
-primary_keyword: flights to vietnam from kenya
+primary_keyword: 'flights to vietnam from kenya'
 secondary_keywords:
-- i-fly air booking
-- kq flights to kenya
-- kq flights mombasa
-- kq flight nairobi to new york
-- kq flight rates
+- 'i-fly air booking'
+- 'kq flights to kenya'
+- 'kq flights mombasa'
+- 'kq flight nairobi to new york'
+- 'kq flight rates'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

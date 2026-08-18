@@ -1,14 +1,14 @@
 ---
 title: 'International Flights from Eldoret: Complete Guide'
-description: Everything you need to know about international flights from eldoret, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about international flights from eldoret, including routes, airlines, booking tips, and fares.'
 slug: international-flights-from-eldoret
-primary_keyword: international flights from eldoret
+primary_keyword: 'international flights from eldoret'
 secondary_keywords:
-- kq flying blue login
-- kq flight change
-- kq flight destinations
-- kq flights to entebbe
-- kq flights to harare
+- 'kq flying blue login'
+- 'kq flight change'
+- 'kq flight destinations'
+- 'kq flights to entebbe'
+- 'kq flights to harare'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

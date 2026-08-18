@@ -1,14 +1,14 @@
 ---
 title: 'Is Kisumu an International Airport: Complete Guide'
-description: Everything you need to know about is kisumu an international airport, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about is kisumu an international airport, including routes, airlines, booking tips, and fares.'
 slug: is-kisumu-an-international-airport
-primary_keyword: is kisumu an international airport
+primary_keyword: 'is kisumu an international airport'
 secondary_keywords:
-- air india flights from nairobi to mumbai
-- british airways flights from nairobi today
-- flights from nairobi to copenhagen
-- flights from nairobi to dublin
-- eldoret flights from nairobi
+- 'air india flights from nairobi to mumbai'
+- 'british airways flights from nairobi today'
+- 'flights from nairobi to copenhagen'
+- 'flights from nairobi to dublin'
+- 'eldoret flights from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

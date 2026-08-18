@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Visa and Safari Package USA Citizen Assistance: Complete Guide'
-description: Kenya safari guide covering kenya visa and safari package usa citizen assistance, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya visa and safari package usa citizen assistance, including what is included, pricing, and booking advice.'
 slug: kenya-visa-and-safari-package-usa-citizen-assistance
-primary_keyword: Kenya visa and safari package USA citizen assistance
+primary_keyword: 'Kenya visa and safari package USA citizen assistance'
 secondary_keywords:
-- Book luxury Kenya safari lodge UK exclusive
-- Extended Kenya safari (14-day+) cost Europe itinerary
-- Mount Kenya safari tours booking UK climb options
-- Kenya safari deals from New York City direct booking
-- Spain (España) Kenya safari holiday deals online
+- 'Book luxury Kenya safari lodge UK exclusive'
+- 'Extended Kenya safari (14-day+) cost Europe itinerary'
+- 'Mount Kenya safari tours booking UK climb options'
+- 'Kenya safari deals from New York City direct booking'
+- 'Spain (España) Kenya safari holiday deals online'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

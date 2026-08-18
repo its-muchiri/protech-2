@@ -1,14 +1,14 @@
 ---
 title: 'Domestic Flight from Nairobi to Mombasa: Complete Guide'
-description: Everything you need to know about domestic flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about domestic flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.'
 slug: domestic-flight-from-nairobi-to-mombasa
-primary_keyword: domestic flight from nairobi to mombasa
+primary_keyword: 'domestic flight from nairobi to mombasa'
 secondary_keywords:
-- emirates flights from gatwick today
-- how many emirates flights from uk to dubai
-- emirates flights to india from uk
-- emirates flights from johannesburg to dublin
-- emirates flights from london to dubai
+- 'emirates flights from gatwick today'
+- 'how many emirates flights from uk to dubai'
+- 'emirates flights to india from uk'
+- 'emirates flights from johannesburg to dublin'
+- 'emirates flights from london to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

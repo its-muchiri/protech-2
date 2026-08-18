@@ -1,14 +1,14 @@
 ---
 title: 'Does American Airlines Fly to Kenya: Complete Guide'
-description: Everything you need to know about does american airlines fly to kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about does american airlines fly to kenya, including routes, airlines, booking tips, and fares.'
 slug: does-american-airlines-fly-to-kenya
-primary_keyword: does american airlines fly to kenya
+primary_keyword: 'does american airlines fly to kenya'
 secondary_keywords:
-- last flight from nairobi to kisumu
-- mauritius flight from nairobi
-- flight from nairobi to columbus ohio
-- price of flight from nairobi to mombasa
-- rwandair flight from nairobi to kigali
+- 'last flight from nairobi to kisumu'
+- 'mauritius flight from nairobi'
+- 'flight from nairobi to columbus ohio'
+- 'price of flight from nairobi to mombasa'
+- 'rwandair flight from nairobi to kigali'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

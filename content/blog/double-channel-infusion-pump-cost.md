@@ -1,14 +1,14 @@
 ---
 title: 'Double Channel Infusion Pump Cost: 2026 Price Guide'
-description: Kenya buying guide to double channel infusion pump cost. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to double channel infusion pump cost. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: double-channel-infusion-pump-cost
-primary_keyword: Double channel infusion pump cost
+primary_keyword: 'Double channel infusion pump cost'
 secondary_keywords:
-- Tourniquet for blood collection
-- Medical equipment leasing companies in Nairobi
-- Biomedical equipment asset management software
-- X-ray machine suppliers in Mombasa CBD
-- Autoclave suppliers in Kericho
+- 'Tourniquet for blood collection'
+- 'Medical equipment leasing companies in Nairobi'
+- 'Biomedical equipment asset management software'
+- 'X-ray machine suppliers in Mombasa CBD'
+- 'Autoclave suppliers in Kericho'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

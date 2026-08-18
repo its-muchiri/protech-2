@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Europe to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from europe to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from europe to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-europe-to-dubai
-primary_keyword: emirates flights from europe to dubai
+primary_keyword: 'emirates flights from europe to dubai'
 secondary_keywords:
-- flights from kenya to jordan
-- flight from kenya to south korea price
-- flights from kenya to lebanon
-- flights from kenya to morocco
-- flights from kenya to nigeria
+- 'flights from kenya to jordan'
+- 'flight from kenya to south korea price'
+- 'flights from kenya to lebanon'
+- 'flights from kenya to morocco'
+- 'flights from kenya to nigeria'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Warsaw: Complete Guide'
-description: Everything you need to know about flights from nairobi to warsaw, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to warsaw, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-warsaw
-primary_keyword: flights from nairobi to warsaw
+primary_keyword: 'flights from nairobi to warsaw'
 secondary_keywords:
-- how far is ethiopia from kenya by plane
-- ethiopian airlines contact nairobi telephone number
-- jambojet flight from nairobi to kisumu
-- ethiopian airlines from doha to nairobi price two way ticket
-- kenya to ethiopia flight time
+- 'how far is ethiopia from kenya by plane'
+- 'ethiopian airlines contact nairobi telephone number'
+- 'jambojet flight from nairobi to kisumu'
+- 'ethiopian airlines from doha to nairobi price two way ticket'
+- 'kenya to ethiopia flight time'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

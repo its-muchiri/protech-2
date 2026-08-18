@@ -1,14 +1,14 @@
 ---
 title: 'Lake Nakuru Accommodation: Complete Guide'
-description: Kenya safari guide covering lake nakuru accommodation, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering lake nakuru accommodation, including what is included, pricing, and booking advice.'
 slug: lake-nakuru-accommodation
-primary_keyword: Lake Nakuru accommodation
+primary_keyword: 'Lake Nakuru accommodation'
 secondary_keywords:
-- Book Amboseli safari holiday package UK
-- Buy guaranteed Kenya safari departure UK
-- Group Kenya safari package offers Europe discount
-- Kenya honeymoon safari all-inclusive deals booking
-- Book Kenya horseback riding safari package UK Laikipia
+- 'Book Amboseli safari holiday package UK'
+- 'Buy guaranteed Kenya safari departure UK'
+- 'Group Kenya safari package offers Europe discount'
+- 'Kenya honeymoon safari all-inclusive deals booking'
+- 'Book Kenya horseback riding safari package UK Laikipia'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

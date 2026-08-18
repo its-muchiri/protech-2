@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights to Uk from Nz: Complete Guide'
-description: Everything you need to know about emirates flights to uk from nz, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights to uk from nz, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-to-uk-from-nz
-primary_keyword: emirates flights to uk from nz
+primary_keyword: 'emirates flights to uk from nz'
 secondary_keywords:
-- flights for nairobi
-- flights from nairobi to goma
-- flights from nairobi to helsinki
-- indigo flights from nairobi to mumbai
-- jambojet flights from nairobi to ukunda
+- 'flights for nairobi'
+- 'flights from nairobi to goma'
+- 'flights from nairobi to helsinki'
+- 'indigo flights from nairobi to mumbai'
+- 'jambojet flights from nairobi to ukunda'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

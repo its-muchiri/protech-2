@@ -1,14 +1,14 @@
 ---
 title: 'Air India Flights from Nairobi to Mumbai: Complete Guide'
-description: Everything you need to know about air india flights from nairobi to mumbai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about air india flights from nairobi to mumbai, including routes, airlines, booking tips, and fares.'
 slug: air-india-flights-from-nairobi-to-mumbai
-primary_keyword: air india flights from nairobi to mumbai
+primary_keyword: 'air india flights from nairobi to mumbai'
 secondary_keywords:
-- ethiopian airlines flight from nairobi to addis ababa price
-- ethiopian airlines flight 302 videos
-- flights nairobi to atlanta
-- flights nairobi to barcelona
-- flights nairobi to chicago
+- 'ethiopian airlines flight from nairobi to addis ababa price'
+- 'ethiopian airlines flight 302 videos'
+- 'flights nairobi to atlanta'
+- 'flights nairobi to barcelona'
+- 'flights nairobi to chicago'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

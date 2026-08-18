@@ -1,14 +1,14 @@
 ---
 title: 'Adventure Safari Kenya Hiking / Rafting Options: Complete Guide'
-description: Kenya safari guide covering adventure safari kenya hiking / rafting options, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering adventure safari kenya hiking / rafting options, including what is included, pricing, and booking advice.'
 slug: adventure-safari-kenya-hiking-rafting-options
-primary_keyword: Adventure safari Kenya hiking / rafting options
+primary_keyword: 'Adventure safari Kenya hiking / rafting options'
 secondary_keywords:
-- Ngong Hills hiking trail guide KFS fee
-- Sheldrick Wildlife Trust elephant orphanage visit booking / times Nairobi
-- Explorer Kenya Safaris reviews luxury / mid-range
-- Gracepatt Safaris review
-- Yellow fever vaccination certificate Kenya requirement
+- 'Ngong Hills hiking trail guide KFS fee'
+- 'Sheldrick Wildlife Trust elephant orphanage visit booking / times Nairobi'
+- 'Explorer Kenya Safaris reviews luxury / mid-range'
+- 'Gracepatt Safaris review'
+- 'Yellow fever vaccination certificate Kenya requirement'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

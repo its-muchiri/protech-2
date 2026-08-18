@@ -1,14 +1,14 @@
 ---
 title: 'Biphasic Defibrillator with Paddles: 2026 Price Guide'
-description: Kenya buying guide to biphasic defibrillator with paddles. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to biphasic defibrillator with paddles. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: biphasic-defibrillator-with-paddles
-primary_keyword: Biphasic defibrillator with paddles
+primary_keyword: 'Biphasic defibrillator with paddles'
 secondary_keywords:
-- wheelchair spare parts in Kisumu
-- morgue equipment and supplies list
-- orthopedic braces and supports wholesale
-- medical equipment asset tagging
-- medical equipment suppliers from China
+- 'wheelchair spare parts in Kisumu'
+- 'morgue equipment and supplies list'
+- 'orthopedic braces and supports wholesale'
+- 'medical equipment asset tagging'
+- 'medical equipment suppliers from China'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

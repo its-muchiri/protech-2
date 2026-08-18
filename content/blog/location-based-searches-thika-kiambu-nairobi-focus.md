@@ -1,14 +1,14 @@
 ---
 title: 'Location-Based Searches (Thika/Kiambu/Nairobi Focus): Complete Guide'
-description: Kenya safari guide covering location-based searches (thika/kiambu/nairobi focus), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering location-based searches (thika/kiambu/nairobi focus), including what is included, pricing, and booking advice.'
 slug: location-based-searches-thika-kiambu-nairobi-focus
-primary_keyword: Location-Based Searches (Thika/Kiambu/Nairobi Focus)
+primary_keyword: 'Location-Based Searches (Thika/Kiambu/Nairobi Focus)'
 secondary_keywords:
-- Climb Point Lenana Mount Kenya guided tour cost
-- Community based tourism projects Kenya support local initiatives
-- Bonfire Adventures Kenya safari packages price list / reviews
-- Southern Cross Safaris Kenya Mombasa based
-- Packing list for Kenya safari clothes / gear recommendations
+- 'Climb Point Lenana Mount Kenya guided tour cost'
+- 'Community based tourism projects Kenya support local initiatives'
+- 'Bonfire Adventures Kenya safari packages price list / reviews'
+- 'Southern Cross Safaris Kenya Mombasa based'
+- 'Packing list for Kenya safari clothes / gear recommendations'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

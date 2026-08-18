@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi to Bali Flights: Complete Guide'
-description: Everything you need to know about nairobi to bali flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about nairobi to bali flights, including routes, airlines, booking tips, and fares.'
 slug: nairobi-to-bali-flights
-primary_keyword: nairobi to bali flights
+primary_keyword: 'nairobi to bali flights'
 secondary_keywords:
-- kq flight from kisumu to nairobi price
-- kenya airways flight from nairobi to malindi
-- kq flight from nairobi to zanzibar
-- kenya airways flight schedule from accra to nairobi
-- kenya airways flight from nairobi to dubai today
+- 'kq flight from kisumu to nairobi price'
+- 'kenya airways flight from nairobi to malindi'
+- 'kq flight from nairobi to zanzibar'
+- 'kenya airways flight schedule from accra to nairobi'
+- 'kenya airways flight from nairobi to dubai today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

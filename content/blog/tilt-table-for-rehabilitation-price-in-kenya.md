@@ -1,14 +1,14 @@
 ---
 title: 'Tilt Table for Rehabilitation Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to tilt table for rehabilitation price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to tilt table for rehabilitation price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: tilt-table-for-rehabilitation-price-in-kenya
-primary_keyword: Tilt table for rehabilitation price in Kenya
+primary_keyword: 'Tilt table for rehabilitation price in Kenya'
 secondary_keywords:
-- medical supply chain Kenya challenges
-- urban hospital medical equipment Kenya
-- wound care management Kenya
-- Siemens Somatom CT scanner price in Mombasa
-- Affordable black and white ultrasound scanner in Nairobi
+- 'medical supply chain Kenya challenges'
+- 'urban hospital medical equipment Kenya'
+- 'wound care management Kenya'
+- 'Siemens Somatom CT scanner price in Mombasa'
+- 'Affordable black and white ultrasound scanner in Nairobi'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

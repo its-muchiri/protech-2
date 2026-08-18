@@ -1,14 +1,14 @@
 ---
 title: '748 Flights to Kisumu: Complete Guide'
-description: Everything you need to know about 748 flights to kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about 748 flights to kisumu, including routes, airlines, booking tips, and fares.'
 slug: 748-flights-to-kisumu
-primary_keyword: 748 flights to kisumu
+primary_keyword: '748 flights to kisumu'
 secondary_keywords:
-- emirates flight 435
-- emirates flight 614
-- emirates flight 818
-- emirates flight 977
-- does qatar airways fly to nairobi
+- 'emirates flight 435'
+- 'emirates flight 614'
+- 'emirates flight 818'
+- 'emirates flight 977'
+- 'does qatar airways fly to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

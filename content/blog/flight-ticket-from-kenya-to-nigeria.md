@@ -1,14 +1,14 @@
 ---
 title: 'Flight Ticket from Kenya to Nigeria: Complete Guide'
-description: Everything you need to know about flight ticket from kenya to nigeria, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight ticket from kenya to nigeria, including routes, airlines, booking tips, and fares.'
 slug: flight-ticket-from-kenya-to-nigeria
-primary_keyword: flight ticket from kenya to nigeria
+primary_keyword: 'flight ticket from kenya to nigeria'
 secondary_keywords:
-- flights from new york to nairobi kenya
-- flights to kenya from zimbabwe
-- £5 to kenyan shillings
-- cheapest flights from nairobi to mombasa
-- flights from nairobi to ahmedabad
+- 'flights from new york to nairobi kenya'
+- 'flights to kenya from zimbabwe'
+- '£5 to kenyan shillings'
+- 'cheapest flights from nairobi to mombasa'
+- 'flights from nairobi to ahmedabad'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

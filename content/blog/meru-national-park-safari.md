@@ -1,14 +1,14 @@
 ---
 title: 'Meru National Park Safari: Complete Guide'
-description: Kenya safari guide covering meru national park safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering meru national park safari, including what is included, pricing, and booking advice.'
 slug: meru-national-park-safari
-primary_keyword: Meru National Park safari
+primary_keyword: 'Meru National Park safari'
 secondary_keywords:
-- Get quote 6 day Masai Mara wildlife focus package operator
-- Lock in rate for 10 day Kenya premium package
-- Get quote 5 day Kenya budget camping joining safari
-- Buy value package 10 day multi-park Kenya safari
-- Price 14 day Elewana Collection SkySafari Kenya package
+- 'Get quote 6 day Masai Mara wildlife focus package operator'
+- 'Lock in rate for 10 day Kenya premium package'
+- 'Get quote 5 day Kenya budget camping joining safari'
+- 'Buy value package 10 day multi-park Kenya safari'
+- 'Price 14 day Elewana Collection SkySafari Kenya package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

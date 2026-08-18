@@ -1,14 +1,14 @@
 ---
 title: 'Autopsy Table Suppliers in Mombasa: 2026 Price Guide'
-description: Kenya buying guide to autopsy table suppliers in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to autopsy table suppliers in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: autopsy-table-suppliers-in-mombasa
-primary_keyword: Autopsy table suppliers in Mombasa
+primary_keyword: 'Autopsy table suppliers in Mombasa'
 secondary_keywords:
-- laboratory water distillers Kenya
-- hospital communication systems Kenya
-- mortuary equipment Kenya
-- how to set up a medical lab in Kenya
-- oxygen supply solutions Kenya
+- 'laboratory water distillers Kenya'
+- 'hospital communication systems Kenya'
+- 'mortuary equipment Kenya'
+- 'how to set up a medical lab in Kenya'
+- 'oxygen supply solutions Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

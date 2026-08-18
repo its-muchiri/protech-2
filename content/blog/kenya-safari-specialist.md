@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Specialist: Complete Guide'
-description: Kenya safari guide covering kenya safari specialist, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari specialist, including what is included, pricing, and booking advice.'
 slug: kenya-safari-specialist
-primary_keyword: Kenya safari specialist
+primary_keyword: 'Kenya safari specialist'
 secondary_keywords:
-- Kenya safari itinerary
-- LGBTQ+ friendly Kenya safari
-- Is Kenya safe for safari
-- Kenya safari guide training
-- 5 day Tsavo East West safari from Mombasa
+- 'Kenya safari itinerary'
+- 'LGBTQ+ friendly Kenya safari'
+- 'Is Kenya safe for safari'
+- 'Kenya safari guide training'
+- '5 day Tsavo East West safari from Mombasa'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

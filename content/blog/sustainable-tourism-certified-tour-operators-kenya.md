@@ -1,14 +1,14 @@
 ---
 title: 'Sustainable Tourism Certified Tour Operators Kenya: Complete Guide'
-description: Kenya safari guide covering sustainable tourism certified tour operators kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering sustainable tourism certified tour operators kenya, including what is included, pricing, and booking advice.'
 slug: sustainable-tourism-certified-tour-operators-kenya
-primary_keyword: Sustainable tourism certified tour operators Kenya
+primary_keyword: 'Sustainable tourism certified tour operators Kenya'
 secondary_keywords:
-- Compare Kenya safari package prices USA operators
-- Kenya bird watching safari tours USA specialist booking
-- Book Masai Mara safari online UK migration season
-- Lake Naivasha boat safari booking Hell''s Gate tour USA
-- European travel agency Kenya safari booking reliable
+- 'Compare Kenya safari package prices USA operators'
+- 'Kenya bird watching safari tours USA specialist booking'
+- 'Book Masai Mara safari online UK migration season'
+- 'Lake Naivasha boat safari booking Hell''''s Gate tour USA'
+- 'European travel agency Kenya safari booking reliable'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

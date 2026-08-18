@@ -1,14 +1,14 @@
 ---
 title: 'Bone Densitometer (DEXA Scan) Cost in Kenya: 2026 Price Guide'
-description: Kenya buying guide to bone densitometer (dexa scan) cost in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to bone densitometer (dexa scan) cost in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: bone-densitometer-dexa-scan-cost-in-kenya
-primary_keyword: Bone densitometer (DEXA scan) cost in Kenya
+primary_keyword: 'Bone densitometer (DEXA scan) cost in Kenya'
 secondary_keywords:
-- hospital bed repair services in Eldoret
-- hospital bed head unit suppliers
-- prosthetic limb providers in Kenya
-- online biomedical equipment courses
-- importing medical devices from India to Kenya
+- 'hospital bed repair services in Eldoret'
+- 'hospital bed head unit suppliers'
+- 'prosthetic limb providers in Kenya'
+- 'online biomedical equipment courses'
+- 'importing medical devices from India to Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

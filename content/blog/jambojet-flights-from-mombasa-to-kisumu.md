@@ -1,14 +1,14 @@
 ---
 title: 'Jambojet Flights from Mombasa to Kisumu: Complete Guide'
-description: Everything you need to know about jambojet flights from mombasa to kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about jambojet flights from mombasa to kisumu, including routes, airlines, booking tips, and fares.'
 slug: jambojet-flights-from-mombasa-to-kisumu
-primary_keyword: jambojet flights from mombasa to kisumu
+primary_keyword: 'jambojet flights from mombasa to kisumu'
 secondary_keywords:
-- the cheapest flight from nairobi to kisumu
-- cheapest flight from nairobi to usa
-- what time is the last flight from nairobi to mombasa
-- cheapest flight from nairobi to new york
-- flight from nairobi to kisumu price
+- 'the cheapest flight from nairobi to kisumu'
+- 'cheapest flight from nairobi to usa'
+- 'what time is the last flight from nairobi to mombasa'
+- 'cheapest flight from nairobi to new york'
+- 'flight from nairobi to kisumu price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

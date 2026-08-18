@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Nairobi: Complete Guide'
-description: Everything you need to know about emirates flights from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from nairobi, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-nairobi
-primary_keyword: emirates flights from nairobi
+primary_keyword: 'emirates flights from nairobi'
 secondary_keywords:
-- boston to nairobi flights
-- cheap flights nairobi to kisumu
-- flights nairobi to eldoret
-- flights to nairobi from johannesburg
-- google flights nairobi to dubai
+- 'boston to nairobi flights'
+- 'cheap flights nairobi to kisumu'
+- 'flights nairobi to eldoret'
+- 'flights to nairobi from johannesburg'
+- 'google flights nairobi to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Early Bird Booking Kenya Safari  Discount Quote: Complete Guide'
-description: Kenya safari guide covering early bird booking kenya safari  discount quote, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering early bird booking kenya safari  discount quote, including what is included, pricing, and booking advice.'
 slug: early-bird-booking-kenya-safari-year-1-discount-quote
-primary_keyword: Early bird booking Kenya safari  discount quote
+primary_keyword: 'Early bird booking Kenya safari  discount quote'
 secondary_keywords:
-- Mara river crossing safari
-- Kenya safari from Nairobi
-- Kenya safari from Canada
-- Kenya safari in April
-- Best Kenya tour operators
+- 'Mara river crossing safari'
+- 'Kenya safari from Nairobi'
+- 'Kenya safari from Canada'
+- 'Kenya safari in April'
+- 'Best Kenya tour operators'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

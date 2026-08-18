@@ -1,14 +1,14 @@
 ---
 title: 'Are There Flights from Mombasa to Lamu: Complete Guide'
-description: Everything you need to know about are there flights from mombasa to lamu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about are there flights from mombasa to lamu, including routes, airlines, booking tips, and fares.'
 slug: are-there-flights-from-mombasa-to-lamu
-primary_keyword: are there flights from mombasa to lamu
+primary_keyword: 'are there flights from mombasa to lamu'
 secondary_keywords:
-- the cheapest flight from nairobi to mombasa
-- flight from nairobi to uk price
-- flight from nairobi to wajir
-- flight from nairobi to new york today
-- how much is flight from nairobi to zanzibar today
+- 'the cheapest flight from nairobi to mombasa'
+- 'flight from nairobi to uk price'
+- 'flight from nairobi to wajir'
+- 'flight from nairobi to new york today'
+- 'how much is flight from nairobi to zanzibar today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

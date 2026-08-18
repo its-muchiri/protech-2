@@ -1,14 +1,14 @@
 ---
 title: 'Flight Cost from Nairobi to Germany: Complete Guide'
-description: Everything you need to know about flight cost from nairobi to germany, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight cost from nairobi to germany, including routes, airlines, booking tips, and fares.'
 slug: flight-cost-from-nairobi-to-germany
-primary_keyword: flight cost from nairobi to germany
+primary_keyword: 'flight cost from nairobi to germany'
 secondary_keywords:
-- ethiopian airlines flight from nairobi to addis ababa
-- ethiopian airlines from nairobi to canada
-- ethiopian airlines in nairobi office
-- ethiopian airlines nairobi office telephone number near
-- ethiopian airlines flight status from nairobi to addis ababa
+- 'ethiopian airlines flight from nairobi to addis ababa'
+- 'ethiopian airlines from nairobi to canada'
+- 'ethiopian airlines in nairobi office'
+- 'ethiopian airlines nairobi office telephone number near'
+- 'ethiopian airlines flight status from nairobi to addis ababa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

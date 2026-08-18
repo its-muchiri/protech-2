@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is Kq Flight from Nairobi to New York: Complete Guide'
-description: Everything you need to know about how much is kq flight from nairobi to new york, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is kq flight from nairobi to new york, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-kq-flight-from-nairobi-to-new-york
-primary_keyword: how much is kq flight from nairobi to new york
+primary_keyword: 'how much is kq flight from nairobi to new york'
 secondary_keywords:
-- turkish airlines office in nairobi kenya
-- turkish airlines nairobi number
-- turkish airlines nairobi to toronto
-- emirates airline nairobi
-- ethiopian airlines flights schedule from nairobi to addis ababa
+- 'turkish airlines office in nairobi kenya'
+- 'turkish airlines nairobi number'
+- 'turkish airlines nairobi to toronto'
+- 'emirates airline nairobi'
+- 'ethiopian airlines flights schedule from nairobi to addis ababa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

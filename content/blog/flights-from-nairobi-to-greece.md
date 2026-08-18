@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Greece: Complete Guide'
-description: Everything you need to know about flights from nairobi to greece, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to greece, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-greece
-primary_keyword: flights from nairobi to greece
+primary_keyword: 'flights from nairobi to greece'
 secondary_keywords:
-- flights from kenya to eswatini
-- flight from kenya to france price
-- flights from kenya to gambia
-- flights from kenya to heathrow
-- kenya airways flights to london heathrow from nairobi
+- 'flights from kenya to eswatini'
+- 'flight from kenya to france price'
+- 'flights from kenya to gambia'
+- 'flights from kenya to heathrow'
+- 'kenya airways flights to london heathrow from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

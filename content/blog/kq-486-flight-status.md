@@ -1,14 +1,14 @@
 ---
 title: 'Kq 486 Flight Status: Complete Guide'
-description: Everything you need to know about kq 486 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 486 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq-486-flight-status
-primary_keyword: kq 486 flight status
+primary_keyword: 'kq 486 flight status'
 secondary_keywords:
-- flight from nairobi to doha
-- flight from england to nairobi
-- flight fare from nairobi to kisumu
-- flight cost from nairobi to germany
-- how much is a flight from nairobi to south africa
+- 'flight from nairobi to doha'
+- 'flight from england to nairobi'
+- 'flight fare from nairobi to kisumu'
+- 'flight cost from nairobi to germany'
+- 'how much is a flight from nairobi to south africa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

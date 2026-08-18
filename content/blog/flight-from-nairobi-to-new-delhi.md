@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to New Delhi: Complete Guide'
-description: Everything you need to know about flight from nairobi to new delhi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to new delhi, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-new-delhi
-primary_keyword: flight from nairobi to new delhi
+primary_keyword: 'flight from nairobi to new delhi'
 secondary_keywords:
-- flights within kenya
-- £5 in kenya shillings
-- air arabia flights from kenya to dubai
-- flights from kenya to boston
-- flights from kenya to cuba
+- 'flights within kenya'
+- '£5 in kenya shillings'
+- 'air arabia flights from kenya to dubai'
+- 'flights from kenya to boston'
+- 'flights from kenya to cuba'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

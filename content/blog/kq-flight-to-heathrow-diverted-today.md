@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight to Heathrow Diverted Today: Complete Guide'
-description: Everything you need to know about kq flight to heathrow diverted today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight to heathrow diverted today, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-to-heathrow-diverted-today
-primary_keyword: kq flight to heathrow diverted today
+primary_keyword: 'kq flight to heathrow diverted today'
 secondary_keywords:
-- cheap flights from entebbe to mombasa
-- flights from gatwick to mombasa
-- flights from mombasa to milan italy
-- jambojet flights from mombasa to nairobi ticket price
-- kq flights from mombasa to dubai
+- 'cheap flights from entebbe to mombasa'
+- 'flights from gatwick to mombasa'
+- 'flights from mombasa to milan italy'
+- 'jambojet flights from mombasa to nairobi ticket price'
+- 'kq flights from mombasa to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

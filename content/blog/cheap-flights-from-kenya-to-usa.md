@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Kenya to Usa: Complete Guide'
-description: Everything you need to know about cheap flights from kenya to usa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from kenya to usa, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-kenya-to-usa
-primary_keyword: cheap flights from kenya to usa
+primary_keyword: 'cheap flights from kenya to usa'
 secondary_keywords:
-- how much is a flight from nairobi to addis ababa
-- ethiopian airlines nairobi office telephone number
-- are flights from kenya to dubai open
-- flights nairobi to diani
-- nairobi to accra flights
+- 'how much is a flight from nairobi to addis ababa'
+- 'ethiopian airlines nairobi office telephone number'
+- 'are flights from kenya to dubai open'
+- 'flights nairobi to diani'
+- 'nairobi to accra flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

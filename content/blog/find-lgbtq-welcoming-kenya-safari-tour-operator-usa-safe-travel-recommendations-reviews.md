@@ -1,14 +1,14 @@
 ---
 title: 'Find LGBTQ+ Welcoming Kenya Safari Tour Operator USA Safe Travel Recommendations Reviews: Complete Guide'
-description: Kenya safari guide covering find lgbtq+ welcoming kenya safari tour operator usa safe travel recommendations reviews, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering find lgbtq+ welcoming kenya safari tour operator usa safe travel recommendations reviews, including what is included, pricing, and booking advice.'
 slug: find-lgbtq-welcoming-kenya-safari-tour-operator-usa-safe-travel-recommendations-reviews
-primary_keyword: Find LGBTQ+ welcoming Kenya safari tour operator USA safe travel recommendations reviews
+primary_keyword: 'Find LGBTQ+ welcoming Kenya safari tour operator USA safe travel recommendations reviews'
 secondary_keywords:
-- Cheap Kenya safari
-- Overland Kenya safari
-- Kenya safari and beach holiday
-- 2 day Kenya safari
-- Long duration Kenya safari
+- 'Cheap Kenya safari'
+- 'Overland Kenya safari'
+- 'Kenya safari and beach holiday'
+- '2 day Kenya safari'
+- 'Long duration Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Samsung Medison Ultrasound Suppliers in Mombasa: 2026 Price Guide'
-description: Kenya buying guide to samsung medison ultrasound suppliers in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to samsung medison ultrasound suppliers in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: samsung-medison-ultrasound-suppliers-in-mombasa
-primary_keyword: Samsung Medison ultrasound suppliers in Mombasa
+primary_keyword: 'Samsung Medison ultrasound suppliers in Mombasa'
 secondary_keywords:
-- Pediatric hospital bed suppliers in Kisumu
-- Walking frame and crutches price in Thika
-- Delivery bed / Obstetric table price
-- Pulse oximeter price in Kenya
-- Physiotherapy and Rehabilitation Equipment
+- 'Pediatric hospital bed suppliers in Kisumu'
+- 'Walking frame and crutches price in Thika'
+- 'Delivery bed / Obstetric table price'
+- 'Pulse oximeter price in Kenya'
+- 'Physiotherapy and Rehabilitation Equipment'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

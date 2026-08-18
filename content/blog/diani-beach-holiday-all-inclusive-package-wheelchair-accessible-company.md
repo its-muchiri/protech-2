@@ -1,14 +1,14 @@
 ---
 title: 'Diani Beach Holiday All Inclusive Package Wheelchair Accessible Company: Complete Guide'
-description: Kenya safari guide covering diani beach holiday all inclusive package wheelchair accessible company, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering diani beach holiday all inclusive package wheelchair accessible company, including what is included, pricing, and booking advice.'
 slug: diani-beach-holiday-all-inclusive-package-wheelchair-accessible-company
-primary_keyword: Diani beach holiday all inclusive package wheelchair accessible company
+primary_keyword: 'Diani beach holiday all inclusive package wheelchair accessible company'
 secondary_keywords:
-- Masai Mara Lake Nakuru safari package deal
-- Easter holiday Kenya safari package buy
-- Kenya safari reviews and booking
-- Kenya safari package price match
-- Kenya safari package including transfers quote
+- 'Masai Mara Lake Nakuru safari package deal'
+- 'Easter holiday Kenya safari package buy'
+- 'Kenya safari reviews and booking'
+- 'Kenya safari package price match'
+- 'Kenya safari package including transfers quote'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'When Do Emirates Release Flights for 2025 from Uk: Complete Guide'
-description: Everything you need to know about when do emirates release flights for 2025 from uk, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about when do emirates release flights for 2025 from uk, including routes, airlines, booking tips, and fares.'
 slug: when-do-emirates-release-flights-for-2025-from-uk
-primary_keyword: when do emirates release flights for 2025 from uk
+primary_keyword: 'when do emirates release flights for 2025 from uk'
 secondary_keywords:
-- kq 274 flight status
-- kq flight 4
-- kq 586 flight status
-- kq 887 flight status
-- emirates dubai to nairobi flight status
+- 'kq 274 flight status'
+- 'kq flight 4'
+- 'kq 586 flight status'
+- 'kq 887 flight status'
+- 'emirates dubai to nairobi flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

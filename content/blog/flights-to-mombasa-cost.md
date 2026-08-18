@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Mombasa Cost: Complete Guide'
-description: Everything you need to know about flights to mombasa cost, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to mombasa cost, including routes, airlines, booking tips, and fares.'
 slug: flights-to-mombasa-cost
-primary_keyword: flights to mombasa cost
+primary_keyword: 'flights to mombasa cost'
 secondary_keywords:
-- does british airways fly to kolkata
-- flights from kisumu to entebbe
-- flights kisumu kenya to mombasa kenya
-- flights from kisumu to masai mara
-- is there a direct flight from kisumu to mombasa
+- 'does british airways fly to kolkata'
+- 'flights from kisumu to entebbe'
+- 'flights kisumu kenya to mombasa kenya'
+- 'flights from kisumu to masai mara'
+- 'is there a direct flight from kisumu to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

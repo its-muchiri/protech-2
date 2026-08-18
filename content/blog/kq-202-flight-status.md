@@ -1,14 +1,14 @@
 ---
 title: 'Kq 202 Flight Status: Complete Guide'
-description: Everything you need to know about kq 202 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 202 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq-202-flight-status
-primary_keyword: kq 202 flight status
+primary_keyword: 'kq 202 flight status'
 secondary_keywords:
-- cheap flights from uganda to mombasa
-- flights from kisumu
-- does british airways fly to kolkata
-- flights from kisumu to entebbe
-- flights kisumu kenya to mombasa kenya
+- 'cheap flights from uganda to mombasa'
+- 'flights from kisumu'
+- 'does british airways fly to kolkata'
+- 'flights from kisumu to entebbe'
+- 'flights kisumu kenya to mombasa kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

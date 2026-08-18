@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Kenya to Vietnam: Complete Guide'
-description: Everything you need to know about cheap flights from kenya to vietnam, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from kenya to vietnam, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-kenya-to-vietnam
-primary_keyword: cheap flights from kenya to vietnam
+primary_keyword: 'cheap flights from kenya to vietnam'
 secondary_keywords:
-- flights to nairobi return
-- skyward flights nairobi to mombasa
-- flights nairobi to usa
-- nairobi to vipingo flights
-- cheap flights nairobi to mumbai
+- 'flights to nairobi return'
+- 'skyward flights nairobi to mombasa'
+- 'flights nairobi to usa'
+- 'nairobi to vipingo flights'
+- 'cheap flights nairobi to mumbai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

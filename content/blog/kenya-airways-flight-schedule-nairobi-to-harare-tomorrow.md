@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight Schedule Nairobi to Harare Tomorrow: Complete Guide'
-description: Everything you need to know about kenya airways flight schedule nairobi to harare tomorrow, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight schedule nairobi to harare tomorrow, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-schedule-nairobi-to-harare-tomorrow
-primary_keyword: kenya airways flight schedule nairobi to harare tomorrow
+primary_keyword: 'kenya airways flight schedule nairobi to harare tomorrow'
 secondary_keywords:
-- ethiopian airline terminal in nairobi
-- ethiopian airlines nairobi flights suspension
-- flights to turkey from nairobi
-- flight ticket kenya to dubai
-- flight from kenya to dubai time
+- 'ethiopian airline terminal in nairobi'
+- 'ethiopian airlines nairobi flights suspension'
+- 'flights to turkey from nairobi'
+- 'flight ticket kenya to dubai'
+- 'flight from kenya to dubai time'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

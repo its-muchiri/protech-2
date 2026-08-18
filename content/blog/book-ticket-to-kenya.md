@@ -1,14 +1,14 @@
 ---
 title: 'Book Ticket to Kenya: Complete Guide'
-description: Everything you need to know about book ticket to kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about book ticket to kenya, including routes, airlines, booking tips, and fares.'
 slug: book-ticket-to-kenya
-primary_keyword: book ticket to kenya
+primary_keyword: 'book ticket to kenya'
 secondary_keywords:
-- 1 bedroom houses for rent in nairobi
-- flights from nairobi to thailand
-- emirates flights arriving from dubai today
-- emirates flights from birmingham today
-- cheapest emirates flights from india
+- '1 bedroom houses for rent in nairobi'
+- 'flights from nairobi to thailand'
+- 'emirates flights arriving from dubai today'
+- 'emirates flights from birmingham today'
+- 'cheapest emirates flights from india'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

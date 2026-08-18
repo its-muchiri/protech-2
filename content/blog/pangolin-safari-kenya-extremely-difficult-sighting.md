@@ -1,14 +1,14 @@
 ---
 title: 'Pangolin Safari Kenya (extremely Difficult Sighting): Complete Guide'
-description: Kenya safari guide covering pangolin safari kenya (extremely difficult sighting), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering pangolin safari kenya (extremely difficult sighting), including what is included, pricing, and booking advice.'
 slug: pangolin-safari-kenya-extremely-difficult-sighting
-primary_keyword: Pangolin safari Kenya (extremely difficult sighting)
+primary_keyword: 'Pangolin safari Kenya (extremely difficult sighting)'
 secondary_keywords:
-- Purchase 12-day ultimate Kenya luxury safari cost USA includes internal flights lodges
-- Book Kenya conservation focused safari Ol Pejeta rhino tracking Europe donation included
-- Book Kenya safari including school visit community project UK responsible tourism options cost
-- Purchase luxury wellness retreat & safari combination Kenya USA spa treatments yoga included cost
-- Reserve Lake Victoria fishing safari Nile perch Kenya USA boat charter booking cost
+- 'Purchase 12-day ultimate Kenya luxury safari cost USA includes internal flights lodges'
+- 'Book Kenya conservation focused safari Ol Pejeta rhino tracking Europe donation included'
+- 'Book Kenya safari including school visit community project UK responsible tourism options cost'
+- 'Purchase luxury wellness retreat & safari combination Kenya USA spa treatments yoga included cost'
+- 'Reserve Lake Victoria fishing safari Nile perch Kenya USA boat charter booking cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

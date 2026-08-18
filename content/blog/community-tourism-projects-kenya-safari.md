@@ -1,14 +1,14 @@
 ---
 title: 'Community Tourism Projects Kenya Safari: Complete Guide'
-description: Kenya safari guide covering community tourism projects kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering community tourism projects kenya safari, including what is included, pricing, and booking advice.'
 slug: community-tourism-projects-kenya-safari
-primary_keyword: Community tourism projects Kenya safari
+primary_keyword: 'Community tourism projects Kenya safari'
 secondary_keywords:
-- Shimba Hills National Reserve tours from Diani
-- Adventure safari companies Kenya (hiking, rafting)
-- Giraffe Centre Nairobi tour packages
-- 2 day Tsavo East safari from Mombasa company
-- Budget camping safari Masai Mara price list
+- 'Shimba Hills National Reserve tours from Diani'
+- 'Adventure safari companies Kenya (hiking, rafting)'
+- 'Giraffe Centre Nairobi tour packages'
+- '2 day Tsavo East safari from Mombasa company'
+- 'Budget camping safari Masai Mara price list'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

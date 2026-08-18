@@ -1,14 +1,14 @@
 ---
 title: 'Book Masai Mara Hot Air Balloon Safari Cost Per Person: Complete Guide'
-description: Kenya safari guide covering book masai mara hot air balloon safari cost per person, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book masai mara hot air balloon safari cost per person, including what is included, pricing, and booking advice.'
 slug: book-masai-mara-hot-air-balloon-safari-cost-per-person
-primary_keyword: Book Masai Mara hot air balloon safari cost per person
+primary_keyword: 'Book Masai Mara hot air balloon safari cost per person'
 secondary_keywords:
-- Buy migration safari package
-- Get quote private 8 day photo safari package Kenya
-- Cost of 6 day Kenya cultural immersion safari package
-- Reserve 7 day Mara Plains luxury package deal
-- Price for 9 day luxury mobile camping safari package Kenya
+- 'Buy migration safari package'
+- 'Get quote private 8 day photo safari package Kenya'
+- 'Cost of 6 day Kenya cultural immersion safari package'
+- 'Reserve 7 day Mara Plains luxury package deal'
+- 'Price for 9 day luxury mobile camping safari package Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

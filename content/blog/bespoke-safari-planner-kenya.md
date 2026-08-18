@@ -1,14 +1,14 @@
 ---
 title: 'Bespoke Safari Planner Kenya: Complete Guide'
-description: Kenya safari guide covering bespoke safari planner kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering bespoke safari planner kenya, including what is included, pricing, and booking advice.'
 slug: bespoke-safari-planner-kenya
-primary_keyword: Bespoke safari planner Kenya
+primary_keyword: 'Bespoke safari planner Kenya'
 secondary_keywords:
-- Packing cubes for Kenya safari
-- Quote for private Kenya safari
-- Book 4 day Masai Mara safari package
-- Cost of 3 day Amboseli safari package
-- Samburu special five safari package price
+- 'Packing cubes for Kenya safari'
+- 'Quote for private Kenya safari'
+- 'Book 4 day Masai Mara safari package'
+- 'Cost of 3 day Amboseli safari package'
+- 'Samburu special five safari package price'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Company Reviews SafariBookings Verified Reviews: Complete Guide'
-description: Kenya safari guide covering kenya safari company reviews safaribookings verified reviews, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari company reviews safaribookings verified reviews, including what is included, pricing, and booking advice.'
 slug: kenya-safari-company-reviews-safaribookings-verified-reviews
-primary_keyword: Kenya safari company reviews SafariBookings verified reviews
+primary_keyword: 'Kenya safari company reviews SafariBookings verified reviews'
 secondary_keywords:
-- Self-drive safari Kenya 4x4 rental and itinerary planning
-- Luxury private villas Diani Beach rental Alfajiri Villas price
-- Samburu cultural village visit tour package
-- Kiambethu Tea Farm tour Limuru booking / price from Nairobi / Thika
-- Gamewatchers Safaris Porini Camps price / reviews
+- 'Self-drive safari Kenya 4x4 rental and itinerary planning'
+- 'Luxury private villas Diani Beach rental Alfajiri Villas price'
+- 'Samburu cultural village visit tour package'
+- 'Kiambethu Tea Farm tour Limuru booking / price from Nairobi / Thika'
+- 'Gamewatchers Safaris Porini Camps price / reviews'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

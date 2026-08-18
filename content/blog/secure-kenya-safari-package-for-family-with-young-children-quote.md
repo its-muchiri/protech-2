@@ -1,14 +1,14 @@
 ---
 title: 'Secure Kenya Safari Package for Family with Young Children Quote: Complete Guide'
-description: Kenya safari guide covering secure kenya safari package for family with young children quote, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering secure kenya safari package for family with young children quote, including what is included, pricing, and booking advice.'
 slug: secure-kenya-safari-package-for-family-with-young-children-quote
-primary_keyword: Secure Kenya safari package for family with young children quote
+primary_keyword: 'Secure Kenya safari package for family with young children quote'
 secondary_keywords:
-- Off-season Kenya safari
-- Kenya safari agent
-- Low altitude safari Kenya (Tsavo)
-- Kenya safari clothing guide
-- Kenya safari vs South Africa safari
+- 'Off-season Kenya safari'
+- 'Kenya safari agent'
+- 'Low altitude safari Kenya (Tsavo)'
+- 'Kenya safari clothing guide'
+- 'Kenya safari vs South Africa safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

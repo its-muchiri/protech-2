@@ -1,14 +1,14 @@
 ---
 title: 'Secure Aberdares Treetop Lodge Package: Complete Guide'
-description: Kenya safari guide covering secure aberdares treetop lodge package, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering secure aberdares treetop lodge package, including what is included, pricing, and booking advice.'
 slug: secure-aberdares-treetop-lodge-package
-primary_keyword: Secure Aberdares treetop lodge package
+primary_keyword: 'Secure Aberdares treetop lodge package'
 secondary_keywords:
-- Book Kenya safari tour
-- Contact Kenya safari operator for booking
-- 7 day Kenya classic safari package booking
-- Book Amboseli National Park tour package
-- Drive Nairobi Masai Mara safari package deal
+- 'Book Kenya safari tour'
+- 'Contact Kenya safari operator for booking'
+- '7 day Kenya classic safari package booking'
+- 'Book Amboseli National Park tour package'
+- 'Drive Nairobi Masai Mara safari package deal'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

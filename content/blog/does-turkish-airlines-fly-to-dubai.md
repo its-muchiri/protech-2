@@ -1,14 +1,14 @@
 ---
 title: 'Does Turkish Airlines Fly to Dubai: Complete Guide'
-description: Everything you need to know about does turkish airlines fly to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about does turkish airlines fly to dubai, including routes, airlines, booking tips, and fares.'
 slug: does-turkish-airlines-fly-to-dubai
-primary_keyword: does turkish airlines fly to dubai
+primary_keyword: 'does turkish airlines fly to dubai'
 secondary_keywords:
-- flight from garissa to nairobi
-- how much is a flight from nairobi to kisumu
-- flight from nairobi to jamaica
-- klm flight from nairobi to amsterdam today
-- how long is the flight from nairobi to dubai
+- 'flight from garissa to nairobi'
+- 'how much is a flight from nairobi to kisumu'
+- 'flight from nairobi to jamaica'
+- 'klm flight from nairobi to amsterdam today'
+- 'how long is the flight from nairobi to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

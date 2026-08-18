@@ -1,14 +1,14 @@
 ---
 title: 'Secure Fly-in Kenya Safari Package Purchase: Complete Guide'
-description: Kenya safari guide covering secure fly-in kenya safari package purchase, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering secure fly-in kenya safari package purchase, including what is included, pricing, and booking advice.'
 slug: secure-fly-in-kenya-safari-package-purchase
-primary_keyword: Secure fly-in Kenya safari package purchase
+primary_keyword: 'Secure fly-in Kenya safari package purchase'
 secondary_keywords:
-- 15 day Kenya safari
-- Affordable luxury safari Kenya
-- Samburu lodges
-- Rhino sanctuary Kenya visit
-- See black rhino Kenya
+- '15 day Kenya safari'
+- 'Affordable luxury safari Kenya'
+- 'Samburu lodges'
+- 'Rhino sanctuary Kenya visit'
+- 'See black rhino Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

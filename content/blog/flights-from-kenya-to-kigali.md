@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Kigali: Complete Guide'
-description: Everything you need to know about flights from kenya to kigali, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to kigali, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-kigali
-primary_keyword: flights from kenya to kigali
+primary_keyword: 'flights from kenya to kigali'
 secondary_keywords:
-- emirates flight from nairobi to dubai price economy class
-- emirates flight from nairobi to dubai
-- emirates nairobi contact number
-- emirates nairobi flights
-- emirates nairobi office telephone number kenya
+- 'emirates flight from nairobi to dubai price economy class'
+- 'emirates flight from nairobi to dubai'
+- 'emirates nairobi contact number'
+- 'emirates nairobi flights'
+- 'emirates nairobi office telephone number kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

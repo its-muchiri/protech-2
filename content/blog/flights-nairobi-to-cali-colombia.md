@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Cali Colombia: Complete Guide'
-description: Everything you need to know about flights nairobi to cali colombia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to cali colombia, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-cali-colombia
-primary_keyword: flights nairobi to cali colombia
+primary_keyword: 'flights nairobi to cali colombia'
 secondary_keywords:
-- flights from jkia
-- kq flights from nairobi to dubai
-- kq352
-- kenya airways flight from nairobi to accra today
-- kq flight from nairobi to eldoret
+- 'flights from jkia'
+- 'kq flights from nairobi to dubai'
+- 'kq352'
+- 'kenya airways flight from nairobi to accra today'
+- 'kq flight from nairobi to eldoret'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Mombasa from Lusaka: Complete Guide'
-description: Everything you need to know about flights to mombasa from lusaka, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to mombasa from lusaka, including routes, airlines, booking tips, and fares.'
 slug: flights-to-mombasa-from-lusaka
-primary_keyword: flights to mombasa from lusaka
+primary_keyword: 'flights to mombasa from lusaka'
 secondary_keywords:
-- qatar airways nairobi kenya
-- does qatar airways fly to toronto
-- kenya airways flights from accra to nairobi
-- kq flights from dubai to nairobi today
-- flights from jkia
+- 'qatar airways nairobi kenya'
+- 'does qatar airways fly to toronto'
+- 'kenya airways flights from accra to nairobi'
+- 'kq flights from dubai to nairobi today'
+- 'flights from jkia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

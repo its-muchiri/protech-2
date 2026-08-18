@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Jobs in Kenya: Complete Guide'
-description: Everything you need to know about turkish airlines jobs in kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines jobs in kenya, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-jobs-in-kenya
-primary_keyword: turkish airlines jobs in kenya
+primary_keyword: 'turkish airlines jobs in kenya'
 secondary_keywords:
-- flights from nairobi to edmonton
-- who flies to nairobi
-- flights from nairobi to garowe
-- how much are flights from nairobi to mombasa
-- flights to india from nairobi
+- 'flights from nairobi to edmonton'
+- 'who flies to nairobi'
+- 'flights from nairobi to garowe'
+- 'how much are flights from nairobi to mombasa'
+- 'flights to india from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

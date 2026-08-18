@@ -1,14 +1,14 @@
 ---
 title: 'Kq 486 Flight Radar: Complete Guide'
-description: Everything you need to know about kq 486 flight radar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 486 flight radar, including routes, airlines, booking tips, and fares.'
 slug: kq-486-flight-radar
-primary_keyword: kq 486 flight radar
+primary_keyword: 'kq 486 flight radar'
 secondary_keywords:
-- emirates flight 953
-- qatar airways arrival nairobi today
-- qatar airways careers nairobi cabin crew
-- qatar airways nairobi jobs
-- qatar airways nairobi office address
+- 'emirates flight 953'
+- 'qatar airways arrival nairobi today'
+- 'qatar airways careers nairobi cabin crew'
+- 'qatar airways nairobi jobs'
+- 'qatar airways nairobi office address'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

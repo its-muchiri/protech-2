@@ -1,14 +1,14 @@
 ---
 title: 'Purchase Nairobi Start Kenya Safari Package: Complete Guide'
-description: Kenya safari guide covering purchase nairobi start kenya safari package, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase nairobi start kenya safari package, including what is included, pricing, and booking advice.'
 slug: purchase-nairobi-start-kenya-safari-package
-primary_keyword: Purchase Nairobi start Kenya safari package
+primary_keyword: 'Purchase Nairobi start Kenya safari package'
 secondary_keywords:
-- Great Rift Valley safari Kenya
-- Kenia safari precios (Spanish)
-- Kenya safari documentaries
-- Get Kenya safari quote
-- Finalize Kenya safari booking
+- 'Great Rift Valley safari Kenya'
+- 'Kenia safari precios (Spanish)'
+- 'Kenya safari documentaries'
+- 'Get Kenya safari quote'
+- 'Finalize Kenya safari booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

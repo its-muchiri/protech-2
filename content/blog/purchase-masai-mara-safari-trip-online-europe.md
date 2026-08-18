@@ -1,14 +1,14 @@
 ---
 title: 'Purchase Masai Mara Safari Trip Online Europe: Complete Guide'
-description: Kenya safari guide covering purchase masai mara safari trip online europe, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase masai mara safari trip online europe, including what is included, pricing, and booking advice.'
 slug: purchase-masai-mara-safari-trip-online-europe
-primary_keyword: Purchase Masai Mara safari trip online Europe
+primary_keyword: 'Purchase Masai Mara safari trip online Europe'
 secondary_keywords:
-- Reliable Kenya budget safari operators Trustpilot Europe
-- Secure online booking platform Kenya safari USA trusted
-- Purchase private 4x4 vehicle Kenya wildlife safari UK custom quote needed
-- Reserve Kenya photographic tour private tuition pro guide UK specialist company booking
-- Reserve Nairobi city tour Giraffe Centre & Karen Blixen Museum plus safari package UK price
+- 'Reliable Kenya budget safari operators Trustpilot Europe'
+- 'Secure online booking platform Kenya safari USA trusted'
+- 'Purchase private 4x4 vehicle Kenya wildlife safari UK custom quote needed'
+- 'Reserve Kenya photographic tour private tuition pro guide UK specialist company booking'
+- 'Reserve Nairobi city tour Giraffe Centre & Karen Blixen Museum plus safari package UK price'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

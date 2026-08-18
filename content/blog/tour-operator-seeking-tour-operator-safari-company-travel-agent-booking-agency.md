@@ -1,14 +1,14 @@
 ---
 title: 'Tour Operator Seeking (Tour Operator, Safari Company, Travel Agent, Booking Agency): Complete Guide'
-description: Kenya safari guide covering tour operator seeking (tour operator, safari company, travel agent, booking agency), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering tour operator seeking (tour operator, safari company, travel agent, booking agency), including what is included, pricing, and booking advice.'
 slug: tour-operator-seeking-tour-operator-safari-company-travel-agent-booking-agency
-primary_keyword: Tour Operator Seeking (Tour operator, Safari company, Travel agent, Booking agency)
+primary_keyword: 'Tour Operator Seeking (Tour operator, Safari company, Travel agent, Booking agency)'
 secondary_keywords:
-- Book long Kenya safari package (10+ days)
-- Buy 10 day budget Kenya Tanzania camping safari booking
-- Masai Mara safari package cost estimate
-- Price quote 10 day Kenya Tanzania combined tour
-- Estimate 12 day luxury tented camp migration safari
+- 'Book long Kenya safari package (10+ days)'
+- 'Buy 10 day budget Kenya Tanzania camping safari booking'
+- 'Masai Mara safari package cost estimate'
+- 'Price quote 10 day Kenya Tanzania combined tour'
+- 'Estimate 12 day luxury tented camp migration safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

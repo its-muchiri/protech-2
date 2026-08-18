@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Guangzhou to Nairobi: Complete Guide'
-description: Everything you need to know about kq flight from guangzhou to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from guangzhou to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-guangzhou-to-nairobi
-primary_keyword: kq flight from guangzhou to nairobi
+primary_keyword: 'kq flight from guangzhou to nairobi'
 secondary_keywords:
-- nairobi to columbus oh flights
-- nairobi to kampala flights price
-- flights nairobi to riyadh
-- flights nairobi to sfo
-- flights nairobi to uk
+- 'nairobi to columbus oh flights'
+- 'nairobi to kampala flights price'
+- 'flights nairobi to riyadh'
+- 'flights nairobi to sfo'
+- 'flights nairobi to uk'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

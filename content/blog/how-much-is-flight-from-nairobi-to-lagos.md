@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is Flight from Nairobi to Lagos: Complete Guide'
-description: Everything you need to know about how much is flight from nairobi to lagos, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is flight from nairobi to lagos, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-flight-from-nairobi-to-lagos
-primary_keyword: how much is flight from nairobi to lagos
+primary_keyword: 'how much is flight from nairobi to lagos'
 secondary_keywords:
-- yvr to nairobi flights
-- 1 naira to kenya shillings
-- nairobi 88
-- emirates flights from south africa to usa prices
-- emirates flights from dubai to birmingham today
+- 'yvr to nairobi flights'
+- '1 naira to kenya shillings'
+- 'nairobi 88'
+- 'emirates flights from south africa to usa prices'
+- 'emirates flights from dubai to birmingham today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Johannesburg to Usa: Complete Guide'
-description: Everything you need to know about emirates flights from johannesburg to usa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from johannesburg to usa, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-johannesburg-to-usa
-primary_keyword: emirates flights from johannesburg to usa
+primary_keyword: 'emirates flights from johannesburg to usa'
 secondary_keywords:
-- cheap flights from msp to nairobi kenya
-- flight from kenya to ohio
-- flights from kenya to poland
-- flight from kenya to qatar price
-- flight from kenya to rwanda time
+- 'cheap flights from msp to nairobi kenya'
+- 'flight from kenya to ohio'
+- 'flights from kenya to poland'
+- 'flight from kenya to qatar price'
+- 'flight from kenya to rwanda time'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

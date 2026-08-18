@@ -1,14 +1,14 @@
 ---
 title: 'Book Sustainable Eco-tour Operator Kenya Package: Complete Guide'
-description: Kenya safari guide covering book sustainable eco-tour operator kenya package, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book sustainable eco-tour operator kenya package, including what is included, pricing, and booking advice.'
 slug: book-sustainable-eco-tour-operator-kenya-package
-primary_keyword: Book sustainable eco-tour operator Kenya package
+primary_keyword: 'Book sustainable eco-tour operator Kenya package'
 secondary_keywords:
-- Book rhino naming ceremony experience Kenya safari package USA conservation donation event
-- Purchase Kenya safari star gazing experience package USA dark sky locations lodges booking
-- Reserve Olorgesailie Prehistoric Site tour safari add-on Kenya Europe archaeology enthusiasts booking
-- See Kenya safari
-- Meru National Park safari
+- 'Book rhino naming ceremony experience Kenya safari package USA conservation donation event'
+- 'Purchase Kenya safari star gazing experience package USA dark sky locations lodges booking'
+- 'Reserve Olorgesailie Prehistoric Site tour safari add-on Kenya Europe archaeology enthusiasts booking'
+- 'See Kenya safari'
+- 'Meru National Park safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

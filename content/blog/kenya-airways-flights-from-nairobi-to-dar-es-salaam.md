@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights from Nairobi to Dar Es Salaam: Complete Guide'
-description: Everything you need to know about kenya airways flights from nairobi to dar es salaam, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights from nairobi to dar es salaam, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-from-nairobi-to-dar-es-salaam
-primary_keyword: kenya airways flights from nairobi to dar es salaam
+primary_keyword: 'kenya airways flights from nairobi to dar es salaam'
 secondary_keywords:
-- flights to mombasa kenya from zanzibar
-- are there flights from kisumu to eldoret
-- does emirates fly to kinshasa
-- flights from kisumu to jkia
-- flights to kisumu from london
+- 'flights to mombasa kenya from zanzibar'
+- 'are there flights from kisumu to eldoret'
+- 'does emirates fly to kinshasa'
+- 'flights from kisumu to jkia'
+- 'flights to kisumu from london'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

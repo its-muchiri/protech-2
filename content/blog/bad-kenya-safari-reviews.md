@@ -1,14 +1,14 @@
 ---
 title: 'Bad Kenya Safari Reviews: Complete Guide'
-description: Kenya safari guide covering bad kenya safari reviews, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering bad kenya safari reviews, including what is included, pricing, and booking advice.'
 slug: bad-kenya-safari-reviews
-primary_keyword: Bad Kenya safari reviews
+primary_keyword: 'Bad Kenya safari reviews'
 secondary_keywords:
-- Tour companies based in Mombasa Kenya South Coast departures
-- Reserve Kenya family safari package USA deals
-- Purchase last minute Kenya safari online Europe
-- Kenya safari and beach package cost USA Diani/Zanzibar
-- Kenya small group safari tours USA max 6 people
+- 'Tour companies based in Mombasa Kenya South Coast departures'
+- 'Reserve Kenya family safari package USA deals'
+- 'Purchase last minute Kenya safari online Europe'
+- 'Kenya safari and beach package cost USA Diani/Zanzibar'
+- 'Kenya small group safari tours USA max 6 people'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Weekend Trips from Kiambu Travel Agency: Complete Guide'
-description: Kenya safari guide covering weekend trips from kiambu travel agency, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering weekend trips from kiambu travel agency, including what is included, pricing, and booking advice.'
 slug: weekend-trips-from-kiambu-travel-agency
-primary_keyword: Weekend trips from Kiambu travel agency
+primary_keyword: 'Weekend trips from Kiambu travel agency'
 secondary_keywords:
-- Best Kenya safari package deals online
-- Book fly-in Kenya safari package all inclusive
-- Reserve Lake Nakuru package
-- Book 7 day luxury Masai Mara package
-- Cost of 15 day comprehensive Kenya safari package premium
+- 'Best Kenya safari package deals online'
+- 'Book fly-in Kenya safari package all inclusive'
+- 'Reserve Lake Nakuru package'
+- 'Book 7 day luxury Masai Mara package'
+- 'Cost of 15 day comprehensive Kenya safari package premium'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Malindi Flights from Nairobi: Complete Guide'
-description: Everything you need to know about malindi flights from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about malindi flights from nairobi, including routes, airlines, booking tips, and fares.'
 slug: malindi-flights-from-nairobi
-primary_keyword: malindi flights from nairobi
+primary_keyword: 'malindi flights from nairobi'
 secondary_keywords:
-- lufthansa flight from nairobi
-- madagascar flight from nairobi
-- one way flight from nairobi to dubai
-- price of flight from nairobi to kisumu
-- renegade flight from nairobi to kisumu
+- 'lufthansa flight from nairobi'
+- 'madagascar flight from nairobi'
+- 'one way flight from nairobi to dubai'
+- 'price of flight from nairobi to kisumu'
+- 'renegade flight from nairobi to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

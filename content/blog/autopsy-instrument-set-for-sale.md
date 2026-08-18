@@ -1,14 +1,14 @@
 ---
 title: 'Autopsy Instrument Set for Sale: 2026 Price Guide'
-description: Kenya buying guide to autopsy instrument set for sale. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to autopsy instrument set for sale. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: autopsy-instrument-set-for-sale
-primary_keyword: Autopsy instrument set for sale
+primary_keyword: 'Autopsy instrument set for sale'
 secondary_keywords:
-- hospital oxygen piping Kenya
-- multi-parameter patient monitor Kenya
-- newborn unit equipment Kenya
-- second hand medical equipment Kenya
-- remote patient monitoring devices Kenya
+- 'hospital oxygen piping Kenya'
+- 'multi-parameter patient monitor Kenya'
+- 'newborn unit equipment Kenya'
+- 'second hand medical equipment Kenya'
+- 'remote patient monitoring devices Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

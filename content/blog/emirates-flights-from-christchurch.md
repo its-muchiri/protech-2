@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Christchurch: Complete Guide'
-description: Everything you need to know about emirates flights from christchurch, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from christchurch, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-christchurch
-primary_keyword: emirates flights from christchurch
+primary_keyword: 'emirates flights from christchurch'
 secondary_keywords:
-- flights from ottawa to dubai emirates
-- emirates flights from cape town to dubai prices
-- fly emirates contact number
-- emirates flights from stansted
-- emirates flights from toronto to india
+- 'flights from ottawa to dubai emirates'
+- 'emirates flights from cape town to dubai prices'
+- 'fly emirates contact number'
+- 'emirates flights from stansted'
+- 'emirates flights from toronto to india'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

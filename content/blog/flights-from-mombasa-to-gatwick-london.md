@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Gatwick London: Complete Guide'
-description: Everything you need to know about flights from mombasa to gatwick london, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to gatwick london, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-gatwick-london
-primary_keyword: flights from mombasa to gatwick london
+primary_keyword: 'flights from mombasa to gatwick london'
 secondary_keywords:
-- how long is the flight from nairobi to london
-- flight from nairobi to vienna
-- what is the longest flight from nairobi
-- flight from nairobi to zurich
-- how much flight from nairobi to mombasa
+- 'how long is the flight from nairobi to london'
+- 'flight from nairobi to vienna'
+- 'what is the longest flight from nairobi'
+- 'flight from nairobi to zurich'
+- 'how much flight from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

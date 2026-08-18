@@ -1,14 +1,14 @@
 ---
 title: 'Cost of 4 Day Masai Mara Express Tour: Complete Guide'
-description: Kenya safari guide covering cost of 4 day masai mara express tour, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering cost of 4 day masai mara express tour, including what is included, pricing, and booking advice.'
 slug: cost-of-4-day-masai-mara-express-tour
-primary_keyword: Cost of 4 day Masai Mara express tour
+primary_keyword: 'Cost of 4 day Masai Mara express tour'
 secondary_keywords:
-- Buy 8 day Kenya discovery package online
-- Book small group Kenya safari reservation
-- Kenya safari package quote request
-- Aberdares treetop lodge package rates
-- Fly-in Kenya safari package price quote
+- 'Buy 8 day Kenya discovery package online'
+- 'Book small group Kenya safari reservation'
+- 'Kenya safari package quote request'
+- 'Aberdares treetop lodge package rates'
+- 'Fly-in Kenya safari package price quote'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

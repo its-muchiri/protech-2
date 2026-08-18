@@ -1,14 +1,14 @@
 ---
 title: 'Cost of an MRI Machine for a Diagnostic Center in Eldoret: 2026 Price Guide'
-description: Kenya buying guide to cost of an mri machine for a diagnostic center in eldoret. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to cost of an mri machine for a diagnostic center in eldoret. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: cost-of-an-mri-machine-for-a-diagnostic-center-in-eldoret
-primary_keyword: Cost of an MRI machine for a diagnostic center in Eldoret
+primary_keyword: 'Cost of an MRI machine for a diagnostic center in Eldoret'
 secondary_keywords:
-- Hospital furniture tenders in Kenya 2026
-- Forensic lab equipment suppliers
-- oxygen concentrator servicing in Thika
-- pathology grossing station price
-- sports medicine supplies for teams
+- 'Hospital furniture tenders in Kenya 2026'
+- 'Forensic lab equipment suppliers'
+- 'oxygen concentrator servicing in Thika'
+- 'pathology grossing station price'
+- 'sports medicine supplies for teams'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

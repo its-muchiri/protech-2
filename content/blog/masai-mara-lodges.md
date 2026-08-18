@@ -1,14 +1,14 @@
 ---
 title: 'Masai Mara Lodges: Complete Guide'
-description: Kenya safari guide covering masai mara lodges, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering masai mara lodges, including what is included, pricing, and booking advice.'
 slug: masai-mara-lodges
-primary_keyword: Masai Mara lodges
+primary_keyword: 'Masai Mara lodges'
 secondary_keywords:
-- Reliable Kenya travel agencies near Thika
-- Private tour companies Kenya custom itineraries
-- Visit Mzima Springs Tsavo West tour package
-- Lake Naivasha boat ride hippo tour price
-- Accessible safari Kenya wheelchair friendly lodges / vehicles
+- 'Reliable Kenya travel agencies near Thika'
+- 'Private tour companies Kenya custom itineraries'
+- 'Visit Mzima Springs Tsavo West tour package'
+- 'Lake Naivasha boat ride hippo tour price'
+- 'Accessible safari Kenya wheelchair friendly lodges / vehicles'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

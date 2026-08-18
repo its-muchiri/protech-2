@@ -1,14 +1,14 @@
 ---
 title: 'Specific Locations (Masai Mara, Amboseli, Tsavo, Samburu, Nakuru, Laikipia, Etc.): Complete Guide'
-description: Kenya safari guide covering specific locations (masai mara, amboseli, tsavo, samburu, nakuru, laikipia, etc.), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering specific locations (masai mara, amboseli, tsavo, samburu, nakuru, laikipia, etc.), including what is included, pricing, and booking advice.'
 slug: specific-locations-masai-mara-amboseli-tsavo-samburu-nakuru-laikipia-etc
-primary_keyword: Specific Locations (Masai Mara, Amboseli, Tsavo, Samburu, Nakuru, Laikipia, etc.)
+primary_keyword: 'Specific Locations (Masai Mara, Amboseli, Tsavo, Samburu, Nakuru, Laikipia, etc.)'
 secondary_keywords:
-- Wild dog safari Kenya (rare)
-- Kenya safari from USA
-- Kenya safari in March
-- Kenya safari companies
-- Kenya safari specialist
+- 'Wild dog safari Kenya (rare)'
+- 'Kenya safari from USA'
+- 'Kenya safari in March'
+- 'Kenya safari companies'
+- 'Kenya safari specialist'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

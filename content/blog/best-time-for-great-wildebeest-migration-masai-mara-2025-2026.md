@@ -1,14 +1,14 @@
 ---
 title: 'Best Time for Great Wildebeest Migration Masai Mara 2025/2026: Complete Guide'
-description: Kenya safari guide covering best time for great wildebeest migration masai mara 2025/2026, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering best time for great wildebeest migration masai mara 2025/2026, including what is included, pricing, and booking advice.'
 slug: best-time-for-great-wildebeest-migration-masai-mara-2025-2026
-primary_keyword: Best time for Great Wildebeest Migration Masai Mara 2025/2026
+primary_keyword: 'Best time for Great Wildebeest Migration Masai Mara 2025/2026'
 secondary_keywords:
-- Book Kenya safari with
-- Secure package with hot air balloon Masai Mara booking
-- Quote for accessible wheelchair friendly Kenya safari package
-- Book peak season Kenya safari package availability check
-- Reserve 9 day custom accessible Laikipia conservancy safari package quote
+- 'Book Kenya safari with'
+- 'Secure package with hot air balloon Masai Mara booking'
+- 'Quote for accessible wheelchair friendly Kenya safari package'
+- 'Book peak season Kenya safari package availability check'
+- 'Reserve 9 day custom accessible Laikipia conservancy safari package quote'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

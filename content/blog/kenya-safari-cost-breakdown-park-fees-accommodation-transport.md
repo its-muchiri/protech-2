@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Cost Breakdown (park Fees, Accommodation, Transport): Complete Guide'
-description: Kenya safari guide covering kenya safari cost breakdown (park fees, accommodation, transport), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari cost breakdown (park fees, accommodation, transport), including what is included, pricing, and booking advice.'
 slug: kenya-safari-cost-breakdown-park-fees-accommodation-transport
-primary_keyword: Kenya safari cost breakdown (park fees, accommodation, transport)
+primary_keyword: 'Kenya safari cost breakdown (park fees, accommodation, transport)'
 secondary_keywords:
-- Kenya mobile camping safari purchase USA luxury private
-- Book safari Ol Pejeta Conservancy online Europe chimpanzee sanctuary
-- Affordable Kenya safari tours from France (Frankreich) prix
-- Fly direct from USA to Kenya safari booking 2025
-- Kenya inbound tour operators list purchase contact
+- 'Kenya mobile camping safari purchase USA luxury private'
+- 'Book safari Ol Pejeta Conservancy online Europe chimpanzee sanctuary'
+- 'Affordable Kenya safari tours from France (Frankreich) prix'
+- 'Fly direct from USA to Kenya safari booking 2025'
+- 'Kenya inbound tour operators list purchase contact'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: '2 Day Tsavo East Safari from Mombasa Company: Complete Guide'
-description: Kenya safari guide covering 2 day tsavo east safari from mombasa company, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering 2 day tsavo east safari from mombasa company, including what is included, pricing, and booking advice.'
 slug: 2-day-tsavo-east-safari-from-mombasa-company
-primary_keyword: 2 day Tsavo East safari from Mombasa company
+primary_keyword: '2 day Tsavo East safari from Mombasa company'
 secondary_keywords:
-- Malaria prevention Kenya safari medication / precautions
-- Negative reviews Kenya tour companies common complaints
-- Tour companies based in Mombasa Kenya South Coast departures
-- Reserve Kenya family safari package USA deals
-- Purchase last minute Kenya safari online Europe
+- 'Malaria prevention Kenya safari medication / precautions'
+- 'Negative reviews Kenya tour companies common complaints'
+- 'Tour companies based in Mombasa Kenya South Coast departures'
+- 'Reserve Kenya family safari package USA deals'
+- 'Purchase last minute Kenya safari online Europe'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

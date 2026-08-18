@@ -1,14 +1,14 @@
 ---
 title: 'A Flight from Nairobi to Kisumu: Complete Guide'
-description: Everything you need to know about a flight from nairobi to kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about a flight from nairobi to kisumu, including routes, airlines, booking tips, and fares.'
 slug: a-flight-from-nairobi-to-kisumu
-primary_keyword: a flight from nairobi to kisumu
+primary_keyword: 'a flight from nairobi to kisumu'
 secondary_keywords:
-- flights from lodwar to kisumu
-- flights from nairobi to kisumu prices
-- how much is a flight from kisumu to nairobi
-- does kenya airways fly to eldoret
-- flight from eldoret to kakuma
+- 'flights from lodwar to kisumu'
+- 'flights from nairobi to kisumu prices'
+- 'how much is a flight from kisumu to nairobi'
+- 'does kenya airways fly to eldoret'
+- 'flight from eldoret to kakuma'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

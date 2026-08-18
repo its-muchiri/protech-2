@@ -1,14 +1,14 @@
 ---
 title: 'Garissa Flights from Nairobi: Complete Guide'
-description: Everything you need to know about garissa flights from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about garissa flights from nairobi, including routes, airlines, booking tips, and fares.'
 slug: garissa-flights-from-nairobi
-primary_keyword: garissa flights from nairobi
+primary_keyword: 'garissa flights from nairobi'
 secondary_keywords:
-- kenya airways check in time for domestic flights
-- flights to kenya from south africa
-- how many types of flights in kenya
-- klm in kenya
-- flight in nairobi kenya
+- 'kenya airways check in time for domestic flights'
+- 'flights to kenya from south africa'
+- 'how many types of flights in kenya'
+- 'klm in kenya'
+- 'flight in nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

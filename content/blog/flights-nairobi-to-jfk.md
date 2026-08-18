@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Jfk: Complete Guide'
-description: Everything you need to know about flights nairobi to jfk, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to jfk, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-jfk
-primary_keyword: flights nairobi to jfk
+primary_keyword: 'flights nairobi to jfk'
 secondary_keywords:
-- flights from kisumu to lamu
-- flight from eldoret to kisumu price
-- flights to kisumu from mombasa
-- flights from eldoret to diani
-- flights to eldoret from jkia
+- 'flights from kisumu to lamu'
+- 'flight from eldoret to kisumu price'
+- 'flights to kisumu from mombasa'
+- 'flights from eldoret to diani'
+- 'flights to eldoret from jkia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Payment Terms Deposit / Balance Due Date: Complete Guide'
-description: Kenya safari guide covering kenya safari payment terms deposit / balance due date, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari payment terms deposit / balance due date, including what is included, pricing, and booking advice.'
 slug: kenya-safari-payment-terms-deposit-balance-due-date
-primary_keyword: Kenya safari payment terms deposit / balance due date
+primary_keyword: 'Kenya safari payment terms deposit / balance due date'
 secondary_keywords:
-- Tsavo budget camping safari package buy
-- Angama Mara safari package cost
-- Romantic Kenya safari package deals
-- Discounted Kenya safari tours purchase
-- Kenya Zanzibar beach safari package deal
+- 'Tsavo budget camping safari package buy'
+- 'Angama Mara safari package cost'
+- 'Romantic Kenya safari package deals'
+- 'Discounted Kenya safari tours purchase'
+- 'Kenya Zanzibar beach safari package deal'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

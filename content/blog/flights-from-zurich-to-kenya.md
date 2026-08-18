@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Zurich to Kenya: Complete Guide'
-description: Everything you need to know about flights from zurich to kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from zurich to kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-zurich-to-kenya
-primary_keyword: flights from zurich to kenya
+primary_keyword: 'flights from zurich to kenya'
 secondary_keywords:
-- flights from kenya to pakistan
-- flights from kenya to qatar
-- flight from kenya to riyadh
-- flights from kenya to spain
-- flights from kenya to us
+- 'flights from kenya to pakistan'
+- 'flights from kenya to qatar'
+- 'flight from kenya to riyadh'
+- 'flights from kenya to spain'
+- 'flights from kenya to us'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights to Kenya from Perth: Complete Guide'
-description: Everything you need to know about cheap flights to kenya from perth, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights to kenya from perth, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-to-kenya-from-perth
-primary_keyword: cheap flights to kenya from perth
+primary_keyword: 'cheap flights to kenya from perth'
 secondary_keywords:
-- flights from nairobi to oman
-- flights from nairobi to philippines
-- qatar flight from nairobi to doha
-- flights from riyadh to nairobi
-- skyward flights from nairobi to mombasa
+- 'flights from nairobi to oman'
+- 'flights from nairobi to philippines'
+- 'qatar flight from nairobi to doha'
+- 'flights from riyadh to nairobi'
+- 'skyward flights from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

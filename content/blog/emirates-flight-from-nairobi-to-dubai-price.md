@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight from Nairobi to Dubai Price: Complete Guide'
-description: Everything you need to know about emirates flight from nairobi to dubai price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight from nairobi to dubai price, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-from-nairobi-to-dubai-price
-primary_keyword: emirates flight from nairobi to dubai price
+primary_keyword: 'emirates flight from nairobi to dubai price'
 secondary_keywords:
-- kq flight from nairobi to accra
-- kq direct flight from nairobi to new york time
-- how much is kq flight from nairobi to new york
-- kenya airways flight from nairobi to london today timetable
-- kq flight from dubai to nairobi today ticket price
+- 'kq flight from nairobi to accra'
+- 'kq direct flight from nairobi to new york time'
+- 'how much is kq flight from nairobi to new york'
+- 'kenya airways flight from nairobi to london today timetable'
+- 'kq flight from dubai to nairobi today ticket price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

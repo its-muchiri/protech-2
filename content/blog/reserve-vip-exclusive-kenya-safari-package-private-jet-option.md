@@ -1,14 +1,14 @@
 ---
 title: 'Reserve VIP Exclusive Kenya Safari Package Private Jet Option: Complete Guide'
-description: Kenya safari guide covering reserve vip exclusive kenya safari package private jet option, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve vip exclusive kenya safari package private jet option, including what is included, pricing, and booking advice.'
 slug: reserve-vip-exclusive-kenya-safari-package-private-jet-option
-primary_keyword: Reserve VIP exclusive Kenya safari package private jet option
+primary_keyword: 'Reserve VIP exclusive Kenya safari package private jet option'
 secondary_keywords:
-- Check Kenya eVisa requirements for European Union citizens booking safari online
-- Find LGBTQ+ welcoming Kenya safari tour operator USA safe travel recommendations reviews
-- Book Amboseli cultural manyatta stay safari package Europe immersive experience booking
-- Buy Kenya safari app guide download purchase recommendations offline maps features
-- Kenya adventure safari
+- 'Check Kenya eVisa requirements for European Union citizens booking safari online'
+- 'Find LGBTQ+ welcoming Kenya safari tour operator USA safe travel recommendations reviews'
+- 'Book Amboseli cultural manyatta stay safari package Europe immersive experience booking'
+- 'Buy Kenya safari app guide download purchase recommendations offline maps features'
+- 'Kenya adventure safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

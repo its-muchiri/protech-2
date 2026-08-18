@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kozhikode to Dubai United Arab Emirates: Complete Guide'
-description: Everything you need to know about flights from kozhikode to dubai united arab emirates, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kozhikode to dubai united arab emirates, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kozhikode-to-dubai-united-arab-emirates
-primary_keyword: flights from kozhikode to dubai united arab emirates
+primary_keyword: 'flights from kozhikode to dubai united arab emirates'
 secondary_keywords:
-- flights to mombasa from birmingham
-- flight from mombasa to canada
-- flights from mombasa to dar
-- flights from mombasa to frankfurt
-- flights from mombasa to heathrow
+- 'flights to mombasa from birmingham'
+- 'flight from mombasa to canada'
+- 'flights from mombasa to dar'
+- 'flights from mombasa to frankfurt'
+- 'flights from mombasa to heathrow'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Cost of Flight from Nairobi to South Africa: Complete Guide'
-description: Everything you need to know about cost of flight from nairobi to south africa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cost of flight from nairobi to south africa, including routes, airlines, booking tips, and fares.'
 slug: cost-of-flight-from-nairobi-to-south-africa
-primary_keyword: cost of flight from nairobi to south africa
+primary_keyword: 'cost of flight from nairobi to south africa'
 secondary_keywords:
-- qatar airways from nairobi to doha
-- does turkish airlines fly to dubai
-- flight booking in kenya
-- flight ticket from kenya to india
-- flight booking to mombasa
+- 'qatar airways from nairobi to doha'
+- 'does turkish airlines fly to dubai'
+- 'flight booking in kenya'
+- 'flight ticket from kenya to india'
+- 'flight booking to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Book Kq Flights: Complete Guide'
-description: Everything you need to know about book kq flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about book kq flights, including routes, airlines, booking tips, and fares.'
 slug: book-kq-flights
-primary_keyword: book kq flights
+primary_keyword: 'book kq flights'
 secondary_keywords:
-- emirates flights to australia from glasgow
-- how many emirates flights from glasgow
-- emirates flights to india from dubai
-- emirates flights from kochi to dubai
-- emirates flights from lusaka to harare
+- 'emirates flights to australia from glasgow'
+- 'how many emirates flights from glasgow'
+- 'emirates flights to india from dubai'
+- 'emirates flights from kochi to dubai'
+- 'emirates flights from lusaka to harare'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

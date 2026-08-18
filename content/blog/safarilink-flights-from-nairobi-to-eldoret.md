@@ -1,14 +1,14 @@
 ---
 title: 'Safarilink Flights from Nairobi to Eldoret: Complete Guide'
-description: Everything you need to know about safarilink flights from nairobi to eldoret, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about safarilink flights from nairobi to eldoret, including routes, airlines, booking tips, and fares.'
 slug: safarilink-flights-from-nairobi-to-eldoret
-primary_keyword: safarilink flights from nairobi to eldoret
+primary_keyword: 'safarilink flights from nairobi to eldoret'
 secondary_keywords:
-- ethiopian airlines nairobi reviews
-- flights nairobi to johannesburg
-- flights from saudi arabia to nairobi
-- ba flights nairobi to london today
-- cheap flights nairobi to dubai
+- 'ethiopian airlines nairobi reviews'
+- 'flights nairobi to johannesburg'
+- 'flights from saudi arabia to nairobi'
+- 'ba flights nairobi to london today'
+- 'cheap flights nairobi to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

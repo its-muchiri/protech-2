@@ -1,14 +1,14 @@
 ---
 title: 'Compare Prices Mount Kenya Sirimon Route Climb Operators: Complete Guide'
-description: Kenya safari guide covering compare prices mount kenya sirimon route climb operators, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering compare prices mount kenya sirimon route climb operators, including what is included, pricing, and booking advice.'
 slug: compare-prices-mount-kenya-sirimon-route-climb-operators
-primary_keyword: Compare prices Mount Kenya Sirimon route climb operators
+primary_keyword: 'Compare prices Mount Kenya Sirimon route climb operators'
 secondary_keywords:
-- Purchase private Kenya safari package
-- Reserve Chyulu Hills exclusive safari booking
-- Book one week Kenya wildlife tour reservation
-- Purchase private guided Kenya safari booking
-- Secure 9 day custom Laikipia family adventure purchase
+- 'Purchase private Kenya safari package'
+- 'Reserve Chyulu Hills exclusive safari booking'
+- 'Book one week Kenya wildlife tour reservation'
+- 'Purchase private guided Kenya safari booking'
+- 'Secure 9 day custom Laikipia family adventure purchase'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

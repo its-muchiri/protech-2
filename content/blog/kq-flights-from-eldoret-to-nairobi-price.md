@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from Eldoret to Nairobi Price: Complete Guide'
-description: Everything you need to know about kq flights from eldoret to nairobi price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from eldoret to nairobi price, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-eldoret-to-nairobi-price
-primary_keyword: kq flights from eldoret to nairobi price
+primary_keyword: 'kq flights from eldoret to nairobi price'
 secondary_keywords:
-- emirates flight from kenya to dubai price
-- how much is the flight from kenya to dubai
-- emirates kenya safari
-- ethiopian flight from nairobi
-- nairobi to ethiopia flight time
+- 'emirates flight from kenya to dubai price'
+- 'how much is the flight from kenya to dubai'
+- 'emirates kenya safari'
+- 'ethiopian flight from nairobi'
+- 'nairobi to ethiopia flight time'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

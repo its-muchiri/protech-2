@@ -1,14 +1,14 @@
 ---
 title: 'Kq Travel Requirements: Complete Guide'
-description: Everything you need to know about kq travel requirements, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq travel requirements, including routes, airlines, booking tips, and fares.'
 slug: kq-travel-requirements
-primary_keyword: kq travel requirements
+primary_keyword: 'kq travel requirements'
 secondary_keywords:
-- flight from nairobi to spain
-- flight from nairobi to uganda
-- flight from nairobi to vietnam
-- flight time from wajir to nairobi
-- flight zagreb nairobi
+- 'flight from nairobi to spain'
+- 'flight from nairobi to uganda'
+- 'flight from nairobi to vietnam'
+- 'flight time from wajir to nairobi'
+- 'flight zagreb nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

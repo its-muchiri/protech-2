@@ -1,14 +1,14 @@
 ---
 title: 'Fume Hood for Laboratory Price in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to fume hood for laboratory price in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to fume hood for laboratory price in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: fume-hood-for-laboratory-price-in-nairobi
-primary_keyword: Fume hood for laboratory price in Nairobi
+primary_keyword: 'Fume hood for laboratory price in Nairobi'
 secondary_keywords:
-- Double jar suction unit for sale
-- 5-function electric ICU bed cost in Mombasa
-- Folding stretcher price
-- Baby cot and bassinet for hospital use
-- Stress test ECG system price
+- 'Double jar suction unit for sale'
+- '5-function electric ICU bed cost in Mombasa'
+- 'Folding stretcher price'
+- 'Baby cot and bassinet for hospital use'
+- 'Stress test ECG system price'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

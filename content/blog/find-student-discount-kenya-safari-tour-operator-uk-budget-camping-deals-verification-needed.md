@@ -1,14 +1,14 @@
 ---
 title: 'Find Student Discount Kenya Safari Tour Operator UK Budget Camping Deals Verification Needed: Complete Guide'
-description: Kenya safari guide covering find student discount kenya safari tour operator uk budget camping deals verification needed, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering find student discount kenya safari tour operator uk budget camping deals verification needed, including what is included, pricing, and booking advice.'
 slug: find-student-discount-kenya-safari-tour-operator-uk-budget-camping-deals-verification-needed
-primary_keyword: Find student discount Kenya safari tour operator UK budget camping deals verification needed
+primary_keyword: 'Find student discount Kenya safari tour operator UK budget camping deals verification needed'
 secondary_keywords:
-- UK travel advice Kenya safari booking safe operators
-- Top rated Kenya safari specialists UK experts
-- Reserve Kenya safari Easter 2026 UK family package availability
-- Luxury all-inclusive Kenya safari reviews Forbes Travel Guide
-- Reserve private Samburu & Laikipia safari tour online UK quote
+- 'UK travel advice Kenya safari booking safe operators'
+- 'Top rated Kenya safari specialists UK experts'
+- 'Reserve Kenya safari Easter 2026 UK family package availability'
+- 'Luxury all-inclusive Kenya safari reviews Forbes Travel Guide'
+- 'Reserve private Samburu & Laikipia safari tour online UK quote'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

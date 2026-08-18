@@ -1,14 +1,14 @@
 ---
 title: 'Flight Time from Nairobi to Ghana: Complete Guide'
-description: Everything you need to know about flight time from nairobi to ghana, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight time from nairobi to ghana, including routes, airlines, booking tips, and fares.'
 slug: flight-time-from-nairobi-to-ghana
-primary_keyword: flight time from nairobi to ghana
+primary_keyword: 'flight time from nairobi to ghana'
 secondary_keywords:
-- flights from nairobi to japan
-- kq flights from nairobi to china
-- lufthansa flights from nairobi
-- masai mara flights from nairobi
-- flights to nigeria from nairobi
+- 'flights from nairobi to japan'
+- 'kq flights from nairobi to china'
+- 'lufthansa flights from nairobi'
+- 'masai mara flights from nairobi'
+- 'flights to nigeria from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

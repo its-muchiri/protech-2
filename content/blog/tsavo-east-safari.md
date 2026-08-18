@@ -1,14 +1,14 @@
 ---
 title: 'Tsavo East Safari: Complete Guide'
-description: Kenya safari guide covering tsavo east safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering tsavo east safari, including what is included, pricing, and booking advice.'
 slug: tsavo-east-safari
-primary_keyword: Tsavo East safari
+primary_keyword: 'Tsavo East safari'
 secondary_keywords:
-- Sustainable eco lodge safari Meru National Park
-- Unethical Kenya safari operators
-- Safari au Kenya prix (French)
-- Souvenirs Kenya safari
-- Reserve Kenya safari holiday
+- 'Sustainable eco lodge safari Meru National Park'
+- 'Unethical Kenya safari operators'
+- 'Safari au Kenya prix (French)'
+- 'Souvenirs Kenya safari'
+- 'Reserve Kenya safari holiday'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

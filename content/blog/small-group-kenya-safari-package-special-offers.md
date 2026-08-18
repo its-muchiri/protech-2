@@ -1,14 +1,14 @@
 ---
 title: 'Small Group Kenya Safari Package Special Offers: Complete Guide'
-description: Kenya safari guide covering small group kenya safari package special offers, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering small group kenya safari package special offers, including what is included, pricing, and booking advice.'
 slug: small-group-kenya-safari-package-special-offers
-primary_keyword: Small group Kenya safari package special offers
+primary_keyword: 'Small group Kenya safari package special offers'
 secondary_keywords:
-- Safari company specializing in big cat sightings Kenya
-- Secure all-inclusive Kenya safari package
-- Buy Olare Motorogi Conservancy safari reservation
-- Purchase 12 day East Africa highlights booking
-- Secure fly-in Kenya safari package purchase
+- 'Safari company specializing in big cat sightings Kenya'
+- 'Secure all-inclusive Kenya safari package'
+- 'Buy Olare Motorogi Conservancy safari reservation'
+- 'Purchase 12 day East Africa highlights booking'
+- 'Secure fly-in Kenya safari package purchase'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

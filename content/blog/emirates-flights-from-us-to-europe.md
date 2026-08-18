@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Us to Europe: Complete Guide'
-description: Everything you need to know about emirates flights from us to europe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from us to europe, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-us-to-europe
-primary_keyword: emirates flights from us to europe
+primary_keyword: 'emirates flights from us to europe'
 secondary_keywords:
-- flights to kenya emirates
-- flights to kenya google
-- flights to kenya in july
-- flights to kenya in may
-- flights to kenya one way
+- 'flights to kenya emirates'
+- 'flights to kenya google'
+- 'flights to kenya in july'
+- 'flights to kenya in may'
+- 'flights to kenya one way'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

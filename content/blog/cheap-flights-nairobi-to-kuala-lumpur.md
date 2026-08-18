@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights Nairobi to Kuala Lumpur: Complete Guide'
-description: Everything you need to know about cheap flights nairobi to kuala lumpur, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights nairobi to kuala lumpur, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-nairobi-to-kuala-lumpur
-primary_keyword: cheap flights nairobi to kuala lumpur
+primary_keyword: 'cheap flights nairobi to kuala lumpur'
 secondary_keywords:
-- flight from nairobi to kisumu
-- air india flight from nairobi to delhi price
-- flight from nairobi to belgium
-- flight from nairobi to chicago
-- flight from nairobi to delhi
+- 'flight from nairobi to kisumu'
+- 'air india flight from nairobi to delhi price'
+- 'flight from nairobi to belgium'
+- 'flight from nairobi to chicago'
+- 'flight from nairobi to delhi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

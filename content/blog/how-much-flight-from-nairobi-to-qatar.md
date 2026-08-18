@@ -1,14 +1,14 @@
 ---
 title: 'How Much Flight from Nairobi to Qatar: Complete Guide'
-description: Everything you need to know about how much flight from nairobi to qatar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much flight from nairobi to qatar, including routes, airlines, booking tips, and fares.'
 slug: how-much-flight-from-nairobi-to-qatar
-primary_keyword: how much flight from nairobi to qatar
+primary_keyword: 'how much flight from nairobi to qatar'
 secondary_keywords:
-- emirates flight 1
-- when will emirates resume flights to bali from auckland 2023
-- emirates flights to dubai from heathrow terminal 3
-- emirates flight 521
-- emirates flight 653
+- 'emirates flight 1'
+- 'when will emirates resume flights to bali from auckland 2023'
+- 'emirates flights to dubai from heathrow terminal 3'
+- 'emirates flight 521'
+- 'emirates flight 653'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

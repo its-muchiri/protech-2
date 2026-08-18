@@ -1,14 +1,14 @@
 ---
 title: 'Safari Company Specializing in Big Cat Sightings Kenya: Complete Guide'
-description: Kenya safari guide covering safari company specializing in big cat sightings kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering safari company specializing in big cat sightings kenya, including what is included, pricing, and booking advice.'
 slug: safari-company-specializing-in-big-cat-sightings-kenya
-primary_keyword: Safari company specializing in big cat sightings Kenya
+primary_keyword: 'Safari company specializing in big cat sightings Kenya'
 secondary_keywords:
-- Bad Kenya safari reviews
-- Aardvark safari Kenya (very difficult sighting)
-- Kenya domestic flights safari
-- Packing cubes for Kenya safari
-- Quote for private Kenya safari
+- 'Bad Kenya safari reviews'
+- 'Aardvark safari Kenya (very difficult sighting)'
+- 'Kenya domestic flights safari'
+- 'Packing cubes for Kenya safari'
+- 'Quote for private Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

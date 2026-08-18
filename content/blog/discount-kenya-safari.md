@@ -1,14 +1,14 @@
 ---
 title: 'Discount Kenya Safari: Complete Guide'
-description: Kenya safari guide covering discount kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering discount kenya safari, including what is included, pricing, and booking advice.'
 slug: discount-kenya-safari
-primary_keyword: Discount Kenya safari
+primary_keyword: 'Discount Kenya safari'
 secondary_keywords:
-- Book Masai Mara conservancy safari package
-- Luxury fly-in Kenya safari quote
-- Child friendly safari lodge package Kenya booking
-- Budget Kenya safari package book
-- Compare budget Kenya safari packages price
+- 'Book Masai Mara conservancy safari package'
+- 'Luxury fly-in Kenya safari quote'
+- 'Child friendly safari lodge package Kenya booking'
+- 'Budget Kenya safari package book'
+- 'Compare budget Kenya safari packages price'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Lusaka: Complete Guide'
-description: Everything you need to know about kq flights to lusaka, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to lusaka, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-lusaka
-primary_keyword: kq flights to lusaka
+primary_keyword: 'kq flights to lusaka'
 secondary_keywords:
-- kq flight 4
-- kq 586 flight status
-- kq 887 flight status
-- emirates dubai to nairobi flight status
-- emirates flights to nairobi kenya
+- 'kq flight 4'
+- 'kq 586 flight status'
+- 'kq 887 flight status'
+- 'emirates dubai to nairobi flight status'
+- 'emirates flights to nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

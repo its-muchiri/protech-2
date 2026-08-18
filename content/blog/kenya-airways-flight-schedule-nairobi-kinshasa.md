@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight Schedule Nairobi Kinshasa: Complete Guide'
-description: Everything you need to know about kenya airways flight schedule nairobi kinshasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight schedule nairobi kinshasa, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-schedule-nairobi-kinshasa
-primary_keyword: kenya airways flight schedule nairobi kinshasa
+primary_keyword: 'kenya airways flight schedule nairobi kinshasa'
 secondary_keywords:
-- google flights nairobi to zanzibar
-- nairobi to homa bay flights
-- flights nairobi to jro
-- flights nairobi to kilimanjaro
-- flights nairobi to lewa
+- 'google flights nairobi to zanzibar'
+- 'nairobi to homa bay flights'
+- 'flights nairobi to jro'
+- 'flights nairobi to kilimanjaro'
+- 'flights nairobi to lewa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

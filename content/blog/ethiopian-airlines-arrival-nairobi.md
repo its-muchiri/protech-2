@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Arrival Nairobi: Complete Guide'
-description: Everything you need to know about ethiopian airlines arrival nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines arrival nairobi, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-arrival-nairobi
-primary_keyword: ethiopian airlines arrival nairobi
+primary_keyword: 'ethiopian airlines arrival nairobi'
 secondary_keywords:
-- holidays in kenya 2023
-- flight from kenya to america
-- flights from kenya to barcelona
-- flights from kenya to colombia
-- flights from kenya to dallas
+- 'holidays in kenya 2023'
+- 'flight from kenya to america'
+- 'flights from kenya to barcelona'
+- 'flights from kenya to colombia'
+- 'flights from kenya to dallas'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

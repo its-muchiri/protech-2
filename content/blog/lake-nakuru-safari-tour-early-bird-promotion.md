@@ -1,14 +1,14 @@
 ---
 title: 'Lake Nakuru Safari Tour Early Bird Promotion: Complete Guide'
-description: Kenya safari guide covering lake nakuru safari tour early bird promotion, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering lake nakuru safari tour early bird promotion, including what is included, pricing, and booking advice.'
 slug: lake-nakuru-safari-tour-early-bird-promotion
-primary_keyword: Lake Nakuru safari tour early bird promotion
+primary_keyword: 'Lake Nakuru safari tour early bird promotion'
 secondary_keywords:
-- Lamu Island cultural tour operators
-- Kenya driving safari 4x4 Land Cruiser companies
-- Masai Mara balloon safari booking companies
-- Cycling safari companies Kenya
-- Single day excursions from Thika tour company
+- 'Lamu Island cultural tour operators'
+- 'Kenya driving safari 4x4 Land Cruiser companies'
+- 'Masai Mara balloon safari booking companies'
+- 'Cycling safari companies Kenya'
+- 'Single day excursions from Thika tour company'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

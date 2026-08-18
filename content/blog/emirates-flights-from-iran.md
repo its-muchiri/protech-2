@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Iran: Complete Guide'
-description: Everything you need to know about emirates flights from iran, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from iran, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-iran
-primary_keyword: emirates flights from iran
+primary_keyword: 'emirates flights from iran'
 secondary_keywords:
-- kq flight from new york to nairobi
-- kq flight from nairobi to london
-- kenya airways flight from nairobi to dar es salaam
-- kenya airways flight from nairobi to heathrow
-- kenya airways flight from nairobi to london today
+- 'kq flight from new york to nairobi'
+- 'kq flight from nairobi to london'
+- 'kenya airways flight from nairobi to dar es salaam'
+- 'kenya airways flight from nairobi to heathrow'
+- 'kenya airways flight from nairobi to london today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

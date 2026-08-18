@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Customer Service Nairobi: Complete Guide'
-description: Everything you need to know about turkish airlines customer service nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines customer service nairobi, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-customer-service-nairobi
-primary_keyword: turkish airlines customer service nairobi
+primary_keyword: 'turkish airlines customer service nairobi'
 secondary_keywords:
-- qatar airways from nairobi to dubai
-- qatar airways recruitment nairobi kenya
-- qatar airways nairobi project
-- kenya airways flights from accra to freetown
-- kq flight from dubai to nairobi today timetable
+- 'qatar airways from nairobi to dubai'
+- 'qatar airways recruitment nairobi kenya'
+- 'qatar airways nairobi project'
+- 'kenya airways flights from accra to freetown'
+- 'kq flight from dubai to nairobi today timetable'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

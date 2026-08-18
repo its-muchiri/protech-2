@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi to Tanzania Flights: Complete Guide'
-description: Everything you need to know about nairobi to tanzania flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about nairobi to tanzania flights, including routes, airlines, booking tips, and fares.'
 slug: nairobi-to-tanzania-flights
-primary_keyword: nairobi to tanzania flights
+primary_keyword: 'nairobi to tanzania flights'
 secondary_keywords:
-- flights nairobi to phuket
-- flights to qatar from nairobi
-- round trip flights to nairobi kenya
-- flights nairobi to tanzania
-- flights nairobi to victoria falls
+- 'flights nairobi to phuket'
+- 'flights to qatar from nairobi'
+- 'round trip flights to nairobi kenya'
+- 'flights nairobi to tanzania'
+- 'flights nairobi to victoria falls'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

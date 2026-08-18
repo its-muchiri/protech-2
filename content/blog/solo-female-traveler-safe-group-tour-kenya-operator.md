@@ -1,14 +1,14 @@
 ---
 title: 'Solo Female Traveler Safe Group Tour Kenya Operator: Complete Guide'
-description: Kenya safari guide covering solo female traveler safe group tour kenya operator, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering solo female traveler safe group tour kenya operator, including what is included, pricing, and booking advice.'
 slug: solo-female-traveler-safe-group-tour-kenya-operator
-primary_keyword: Solo female traveler safe group tour Kenya operator
+primary_keyword: 'Solo female traveler safe group tour Kenya operator'
 secondary_keywords:
-- Laikipia luxury safari deals online
-- Small group Kenya safari package special offers
-- Tsavo safari trip plan purchase
-- Masai Mara package cost
-- Purchase Kenya safari cultural visit included package
+- 'Laikipia luxury safari deals online'
+- 'Small group Kenya safari package special offers'
+- 'Tsavo safari trip plan purchase'
+- 'Masai Mara package cost'
+- 'Purchase Kenya safari cultural visit included package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

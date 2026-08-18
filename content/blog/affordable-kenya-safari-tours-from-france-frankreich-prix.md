@@ -1,14 +1,14 @@
 ---
 title: 'Affordable Kenya Safari Tours from France (Frankreich) Prix: Complete Guide'
-description: Kenya safari guide covering affordable kenya safari tours from france (frankreich) prix, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering affordable kenya safari tours from france (frankreich) prix, including what is included, pricing, and booking advice.'
 slug: affordable-kenya-safari-tours-from-france-frankreich-prix
-primary_keyword: Affordable Kenya safari tours from France (Frankreich) prix
+primary_keyword: 'Affordable Kenya safari tours from France (Frankreich) prix'
 secondary_keywords:
-- Purchase 12 day East Africa highlights booking
-- Secure fly-in Kenya safari package purchase
-- Kenya safari holiday rates enquiry
-- 5 day Amboseli Tsavo combo package rates
-- Cost estimate 10 day budget Kenya Tanzania camping safari
+- 'Purchase 12 day East Africa highlights booking'
+- 'Secure fly-in Kenya safari package purchase'
+- 'Kenya safari holiday rates enquiry'
+- '5 day Amboseli Tsavo combo package rates'
+- 'Cost estimate 10 day budget Kenya Tanzania camping safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

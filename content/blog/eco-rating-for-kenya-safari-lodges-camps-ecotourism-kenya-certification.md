@@ -1,14 +1,14 @@
 ---
 title: 'Eco-rating for Kenya Safari Lodges / Camps Ecotourism Kenya Certification: Complete Guide'
-description: Kenya safari guide covering eco-rating for kenya safari lodges / camps ecotourism kenya certification, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering eco-rating for kenya safari lodges / camps ecotourism kenya certification, including what is included, pricing, and booking advice.'
 slug: eco-rating-for-kenya-safari-lodges-camps-ecotourism-kenya-certification
-primary_keyword: Eco-rating for Kenya safari lodges / camps Ecotourism Kenya certification
+primary_keyword: 'Eco-rating for Kenya safari lodges / camps Ecotourism Kenya certification'
 secondary_keywords:
-- Aberdare National Park safari
-- Multi-park Kenya safari
-- Camping Kenya safari
-- Guided Kenya safari
-- 1 day Kenya safari
+- 'Aberdare National Park safari'
+- 'Multi-park Kenya safari'
+- 'Camping Kenya safari'
+- 'Guided Kenya safari'
+- '1 day Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

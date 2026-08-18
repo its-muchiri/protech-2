@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Nairobi Photos: Complete Guide'
-description: Everything you need to know about ethiopian airlines nairobi photos, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines nairobi photos, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-nairobi-photos
-primary_keyword: ethiopian airlines nairobi photos
+primary_keyword: 'ethiopian airlines nairobi photos'
 secondary_keywords:
-- how many emirates flights from london to dubai a week
-- emirates flights from jfk
-- emirates flights from kolkata to dubai
-- emirates flights from larnaca
-- emirates flights from newcastle
+- 'how many emirates flights from london to dubai a week'
+- 'emirates flights from jfk'
+- 'emirates flights from kolkata to dubai'
+- 'emirates flights from larnaca'
+- 'emirates flights from newcastle'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

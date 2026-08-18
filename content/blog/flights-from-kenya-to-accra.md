@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Accra: Complete Guide'
-description: Everything you need to know about flights from kenya to accra, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to accra, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-accra
-primary_keyword: flights from kenya to accra
+primary_keyword: 'flights from kenya to accra'
 secondary_keywords:
-- flights nairobi to amsterdam
-- flights nairobi to bangkok
-- brisbane to nairobi flights
-- cheap flights nairobi to zanzibar
-- flight nairobi to ethiopia
+- 'flights nairobi to amsterdam'
+- 'flights nairobi to bangkok'
+- 'brisbane to nairobi flights'
+- 'cheap flights nairobi to zanzibar'
+- 'flight nairobi to ethiopia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

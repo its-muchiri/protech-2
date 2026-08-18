@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Adventure Safari Promotions: Complete Guide'
-description: Kenya safari guide covering kenya adventure safari promotions, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya adventure safari promotions, including what is included, pricing, and booking advice.'
 slug: kenya-adventure-safari-promotions
-primary_keyword: Kenya adventure safari promotions
+primary_keyword: 'Kenya adventure safari promotions'
 secondary_keywords:
-- Top rated Kenya safari specialists UK experts
-- Reserve Kenya safari Easter 2026 UK family package availability
-- Luxury all-inclusive Kenya safari reviews Forbes Travel Guide
-- Reserve private Samburu & Laikipia safari tour online UK quote
-- Cost of custom luxury Kenya safari for couple anniversary UK private lodges
+- 'Top rated Kenya safari specialists UK experts'
+- 'Reserve Kenya safari Easter 2026 UK family package availability'
+- 'Luxury all-inclusive Kenya safari reviews Forbes Travel Guide'
+- 'Reserve private Samburu & Laikipia safari tour online UK quote'
+- 'Cost of custom luxury Kenya safari for couple anniversary UK private lodges'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

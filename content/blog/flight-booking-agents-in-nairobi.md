@@ -1,14 +1,14 @@
 ---
 title: 'Flight Booking Agents in Nairobi: Complete Guide'
-description: Everything you need to know about flight booking agents in nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight booking agents in nairobi, including routes, airlines, booking tips, and fares.'
 slug: flight-booking-agents-in-nairobi
-primary_keyword: flight booking agents in nairobi
+primary_keyword: 'flight booking agents in nairobi'
 secondary_keywords:
-- flights from nairobi to gaborone
-- flights from nairobi to hargeisa
-- flights from nairobi to kilimanjaro international airport
-- flights from nairobi to jro
-- kq flights from nairobi to eldoret
+- 'flights from nairobi to gaborone'
+- 'flights from nairobi to hargeisa'
+- 'flights from nairobi to kilimanjaro international airport'
+- 'flights from nairobi to jro'
+- 'kq flights from nairobi to eldoret'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to New Zealand: Complete Guide'
-description: Everything you need to know about flight from nairobi to new zealand, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to new zealand, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-new-zealand
-primary_keyword: flight from nairobi to new zealand
+primary_keyword: 'flight from nairobi to new zealand'
 secondary_keywords:
-- emirates flight from kenya
-- emirates flight from kenya to dubai price
-- how much is the flight from kenya to dubai
-- emirates kenya safari
-- ethiopian flight from nairobi
+- 'emirates flight from kenya'
+- 'emirates flight from kenya to dubai price'
+- 'how much is the flight from kenya to dubai'
+- 'emirates kenya safari'
+- 'ethiopian flight from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

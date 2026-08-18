@@ -1,14 +1,14 @@
 ---
 title: 'Deal 7 Day Luxury Masai Mara Package: Complete Guide'
-description: Kenya safari guide covering deal 7 day luxury masai mara package, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering deal 7 day luxury masai mara package, including what is included, pricing, and booking advice.'
 slug: deal-7-day-luxury-masai-mara-package
-primary_keyword: Deal 7 day luxury Masai Mara package
+primary_keyword: 'Deal 7 day luxury Masai Mara package'
 secondary_keywords:
-- 3 day Kenya safari
-- Kenya safari cost
-- Kenya park fees cost
-- Private safari house Kenya
-- Boat safari Lake Naivasha
+- '3 day Kenya safari'
+- 'Kenya safari cost'
+- 'Kenya park fees cost'
+- 'Private safari house Kenya'
+- 'Boat safari Lake Naivasha'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

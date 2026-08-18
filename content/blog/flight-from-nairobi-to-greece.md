@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Greece: Complete Guide'
-description: Everything you need to know about flight from nairobi to greece, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to greece, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-greece
-primary_keyword: flight from nairobi to greece
+primary_keyword: 'flight from nairobi to greece'
 secondary_keywords:
-- fly nairobi to uganda
-- vienna to nairobi flights
-- flights nairobi to yaounde
-- how much is flight from nairobi to nigeria
-- cheap flights nairobi to kampala
+- 'fly nairobi to uganda'
+- 'vienna to nairobi flights'
+- 'flights nairobi to yaounde'
+- 'how much is flight from nairobi to nigeria'
+- 'cheap flights nairobi to kampala'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

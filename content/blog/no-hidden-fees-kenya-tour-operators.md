@@ -1,14 +1,14 @@
 ---
 title: 'No Hidden Fees Kenya Tour Operators: Complete Guide'
-description: Kenya safari guide covering no hidden fees kenya tour operators, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering no hidden fees kenya tour operators, including what is included, pricing, and booking advice.'
 slug: no-hidden-fees-kenya-tour-operators
-primary_keyword: No hidden fees Kenya tour operators
+primary_keyword: 'No hidden fees Kenya tour operators'
 secondary_keywords:
-- Ol Pejeta Conservancy safari special offer
-- Private guided Kenya safari early bird promotion
-- Amboseli holiday package booking
-- Book Kenya safari with
-- Secure package with hot air balloon Masai Mara booking
+- 'Ol Pejeta Conservancy safari special offer'
+- 'Private guided Kenya safari early bird promotion'
+- 'Amboseli holiday package booking'
+- 'Book Kenya safari with'
+- 'Secure package with hot air balloon Masai Mara booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

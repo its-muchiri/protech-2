@@ -1,14 +1,14 @@
 ---
 title: '748 Flight from Mombasa to Nairobi: Complete Guide'
-description: Everything you need to know about 748 flight from mombasa to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about 748 flight from mombasa to nairobi, including routes, airlines, booking tips, and fares.'
 slug: 748-flight-from-mombasa-to-nairobi
-primary_keyword: 748 flight from mombasa to nairobi
+primary_keyword: '748 flight from mombasa to nairobi'
 secondary_keywords:
-- flight from nairobi to boston
-- flight from nairobi to china
-- flight from nairobi to diani
-- flight from nairobi to edmonton
-- how long is a flight from frankfurt to nairobi
+- 'flight from nairobi to boston'
+- 'flight from nairobi to china'
+- 'flight from nairobi to diani'
+- 'flight from nairobi to edmonton'
+- 'how long is a flight from frankfurt to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

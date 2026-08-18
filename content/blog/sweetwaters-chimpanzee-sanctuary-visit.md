@@ -1,14 +1,14 @@
 ---
 title: 'Sweetwaters Chimpanzee Sanctuary Visit: Complete Guide'
-description: Kenya safari guide covering sweetwaters chimpanzee sanctuary visit, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering sweetwaters chimpanzee sanctuary visit, including what is included, pricing, and booking advice.'
 slug: sweetwaters-chimpanzee-sanctuary-visit
-primary_keyword: Sweetwaters Chimpanzee Sanctuary visit
+primary_keyword: 'Sweetwaters Chimpanzee Sanctuary visit'
 secondary_keywords:
-- Lake Magadi day trip flamingo tour price / road condition
-- Sunworld Safaris Kenya reviews
-- Safari tour van hire Nairobi price per day 7 seater
-- Reliable tour operator Kenya forum recommendations (Lonely Planet, Fodor''s)
-- Kenya yoga retreat safari lodges offering wellness programs
+- 'Lake Magadi day trip flamingo tour price / road condition'
+- 'Sunworld Safaris Kenya reviews'
+- 'Safari tour van hire Nairobi price per day 7 seater'
+- 'Reliable tour operator Kenya forum recommendations (Lonely Planet, Fodor''''s)'
+- 'Kenya yoga retreat safari lodges offering wellness programs'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

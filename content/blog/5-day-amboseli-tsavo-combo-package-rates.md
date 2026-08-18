@@ -1,14 +1,14 @@
 ---
 title: '5 Day Amboseli Tsavo Combo Package Rates: Complete Guide'
-description: Kenya safari guide covering 5 day amboseli tsavo combo package rates, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering 5 day amboseli tsavo combo package rates, including what is included, pricing, and booking advice.'
 slug: 5-day-amboseli-tsavo-combo-package-rates
-primary_keyword: 5 day Amboseli Tsavo combo package rates
+primary_keyword: '5 day Amboseli Tsavo combo package rates'
 secondary_keywords:
-- Safari Lake Nakuru flamingos
-- Sweetwaters Chimpanzee Sanctuary visit
-- Photographic Kenya safari
-- Kenya safari for singles
-- Educational safari Kenya
+- 'Safari Lake Nakuru flamingos'
+- 'Sweetwaters Chimpanzee Sanctuary visit'
+- 'Photographic Kenya safari'
+- 'Kenya safari for singles'
+- 'Educational safari Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

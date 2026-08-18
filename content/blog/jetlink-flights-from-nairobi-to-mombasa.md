@@ -1,14 +1,14 @@
 ---
 title: 'Jetlink Flights from Nairobi to Mombasa: Complete Guide'
-description: Everything you need to know about jetlink flights from nairobi to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about jetlink flights from nairobi to mombasa, including routes, airlines, booking tips, and fares.'
 slug: jetlink-flights-from-nairobi-to-mombasa
-primary_keyword: jetlink flights from nairobi to mombasa
+primary_keyword: 'jetlink flights from nairobi to mombasa'
 secondary_keywords:
-- flight ticket from kenya to nigeria
-- local flight booking in kenya
-- ticket from kenya to dubai
-- cheap local flights in kenya
-- how much does a flight to kenya cost
+- 'flight ticket from kenya to nigeria'
+- 'local flight booking in kenya'
+- 'ticket from kenya to dubai'
+- 'cheap local flights in kenya'
+- 'how much does a flight to kenya cost'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

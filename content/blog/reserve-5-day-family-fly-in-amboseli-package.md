@@ -1,14 +1,14 @@
 ---
 title: 'Reserve 5 Day Family Fly-in Amboseli Package: Complete Guide'
-description: Kenya safari guide covering reserve 5 day family fly-in amboseli package, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve 5 day family fly-in amboseli package, including what is included, pricing, and booking advice.'
 slug: reserve-5-day-family-fly-in-amboseli-package
-primary_keyword: Reserve 5 day family fly-in Amboseli package
+primary_keyword: 'Reserve 5 day family fly-in Amboseli package'
 secondary_keywords:
-- Fourteen Falls Thika day trip guide / cost
-- Natural World Kenya Safaris packages / reviews
-- Single supplement cost Kenya safari solo travelers
-- Best rated tour companies Kenya TripAdvisor
-- Kenya golfing safari packages Great Rift Valley Lodge / Windsor
+- 'Fourteen Falls Thika day trip guide / cost'
+- 'Natural World Kenya Safaris packages / reviews'
+- 'Single supplement cost Kenya safari solo travelers'
+- 'Best rated tour companies Kenya TripAdvisor'
+- 'Kenya golfing safari packages Great Rift Valley Lodge / Windsor'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from Nairobi to Eldoret: Complete Guide'
-description: Everything you need to know about kenya airways flight from nairobi to eldoret, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from nairobi to eldoret, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-nairobi-to-eldoret
-primary_keyword: kenya airways flight from nairobi to eldoret
+primary_keyword: 'kenya airways flight from nairobi to eldoret'
 secondary_keywords:
-- flights from new york city to nairobi kenya
-- flights from zurich to kenya
-- how much is a flight from kenya to zimbabwe
-- safarilink flights from nairobi to kisumu
-- available flights from nairobi to mombasa
+- 'flights from new york city to nairobi kenya'
+- 'flights from zurich to kenya'
+- 'how much is a flight from kenya to zimbabwe'
+- 'safarilink flights from nairobi to kisumu'
+- 'available flights from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

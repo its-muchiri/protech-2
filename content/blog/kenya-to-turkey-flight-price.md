@@ -1,14 +1,14 @@
 ---
 title: 'Kenya to Turkey Flight Price: Complete Guide'
-description: Everything you need to know about kenya to turkey flight price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya to turkey flight price, including routes, airlines, booking tips, and fares.'
 slug: kenya-to-turkey-flight-price
-primary_keyword: kenya to turkey flight price
+primary_keyword: 'kenya to turkey flight price'
 secondary_keywords:
-- how many emirates flights from uk to dubai
-- emirates flights to india from uk
-- emirates flights from johannesburg to dublin
-- emirates flights from london to dubai
-- emirates flights from manchester to dubai which terminal
+- 'how many emirates flights from uk to dubai'
+- 'emirates flights to india from uk'
+- 'emirates flights from johannesburg to dublin'
+- 'emirates flights from london to dubai'
+- 'emirates flights from manchester to dubai which terminal'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

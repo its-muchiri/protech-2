@@ -1,14 +1,14 @@
 ---
 title: 'Cost of Kenya Safari from Manchester UK Agent Quote: Complete Guide'
-description: Kenya safari guide covering cost of kenya safari from manchester uk agent quote, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering cost of kenya safari from manchester uk agent quote, including what is included, pricing, and booking advice.'
 slug: cost-of-kenya-safari-from-manchester-uk-agent-quote
-primary_keyword: Cost of Kenya safari from Manchester UK agent quote
+primary_keyword: 'Cost of Kenya safari from Manchester UK agent quote'
 secondary_keywords:
-- Customer testimonials Kenya safari companies video reviews
-- Agricultural tours Kenya coffee / tea plantations visit Thika region
-- Book Amboseli safari holiday package UK
-- Buy guaranteed Kenya safari departure UK
-- Group Kenya safari package offers Europe discount
+- 'Customer testimonials Kenya safari companies video reviews'
+- 'Agricultural tours Kenya coffee / tea plantations visit Thika region'
+- 'Book Amboseli safari holiday package UK'
+- 'Buy guaranteed Kenya safari departure UK'
+- 'Group Kenya safari package offers Europe discount'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

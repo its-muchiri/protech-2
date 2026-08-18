@@ -1,14 +1,14 @@
 ---
 title: 'Tooth Extraction Forceps Set Cost: 2026 Price Guide'
-description: Kenya buying guide to tooth extraction forceps set cost. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to tooth extraction forceps set cost. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: tooth-extraction-forceps-set-cost
-primary_keyword: Tooth extraction forceps set cost
+primary_keyword: 'Tooth extraction forceps set cost'
 secondary_keywords:
-- medical equipment rental Kenya
-- medical shops in Nairobi
-- cotton wool Kenya large pack
-- urine bags Kenya price
-- sterilization wraps Kenya
+- 'medical equipment rental Kenya'
+- 'medical shops in Nairobi'
+- 'cotton wool Kenya large pack'
+- 'urine bags Kenya price'
+- 'sterilization wraps Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

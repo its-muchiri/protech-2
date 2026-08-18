@@ -1,14 +1,14 @@
 ---
 title: 'Fly 540 / Jambojet Flights to Diani / Malindi Price: Complete Guide'
-description: Kenya safari guide covering fly 540 / jambojet flights to diani / malindi price, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering fly 540 / jambojet flights to diani / malindi price, including what is included, pricing, and booking advice.'
 slug: fly-540-jambojet-flights-to-diani-malindi-price
-primary_keyword: Fly 540 / Jambojet flights to Diani / Malindi price
+primary_keyword: 'Fly 540 / Jambojet flights to Diani / Malindi price'
 secondary_keywords:
-- Book 3 day Nairobi National Park Amboseli express package
-- Buy 8 day romantic getaway safari package Laikipia
-- Book 5 day Great Rift Valley lakes birding package
-- Get quote 6 day Masai Mara wildlife focus package operator
-- Lock in rate for 10 day Kenya premium package
+- 'Book 3 day Nairobi National Park Amboseli express package'
+- 'Buy 8 day romantic getaway safari package Laikipia'
+- 'Book 5 day Great Rift Valley lakes birding package'
+- 'Get quote 6 day Masai Mara wildlife focus package operator'
+- 'Lock in rate for 10 day Kenya premium package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

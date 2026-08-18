@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Seychelles: Complete Guide'
-description: Everything you need to know about flights nairobi to seychelles, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to seychelles, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-seychelles
-primary_keyword: flights nairobi to seychelles
+primary_keyword: 'flights nairobi to seychelles'
 secondary_keywords:
-- jambojet flights from mombasa to kisumu
-- kq flights from mombasa to nairobi timetable
-- cheapest flights from mombasa to london
-- flights from mombasa to nairobi wilson airport today
-- cheap flights from nairobi to mombasa jambojet price
+- 'jambojet flights from mombasa to kisumu'
+- 'kq flights from mombasa to nairobi timetable'
+- 'cheapest flights from mombasa to london'
+- 'flights from mombasa to nairobi wilson airport today'
+- 'cheap flights from nairobi to mombasa jambojet price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

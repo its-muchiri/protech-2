@@ -1,14 +1,14 @@
 ---
 title: 'Do All Emirates Flights Depart from Terminal 3: Complete Guide'
-description: Everything you need to know about do all emirates flights depart from terminal 3, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about do all emirates flights depart from terminal 3, including routes, airlines, booking tips, and fares.'
 slug: do-all-emirates-flights-depart-from-terminal-3
-primary_keyword: do all emirates flights depart from terminal 3
+primary_keyword: 'do all emirates flights depart from terminal 3'
 secondary_keywords:
-- flight prices from kisumu to nairobi
-- flights from kisumu to kitale
-- flights from kisumu to mwanza
-- is kisumu safe
-- flights from eldoret to nairobi today
+- 'flight prices from kisumu to nairobi'
+- 'flights from kisumu to kitale'
+- 'flights from kisumu to mwanza'
+- 'is kisumu safe'
+- 'flights from eldoret to nairobi today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

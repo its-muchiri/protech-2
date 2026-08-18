@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight from Nairobi to Ahmedabad: Complete Guide'
-description: Everything you need to know about emirates flight from nairobi to ahmedabad, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight from nairobi to ahmedabad, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-from-nairobi-to-ahmedabad
-primary_keyword: emirates flight from nairobi to ahmedabad
+primary_keyword: 'emirates flight from nairobi to ahmedabad'
 secondary_keywords:
-- flights nairobi to south africa
-- flights nairobi to thailand
-- flights nairobi to victoria falls
-- flights nairobi to windhoek
-- flights nairobi to zanzibar
+- 'flights nairobi to south africa'
+- 'flights nairobi to thailand'
+- 'flights nairobi to victoria falls'
+- 'flights nairobi to windhoek'
+- 'flights nairobi to zanzibar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

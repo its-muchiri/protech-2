@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights Nairobi to Entebbe Price: Complete Guide'
-description: Everything you need to know about kenya airways flights nairobi to entebbe price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights nairobi to entebbe price, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-nairobi-to-entebbe-price
-primary_keyword: kenya airways flights nairobi to entebbe price
+primary_keyword: 'kenya airways flights nairobi to entebbe price'
 secondary_keywords:
-- emirates flights from jfk to dubai
-- flights from kolkata to dubai by emirates
-- emirates flights from melbourne today
-- emirates flights from orlando
-- emirates flights from perth to dubai
+- 'emirates flights from jfk to dubai'
+- 'flights from kolkata to dubai by emirates'
+- 'emirates flights from melbourne today'
+- 'emirates flights from orlando'
+- 'emirates flights from perth to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

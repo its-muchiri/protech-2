@@ -1,14 +1,14 @@
 ---
 title: 'Dental X-ray Machine for Sale in Eldoret: 2026 Price Guide'
-description: Kenya buying guide to dental x-ray machine for sale in eldoret. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to dental x-ray machine for sale in eldoret. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: dental-x-ray-machine-for-sale-in-eldoret
-primary_keyword: Dental X-ray machine for sale in Eldoret
+primary_keyword: 'Dental X-ray machine for sale in Eldoret'
 secondary_keywords:
-- normal saline Kenya price
-- medical uniforms Kenya price
-- incontinence products Kenya
-- umbilical cord clamps Kenya
-- body bags Kenya supplier
+- 'normal saline Kenya price'
+- 'medical uniforms Kenya price'
+- 'incontinence products Kenya'
+- 'umbilical cord clamps Kenya'
+- 'body bags Kenya supplier'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

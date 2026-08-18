@@ -1,14 +1,14 @@
 ---
 title: 'Kq112 Flight Status: Complete Guide'
-description: Everything you need to know about kq112 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq112 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq112-flight-status
-primary_keyword: kq112 flight status
+primary_keyword: 'kq112 flight status'
 secondary_keywords:
-- emirates flights from which country
-- emirates flight from yyz to dxb
-- emirates flights from zimbabwe to uk price today
-- emirates flight 005
-- emirates flights 203
+- 'emirates flights from which country'
+- 'emirates flight from yyz to dxb'
+- 'emirates flights from zimbabwe to uk price today'
+- 'emirates flight 005'
+- 'emirates flights 203'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

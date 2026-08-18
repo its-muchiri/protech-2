@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Mombasa How Much: Complete Guide'
-description: Everything you need to know about flight from nairobi to mombasa how much, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to mombasa how much, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-mombasa-how-much
-primary_keyword: flight from nairobi to mombasa how much
+primary_keyword: 'flight from nairobi to mombasa how much'
 secondary_keywords:
-- flights from nairobi to usa today
-- cheapest flights from nairobi to vancouver
-- flights from nairobi to warsaw
-- cheap flights from zurich to nairobi
-- cheapest flights from nairobi to johannesburg
+- 'flights from nairobi to usa today'
+- 'cheapest flights from nairobi to vancouver'
+- 'flights from nairobi to warsaw'
+- 'cheap flights from zurich to nairobi'
+- 'cheapest flights from nairobi to johannesburg'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

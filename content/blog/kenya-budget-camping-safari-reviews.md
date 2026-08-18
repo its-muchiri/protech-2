@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Budget Camping Safari Reviews: Complete Guide'
-description: Kenya safari guide covering kenya budget camping safari reviews, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya budget camping safari reviews, including what is included, pricing, and booking advice.'
 slug: kenya-budget-camping-safari-reviews
-primary_keyword: Kenya budget camping safari reviews
+primary_keyword: 'Kenya budget camping safari reviews'
 secondary_keywords:
-- Add-ons for Kenya safari package purchase
-- (Adding ''buy'', ''book'', ''package'', ''cost'', ''quote'', ''deal'', ''reserve'', ''operator'' to core terms)
-- Christmas safari deal buy
-- Book 9 day mid-range Kenya classic circuit package
-- Get quote 9 day Northern Kenya special species package
+- 'Add-ons for Kenya safari package purchase'
+- '(Adding ''''buy'''', ''''book'''', ''''package'''', ''''cost'''', ''''quote'''', ''''deal'''', ''''reserve'''', ''''operator'''' to core terms)'
+- 'Christmas safari deal buy'
+- 'Book 9 day mid-range Kenya classic circuit package'
+- 'Get quote 9 day Northern Kenya special species package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

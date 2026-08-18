@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Dakar: Complete Guide'
-description: Everything you need to know about flights nairobi to dakar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to dakar, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-dakar
-primary_keyword: flights nairobi to dakar
+primary_keyword: 'flights nairobi to dakar'
 secondary_keywords:
-- last flight from kisumu to nairobi
-- flights to kisumu renegade
-- flights from eldoret
-- cost of flight from eldoret to mombasa
-- flights to eldoret kenya
+- 'last flight from kisumu to nairobi'
+- 'flights to kisumu renegade'
+- 'flights from eldoret'
+- 'cost of flight from eldoret to mombasa'
+- 'flights to eldoret kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

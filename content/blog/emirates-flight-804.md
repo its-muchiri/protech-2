@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 804: Complete Guide'
-description: Everything you need to know about emirates flight 804, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 804, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-804
-primary_keyword: emirates flight 804
+primary_keyword: 'emirates flight 804'
 secondary_keywords:
-- kq flights mombasa to nairobi
-- kq flight news
-- kq flight reschedule
-- kq flights to seychelles
-- kq flights to new york
+- 'kq flights mombasa to nairobi'
+- 'kq flight news'
+- 'kq flight reschedule'
+- 'kq flights to seychelles'
+- 'kq flights to new york'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

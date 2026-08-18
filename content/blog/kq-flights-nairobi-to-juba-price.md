@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights Nairobi to Juba Price: Complete Guide'
-description: Everything you need to know about kq flights nairobi to juba price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights nairobi to juba price, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-nairobi-to-juba-price
-primary_keyword: kq flights nairobi to juba price
+primary_keyword: 'kq flights nairobi to juba price'
 secondary_keywords:
-- ethiopian airlines from beirut to nairobi
-- ethiopian airlines nairobi to kigali
-- ethiopian airlines website not working
-- flight ticket from nairobi to istanbul
-- flight booking nairobi to kisumu
+- 'ethiopian airlines from beirut to nairobi'
+- 'ethiopian airlines nairobi to kigali'
+- 'ethiopian airlines website not working'
+- 'flight ticket from nairobi to istanbul'
+- 'flight booking nairobi to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

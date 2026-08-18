@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Paris: Complete Guide'
-description: Everything you need to know about flights from nairobi to paris, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to paris, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-paris
-primary_keyword: flights from nairobi to paris
+primary_keyword: 'flights from nairobi to paris'
 secondary_keywords:
-- flights nairobi to addis ababa
-- nairobi to jeddah flights saudi airlines
-- nairobi to bali flights
-- cheap flights nairobi to malindi
-- flights nairobi to edinburgh
+- 'flights nairobi to addis ababa'
+- 'nairobi to jeddah flights saudi airlines'
+- 'nairobi to bali flights'
+- 'cheap flights nairobi to malindi'
+- 'flights nairobi to edinburgh'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

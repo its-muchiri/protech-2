@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Usa: Complete Guide'
-description: Everything you need to know about flight from nairobi to usa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to usa, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-usa
-primary_keyword: flight from nairobi to usa
+primary_keyword: 'flight from nairobi to usa'
 secondary_keywords:
-- how do i contact kenya airways
-- kq flight from juba to nairobi
-- kenya airways flight from nairobi to mumbai
-- kenya airways flight schedule nairobi to london
-- kenya airways flights from nairobi to abuja today
+- 'how do i contact kenya airways'
+- 'kq flight from juba to nairobi'
+- 'kenya airways flight from nairobi to mumbai'
+- 'kenya airways flight schedule nairobi to london'
+- 'kenya airways flights from nairobi to abuja today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

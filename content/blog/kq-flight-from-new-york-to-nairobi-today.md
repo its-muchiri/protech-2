@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from New York to Nairobi Today: Complete Guide'
-description: Everything you need to know about kq flight from new york to nairobi today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from new york to nairobi today, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-new-york-to-nairobi-today
-primary_keyword: kq flight from new york to nairobi today
+primary_keyword: 'kq flight from new york to nairobi today'
 secondary_keywords:
-- emirates flights from florida
-- emirates flights from gatwick to dubai today
-- emirates flights from hyderabad to dubai
-- emirates flights from india to usa
-- emirates flights from johannesburg to paris
+- 'emirates flights from florida'
+- 'emirates flights from gatwick to dubai today'
+- 'emirates flights from hyderabad to dubai'
+- 'emirates flights from india to usa'
+- 'emirates flights from johannesburg to paris'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Cairo: Complete Guide'
-description: Everything you need to know about flights from nairobi to cairo, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to cairo, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-cairo
-primary_keyword: flights from nairobi to cairo
+primary_keyword: 'flights from nairobi to cairo'
 secondary_keywords:
-- kenya airways flight 431 survivors
-- flight from nairobi to accra
-- flight from nairobi to bungoma
-- british airways flight from nairobi to london today
-- cheapest flight from nairobi to zanzibar
+- 'kenya airways flight 431 survivors'
+- 'flight from nairobi to accra'
+- 'flight from nairobi to bungoma'
+- 'british airways flight from nairobi to london today'
+- 'cheapest flight from nairobi to zanzibar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

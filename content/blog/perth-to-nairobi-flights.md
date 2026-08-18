@@ -1,14 +1,14 @@
 ---
 title: 'Perth to Nairobi Flights: Complete Guide'
-description: Everything you need to know about perth to nairobi flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about perth to nairobi flights, including routes, airlines, booking tips, and fares.'
 slug: perth-to-nairobi-flights
-primary_keyword: perth to nairobi flights
+primary_keyword: 'perth to nairobi flights'
 secondary_keywords:
-- emirates from nairobi to london
-- emirates cargo nairobi
-- is emirates operating
-- emirates flight from riyadh to nairobi timetable
-- emirates flight from kenya to dubai today status
+- 'emirates from nairobi to london'
+- 'emirates cargo nairobi'
+- 'is emirates operating'
+- 'emirates flight from riyadh to nairobi timetable'
+- 'emirates flight from kenya to dubai today status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

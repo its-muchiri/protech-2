@@ -1,14 +1,14 @@
 ---
 title: 'Littmann Stethoscope for Sale in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to littmann stethoscope for sale in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to littmann stethoscope for sale in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: littmann-stethoscope-for-sale-in-nairobi
-primary_keyword: Littmann stethoscope for sale in Nairobi
+primary_keyword: 'Littmann stethoscope for sale in Nairobi'
 secondary_keywords:
-- ECG machine suppliers in Meru
-- Lab equipment calibration in Eldoret
-- Ambulance fabrication companies in Nairobi
-- 1.5 Tesla MRI machine price in Kenya
-- Affordable black and white ultrasound for a small clinic
+- 'ECG machine suppliers in Meru'
+- 'Lab equipment calibration in Eldoret'
+- 'Ambulance fabrication companies in Nairobi'
+- '1.5 Tesla MRI machine price in Kenya'
+- 'Affordable black and white ultrasound for a small clinic'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

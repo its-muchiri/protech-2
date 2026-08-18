@@ -1,14 +1,14 @@
 ---
 title: 'Visual Acuity Chart / Snellen Chart: 2026 Price Guide'
-description: Kenya buying guide to visual acuity chart / snellen chart. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to visual acuity chart / snellen chart. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: visual-acuity-chart-snellen-chart
-primary_keyword: Visual acuity chart / Snellen chart
+primary_keyword: 'Visual acuity chart / Snellen chart'
 secondary_keywords:
-- CP walker for children with special needs price
-- Dental stool for dentist and assistant price
-- Amalgamator for dental fillings in Eldoret
-- Veterinary diagnostic test kits suppliers in Kenya
-- Home Care & Emergency Medical Equipment
+- 'CP walker for children with special needs price'
+- 'Dental stool for dentist and assistant price'
+- 'Amalgamator for dental fillings in Eldoret'
+- 'Veterinary diagnostic test kits suppliers in Kenya'
+- 'Home Care & Emergency Medical Equipment'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

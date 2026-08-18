@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Nakuru: Complete Guide'
-description: Everything you need to know about flights from mombasa to nakuru, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to nakuru, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-nakuru
-primary_keyword: flights from mombasa to nakuru
+primary_keyword: 'flights from mombasa to nakuru'
 secondary_keywords:
-- flights nairobi to london
-- uganda airlines flights to nairobi
-- nairobi to bujumbura flights
-- cheap flights nairobi to johannesburg
-- flights nairobi to egypt
+- 'flights nairobi to london'
+- 'uganda airlines flights to nairobi'
+- 'nairobi to bujumbura flights'
+- 'cheap flights nairobi to johannesburg'
+- 'flights nairobi to egypt'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

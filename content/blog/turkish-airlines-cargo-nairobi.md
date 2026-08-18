@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Cargo Nairobi: Complete Guide'
-description: Everything you need to know about turkish airlines cargo nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines cargo nairobi, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-cargo-nairobi
-primary_keyword: turkish airlines cargo nairobi
+primary_keyword: 'turkish airlines cargo nairobi'
 secondary_keywords:
-- emirates flights from karachi to dubai
-- emirates flights from lusaka to dubai
-- emirates flights from durban to mumbai
-- emirates flight from osaka to dubai
-- flights from peshawar to dubai united arab emirates
+- 'emirates flights from karachi to dubai'
+- 'emirates flights from lusaka to dubai'
+- 'emirates flights from durban to mumbai'
+- 'emirates flight from osaka to dubai'
+- 'flights from peshawar to dubai united arab emirates'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

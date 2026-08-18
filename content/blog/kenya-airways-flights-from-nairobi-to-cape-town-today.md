@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights from Nairobi to Cape Town Today: Complete Guide'
-description: Everything you need to know about kenya airways flights from nairobi to cape town today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights from nairobi to cape town today, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-from-nairobi-to-cape-town-today
-primary_keyword: kenya airways flights from nairobi to cape town today
+primary_keyword: 'kenya airways flights from nairobi to cape town today'
 secondary_keywords:
-- how much is a flight from nairobi to south africa
-- flight from nairobi to japan
-- flight from nairobi to lagos today
-- flight from nairobi to migori
-- flight time from nairobi to new delhi
+- 'how much is a flight from nairobi to south africa'
+- 'flight from nairobi to japan'
+- 'flight from nairobi to lagos today'
+- 'flight from nairobi to migori'
+- 'flight time from nairobi to new delhi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

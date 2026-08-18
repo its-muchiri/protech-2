@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kisumu to Maasai Mara: Complete Guide'
-description: Everything you need to know about flight from kisumu to maasai mara, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kisumu to maasai mara, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kisumu-to-maasai-mara
-primary_keyword: flight from kisumu to maasai mara
+primary_keyword: 'flight from kisumu to maasai mara'
 secondary_keywords:
-- flights from kenya to germany today
-- flights from kenya to houston
-- flights from hyderabad to nairobi kenya
-- flights from kenya to jamaica
-- flights from jfk to nairobi kenya
+- 'flights from kenya to germany today'
+- 'flights from kenya to houston'
+- 'flights from hyderabad to nairobi kenya'
+- 'flights from kenya to jamaica'
+- 'flights from jfk to nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

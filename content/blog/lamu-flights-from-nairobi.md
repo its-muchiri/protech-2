@@ -1,14 +1,14 @@
 ---
 title: 'Lamu Flights from Nairobi: Complete Guide'
-description: Everything you need to know about lamu flights from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about lamu flights from nairobi, including routes, airlines, booking tips, and fares.'
 slug: lamu-flights-from-nairobi
-primary_keyword: lamu flights from nairobi
+primary_keyword: 'lamu flights from nairobi'
 secondary_keywords:
-- flight from nairobi to lagos today
-- flight from nairobi to migori
-- flight time from nairobi to new delhi
-- flight from nairobi to paris
-- flight price from nairobi to turkey
+- 'flight from nairobi to lagos today'
+- 'flight from nairobi to migori'
+- 'flight time from nairobi to new delhi'
+- 'flight from nairobi to paris'
+- 'flight price from nairobi to turkey'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

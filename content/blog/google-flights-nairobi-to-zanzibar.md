@@ -1,14 +1,14 @@
 ---
 title: 'Google Flights Nairobi to Zanzibar: Complete Guide'
-description: Everything you need to know about google flights nairobi to zanzibar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about google flights nairobi to zanzibar, including routes, airlines, booking tips, and fares.'
 slug: google-flights-nairobi-to-zanzibar
-primary_keyword: google flights nairobi to zanzibar
+primary_keyword: 'google flights nairobi to zanzibar'
 secondary_keywords:
-- kenya airways flight status from nairobi to dubai
-- kenya airways flight from nairobi to jfk
-- kenya airways flight schedule from lagos to nairobi
-- kenya airways flight from new york to nairobi
-- flight from nairobi to mombasa
+- 'kenya airways flight status from nairobi to dubai'
+- 'kenya airways flight from nairobi to jfk'
+- 'kenya airways flight schedule from lagos to nairobi'
+- 'kenya airways flight from new york to nairobi'
+- 'flight from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

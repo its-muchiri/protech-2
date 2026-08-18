@@ -1,14 +1,14 @@
 ---
 title: 'Kq 533 Flight Status: Complete Guide'
-description: Everything you need to know about kq 533 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 533 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq-533-flight-status
-primary_keyword: kq 533 flight status
+primary_keyword: 'kq 533 flight status'
 secondary_keywords:
-- flight from nairobi to sweden
-- how long is the flight from nairobi to london
-- flight from nairobi to vienna
-- what is the longest flight from nairobi
-- flight from nairobi to zurich
+- 'flight from nairobi to sweden'
+- 'how long is the flight from nairobi to london'
+- 'flight from nairobi to vienna'
+- 'what is the longest flight from nairobi'
+- 'flight from nairobi to zurich'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

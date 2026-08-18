@@ -1,14 +1,14 @@
 ---
 title: 'Fetal Doppler Price in Nakuru: 2026 Price Guide'
-description: Kenya buying guide to fetal doppler price in nakuru. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to fetal doppler price in nakuru. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: fetal-doppler-price-in-nakuru
-primary_keyword: Fetal doppler price in Nakuru
+primary_keyword: 'Fetal doppler price in Nakuru'
 secondary_keywords:
-- weighing scale calibration for hospitals
-- slide stainer and coverslipper machine
-- intraosseous (IO) drill for emergency
-- patient data management software
-- research lab equipment grants in Kenya
+- 'weighing scale calibration for hospitals'
+- 'slide stainer and coverslipper machine'
+- 'intraosseous (IO) drill for emergency'
+- 'patient data management software'
+- 'research lab equipment grants in Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

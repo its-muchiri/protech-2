@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights to Dubai from Heathrow Terminal 3: Complete Guide'
-description: Everything you need to know about emirates flights to dubai from heathrow terminal 3, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights to dubai from heathrow terminal 3, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-to-dubai-from-heathrow-terminal-3
-primary_keyword: emirates flights to dubai from heathrow terminal 3
+primary_keyword: 'emirates flights to dubai from heathrow terminal 3'
 secondary_keywords:
-- nairobi to windhoek flights
-- nairobi to zanzibar google flights
-- 2 bedroom houses for rent in nairobi
-- emirates flights from atlanta
-- emirates flights from birmingham
+- 'nairobi to windhoek flights'
+- 'nairobi to zanzibar google flights'
+- '2 bedroom houses for rent in nairobi'
+- 'emirates flights from atlanta'
+- 'emirates flights from birmingham'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

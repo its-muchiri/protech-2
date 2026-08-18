@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Kinshasa: Complete Guide'
-description: Everything you need to know about flights nairobi to kinshasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to kinshasa, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-kinshasa
-primary_keyword: flights nairobi to kinshasa
+primary_keyword: 'flights nairobi to kinshasa'
 secondary_keywords:
-- emirates flights from europe to dubai
-- emirates flights for india
-- emirates flights from germany
-- how many emirates flights from london to dubai
-- emirates flights from israel
+- 'emirates flights from europe to dubai'
+- 'emirates flights for india'
+- 'emirates flights from germany'
+- 'how many emirates flights from london to dubai'
+- 'emirates flights from israel'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

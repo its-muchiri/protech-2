@@ -1,14 +1,14 @@
 ---
 title: 'Safari Vehicle Hire with Driver Nairobi Company: Complete Guide'
-description: Kenya safari guide covering safari vehicle hire with driver nairobi company, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering safari vehicle hire with driver nairobi company, including what is included, pricing, and booking advice.'
 slug: safari-vehicle-hire-with-driver-nairobi-company
-primary_keyword: Safari vehicle hire with driver Nairobi company
+primary_keyword: 'Safari vehicle hire with driver Nairobi company'
 secondary_keywords:
-- 1 day Kenya safari
-- 21 day Kenya safari
-- Mid-range Kenya safari cost
-- Lake Nakuru accommodation
-- Chimpanzee tracking Kenya (Ol Pejeta)
+- '1 day Kenya safari'
+- '21 day Kenya safari'
+- 'Mid-range Kenya safari cost'
+- 'Lake Nakuru accommodation'
+- 'Chimpanzee tracking Kenya (Ol Pejeta)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Cheapest Flight from Kenya to South Africa: Complete Guide'
-description: Everything you need to know about cheapest flight from kenya to south africa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheapest flight from kenya to south africa, including routes, airlines, booking tips, and fares.'
 slug: cheapest-flight-from-kenya-to-south-africa
-primary_keyword: cheapest flight from kenya to south africa
+primary_keyword: 'cheapest flight from kenya to south africa'
 secondary_keywords:
-- flights to ukunda from jkia
-- kq flight from nairobi to dubai
-- kq flight from nairobi to dubai ticket price
-- kq flight from johannesburg to nairobi
-- kq flight from nairobi to lusaka
+- 'flights to ukunda from jkia'
+- 'kq flight from nairobi to dubai'
+- 'kq flight from nairobi to dubai ticket price'
+- 'kq flight from johannesburg to nairobi'
+- 'kq flight from nairobi to lusaka'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

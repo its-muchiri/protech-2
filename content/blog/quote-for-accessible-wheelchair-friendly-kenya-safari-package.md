@@ -1,14 +1,14 @@
 ---
 title: 'Quote for Accessible Wheelchair Friendly Kenya Safari Package: Complete Guide'
-description: Kenya safari guide covering quote for accessible wheelchair friendly kenya safari package, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering quote for accessible wheelchair friendly kenya safari package, including what is included, pricing, and booking advice.'
 slug: quote-for-accessible-wheelchair-friendly-kenya-safari-package
-primary_keyword: Quote for accessible wheelchair friendly Kenya safari package
+primary_keyword: 'Quote for accessible wheelchair friendly Kenya safari package'
 secondary_keywords:
-- Cost of 6 day Kenya cultural immersion safari package
-- Reserve 7 day Mara Plains luxury package deal
-- Price for 9 day luxury mobile camping safari package Kenya
-- Book now 3 day Tsavo express safari deal
-- Book direct Kenya safari lodge package deal
+- 'Cost of 6 day Kenya cultural immersion safari package'
+- 'Reserve 7 day Mara Plains luxury package deal'
+- 'Price for 9 day luxury mobile camping safari package Kenya'
+- 'Book now 3 day Tsavo express safari deal'
+- 'Book direct Kenya safari lodge package deal'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

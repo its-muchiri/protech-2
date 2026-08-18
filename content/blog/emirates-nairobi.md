@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Nairobi: Complete Guide'
-description: Everything you need to know about emirates nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates nairobi, including routes, airlines, booking tips, and fares.'
 slug: emirates-nairobi
-primary_keyword: emirates nairobi
+primary_keyword: 'emirates nairobi'
 secondary_keywords:
-- flight from kisumu to arusha
-- cheapest flights from kisumu to nairobi
-- flights from kisumu to isiolo
-- flights to kigali from kisumu
-- flights from nairobi to kisumu price
+- 'flight from kisumu to arusha'
+- 'cheapest flights from kisumu to nairobi'
+- 'flights from kisumu to isiolo'
+- 'flights to kigali from kisumu'
+- 'flights from nairobi to kisumu price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kenya to Rwanda Price: Complete Guide'
-description: Everything you need to know about flight from kenya to rwanda price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kenya to rwanda price, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kenya-to-rwanda-price
-primary_keyword: flight from kenya to rwanda price
+primary_keyword: 'flight from kenya to rwanda price'
 secondary_keywords:
-- flight from nairobi to busia
-- flight from nairobi to california
-- flight from nairobi to diani beach
-- egypt air flight from nairobi to cairo
-- flight fare from dar es salaam to nairobi
+- 'flight from nairobi to busia'
+- 'flight from nairobi to california'
+- 'flight from nairobi to diani beach'
+- 'egypt air flight from nairobi to cairo'
+- 'flight fare from dar es salaam to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

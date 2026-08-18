@@ -1,14 +1,14 @@
 ---
 title: 'Sphygmomanometer (BP Machine) Price: 2026 Price Guide'
-description: Kenya buying guide to sphygmomanometer (bp machine) price. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to sphygmomanometer (bp machine) price. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: sphygmomanometer-bp-machine-price
-primary_keyword: Sphygmomanometer (BP machine) price
+primary_keyword: 'Sphygmomanometer (BP machine) price'
 secondary_keywords:
-- CPAP machine suppliers in Thika
-- Used dental equipment importers in Kenya
-- OPG (dental panoramic X-ray) machine cost in Kenya
-- DR panel for X-ray machine price and compatibility
-- Electrolyte analyzer price in Kisumu
+- 'CPAP machine suppliers in Thika'
+- 'Used dental equipment importers in Kenya'
+- 'OPG (dental panoramic X-ray) machine cost in Kenya'
+- 'DR panel for X-ray machine price and compatibility'
+- 'Electrolyte analyzer price in Kisumu'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

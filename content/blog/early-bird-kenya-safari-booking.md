@@ -1,14 +1,14 @@
 ---
 title: 'Early Bird Kenya Safari Booking: Complete Guide'
-description: Kenya safari guide covering early bird kenya safari booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering early bird kenya safari booking, including what is included, pricing, and booking advice.'
 slug: early-bird-kenya-safari-booking
-primary_keyword: Early bird Kenya safari booking
+primary_keyword: 'Early bird Kenya safari booking'
 secondary_keywords:
-- Single supplement cost Kenya safari solo travelers
-- Best rated tour companies Kenya TripAdvisor
-- Kenya golfing safari packages Great Rift Valley Lodge / Windsor
-- Diani Beach based tour operators excursions / safaris
-- Book Lake Nakuru flamingo safari trip online Europe
+- 'Single supplement cost Kenya safari solo travelers'
+- 'Best rated tour companies Kenya TripAdvisor'
+- 'Kenya golfing safari packages Great Rift Valley Lodge / Windsor'
+- 'Diani Beach based tour operators excursions / safaris'
+- 'Book Lake Nakuru flamingo safari trip online Europe'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

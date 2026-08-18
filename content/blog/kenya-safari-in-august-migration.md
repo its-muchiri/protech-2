@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari in August (Migration): Complete Guide'
-description: Kenya safari guide covering kenya safari in august (migration), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari in august (migration), including what is included, pricing, and booking advice.'
 slug: kenya-safari-in-august-migration
-primary_keyword: Kenya safari in August (Migration)
+primary_keyword: 'Kenya safari in August (Migration)'
 secondary_keywords:
-- Book guided Kenya safari tour
-- 8 day Kenya discovery tour package
-- Samburu reserve safari package booking
-- Book luxury Kenya safari package
-- Bespoke Kenya luxury safari operator
+- 'Book guided Kenya safari tour'
+- '8 day Kenya discovery tour package'
+- 'Samburu reserve safari package booking'
+- 'Book luxury Kenya safari package'
+- 'Bespoke Kenya luxury safari operator'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

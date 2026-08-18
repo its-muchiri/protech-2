@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Mumbai: Complete Guide'
-description: Everything you need to know about flight from nairobi to mumbai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to mumbai, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-mumbai
-primary_keyword: flight from nairobi to mumbai
+primary_keyword: 'flight from nairobi to mumbai'
 secondary_keywords:
-- are emirates flights cancelled
-- emirates flights to australia from glasgow
-- how many emirates flights from glasgow
-- emirates flights to india from dubai
-- emirates flights from kochi to dubai
+- 'are emirates flights cancelled'
+- 'emirates flights to australia from glasgow'
+- 'how many emirates flights from glasgow'
+- 'emirates flights to india from dubai'
+- 'emirates flights from kochi to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

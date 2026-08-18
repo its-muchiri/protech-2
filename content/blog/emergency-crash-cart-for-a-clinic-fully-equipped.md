@@ -1,14 +1,14 @@
 ---
 title: 'Emergency Crash Cart for a Clinic (fully Equipped): 2026 Price Guide'
-description: Kenya buying guide to emergency crash cart for a clinic (fully equipped). Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to emergency crash cart for a clinic (fully equipped). Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: emergency-crash-cart-for-a-clinic-fully-equipped
-primary_keyword: Emergency crash cart for a clinic (fully equipped)
+primary_keyword: 'Emergency crash cart for a clinic (fully equipped)'
 secondary_keywords:
-- Hospital ward screens and partitions
-- ECG machine price in Kenya
-- Biphasic defibrillator with paddles
-- Treadmill for physiotherapy clinic price
-- Second-hand dental chair for sale in Kisumu
+- 'Hospital ward screens and partitions'
+- 'ECG machine price in Kenya'
+- 'Biphasic defibrillator with paddles'
+- 'Treadmill for physiotherapy clinic price'
+- 'Second-hand dental chair for sale in Kisumu'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Purchase Premium Luxury Kenya Safari Package Segera Retreat USA Top Tier Exclusive Booking: Complete Guide'
-description: Kenya safari guide covering purchase premium luxury kenya safari package segera retreat usa top tier exclusive booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase premium luxury kenya safari package segera retreat usa top tier exclusive booking, including what is included, pricing, and booking advice.'
 slug: purchase-premium-luxury-kenya-safari-package-segera-retreat-usa-top-tier-exclusive-booking
-primary_keyword: Purchase premium luxury Kenya safari package Segera Retreat USA top tier exclusive booking
+primary_keyword: 'Purchase premium luxury Kenya safari package Segera Retreat USA top tier exclusive booking'
 secondary_keywords:
-- Tsavo East National Park safari from Mombasa 3 days price
-- Aberdare National Park lodges (The Ark, Treetops) booking
-- Mobile camping safari Kenya private setup
-- Deep sea fishing charter Watamu / Malindi cost
-- Visit Masai village near Masai Mara authentic experience tour
+- 'Tsavo East National Park safari from Mombasa 3 days price'
+- 'Aberdare National Park lodges (The Ark, Treetops) booking'
+- 'Mobile camping safari Kenya private setup'
+- 'Deep sea fishing charter Watamu / Malindi cost'
+- 'Visit Masai village near Masai Mara authentic experience tour'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

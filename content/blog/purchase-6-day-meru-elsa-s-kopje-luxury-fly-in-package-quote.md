@@ -1,14 +1,14 @@
 ---
-title: 'Purchase 6 Day Meru Elsa's Kopje Luxury Fly-in Package Quote: Complete Guide'
-description: Kenya safari guide covering purchase 6 day meru elsas kopje luxury fly-in package quote, including what is included, pricing, and booking advice.
+title: 'Purchase 6 Day Meru Elsa''s Kopje Luxury Fly-in Package Quote: Complete Guide'
+description: 'Kenya safari guide covering purchase 6 day meru elsas kopje luxury fly-in package quote, including what is included, pricing, and booking advice.'
 slug: purchase-6-day-meru-elsa-s-kopje-luxury-fly-in-package-quote
-primary_keyword: Purchase 6 day Meru Elsa's Kopje luxury fly-in package quote
+primary_keyword: 'Purchase 6 day Meru Elsa''s Kopje luxury fly-in package quote'
 secondary_keywords:
-- Book direct Kenya safari lodge package deal
-- Book reliable operator package 6 day Tsavo combo
-- Book 4 day Sopa Lodges Masai Mara package deal
-- Quote & Book 12 day Asilia Africa Kenya highlights package
-- Book celebrity style Kenya luxury safari package price
+- 'Book direct Kenya safari lodge package deal'
+- 'Book reliable operator package 6 day Tsavo combo'
+- 'Book 4 day Sopa Lodges Masai Mara package deal'
+- 'Quote & Book 12 day Asilia Africa Kenya highlights package'
+- 'Book celebrity style Kenya luxury safari package price'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Ol Pejeta Conservancy Safari Cost Per Day: Complete Guide'
-description: Kenya safari guide covering ol pejeta conservancy safari cost per day, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering ol pejeta conservancy safari cost per day, including what is included, pricing, and booking advice.'
 slug: ol-pejeta-conservancy-safari-cost-per-day
-primary_keyword: Ol Pejeta Conservancy safari cost per day
+primary_keyword: 'Ol Pejeta Conservancy safari cost per day'
 secondary_keywords:
-- Gorilla trekking tours from Kenya combined Uganda / Rwanda trip
-- Tours starting from Wilson Airport Nairobi fly-in safaris
-- Purchase Kenya honeymoon safari package online
-- Kenya safari holiday offers Europe early booking
-- All-inclusive lodge safari Kenya cost per night
+- 'Gorilla trekking tours from Kenya combined Uganda / Rwanda trip'
+- 'Tours starting from Wilson Airport Nairobi fly-in safaris'
+- 'Purchase Kenya honeymoon safari package online'
+- 'Kenya safari holiday offers Europe early booking'
+- 'All-inclusive lodge safari Kenya cost per night'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

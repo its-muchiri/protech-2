@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Mombasa to Zanzibar Price: Complete Guide'
-description: Everything you need to know about flight from mombasa to zanzibar price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from mombasa to zanzibar price, including routes, airlines, booking tips, and fares.'
 slug: flight-from-mombasa-to-zanzibar-price
-primary_keyword: flight from mombasa to zanzibar price
+primary_keyword: 'flight from mombasa to zanzibar price'
 secondary_keywords:
-- flight from nairobi to dadaab
-- ek flight nairobi to.dubai
-- flight from nairobi to garissa
-- flight from nairobi to harare
-- flight from nairobi to istanbul
+- 'flight from nairobi to dadaab'
+- 'ek flight nairobi to.dubai'
+- 'flight from nairobi to garissa'
+- 'flight from nairobi to harare'
+- 'flight from nairobi to istanbul'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

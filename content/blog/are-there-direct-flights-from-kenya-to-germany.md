@@ -1,14 +1,14 @@
 ---
 title: 'Are There Direct Flights from Kenya to Germany: Complete Guide'
-description: Everything you need to know about are there direct flights from kenya to germany, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about are there direct flights from kenya to germany, including routes, airlines, booking tips, and fares.'
 slug: are-there-direct-flights-from-kenya-to-germany
-primary_keyword: are there direct flights from kenya to germany
+primary_keyword: 'are there direct flights from kenya to germany'
 secondary_keywords:
-- kq international flights
-- kenya airways jfk flights
-- kq flights to lagos
-- kq flights nairobi to mombasa
-- kq flights to kisumu price
+- 'kq international flights'
+- 'kenya airways jfk flights'
+- 'kq flights to lagos'
+- 'kq flights nairobi to mombasa'
+- 'kq flights to kisumu price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Book Kenya Horseback Riding Safari Package UK Laikipia: Complete Guide'
-description: Kenya safari guide covering book kenya horseback riding safari package uk laikipia, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book kenya horseback riding safari package uk laikipia, including what is included, pricing, and booking advice.'
 slug: book-kenya-horseback-riding-safari-package-uk-laikipia
-primary_keyword: Book Kenya horseback riding safari package UK Laikipia
+primary_keyword: 'Book Kenya horseback riding safari package UK Laikipia'
 secondary_keywords:
-- 3 day Masai Mara budget camping tour
-- Mid-range lodge safari Kenya cost
-- Day trips from Thika tour organizers
-- Airport transfer included safari packages Kenya
-- KATO registered company for Amboseli private photography tour
+- '3 day Masai Mara budget camping tour'
+- 'Mid-range lodge safari Kenya cost'
+- 'Day trips from Thika tour organizers'
+- 'Airport transfer included safari packages Kenya'
+- 'KATO registered company for Amboseli private photography tour'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

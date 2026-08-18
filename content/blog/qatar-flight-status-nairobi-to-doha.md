@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Flight Status Nairobi to Doha: Complete Guide'
-description: Everything you need to know about qatar flight status nairobi to doha, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar flight status nairobi to doha, including routes, airlines, booking tips, and fares.'
 slug: qatar-flight-status-nairobi-to-doha
-primary_keyword: qatar flight status nairobi to doha
+primary_keyword: 'qatar flight status nairobi to doha'
 secondary_keywords:
-- flights from nairobi
-- flights from nairobi to amsterdam today
-- flights from nairobi to boston
-- flights from nairobi to cape town
-- cheap flights from nairobi to usa
+- 'flights from nairobi'
+- 'flights from nairobi to amsterdam today'
+- 'flights from nairobi to boston'
+- 'flights from nairobi to cape town'
+- 'cheap flights from nairobi to usa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

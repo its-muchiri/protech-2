@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Riyadh: Complete Guide'
-description: Everything you need to know about flights from nairobi to riyadh, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to riyadh, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-riyadh
-primary_keyword: flights from nairobi to riyadh
+primary_keyword: 'flights from nairobi to riyadh'
 secondary_keywords:
-- qatar airways nairobi office riverside
-- 1 qatar to ksh
-- flight from kc to chicago
-- kenya airways flights from harare to london
-- kq flight from lagos to nairobi today
+- 'qatar airways nairobi office riverside'
+- '1 qatar to ksh'
+- 'flight from kc to chicago'
+- 'kenya airways flights from harare to london'
+- 'kq flight from lagos to nairobi today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

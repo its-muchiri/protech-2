@@ -1,14 +1,14 @@
 ---
 title: 'Cost Comparison Budget Kenya Group Safari Tours USA Local Vs International Agents: Complete Guide'
-description: Kenya safari guide covering cost comparison budget kenya group safari tours usa local vs international agents, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering cost comparison budget kenya group safari tours usa local vs international agents, including what is included, pricing, and booking advice.'
 slug: cost-comparison-budget-kenya-group-safari-tours-usa-local-vs-international-agents
-primary_keyword: Cost comparison budget Kenya group safari tours USA local vs international agents
+primary_keyword: 'Cost comparison budget Kenya group safari tours USA local vs international agents'
 secondary_keywords:
-- Book paragliding safari Kerio Valley Kenya experience USA adventure sports booking cost
-- Kenya wildlife safari
-- Safari Masai Mara
-- Lake Naivasha safari
-- Premium Kenya safari
+- 'Book paragliding safari Kerio Valley Kenya experience USA adventure sports booking cost'
+- 'Kenya wildlife safari'
+- 'Safari Masai Mara'
+- 'Lake Naivasha safari'
+- 'Premium Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

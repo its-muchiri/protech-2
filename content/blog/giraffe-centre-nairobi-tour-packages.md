@@ -1,14 +1,14 @@
 ---
 title: 'Giraffe Centre Nairobi Tour Packages: Complete Guide'
-description: Kenya safari guide covering giraffe centre nairobi tour packages, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering giraffe centre nairobi tour packages, including what is included, pricing, and booking advice.'
 slug: giraffe-centre-nairobi-tour-packages
-primary_keyword: Giraffe Centre Nairobi tour packages
+primary_keyword: 'Giraffe Centre Nairobi tour packages'
 secondary_keywords:
-- Mahali Mzuri safari package deal
-- Luxury honeymoon safari Kenya cost
-- Best value Kenya safari package cost
-- Masai Mara Serengeti migration package booking
-- Book July migration safari package Kenya
+- 'Mahali Mzuri safari package deal'
+- 'Luxury honeymoon safari Kenya cost'
+- 'Best value Kenya safari package cost'
+- 'Masai Mara Serengeti migration package booking'
+- 'Book July migration safari package Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

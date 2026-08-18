@@ -1,14 +1,14 @@
 ---
 title: 'Last Flight from Kisumu to Nairobi: Complete Guide'
-description: Everything you need to know about last flight from kisumu to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about last flight from kisumu to nairobi, including routes, airlines, booking tips, and fares.'
 slug: last-flight-from-kisumu-to-nairobi
-primary_keyword: last flight from kisumu to nairobi
+primary_keyword: 'last flight from kisumu to nairobi'
 secondary_keywords:
-- kenya airways jfk to nairobi review
-- kq flight from kisumu to nairobi price
-- kenya airways flight from nairobi to malindi
-- kq flight from nairobi to zanzibar
-- kenya airways flight schedule from accra to nairobi
+- 'kenya airways jfk to nairobi review'
+- 'kq flight from kisumu to nairobi price'
+- 'kenya airways flight from nairobi to malindi'
+- 'kq flight from nairobi to zanzibar'
+- 'kenya airways flight schedule from accra to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

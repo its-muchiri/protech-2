@@ -1,14 +1,14 @@
 ---
 title: 'Fishing Safari Lake Turkana / Lake Victoria Nile Perch: Complete Guide'
-description: Kenya safari guide covering fishing safari lake turkana / lake victoria nile perch, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering fishing safari lake turkana / lake victoria nile perch, including what is included, pricing, and booking advice.'
 slug: fishing-safari-lake-turkana-lake-victoria-nile-perch
-primary_keyword: Fishing safari Lake Turkana / Lake Victoria Nile Perch
+primary_keyword: 'Fishing safari Lake Turkana / Lake Victoria Nile Perch'
 secondary_keywords:
-- Book 10 day luxury Kenya safari escape package
-- Get booking code 6 day budget Masai Mara safari
-- Reserve 8 day Tortilis Camp Amboseli luxury package
-- Book 7 day Singita Grumeti link Kenya package (linking concepts)
-- Reserve corporate retreat safari package Kenya luxury
+- 'Book 10 day luxury Kenya safari escape package'
+- 'Get booking code 6 day budget Masai Mara safari'
+- 'Reserve 8 day Tortilis Camp Amboseli luxury package'
+- 'Book 7 day Singita Grumeti link Kenya package (linking concepts)'
+- 'Reserve corporate retreat safari package Kenya luxury'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

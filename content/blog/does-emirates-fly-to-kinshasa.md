@@ -1,14 +1,14 @@
 ---
 title: 'Does Emirates Fly to Kinshasa: Complete Guide'
-description: Everything you need to know about does emirates fly to kinshasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about does emirates fly to kinshasa, including routes, airlines, booking tips, and fares.'
 slug: does-emirates-fly-to-kinshasa
-primary_keyword: does emirates fly to kinshasa
+primary_keyword: 'does emirates fly to kinshasa'
 secondary_keywords:
-- flights to kenya from jfk
-- klm flights from kenya to amsterdam
-- flights from kenya to los angeles
-- morocco flights from kenya
-- flights from cape town to nairobi kenya
+- 'flights to kenya from jfk'
+- 'klm flights from kenya to amsterdam'
+- 'flights from kenya to los angeles'
+- 'morocco flights from kenya'
+- 'flights from cape town to nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

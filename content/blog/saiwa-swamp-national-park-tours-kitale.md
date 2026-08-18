@@ -1,14 +1,14 @@
 ---
 title: 'Saiwa Swamp National Park Tours Kitale: Complete Guide'
-description: Kenya safari guide covering saiwa swamp national park tours kitale, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering saiwa swamp national park tours kitale, including what is included, pricing, and booking advice.'
 slug: saiwa-swamp-national-park-tours-kitale
-primary_keyword: Saiwa Swamp National Park tours Kitale
+primary_keyword: 'Saiwa Swamp National Park tours Kitale'
 secondary_keywords:
-- Kenya safari itinerary
-- Solo female traveler Kenya safari
-- How to plan a Kenya safari
-- Kenya safari etiquette
-- All-inclusive Kenya safari and Diani beach package
+- 'Kenya safari itinerary'
+- 'Solo female traveler Kenya safari'
+- 'How to plan a Kenya safari'
+- 'Kenya safari etiquette'
+- 'All-inclusive Kenya safari and Diani beach package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

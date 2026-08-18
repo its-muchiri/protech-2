@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Jamaica: Complete Guide'
-description: Everything you need to know about flights from nairobi to jamaica, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to jamaica, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-jamaica
-primary_keyword: flights from nairobi to jamaica
+primary_keyword: 'flights from nairobi to jamaica'
 secondary_keywords:
-- emirates flights from france
-- emirates flights to greece from newark
-- how many emirates flights from london to dubai each week
-- cheap flights to india from toronto emirates
-- emirates flights from kuala lumpur
+- 'emirates flights from france'
+- 'emirates flights to greece from newark'
+- 'how many emirates flights from london to dubai each week'
+- 'cheap flights to india from toronto emirates'
+- 'emirates flights from kuala lumpur'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

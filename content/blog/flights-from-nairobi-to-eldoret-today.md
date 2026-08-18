@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Eldoret Today: Complete Guide'
-description: Everything you need to know about flights from nairobi to eldoret today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to eldoret today, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-eldoret-today
-primary_keyword: flights from nairobi to eldoret today
+primary_keyword: 'flights from nairobi to eldoret today'
 secondary_keywords:
-- emirates flights to new zealand from sydney
-- emirates flight 17
-- emirates airline 2 letter code
-- what planes do emirates use
-- emirates flight 524
+- 'emirates flights to new zealand from sydney'
+- 'emirates flight 17'
+- 'emirates airline 2 letter code'
+- 'what planes do emirates use'
+- 'emirates flight 524'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

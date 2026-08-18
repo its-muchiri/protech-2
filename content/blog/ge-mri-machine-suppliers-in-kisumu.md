@@ -1,14 +1,14 @@
 ---
 title: 'GE MRI Machine Suppliers in Kisumu: 2026 Price Guide'
-description: Kenya buying guide to ge mri machine suppliers in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to ge mri machine suppliers in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: ge-mri-machine-suppliers-in-kisumu
-primary_keyword: GE MRI machine suppliers in Kisumu
+primary_keyword: 'GE MRI machine suppliers in Kisumu'
 secondary_keywords:
-- Medical suppliers on Kirinyaga Road, Nairobi
-- Mortuary freezer price in Kisii
-- Surgical diathermy repair in Nairobi
-- Digital mammography machine for sale in Kisumu
-- Computed Radiography (CR) system upgrade cost
+- 'Medical suppliers on Kirinyaga Road, Nairobi'
+- 'Mortuary freezer price in Kisii'
+- 'Surgical diathermy repair in Nairobi'
+- 'Digital mammography machine for sale in Kisumu'
+- 'Computed Radiography (CR) system upgrade cost'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

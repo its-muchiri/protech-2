@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Diani: Complete Guide'
-description: Everything you need to know about flights from nairobi to diani, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to diani, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-diani
-primary_keyword: flights from nairobi to diani
+primary_keyword: 'flights from nairobi to diani'
 secondary_keywords:
-- airlines in kenya job vacancies
-- requirements for local flights in kenya
-- flights to kenya in october
-- flights ro kenya
-- flights kenya to cape town
+- 'airlines in kenya job vacancies'
+- 'requirements for local flights in kenya'
+- 'flights to kenya in october'
+- 'flights ro kenya'
+- 'flights kenya to cape town'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

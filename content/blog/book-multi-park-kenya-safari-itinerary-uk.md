@@ -1,14 +1,14 @@
 ---
 title: 'Book Multi-park Kenya Safari Itinerary UK: Complete Guide'
-description: Kenya safari guide covering book multi-park kenya safari itinerary uk, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book multi-park kenya safari itinerary uk, including what is included, pricing, and booking advice.'
 slug: book-multi-park-kenya-safari-itinerary-uk
-primary_keyword: Book multi-park Kenya safari itinerary UK
+primary_keyword: 'Book multi-park Kenya safari itinerary UK'
 secondary_keywords:
-- Pangolin safari Kenya (extremely difficult sighting)
-- Wilson Airport Nairobi safari flights
-- Best travel pillow Kenya safari flight
-- Cost estimate Kenya safari package
-- 5 day Kenya highlights tour package cost
+- 'Pangolin safari Kenya (extremely difficult sighting)'
+- 'Wilson Airport Nairobi safari flights'
+- 'Best travel pillow Kenya safari flight'
+- 'Cost estimate Kenya safari package'
+- '5 day Kenya highlights tour package cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'One Week Kenya Wildlife Tour Special Offers: Complete Guide'
-description: Kenya safari guide covering one week kenya wildlife tour special offers, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering one week kenya wildlife tour special offers, including what is included, pricing, and booking advice.'
 slug: one-week-kenya-wildlife-tour-special-offers
-primary_keyword: One week Kenya wildlife tour special offers
+primary_keyword: 'One week Kenya wildlife tour special offers'
 secondary_keywords:
-- Quote for 10 day Kenya photography workshop package
-- Get deal 12 day ultimate Kenya wildlife package booking
-- Reserve 7 day best of Kenya value safari package operator
-- Pay deposit for luxury Kenya honeymoon package
-- Reserve with trusted Kenya safari operator package
+- 'Quote for 10 day Kenya photography workshop package'
+- 'Get deal 12 day ultimate Kenya wildlife package booking'
+- 'Reserve 7 day best of Kenya value safari package operator'
+- 'Pay deposit for luxury Kenya honeymoon package'
+- 'Reserve with trusted Kenya safari operator package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

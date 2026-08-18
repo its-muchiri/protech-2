@@ -1,14 +1,14 @@
 ---
 title: 'Secure All-inclusive Luxury Safari Kenya Purchase: Complete Guide'
-description: Kenya safari guide covering secure all-inclusive luxury safari kenya purchase, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering secure all-inclusive luxury safari kenya purchase, including what is included, pricing, and booking advice.'
 slug: secure-all-inclusive-luxury-safari-kenya-purchase
-primary_keyword: Secure all-inclusive luxury safari Kenya purchase
+primary_keyword: 'Secure all-inclusive luxury safari Kenya purchase'
 secondary_keywords:
-- Secure Shimba Hills coastal safari package
-- Buy 8 day Kenya discovery package online
-- Book small group Kenya safari reservation
-- Cost of Kenya safari tour
-- 3 day Kenya safari package price quote
+- 'Secure Shimba Hills coastal safari package'
+- 'Buy 8 day Kenya discovery package online'
+- 'Book small group Kenya safari reservation'
+- 'Cost of Kenya safari tour'
+- '3 day Kenya safari package price quote'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

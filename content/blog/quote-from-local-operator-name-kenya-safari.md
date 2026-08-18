@@ -1,14 +1,14 @@
 ---
 title: 'Quote from  Kenya Safari: Complete Guide'
-description: Kenya safari guide covering quote from  kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering quote from  kenya safari, including what is included, pricing, and booking advice.'
 slug: quote-from-local-operator-name-kenya-safari
-primary_keyword: Quote from  Kenya safari
+primary_keyword: 'Quote from  Kenya safari'
 secondary_keywords:
-- Couples safari package Kenya reserve
-- Affordable 7 day Kenya safari booking
-- Masai Mara Lake Nakuru safari package deal
-- Easter holiday Kenya safari package buy
-- Kenya safari reviews and booking
+- 'Couples safari package Kenya reserve'
+- 'Affordable 7 day Kenya safari booking'
+- 'Masai Mara Lake Nakuru safari package deal'
+- 'Easter holiday Kenya safari package buy'
+- 'Kenya safari reviews and booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

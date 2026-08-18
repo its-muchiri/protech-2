@@ -1,14 +1,14 @@
 ---
 title: 'Analogue Mammography Machine Cost in Mombasa: 2026 Price Guide'
-description: Kenya buying guide to analogue mammography machine cost in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to analogue mammography machine cost in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: analogue-mammography-machine-cost-in-mombasa
-primary_keyword: Analogue mammography machine cost in Mombasa
+primary_keyword: 'Analogue mammography machine cost in Mombasa'
 secondary_keywords:
-- incontinence products Kenya
-- umbilical cord clamps Kenya
-- body bags Kenya supplier
-- blood sugar strips Kenya
-- clinical waste bags Kenya
+- 'incontinence products Kenya'
+- 'umbilical cord clamps Kenya'
+- 'body bags Kenya supplier'
+- 'blood sugar strips Kenya'
+- 'clinical waste bags Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Examination Couch Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to examination couch price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to examination couch price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: examination-couch-price-in-kenya
-primary_keyword: Examination couch price in Kenya
+primary_keyword: 'Examination couch price in Kenya'
 secondary_keywords:
-- Surgical suction machine price in Kisumu
-- 3-function electric hospital bed for sale in Nairobi
-- Ambulance stretcher for sale in Kenya
-- Baby cot and bassinet for hospital use
-- Stress test ECG system price
+- 'Surgical suction machine price in Kisumu'
+- '3-function electric hospital bed for sale in Nairobi'
+- 'Ambulance stretcher for sale in Kenya'
+- 'Baby cot and bassinet for hospital use'
+- 'Stress test ECG system price'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

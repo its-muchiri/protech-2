@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from Nairobi to Kisumu: Complete Guide'
-description: Everything you need to know about kq flights from nairobi to kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from nairobi to kisumu, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-nairobi-to-kisumu
-primary_keyword: kq flights from nairobi to kisumu
+primary_keyword: 'kq flights from nairobi to kisumu'
 secondary_keywords:
-- kq flight attendant job application
-- kenya airways flights bujumbura nairobi
-- kq flight cost from nairobi to mombasa
-- kq flight disruptions jkia
-- kq flights from entebbe to nairobi today
+- 'kq flight attendant job application'
+- 'kenya airways flights bujumbura nairobi'
+- 'kq flight cost from nairobi to mombasa'
+- 'kq flight disruptions jkia'
+- 'kq flights from entebbe to nairobi today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

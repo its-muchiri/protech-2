@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kisumu to Entebbe: Complete Guide'
-description: Everything you need to know about flights from kisumu to entebbe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kisumu to entebbe, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kisumu-to-entebbe
-primary_keyword: flights from kisumu to entebbe
+primary_keyword: 'flights from kisumu to entebbe'
 secondary_keywords:
-- flight from nairobi to japan
-- flight from nairobi to lagos today
-- flight from nairobi to migori
-- flight time from nairobi to new delhi
-- flight from nairobi to paris
+- 'flight from nairobi to japan'
+- 'flight from nairobi to lagos today'
+- 'flight from nairobi to migori'
+- 'flight time from nairobi to new delhi'
+- 'flight from nairobi to paris'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

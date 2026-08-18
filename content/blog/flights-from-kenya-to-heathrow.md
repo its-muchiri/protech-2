@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Heathrow: Complete Guide'
-description: Everything you need to know about flights from kenya to heathrow, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to heathrow, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-heathrow
-primary_keyword: flights from kenya to heathrow
+primary_keyword: 'flights from kenya to heathrow'
 secondary_keywords:
-- emirates flights from stansted to dubai today
-- emirates flights from toronto to dubai schedule
-- emirates flights from vancouver to dubai
-- emirates flight from washington dc to dubai
-- emirates flights from new york to europe
+- 'emirates flights from stansted to dubai today'
+- 'emirates flights from toronto to dubai schedule'
+- 'emirates flights from vancouver to dubai'
+- 'emirates flight from washington dc to dubai'
+- 'emirates flights from new york to europe'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

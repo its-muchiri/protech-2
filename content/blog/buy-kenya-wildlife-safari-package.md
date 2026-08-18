@@ -1,14 +1,14 @@
 ---
 title: 'Buy Kenya Wildlife Safari Package: Complete Guide'
-description: Kenya safari guide covering buy kenya wildlife safari package, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy kenya wildlife safari package, including what is included, pricing, and booking advice.'
 slug: buy-kenya-wildlife-safari-package
-primary_keyword: Buy Kenya wildlife safari package
+primary_keyword: 'Buy Kenya wildlife safari package'
 secondary_keywords:
-- Purchase August Masai Mara migration package quote
-- Quote 12 day ultimate luxury Kenya private jet safari package exclusive use
-- Book 14 day Kenya photo workshop package  availability
-- How to choose a reputable tour company in Kenya
-- Amboseli National Park tour 2 days from Nairobi price
+- 'Purchase August Masai Mara migration package quote'
+- 'Quote 12 day ultimate luxury Kenya private jet safari package exclusive use'
+- 'Book 14 day Kenya photo workshop package  availability'
+- 'How to choose a reputable tour company in Kenya'
+- 'Amboseli National Park tour 2 days from Nairobi price'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

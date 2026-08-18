@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from Amsterdam to Nairobi: Complete Guide'
-description: Everything you need to know about kenya airways flight from amsterdam to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from amsterdam to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-amsterdam-to-nairobi
-primary_keyword: kenya airways flight from amsterdam to nairobi
+primary_keyword: 'kenya airways flight from amsterdam to nairobi'
 secondary_keywords:
-- flights from nairobi to johannesburg
-- flights from nairobi kenya to brazzaville congo
-- flights from nairobi to lodwar
-- flights from nairobi to manchester uk
-- flights from nairobi to ndola
+- 'flights from nairobi to johannesburg'
+- 'flights from nairobi kenya to brazzaville congo'
+- 'flights from nairobi to lodwar'
+- 'flights from nairobi to manchester uk'
+- 'flights from nairobi to ndola'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

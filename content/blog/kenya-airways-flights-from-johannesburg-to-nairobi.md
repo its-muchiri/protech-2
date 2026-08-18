@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights from Johannesburg to Nairobi: Complete Guide'
-description: Everything you need to know about kenya airways flights from johannesburg to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights from johannesburg to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-from-johannesburg-to-nairobi
-primary_keyword: kenya airways flights from johannesburg to nairobi
+primary_keyword: 'kenya airways flights from johannesburg to nairobi'
 secondary_keywords:
-- flight from kisumu to dar es salaam
-- kisumu international airport address
-- flights from kisumu to lamu
-- flight from eldoret to kisumu price
-- flights to kisumu from mombasa
+- 'flight from kisumu to dar es salaam'
+- 'kisumu international airport address'
+- 'flights from kisumu to lamu'
+- 'flight from eldoret to kisumu price'
+- 'flights to kisumu from mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

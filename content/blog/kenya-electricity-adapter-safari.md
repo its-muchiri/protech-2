@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Electricity Adapter Safari: Complete Guide'
-description: Kenya safari guide covering kenya electricity adapter safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya electricity adapter safari, including what is included, pricing, and booking advice.'
 slug: kenya-electricity-adapter-safari
-primary_keyword: Kenya electricity adapter safari
+primary_keyword: 'Kenya electricity adapter safari'
 secondary_keywords:
-- Wild dog safari Kenya (rare)
-- Kenya safari from USA
-- Kenya safari in March
-- Kenya safari companies
-- Kenya safari specialist
+- 'Wild dog safari Kenya (rare)'
+- 'Kenya safari from USA'
+- 'Kenya safari in March'
+- 'Kenya safari companies'
+- 'Kenya safari specialist'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

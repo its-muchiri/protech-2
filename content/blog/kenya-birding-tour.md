@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Birding Tour: Complete Guide'
-description: Kenya safari guide covering kenya birding tour, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya birding tour, including what is included, pricing, and booking advice.'
 slug: kenya-birding-tour
-primary_keyword: Kenya birding tour
+primary_keyword: 'Kenya birding tour'
 secondary_keywords:
-- 4 day Kenya safari
-- How much is a Kenya safari
-- Hidden costs Kenya safari
-- Fly camp accommodation Kenya
-- Fishing safari Kenya (e.g., Lake Turkana)
+- '4 day Kenya safari'
+- 'How much is a Kenya safari'
+- 'Hidden costs Kenya safari'
+- 'Fly camp accommodation Kenya'
+- 'Fishing safari Kenya (e.g., Lake Turkana)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Uk: Complete Guide'
-description: Everything you need to know about flights from nairobi to uk, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to uk, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-uk
-primary_keyword: flights from nairobi to uk
+primary_keyword: 'flights from nairobi to uk'
 secondary_keywords:
-- how long is flight from nairobi to qatar
-- does qatar airways fly direct to toronto
-- qatar airways frankfurt nairobi
-- qatar airways nairobi office contacts
-- qatar airways from nairobi to usa
+- 'how long is flight from nairobi to qatar'
+- 'does qatar airways fly direct to toronto'
+- 'qatar airways frankfurt nairobi'
+- 'qatar airways nairobi office contacts'
+- 'qatar airways from nairobi to usa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

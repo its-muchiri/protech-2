@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Abuja: Complete Guide'
-description: Everything you need to know about flight from nairobi to abuja, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to abuja, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-abuja
-primary_keyword: flight from nairobi to abuja
+primary_keyword: 'flight from nairobi to abuja'
 secondary_keywords:
-- cheap flights from nairobi to south africa
-- cheap flights from nairobi to europe
-- which airlines fly from nairobi to malindi
-- flights from mombasa to nairobi
-- are there flights from mombasa to malindi
+- 'cheap flights from nairobi to south africa'
+- 'cheap flights from nairobi to europe'
+- 'which airlines fly from nairobi to malindi'
+- 'flights from mombasa to nairobi'
+- 'are there flights from mombasa to malindi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

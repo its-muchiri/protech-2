@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Heathrow Today: Complete Guide'
-description: Everything you need to know about emirates flights from heathrow today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from heathrow today, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-heathrow-today
-primary_keyword: emirates flights from heathrow today
+primary_keyword: 'emirates flights from heathrow today'
 secondary_keywords:
-- flights from nairobi wilson to kisumu
-- flights from nairobi to wajir
-- flights from nairobi to kisumu today
-- 540 flight from nairobi to malindi
-- cheap flights from mombasa to nairobi
+- 'flights from nairobi wilson to kisumu'
+- 'flights from nairobi to wajir'
+- 'flights from nairobi to kisumu today'
+- '540 flight from nairobi to malindi'
+- 'cheap flights from mombasa to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

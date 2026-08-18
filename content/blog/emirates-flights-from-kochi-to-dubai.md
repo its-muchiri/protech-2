@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Kochi to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from kochi to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from kochi to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-kochi-to-dubai
-primary_keyword: emirates flights from kochi to dubai
+primary_keyword: 'emirates flights from kochi to dubai'
 secondary_keywords:
-- flights from kenya to malaysia
-- flight dispatcher salary in kenya per month
-- is kenya airport open today
-- does united fly to kenya
-- flights from kenya to new zealand
+- 'flights from kenya to malaysia'
+- 'flight dispatcher salary in kenya per month'
+- 'is kenya airport open today'
+- 'does united fly to kenya'
+- 'flights from kenya to new zealand'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

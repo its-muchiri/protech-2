@@ -1,14 +1,14 @@
 ---
 title: 'Shoulder Wheel and Finger Ladder Suppliers in Mombasa: 2026 Price Guide'
-description: Kenya buying guide to shoulder wheel and finger ladder suppliers in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to shoulder wheel and finger ladder suppliers in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: shoulder-wheel-and-finger-ladder-suppliers-in-mombasa
-primary_keyword: Shoulder wheel and finger ladder suppliers in Mombasa
+primary_keyword: 'Shoulder wheel and finger ladder suppliers in Mombasa'
 secondary_keywords:
-- orthodontic supplies wholesale Kenya
-- lead aprons for radiology staff price
-- pediatric mobility aids suppliers
-- UPS for sensitive medical equipment
-- sensory integration room setup
+- 'orthodontic supplies wholesale Kenya'
+- 'lead aprons for radiology staff price'
+- 'pediatric mobility aids suppliers'
+- 'UPS for sensitive medical equipment'
+- 'sensory integration room setup'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

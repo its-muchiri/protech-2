@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Vancouver: Complete Guide'
-description: Everything you need to know about flights from nairobi to vancouver, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to vancouver, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-vancouver
-primary_keyword: flights from nairobi to vancouver
+primary_keyword: 'flights from nairobi to vancouver'
 secondary_keywords:
-- flight from nairobi to vienna
-- what is the longest flight from nairobi
-- flight from nairobi to zurich
-- how much flight from nairobi to mombasa
-- flight 540 nairobi to mombasa price indigo
+- 'flight from nairobi to vienna'
+- 'what is the longest flight from nairobi'
+- 'flight from nairobi to zurich'
+- 'how much flight from nairobi to mombasa'
+- 'flight 540 nairobi to mombasa price indigo'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

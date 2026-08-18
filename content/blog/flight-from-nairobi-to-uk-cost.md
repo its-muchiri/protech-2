@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Uk Cost: Complete Guide'
-description: Everything you need to know about flight from nairobi to uk cost, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to uk cost, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-uk-cost
-primary_keyword: flight from nairobi to uk cost
+primary_keyword: 'flight from nairobi to uk cost'
 secondary_keywords:
-- kenya airways flight from nairobi to kisumu
-- kenya airways flights from nairobi to bangkok
-- kenya airways flight schedule to freetown from nairobi
-- kenya airways flight from nairobi to kampala ticket price
-- kenya airways flight from mauritius to nairobi today
+- 'kenya airways flight from nairobi to kisumu'
+- 'kenya airways flights from nairobi to bangkok'
+- 'kenya airways flight schedule to freetown from nairobi'
+- 'kenya airways flight from nairobi to kampala ticket price'
+- 'kenya airways flight from mauritius to nairobi today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

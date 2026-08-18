@@ -1,14 +1,14 @@
 ---
 title: 'Flight for Nairobi: Complete Guide'
-description: Everything you need to know about flight for nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight for nairobi, including routes, airlines, booking tips, and fares.'
 slug: flight-for-nairobi
-primary_keyword: flight for nairobi
+primary_keyword: 'flight for nairobi'
 secondary_keywords:
-- kq 882 flight status
-- emirates airlines nairobi contacts
-- emirates airlines nairobi office phone number
-- emirates from nairobi to dubai
-- emirates careers nairobi
+- 'kq 882 flight status'
+- 'emirates airlines nairobi contacts'
+- 'emirates airlines nairobi office phone number'
+- 'emirates from nairobi to dubai'
+- 'emirates careers nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

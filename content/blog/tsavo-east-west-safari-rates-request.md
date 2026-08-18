@@ -1,14 +1,14 @@
 ---
 title: 'Tsavo East West Safari Rates Request: Complete Guide'
-description: Kenya safari guide covering tsavo east west safari rates request, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering tsavo east west safari rates request, including what is included, pricing, and booking advice.'
 slug: tsavo-east-west-safari-rates-request
-primary_keyword: Tsavo East West safari rates request
+primary_keyword: 'Tsavo East West safari rates request'
 secondary_keywords:
-- Safari camp with pool Kenya
-- Sundowners Kenya safari
-- Flamingo safari Lake Nakuru
-- East Africa safari Kenya Tanzania
-- Kenya safari weather
+- 'Safari camp with pool Kenya'
+- 'Sundowners Kenya safari'
+- 'Flamingo safari Lake Nakuru'
+- 'East Africa safari Kenya Tanzania'
+- 'Kenya safari weather'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

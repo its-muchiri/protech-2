@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi to Windhoek Flights: Complete Guide'
-description: Everything you need to know about nairobi to windhoek flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about nairobi to windhoek flights, including routes, airlines, booking tips, and fares.'
 slug: nairobi-to-windhoek-flights
-primary_keyword: nairobi to windhoek flights
+primary_keyword: 'nairobi to windhoek flights'
 secondary_keywords:
-- flights from nairobi to edinburgh
-- cheap flights from nairobi to frankfurt germany
-- flights from nairobi to galkayo
-- homa bay flights from nairobi
-- flights to italy from nairobi
+- 'flights from nairobi to edinburgh'
+- 'cheap flights from nairobi to frankfurt germany'
+- 'flights from nairobi to galkayo'
+- 'homa bay flights from nairobi'
+- 'flights to italy from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

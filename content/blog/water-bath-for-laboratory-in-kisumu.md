@@ -1,14 +1,14 @@
 ---
 title: 'Water Bath for Laboratory in Kisumu: 2026 Price Guide'
-description: Kenya buying guide to water bath for laboratory in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to water bath for laboratory in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: water-bath-for-laboratory-in-kisumu
-primary_keyword: Water bath for laboratory in Kisumu
+primary_keyword: 'Water bath for laboratory in Kisumu'
 secondary_keywords:
-- hospital waste management plan
-- medical equipment for correctional facilities
-- diagnostic equipment Kenya
-- Kenya medical market overview
-- medical supplies near me Kenya
+- 'hospital waste management plan'
+- 'medical equipment for correctional facilities'
+- 'diagnostic equipment Kenya'
+- 'Kenya medical market overview'
+- 'medical supplies near me Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

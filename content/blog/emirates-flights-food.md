@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights Food: Complete Guide'
-description: Everything you need to know about emirates flights food, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights food, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-food
-primary_keyword: emirates flights food
+primary_keyword: 'emirates flights food'
 secondary_keywords:
-- kenya airways flight schedule nairobi to harare tomorrow
-- kenya airways flight schedule nairobi to kigali
-- kenya airways flight from mumbai to nairobi
-- kenya airways fare from kenya to usa
-- flight from nairobi to addis ababa
+- 'kenya airways flight schedule nairobi to harare tomorrow'
+- 'kenya airways flight schedule nairobi to kigali'
+- 'kenya airways flight from mumbai to nairobi'
+- 'kenya airways fare from kenya to usa'
+- 'flight from nairobi to addis ababa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

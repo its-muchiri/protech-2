@@ -1,14 +1,14 @@
 ---
 title: 'Book One Week Kenya Wildlife Tour Reservation: Complete Guide'
-description: Kenya safari guide covering book one week kenya wildlife tour reservation, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book one week kenya wildlife tour reservation, including what is included, pricing, and booking advice.'
 slug: book-one-week-kenya-wildlife-tour-reservation
-primary_keyword: Book one week Kenya wildlife tour reservation
+primary_keyword: 'Book one week Kenya wildlife tour reservation'
 secondary_keywords:
-- Book 11 day Kenya discovery self-drive package (assisted) quote
-- Cost of 5 day Samburu special five photo package buy
-- Book tour package Kenya  recommended
-- Reserve Ol Pejeta family package school holidays
-- Final check price 14 day Kenya discovery package tour
+- 'Book 11 day Kenya discovery self-drive package (assisted) quote'
+- 'Cost of 5 day Samburu special five photo package buy'
+- 'Book tour package Kenya  recommended'
+- 'Reserve Ol Pejeta family package school holidays'
+- 'Final check price 14 day Kenya discovery package tour'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

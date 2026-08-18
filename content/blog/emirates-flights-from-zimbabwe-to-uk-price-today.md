@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Zimbabwe to Uk Price Today: Complete Guide'
-description: Everything you need to know about emirates flights from zimbabwe to uk price today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from zimbabwe to uk price today, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-zimbabwe-to-uk-price-today
-primary_keyword: emirates flights from zimbabwe to uk price today
+primary_keyword: 'emirates flights from zimbabwe to uk price today'
 secondary_keywords:
-- ethiopian airlines from nairobi
-- ethiopian airlines location in nairobi
-- ethiopian airlines ticket price from addis ababa to nairobi today
-- turkish airlines office nairobi airport
-- turkey flight from kenya
+- 'ethiopian airlines from nairobi'
+- 'ethiopian airlines location in nairobi'
+- 'ethiopian airlines ticket price from addis ababa to nairobi today'
+- 'turkish airlines office nairobi airport'
+- 'turkey flight from kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

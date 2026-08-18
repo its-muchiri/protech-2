@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Big Five Safari Holiday Deals USA Guaranteed Sightings: Complete Guide'
-description: Kenya safari guide covering kenya big five safari holiday deals usa guaranteed sightings, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya big five safari holiday deals usa guaranteed sightings, including what is included, pricing, and booking advice.'
 slug: kenya-big-five-safari-holiday-deals-usa-guaranteed-sightings
-primary_keyword: Kenya Big Five safari holiday deals USA guaranteed sightings
+primary_keyword: 'Kenya Big Five safari holiday deals USA guaranteed sightings'
 secondary_keywords:
-- Kenya safari package inclusions comparison
-- Kenya safari package with beach extension buy
-- Quote for 7 day Kenya safari
-- Book 3 day Masai Mara migration package (last minute)
-- Quote for 10 day Kenya photography workshop package
+- 'Kenya safari package inclusions comparison'
+- 'Kenya safari package with beach extension buy'
+- 'Quote for 7 day Kenya safari'
+- 'Book 3 day Masai Mara migration package (last minute)'
+- 'Quote for 10 day Kenya photography workshop package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

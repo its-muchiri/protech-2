@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights from Uk: Complete Guide'
-description: Everything you need to know about kenya airways flights from uk, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights from uk, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-from-uk
-primary_keyword: kenya airways flights from uk
+primary_keyword: 'kenya airways flights from uk'
 secondary_keywords:
-- flights to kenya in june
-- flights to kenya in march
-- flights operating in kenya
-- flights from kenya to rwanda
-- flights kenya to australia
+- 'flights to kenya in june'
+- 'flights to kenya in march'
+- 'flights operating in kenya'
+- 'flights from kenya to rwanda'
+- 'flights kenya to australia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

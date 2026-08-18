@@ -1,14 +1,14 @@
 ---
 title: 'British Airways Boarding Rules: Complete Guide'
-description: Everything you need to know about british airways boarding rules, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about british airways boarding rules, including routes, airlines, booking tips, and fares.'
 slug: british-airways-boarding-rules
-primary_keyword: british airways boarding rules
+primary_keyword: 'british airways boarding rules'
 secondary_keywords:
-- 748 flight from mombasa to nairobi
-- turkish airlines app not working
-- turkey to kenya flight time
-- turkish airlines nairobi to istanbul today
-- turkish airlines nairobi office contacts
+- '748 flight from mombasa to nairobi'
+- 'turkish airlines app not working'
+- 'turkey to kenya flight time'
+- 'turkish airlines nairobi to istanbul today'
+- 'turkish airlines nairobi office contacts'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

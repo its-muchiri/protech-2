@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Lounge Kenya: Complete Guide'
-description: Everything you need to know about emirates lounge kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates lounge kenya, including routes, airlines, booking tips, and fares.'
 slug: emirates-lounge-kenya
-primary_keyword: emirates lounge kenya
+primary_keyword: 'emirates lounge kenya'
 secondary_keywords:
-- kenya airways flight schedule nairobi to harare today
-- kenya airways flight price from nairobi to kisumu
-- kenya airways flight from mauritius to nairobi
-- flights from nairobi to ukunda kenya
-- flight from nairobi to kampala
+- 'kenya airways flight schedule nairobi to harare today'
+- 'kenya airways flight price from nairobi to kisumu'
+- 'kenya airways flight from mauritius to nairobi'
+- 'flights from nairobi to ukunda kenya'
+- 'flight from nairobi to kampala'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Rwanda: Complete Guide'
-description: Everything you need to know about flights from nairobi to rwanda, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to rwanda, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-rwanda
-primary_keyword: flights from nairobi to rwanda
+primary_keyword: 'flights from nairobi to rwanda'
 secondary_keywords:
-- flights to mombasa from europe
-- flights from mombasa to garissa
-- flights from homabay to mombasa
-- cheap flights from mombasa to johannesburg
-- kenya airways flights from mombasa to nairobi
+- 'flights to mombasa from europe'
+- 'flights from mombasa to garissa'
+- 'flights from homabay to mombasa'
+- 'cheap flights from mombasa to johannesburg'
+- 'kenya airways flights from mombasa to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

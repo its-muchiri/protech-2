@@ -1,14 +1,14 @@
 ---
 title: 'Cheapest Emirates Flights from Uk: Complete Guide'
-description: Everything you need to know about cheapest emirates flights from uk, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheapest emirates flights from uk, including routes, airlines, booking tips, and fares.'
 slug: cheapest-emirates-flights-from-uk
-primary_keyword: cheapest emirates flights from uk
+primary_keyword: 'cheapest emirates flights from uk'
 secondary_keywords:
-- flight from nairobi mombasa
-- flights from nairobi to nanyuki
-- flights from nairobi to ottawa
-- flights from nairobi to perth
-- qatar airways flights from nairobi to doha
+- 'flight from nairobi mombasa'
+- 'flights from nairobi to nanyuki'
+- 'flights from nairobi to ottawa'
+- 'flights from nairobi to perth'
+- 'qatar airways flights from nairobi to doha'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

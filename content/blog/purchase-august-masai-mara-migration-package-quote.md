@@ -1,14 +1,14 @@
 ---
 title: 'Purchase August Masai Mara Migration Package Quote: Complete Guide'
-description: Kenya safari guide covering purchase august masai mara migration package quote, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase august masai mara migration package quote, including what is included, pricing, and booking advice.'
 slug: purchase-august-masai-mara-migration-package-quote
-primary_keyword: Purchase August Masai Mara migration package quote
+primary_keyword: 'Purchase August Masai Mara migration package quote'
 secondary_keywords:
-- Kenya film crew logistics support tour operators
-- Purchase Masai Mara safari trip online Europe
-- Book safari tour Kenya online payment
-- Private Kenya safari tour cost calculator
-- Best Kenya family safari packages Europe child friendly
+- 'Kenya film crew logistics support tour operators'
+- 'Purchase Masai Mara safari trip online Europe'
+- 'Book safari tour Kenya online payment'
+- 'Private Kenya safari tour cost calculator'
+- 'Best Kenya family safari packages Europe child friendly'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

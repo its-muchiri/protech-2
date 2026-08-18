@@ -1,14 +1,14 @@
 ---
 title: 'Flight Fare from Nairobi to Kisumu: Complete Guide'
-description: Everything you need to know about flight fare from nairobi to kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight fare from nairobi to kisumu, including routes, airlines, booking tips, and fares.'
 slug: flight-fare-from-nairobi-to-kisumu
-primary_keyword: flight fare from nairobi to kisumu
+primary_keyword: 'flight fare from nairobi to kisumu'
 secondary_keywords:
-- flights from boston to mombasa kenya
-- flights to mombasa cost
-- flights to mombasa direct
-- flights from mombasa to johannesburg
-- flight from nairobi to mombasa how many hours
+- 'flights from boston to mombasa kenya'
+- 'flights to mombasa cost'
+- 'flights to mombasa direct'
+- 'flights from mombasa to johannesburg'
+- 'flight from nairobi to mombasa how many hours'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

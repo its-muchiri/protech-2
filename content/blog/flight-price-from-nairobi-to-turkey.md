@@ -1,14 +1,14 @@
 ---
 title: 'Flight Price from Nairobi to Turkey: Complete Guide'
-description: Everything you need to know about flight price from nairobi to turkey, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight price from nairobi to turkey, including routes, airlines, booking tips, and fares.'
 slug: flight-price-from-nairobi-to-turkey
-primary_keyword: flight price from nairobi to turkey
+primary_keyword: 'flight price from nairobi to turkey'
 secondary_keywords:
-- how long is a flight from frankfurt to nairobi
-- how many hours flight from nairobi to germany
-- how much is flight from nairobi to zanzibar
-- flight from nairobi to johannesburg time
-- flight from nairobi to lagos
+- 'how long is a flight from frankfurt to nairobi'
+- 'how many hours flight from nairobi to germany'
+- 'how much is flight from nairobi to zanzibar'
+- 'flight from nairobi to johannesburg time'
+- 'flight from nairobi to lagos'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

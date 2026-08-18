@@ -1,14 +1,14 @@
 ---
 title: 'Lodge Safari Package Kenya Deals Online: Complete Guide'
-description: Kenya safari guide covering lodge safari package kenya deals online, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering lodge safari package kenya deals online, including what is included, pricing, and booking advice.'
 slug: lodge-safari-package-kenya-deals-online
-primary_keyword: Lodge safari package Kenya deals online
+primary_keyword: 'Lodge safari package Kenya deals online'
 secondary_keywords:
-- Package & Deal Seeking (Packages, Deals, Offers, All-inclusive, Cost, Price, Quote)
-- 10-day Kenya safari tour cost estimate Europe
-- Luxury tented camp safari Kenya cost per person USA
-- Book Kenya conservation safari experience USA rhino focus
-- Book safari near Nairobi National Park day trip price
+- 'Package & Deal Seeking (Packages, Deals, Offers, All-inclusive, Cost, Price, Quote)'
+- '10-day Kenya safari tour cost estimate Europe'
+- 'Luxury tented camp safari Kenya cost per person USA'
+- 'Book Kenya conservation safari experience USA rhino focus'
+- 'Book safari near Nairobi National Park day trip price'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

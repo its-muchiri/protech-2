@@ -1,14 +1,14 @@
 ---
 title: 'Does Qatar Airways Fly to Nairobi: Complete Guide'
-description: Everything you need to know about does qatar airways fly to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about does qatar airways fly to nairobi, including routes, airlines, booking tips, and fares.'
 slug: does-qatar-airways-fly-to-nairobi
-primary_keyword: does qatar airways fly to nairobi
+primary_keyword: 'does qatar airways fly to nairobi'
 secondary_keywords:
-- berlin to nairobi flights
-- cheap flights nairobi to entebbe
-- flights to nairobi emirates
-- flights nairobi to geneva
-- flights nairobi to homa bay
+- 'berlin to nairobi flights'
+- 'cheap flights nairobi to entebbe'
+- 'flights to nairobi emirates'
+- 'flights nairobi to geneva'
+- 'flights nairobi to homa bay'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

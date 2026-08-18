@@ -1,14 +1,14 @@
 ---
 title: 'GE Logiq Series Ultrasound Cost in Kisumu: 2026 Price Guide'
-description: Kenya buying guide to ge logiq series ultrasound cost in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to ge logiq series ultrasound cost in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: ge-logiq-series-ultrasound-cost-in-kisumu
-primary_keyword: GE Logiq series ultrasound cost in Kisumu
+primary_keyword: 'GE Logiq series ultrasound cost in Kisumu'
 secondary_keywords:
-- pulse oximeters Kenya price
-- vital signs monitor Kenya
-- laboratory microscopes Kenya price
-- operating tables Kenya price
-- laparoscopy equipment Kenya
+- 'pulse oximeters Kenya price'
+- 'vital signs monitor Kenya'
+- 'laboratory microscopes Kenya price'
+- 'operating tables Kenya price'
+- 'laparoscopy equipment Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

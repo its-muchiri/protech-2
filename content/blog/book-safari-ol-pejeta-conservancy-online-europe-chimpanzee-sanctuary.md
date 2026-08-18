@@ -1,14 +1,14 @@
 ---
 title: 'Book Safari Ol Pejeta Conservancy Online Europe Chimpanzee Sanctuary: Complete Guide'
-description: Kenya safari guide covering book safari ol pejeta conservancy online europe chimpanzee sanctuary, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book safari ol pejeta conservancy online europe chimpanzee sanctuary, including what is included, pricing, and booking advice.'
 slug: book-safari-ol-pejeta-conservancy-online-europe-chimpanzee-sanctuary
-primary_keyword: Book safari Ol Pejeta Conservancy online Europe chimpanzee sanctuary
+primary_keyword: 'Book safari Ol Pejeta Conservancy online Europe chimpanzee sanctuary'
 secondary_keywords:
-- Private safari house Kenya
-- Boat safari Lake Naivasha
-- Leopard spotting Kenya safari
-- Kenya safari and beach
-- Kenya safari from Dubai
+- 'Private safari house Kenya'
+- 'Boat safari Lake Naivasha'
+- 'Leopard spotting Kenya safari'
+- 'Kenya safari and beach'
+- 'Kenya safari from Dubai'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

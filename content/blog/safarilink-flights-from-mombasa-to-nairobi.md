@@ -1,14 +1,14 @@
 ---
 title: 'Safarilink Flights from Mombasa to Nairobi: Complete Guide'
-description: Everything you need to know about safarilink flights from mombasa to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about safarilink flights from mombasa to nairobi, including routes, airlines, booking tips, and fares.'
 slug: safarilink-flights-from-mombasa-to-nairobi
-primary_keyword: safarilink flights from mombasa to nairobi
+primary_keyword: 'safarilink flights from mombasa to nairobi'
 secondary_keywords:
-- virgin flights to nairobi
-- flights yvr to nairobi
-- how much is flight from kenya to america
-- how much is flight ticket to nairobi
-- emirates flights from amman to dubai
+- 'virgin flights to nairobi'
+- 'flights yvr to nairobi'
+- 'how much is flight from kenya to america'
+- 'how much is flight ticket to nairobi'
+- 'emirates flights from amman to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

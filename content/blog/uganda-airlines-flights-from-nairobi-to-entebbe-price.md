@@ -1,14 +1,14 @@
 ---
 title: 'Uganda Airlines Flights from Nairobi to Entebbe Price: Complete Guide'
-description: Everything you need to know about uganda airlines flights from nairobi to entebbe price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about uganda airlines flights from nairobi to entebbe price, including routes, airlines, booking tips, and fares.'
 slug: uganda-airlines-flights-from-nairobi-to-entebbe-price
-primary_keyword: uganda airlines flights from nairobi to entebbe price
+primary_keyword: 'uganda airlines flights from nairobi to entebbe price'
 secondary_keywords:
-- kq flight 003
-- kq103 flight status
-- does kq fly to ukunda
-- kq 414 flight status
-- kq 554 flight status
+- 'kq flight 003'
+- 'kq103 flight status'
+- 'does kq fly to ukunda'
+- 'kq 414 flight status'
+- 'kq 554 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

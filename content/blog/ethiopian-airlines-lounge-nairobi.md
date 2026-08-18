@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Lounge Nairobi: Complete Guide'
-description: Everything you need to know about ethiopian airlines lounge nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines lounge nairobi, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-lounge-nairobi
-primary_keyword: ethiopian airlines lounge nairobi
+primary_keyword: 'ethiopian airlines lounge nairobi'
 secondary_keywords:
-- sq611 flight status
-- kq 886
-- emirates flight from nairobi to dubai price in kenya shillings
-- kenya airways to dubai flight status
-- emirates flight from riyadh to nairobi
+- 'sq611 flight status'
+- 'kq 886'
+- 'emirates flight from nairobi to dubai price in kenya shillings'
+- 'kenya airways to dubai flight status'
+- 'emirates flight from riyadh to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

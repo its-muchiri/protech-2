@@ -1,14 +1,14 @@
 ---
 title: 'Luxury Tented Camp Safari Kenya Cost Per Person USA: Complete Guide'
-description: Kenya safari guide covering luxury tented camp safari kenya cost per person usa, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering luxury tented camp safari kenya cost per person usa, including what is included, pricing, and booking advice.'
 slug: luxury-tented-camp-safari-kenya-cost-per-person-usa
-primary_keyword: Luxury tented camp safari Kenya cost per person USA
+primary_keyword: 'Luxury tented camp safari Kenya cost per person USA'
 secondary_keywords:
-- Purchase short Kenya safari package (3-5 days)
-- Secure all-inclusive luxury safari Kenya purchase
-- Kenya safari cost per person quote
-- 9 day migration special safari rates request
-- Cost quote 4 day Tsavo lodge safari package from Mombasa
+- 'Purchase short Kenya safari package (3-5 days)'
+- 'Secure all-inclusive luxury safari Kenya purchase'
+- 'Kenya safari cost per person quote'
+- '9 day migration special safari rates request'
+- 'Cost quote 4 day Tsavo lodge safari package from Mombasa'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

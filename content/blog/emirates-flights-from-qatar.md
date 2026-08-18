@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Qatar: Complete Guide'
-description: Everything you need to know about emirates flights from qatar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from qatar, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-qatar
-primary_keyword: emirates flights from qatar
+primary_keyword: 'emirates flights from qatar'
 secondary_keywords:
-- emirates flights from france to dubai
-- emirates flights from gatwick
-- emirates flights from heathrow
-- emirates flights from india
-- emirates flights from johannesburg to usa
+- 'emirates flights from france to dubai'
+- 'emirates flights from gatwick'
+- 'emirates flights from heathrow'
+- 'emirates flights from india'
+- 'emirates flights from johannesburg to usa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

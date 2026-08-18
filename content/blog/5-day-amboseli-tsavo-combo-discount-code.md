@@ -1,14 +1,14 @@
 ---
 title: '5 Day Amboseli Tsavo Combo Discount Code: Complete Guide'
-description: Kenya safari guide covering 5 day amboseli tsavo combo discount code, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering 5 day amboseli tsavo combo discount code, including what is included, pricing, and booking advice.'
 slug: 5-day-amboseli-tsavo-combo-discount-code
-primary_keyword: 5 day Amboseli Tsavo combo discount code
+primary_keyword: '5 day Amboseli Tsavo combo discount code'
 secondary_keywords:
-- Book luxury Masai Mara fly-in safari from UK August 2025 deals
-- Book affordable 5-day Kenya highlights safari Nairobi departure UK direct operator
-- Book family safari Ol Kinyei Conservancy online UK child rates deals available
-- Book Kenya safari combined with Uganda gorilla trekking fly-in package USA cost permits included
-- Book Kenya safari with anti-poaching K9 unit visit experience USA conservation donation required
+- 'Book luxury Masai Mara fly-in safari from UK August 2025 deals'
+- 'Book affordable 5-day Kenya highlights safari Nairobi departure UK direct operator'
+- 'Book family safari Ol Kinyei Conservancy online UK child rates deals available'
+- 'Book Kenya safari combined with Uganda gorilla trekking fly-in package USA cost permits included'
+- 'Book Kenya safari with anti-poaching K9 unit visit experience USA conservation donation required'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

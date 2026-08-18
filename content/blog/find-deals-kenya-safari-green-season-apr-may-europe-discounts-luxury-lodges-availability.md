@@ -1,14 +1,14 @@
 ---
 title: 'Find Deals Kenya Safari Green Season (Apr-May) Europe Discounts Luxury Lodges Availability: Complete Guide'
-description: Kenya safari guide covering find deals kenya safari green season (apr-may) europe discounts luxury lodges availability, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering find deals kenya safari green season (apr-may) europe discounts luxury lodges availability, including what is included, pricing, and booking advice.'
 slug: find-deals-kenya-safari-green-season-apr-may-europe-discounts-luxury-lodges-availability
-primary_keyword: Find deals Kenya safari green season (Apr-May) Europe discounts luxury lodges availability
+primary_keyword: 'Find deals Kenya safari green season (Apr-May) Europe discounts luxury lodges availability'
 secondary_keywords:
-- Quote for private Kenya safari
-- Book 4 day Masai Mara safari package
-- Cost of 3 day Amboseli safari package
-- Samburu special five safari package price
-- Mahali Mzuri safari package deal
+- 'Quote for private Kenya safari'
+- 'Book 4 day Masai Mara safari package'
+- 'Cost of 3 day Amboseli safari package'
+- 'Samburu special five safari package price'
+- 'Mahali Mzuri safari package deal'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

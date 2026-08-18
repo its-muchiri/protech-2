@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from Mombasa to Nairobi Today Price: Complete Guide'
-description: Everything you need to know about kq flights from mombasa to nairobi today price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from mombasa to nairobi today price, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-mombasa-to-nairobi-today-price
-primary_keyword: kq flights from mombasa to nairobi today price
+primary_keyword: 'kq flights from mombasa to nairobi today price'
 secondary_keywords:
-- ethiopian airlines nairobi office contacts whatsapp number
-- how much is flight from kenya to ethiopia
-- flights nairobi to london
-- uganda airlines flights to nairobi
-- nairobi to bujumbura flights
+- 'ethiopian airlines nairobi office contacts whatsapp number'
+- 'how much is flight from kenya to ethiopia'
+- 'flights nairobi to london'
+- 'uganda airlines flights to nairobi'
+- 'nairobi to bujumbura flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

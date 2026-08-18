@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari from Nairobi: Complete Guide'
-description: Kenya safari guide covering kenya safari from nairobi, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari from nairobi, including what is included, pricing, and booking advice.'
 slug: kenya-safari-from-nairobi
-primary_keyword: Kenya safari from Nairobi
+primary_keyword: 'Kenya safari from Nairobi'
 secondary_keywords:
-- Overland truck tour companies Nairobi start
-- White water rafting Tana River companies
-- Weekend getaway safari deals from Nairobi
-- Kenya safari payment options Mpesa credit card
-- Safari companies with Nairobi city center office
+- 'Overland truck tour companies Nairobi start'
+- 'White water rafting Tana River companies'
+- 'Weekend getaway safari deals from Nairobi'
+- 'Kenya safari payment options Mpesa credit card'
+- 'Safari companies with Nairobi city center office'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

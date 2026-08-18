@@ -1,14 +1,14 @@
 ---
 title: 'Low-dose CT Scanner for Lung Screening Price in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to low-dose ct scanner for lung screening price in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to low-dose ct scanner for lung screening price in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: low-dose-ct-scanner-for-lung-screening-price-in-nairobi
-primary_keyword: Low-dose CT scanner for lung screening price in Nairobi
+primary_keyword: 'Low-dose CT scanner for lung screening price in Nairobi'
 secondary_keywords:
-- Hospital laundry equipment in Kisumu
-- Toshiba Aquilion CT scanner for sale in Eldoret
-- Echocardiography (ECHO) machine suppliers in Kisumu
-- Colonoscopy and gastroscopy equipment suppliers
-- Immunology analyzer for hormone tests price
+- 'Hospital laundry equipment in Kisumu'
+- 'Toshiba Aquilion CT scanner for sale in Eldoret'
+- 'Echocardiography (ECHO) machine suppliers in Kisumu'
+- 'Colonoscopy and gastroscopy equipment suppliers'
+- 'Immunology analyzer for hormone tests price'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Entebbe: Complete Guide'
-description: Everything you need to know about flights from nairobi to entebbe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to entebbe, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-entebbe
-primary_keyword: flights from nairobi to entebbe
+primary_keyword: 'flights from nairobi to entebbe'
 secondary_keywords:
-- flights nairobi to venice
-- flights nairobi wilson to lamu
-- flights nairobi to zimbabwe
-- how much is a flight from nairobi to usa
-- emirates flights from manchester today
+- 'flights nairobi to venice'
+- 'flights nairobi wilson to lamu'
+- 'flights nairobi to zimbabwe'
+- 'how much is a flight from nairobi to usa'
+- 'emirates flights from manchester today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

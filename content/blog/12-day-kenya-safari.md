@@ -1,14 +1,14 @@
 ---
 title: '12 Day Kenya Safari: Complete Guide'
-description: Kenya safari guide covering 12 day kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering 12 day kenya safari, including what is included, pricing, and booking advice.'
 slug: 12-day-kenya-safari
-primary_keyword: 12 day Kenya safari
+primary_keyword: '12 day Kenya safari'
 secondary_keywords:
-- Duty free allowances Kenya safari
-- Find Kenya safari tour provider
-- Buy 6 day Amboseli Tsavo safari package
-- Masai Mara safari package deals
-- Fly-in Masai Mara safari package book
+- 'Duty free allowances Kenya safari'
+- 'Find Kenya safari tour provider'
+- 'Buy 6 day Amboseli Tsavo safari package'
+- 'Masai Mara safari package deals'
+- 'Fly-in Masai Mara safari package book'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

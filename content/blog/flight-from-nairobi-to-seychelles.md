@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Seychelles: Complete Guide'
-description: Everything you need to know about flight from nairobi to seychelles, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to seychelles, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-seychelles
-primary_keyword: flight from nairobi to seychelles
+primary_keyword: 'flight from nairobi to seychelles'
 secondary_keywords:
-- turkish airlines nairobi airport terminal
-- does turkish airlines fly to toronto
-- flight ticket from kenya to germany
-- flight booking apps in kenya
-- ticket from kenya to turkey
+- 'turkish airlines nairobi airport terminal'
+- 'does turkish airlines fly to toronto'
+- 'flight ticket from kenya to germany'
+- 'flight booking apps in kenya'
+- 'ticket from kenya to turkey'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

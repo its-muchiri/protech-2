@@ -1,14 +1,14 @@
 ---
 title: 'Seychelles Flight from Nairobi: Complete Guide'
-description: Everything you need to know about seychelles flight from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about seychelles flight from nairobi, including routes, airlines, booking tips, and fares.'
 slug: seychelles-flight-from-nairobi
-primary_keyword: seychelles flight from nairobi
+primary_keyword: 'seychelles flight from nairobi'
 secondary_keywords:
-- emirates kenya contact number
-- emirates flights kenya
-- emirates kenya office
-- 1 uae dirham to kenyan shillings
-- ethiopian airlines nairobi airport office
+- 'emirates kenya contact number'
+- 'emirates flights kenya'
+- 'emirates kenya office'
+- '1 uae dirham to kenyan shillings'
+- 'ethiopian airlines nairobi airport office'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

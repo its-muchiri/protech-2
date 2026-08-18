@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Lusaka: Complete Guide'
-description: Everything you need to know about flights nairobi to lusaka, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to lusaka, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-lusaka
-primary_keyword: flights nairobi to lusaka
+primary_keyword: 'flights nairobi to lusaka'
 secondary_keywords:
-- flights from nairobi to hargeisa
-- flights from nairobi to kilimanjaro international airport
-- flights from nairobi to jro
-- kq flights from nairobi to eldoret
-- local flights from nairobi to kisumu
+- 'flights from nairobi to hargeisa'
+- 'flights from nairobi to kilimanjaro international airport'
+- 'flights from nairobi to jro'
+- 'kq flights from nairobi to eldoret'
+- 'local flights from nairobi to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

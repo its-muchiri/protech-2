@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Isiolo: Complete Guide'
-description: Everything you need to know about flight from nairobi to isiolo, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to isiolo, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-isiolo
-primary_keyword: flight from nairobi to isiolo
+primary_keyword: 'flight from nairobi to isiolo'
 secondary_keywords:
-- flights from muscat oman to mombasa kenya
-- flights from mombasa to riyadh
-- flights from mombasa to ukunda
-- flights zurich mombasa
-- flights from kisumu to wilson airport
+- 'flights from muscat oman to mombasa kenya'
+- 'flights from mombasa to riyadh'
+- 'flights from mombasa to ukunda'
+- 'flights zurich mombasa'
+- 'flights from kisumu to wilson airport'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

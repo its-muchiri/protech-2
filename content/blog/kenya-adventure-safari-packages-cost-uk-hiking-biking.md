@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Adventure Safari Packages Cost UK (hiking, Biking): Complete Guide'
-description: Kenya safari guide covering kenya adventure safari packages cost uk (hiking, biking), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya adventure safari packages cost uk (hiking, biking), including what is included, pricing, and booking advice.'
 slug: kenya-adventure-safari-packages-cost-uk-hiking-biking
-primary_keyword: Kenya adventure safari packages cost UK (hiking, biking)
+primary_keyword: 'Kenya adventure safari packages cost UK (hiking, biking)'
 secondary_keywords:
-- Kenya safari holidays from UK book online ABTA/ATOL protected
-- Cost of Kenya safari from Manchester UK agent quote
-- Recommended Kenya tour operators for migration safari viewing
-- Urgent Kenya safari booking online UK instant confirmation
-- Best luxury Kenya safari packages reviews Conde Nast UK
+- 'Kenya safari holidays from UK book online ABTA/ATOL protected'
+- 'Cost of Kenya safari from Manchester UK agent quote'
+- 'Recommended Kenya tour operators for migration safari viewing'
+- 'Urgent Kenya safari booking online UK instant confirmation'
+- 'Best luxury Kenya safari packages reviews Conde Nast UK'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

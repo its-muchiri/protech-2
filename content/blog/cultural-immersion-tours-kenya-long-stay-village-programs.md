@@ -1,14 +1,14 @@
 ---
 title: 'Cultural Immersion Tours Kenya Long Stay Village Programs: Complete Guide'
-description: Kenya safari guide covering cultural immersion tours kenya long stay village programs, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering cultural immersion tours kenya long stay village programs, including what is included, pricing, and booking advice.'
 slug: cultural-immersion-tours-kenya-long-stay-village-programs
-primary_keyword: Cultural immersion tours Kenya long stay village programs
+primary_keyword: 'Cultural immersion tours Kenya long stay village programs'
 secondary_keywords:
-- Direct flights London to Nairobi + Kenya safari package UK
-- Budget Kenya safari tour agency Europe reviews affordable
-- Book Kenya safari July 2025 migration Mara crossing Europe
-- Kenya safari vacancy checker online booking
-- Best rated small group Kenya safari tours Europe value
+- 'Direct flights London to Nairobi + Kenya safari package UK'
+- 'Budget Kenya safari tour agency Europe reviews affordable'
+- 'Book Kenya safari July 2025 migration Mara crossing Europe'
+- 'Kenya safari vacancy checker online booking'
+- 'Best rated small group Kenya safari tours Europe value'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

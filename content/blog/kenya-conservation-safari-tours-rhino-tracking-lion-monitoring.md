@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Conservation Safari Tours Rhino Tracking / Lion Monitoring: Complete Guide'
-description: Kenya safari guide covering kenya conservation safari tours rhino tracking / lion monitoring, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya conservation safari tours rhino tracking / lion monitoring, including what is included, pricing, and booking advice.'
 slug: kenya-conservation-safari-tours-rhino-tracking-lion-monitoring
-primary_keyword: Kenya conservation safari tours rhino tracking / lion monitoring
+primary_keyword: 'Kenya conservation safari tours rhino tracking / lion monitoring'
 secondary_keywords:
-- Fly-in safari cost vs driving safari Kenya time saving
-- KATO certified tour operators benefits code of conduct
-- Camel safari Samburu / Laikipia operators
-- Direct Booking/Purchase Intent (Book, Buy, Purchase, Reserve)
-- Book Kenya camping safari adventure Europe budget
+- 'Fly-in safari cost vs driving safari Kenya time saving'
+- 'KATO certified tour operators benefits code of conduct'
+- 'Camel safari Samburu / Laikipia operators'
+- 'Direct Booking/Purchase Intent (Book, Buy, Purchase, Reserve)'
+- 'Book Kenya camping safari adventure Europe budget'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

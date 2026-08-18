@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Italy: Complete Guide'
-description: Everything you need to know about flights from mombasa to italy, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to italy, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-italy
-primary_keyword: flights from mombasa to italy
+primary_keyword: 'flights from mombasa to italy'
 secondary_keywords:
-- kq check in for international flights
-- kq direct flights
-- kq flight from guangzhou to nairobi
-- kq flights to india
-- kq flights nairobi to juba price
+- 'kq check in for international flights'
+- 'kq direct flights'
+- 'kq flight from guangzhou to nairobi'
+- 'kq flights to india'
+- 'kq flights nairobi to juba price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

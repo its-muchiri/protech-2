@@ -1,14 +1,14 @@
 ---
 title: 'Cycling Safari Kenya: Complete Guide'
-description: Kenya safari guide covering cycling safari kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering cycling safari kenya, including what is included, pricing, and booking advice.'
 slug: cycling-safari-kenya
-primary_keyword: Cycling safari Kenya
+primary_keyword: 'Cycling safari Kenya'
 secondary_keywords:
-- Premium Kenya safari package booking
-- Book Kenya family safari package
-- Family adventure safari package Kenya
-- Promo code Kenya safari package
-- East Africa highlights tour package cost
+- 'Premium Kenya safari package booking'
+- 'Book Kenya family safari package'
+- 'Family adventure safari package Kenya'
+- 'Promo code Kenya safari package'
+- 'East Africa highlights tour package cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

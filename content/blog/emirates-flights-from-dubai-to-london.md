@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Dubai to London: Complete Guide'
-description: Everything you need to know about emirates flights from dubai to london, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from dubai to london, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-dubai-to-london
-primary_keyword: emirates flights from dubai to london
+primary_keyword: 'emirates flights from dubai to london'
 secondary_keywords:
-- rwandair flights from nairobi to johannesburg
-- super metro flights from nairobi to mombasa
-- flights from nairobi to uk today
-- cheap flights from vienna to nairobi
-- flights from nairobi to zurich
+- 'rwandair flights from nairobi to johannesburg'
+- 'super metro flights from nairobi to mombasa'
+- 'flights from nairobi to uk today'
+- 'cheap flights from vienna to nairobi'
+- 'flights from nairobi to zurich'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

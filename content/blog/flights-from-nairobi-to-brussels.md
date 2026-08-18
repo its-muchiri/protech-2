@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Brussels: Complete Guide'
-description: Everything you need to know about flights from nairobi to brussels, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to brussels, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-brussels
-primary_keyword: flights from nairobi to brussels
+primary_keyword: 'flights from nairobi to brussels'
 secondary_keywords:
-- cheapest flight from nairobi to canada
-- flight from nairobi to eldoret price
-- flight time from nairobi to france
-- flight from nairobi to goma
-- flight from nairobi to hong kong
+- 'cheapest flight from nairobi to canada'
+- 'flight from nairobi to eldoret price'
+- 'flight time from nairobi to france'
+- 'flight from nairobi to goma'
+- 'flight from nairobi to hong kong'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

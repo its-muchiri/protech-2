@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 163: Complete Guide'
-description: Everything you need to know about emirates flight 163, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 163, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-163
-primary_keyword: emirates flight 163
+primary_keyword: 'emirates flight 163'
 secondary_keywords:
-- emirates flight quetta to dubai
-- emirates flight from riyadh to chennai
-- emirates flights from toronto to dubai
-- emirates flights from uk to south africa
-- emirates flights from india to canada via dubai
+- 'emirates flight quetta to dubai'
+- 'emirates flight from riyadh to chennai'
+- 'emirates flights from toronto to dubai'
+- 'emirates flights from uk to south africa'
+- 'emirates flights from india to canada via dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

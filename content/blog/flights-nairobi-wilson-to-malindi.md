@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi Wilson to Malindi: Complete Guide'
-description: Everything you need to know about flights nairobi wilson to malindi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi wilson to malindi, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-wilson-to-malindi
-primary_keyword: flights nairobi wilson to malindi
+primary_keyword: 'flights nairobi wilson to malindi'
 secondary_keywords:
-- is there a direct flight from kisumu to mombasa
-- jambojet flights from eldoret to mombasa
-- how much is flight from eldoret to nairobi
-- kq flights from eldoret to nairobi today
-- eldoret flights
+- 'is there a direct flight from kisumu to mombasa'
+- 'jambojet flights from eldoret to mombasa'
+- 'how much is flight from eldoret to nairobi'
+- 'kq flights from eldoret to nairobi today'
+- 'eldoret flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Nairobi to London: Complete Guide'
-description: Everything you need to know about ethiopian airlines nairobi to london, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines nairobi to london, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-nairobi-to-london
-primary_keyword: ethiopian airlines nairobi to london
+primary_keyword: 'ethiopian airlines nairobi to london'
 secondary_keywords:
-- flight from kenya to yemen
-- flights schedule from seiyun yemen to nairobi kenya
-- cheapest flights kenya
-- how much is flight from kenya to tanzania
-- cheap flights from nairobi
+- 'flight from kenya to yemen'
+- 'flights schedule from seiyun yemen to nairobi kenya'
+- 'cheapest flights kenya'
+- 'how much is flight from kenya to tanzania'
+- 'cheap flights from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Ticket from Kenya to Dubai: Complete Guide'
-description: Everything you need to know about ticket from kenya to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ticket from kenya to dubai, including routes, airlines, booking tips, and fares.'
 slug: ticket-from-kenya-to-dubai
-primary_keyword: ticket from kenya to dubai
+primary_keyword: 'ticket from kenya to dubai'
 secondary_keywords:
-- kq 257 flight status
-- kq flight 431
-- kq 515 flight status
-- kq 614
-- emirates flights nairobi
+- 'kq 257 flight status'
+- 'kq flight 431'
+- 'kq 515 flight status'
+- 'kq 614'
+- 'emirates flights nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

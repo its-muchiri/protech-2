@@ -1,14 +1,14 @@
 ---
 title: 'Cost of Flight from Nairobi to Dubai: Complete Guide'
-description: Everything you need to know about cost of flight from nairobi to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cost of flight from nairobi to dubai, including routes, airlines, booking tips, and fares.'
 slug: cost-of-flight-from-nairobi-to-dubai
-primary_keyword: cost of flight from nairobi to dubai
+primary_keyword: 'cost of flight from nairobi to dubai'
 secondary_keywords:
-- kq 202 flight status
-- kq307 flight status
-- kq 511 flight status
-- kq 625 flight status
-- emirates flight from nairobi to ahmedabad
+- 'kq 202 flight status'
+- 'kq307 flight status'
+- 'kq 511 flight status'
+- 'kq 625 flight status'
+- 'emirates flight from nairobi to ahmedabad'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

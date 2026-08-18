@@ -1,14 +1,14 @@
 ---
 title: 'When Will Emirates Resume Flights from Adelaide: Complete Guide'
-description: Everything you need to know about when will emirates resume flights from adelaide, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about when will emirates resume flights from adelaide, including routes, airlines, booking tips, and fares.'
 slug: when-will-emirates-resume-flights-from-adelaide
-primary_keyword: when will emirates resume flights from adelaide
+primary_keyword: 'when will emirates resume flights from adelaide'
 secondary_keywords:
-- cheap flights nairobi to london
-- flights nairobi to abuja
-- flights nairobi to brussels
-- flights nairobi to cali colombia
-- flights nairobi to doha
+- 'cheap flights nairobi to london'
+- 'flights nairobi to abuja'
+- 'flights nairobi to brussels'
+- 'flights nairobi to cali colombia'
+- 'flights nairobi to doha'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

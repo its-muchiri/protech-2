@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Manchester to Dubai Which Terminal: Complete Guide'
-description: Everything you need to know about emirates flights from manchester to dubai which terminal, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from manchester to dubai which terminal, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-manchester-to-dubai-which-terminal
-primary_keyword: emirates flights from manchester to dubai which terminal
+primary_keyword: 'emirates flights from manchester to dubai which terminal'
 secondary_keywords:
-- are emirates flights from uk to dubai cancelled
-- emirates flights from tehran
-- emirates flights from us to europe
-- emirates flights from warsaw to dubai
-- does emirates fly from boston
+- 'are emirates flights from uk to dubai cancelled'
+- 'emirates flights from tehran'
+- 'emirates flights from us to europe'
+- 'emirates flights from warsaw to dubai'
+- 'does emirates fly from boston'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

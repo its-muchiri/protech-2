@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways Recruitment Nairobi Kenya: Complete Guide'
-description: Everything you need to know about qatar airways recruitment nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways recruitment nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-recruitment-nairobi-kenya
-primary_keyword: qatar airways recruitment nairobi kenya
+primary_keyword: 'qatar airways recruitment nairobi kenya'
 secondary_keywords:
-- cheap flights nairobi to malindi
-- flights nairobi to edinburgh
-- flights to nairobi from entebbe
-- google flights nairobi to toronto
-- flight nairobi to isiolo
+- 'cheap flights nairobi to malindi'
+- 'flights nairobi to edinburgh'
+- 'flights to nairobi from entebbe'
+- 'google flights nairobi to toronto'
+- 'flight nairobi to isiolo'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

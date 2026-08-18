@@ -1,14 +1,14 @@
 ---
 title: 'Estimate 12 Day Luxury Tented Camp Migration Safari: Complete Guide'
-description: Kenya safari guide covering estimate 12 day luxury tented camp migration safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering estimate 12 day luxury tented camp migration safari, including what is included, pricing, and booking advice.'
 slug: estimate-12-day-luxury-tented-camp-migration-safari
-primary_keyword: Estimate 12 day luxury tented camp migration safari
+primary_keyword: 'Estimate 12 day luxury tented camp migration safari'
 secondary_keywords:
-- Pollman''s Tours & Safaris Kenya contact / services
-- Perfect Wilderness Tours Kenya reviews
-- Tipping guide for safari driver / lodge staff Kenya
-- Customer testimonials Kenya safari companies video reviews
-- Agricultural tours Kenya coffee / tea plantations visit Thika region
+- 'Pollman''''s Tours & Safaris Kenya contact / services'
+- 'Perfect Wilderness Tours Kenya reviews'
+- 'Tipping guide for safari driver / lodge staff Kenya'
+- 'Customer testimonials Kenya safari companies video reviews'
+- 'Agricultural tours Kenya coffee / tea plantations visit Thika region'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

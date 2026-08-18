@@ -1,14 +1,14 @@
 ---
 title: 'Double Jar Suction Unit for Sale: 2026 Price Guide'
-description: Kenya buying guide to double jar suction unit for sale. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to double jar suction unit for sale. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: double-jar-suction-unit-for-sale
-primary_keyword: Double jar suction unit for sale
+primary_keyword: 'Double jar suction unit for sale'
 secondary_keywords:
-- Large hospital autoclave (steam sterilizer) price
-- Spine board with head immobilizer
-- Bubble CPAP machine for newborns
-- Dental chair unit price in Kenya
-- TENS machine (4-channel) for clinic use
+- 'Large hospital autoclave (steam sterilizer) price'
+- 'Spine board with head immobilizer'
+- 'Bubble CPAP machine for newborns'
+- 'Dental chair unit price in Kenya'
+- 'TENS machine (4-channel) for clinic use'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flight Fare from Dar Es Salaam to Nairobi: Complete Guide'
-description: Everything you need to know about flight fare from dar es salaam to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight fare from dar es salaam to nairobi, including routes, airlines, booking tips, and fares.'
 slug: flight-fare-from-dar-es-salaam-to-nairobi
-primary_keyword: flight fare from dar es salaam to nairobi
+primary_keyword: 'flight fare from dar es salaam to nairobi'
 secondary_keywords:
-- kq 0203 flight status
-- kq first class
-- kq 353 flight status
-- kq 416 flight status
-- kq 613 flight status
+- 'kq 0203 flight status'
+- 'kq first class'
+- 'kq 353 flight status'
+- 'kq 416 flight status'
+- 'kq 613 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Cheapest Flights from Mombasa to Eldoret: Complete Guide'
-description: Everything you need to know about cheapest flights from mombasa to eldoret, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheapest flights from mombasa to eldoret, including routes, airlines, booking tips, and fares.'
 slug: cheapest-flights-from-mombasa-to-eldoret
-primary_keyword: cheapest flights from mombasa to eldoret
+primary_keyword: 'cheapest flights from mombasa to eldoret'
 secondary_keywords:
-- emirates 722
-- ethiopian airlines lounge nairobi airport
-- ethiopian airlines from nairobi to doha
-- ethiopian airlines nairobi office
-- qatar airways flight from kenya to doha
+- 'emirates 722'
+- 'ethiopian airlines lounge nairobi airport'
+- 'ethiopian airlines from nairobi to doha'
+- 'ethiopian airlines nairobi office'
+- 'qatar airways flight from kenya to doha'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

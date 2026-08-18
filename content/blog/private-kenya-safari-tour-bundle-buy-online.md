@@ -1,14 +1,14 @@
 ---
 title: 'Private Kenya Safari Tour Bundle Buy Online: Complete Guide'
-description: Kenya safari guide covering private kenya safari tour bundle buy online, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering private kenya safari tour bundle buy online, including what is included, pricing, and booking advice.'
 slug: private-kenya-safari-tour-bundle-buy-online
-primary_keyword: Private Kenya safari tour bundle buy online
+primary_keyword: 'Private Kenya safari tour bundle buy online'
 secondary_keywords:
-- Kenya safari company reviews SafariBookings verified reviews
-- Cultural immersion tours Kenya long stay village programs
-- Kenya tours for residents / citizens price KES packages
-- Buy Samburu Reserve safari tour Kenya direct booking
-- Masai Mara safari package cost per person 2025
+- 'Kenya safari company reviews SafariBookings verified reviews'
+- 'Cultural immersion tours Kenya long stay village programs'
+- 'Kenya tours for residents / citizens price KES packages'
+- 'Buy Samburu Reserve safari tour Kenya direct booking'
+- 'Masai Mara safari package cost per person 2025'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

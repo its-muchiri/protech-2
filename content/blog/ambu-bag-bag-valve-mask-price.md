@@ -1,14 +1,14 @@
 ---
 title: 'Ambu Bag (Bag Valve Mask) Price: 2026 Price Guide'
-description: Kenya buying guide to ambu bag (bag valve mask) price. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to ambu bag (bag valve mask) price. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: ambu-bag-bag-valve-mask-price
-primary_keyword: Ambu bag (Bag Valve Mask) price
+primary_keyword: 'Ambu bag (Bag Valve Mask) price'
 secondary_keywords:
-- bed sheets disposable Kenya
-- malaria test kit Kenya
-- oxygen tubing Kenya
-- microbiology media Kenya
-- respiratory disposables Kenya
+- 'bed sheets disposable Kenya'
+- 'malaria test kit Kenya'
+- 'oxygen tubing Kenya'
+- 'microbiology media Kenya'
+- 'respiratory disposables Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

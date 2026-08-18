@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights Mombasa to Nairobi: Complete Guide'
-description: Everything you need to know about kenya airways flights mombasa to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights mombasa to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-mombasa-to-nairobi
-primary_keyword: kenya airways flights mombasa to nairobi
+primary_keyword: 'kenya airways flights mombasa to nairobi'
 secondary_keywords:
-- mauritius flights from kenya
-- flight from kenya to orlando
-- flights from omaha to kenya
-- flights to portugal from kenya
-- flights from kenya to russia
+- 'mauritius flights from kenya'
+- 'flight from kenya to orlando'
+- 'flights from omaha to kenya'
+- 'flights to portugal from kenya'
+- 'flights from kenya to russia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

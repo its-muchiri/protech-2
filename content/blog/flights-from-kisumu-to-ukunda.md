@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kisumu to Ukunda: Complete Guide'
-description: Everything you need to know about flights from kisumu to ukunda, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kisumu to ukunda, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kisumu-to-ukunda
-primary_keyword: flights from kisumu to ukunda
+primary_keyword: 'flights from kisumu to ukunda'
 secondary_keywords:
-- kq flight from jfk to nairobi today
-- kq flight from kenya to canada
-- flights from ukunda
-- how much is kq flight from nairobi to kisumu
-- kq flight from nairobi to dar es salaam
+- 'kq flight from jfk to nairobi today'
+- 'kq flight from kenya to canada'
+- 'flights from ukunda'
+- 'how much is kq flight from nairobi to kisumu'
+- 'kq flight from nairobi to dar es salaam'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

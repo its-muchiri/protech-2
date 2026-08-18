@@ -1,14 +1,14 @@
 ---
 title: 'Flight Ticket from Kenya to Uk: Complete Guide'
-description: Everything you need to know about flight ticket from kenya to uk, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight ticket from kenya to uk, including routes, airlines, booking tips, and fares.'
 slug: flight-ticket-from-kenya-to-uk
-primary_keyword: flight ticket from kenya to uk
+primary_keyword: 'flight ticket from kenya to uk'
 secondary_keywords:
-- flights to eldoret from jkia
-- flight from eldoret to nanyuki
-- flights to eldoret from wilson today
-- kq flight addis to nairobi
-- kq flying blue login
+- 'flights to eldoret from jkia'
+- 'flight from eldoret to nanyuki'
+- 'flights to eldoret from wilson today'
+- 'kq flight addis to nairobi'
+- 'kq flying blue login'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

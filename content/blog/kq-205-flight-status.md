@@ -1,14 +1,14 @@
 ---
 title: 'Kq 205 Flight Status: Complete Guide'
-description: Everything you need to know about kq 205 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 205 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq-205-flight-status
-primary_keyword: kq 205 flight status
+primary_keyword: 'kq 205 flight status'
 secondary_keywords:
-- kenya airways flight schedule nairobi to harare tomorrow
-- kenya airways flight schedule nairobi to kigali
-- kenya airways flight from mumbai to nairobi
-- kenya airways fare from kenya to usa
-- flight from nairobi to addis ababa
+- 'kenya airways flight schedule nairobi to harare tomorrow'
+- 'kenya airways flight schedule nairobi to kigali'
+- 'kenya airways flight from mumbai to nairobi'
+- 'kenya airways fare from kenya to usa'
+- 'flight from nairobi to addis ababa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Combine Amboseli Tsavo Safari 5 Day Itinerary: Complete Guide'
-description: Kenya safari guide covering combine amboseli tsavo safari 5 day itinerary, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering combine amboseli tsavo safari 5 day itinerary, including what is included, pricing, and booking advice.'
 slug: combine-amboseli-tsavo-safari-5-day-itinerary
-primary_keyword: Combine Amboseli Tsavo safari 5 day itinerary
+primary_keyword: 'Combine Amboseli Tsavo safari 5 day itinerary'
 secondary_keywords:
-- Best price guarantee Kenya migration safari package reserve
-- Book 7 day luxury fly-in Masai Mara migration package July
-- Purchase 6 day Meru Elsa''s Kopje luxury fly-in package quote
-- Local Kenyan tour companies vs international operators
-- Affordable Masai Mara camping safari group joining price
+- 'Best price guarantee Kenya migration safari package reserve'
+- 'Book 7 day luxury fly-in Masai Mara migration package July'
+- 'Purchase 6 day Meru Elsa''''s Kopje luxury fly-in package quote'
+- 'Local Kenyan tour companies vs international operators'
+- 'Affordable Masai Mara camping safari group joining price'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

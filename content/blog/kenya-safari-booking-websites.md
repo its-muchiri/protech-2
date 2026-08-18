@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Booking Websites: Complete Guide'
-description: Kenya safari guide covering kenya safari booking websites, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari booking websites, including what is included, pricing, and booking advice.'
 slug: kenya-safari-booking-websites
-primary_keyword: Kenya safari booking websites
+primary_keyword: 'Kenya safari booking websites'
 secondary_keywords:
-- Group joining safari price Kenya
-- Karen Nairobi based tour operators
-- Last minute safari booking availability Nairobi
-- Company organizing coffee tour Kiambu and Nairobi NP trip
-- Fly-in Diani beach holiday from Wilson Airport company
+- 'Group joining safari price Kenya'
+- 'Karen Nairobi based tour operators'
+- 'Last minute safari booking availability Nairobi'
+- 'Company organizing coffee tour Kiambu and Nairobi NP trip'
+- 'Fly-in Diani beach holiday from Wilson Airport company'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

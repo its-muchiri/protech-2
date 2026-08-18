@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to London Today: Complete Guide'
-description: Everything you need to know about flights from kenya to london today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to london today, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-london-today
-primary_keyword: flights from kenya to london today
+primary_keyword: 'flights from kenya to london today'
 secondary_keywords:
-- flight from nairobi to rome
-- flight from nairobi to singapore
-- the cheapest flight from nairobi to dubai
-- flight time from nairobi to usa
-- what time is the last flight from nairobi to kisumu
+- 'flight from nairobi to rome'
+- 'flight from nairobi to singapore'
+- 'the cheapest flight from nairobi to dubai'
+- 'flight time from nairobi to usa'
+- 'what time is the last flight from nairobi to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

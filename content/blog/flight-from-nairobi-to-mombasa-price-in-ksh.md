@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Mombasa Price in Ksh: Complete Guide'
-description: Everything you need to know about flight from nairobi to mombasa price in ksh, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to mombasa price in ksh, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-mombasa-price-in-ksh
-primary_keyword: flight from nairobi to mombasa price in ksh
+primary_keyword: 'flight from nairobi to mombasa price in ksh'
 secondary_keywords:
-- how many hours from kenya to dubai emirates
-- how much is emirates flight from kenya to dubai
-- emirates store kenya
-- ethiopian airlines flight schedule from nairobi
-- ethiopian airlines from nairobi to cape town
+- 'how many hours from kenya to dubai emirates'
+- 'how much is emirates flight from kenya to dubai'
+- 'emirates store kenya'
+- 'ethiopian airlines flight schedule from nairobi'
+- 'ethiopian airlines from nairobi to cape town'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

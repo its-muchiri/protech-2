@@ -1,14 +1,14 @@
 ---
 title: 'Disinfectants and Cleaning Solutions for Hospitals: 2026 Price Guide'
-description: Kenya buying guide to disinfectants and cleaning solutions for hospitals. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to disinfectants and cleaning solutions for hospitals. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: disinfectants-and-cleaning-solutions-for-hospitals
-primary_keyword: Disinfectants and cleaning solutions for hospitals
+primary_keyword: 'Disinfectants and cleaning solutions for hospitals'
 secondary_keywords:
-- Central monitoring station for ICU cost
-- Transport ventilator for ambulance
-- Laser therapy machine for pain relief in Nairobi
-- Posture mirror for clinic
-- Dental X-ray film and developer suppliers
+- 'Central monitoring station for ICU cost'
+- 'Transport ventilator for ambulance'
+- 'Laser therapy machine for pain relief in Nairobi'
+- 'Posture mirror for clinic'
+- 'Dental X-ray film and developer suppliers'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

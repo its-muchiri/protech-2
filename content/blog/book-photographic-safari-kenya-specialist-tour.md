@@ -1,14 +1,14 @@
 ---
 title: 'Book Photographic Safari Kenya Specialist Tour: Complete Guide'
-description: Kenya safari guide covering book photographic safari kenya specialist tour, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book photographic safari kenya specialist tour, including what is included, pricing, and booking advice.'
 slug: book-photographic-safari-kenya-specialist-tour
-primary_keyword: Book photographic safari Kenya specialist tour
+primary_keyword: 'Book photographic safari Kenya specialist tour'
 secondary_keywords:
-- Self-drive safari Kenya 4x4 rental and itinerary planning
-- Luxury private villas Diani Beach rental Alfajiri Villas price
-- Samburu cultural village visit tour package
-- Kiambethu Tea Farm tour Limuru booking / price from Nairobi / Thika
-- Gamewatchers Safaris Porini Camps price / reviews
+- 'Self-drive safari Kenya 4x4 rental and itinerary planning'
+- 'Luxury private villas Diani Beach rental Alfajiri Villas price'
+- 'Samburu cultural village visit tour package'
+- 'Kiambethu Tea Farm tour Limuru booking / price from Nairobi / Thika'
+- 'Gamewatchers Safaris Porini Camps price / reviews'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

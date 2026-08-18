@@ -1,14 +1,14 @@
 ---
 title: 'Kiambu Based Travel Agents: Complete Guide'
-description: Kenya safari guide covering kiambu based travel agents, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kiambu based travel agents, including what is included, pricing, and booking advice.'
 slug: kiambu-based-travel-agents
-primary_keyword: Kiambu based travel agents
+primary_keyword: 'Kiambu based travel agents'
 secondary_keywords:
-- Family friendly Kenya safari operators recommendations USA
-- Kenya safari packages Christmas/New Year 2025 deals availability
-- Quality/Trust Based (Best, Top, Luxury, Reliable, Recommended, Reviews)
-- Top Kenya photographic safari guides booking USA portfolio
-- Buy top rated Kenya Big Five lodge safari package UK online secure booking
+- 'Family friendly Kenya safari operators recommendations USA'
+- 'Kenya safari packages Christmas/New Year 2025 deals availability'
+- 'Quality/Trust Based (Best, Top, Luxury, Reliable, Recommended, Reviews)'
+- 'Top Kenya photographic safari guides booking USA portfolio'
+- 'Buy top rated Kenya Big Five lodge safari package UK online secure booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

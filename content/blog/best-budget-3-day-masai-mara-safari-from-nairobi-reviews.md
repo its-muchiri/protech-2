@@ -1,14 +1,14 @@
 ---
 title: 'Best Budget 3 Day Masai Mara Safari from Nairobi Reviews: Complete Guide'
-description: Kenya safari guide covering best budget 3 day masai mara safari from nairobi reviews, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering best budget 3 day masai mara safari from nairobi reviews, including what is included, pricing, and booking advice.'
 slug: best-budget-3-day-masai-mara-safari-from-nairobi-reviews
-primary_keyword: Best budget 3 day Masai Mara safari from Nairobi reviews
+primary_keyword: 'Best budget 3 day Masai Mara safari from Nairobi reviews'
 secondary_keywords:
-- Christmas safari deal buy
-- Book 9 day mid-range Kenya classic circuit package
-- Get quote 9 day Northern Kenya special species package
-- Reserve 8 day Kenya honeymoon special offer package
-- Book 10 day luxury tented camps exclusive package Kenya
+- 'Christmas safari deal buy'
+- 'Book 9 day mid-range Kenya classic circuit package'
+- 'Get quote 9 day Northern Kenya special species package'
+- 'Reserve 8 day Kenya honeymoon special offer package'
+- 'Book 10 day luxury tented camps exclusive package Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

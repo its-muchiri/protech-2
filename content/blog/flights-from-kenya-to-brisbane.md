@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Brisbane: Complete Guide'
-description: Everything you need to know about flights from kenya to brisbane, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to brisbane, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-brisbane
-primary_keyword: flights from kenya to brisbane
+primary_keyword: 'flights from kenya to brisbane'
 secondary_keywords:
-- qatar airways nairobi airport terminal
-- qatar airways nairobi contact
-- qatar airways doha to nairobi flight status
-- qatar airways nairobi office directions
-- qatar flight to nairobi today
+- 'qatar airways nairobi airport terminal'
+- 'qatar airways nairobi contact'
+- 'qatar airways doha to nairobi flight status'
+- 'qatar airways nairobi office directions'
+- 'qatar flight to nairobi today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

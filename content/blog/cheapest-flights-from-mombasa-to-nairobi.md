@@ -1,14 +1,14 @@
 ---
 title: 'Cheapest Flights from Mombasa to Nairobi: Complete Guide'
-description: Everything you need to know about cheapest flights from mombasa to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheapest flights from mombasa to nairobi, including routes, airlines, booking tips, and fares.'
 slug: cheapest-flights-from-mombasa-to-nairobi
-primary_keyword: cheapest flights from mombasa to nairobi
+primary_keyword: 'cheapest flights from mombasa to nairobi'
 secondary_keywords:
-- flights from nairobi to washington dc
-- flights from nairobi kenya to seiyun yemen
-- how much is flight from nairobi to usa
-- flights from nairobi to amman jordan
-- flights from mombasa airport
+- 'flights from nairobi to washington dc'
+- 'flights from nairobi kenya to seiyun yemen'
+- 'how much is flight from nairobi to usa'
+- 'flights from nairobi to amman jordan'
+- 'flights from mombasa airport'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

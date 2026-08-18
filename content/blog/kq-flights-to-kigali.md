@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Kigali: Complete Guide'
-description: Everything you need to know about kq flights to kigali, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to kigali, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-kigali
-primary_keyword: kq flights to kigali
+primary_keyword: 'kq flights to kigali'
 secondary_keywords:
-- flight from nairobi to hong kong
-- flight from nairobi to johannesburg
-- flight from nairobi kenya to madrid spain
-- last flight from nairobi to kisumu
-- mauritius flight from nairobi
+- 'flight from nairobi to hong kong'
+- 'flight from nairobi to johannesburg'
+- 'flight from nairobi kenya to madrid spain'
+- 'last flight from nairobi to kisumu'
+- 'mauritius flight from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

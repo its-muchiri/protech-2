@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Abu Dhabi: Complete Guide'
-description: Everything you need to know about flights from nairobi to abu dhabi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to abu dhabi, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-abu-dhabi
-primary_keyword: flights from nairobi to abu dhabi
+primary_keyword: 'flights from nairobi to abu dhabi'
 secondary_keywords:
-- kenya airways flight from mombasa to nairobi today
-- kenya airways flight 507
-- flight from nairobi to ahmedabad
-- flight from nairobi to bali
-- flight from nairobi to cape town
+- 'kenya airways flight from mombasa to nairobi today'
+- 'kenya airways flight 507'
+- 'flight from nairobi to ahmedabad'
+- 'flight from nairobi to bali'
+- 'flight from nairobi to cape town'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

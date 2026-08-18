@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Ek 3: Complete Guide'
-description: Everything you need to know about emirates ek 3, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates ek 3, including routes, airlines, booking tips, and fares.'
 slug: emirates-ek-3
-primary_keyword: emirates ek 3
+primary_keyword: 'emirates ek 3'
 secondary_keywords:
-- cheap flights from nairobi to johannesburg
-- flights from nairobi to eldoret today
-- flights from nairobi to freetown
-- flights from nairobi to geneva
-- flights from nairobi to hamburg
+- 'cheap flights from nairobi to johannesburg'
+- 'flights from nairobi to eldoret today'
+- 'flights from nairobi to freetown'
+- 'flights from nairobi to geneva'
+- 'flights from nairobi to hamburg'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

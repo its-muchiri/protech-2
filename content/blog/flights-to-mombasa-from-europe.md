@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Mombasa from Europe: Complete Guide'
-description: Everything you need to know about flights to mombasa from europe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to mombasa from europe, including routes, airlines, booking tips, and fares.'
 slug: flights-to-mombasa-from-europe
-primary_keyword: flights to mombasa from europe
+primary_keyword: 'flights to mombasa from europe'
 secondary_keywords:
-- flight time nairobi to istanbul
-- jambojet flights nairobi to mombasa
-- kenya airways flights nairobi to mombasa
-- flights nairobi to mumbai
-- flights nairobi to namibia
+- 'flight time nairobi to istanbul'
+- 'jambojet flights nairobi to mombasa'
+- 'kenya airways flights nairobi to mombasa'
+- 'flights nairobi to mumbai'
+- 'flights nairobi to namibia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

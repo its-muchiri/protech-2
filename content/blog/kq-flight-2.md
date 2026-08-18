@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight 2: Complete Guide'
-description: Everything you need to know about kq flight 2, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight 2, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-2
-primary_keyword: kq flight 2
+primary_keyword: 'kq flight 2'
 secondary_keywords:
-- skyward flights from eldoret to nairobi
-- kq flights arrivals
-- kq flights to amsterdam
-- kenya airways flight schedule
-- kq check in for international flights
+- 'skyward flights from eldoret to nairobi'
+- 'kq flights arrivals'
+- 'kq flights to amsterdam'
+- 'kenya airways flight schedule'
+- 'kq check in for international flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

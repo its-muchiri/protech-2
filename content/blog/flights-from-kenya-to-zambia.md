@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Zambia: Complete Guide'
-description: Everything you need to know about flights from kenya to zambia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to zambia, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-zambia
-primary_keyword: flights from kenya to zambia
+primary_keyword: 'flights from kenya to zambia'
 secondary_keywords:
-- flights to kenya 2024
-- how long is a flight from kenya to tanzania
-- flights from nairobi airport
-- available flights from nairobi to kisumu
-- british airways flights from nairobi to london today
+- 'flights to kenya 2024'
+- 'how long is a flight from kenya to tanzania'
+- 'flights from nairobi airport'
+- 'available flights from nairobi to kisumu'
+- 'british airways flights from nairobi to london today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

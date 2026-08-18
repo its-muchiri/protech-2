@@ -1,14 +1,14 @@
 ---
 title: 'Romantic Tented Camp Laikipia Kenya: Complete Guide'
-description: Kenya safari guide covering romantic tented camp laikipia kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering romantic tented camp laikipia kenya, including what is included, pricing, and booking advice.'
 slug: romantic-tented-camp-laikipia-kenya
-primary_keyword: Romantic tented camp Laikipia Kenya
+primary_keyword: 'Romantic tented camp Laikipia Kenya'
 secondary_keywords:
-- Buy Tsavo National Park safari online now
-- Reserve Kenya safari slot for July 2025 USA
-- Last minute Kenya safari deals UK direct operator
-- Private Kenya safari tour booking UK custom itinerary
-- Reserve Kenya photographic hide safari tour Europe
+- 'Buy Tsavo National Park safari online now'
+- 'Reserve Kenya safari slot for July 2025 USA'
+- 'Last minute Kenya safari deals UK direct operator'
+- 'Private Kenya safari tour booking UK custom itinerary'
+- 'Reserve Kenya photographic hide safari tour Europe'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

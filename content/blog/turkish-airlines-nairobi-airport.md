@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Nairobi Airport: Complete Guide'
-description: Everything you need to know about turkish airlines nairobi airport, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines nairobi airport, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-nairobi-airport
-primary_keyword: turkish airlines nairobi airport
+primary_keyword: 'turkish airlines nairobi airport'
 secondary_keywords:
-- qatar airways nairobi email address
-- qatar airways nairobi lounge
-- qatar airways recruitment nairobi 2024
-- kq flights from nairobi to kisumu
-- kq flight from nbo to dxb
+- 'qatar airways nairobi email address'
+- 'qatar airways nairobi lounge'
+- 'qatar airways recruitment nairobi 2024'
+- 'kq flights from nairobi to kisumu'
+- 'kq flight from nbo to dxb'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

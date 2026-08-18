@@ -1,14 +1,14 @@
 ---
 title: 'Vehicle Safety Standards Kenya Tour Operators Maintenance Checks: Complete Guide'
-description: Kenya safari guide covering vehicle safety standards kenya tour operators maintenance checks, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering vehicle safety standards kenya tour operators maintenance checks, including what is included, pricing, and booking advice.'
 slug: vehicle-safety-standards-kenya-tour-operators-maintenance-checks
-primary_keyword: Vehicle safety standards Kenya tour operators maintenance checks
+primary_keyword: 'Vehicle safety standards Kenya tour operators maintenance checks'
 secondary_keywords:
-- What makes Masai Mara special
-- Small group migration safari Kenya August
-- Overcrowded Masai Mara safari
-- Pangolin safari Kenya (extremely difficult sighting)
-- Wilson Airport Nairobi safari flights
+- 'What makes Masai Mara special'
+- 'Small group migration safari Kenya August'
+- 'Overcrowded Masai Mara safari'
+- 'Pangolin safari Kenya (extremely difficult sighting)'
+- 'Wilson Airport Nairobi safari flights'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

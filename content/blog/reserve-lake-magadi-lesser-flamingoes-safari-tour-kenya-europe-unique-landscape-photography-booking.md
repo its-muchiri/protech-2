@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Lake Magadi Lesser Flamingoes Safari Tour Kenya Europe Unique Landscape Photography Booking: Complete Guide'
-description: Kenya safari guide covering reserve lake magadi lesser flamingoes safari tour kenya europe unique landscape photography booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve lake magadi lesser flamingoes safari tour kenya europe unique landscape photography booking, including what is included, pricing, and booking advice.'
 slug: reserve-lake-magadi-lesser-flamingoes-safari-tour-kenya-europe-unique-landscape-photography-booking
-primary_keyword: Reserve Lake Magadi lesser flamingoes safari tour Kenya Europe unique landscape photography booking
+primary_keyword: 'Reserve Lake Magadi lesser flamingoes safari tour Kenya Europe unique landscape photography booking'
 secondary_keywords:
-- Kenya air safari
-- Kenya cultural safari
-- 4 day Kenya safari
-- How much is a Kenya safari
-- Hidden costs Kenya safari
+- 'Kenya air safari'
+- 'Kenya cultural safari'
+- '4 day Kenya safari'
+- 'How much is a Kenya safari'
+- 'Hidden costs Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

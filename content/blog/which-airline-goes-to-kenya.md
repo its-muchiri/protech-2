@@ -1,14 +1,14 @@
 ---
 title: 'Which Airline Goes to Kenya: Complete Guide'
-description: Everything you need to know about which airline goes to kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about which airline goes to kenya, including routes, airlines, booking tips, and fares.'
 slug: which-airline-goes-to-kenya
-primary_keyword: which airline goes to kenya
+primary_keyword: 'which airline goes to kenya'
 secondary_keywords:
-- flight time from nairobi to victoria falls
-- flight from nairobi to germany price
-- flight from nairobi to hamburg
-- flight from nairobi to juba
-- flight from nairobi kenya
+- 'flight time from nairobi to victoria falls'
+- 'flight from nairobi to germany price'
+- 'flight from nairobi to hamburg'
+- 'flight from nairobi to juba'
+- 'flight from nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

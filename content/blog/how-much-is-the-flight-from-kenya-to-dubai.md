@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is the Flight from Kenya to Dubai: Complete Guide'
-description: Everything you need to know about how much is the flight from kenya to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is the flight from kenya to dubai, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-the-flight-from-kenya-to-dubai
-primary_keyword: how much is the flight from kenya to dubai
+primary_keyword: 'how much is the flight from kenya to dubai'
 secondary_keywords:
-- emirates flights to nairobi kenya
-- fly emirates nairobi office
-- emirates booking nairobi
-- emirates nairobi
-- emirates nairobi to perth
+- 'emirates flights to nairobi kenya'
+- 'fly emirates nairobi office'
+- 'emirates booking nairobi'
+- 'emirates nairobi'
+- 'emirates nairobi to perth'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Kenya from Vancouver: Complete Guide'
-description: Everything you need to know about flights to kenya from vancouver, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to kenya from vancouver, including routes, airlines, booking tips, and fares.'
 slug: flights-to-kenya-from-vancouver
-primary_keyword: flights to kenya from vancouver
+primary_keyword: 'flights to kenya from vancouver'
 secondary_keywords:
-- nairobi to india flights price
-- juba to nairobi flights
-- flights nairobi to lamu
-- flights nairobi to morocco
-- tickets to nairobi national park
+- 'nairobi to india flights price'
+- 'juba to nairobi flights'
+- 'flights nairobi to lamu'
+- 'flights nairobi to morocco'
+- 'tickets to nairobi national park'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

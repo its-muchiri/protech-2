@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways Nairobi Office Directions: Complete Guide'
-description: Everything you need to know about qatar airways nairobi office directions, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways nairobi office directions, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-nairobi-office-directions
-primary_keyword: qatar airways nairobi office directions
+primary_keyword: 'qatar airways nairobi office directions'
 secondary_keywords:
-- how many flights per day in kenya
-- does kenya airways fly to usa
-- airlines in kenya job vacancies
-- requirements for local flights in kenya
-- flights to kenya in october
+- 'how many flights per day in kenya'
+- 'does kenya airways fly to usa'
+- 'airlines in kenya job vacancies'
+- 'requirements for local flights in kenya'
+- 'flights to kenya in october'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

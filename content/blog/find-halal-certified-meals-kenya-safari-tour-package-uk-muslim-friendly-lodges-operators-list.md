@@ -1,14 +1,14 @@
 ---
 title: 'Find Halal Certified Meals Kenya Safari Tour Package UK Muslim Friendly Lodges Operators List: Complete Guide'
-description: Kenya safari guide covering find halal certified meals kenya safari tour package uk muslim friendly lodges operators list, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering find halal certified meals kenya safari tour package uk muslim friendly lodges operators list, including what is included, pricing, and booking advice.'
 slug: find-halal-certified-meals-kenya-safari-tour-package-uk-muslim-friendly-lodges-operators-list
-primary_keyword: Find Halal certified meals Kenya safari tour package UK Muslim friendly lodges operators list
+primary_keyword: 'Find Halal certified meals Kenya safari tour package UK Muslim friendly lodges operators list'
 secondary_keywords:
-- Price 14 day Elewana Collection SkySafari Kenya package
-- Reserve 9 day Joy''s Camp Shaba Samburu package deal
-- Secure booking philanthropic safari package Kenya donation focus
-- Eco-friendly safari companies Kenya
-- Samburu fly-in safari companies
+- 'Price 14 day Elewana Collection SkySafari Kenya package'
+- 'Reserve 9 day Joy''''s Camp Shaba Samburu package deal'
+- 'Secure booking philanthropic safari package Kenya donation focus'
+- 'Eco-friendly safari companies Kenya'
+- 'Samburu fly-in safari companies'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

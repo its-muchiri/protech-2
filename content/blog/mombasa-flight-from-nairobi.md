@@ -1,14 +1,14 @@
 ---
 title: 'Mombasa Flight from Nairobi: Complete Guide'
-description: Everything you need to know about mombasa flight from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about mombasa flight from nairobi, including routes, airlines, booking tips, and fares.'
 slug: mombasa-flight-from-nairobi
-primary_keyword: mombasa flight from nairobi
+primary_keyword: 'mombasa flight from nairobi'
 secondary_keywords:
-- is kisumu an international airport
-- jambojet flights from eldoret to nairobi
-- flights from entebbe to eldoret
-- kq flights from eldoret to nairobi timetable
-- kenya airways flights from eldoret to nairobi price
+- 'is kisumu an international airport'
+- 'jambojet flights from eldoret to nairobi'
+- 'flights from entebbe to eldoret'
+- 'kq flights from eldoret to nairobi timetable'
+- 'kenya airways flights from eldoret to nairobi price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Indigo Flights from Nairobi: Complete Guide'
-description: Everything you need to know about indigo flights from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about indigo flights from nairobi, including routes, airlines, booking tips, and fares.'
 slug: indigo-flights-from-nairobi
-primary_keyword: indigo flights from nairobi
+primary_keyword: 'indigo flights from nairobi'
 secondary_keywords:
-- flight from nairobi to mombasa is how much
-- flights to mombasa from johannesburg
-- flight from mombasa to lamu price
-- flights from mombasa to madagascar
-- which flights operate from nairobi to mombasa
+- 'flight from nairobi to mombasa is how much'
+- 'flights to mombasa from johannesburg'
+- 'flight from mombasa to lamu price'
+- 'flights from mombasa to madagascar'
+- 'which flights operate from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

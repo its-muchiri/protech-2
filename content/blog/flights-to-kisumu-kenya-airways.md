@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Kisumu Kenya Airways: Complete Guide'
-description: Everything you need to know about flights to kisumu kenya airways, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to kisumu kenya airways, including routes, airlines, booking tips, and fares.'
 slug: flights-to-kisumu-kenya-airways
-primary_keyword: flights to kisumu kenya airways
+primary_keyword: 'flights to kisumu kenya airways'
 secondary_keywords:
-- kq flights from mombasa to nairobi today price
-- flights from mombasa to mumbai
-- flights to mombasa from muscat oman
-- kq flights from mombasa to nairobi tomorrow
-- flights from kisumu to mombasa
+- 'kq flights from mombasa to nairobi today price'
+- 'flights from mombasa to mumbai'
+- 'flights to mombasa from muscat oman'
+- 'kq flights from mombasa to nairobi tomorrow'
+- 'flights from kisumu to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

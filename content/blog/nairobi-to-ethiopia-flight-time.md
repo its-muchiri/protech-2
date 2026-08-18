@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi to Ethiopia Flight Time: Complete Guide'
-description: Everything you need to know about nairobi to ethiopia flight time, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about nairobi to ethiopia flight time, including routes, airlines, booking tips, and fares.'
 slug: nairobi-to-ethiopia-flight-time
-primary_keyword: nairobi to ethiopia flight time
+primary_keyword: 'nairobi to ethiopia flight time'
 secondary_keywords:
-- cheap flights from nairobi to mumbai
-- cheap flights from nairobi to isiolo
-- which airlines fly from nairobi to ukunda
-- kq flights from mombasa to nairobi today
-- are there direct flights from mombasa to zanzibar
+- 'cheap flights from nairobi to mumbai'
+- 'cheap flights from nairobi to isiolo'
+- 'which airlines fly from nairobi to ukunda'
+- 'kq flights from mombasa to nairobi today'
+- 'are there direct flights from mombasa to zanzibar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

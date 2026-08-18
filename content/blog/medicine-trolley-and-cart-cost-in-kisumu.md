@@ -1,14 +1,14 @@
 ---
 title: 'Medicine Trolley and Cart Cost in Kisumu: 2026 Price Guide'
-description: Kenya buying guide to medicine trolley and cart cost in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to medicine trolley and cart cost in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: medicine-trolley-and-cart-cost-in-kisumu
-primary_keyword: Medicine trolley and cart cost in Kisumu
+primary_keyword: 'Medicine trolley and cart cost in Kisumu'
 secondary_keywords:
-- Medical equipment logistics and transport Kenya
-- Dental chair for sale in Eldoret
-- ECG machine suppliers in Meru
-- Lab equipment calibration in Eldoret
-- Ambulance fabrication companies in Nairobi
+- 'Medical equipment logistics and transport Kenya'
+- 'Dental chair for sale in Eldoret'
+- 'ECG machine suppliers in Meru'
+- 'Lab equipment calibration in Eldoret'
+- 'Ambulance fabrication companies in Nairobi'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

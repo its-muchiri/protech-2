@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Johannesburg to Dublin: Complete Guide'
-description: Everything you need to know about emirates flights from johannesburg to dublin, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from johannesburg to dublin, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-johannesburg-to-dublin
-primary_keyword: emirates flights from johannesburg to dublin
+primary_keyword: 'emirates flights from johannesburg to dublin'
 secondary_keywords:
-- kq flight from dubai to nairobi today
-- flight number kenya airways
-- kenya airways flight from nairobi to london today live
-- kq flight schedule nairobi to kisumu
-- kenya airways flight from nairobi to eldoret
+- 'kq flight from dubai to nairobi today'
+- 'flight number kenya airways'
+- 'kenya airways flight from nairobi to london today live'
+- 'kq flight schedule nairobi to kisumu'
+- 'kenya airways flight from nairobi to eldoret'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

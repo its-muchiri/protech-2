@@ -1,14 +1,14 @@
 ---
 title: 'Buy All-inclusive Kenya Safari Deal USA 2025: Complete Guide'
-description: Kenya safari guide covering buy all-inclusive kenya safari deal usa 2025, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy all-inclusive kenya safari deal usa 2025, including what is included, pricing, and booking advice.'
 slug: buy-all-inclusive-kenya-safari-deal-usa-2025
-primary_keyword: Buy all-inclusive Kenya safari deal USA 2025
+primary_keyword: 'Buy all-inclusive Kenya safari deal USA 2025'
 secondary_keywords:
-- Nairobi National Park day tour package buy
-- Premium Kenya safari package booking
-- Book Kenya family safari package
-- Family adventure safari package Kenya
-- Promo code Kenya safari package
+- 'Nairobi National Park day tour package buy'
+- 'Premium Kenya safari package booking'
+- 'Book Kenya family safari package'
+- 'Family adventure safari package Kenya'
+- 'Promo code Kenya safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

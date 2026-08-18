@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Agent: Complete Guide'
-description: Kenya safari guide covering kenya safari agent, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari agent, including what is included, pricing, and booking advice.'
 slug: kenya-safari-agent
-primary_keyword: Kenya safari agent
+primary_keyword: 'Kenya safari agent'
 secondary_keywords:
-- Best budget overland truck safari Kenya deals for European backpackers
-- Buy guaranteed departure small group Kenya camping safari USA tour company reviews
-- Reserve private vehicle & guide safari Kenya price quote per day USA flexible itinerary
-- Find deals Kenya safari green season (Apr-May) Europe discounts luxury lodges availability
-- Buy multi-country East Africa safari Kenya Tanzania Rwanda gorilla trek USA operator package cost
+- 'Best budget overland truck safari Kenya deals for European backpackers'
+- 'Buy guaranteed departure small group Kenya camping safari USA tour company reviews'
+- 'Reserve private vehicle & guide safari Kenya price quote per day USA flexible itinerary'
+- 'Find deals Kenya safari green season (Apr-May) Europe discounts luxury lodges availability'
+- 'Buy multi-country East Africa safari Kenya Tanzania Rwanda gorilla trek USA operator package cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

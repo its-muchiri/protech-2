@@ -1,14 +1,14 @@
 ---
 title: '1 Ethiopian Birr to Kenyan Shillings: Complete Guide'
-description: Everything you need to know about 1 ethiopian birr to kenyan shillings, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about 1 ethiopian birr to kenyan shillings, including routes, airlines, booking tips, and fares.'
 slug: 1-ethiopian-birr-to-kenyan-shillings
-primary_keyword: 1 ethiopian birr to kenyan shillings
+primary_keyword: '1 ethiopian birr to kenyan shillings'
 secondary_keywords:
-- flight from nairobi to mombasa cost
-- flight from nairobi to mombasa duration
-- cheap flights from frankfurt to mombasa
-- flight from nairobi to mombasa hours
-- flights from isiolo to mombasa
+- 'flight from nairobi to mombasa cost'
+- 'flight from nairobi to mombasa duration'
+- 'cheap flights from frankfurt to mombasa'
+- 'flight from nairobi to mombasa hours'
+- 'flights from isiolo to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

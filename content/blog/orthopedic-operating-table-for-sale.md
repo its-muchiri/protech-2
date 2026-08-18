@@ -1,14 +1,14 @@
 ---
 title: 'Orthopedic Operating Table for Sale: 2026 Price Guide'
-description: Kenya buying guide to orthopedic operating table for sale. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to orthopedic operating table for sale. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: orthopedic-operating-table-for-sale
-primary_keyword: Orthopedic operating table for sale
+primary_keyword: 'Orthopedic operating table for sale'
 secondary_keywords:
-- laparoscope price Kenya
-- patient mobility aids Kenya
-- medical equipment suppliers Nairobi CBD
-- clinic management software Kenya
-- medical cleaning supplies Kenya
+- 'laparoscope price Kenya'
+- 'patient mobility aids Kenya'
+- 'medical equipment suppliers Nairobi CBD'
+- 'clinic management software Kenya'
+- 'medical cleaning supplies Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

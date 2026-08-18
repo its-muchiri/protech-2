@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from India to Usa: Complete Guide'
-description: Everything you need to know about emirates flights from india to usa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from india to usa, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-india-to-usa
-primary_keyword: emirates flights from india to usa
+primary_keyword: 'emirates flights from india to usa'
 secondary_keywords:
-- how much is a flight from nairobi to new york
-- flights from mombasa to amsterdam
-- flights from berlin to mombasa
-- flight from nairobi to mombasa cost
-- flight from nairobi to mombasa duration
+- 'how much is a flight from nairobi to new york'
+- 'flights from mombasa to amsterdam'
+- 'flights from berlin to mombasa'
+- 'flight from nairobi to mombasa cost'
+- 'flight from nairobi to mombasa duration'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

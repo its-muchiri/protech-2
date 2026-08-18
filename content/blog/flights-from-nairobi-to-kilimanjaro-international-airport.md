@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Kilimanjaro International Airport: Complete Guide'
-description: Everything you need to know about flights from nairobi to kilimanjaro international airport, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to kilimanjaro international airport, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-kilimanjaro-international-airport
-primary_keyword: flights from nairobi to kilimanjaro international airport
+primary_keyword: 'flights from nairobi to kilimanjaro international airport'
 secondary_keywords:
-- dar to nairobi flights price
-- flights nairobi to rome
-- flights nairobi to seronera
-- flights from toronto to nairobi
-- fly nairobi to victoria falls
+- 'dar to nairobi flights price'
+- 'flights nairobi to rome'
+- 'flights nairobi to seronera'
+- 'flights from toronto to nairobi'
+- 'fly nairobi to victoria falls'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

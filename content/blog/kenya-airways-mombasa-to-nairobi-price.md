@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Mombasa to Nairobi Price: Complete Guide'
-description: Everything you need to know about kenya airways mombasa to nairobi price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways mombasa to nairobi price, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-mombasa-to-nairobi-price
-primary_keyword: kenya airways mombasa to nairobi price
+primary_keyword: 'kenya airways mombasa to nairobi price'
 secondary_keywords:
-- kq flight from nairobi to eldoret
-- kenya airways mumbai to nairobi flight status
-- kq flight from london to nairobi
-- kq flight schedule nairobi to mombasa
-- kenya airways flight from nairobi to kisumu
+- 'kq flight from nairobi to eldoret'
+- 'kenya airways mumbai to nairobi flight status'
+- 'kq flight from london to nairobi'
+- 'kq flight schedule nairobi to mombasa'
+- 'kenya airways flight from nairobi to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

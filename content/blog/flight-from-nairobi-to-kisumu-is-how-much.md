@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Kisumu Is How Much: Complete Guide'
-description: Everything you need to know about flight from nairobi to kisumu is how much, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to kisumu is how much, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-kisumu-is-how-much
-primary_keyword: flight from nairobi to kisumu is how much
+primary_keyword: 'flight from nairobi to kisumu is how much'
 secondary_keywords:
-- cheap flights nairobi to usa
-- nairobi to las vegas flights
-- cheap flights nairobi to new york
-- does american airlines fly to kenya
-- how much is it from nairobi to mombasa by flight
+- 'cheap flights nairobi to usa'
+- 'nairobi to las vegas flights'
+- 'cheap flights nairobi to new york'
+- 'does american airlines fly to kenya'
+- 'how much is it from nairobi to mombasa by flight'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

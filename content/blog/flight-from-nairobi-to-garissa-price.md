@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Garissa Price: Complete Guide'
-description: Everything you need to know about flight from nairobi to garissa price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to garissa price, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-garissa-price
-primary_keyword: flight from nairobi to garissa price
+primary_keyword: 'flight from nairobi to garissa price'
 secondary_keywords:
-- flights from lodwar kenya to eldoret kenya
-- safarilink flights from eldoret to nairobi
-- kq flight attendant jobs
-- kq flights booking
-- kenya airways flight requirements
+- 'flights from lodwar kenya to eldoret kenya'
+- 'safarilink flights from eldoret to nairobi'
+- 'kq flight attendant jobs'
+- 'kq flights booking'
+- 'kenya airways flight requirements'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

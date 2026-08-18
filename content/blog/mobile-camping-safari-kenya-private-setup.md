@@ -1,14 +1,14 @@
 ---
 title: 'Mobile Camping Safari Kenya Private Setup: Complete Guide'
-description: Kenya safari guide covering mobile camping safari kenya private setup, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering mobile camping safari kenya private setup, including what is included, pricing, and booking advice.'
 slug: mobile-camping-safari-kenya-private-setup
-primary_keyword: Mobile camping safari Kenya private setup
+primary_keyword: 'Mobile camping safari Kenya private setup'
 secondary_keywords:
-- Samburu Special Five animals tour guide Kenya
-- Kenya driving safari itinerary 7 days / 10 days
-- Lamu Island cultural holiday packages UNESCO site tours
-- Mount Kilimanjaro climbing tours from Kenya operators
-- Responsible tourism operators Kenya cultural sensitivity
+- 'Samburu Special Five animals tour guide Kenya'
+- 'Kenya driving safari itinerary 7 days / 10 days'
+- 'Lamu Island cultural holiday packages UNESCO site tours'
+- 'Mount Kilimanjaro climbing tours from Kenya operators'
+- 'Responsible tourism operators Kenya cultural sensitivity'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

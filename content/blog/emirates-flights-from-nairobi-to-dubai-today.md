@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Nairobi to Dubai Today: Complete Guide'
-description: Everything you need to know about emirates flights from nairobi to dubai today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from nairobi to dubai today, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-nairobi-to-dubai-today
-primary_keyword: emirates flights from nairobi to dubai today
+primary_keyword: 'emirates flights from nairobi to dubai today'
 secondary_keywords:
-- cheapest flights from nairobi to vancouver
-- flights from nairobi to warsaw
-- cheap flights from zurich to nairobi
-- cheapest flights from nairobi to johannesburg
-- flights from mombasa
+- 'cheapest flights from nairobi to vancouver'
+- 'flights from nairobi to warsaw'
+- 'cheap flights from zurich to nairobi'
+- 'cheapest flights from nairobi to johannesburg'
+- 'flights from mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

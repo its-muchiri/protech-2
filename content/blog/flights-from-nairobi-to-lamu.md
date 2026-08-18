@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Lamu: Complete Guide'
-description: Everything you need to know about flights from nairobi to lamu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to lamu, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-lamu
-primary_keyword: flights from nairobi to lamu
+primary_keyword: 'flights from nairobi to lamu'
 secondary_keywords:
-- cheap flights from vienna to nairobi
-- flights from nairobi to zurich
-- flights to zanzibar from nairobi precision air
-- cheap flights from nairobi to mombasa
-- cheap flights from nairobi to kinshasa
+- 'cheap flights from vienna to nairobi'
+- 'flights from nairobi to zurich'
+- 'flights to zanzibar from nairobi precision air'
+- 'cheap flights from nairobi to mombasa'
+- 'cheap flights from nairobi to kinshasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

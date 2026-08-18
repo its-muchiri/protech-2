@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Spokane Wa to Nairobi Kenya: Complete Guide'
-description: Everything you need to know about flights from spokane wa to nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from spokane wa to nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-spokane-wa-to-nairobi-kenya
-primary_keyword: flights from spokane wa to nairobi kenya
+primary_keyword: 'flights from spokane wa to nairobi kenya'
 secondary_keywords:
-- flights from nairobi to egypt
-- flight from nairobi to mombasa fare
-- flights from nairobi to greece
-- flights from nairobi to houston
-- indigo flights from nairobi
+- 'flights from nairobi to egypt'
+- 'flight from nairobi to mombasa fare'
+- 'flights from nairobi to greece'
+- 'flights from nairobi to houston'
+- 'indigo flights from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

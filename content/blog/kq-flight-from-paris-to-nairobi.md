@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Paris to Nairobi: Complete Guide'
-description: Everything you need to know about kq flight from paris to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from paris to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-paris-to-nairobi
-primary_keyword: kq flight from paris to nairobi
+primary_keyword: 'kq flight from paris to nairobi'
 secondary_keywords:
-- flights from kenya to luxembourg
-- flights from kenya to madagascar
-- flights from chicago to nairobi kenya
-- flights from orlando to kenya
-- flights from perth to nairobi kenya
+- 'flights from kenya to luxembourg'
+- 'flights from kenya to madagascar'
+- 'flights from chicago to nairobi kenya'
+- 'flights from orlando to kenya'
+- 'flights from perth to nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

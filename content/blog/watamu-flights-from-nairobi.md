@@ -1,14 +1,14 @@
 ---
 title: 'Watamu Flights from Nairobi: Complete Guide'
-description: Everything you need to know about watamu flights from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about watamu flights from nairobi, including routes, airlines, booking tips, and fares.'
 slug: watamu-flights-from-nairobi
-primary_keyword: watamu flights from nairobi
+primary_keyword: 'watamu flights from nairobi'
 secondary_keywords:
-- kq international flights
-- kenya airways jfk flights
-- kq flights to lagos
-- kq flights nairobi to mombasa
-- kq flights to kisumu price
+- 'kq international flights'
+- 'kenya airways jfk flights'
+- 'kq flights to lagos'
+- 'kq flights nairobi to mombasa'
+- 'kq flights to kisumu price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

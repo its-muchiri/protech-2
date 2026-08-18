@@ -1,14 +1,14 @@
 ---
 title: 'Spirit of Kenya Safari Reviews Customized Tours: Complete Guide'
-description: Kenya safari guide covering spirit of kenya safari reviews customized tours, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering spirit of kenya safari reviews customized tours, including what is included, pricing, and booking advice.'
 slug: spirit-of-kenya-safari-reviews-customized-tours
-primary_keyword: Spirit of Kenya safari reviews customized tours
+primary_keyword: 'Spirit of Kenya safari reviews customized tours'
 secondary_keywords:
-- Sale 14 day honeymoon Kenya beach safari package
-- Luxury Kenya safari holiday package buy
-- Find reliable Kenya tour operator package deal
-- Buy photographic safari package camera gear rental included (niche)
-- Compare all-inclusive Kenya safari deals booking
+- 'Sale 14 day honeymoon Kenya beach safari package'
+- 'Luxury Kenya safari holiday package buy'
+- 'Find reliable Kenya tour operator package deal'
+- 'Buy photographic safari package camera gear rental included (niche)'
+- 'Compare all-inclusive Kenya safari deals booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

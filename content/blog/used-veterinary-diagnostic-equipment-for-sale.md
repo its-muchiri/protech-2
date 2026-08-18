@@ -1,14 +1,14 @@
 ---
 title: 'Used Veterinary Diagnostic Equipment for Sale: 2026 Price Guide'
-description: Kenya buying guide to used veterinary diagnostic equipment for sale. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to used veterinary diagnostic equipment for sale. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: used-veterinary-diagnostic-equipment-for-sale
-primary_keyword: Used veterinary diagnostic equipment for sale
+primary_keyword: 'Used veterinary diagnostic equipment for sale'
 secondary_keywords:
-- Kenya medical market overview
-- medical supplies near me Kenya
-- adhesive bandages Kenya bulk
-- Savlon Kenya price
-- petri dishes Kenya suppliers
+- 'Kenya medical market overview'
+- 'medical supplies near me Kenya'
+- 'adhesive bandages Kenya bulk'
+- 'Savlon Kenya price'
+- 'petri dishes Kenya suppliers'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

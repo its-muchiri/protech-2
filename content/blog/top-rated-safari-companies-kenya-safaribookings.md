@@ -1,14 +1,14 @@
 ---
 title: 'Top Rated Safari Companies Kenya SafariBookings: Complete Guide'
-description: Kenya safari guide covering top rated safari companies kenya safaribookings, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering top rated safari companies kenya safaribookings, including what is included, pricing, and booking advice.'
 slug: top-rated-safari-companies-kenya-safaribookings
-primary_keyword: Top rated safari companies Kenya SafariBookings
+primary_keyword: 'Top rated safari companies Kenya SafariBookings'
 secondary_keywords:
-- Lake Naivasha boat tour operators
-- Budget camping safari companies Kenya
-- Over 50s safari tours Kenya
-- Tea plantation tours Limuru operators
-- One month Kenya volunteer tour program
+- 'Lake Naivasha boat tour operators'
+- 'Budget camping safari companies Kenya'
+- 'Over 50s safari tours Kenya'
+- 'Tea plantation tours Limuru operators'
+- 'One month Kenya volunteer tour program'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Chyulu Hills Safari: Complete Guide'
-description: Kenya safari guide covering chyulu hills safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering chyulu hills safari, including what is included, pricing, and booking advice.'
 slug: chyulu-hills-safari
-primary_keyword: Chyulu Hills safari
+primary_keyword: 'Chyulu Hills safari'
 secondary_keywords:
-- Find Halal certified meals Kenya safari tour package UK Muslim friendly lodges operators list
-- Book camel trekking safari northern Kenya Samburu Europe traditional experience cost
-- Buy Mount Longonot hike safari day trip package USA Rift Valley views cost
-- Safari Kenya
-- Kenya travel safari
+- 'Find Halal certified meals Kenya safari tour package UK Muslim friendly lodges operators list'
+- 'Book camel trekking safari northern Kenya Samburu Europe traditional experience cost'
+- 'Buy Mount Longonot hike safari day trip package USA Rift Valley views cost'
+- 'Safari Kenya'
+- 'Kenya travel safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

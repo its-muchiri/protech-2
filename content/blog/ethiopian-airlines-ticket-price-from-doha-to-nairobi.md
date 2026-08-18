@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Ticket Price from Doha to Nairobi: Complete Guide'
-description: Everything you need to know about ethiopian airlines ticket price from doha to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines ticket price from doha to nairobi, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-ticket-price-from-doha-to-nairobi
-primary_keyword: ethiopian airlines ticket price from doha to nairobi
+primary_keyword: 'ethiopian airlines ticket price from doha to nairobi'
 secondary_keywords:
-- emirates flights from vienna to dubai
-- emirates flights from which terminal in dubai
-- emirates flights from new york to milan
-- emirates flight from zambia to dubai
-- emirates flights 1st class
+- 'emirates flights from vienna to dubai'
+- 'emirates flights from which terminal in dubai'
+- 'emirates flights from new york to milan'
+- 'emirates flight from zambia to dubai'
+- 'emirates flights 1st class'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

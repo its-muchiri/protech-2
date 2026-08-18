@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Isiolo to Mombasa: Complete Guide'
-description: Everything you need to know about flights from isiolo to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from isiolo to mombasa, including routes, airlines, booking tips, and fares.'
 slug: flights-from-isiolo-to-mombasa
-primary_keyword: flights from isiolo to mombasa
+primary_keyword: 'flights from isiolo to mombasa'
 secondary_keywords:
-- emirates flights from nairobi to dubai ticket price
-- emirates from nairobi to london
-- emirates cargo nairobi
-- is emirates operating
-- emirates flight from riyadh to nairobi timetable
+- 'emirates flights from nairobi to dubai ticket price'
+- 'emirates from nairobi to london'
+- 'emirates cargo nairobi'
+- 'is emirates operating'
+- 'emirates flight from riyadh to nairobi timetable'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: '(These Words Are Often Combined with the Above Sections, But Can Be Searched Directly): Complete Guide'
-description: Kenya safari guide covering (these words are often combined with the above sections, but can be searched directly), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering (these words are often combined with the above sections, but can be searched directly), including what is included, pricing, and booking advice.'
 slug: these-words-are-often-combined-with-the-above-sections-but-can-be-searched-directly
-primary_keyword: (These words are often combined with the above sections, but can be searched directly)
+primary_keyword: '(These words are often combined with the above sections, but can be searched directly)'
 secondary_keywords:
-- Pre-book migration safari package Kenya July
-- Book 10 day luxury Kenya safari escape package
-- Get booking code 6 day budget Masai Mara safari
-- Reserve 8 day Tortilis Camp Amboseli luxury package
-- Book 7 day Singita Grumeti link Kenya package (linking concepts)
+- 'Pre-book migration safari package Kenya July'
+- 'Book 10 day luxury Kenya safari escape package'
+- 'Get booking code 6 day budget Masai Mara safari'
+- 'Reserve 8 day Tortilis Camp Amboseli luxury package'
+- 'Book 7 day Singita Grumeti link Kenya package (linking concepts)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Adventure Safari Companies Kenya (hiking, Rafting): Complete Guide'
-description: Kenya safari guide covering adventure safari companies kenya (hiking, rafting), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering adventure safari companies kenya (hiking, rafting), including what is included, pricing, and booking advice.'
 slug: adventure-safari-companies-kenya-hiking-rafting
-primary_keyword: Adventure safari companies Kenya (hiking, rafting)
+primary_keyword: 'Adventure safari companies Kenya (hiking, rafting)'
 secondary_keywords:
-- Kenya fly-in safari packages price comparison UK
-- Tsavo East & West safari tour booking Europe red elephants
-- Book safari Taita Hills Wildlife Sanctuary UK Salt Lick Lodge
-- Direct flights London to Nairobi + Kenya safari package UK
-- Budget Kenya safari tour agency Europe reviews affordable
+- 'Kenya fly-in safari packages price comparison UK'
+- 'Tsavo East & West safari tour booking Europe red elephants'
+- 'Book safari Taita Hills Wildlife Sanctuary UK Salt Lick Lodge'
+- 'Direct flights London to Nairobi + Kenya safari package UK'
+- 'Budget Kenya safari tour agency Europe reviews affordable'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

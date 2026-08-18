@@ -1,14 +1,14 @@
 ---
 title: 'Best Company for Last Minute Day Trip Nairobi National Park: Complete Guide'
-description: Kenya safari guide covering best company for last minute day trip nairobi national park, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering best company for last minute day trip nairobi national park, including what is included, pricing, and booking advice.'
 slug: best-company-for-last-minute-day-trip-nairobi-national-park
-primary_keyword: Best company for last minute day trip Nairobi National Park
+primary_keyword: 'Best company for last minute day trip Nairobi National Park'
 secondary_keywords:
-- Family friendly Kenya safari deals
-- Multi-generational family safari Kenya book
-- Off-season Kenya safari package discount
-- Kenya safari and Victoria Falls package quote
-- Secure peak season Kenya safari package
+- 'Family friendly Kenya safari deals'
+- 'Multi-generational family safari Kenya book'
+- 'Off-season Kenya safari package discount'
+- 'Kenya safari and Victoria Falls package quote'
+- 'Secure peak season Kenya safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

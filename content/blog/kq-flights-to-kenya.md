@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Kenya: Complete Guide'
-description: Everything you need to know about kq flights to kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to kenya, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-kenya
-primary_keyword: kq flights to kenya
+primary_keyword: 'kq flights to kenya'
 secondary_keywords:
-- nairobi to washington dc flights
-- nairobi to zanzibar flights
-- 2 bedroom apartments in nairobi for sale
-- emirates flights from auckland
-- emirates flights from birmingham to dubai
+- 'nairobi to washington dc flights'
+- 'nairobi to zanzibar flights'
+- '2 bedroom apartments in nairobi for sale'
+- 'emirates flights from auckland'
+- 'emirates flights from birmingham to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

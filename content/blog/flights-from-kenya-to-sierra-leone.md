@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Sierra Leone: Complete Guide'
-description: Everything you need to know about flights from kenya to sierra leone, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to sierra leone, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-sierra-leone
-primary_keyword: flights from kenya to sierra leone
+primary_keyword: 'flights from kenya to sierra leone'
 secondary_keywords:
-- domestic flight from nairobi to mombasa price in ksh
-- flight for nairobi
-- flight from nairobi to guangzhou
-- flight from nairobi to houston tx
-- indigo flight from nairobi to mumbai
+- 'domestic flight from nairobi to mombasa price in ksh'
+- 'flight for nairobi'
+- 'flight from nairobi to guangzhou'
+- 'flight from nairobi to houston tx'
+- 'indigo flight from nairobi to mumbai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Things to Do on Kenya Safari: Complete Guide'
-description: Kenya safari guide covering things to do on kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering things to do on kenya safari, including what is included, pricing, and booking advice.'
 slug: things-to-do-on-kenya-safari
-primary_keyword: Things to do on Kenya safari
+primary_keyword: 'Things to do on Kenya safari'
 secondary_keywords:
-- Buy Kenya safari filming permit assistance and logistics support UK production company rates
-- Reserve Nairobi Railway Museum visit safari add-on UK history transport enthusiasts booking
-- Best Kenya safari
-- Lake Nakuru safari
-- Borana Conservancy safari
+- 'Buy Kenya safari filming permit assistance and logistics support UK production company rates'
+- 'Reserve Nairobi Railway Museum visit safari add-on UK history transport enthusiasts booking'
+- 'Best Kenya safari'
+- 'Lake Nakuru safari'
+- 'Borana Conservancy safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

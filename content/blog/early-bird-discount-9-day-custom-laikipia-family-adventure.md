@@ -1,14 +1,14 @@
 ---
 title: 'Early Bird Discount 9 Day Custom Laikipia Family Adventure: Complete Guide'
-description: Kenya safari guide covering early bird discount 9 day custom laikipia family adventure, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering early bird discount 9 day custom laikipia family adventure, including what is included, pricing, and booking advice.'
 slug: early-bird-discount-9-day-custom-laikipia-family-adventure
-primary_keyword: Early bird discount 9 day custom Laikipia family adventure
+primary_keyword: 'Early bird discount 9 day custom Laikipia family adventure'
 secondary_keywords:
-- Group Kenya safari
-- Short Kenya safari
-- 9 day Kenya safari
-- Discount Kenya safari
-- Luxury tented camps Kenya
+- 'Group Kenya safari'
+- 'Short Kenya safari'
+- '9 day Kenya safari'
+- 'Discount Kenya safari'
+- 'Luxury tented camps Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

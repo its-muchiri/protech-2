@@ -1,14 +1,14 @@
 ---
 title: 'Wb Flight: Complete Guide'
-description: Everything you need to know about wb flight, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about wb flight, including routes, airlines, booking tips, and fares.'
 slug: wb-flight
-primary_keyword: wb flight
+primary_keyword: 'wb flight'
 secondary_keywords:
-- 1 turkish lira to kenyan shillings
-- ethiopian airlines nairobi to addis ababa price
-- ethiopian airline office in nairobi telephone number
-- does ethiopian airlines fly to dublin
-- nairobi to turkey flight time
+- '1 turkish lira to kenyan shillings'
+- 'ethiopian airlines nairobi to addis ababa price'
+- 'ethiopian airline office in nairobi telephone number'
+- 'does ethiopian airlines fly to dublin'
+- 'nairobi to turkey flight time'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

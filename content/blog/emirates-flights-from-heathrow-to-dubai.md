@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Heathrow to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from heathrow to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from heathrow to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-heathrow-to-dubai
-primary_keyword: emirates flights from heathrow to dubai
+primary_keyword: 'emirates flights from heathrow to dubai'
 secondary_keywords:
-- kq 533
-- kenya airways flight from nairobi to cape town
-- kenya airways jfk to nairobi schedule
-- kenya airways flight from nairobi to johannesburg
-- kq flight from nairobi to mombasa price
+- 'kq 533'
+- 'kenya airways flight from nairobi to cape town'
+- 'kenya airways jfk to nairobi schedule'
+- 'kenya airways flight from nairobi to johannesburg'
+- 'kq flight from nairobi to mombasa price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Eldoret from Wilson: Complete Guide'
-description: Everything you need to know about flights to eldoret from wilson, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to eldoret from wilson, including routes, airlines, booking tips, and fares.'
 slug: flights-to-eldoret-from-wilson
-primary_keyword: flights to eldoret from wilson
+primary_keyword: 'flights to eldoret from wilson'
 secondary_keywords:
-- flights from kenya to dallas
-- emirates flights from kenya to australia
-- flights to france from kenya
-- ghana flights from kenya
-- kenya to hargeisa flight
+- 'flights from kenya to dallas'
+- 'emirates flights from kenya to australia'
+- 'flights to france from kenya'
+- 'ghana flights from kenya'
+- 'kenya to hargeisa flight'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

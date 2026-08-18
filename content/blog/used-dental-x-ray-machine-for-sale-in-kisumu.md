@@ -1,14 +1,14 @@
 ---
 title: 'Used Dental X-ray Machine for Sale in Kisumu: 2026 Price Guide'
-description: Kenya buying guide to used dental x-ray machine for sale in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to used dental x-ray machine for sale in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: used-dental-x-ray-machine-for-sale-in-kisumu
-primary_keyword: Used dental X-ray machine for sale in Kisumu
+primary_keyword: 'Used dental X-ray machine for sale in Kisumu'
 secondary_keywords:
-- Point-of-care testing (POCT) devices for sale
-- chairside CAD/CAM system for dentists
-- cheapest place to buy surgical scrubs in Nairobi
-- soil testing kits for agriculture
-- field hospital setup and equipment
+- 'Point-of-care testing (POCT) devices for sale'
+- 'chairside CAD/CAM system for dentists'
+- 'cheapest place to buy surgical scrubs in Nairobi'
+- 'soil testing kits for agriculture'
+- 'field hospital setup and equipment'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

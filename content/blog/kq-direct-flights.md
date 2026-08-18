@@ -1,14 +1,14 @@
 ---
 title: 'Kq Direct Flights: Complete Guide'
-description: Everything you need to know about kq direct flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq direct flights, including routes, airlines, booking tips, and fares.'
 slug: kq-direct-flights
-primary_keyword: kq direct flights
+primary_keyword: 'kq direct flights'
 secondary_keywords:
-- kq flight from nairobi to dubai today
-- kq direct flight from nairobi to new york ticket price
-- how much is kq flight from nairobi to dubai
-- kenya airways flight from nairobi to lagos
-- kenya airways flight from nairobi to paris
+- 'kq flight from nairobi to dubai today'
+- 'kq direct flight from nairobi to new york ticket price'
+- 'how much is kq flight from nairobi to dubai'
+- 'kenya airways flight from nairobi to lagos'
+- 'kenya airways flight from nairobi to paris'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

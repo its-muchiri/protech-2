@@ -1,14 +1,14 @@
 ---
 title: 'Berlin to Nairobi Flights: Complete Guide'
-description: Everything you need to know about berlin to nairobi flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about berlin to nairobi flights, including routes, airlines, booking tips, and fares.'
 slug: berlin-to-nairobi-flights
-primary_keyword: berlin to nairobi flights
+primary_keyword: 'berlin to nairobi flights'
 secondary_keywords:
-- skyward flights from kisumu to nairobi
-- kq flights from eldoret to nairobi price
-- flights in eldoret
-- kq flights from eldoret to mombasa
-- skyward flights from eldoret to nairobi
+- 'skyward flights from kisumu to nairobi'
+- 'kq flights from eldoret to nairobi price'
+- 'flights in eldoret'
+- 'kq flights from eldoret to mombasa'
+- 'skyward flights from eldoret to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

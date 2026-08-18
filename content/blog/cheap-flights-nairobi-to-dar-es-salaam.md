@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights Nairobi to Dar Es Salaam: Complete Guide'
-description: Everything you need to know about cheap flights nairobi to dar es salaam, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights nairobi to dar es salaam, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-nairobi-to-dar-es-salaam
-primary_keyword: cheap flights nairobi to dar es salaam
+primary_keyword: 'cheap flights nairobi to dar es salaam'
 secondary_keywords:
-- flights nairobi to venice
-- flights nairobi wilson to lamu
-- flights nairobi to zimbabwe
-- how much is a flight from nairobi to usa
-- emirates flights from manchester today
+- 'flights nairobi to venice'
+- 'flights nairobi wilson to lamu'
+- 'flights nairobi to zimbabwe'
+- 'how much is a flight from nairobi to usa'
+- 'emirates flights from manchester today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

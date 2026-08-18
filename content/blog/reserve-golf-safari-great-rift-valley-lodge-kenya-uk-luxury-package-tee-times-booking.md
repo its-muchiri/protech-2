@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Golf Safari Great Rift Valley Lodge Kenya UK Luxury Package Tee Times Booking: Complete Guide'
-description: Kenya safari guide covering reserve golf safari great rift valley lodge kenya uk luxury package tee times booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve golf safari great rift valley lodge kenya uk luxury package tee times booking, including what is included, pricing, and booking advice.'
 slug: reserve-golf-safari-great-rift-valley-lodge-kenya-uk-luxury-package-tee-times-booking
-primary_keyword: Reserve golf safari Great Rift Valley Lodge Kenya UK luxury package tee times booking
+primary_keyword: 'Reserve golf safari Great Rift Valley Lodge Kenya UK luxury package tee times booking'
 secondary_keywords:
-- Meru National Park safari
-- Kenya parks safari tour
-- Kenya birding tour
-- Self-drive Kenya safari (less common, more complex)
-- Senior citizen Kenya safari
+- 'Meru National Park safari'
+- 'Kenya parks safari tour'
+- 'Kenya birding tour'
+- 'Self-drive Kenya safari (less common, more complex)'
+- 'Senior citizen Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

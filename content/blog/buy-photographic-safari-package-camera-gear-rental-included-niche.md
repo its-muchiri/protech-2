@@ -1,14 +1,14 @@
 ---
 title: 'Buy Photographic Safari Package Camera Gear Rental Included (niche): Complete Guide'
-description: Kenya safari guide covering buy photographic safari package camera gear rental included (niche), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy photographic safari package camera gear rental included (niche), including what is included, pricing, and booking advice.'
 slug: buy-photographic-safari-package-camera-gear-rental-included-niche
-primary_keyword: Buy photographic safari package camera gear rental included (niche)
+primary_keyword: 'Buy photographic safari package camera gear rental included (niche)'
 secondary_keywords:
-- 8 day Kenya discovery tour package
-- Samburu reserve safari package booking
-- Book luxury Kenya safari package
-- Bespoke Kenya luxury safari operator
-- Couples safari package Kenya reserve
+- '8 day Kenya discovery tour package'
+- 'Samburu reserve safari package booking'
+- 'Book luxury Kenya safari package'
+- 'Bespoke Kenya luxury safari operator'
+- 'Couples safari package Kenya reserve'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Bali: Complete Guide'
-description: Everything you need to know about flights from kenya to bali, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to bali, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-bali
-primary_keyword: flights from kenya to bali
+primary_keyword: 'flights from kenya to bali'
 secondary_keywords:
-- kq flights from mombasa to dubai
-- flights from mombasa to manchester
-- flight from nairobi to mombasa one way
-- does qatar airways fly to mombasa
-- safarilink flights from kisumu to mombasa
+- 'kq flights from mombasa to dubai'
+- 'flights from mombasa to manchester'
+- 'flight from nairobi to mombasa one way'
+- 'does qatar airways fly to mombasa'
+- 'safarilink flights from kisumu to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: '4 Day Amboseli Lake Nakuru Safari Company: Complete Guide'
-description: Kenya safari guide covering 4 day amboseli lake nakuru safari company, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering 4 day amboseli lake nakuru safari company, including what is included, pricing, and booking advice.'
 slug: 4-day-amboseli-lake-nakuru-safari-company
-primary_keyword: 4 day Amboseli Lake Nakuru safari company
+primary_keyword: '4 day Amboseli Lake Nakuru safari company'
 secondary_keywords:
-- Safe Kenya safari tours booking certified guides USA
-- Availability check Kenya fly-in safari Governors Camp Masai Mara UK July 2025
-- Get quote for multi-generational family safari Kenya wheelchair accessible lodge UK
-- Buy Masai Mara hot air balloon safari package add-on UK price booking online
-- Reserve Kenya safari with beach extension Zanzibar flights & transfers included USA package cost
+- 'Safe Kenya safari tours booking certified guides USA'
+- 'Availability check Kenya fly-in safari Governors Camp Masai Mara UK July 2025'
+- 'Get quote for multi-generational family safari Kenya wheelchair accessible lodge UK'
+- 'Buy Masai Mara hot air balloon safari package add-on UK price booking online'
+- 'Reserve Kenya safari with beach extension Zanzibar flights & transfers included USA package cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Luxury Tented Camp Ol Pejeta Safari USA Chimpanzee Sanctuary Visit Reviews: Complete Guide'
-description: Kenya safari guide covering reserve luxury tented camp ol pejeta safari usa chimpanzee sanctuary visit reviews, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve luxury tented camp ol pejeta safari usa chimpanzee sanctuary visit reviews, including what is included, pricing, and booking advice.'
 slug: reserve-luxury-tented-camp-ol-pejeta-safari-usa-chimpanzee-sanctuary-visit-reviews
-primary_keyword: Reserve luxury tented camp Ol Pejeta safari USA chimpanzee sanctuary visit reviews
+primary_keyword: 'Reserve luxury tented camp Ol Pejeta safari USA chimpanzee sanctuary visit reviews'
 secondary_keywords:
-- Online travel agencies (OTAs) for Kenya tours (e.g., Viator, GetYourGuide)
-- Masai Mara park fees 2025 citizens/residents/non-residents
-- Ol Pejeta Conservancy day trip from Nanyuki / Nairobi chimpanzee sanctuary tour
-- Family safari Kenya deals child friendly lodges
-- Malindi beach hotels deals Italian influence
+- 'Online travel agencies (OTAs) for Kenya tours (e.g., Viator, GetYourGuide)'
+- 'Masai Mara park fees 2025 citizens/residents/non-residents'
+- 'Ol Pejeta Conservancy day trip from Nanyuki / Nairobi chimpanzee sanctuary tour'
+- 'Family safari Kenya deals child friendly lodges'
+- 'Malindi beach hotels deals Italian influence'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Kenya Contact Number: Complete Guide'
-description: Everything you need to know about turkish airlines kenya contact number, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines kenya contact number, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-kenya-contact-number
-primary_keyword: turkish airlines kenya contact number
+primary_keyword: 'turkish airlines kenya contact number'
 secondary_keywords:
-- emirates flight 515
-- emirates flight 777 300er seating
-- emirates ek 8
-- how long is flight from nairobi to qatar
-- does qatar airways fly direct to toronto
+- 'emirates flight 515'
+- 'emirates flight 777 300er seating'
+- 'emirates ek 8'
+- 'how long is flight from nairobi to qatar'
+- 'does qatar airways fly direct to toronto'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

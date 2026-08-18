@@ -1,14 +1,14 @@
 ---
 title: 'Rhino Sanctuary Lake Nakuru Best Viewing Times: Complete Guide'
-description: Kenya safari guide covering rhino sanctuary lake nakuru best viewing times, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering rhino sanctuary lake nakuru best viewing times, including what is included, pricing, and booking advice.'
 slug: rhino-sanctuary-lake-nakuru-best-viewing-times
-primary_keyword: Rhino sanctuary Lake Nakuru best viewing times
+primary_keyword: 'Rhino sanctuary Lake Nakuru best viewing times'
 secondary_keywords:
-- Crowds during migration Kenya
-- Safari en Kenia (Spanish)
-- Kenya safari blog
-- Purchase Kenya safari tour
-- Pay for Kenya safari tour
+- 'Crowds during migration Kenya'
+- 'Safari en Kenia (Spanish)'
+- 'Kenya safari blog'
+- 'Purchase Kenya safari tour'
+- 'Pay for Kenya safari tour'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

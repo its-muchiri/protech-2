@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights from Nairobi to Ahmedabad: Complete Guide'
-description: Everything you need to know about kenya airways flights from nairobi to ahmedabad, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights from nairobi to ahmedabad, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-from-nairobi-to-ahmedabad
-primary_keyword: kenya airways flights from nairobi to ahmedabad
+primary_keyword: 'kenya airways flights from nairobi to ahmedabad'
 secondary_keywords:
-- turkish airlines nairobi to istanbul today
-- turkish airlines nairobi office contacts
-- turkish airline to nairobi
-- ethiopian airlines nairobi to accra
-- ethiopian airlines agent in nairobi
+- 'turkish airlines nairobi to istanbul today'
+- 'turkish airlines nairobi office contacts'
+- 'turkish airline to nairobi'
+- 'ethiopian airlines nairobi to accra'
+- 'ethiopian airlines agent in nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

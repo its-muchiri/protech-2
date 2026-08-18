@@ -1,14 +1,14 @@
 ---
 title: '1 Naira to Kenya Shillings: Complete Guide'
-description: Everything you need to know about 1 naira to kenya shillings, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about 1 naira to kenya shillings, including routes, airlines, booking tips, and fares.'
 slug: 1-naira-to-kenya-shillings
-primary_keyword: 1 naira to kenya shillings
+primary_keyword: '1 naira to kenya shillings'
 secondary_keywords:
-- flight from nairobi to geneva
-- flight from nairobi to heathrow today
-- indigo flight from nairobi to ahmedabad
-- jambojet flight from nairobi to ukunda
-- local flight from nairobi to mombasa
+- 'flight from nairobi to geneva'
+- 'flight from nairobi to heathrow today'
+- 'indigo flight from nairobi to ahmedabad'
+- 'jambojet flight from nairobi to ukunda'
+- 'local flight from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

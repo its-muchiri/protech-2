@@ -1,14 +1,14 @@
 ---
 title: 'Flights from New Orleans to Kenya: Complete Guide'
-description: Everything you need to know about flights from new orleans to kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from new orleans to kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-new-orleans-to-kenya
-primary_keyword: flights from new orleans to kenya
+primary_keyword: 'flights from new orleans to kenya'
 secondary_keywords:
-- flight from nairobi to ontario
-- flight from nairobi to philadelphia
-- flight from nairobi to russia
-- flight from nairobi to sweden
-- how long is the flight from nairobi to london
+- 'flight from nairobi to ontario'
+- 'flight from nairobi to philadelphia'
+- 'flight from nairobi to russia'
+- 'flight from nairobi to sweden'
+- 'how long is the flight from nairobi to london'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

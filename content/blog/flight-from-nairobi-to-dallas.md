@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Dallas: Complete Guide'
-description: Everything you need to know about flight from nairobi to dallas, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to dallas, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-dallas
-primary_keyword: flight from nairobi to dallas
+primary_keyword: 'flight from nairobi to dallas'
 secondary_keywords:
-- flights from nairobi kenya to dublin ireland
-- flights to kenya from jfk
-- klm flights from kenya to amsterdam
-- flights from kenya to los angeles
-- morocco flights from kenya
+- 'flights from nairobi kenya to dublin ireland'
+- 'flights to kenya from jfk'
+- 'klm flights from kenya to amsterdam'
+- 'flights from kenya to los angeles'
+- 'morocco flights from kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

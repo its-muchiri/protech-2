@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Kabunde: Complete Guide'
-description: Everything you need to know about flight from nairobi to kabunde, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to kabunde, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-kabunde
-primary_keyword: flight from nairobi to kabunde
+primary_keyword: 'flight from nairobi to kabunde'
 secondary_keywords:
-- emirates flights from qatar
-- does emirates fly to qatar
-- emirates flights from stansted to dubai today
-- emirates flights from toronto to dubai schedule
-- emirates flights from vancouver to dubai
+- 'emirates flights from qatar'
+- 'does emirates fly to qatar'
+- 'emirates flights from stansted to dubai today'
+- 'emirates flights from toronto to dubai schedule'
+- 'emirates flights from vancouver to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

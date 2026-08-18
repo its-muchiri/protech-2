@@ -1,14 +1,14 @@
 ---
 title: 'Flight Ticket from Kenya to Qatar: Complete Guide'
-description: Everything you need to know about flight ticket from kenya to qatar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight ticket from kenya to qatar, including routes, airlines, booking tips, and fares.'
 slug: flight-ticket-from-kenya-to-qatar
-primary_keyword: flight ticket from kenya to qatar
+primary_keyword: 'flight ticket from kenya to qatar'
 secondary_keywords:
-- flight from nairobi to diani beach
-- egypt air flight from nairobi to cairo
-- flight fare from dar es salaam to nairobi
-- flight from goma to nairobi
-- how much is a flight from nairobi to malindi
+- 'flight from nairobi to diani beach'
+- 'egypt air flight from nairobi to cairo'
+- 'flight fare from dar es salaam to nairobi'
+- 'flight from goma to nairobi'
+- 'how much is a flight from nairobi to malindi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

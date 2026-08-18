@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Hong Kong: Complete Guide'
-description: Everything you need to know about emirates flights from hong kong, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from hong kong, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-hong-kong
-primary_keyword: emirates flights from hong kong
+primary_keyword: 'emirates flights from hong kong'
 secondary_keywords:
-- flights from rome to mombasa
-- uganda airlines flights from mombasa to entebbe
-- flights to mombasa from nairobi prices
-- flights from kisumu to homa bay
-- flight rates from kisumu to nairobi
+- 'flights from rome to mombasa'
+- 'uganda airlines flights from mombasa to entebbe'
+- 'flights to mombasa from nairobi prices'
+- 'flights from kisumu to homa bay'
+- 'flight rates from kisumu to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

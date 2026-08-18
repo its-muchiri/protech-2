@@ -1,14 +1,14 @@
 ---
 title: 'Amboseli Lodges: Complete Guide'
-description: Kenya safari guide covering amboseli lodges, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering amboseli lodges, including what is included, pricing, and booking advice.'
 slug: amboseli-lodges
-primary_keyword: Amboseli lodges
+primary_keyword: 'Amboseli lodges'
 secondary_keywords:
-- Lamu Island cultural holiday packages UNESCO site tours
-- Mount Kilimanjaro climbing tours from Kenya operators
-- Responsible tourism operators Kenya cultural sensitivity
-- Intrepid Travel Kenya tours family / overland reviews
-- Big Time Safaris Kenya packages
+- 'Lamu Island cultural holiday packages UNESCO site tours'
+- 'Mount Kilimanjaro climbing tours from Kenya operators'
+- 'Responsible tourism operators Kenya cultural sensitivity'
+- 'Intrepid Travel Kenya tours family / overland reviews'
+- 'Big Time Safaris Kenya packages'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Reflex Hammer and Tuning Fork Price: 2026 Price Guide'
-description: Kenya buying guide to reflex hammer and tuning fork price. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to reflex hammer and tuning fork price. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: reflex-hammer-and-tuning-fork-price
-primary_keyword: Reflex hammer and tuning fork price
+primary_keyword: 'Reflex hammer and tuning fork price'
 secondary_keywords:
-- emergency medical kits Kenya
-- infant warmers Kenya
-- biological safety cabinets Kenya
-- ICU equipment Kenya
-- surgical simulation equipment Kenya
+- 'emergency medical kits Kenya'
+- 'infant warmers Kenya'
+- 'biological safety cabinets Kenya'
+- 'ICU equipment Kenya'
+- 'surgical simulation equipment Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

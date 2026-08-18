@@ -1,14 +1,14 @@
 ---
 title: 'How Many Emirates Flights from Heathrow: Complete Guide'
-description: Everything you need to know about how many emirates flights from heathrow, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how many emirates flights from heathrow, including routes, airlines, booking tips, and fares.'
 slug: how-many-emirates-flights-from-heathrow
-primary_keyword: how many emirates flights from heathrow
+primary_keyword: 'how many emirates flights from heathrow'
 secondary_keywords:
-- flights from nairobi to netherlands
-- flights from nairobi to new orleans
-- flights from perth to nairobi
-- flights from nairobi to romania
-- flights from nairobi to seattle
+- 'flights from nairobi to netherlands'
+- 'flights from nairobi to new orleans'
+- 'flights from perth to nairobi'
+- 'flights from nairobi to romania'
+- 'flights from nairobi to seattle'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

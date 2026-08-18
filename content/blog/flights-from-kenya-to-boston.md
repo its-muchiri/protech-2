@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Boston: Complete Guide'
-description: Everything you need to know about flights from kenya to boston, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to boston, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-boston
-primary_keyword: flights from kenya to boston
+primary_keyword: 'flights from kenya to boston'
 secondary_keywords:
-- flights from mombasa to jeddah
-- flights from mombasa to kakamega
-- local flights from mombasa to nairobi
-- flights from mumbai to mombasa kenya
-- flight from mombasa to malindi price
+- 'flights from mombasa to jeddah'
+- 'flights from mombasa to kakamega'
+- 'local flights from mombasa to nairobi'
+- 'flights from mumbai to mombasa kenya'
+- 'flight from mombasa to malindi price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

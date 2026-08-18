@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Newcastle to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from newcastle to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from newcastle to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-newcastle-to-dubai
-primary_keyword: emirates flights from newcastle to dubai
+primary_keyword: 'emirates flights from newcastle to dubai'
 secondary_keywords:
-- kq flights to entebbe today timetable
-- kq flight from harare to nairobi
-- kq flights to johannesburg
-- kq flight lhr to nbo
-- kq mayfly flight schedule
+- 'kq flights to entebbe today timetable'
+- 'kq flight from harare to nairobi'
+- 'kq flights to johannesburg'
+- 'kq flight lhr to nbo'
+- 'kq mayfly flight schedule'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Fly Nairobi to Watamu: Complete Guide'
-description: Everything you need to know about fly nairobi to watamu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about fly nairobi to watamu, including routes, airlines, booking tips, and fares.'
 slug: fly-nairobi-to-watamu
-primary_keyword: fly nairobi to watamu
+primary_keyword: 'fly nairobi to watamu'
 secondary_keywords:
-- flights to kisumu from mombasa
-- flights from eldoret to diani
-- flights to eldoret from jkia
-- flight from eldoret to nanyuki
-- flights to eldoret from wilson today
+- 'flights to kisumu from mombasa'
+- 'flights from eldoret to diani'
+- 'flights to eldoret from jkia'
+- 'flight from eldoret to nanyuki'
+- 'flights to eldoret from wilson today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

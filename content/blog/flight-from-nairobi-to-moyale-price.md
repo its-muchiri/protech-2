@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Moyale Price: Complete Guide'
-description: Everything you need to know about flight from nairobi to moyale price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to moyale price, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-moyale-price
-primary_keyword: flight from nairobi to moyale price
+primary_keyword: 'flight from nairobi to moyale price'
 secondary_keywords:
-- malaysia flights from kenya
-- flights from kenya to oman
-- flights to nairobi kenya from orlando florida
-- flights from paris to nairobi kenya
-- flights from kenya to romania
+- 'malaysia flights from kenya'
+- 'flights from kenya to oman'
+- 'flights to nairobi kenya from orlando florida'
+- 'flights from paris to nairobi kenya'
+- 'flights from kenya to romania'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

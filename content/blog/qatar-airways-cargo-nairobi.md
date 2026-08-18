@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways Cargo Nairobi: Complete Guide'
-description: Everything you need to know about qatar airways cargo nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways cargo nairobi, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-cargo-nairobi
-primary_keyword: qatar airways cargo nairobi
+primary_keyword: 'qatar airways cargo nairobi'
 secondary_keywords:
-- qatar flight from nairobi to doha
-- flights from riyadh to nairobi
-- skyward flights from nairobi to mombasa
-- uganda airlines flights from nairobi to entebbe today
-- flights from nairobi wilson to diani beach
+- 'qatar flight from nairobi to doha'
+- 'flights from riyadh to nairobi'
+- 'skyward flights from nairobi to mombasa'
+- 'uganda airlines flights from nairobi to entebbe today'
+- 'flights from nairobi wilson to diani beach'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

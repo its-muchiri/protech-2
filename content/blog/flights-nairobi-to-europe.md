@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Europe: Complete Guide'
-description: Everything you need to know about flights nairobi to europe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to europe, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-europe
-primary_keyword: flights nairobi to europe
+primary_keyword: 'flights nairobi to europe'
 secondary_keywords:
-- kq flights entebbe to nairobi
-- what airline is go to gate
-- kq flights images
-- kq kisumu flight schedule today
-- kq flights mombasa to nairobi
+- 'kq flights entebbe to nairobi'
+- 'what airline is go to gate'
+- 'kq flights images'
+- 'kq kisumu flight schedule today'
+- 'kq flights mombasa to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

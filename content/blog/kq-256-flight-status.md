@@ -1,14 +1,14 @@
 ---
 title: 'Kq 256 Flight Status: Complete Guide'
-description: Everything you need to know about kq 256 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 256 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq-256-flight-status
-primary_keyword: kq 256 flight status
+primary_keyword: 'kq 256 flight status'
 secondary_keywords:
-- emirates first class price from nairobi to dubai
-- emirates contact nairobi
-- emirates flight nairobi to dubai
-- emirates nairobi phone number
-- emirates 720
+- 'emirates first class price from nairobi to dubai'
+- 'emirates contact nairobi'
+- 'emirates flight nairobi to dubai'
+- 'emirates nairobi phone number'
+- 'emirates 720'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

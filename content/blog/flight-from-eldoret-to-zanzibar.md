@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Eldoret to Zanzibar: Complete Guide'
-description: Everything you need to know about flight from eldoret to zanzibar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from eldoret to zanzibar, including routes, airlines, booking tips, and fares.'
 slug: flight-from-eldoret-to-zanzibar
-primary_keyword: flight from eldoret to zanzibar
+primary_keyword: 'flight from eldoret to zanzibar'
 secondary_keywords:
-- flights operating in kenya
-- flights from kenya to rwanda
-- flights kenya to australia
-- flights nairobi zanzibar
-- cheap flights from kenya
+- 'flights operating in kenya'
+- 'flights from kenya to rwanda'
+- 'flights kenya to australia'
+- 'flights nairobi zanzibar'
+- 'cheap flights from kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

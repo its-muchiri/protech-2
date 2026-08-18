@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Botswana: Complete Guide'
-description: Everything you need to know about flights from nairobi to botswana, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to botswana, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-botswana
-primary_keyword: flights from nairobi to botswana
+primary_keyword: 'flights from nairobi to botswana'
 secondary_keywords:
-- flights from kenya to ireland
-- flights from kenya to johannesburg today
-- flights from kenya to kigali
-- flights from kenya to london
-- flights from mombasa kenya to kigali rwanda
+- 'flights from kenya to ireland'
+- 'flights from kenya to johannesburg today'
+- 'flights from kenya to kigali'
+- 'flights from kenya to london'
+- 'flights from mombasa kenya to kigali rwanda'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

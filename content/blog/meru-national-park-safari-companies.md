@@ -1,14 +1,14 @@
 ---
 title: 'Meru National Park Safari Companies: Complete Guide'
-description: Kenya safari guide covering meru national park safari companies, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering meru national park safari companies, including what is included, pricing, and booking advice.'
 slug: meru-national-park-safari-companies
-primary_keyword: Meru National Park safari companies
+primary_keyword: 'Meru National Park safari companies'
 secondary_keywords:
-- Book Kenya horseback riding safari package UK Laikipia
-- Masai Mara migration river crossing tour booking dates 2025
-- All-inclusive Kenya safari from UK cost July 2025
-- UK travel advice Kenya safari booking safe operators
-- Top rated Kenya safari specialists UK experts
+- 'Book Kenya horseback riding safari package UK Laikipia'
+- 'Masai Mara migration river crossing tour booking dates 2025'
+- 'All-inclusive Kenya safari from UK cost July 2025'
+- 'UK travel advice Kenya safari booking safe operators'
+- 'Top rated Kenya safari specialists UK experts'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

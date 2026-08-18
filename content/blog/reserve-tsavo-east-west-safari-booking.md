@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Tsavo East West Safari Booking: Complete Guide'
-description: Kenya safari guide covering reserve tsavo east west safari booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve tsavo east west safari booking, including what is included, pricing, and booking advice.'
 slug: reserve-tsavo-east-west-safari-booking
-primary_keyword: Reserve Tsavo East West safari booking
+primary_keyword: 'Reserve Tsavo East West safari booking'
 secondary_keywords:
-- Last minute Kenya safari deals Nairobi departures
-- Eco-rating for Kenya safari lodges / camps Ecotourism Kenya certification
-- Kenya film crew logistics support tour operators
-- Purchase Masai Mara safari trip online Europe
-- Book safari tour Kenya online payment
+- 'Last minute Kenya safari deals Nairobi departures'
+- 'Eco-rating for Kenya safari lodges / camps Ecotourism Kenya certification'
+- 'Kenya film crew logistics support tour operators'
+- 'Purchase Masai Mara safari trip online Europe'
+- 'Book safari tour Kenya online payment'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

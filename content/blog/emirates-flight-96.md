@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 96: Complete Guide'
-description: Everything you need to know about emirates flight 96, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 96, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-96
-primary_keyword: emirates flight 96
+primary_keyword: 'emirates flight 96'
 secondary_keywords:
-- are there flights from mombasa to diani
-- does british airways fly to africa
-- flights from mombasa to dar es salaam
-- cheap flights from eldoret to mombasa
-- flights from glasgow to mombasa
+- 'are there flights from mombasa to diani'
+- 'does british airways fly to africa'
+- 'flights from mombasa to dar es salaam'
+- 'cheap flights from eldoret to mombasa'
+- 'flights from glasgow to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

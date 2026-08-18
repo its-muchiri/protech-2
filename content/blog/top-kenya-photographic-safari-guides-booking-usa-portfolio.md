@@ -1,14 +1,14 @@
 ---
 title: 'Top Kenya Photographic Safari Guides Booking USA Portfolio: Complete Guide'
-description: Kenya safari guide covering top kenya photographic safari guides booking usa portfolio, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering top kenya photographic safari guides booking usa portfolio, including what is included, pricing, and booking advice.'
 slug: top-kenya-photographic-safari-guides-booking-usa-portfolio
-primary_keyword: Top Kenya photographic safari guides booking USA portfolio
+primary_keyword: 'Top Kenya photographic safari guides booking USA portfolio'
 secondary_keywords:
-- Cheap Kenya safari package buy online
-- Basic Kenya safari lodge package buy
-- 10 day Kenya Tanzania migration package buy
-- Reserve Kenya safari package  months in advance
-- Compare Kenya safari package prices
+- 'Cheap Kenya safari package buy online'
+- 'Basic Kenya safari lodge package buy'
+- '10 day Kenya Tanzania migration package buy'
+- 'Reserve Kenya safari package  months in advance'
+- 'Compare Kenya safari package prices'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

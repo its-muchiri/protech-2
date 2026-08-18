@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Usa: Complete Guide'
-description: Everything you need to know about kq flights to usa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to usa, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-usa
-primary_keyword: kq flights to usa
+primary_keyword: 'kq flights to usa'
 secondary_keywords:
-- emirates jkia nairobi
-- emirates shoes nairobi
-- emirates flights to kenya from london
-- emirates flight from kenya to dubai price tomorrow
-- emirates offices in kenya
+- 'emirates jkia nairobi'
+- 'emirates shoes nairobi'
+- 'emirates flights to kenya from london'
+- 'emirates flight from kenya to dubai price tomorrow'
+- 'emirates offices in kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

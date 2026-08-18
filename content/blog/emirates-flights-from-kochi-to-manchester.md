@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Kochi to Manchester: Complete Guide'
-description: Everything you need to know about emirates flights from kochi to manchester, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from kochi to manchester, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-kochi-to-manchester
-primary_keyword: emirates flights from kochi to manchester
+primary_keyword: 'emirates flights from kochi to manchester'
 secondary_keywords:
-- kq flights mombasa to nairobi
-- kq flight news
-- kq flight reschedule
-- kq flights to seychelles
-- kq flights to new york
+- 'kq flights mombasa to nairobi'
+- 'kq flight news'
+- 'kq flight reschedule'
+- 'kq flights to seychelles'
+- 'kq flights to new york'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

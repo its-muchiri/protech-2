@@ -1,14 +1,14 @@
 ---
 title: 'Cheapest Flights from Nairobi to Zanzibar: Complete Guide'
-description: Everything you need to know about cheapest flights from nairobi to zanzibar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheapest flights from nairobi to zanzibar, including routes, airlines, booking tips, and fares.'
 slug: cheapest-flights-from-nairobi-to-zanzibar
-primary_keyword: cheapest flights from nairobi to zanzibar
+primary_keyword: 'cheapest flights from nairobi to zanzibar'
 secondary_keywords:
-- flight from nairobi to congo
-- flight from nairobi to doha today
-- emirates flight from nairobi
-- flight from nairobi to germany
-- flight from nairobi to homa bay
+- 'flight from nairobi to congo'
+- 'flight from nairobi to doha today'
+- 'emirates flight from nairobi'
+- 'flight from nairobi to germany'
+- 'flight from nairobi to homa bay'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

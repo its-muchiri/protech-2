@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Flight from Nairobi to Istanbul Price: Complete Guide'
-description: Everything you need to know about turkish airlines flight from nairobi to istanbul price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines flight from nairobi to istanbul price, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-flight-from-nairobi-to-istanbul-price
-primary_keyword: turkish airlines flight from nairobi to istanbul price
+primary_keyword: 'turkish airlines flight from nairobi to istanbul price'
 secondary_keywords:
-- how many hours from kenya to dubai emirates
-- how much is emirates flight from kenya to dubai
-- emirates store kenya
-- ethiopian airlines flight schedule from nairobi
-- ethiopian airlines from nairobi to cape town
+- 'how many hours from kenya to dubai emirates'
+- 'how much is emirates flight from kenya to dubai'
+- 'emirates store kenya'
+- 'ethiopian airlines flight schedule from nairobi'
+- 'ethiopian airlines from nairobi to cape town'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

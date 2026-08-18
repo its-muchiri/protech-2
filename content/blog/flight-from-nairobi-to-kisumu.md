@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Kisumu: Complete Guide'
-description: Everything you need to know about flight from nairobi to kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to kisumu, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-kisumu
-primary_keyword: flight from nairobi to kisumu
+primary_keyword: 'flight from nairobi to kisumu'
 secondary_keywords:
-- flight yaounde to nairobi
-- flight from zurich to nairobi
-- fly 48
-- 540 flight from nairobi to lodwar today
-- turkish airlines from nairobi to istanbul
+- 'flight yaounde to nairobi'
+- 'flight from zurich to nairobi'
+- 'fly 48'
+- '540 flight from nairobi to lodwar today'
+- 'turkish airlines from nairobi to istanbul'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

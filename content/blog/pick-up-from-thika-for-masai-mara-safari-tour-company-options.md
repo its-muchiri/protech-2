@@ -1,14 +1,14 @@
 ---
 title: 'Pick Up from Thika for Masai Mara Safari Tour Company Options: Complete Guide'
-description: Kenya safari guide covering pick up from thika for masai mara safari tour company options, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering pick up from thika for masai mara safari tour company options, including what is included, pricing, and booking advice.'
 slug: pick-up-from-thika-for-masai-mara-safari-tour-company-options
-primary_keyword: Pick up from Thika for Masai Mara safari tour company options
+primary_keyword: 'Pick up from Thika for Masai Mara safari tour company options'
 secondary_keywords:
-- UK travel advice Kenya safari booking safe operators
-- Top rated Kenya safari specialists UK experts
-- Reserve Kenya safari Easter 2026 UK family package availability
-- Luxury all-inclusive Kenya safari reviews Forbes Travel Guide
-- Reserve private Samburu & Laikipia safari tour online UK quote
+- 'UK travel advice Kenya safari booking safe operators'
+- 'Top rated Kenya safari specialists UK experts'
+- 'Reserve Kenya safari Easter 2026 UK family package availability'
+- 'Luxury all-inclusive Kenya safari reviews Forbes Travel Guide'
+- 'Reserve private Samburu & Laikipia safari tour online UK quote'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

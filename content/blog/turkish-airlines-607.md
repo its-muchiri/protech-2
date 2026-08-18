@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines 607: Complete Guide'
-description: Everything you need to know about turkish airlines 607, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines 607, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-607
-primary_keyword: turkish airlines 607
+primary_keyword: 'turkish airlines 607'
 secondary_keywords:
-- domestic flight from nairobi to kisumu
-- flight time from nairobi to frankfurt
-- flight from nairobi to greece
-- flight from nairobi to hanoi
-- indigo flight from nairobi
+- 'domestic flight from nairobi to kisumu'
+- 'flight time from nairobi to frankfurt'
+- 'flight from nairobi to greece'
+- 'flight from nairobi to hanoi'
+- 'indigo flight from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

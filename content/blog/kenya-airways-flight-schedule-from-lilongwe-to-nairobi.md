@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight Schedule from Lilongwe to Nairobi: Complete Guide'
-description: Everything you need to know about kenya airways flight schedule from lilongwe to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight schedule from lilongwe to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-schedule-from-lilongwe-to-nairobi
-primary_keyword: kenya airways flight schedule from lilongwe to nairobi
+primary_keyword: 'kenya airways flight schedule from lilongwe to nairobi'
 secondary_keywords:
-- cheap flights nairobi to entebbe
-- flights to nairobi emirates
-- flights nairobi to geneva
-- flights nairobi to homa bay
-- flight time nairobi to istanbul
+- 'cheap flights nairobi to entebbe'
+- 'flights to nairobi emirates'
+- 'flights nairobi to geneva'
+- 'flights nairobi to homa bay'
+- 'flight time nairobi to istanbul'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

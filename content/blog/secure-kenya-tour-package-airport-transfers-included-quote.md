@@ -1,14 +1,14 @@
 ---
 title: 'Secure Kenya Tour Package Airport Transfers Included Quote: Complete Guide'
-description: Kenya safari guide covering secure kenya tour package airport transfers included quote, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering secure kenya tour package airport transfers included quote, including what is included, pricing, and booking advice.'
 slug: secure-kenya-tour-package-airport-transfers-included-quote
-primary_keyword: Secure Kenya tour package airport transfers included quote
+primary_keyword: 'Secure Kenya tour package airport transfers included quote'
 secondary_keywords:
-- Secure spot on Kenya group safari tour
-- Buy Mount Kenya climbing safari package
-- Purchase 7 day classic Kenya safari package
-- Secure honeymoon Kenya safari package online
-- Reserve 12 day luxury tented camp migration safari booking
+- 'Secure spot on Kenya group safari tour'
+- 'Buy Mount Kenya climbing safari package'
+- 'Purchase 7 day classic Kenya safari package'
+- 'Secure honeymoon Kenya safari package online'
+- 'Reserve 12 day luxury tented camp migration safari booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

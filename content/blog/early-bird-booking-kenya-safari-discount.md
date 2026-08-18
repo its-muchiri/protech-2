@@ -1,14 +1,14 @@
 ---
 title: 'Early Bird Booking Kenya Safari Discount: Complete Guide'
-description: Kenya safari guide covering early bird booking kenya safari discount, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering early bird booking kenya safari discount, including what is included, pricing, and booking advice.'
 slug: early-bird-booking-kenya-safari-discount
-primary_keyword: Early bird booking Kenya safari discount
+primary_keyword: 'Early bird booking Kenya safari discount'
 secondary_keywords:
-- Kenya safari reviews and booking
-- Kenya safari package price match
-- Kenya safari package including transfers quote
-- All-inclusive safari Kenya book
-- Book group joining 6 day budget camping package Kenya
+- 'Kenya safari reviews and booking'
+- 'Kenya safari package price match'
+- 'Kenya safari package including transfers quote'
+- 'All-inclusive safari Kenya book'
+- 'Book group joining 6 day budget camping package Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

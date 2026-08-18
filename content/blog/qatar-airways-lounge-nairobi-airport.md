@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways Lounge Nairobi Airport: Complete Guide'
-description: Everything you need to know about qatar airways lounge nairobi airport, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways lounge nairobi airport, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-lounge-nairobi-airport
-primary_keyword: qatar airways lounge nairobi airport
+primary_keyword: 'qatar airways lounge nairobi airport'
 secondary_keywords:
-- flights from nairobi to kisumu from wilson airport
-- flights from nairobi to heathrow
-- flights from nairobi to italy
-- flights from nairobi to jfk
-- flights from nairobi kenya to mogadishu somalia
+- 'flights from nairobi to kisumu from wilson airport'
+- 'flights from nairobi to heathrow'
+- 'flights from nairobi to italy'
+- 'flights from nairobi to jfk'
+- 'flights from nairobi kenya to mogadishu somalia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

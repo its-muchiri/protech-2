@@ -1,14 +1,14 @@
 ---
 title: 'Family Kenya Safari Trip Itinerary Quote: Complete Guide'
-description: Kenya safari guide covering family kenya safari trip itinerary quote, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering family kenya safari trip itinerary quote, including what is included, pricing, and booking advice.'
 slug: family-kenya-safari-trip-itinerary-quote
-primary_keyword: Family Kenya safari trip itinerary quote
+primary_keyword: 'Family Kenya safari trip itinerary quote'
 secondary_keywords:
-- KATO registered tour operators list
-- Destination-Specific Searches
-- Diani Beach holiday package companies
-- Mid-range Kenya safari tour companies
-- Overland truck tour companies Nairobi start
+- 'KATO registered tour operators list'
+- 'Destination-Specific Searches'
+- 'Diani Beach holiday package companies'
+- 'Mid-range Kenya safari tour companies'
+- 'Overland truck tour companies Nairobi start'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

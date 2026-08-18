@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Oman: Complete Guide'
-description: Everything you need to know about flights from kenya to oman, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to oman, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-oman
-primary_keyword: flights from kenya to oman
+primary_keyword: 'flights from kenya to oman'
 secondary_keywords:
-- flights nairobi to heathrow today
-- indigo flights nairobi to mumbai
-- nairobi to johannesburg flights
-- kenya airways flights nairobi to london
-- flights nairobi to mogadishu
+- 'flights nairobi to heathrow today'
+- 'indigo flights nairobi to mumbai'
+- 'nairobi to johannesburg flights'
+- 'kenya airways flights nairobi to london'
+- 'flights nairobi to mogadishu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Best Safari Lodges Kenya: Complete Guide'
-description: Kenya safari guide covering best safari lodges kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering best safari lodges kenya, including what is included, pricing, and booking advice.'
 slug: best-safari-lodges-kenya
-primary_keyword: Best safari lodges Kenya
+primary_keyword: 'Best safari lodges Kenya'
 secondary_keywords:
-- Combination & Long-Tail Keywords (Examples)
-- Reserve luxury tented camp Ol Pejeta safari USA chimpanzee sanctuary visit reviews
-- Cost of honeymoon safari Angama Mara lodge USA package inclusions price quote
-- Buy Reteti Elephant Sanctuary visit Samburu safari Europe ethical tourism booking
-- Find student discount Kenya safari tour operator UK budget camping deals verification needed
+- 'Combination & Long-Tail Keywords (Examples)'
+- 'Reserve luxury tented camp Ol Pejeta safari USA chimpanzee sanctuary visit reviews'
+- 'Cost of honeymoon safari Angama Mara lodge USA package inclusions price quote'
+- 'Buy Reteti Elephant Sanctuary visit Samburu safari Europe ethical tourism booking'
+- 'Find student discount Kenya safari tour operator UK budget camping deals verification needed'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

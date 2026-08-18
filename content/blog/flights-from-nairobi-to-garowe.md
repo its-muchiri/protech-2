@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Garowe: Complete Guide'
-description: Everything you need to know about flights from nairobi to garowe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to garowe, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-garowe
-primary_keyword: flights from nairobi to garowe
+primary_keyword: 'flights from nairobi to garowe'
 secondary_keywords:
-- flight from nairobi to nanyuki
-- cost of flight from nairobi to eldoret
-- price of flight from nairobi to zanzibar
-- return flight from nairobi to dubai
-- safarilink flight from nairobi to mombasa
+- 'flight from nairobi to nanyuki'
+- 'cost of flight from nairobi to eldoret'
+- 'price of flight from nairobi to zanzibar'
+- 'return flight from nairobi to dubai'
+- 'safarilink flight from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

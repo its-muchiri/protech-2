@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights Nairobi to Cape Town: Complete Guide'
-description: Everything you need to know about cheap flights nairobi to cape town, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights nairobi to cape town, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-nairobi-to-cape-town
-primary_keyword: cheap flights nairobi to cape town
+primary_keyword: 'cheap flights nairobi to cape town'
 secondary_keywords:
-- nairobi to mombasa flights price
-- nairobi to nakuru flights
-- flight nairobi to pemba island
-- qatar airways flights to nairobi
-- flights nairobi to south africa
+- 'nairobi to mombasa flights price'
+- 'nairobi to nakuru flights'
+- 'flight nairobi to pemba island'
+- 'qatar airways flights to nairobi'
+- 'flights nairobi to south africa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

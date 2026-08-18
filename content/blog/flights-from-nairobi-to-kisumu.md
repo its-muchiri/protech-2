@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Kisumu: Complete Guide'
-description: Everything you need to know about flights from nairobi to kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to kisumu, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-kisumu
-primary_keyword: flights from nairobi to kisumu
+primary_keyword: 'flights from nairobi to kisumu'
 secondary_keywords:
-- qatar flight from nairobi to doha today
-- how long is a flight from nairobi to qatar
-- qatar airways nairobi email
-- qatar airways from nairobi to london
-- qatar airways nairobi recruitment
+- 'qatar flight from nairobi to doha today'
+- 'how long is a flight from nairobi to qatar'
+- 'qatar airways nairobi email'
+- 'qatar airways from nairobi to london'
+- 'qatar airways nairobi recruitment'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Book  Kenya Safari Package: Complete Guide'
-description: Kenya safari guide covering book  kenya safari package, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book  kenya safari package, including what is included, pricing, and booking advice.'
 slug: book-operator-name-kenya-safari-package
-primary_keyword: Book  Kenya safari package
+primary_keyword: 'Book  Kenya safari package'
 secondary_keywords:
-- Reserve private vehicle & guide safari Kenya price quote per day USA flexible itinerary
-- Find deals Kenya safari green season (Apr-May) Europe discounts luxury lodges availability
-- Buy multi-country East Africa safari Kenya Tanzania Rwanda gorilla trek USA operator package cost
-- Find Kenya safari lodge with private plunge pool booking USA luxury honeymoon deals
-- Book tea plantation tour Limuru safari add-on Kenya Europe agricultural tourism booking
+- 'Reserve private vehicle & guide safari Kenya price quote per day USA flexible itinerary'
+- 'Find deals Kenya safari green season (Apr-May) Europe discounts luxury lodges availability'
+- 'Buy multi-country East Africa safari Kenya Tanzania Rwanda gorilla trek USA operator package cost'
+- 'Find Kenya safari lodge with private plunge pool booking USA luxury honeymoon deals'
+- 'Book tea plantation tour Limuru safari add-on Kenya Europe agricultural tourism booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

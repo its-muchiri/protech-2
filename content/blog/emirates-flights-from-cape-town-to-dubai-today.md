@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Cape Town to Dubai Today: Complete Guide'
-description: Everything you need to know about emirates flights from cape town to dubai today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from cape town to dubai today, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-cape-town-to-dubai-today
-primary_keyword: emirates flights from cape town to dubai today
+primary_keyword: 'emirates flights from cape town to dubai today'
 secondary_keywords:
-- flight from nairobi to mombasa one way
-- does qatar airways fly to mombasa
-- safarilink flights from kisumu to mombasa
-- cheapest flights from mombasa to nairobi
-- cheap flights from kisumu to mombasa
+- 'flight from nairobi to mombasa one way'
+- 'does qatar airways fly to mombasa'
+- 'safarilink flights from kisumu to mombasa'
+- 'cheapest flights from mombasa to nairobi'
+- 'cheap flights from kisumu to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

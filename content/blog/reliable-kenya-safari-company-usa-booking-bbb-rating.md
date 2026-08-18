@@ -1,14 +1,14 @@
 ---
 title: 'Reliable Kenya Safari Company USA Booking BBB Rating: Complete Guide'
-description: Kenya safari guide covering reliable kenya safari company usa booking bbb rating, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reliable kenya safari company usa booking bbb rating, including what is included, pricing, and booking advice.'
 slug: reliable-kenya-safari-company-usa-booking-bbb-rating
-primary_keyword: Reliable Kenya safari company USA booking BBB rating
+primary_keyword: 'Reliable Kenya safari company USA booking BBB rating'
 secondary_keywords:
-- Maasai village visit Kenya
-- See Big 5 Kenya
-- Grevy''s zebra safari Kenya
-- Kenya safari from UK
-- Kenya safari in February
+- 'Maasai village visit Kenya'
+- 'See Big 5 Kenya'
+- 'Grevy''''s zebra safari Kenya'
+- 'Kenya safari from UK'
+- 'Kenya safari in February'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

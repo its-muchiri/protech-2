@@ -1,14 +1,14 @@
 ---
-title: 'Meru National Park Safari Lodges Elsa's Kopje Price: Complete Guide'
-description: Kenya safari guide covering meru national park safari lodges elsas kopje price, including what is included, pricing, and booking advice.
+title: 'Meru National Park Safari Lodges Elsa''s Kopje Price: Complete Guide'
+description: 'Kenya safari guide covering meru national park safari lodges elsas kopje price, including what is included, pricing, and booking advice.'
 slug: meru-national-park-safari-lodges-elsa-s-kopje-price
-primary_keyword: Meru National Park safari lodges Elsa's Kopje price
+primary_keyword: 'Meru National Park safari lodges Elsa''s Kopje price'
 secondary_keywords:
-- Two week Kenya safari tour cost
-- Book Masai Mara conservancy safari package
-- Luxury fly-in Kenya safari quote
-- Child friendly safari lodge package Kenya booking
-- Budget Kenya safari package book
+- 'Two week Kenya safari tour cost'
+- 'Book Masai Mara conservancy safari package'
+- 'Luxury fly-in Kenya safari quote'
+- 'Child friendly safari lodge package Kenya booking'
+- 'Budget Kenya safari package book'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

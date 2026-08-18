@@ -1,14 +1,14 @@
 ---
 title: 'Flights in Mombasa: Complete Guide'
-description: Everything you need to know about flights in mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights in mombasa, including routes, airlines, booking tips, and fares.'
 slug: flights-in-mombasa
-primary_keyword: flights in mombasa
+primary_keyword: 'flights in mombasa'
 secondary_keywords:
-- flights from mombasa to mumbai
-- flights to mombasa from muscat oman
-- kq flights from mombasa to nairobi tomorrow
-- flights from kisumu to mombasa
-- flights to new york from mombasa kenya
+- 'flights from mombasa to mumbai'
+- 'flights to mombasa from muscat oman'
+- 'kq flights from mombasa to nairobi tomorrow'
+- 'flights from kisumu to mombasa'
+- 'flights to new york from mombasa kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

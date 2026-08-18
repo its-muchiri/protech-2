@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Amboseli: Complete Guide'
-description: Everything you need to know about flight from nairobi to amboseli, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to amboseli, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-amboseli
-primary_keyword: flight from nairobi to amboseli
+primary_keyword: 'flight from nairobi to amboseli'
 secondary_keywords:
-- kq mayfly flight schedule today
-- kenya airways cheapest flight offers
-- kq 486 flight radar
-- kq flights to ukunda
-- kq 0204 flight status
+- 'kq mayfly flight schedule today'
+- 'kenya airways cheapest flight offers'
+- 'kq 486 flight radar'
+- 'kq flights to ukunda'
+- 'kq 0204 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

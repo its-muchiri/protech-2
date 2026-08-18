@@ -1,14 +1,14 @@
 ---
 title: 'CP Walker for Children with Special Needs Price: 2026 Price Guide'
-description: Kenya buying guide to cp walker for children with special needs price. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to cp walker for children with special needs price. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: cp-walker-for-children-with-special-needs-price
-primary_keyword: CP walker for children with special needs price
+primary_keyword: 'CP walker for children with special needs price'
 secondary_keywords:
-- blood transfusion sets Kenya
-- wheelchairs Kenya price
-- portable ultrasound machine Kenya
-- hematology analyzers Kenya
-- dental chairs Kenya price
+- 'blood transfusion sets Kenya'
+- 'wheelchairs Kenya price'
+- 'portable ultrasound machine Kenya'
+- 'hematology analyzers Kenya'
+- 'dental chairs Kenya price'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

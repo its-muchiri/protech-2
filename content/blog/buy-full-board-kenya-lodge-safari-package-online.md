@@ -1,14 +1,14 @@
 ---
 title: 'Buy Full Board Kenya Lodge Safari Package Online: Complete Guide'
-description: Kenya safari guide covering buy full board kenya lodge safari package online, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy full board kenya lodge safari package online, including what is included, pricing, and booking advice.'
 slug: buy-full-board-kenya-lodge-safari-package-online
-primary_keyword: Buy full board Kenya lodge safari package online
+primary_keyword: 'Buy full board Kenya lodge safari package online'
 secondary_keywords:
-- Kakamega Forest bird watching tour operators
-- Kenya cultural immersion tour companies
-- Maasai village visit ethical tour operators
-- 5 day Kenya highlights tour operator
-- Kenya tour package discounts
+- 'Kakamega Forest bird watching tour operators'
+- 'Kenya cultural immersion tour companies'
+- 'Maasai village visit ethical tour operators'
+- '5 day Kenya highlights tour operator'
+- 'Kenya tour package discounts'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

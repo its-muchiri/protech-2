@@ -1,14 +1,14 @@
 ---
 title: 'Tsavo Safari Including SGR Train Madaraka Express Package: Complete Guide'
-description: Kenya safari guide covering tsavo safari including sgr train madaraka express package, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering tsavo safari including sgr train madaraka express package, including what is included, pricing, and booking advice.'
 slug: tsavo-safari-including-sgr-train-madaraka-express-package
-primary_keyword: Tsavo safari including SGR train Madaraka Express package
+primary_keyword: 'Tsavo safari including SGR train Madaraka Express package'
 secondary_keywords:
-- Price check and book Kenya safari package
-- Community-based tourism operators Kenya
-- Laikipia conservancy tours luxury
-- Chyulu Hills safari operators
-- Photographic safari workshops Kenya operators
+- 'Price check and book Kenya safari package'
+- 'Community-based tourism operators Kenya'
+- 'Laikipia conservancy tours luxury'
+- 'Chyulu Hills safari operators'
+- 'Photographic safari workshops Kenya operators'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Birmingham: Complete Guide'
-description: Everything you need to know about flights from kenya to birmingham, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to birmingham, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-birmingham
-primary_keyword: flights from kenya to birmingham
+primary_keyword: 'flights from kenya to birmingham'
 secondary_keywords:
-- kenya airways flights from heathrow
-- kq flight from mumbai to nairobi
-- kq to zanzibar
-- kq flight from nairobi to accra
-- kq direct flight from nairobi to new york time
+- 'kenya airways flights from heathrow'
+- 'kq flight from mumbai to nairobi'
+- 'kq to zanzibar'
+- 'kq flight from nairobi to accra'
+- 'kq direct flight from nairobi to new york time'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

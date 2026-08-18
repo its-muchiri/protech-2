@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Nairobi Flights: Complete Guide'
-description: Everything you need to know about emirates nairobi flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates nairobi flights, including routes, airlines, booking tips, and fares.'
 slug: emirates-nairobi-flights
-primary_keyword: emirates nairobi flights
+primary_keyword: 'emirates nairobi flights'
 secondary_keywords:
-- flights from kenya to heathrow today
-- kenya airways flights from heathrow to nairobi
-- flights to israel from kenya
-- cheap flights from jeddah to kenya
-- kenya airways flights from kinshasa to nairobi
+- 'flights from kenya to heathrow today'
+- 'kenya airways flights from heathrow to nairobi'
+- 'flights to israel from kenya'
+- 'cheap flights from jeddah to kenya'
+- 'kenya airways flights from kinshasa to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Vancouver to Dubai Emirates: Complete Guide'
-description: Everything you need to know about flights from vancouver to dubai emirates, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from vancouver to dubai emirates, including routes, airlines, booking tips, and fares.'
 slug: flights-from-vancouver-to-dubai-emirates
-primary_keyword: flights from vancouver to dubai emirates
+primary_keyword: 'flights from vancouver to dubai emirates'
 secondary_keywords:
-- flights from nairobi to lusaka
-- flights from nairobi to mogadishu
-- flights from nairobi to netherlands
-- flights from nairobi to new orleans
-- flights from perth to nairobi
+- 'flights from nairobi to lusaka'
+- 'flights from nairobi to mogadishu'
+- 'flights from nairobi to netherlands'
+- 'flights from nairobi to new orleans'
+- 'flights from perth to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

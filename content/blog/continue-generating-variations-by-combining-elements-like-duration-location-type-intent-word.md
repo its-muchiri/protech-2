@@ -1,14 +1,14 @@
 ---
 title: '(Continue Generating Variations by Combining Elements Like Duration + Location + Type + Intent Word): Complete Guide'
-description: Kenya safari guide covering (continue generating variations by combining elements like duration + location + type + intent word), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering (continue generating variations by combining elements like duration + location + type + intent word), including what is included, pricing, and booking advice.'
 slug: continue-generating-variations-by-combining-elements-like-duration-location-type-intent-word
-primary_keyword: (Continue generating variations by combining elements like Duration + Location + Type + Intent Word)
+primary_keyword: '(Continue generating variations by combining elements like Duration + Location + Type + Intent Word)'
 secondary_keywords:
-- Somak Safaris Kenya UK based operator
-- Kenya e-Visa application official website / cost 2025
-- How to check if a Kenya tour company is legitimate
-- Camel safari Samburu / Laikipia operators
-- Direct Booking/Purchase Intent (Book, Buy, Purchase, Reserve)
+- 'Somak Safaris Kenya UK based operator'
+- 'Kenya e-Visa application official website / cost 2025'
+- 'How to check if a Kenya tour company is legitimate'
+- 'Camel safari Samburu / Laikipia operators'
+- 'Direct Booking/Purchase Intent (Book, Buy, Purchase, Reserve)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Addis Ababa: Complete Guide'
-description: Everything you need to know about flights from mombasa to addis ababa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to addis ababa, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-addis-ababa
-primary_keyword: flights from mombasa to addis ababa
+primary_keyword: 'flights from mombasa to addis ababa'
 secondary_keywords:
-- kq flights to mogadishu
-- kq flight from paris to nairobi
-- kq flights status
-- kq flights to uk
-- kq 0203 flight status
+- 'kq flights to mogadishu'
+- 'kq flight from paris to nairobi'
+- 'kq flights status'
+- 'kq flights to uk'
+- 'kq 0203 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

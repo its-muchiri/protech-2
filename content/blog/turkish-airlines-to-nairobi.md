@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines to Nairobi: Complete Guide'
-description: Everything you need to know about turkish airlines to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines to nairobi, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-to-nairobi
-primary_keyword: turkish airlines to nairobi
+primary_keyword: 'turkish airlines to nairobi'
 secondary_keywords:
-- flight from ethiopia to kenya
-- ethiopian airlines nairobi office contacts
-- ethiopian airlines nairobi reviews
-- flights nairobi to johannesburg
-- flights from saudi arabia to nairobi
+- 'flight from ethiopia to kenya'
+- 'ethiopian airlines nairobi office contacts'
+- 'ethiopian airlines nairobi reviews'
+- 'flights nairobi to johannesburg'
+- 'flights from saudi arabia to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

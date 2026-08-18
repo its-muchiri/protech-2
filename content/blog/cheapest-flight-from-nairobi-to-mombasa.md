@@ -1,14 +1,14 @@
 ---
 title: 'Cheapest Flight from Nairobi to Mombasa: Complete Guide'
-description: Everything you need to know about cheapest flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheapest flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.'
 slug: cheapest-flight-from-nairobi-to-mombasa
-primary_keyword: cheapest flight from nairobi to mombasa
+primary_keyword: 'cheapest flight from nairobi to mombasa'
 secondary_keywords:
-- qatar airways in nairobi office
-- qatar airways nairobi office number
-- kq flights from
-- kq flights from dar es salaam to nairobi
-- kenya airways flights from harare to dubai
+- 'qatar airways in nairobi office'
+- 'qatar airways nairobi office number'
+- 'kq flights from'
+- 'kq flights from dar es salaam to nairobi'
+- 'kenya airways flights from harare to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

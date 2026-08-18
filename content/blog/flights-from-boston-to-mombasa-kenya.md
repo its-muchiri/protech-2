@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Boston to Mombasa Kenya: Complete Guide'
-description: Everything you need to know about flights from boston to mombasa kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from boston to mombasa kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-boston-to-mombasa-kenya
-primary_keyword: flights from boston to mombasa kenya
+primary_keyword: 'flights from boston to mombasa kenya'
 secondary_keywords:
-- flights nairobi to zimbabwe
-- how much is a flight from nairobi to usa
-- emirates flights from manchester today
-- emirates flights to new zealand from south africa
-- emirates flights to bali from uk
+- 'flights nairobi to zimbabwe'
+- 'how much is a flight from nairobi to usa'
+- 'emirates flights from manchester today'
+- 'emirates flights to new zealand from south africa'
+- 'emirates flights to bali from uk'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

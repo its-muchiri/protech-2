@@ -1,14 +1,14 @@
 ---
 title: 'Home Care & Emergency Medical Equipment: 2026 Price Guide'
-description: Kenya buying guide to home care & emergency medical equipment. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to home care & emergency medical equipment. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: home-care-and-emergency-medical-equipment
-primary_keyword: Home Care & Emergency Medical Equipment
+primary_keyword: 'Home Care & Emergency Medical Equipment'
 secondary_keywords:
-- Colonoscopy equipment suppliers in Kenya
-- Blood gas analyzer suppliers in Kenya
-- Vertical autoclave for laboratory use
-- Orthopedic surgery instruments for sale in Nairobi
-- C-arm compatible operating table cost
+- 'Colonoscopy equipment suppliers in Kenya'
+- 'Blood gas analyzer suppliers in Kenya'
+- 'Vertical autoclave for laboratory use'
+- 'Orthopedic surgery instruments for sale in Nairobi'
+- 'C-arm compatible operating table cost'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

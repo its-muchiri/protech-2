@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Cargo Office Nairobi: Complete Guide'
-description: Everything you need to know about ethiopian airlines cargo office nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines cargo office nairobi, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-cargo-office-nairobi
-primary_keyword: ethiopian airlines cargo office nairobi
+primary_keyword: 'ethiopian airlines cargo office nairobi'
 secondary_keywords:
-- lufthansa flight from nairobi
-- madagascar flight from nairobi
-- one way flight from nairobi to dubai
-- price of flight from nairobi to kisumu
-- renegade flight from nairobi to kisumu
+- 'lufthansa flight from nairobi'
+- 'madagascar flight from nairobi'
+- 'one way flight from nairobi to dubai'
+- 'price of flight from nairobi to kisumu'
+- 'renegade flight from nairobi to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

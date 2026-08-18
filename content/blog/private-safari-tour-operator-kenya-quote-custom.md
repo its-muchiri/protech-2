@@ -1,14 +1,14 @@
 ---
 title: 'Private Safari Tour Operator Kenya Quote Custom: Complete Guide'
-description: Kenya safari guide covering private safari tour operator kenya quote custom, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering private safari tour operator kenya quote custom, including what is included, pricing, and booking advice.'
 slug: private-safari-tour-operator-kenya-quote-custom
-primary_keyword: Private safari tour operator Kenya quote custom
+primary_keyword: 'Private safari tour operator Kenya quote custom'
 secondary_keywords:
-- Book voluntourism placement Kenya wildlife conservation project safari included USA program fees cost
-- Purchase vintage car safari tour Kenya experience USA classic vehicle booking price
-- Reserve Elsamere Conservation Centre visit Lake Naivasha safari UK Joy Adamson history booking
-- Kenya holiday safari
-- Safari Amboseli
+- 'Book voluntourism placement Kenya wildlife conservation project safari included USA program fees cost'
+- 'Purchase vintage car safari tour Kenya experience USA classic vehicle booking price'
+- 'Reserve Elsamere Conservation Centre visit Lake Naivasha safari UK Joy Adamson history booking'
+- 'Kenya holiday safari'
+- 'Safari Amboseli'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

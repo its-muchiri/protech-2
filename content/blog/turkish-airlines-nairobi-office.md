@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Nairobi Office: Complete Guide'
-description: Everything you need to know about turkish airlines nairobi office, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines nairobi office, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-nairobi-office
-primary_keyword: turkish airlines nairobi office
+primary_keyword: 'turkish airlines nairobi office'
 secondary_keywords:
-- how many emirates flights from london to dubai each week
-- cheap flights to india from toronto emirates
-- emirates flights from kuala lumpur
-- emirates flights from lusaka to london
-- map of emirates flights from dubai
+- 'how many emirates flights from london to dubai each week'
+- 'cheap flights to india from toronto emirates'
+- 'emirates flights from kuala lumpur'
+- 'emirates flights from lusaka to london'
+- 'map of emirates flights from dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

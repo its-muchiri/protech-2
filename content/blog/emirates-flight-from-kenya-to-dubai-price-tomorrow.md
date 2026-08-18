@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight from Kenya to Dubai Price Tomorrow: Complete Guide'
-description: Everything you need to know about emirates flight from kenya to dubai price tomorrow, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight from kenya to dubai price tomorrow, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-from-kenya-to-dubai-price-tomorrow
-primary_keyword: emirates flight from kenya to dubai price tomorrow
+primary_keyword: 'emirates flight from kenya to dubai price tomorrow'
 secondary_keywords:
-- flights from gatwick to mombasa
-- flights from mombasa to milan italy
-- jambojet flights from mombasa to nairobi ticket price
-- kq flights from mombasa to dubai
-- flights from mombasa to manchester
+- 'flights from gatwick to mombasa'
+- 'flights from mombasa to milan italy'
+- 'jambojet flights from mombasa to nairobi ticket price'
+- 'kq flights from mombasa to dubai'
+- 'flights from mombasa to manchester'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

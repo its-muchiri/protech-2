@@ -1,14 +1,14 @@
 ---
 title: 'Turkey Flights from Kenya: Complete Guide'
-description: Everything you need to know about turkey flights from kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkey flights from kenya, including routes, airlines, booking tips, and fares.'
 slug: turkey-flights-from-kenya
-primary_keyword: turkey flights from kenya
+primary_keyword: 'turkey flights from kenya'
 secondary_keywords:
-- flight from nairobi to kisumu is how much
-- jambojet flights from nairobi to eldoret
-- kenya airways flights from nairobi to entebbe
-- cheap flights to nairobi from london
-- flights from nairobi to new york
+- 'flight from nairobi to kisumu is how much'
+- 'jambojet flights from nairobi to eldoret'
+- 'kenya airways flights from nairobi to entebbe'
+- 'cheap flights to nairobi from london'
+- 'flights from nairobi to new york'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

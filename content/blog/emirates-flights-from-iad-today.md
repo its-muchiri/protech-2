@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Iad Today: Complete Guide'
-description: Everything you need to know about emirates flights from iad today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from iad today, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-iad-today
-primary_keyword: emirates flights from iad today
+primary_keyword: 'emirates flights from iad today'
 secondary_keywords:
-- buupass online booking kenya to nairobi
-- flight check in kenya airways
-- flights to kenya business class
-- flights to kenya in december
-- flights from kenya to uk today
+- 'buupass online booking kenya to nairobi'
+- 'flight check in kenya airways'
+- 'flights to kenya business class'
+- 'flights to kenya in december'
+- 'flights from kenya to uk today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

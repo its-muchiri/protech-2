@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Pakistan to London: Complete Guide'
-description: Everything you need to know about emirates flights from pakistan to london, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from pakistan to london, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-pakistan-to-london
-primary_keyword: emirates flights from pakistan to london
+primary_keyword: 'emirates flights from pakistan to london'
 secondary_keywords:
-- kq flights from kigali to nairobi
-- kq flights from nairobi to london heathrow
-- kq flights to jfk
-- kq flights to london
-- kq flights to mogadishu
+- 'kq flights from kigali to nairobi'
+- 'kq flights from nairobi to london heathrow'
+- 'kq flights to jfk'
+- 'kq flights to london'
+- 'kq flights to mogadishu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from New York to Kenya: Complete Guide'
-description: Everything you need to know about flights from new york to kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from new york to kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-new-york-to-kenya
-primary_keyword: flights from new york to kenya
+primary_keyword: 'flights from new york to kenya'
 secondary_keywords:
-- kq flights from kisumu to nairobi timetable
-- airfare from kisumu to nairobi
-- flights from wilson to kisumu
-- eldoret airport flights
-- flights from eldoret to jkia
+- 'kq flights from kisumu to nairobi timetable'
+- 'airfare from kisumu to nairobi'
+- 'flights from wilson to kisumu'
+- 'eldoret airport flights'
+- 'flights from eldoret to jkia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

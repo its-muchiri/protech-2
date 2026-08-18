@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is Flight from Nairobi to Zanzibar Today: Complete Guide'
-description: Everything you need to know about how much is flight from nairobi to zanzibar today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is flight from nairobi to zanzibar today, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-flight-from-nairobi-to-zanzibar-today
-primary_keyword: how much is flight from nairobi to zanzibar today
+primary_keyword: 'how much is flight from nairobi to zanzibar today'
 secondary_keywords:
-- cheapest flight from nairobi to qatar
-- how much is a flight from nairobi to qatar today
-- qatar airways nairobi email address
-- qatar airways nairobi lounge
-- qatar airways recruitment nairobi 2024
+- 'cheapest flight from nairobi to qatar'
+- 'how much is a flight from nairobi to qatar today'
+- 'qatar airways nairobi email address'
+- 'qatar airways nairobi lounge'
+- 'qatar airways recruitment nairobi 2024'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

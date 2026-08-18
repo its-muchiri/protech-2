@@ -1,14 +1,14 @@
 ---
 title: 'Hospital Mattress and Pillow Suppliers in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to hospital mattress and pillow suppliers in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to hospital mattress and pillow suppliers in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: hospital-mattress-and-pillow-suppliers-in-nairobi
-primary_keyword: Hospital mattress and pillow suppliers in Nairobi
+primary_keyword: 'Hospital mattress and pillow suppliers in Nairobi'
 secondary_keywords:
-- adhesive bandages Kenya bulk
-- Savlon Kenya price
-- petri dishes Kenya suppliers
-- infrared thermometer Kenya
-- hydrogen peroxide medical Kenya
+- 'adhesive bandages Kenya bulk'
+- 'Savlon Kenya price'
+- 'petri dishes Kenya suppliers'
+- 'infrared thermometer Kenya'
+- 'hydrogen peroxide medical Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

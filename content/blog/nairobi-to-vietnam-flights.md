@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi to Vietnam Flights: Complete Guide'
-description: Everything you need to know about nairobi to vietnam flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about nairobi to vietnam flights, including routes, airlines, booking tips, and fares.'
 slug: nairobi-to-vietnam-flights
-primary_keyword: nairobi to vietnam flights
+primary_keyword: 'nairobi to vietnam flights'
 secondary_keywords:
-- qatar airways nairobi email
-- qatar airways from nairobi to london
-- qatar airways nairobi recruitment
-- kq airline baggage allowance
-- kenya airways flights from durban to mumbai
+- 'qatar airways nairobi email'
+- 'qatar airways from nairobi to london'
+- 'qatar airways nairobi recruitment'
+- 'kq airline baggage allowance'
+- 'kenya airways flights from durban to mumbai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

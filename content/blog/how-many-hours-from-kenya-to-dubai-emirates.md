@@ -1,14 +1,14 @@
 ---
 title: 'How Many Hours from Kenya to Dubai Emirates: Complete Guide'
-description: Everything you need to know about how many hours from kenya to dubai emirates, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how many hours from kenya to dubai emirates, including routes, airlines, booking tips, and fares.'
 slug: how-many-hours-from-kenya-to-dubai-emirates
-primary_keyword: how many hours from kenya to dubai emirates
+primary_keyword: 'how many hours from kenya to dubai emirates'
 secondary_keywords:
-- flights nairobi to accra
-- flights nairobi to boston
-- flights nairobi to cairo
-- flights nairobi to dar es salaam
-- fly nairobi to eldoret
+- 'flights nairobi to accra'
+- 'flights nairobi to boston'
+- 'flights nairobi to cairo'
+- 'flights nairobi to dar es salaam'
+- 'fly nairobi to eldoret'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

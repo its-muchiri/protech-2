@@ -1,14 +1,14 @@
 ---
 title: 'Online Bus Booking Kenya from Mombasa: Complete Guide'
-description: Everything you need to know about online bus booking kenya from mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about online bus booking kenya from mombasa, including routes, airlines, booking tips, and fares.'
 slug: online-bus-booking-kenya-from-mombasa
-primary_keyword: online bus booking kenya from mombasa
+primary_keyword: 'online bus booking kenya from mombasa'
 secondary_keywords:
-- flights to kenya uk
-- flights to zambia from nairobi
-- cheapest flights from kenya
-- are there direct flights from kenya to canada
-- cheap flights from birmingham to nairobi kenya
+- 'flights to kenya uk'
+- 'flights to zambia from nairobi'
+- 'cheapest flights from kenya'
+- 'are there direct flights from kenya to canada'
+- 'cheap flights from birmingham to nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

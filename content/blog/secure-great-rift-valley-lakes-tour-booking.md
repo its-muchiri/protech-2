@@ -1,14 +1,14 @@
 ---
 title: 'Secure Great Rift Valley Lakes Tour Booking: Complete Guide'
-description: Kenya safari guide covering secure great rift valley lakes tour booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering secure great rift valley lakes tour booking, including what is included, pricing, and booking advice.'
 slug: secure-great-rift-valley-lakes-tour-booking
-primary_keyword: Secure Great Rift Valley lakes tour booking
+primary_keyword: 'Secure Great Rift Valley lakes tour booking'
 secondary_keywords:
-- Compare Kenya tour operator packages UK cost & inclusions
-- Last minute Kenya safari deals UK departing next week
-- Check Kenya safari tour availability calendar Europe
-- Safe Kenya safari tours booking certified guides USA
-- Availability check Kenya fly-in safari Governors Camp Masai Mara UK July 2025
+- 'Compare Kenya tour operator packages UK cost & inclusions'
+- 'Last minute Kenya safari deals UK departing next week'
+- 'Check Kenya safari tour availability calendar Europe'
+- 'Safe Kenya safari tours booking certified guides USA'
+- 'Availability check Kenya fly-in safari Governors Camp Masai Mara UK July 2025'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

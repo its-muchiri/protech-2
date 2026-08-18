@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi Kenya to Mogadishu Somalia: Complete Guide'
-description: Everything you need to know about flights from nairobi kenya to mogadishu somalia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi kenya to mogadishu somalia, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-kenya-to-mogadishu-somalia
-primary_keyword: flights from nairobi kenya to mogadishu somalia
+primary_keyword: 'flights from nairobi kenya to mogadishu somalia'
 secondary_keywords:
-- flights from kisumu kenya to nairobi kenya
-- flights from kisumu to malindi
-- is kisumu an international airport
-- jambojet flights from eldoret to nairobi
-- flights from entebbe to eldoret
+- 'flights from kisumu kenya to nairobi kenya'
+- 'flights from kisumu to malindi'
+- 'is kisumu an international airport'
+- 'jambojet flights from eldoret to nairobi'
+- 'flights from entebbe to eldoret'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

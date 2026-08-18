@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Package Deals: Complete Guide'
-description: Kenya safari guide covering kenya safari package deals, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari package deals, including what is included, pricing, and booking advice.'
 slug: kenya-safari-package-deals
-primary_keyword: Kenya safari package deals
+primary_keyword: 'Kenya safari package deals'
 secondary_keywords:
-- Buy adventure Kenya safari white water rafting Tana River add-on UK operator booking
-- Reserve Lake Turkana fishing safari expedition Kenya Europe remote adventure booking logistics
-- Find diabetic friendly Kenya safari planning assistance USA meal management operator support
-- Book Menengai Crater hike safari day trip Nakuru Kenya Europe geology focus cost
-- Explore Kenya safari
+- 'Buy adventure Kenya safari white water rafting Tana River add-on UK operator booking'
+- 'Reserve Lake Turkana fishing safari expedition Kenya Europe remote adventure booking logistics'
+- 'Find diabetic friendly Kenya safari planning assistance USA meal management operator support'
+- 'Book Menengai Crater hike safari day trip Nakuru Kenya Europe geology focus cost'
+- 'Explore Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

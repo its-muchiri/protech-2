@@ -1,14 +1,14 @@
 ---
 title: 'Tsavo National Park Safari: Complete Guide'
-description: Kenya safari guide covering tsavo national park safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering tsavo national park safari, including what is included, pricing, and booking advice.'
 slug: tsavo-national-park-safari
-primary_keyword: Tsavo National Park safari
+primary_keyword: 'Tsavo National Park safari'
 secondary_keywords:
-- Small group Kenya safari company booking guaranteed departures
-- Book Kenya safari peak season 2025 USA limited spots
-- Highest quality Kenya safari experience booking guarantee USA
-- Cost 7-day family camping safari Kenya Amboseli from USA budget
-- Check deals Kenya safari and Diani beach all-inclusive package Europe flights
+- 'Small group Kenya safari company booking guaranteed departures'
+- 'Book Kenya safari peak season 2025 USA limited spots'
+- 'Highest quality Kenya safari experience booking guarantee USA'
+- 'Cost 7-day family camping safari Kenya Amboseli from USA budget'
+- 'Check deals Kenya safari and Diani beach all-inclusive package Europe flights'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

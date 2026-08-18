@@ -1,14 +1,14 @@
 ---
 title: 'Mount Kenya Climbing Tour Operators Chogoria Route: Complete Guide'
-description: Kenya safari guide covering mount kenya climbing tour operators chogoria route, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering mount kenya climbing tour operators chogoria route, including what is included, pricing, and booking advice.'
 slug: mount-kenya-climbing-tour-operators-chogoria-route
-primary_keyword: Mount Kenya climbing tour operators Chogoria route
+primary_keyword: 'Mount Kenya climbing tour operators Chogoria route'
 secondary_keywords:
-- Book Kenya safari online
-- Kenya safari for disabled travelers
-- Running safari Kenya (specialized)
-- Kenya safari insurance
-- Private fly-in safari Masai Mara honeymoon
+- 'Book Kenya safari online'
+- 'Kenya safari for disabled travelers'
+- 'Running safari Kenya (specialized)'
+- 'Kenya safari insurance'
+- 'Private fly-in safari Masai Mara honeymoon'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

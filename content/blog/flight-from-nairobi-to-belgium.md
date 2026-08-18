@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Belgium: Complete Guide'
-description: Everything you need to know about flight from nairobi to belgium, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to belgium, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-belgium
-primary_keyword: flight from nairobi to belgium
+primary_keyword: 'flight from nairobi to belgium'
 secondary_keywords:
-- flight ticket to kenya from qatar
-- kenya ticket from nigeria
-- cheap flights in kenya
-- flights to kenya in august
-- cargo flights in kenya
+- 'flight ticket to kenya from qatar'
+- 'kenya ticket from nigeria'
+- 'cheap flights in kenya'
+- 'flights to kenya in august'
+- 'cargo flights in kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

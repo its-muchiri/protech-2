@@ -1,14 +1,14 @@
 ---
 title: 'Kq352 Flight Status: Complete Guide'
-description: Everything you need to know about kq352 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq352 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq352-flight-status
-primary_keyword: kq352 flight status
+primary_keyword: 'kq352 flight status'
 secondary_keywords:
-- flight from nairobi to dubai time
-- emirates flight from nairobi to london
-- flight from nairobi to garissa price
-- flight from nairobi to heathrow
-- flight from nairobi to india
+- 'flight from nairobi to dubai time'
+- 'emirates flight from nairobi to london'
+- 'flight from nairobi to garissa price'
+- 'flight from nairobi to heathrow'
+- 'flight from nairobi to india'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

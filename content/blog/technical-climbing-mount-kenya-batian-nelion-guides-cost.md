@@ -1,14 +1,14 @@
 ---
 title: 'Technical Climbing Mount Kenya Batian / Nelion Guides / Cost: Complete Guide'
-description: Kenya safari guide covering technical climbing mount kenya batian / nelion guides / cost, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering technical climbing mount kenya batian / nelion guides / cost, including what is included, pricing, and booking advice.'
 slug: technical-climbing-mount-kenya-batian-nelion-guides-cost
-primary_keyword: Technical climbing Mount Kenya Batian / Nelion guides / cost
+primary_keyword: 'Technical climbing Mount Kenya Batian / Nelion guides / cost'
 secondary_keywords:
-- Best Kenya tour operators
-- Independent Kenya safari booking
-- Digital detox safari Kenya
-- Using credit cards Kenya safari
-- Affordable 7 day Masai Mara Amboseli safari
+- 'Best Kenya tour operators'
+- 'Independent Kenya safari booking'
+- 'Digital detox safari Kenya'
+- 'Using credit cards Kenya safari'
+- 'Affordable 7 day Masai Mara Amboseli safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari in October: Complete Guide'
-description: Kenya safari guide covering kenya safari in october, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari in october, including what is included, pricing, and booking advice.'
 slug: kenya-safari-in-october
-primary_keyword: Kenya safari in October
+primary_keyword: 'Kenya safari in October'
 secondary_keywords:
-- Book 14 day Kenya photo workshop package  availability
-- How to choose a reputable tour company in Kenya
-- Amboseli National Park tour 2 days from Nairobi price
-- Sweetwaters Serena Camp Ol Pejeta price
-- Kenya honeymoon safari packages romantic lodges
+- 'Book 14 day Kenya photo workshop package  availability'
+- 'How to choose a reputable tour company in Kenya'
+- 'Amboseli National Park tour 2 days from Nairobi price'
+- 'Sweetwaters Serena Camp Ol Pejeta price'
+- 'Kenya honeymoon safari packages romantic lodges'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

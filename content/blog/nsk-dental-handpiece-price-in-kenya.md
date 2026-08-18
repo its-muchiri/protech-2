@@ -1,14 +1,14 @@
 ---
 title: 'NSK Dental Handpiece Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to nsk dental handpiece price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to nsk dental handpiece price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: nsk-dental-handpiece-price-in-kenya
-primary_keyword: NSK dental handpiece price in Kenya
+primary_keyword: 'NSK dental handpiece price in Kenya'
 secondary_keywords:
-- Where to buy used hospital equipment in Mombasa
-- Medical equipment warranty and support
-- Oxygen concentrator rental in Malindi
-- Medical suppliers on Kirinyaga Road, Nairobi
-- Mortuary freezer price in Kisii
+- 'Where to buy used hospital equipment in Mombasa'
+- 'Medical equipment warranty and support'
+- 'Oxygen concentrator rental in Malindi'
+- 'Medical suppliers on Kirinyaga Road, Nairobi'
+- 'Mortuary freezer price in Kisii'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

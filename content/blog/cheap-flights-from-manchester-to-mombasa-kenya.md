@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Manchester to Mombasa Kenya: Complete Guide'
-description: Everything you need to know about cheap flights from manchester to mombasa kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from manchester to mombasa kenya, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-manchester-to-mombasa-kenya
-primary_keyword: cheap flights from manchester to mombasa kenya
+primary_keyword: 'cheap flights from manchester to mombasa kenya'
 secondary_keywords:
-- kq flights from eldoret to nairobi
-- kq flights from nairobi to eldoret price tomorrow
-- kq flights to kisumu
-- kq flights from south africa today
-- kq online booking domestic flights
+- 'kq flights from eldoret to nairobi'
+- 'kq flights from nairobi to eldoret price tomorrow'
+- 'kq flights to kisumu'
+- 'kq flights from south africa today'
+- 'kq online booking domestic flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

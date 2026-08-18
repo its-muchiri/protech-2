@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Westlands: Complete Guide'
-description: Everything you need to know about emirates westlands, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates westlands, including routes, airlines, booking tips, and fares.'
 slug: emirates-westlands
-primary_keyword: emirates westlands
+primary_keyword: 'emirates westlands'
 secondary_keywords:
-- flights to kenya in october
-- flights ro kenya
-- flights kenya to cape town
-- x in kenya
-- dubai flights from kenya
+- 'flights to kenya in october'
+- 'flights ro kenya'
+- 'flights kenya to cape town'
+- 'x in kenya'
+- 'dubai flights from kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

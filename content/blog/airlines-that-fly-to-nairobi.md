@@ -1,14 +1,14 @@
 ---
 title: 'Airlines That Fly to Nairobi: Complete Guide'
-description: Everything you need to know about airlines that fly to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about airlines that fly to nairobi, including routes, airlines, booking tips, and fares.'
 slug: airlines-that-fly-to-nairobi
-primary_keyword: airlines that fly to nairobi
+primary_keyword: 'airlines that fly to nairobi'
 secondary_keywords:
-- turkish airlines check in nairobi
-- turkish airlines nach nairobi
-- turkish airlines to nairobi today
-- emirates westlands
-- ethiopian airlines flights from addis ababa to nairobi price
+- 'turkish airlines check in nairobi'
+- 'turkish airlines nach nairobi'
+- 'turkish airlines to nairobi today'
+- 'emirates westlands'
+- 'ethiopian airlines flights from addis ababa to nairobi price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

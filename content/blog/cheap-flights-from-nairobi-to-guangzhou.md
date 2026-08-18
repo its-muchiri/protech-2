@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Nairobi to Guangzhou: Complete Guide'
-description: Everything you need to know about cheap flights from nairobi to guangzhou, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from nairobi to guangzhou, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-nairobi-to-guangzhou
-primary_keyword: cheap flights from nairobi to guangzhou
+primary_keyword: 'cheap flights from nairobi to guangzhou'
 secondary_keywords:
-- flight from nairobi to portugal
-- flight from nairobi to romania
-- flight from nairobi to seattle
-- the cheapest flight from nairobi to doha
-- flight from nairobi to vancouver
+- 'flight from nairobi to portugal'
+- 'flight from nairobi to romania'
+- 'flight from nairobi to seattle'
+- 'the cheapest flight from nairobi to doha'
+- 'flight from nairobi to vancouver'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

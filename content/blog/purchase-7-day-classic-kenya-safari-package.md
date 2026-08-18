@@ -1,14 +1,14 @@
 ---
 title: 'Purchase 7 Day Classic Kenya Safari Package: Complete Guide'
-description: Kenya safari guide covering purchase 7 day classic kenya safari package, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase 7 day classic kenya safari package, including what is included, pricing, and booking advice.'
 slug: purchase-7-day-classic-kenya-safari-package
-primary_keyword: Purchase 7 day classic Kenya safari package
+primary_keyword: 'Purchase 7 day classic Kenya safari package'
 secondary_keywords:
-- Book 5 day Samburu Special Five photographic tour package expert guide
-- Best tour companies in Kenya reviews TripAdvisor
-- Travel agents Thika booking Kenya tours
-- Tsavo East National Park safari from Mombasa 3 days price
-- Aberdare National Park lodges (The Ark, Treetops) booking
+- 'Book 5 day Samburu Special Five photographic tour package expert guide'
+- 'Best tour companies in Kenya reviews TripAdvisor'
+- 'Travel agents Thika booking Kenya tours'
+- 'Tsavo East National Park safari from Mombasa 3 days price'
+- 'Aberdare National Park lodges (The Ark, Treetops) booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

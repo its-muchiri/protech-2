@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Quetta to Dubai United Arab Emirates: Complete Guide'
-description: Everything you need to know about flights from quetta to dubai united arab emirates, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from quetta to dubai united arab emirates, including routes, airlines, booking tips, and fares.'
 slug: flights-from-quetta-to-dubai-united-arab-emirates
-primary_keyword: flights from quetta to dubai united arab emirates
+primary_keyword: 'flights from quetta to dubai united arab emirates'
 secondary_keywords:
-- 748 flights to malindi
-- flights from nairobi to zanzibar
-- air india flights from nairobi to mumbai
-- british airways flights from nairobi today
-- flights from nairobi to copenhagen
+- '748 flights to malindi'
+- 'flights from nairobi to zanzibar'
+- 'air india flights from nairobi to mumbai'
+- 'british airways flights from nairobi today'
+- 'flights from nairobi to copenhagen'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

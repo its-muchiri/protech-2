@@ -1,14 +1,14 @@
 ---
 title: 'Fly-in Diani Beach Holiday from Wilson Airport Company: Complete Guide'
-description: Kenya safari guide covering fly-in diani beach holiday from wilson airport company, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering fly-in diani beach holiday from wilson airport company, including what is included, pricing, and booking advice.'
 slug: fly-in-diani-beach-holiday-from-wilson-airport-company
-primary_keyword: Fly-in Diani beach holiday from Wilson Airport company
+primary_keyword: 'Fly-in Diani beach holiday from Wilson Airport company'
 secondary_keywords:
-- Buy 10 day budget Kenya Tanzania camping safari booking
-- Masai Mara safari package cost estimate
-- Price quote 10 day Kenya Tanzania combined tour
-- Estimate 12 day luxury tented camp migration safari
-- Meru National Park package discount booking
+- 'Buy 10 day budget Kenya Tanzania camping safari booking'
+- 'Masai Mara safari package cost estimate'
+- 'Price quote 10 day Kenya Tanzania combined tour'
+- 'Estimate 12 day luxury tented camp migration safari'
+- 'Meru National Park package discount booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Victoria Falls: Complete Guide'
-description: Everything you need to know about flights nairobi to victoria falls, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to victoria falls, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-victoria-falls
-primary_keyword: flights nairobi to victoria falls
+primary_keyword: 'flights nairobi to victoria falls'
 secondary_keywords:
-- flight from nairobi to zambia
-- how much is flight from nairobi to lagos
-- flight 540 nairobi to kisumu price today
-- how much is flight from nairobi to uganda
-- turkish airlines kenya contact number
+- 'flight from nairobi to zambia'
+- 'how much is flight from nairobi to lagos'
+- 'flight 540 nairobi to kisumu price today'
+- 'how much is flight from nairobi to uganda'
+- 'turkish airlines kenya contact number'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

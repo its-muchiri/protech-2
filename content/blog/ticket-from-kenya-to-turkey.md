@@ -1,14 +1,14 @@
 ---
 title: 'Ticket from Kenya to Turkey: Complete Guide'
-description: Everything you need to know about ticket from kenya to turkey, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ticket from kenya to turkey, including routes, airlines, booking tips, and fares.'
 slug: ticket-from-kenya-to-turkey
-primary_keyword: ticket from kenya to turkey
+primary_keyword: 'ticket from kenya to turkey'
 secondary_keywords:
-- flight ticket from kenya to china
-- flight booking mombasa to nairobi
-- return ticket to india from kenya
-- flights kenya airways
-- flights to kenya ba
+- 'flight ticket from kenya to china'
+- 'flight booking mombasa to nairobi'
+- 'return ticket to india from kenya'
+- 'flights kenya airways'
+- 'flights to kenya ba'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

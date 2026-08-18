@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nbo to Yow: Complete Guide'
-description: Everything you need to know about flights from nbo to yow, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nbo to yow, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nbo-to-yow
-primary_keyword: flights from nbo to yow
+primary_keyword: 'flights from nbo to yow'
 secondary_keywords:
-- kq flight from nairobi to johannesburg
-- kenya airways flight schedule london to nairobi
-- kenya airways flight schedule nairobi to lusaka
-- kenya airways flight from nairobi to mombasa price
-- kenya airways flight from bangkok to nairobi
+- 'kq flight from nairobi to johannesburg'
+- 'kenya airways flight schedule london to nairobi'
+- 'kenya airways flight schedule nairobi to lusaka'
+- 'kenya airways flight from nairobi to mombasa price'
+- 'kenya airways flight from bangkok to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

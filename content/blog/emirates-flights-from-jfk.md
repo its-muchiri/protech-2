@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Jfk: Complete Guide'
-description: Everything you need to know about emirates flights from jfk, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from jfk, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-jfk
-primary_keyword: emirates flights from jfk
+primary_keyword: 'emirates flights from jfk'
 secondary_keywords:
-- flights from nairobi to kisumu jambojet
-- safari link flights from nairobi to kisumu
-- jambojet flights from kisumu to nairobi ticket price
-- kisumu flight schedule
-- which airlines fly to eldoret
+- 'flights from nairobi to kisumu jambojet'
+- 'safari link flights from nairobi to kisumu'
+- 'jambojet flights from kisumu to nairobi ticket price'
+- 'kisumu flight schedule'
+- 'which airlines fly to eldoret'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from New York to Kenya: Complete Guide'
-description: Everything you need to know about cheap flights from new york to kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from new york to kenya, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-new-york-to-kenya
-primary_keyword: cheap flights from new york to kenya
+primary_keyword: 'cheap flights from new york to kenya'
 secondary_keywords:
-- emirates flights from france
-- emirates flights to greece from newark
-- how many emirates flights from london to dubai each week
-- cheap flights to india from toronto emirates
-- emirates flights from kuala lumpur
+- 'emirates flights from france'
+- 'emirates flights to greece from newark'
+- 'how many emirates flights from london to dubai each week'
+- 'cheap flights to india from toronto emirates'
+- 'emirates flights from kuala lumpur'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

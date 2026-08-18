@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kenya to Zambia Price: Complete Guide'
-description: Everything you need to know about flight from kenya to zambia price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kenya to zambia price, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kenya-to-zambia-price
-primary_keyword: flight from kenya to zambia price
+primary_keyword: 'flight from kenya to zambia price'
 secondary_keywords:
-- flights from south africa to nairobi kenya
-- flight from kenya to venezuela
-- flight from kenya to washington
-- flights from nairobi to yaounde
-- flight from kenya to zimbabwe price
+- 'flights from south africa to nairobi kenya'
+- 'flight from kenya to venezuela'
+- 'flight from kenya to washington'
+- 'flights from nairobi to yaounde'
+- 'flight from kenya to zimbabwe price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

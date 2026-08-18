@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Addis Ababa to Dubai Price: Complete Guide'
-description: Everything you need to know about emirates flights from addis ababa to dubai price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from addis ababa to dubai price, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-addis-ababa-to-dubai-price
-primary_keyword: emirates flights from addis ababa to dubai price
+primary_keyword: 'emirates flights from addis ababa to dubai price'
 secondary_keywords:
-- flights from nairobi to south korea
-- flights from mombasa to wilson airport
-- airlines that fly to mombasa
-- cheap flights from mombasa to zanzibar
-- flights from mombasa to eldoret
+- 'flights from nairobi to south korea'
+- 'flights from mombasa to wilson airport'
+- 'airlines that fly to mombasa'
+- 'cheap flights from mombasa to zanzibar'
+- 'flights from mombasa to eldoret'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

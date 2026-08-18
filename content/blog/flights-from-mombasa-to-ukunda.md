@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Ukunda: Complete Guide'
-description: Everything you need to know about flights from mombasa to ukunda, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to ukunda, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-ukunda
-primary_keyword: flights from mombasa to ukunda
+primary_keyword: 'flights from mombasa to ukunda'
 secondary_keywords:
-- how much is a flight from nairobi to ethiopia
-- ethiopian airlines nairobi contact number
-- ethiopian airlines jobs in kenya
-- ethiopian airlines nairobi phone number
-- is ethiopian airlines good
+- 'how much is a flight from nairobi to ethiopia'
+- 'ethiopian airlines nairobi contact number'
+- 'ethiopian airlines jobs in kenya'
+- 'ethiopian airlines nairobi phone number'
+- 'is ethiopian airlines good'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

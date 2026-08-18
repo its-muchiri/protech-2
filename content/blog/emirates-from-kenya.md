@@ -1,14 +1,14 @@
 ---
 title: 'Emirates from Kenya: Complete Guide'
-description: Everything you need to know about emirates from kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates from kenya, including routes, airlines, booking tips, and fares.'
 slug: emirates-from-kenya
-primary_keyword: emirates from kenya
+primary_keyword: 'emirates from kenya'
 secondary_keywords:
-- emirates baggage rules for international flights from india
-- emirates flights from glasgow to dubai
-- how many emirates flights from manchester to dubai
-- emirates flights from south africa to india
-- emirates flights from johannesburg to china
+- 'emirates baggage rules for international flights from india'
+- 'emirates flights from glasgow to dubai'
+- 'how many emirates flights from manchester to dubai'
+- 'emirates flights from south africa to india'
+- 'emirates flights from johannesburg to china'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

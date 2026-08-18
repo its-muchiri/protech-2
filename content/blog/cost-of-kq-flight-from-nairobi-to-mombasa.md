@@ -1,14 +1,14 @@
 ---
 title: 'Cost of Kq Flight from Nairobi to Mombasa: Complete Guide'
-description: Everything you need to know about cost of kq flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cost of kq flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.'
 slug: cost-of-kq-flight-from-nairobi-to-mombasa
-primary_keyword: cost of kq flight from nairobi to mombasa
+primary_keyword: 'cost of kq flight from nairobi to mombasa'
 secondary_keywords:
-- flights nairobi to victoria falls
-- flights nairobi to windhoek
-- flights nairobi to zanzibar
-- 1 bedroom houses for rent in nairobi
-- flights from nairobi to thailand
+- 'flights nairobi to victoria falls'
+- 'flights nairobi to windhoek'
+- 'flights nairobi to zanzibar'
+- '1 bedroom houses for rent in nairobi'
+- 'flights from nairobi to thailand'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

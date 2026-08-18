@@ -1,14 +1,14 @@
 ---
 title: 'Flight 540 Nairobi to Diani: Complete Guide'
-description: Everything you need to know about flight 540 nairobi to diani, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight 540 nairobi to diani, including routes, airlines, booking tips, and fares.'
 slug: flight-540-nairobi-to-diani
-primary_keyword: flight 540 nairobi to diani
+primary_keyword: 'flight 540 nairobi to diani'
 secondary_keywords:
-- does turkish airlines fly to dubai
-- flight booking in kenya
-- flight ticket from kenya to india
-- flight booking to mombasa
-- return ticket to india from kenya
+- 'does turkish airlines fly to dubai'
+- 'flight booking in kenya'
+- 'flight ticket from kenya to india'
+- 'flight booking to mombasa'
+- 'return ticket to india from kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

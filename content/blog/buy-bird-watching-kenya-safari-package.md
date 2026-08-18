@@ -1,14 +1,14 @@
 ---
 title: 'Buy Bird Watching Kenya Safari Package: Complete Guide'
-description: Kenya safari guide covering buy bird watching kenya safari package, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy bird watching kenya safari package, including what is included, pricing, and booking advice.'
 slug: buy-bird-watching-kenya-safari-package
-primary_keyword: Buy bird watching Kenya safari package
+primary_keyword: 'Buy bird watching Kenya safari package'
 secondary_keywords:
-- Kenya safari activities
-- See large elephant herds Kenya
-- Kenya safari from Diani Beach
-- Kenya safari from India
-- Kenya safari in August (Migration)
+- 'Kenya safari activities'
+- 'See large elephant herds Kenya'
+- 'Kenya safari from Diani Beach'
+- 'Kenya safari from India'
+- 'Kenya safari in August (Migration)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

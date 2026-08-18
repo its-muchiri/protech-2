@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Mumbai: Complete Guide'
-description: Everything you need to know about flights from mombasa to mumbai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to mumbai, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-mumbai
-primary_keyword: flights from mombasa to mumbai
+primary_keyword: 'flights from mombasa to mumbai'
 secondary_keywords:
-- flight ticket to kenya from south africa
-- online bus booking kenya from mombasa
-- local flights in kenya prices
-- flights to kenya in april
-- flights companies in kenya
+- 'flight ticket to kenya from south africa'
+- 'online bus booking kenya from mombasa'
+- 'local flights in kenya prices'
+- 'flights to kenya in april'
+- 'flights companies in kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines from Nairobi to Cape Town: Complete Guide'
-description: Everything you need to know about ethiopian airlines from nairobi to cape town, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines from nairobi to cape town, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-from-nairobi-to-cape-town
-primary_keyword: ethiopian airlines from nairobi to cape town
+primary_keyword: 'ethiopian airlines from nairobi to cape town'
 secondary_keywords:
-- kenya airways flight tracker live today from nairobi to
-- kenya airways flights from nairobi to seychelles
-- flight from nairobi to dubai price
-- air france flight from nairobi to paris
-- booking flight from nairobi to mombasa
+- 'kenya airways flight tracker live today from nairobi to'
+- 'kenya airways flights from nairobi to seychelles'
+- 'flight from nairobi to dubai price'
+- 'air france flight from nairobi to paris'
+- 'booking flight from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

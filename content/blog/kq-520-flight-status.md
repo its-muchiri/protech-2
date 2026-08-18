@@ -1,14 +1,14 @@
 ---
 title: 'Kq 520 Flight Status: Complete Guide'
-description: Everything you need to know about kq 520 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 520 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq-520-flight-status
-primary_keyword: kq 520 flight status
+primary_keyword: 'kq 520 flight status'
 secondary_keywords:
-- cheap flights from nairobi to mombasa jambojet price
-- silverstone flights from mombasa to kisumu
-- wilson airport flights from mombasa
-- kq flights from kisumu to mombasa
-- flight from nairobi to kisumu cost
+- 'cheap flights from nairobi to mombasa jambojet price'
+- 'silverstone flights from mombasa to kisumu'
+- 'wilson airport flights from mombasa'
+- 'kq flights from kisumu to mombasa'
+- 'flight from nairobi to kisumu cost'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

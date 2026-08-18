@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Lax: Complete Guide'
-description: Everything you need to know about flights from kenya to lax, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to lax, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-lax
-primary_keyword: flights from kenya to lax
+primary_keyword: 'flights from kenya to lax'
 secondary_keywords:
-- flights from nairobi to arusha
-- available flights from nairobi to mombasa tomorrow
-- ba flights from nairobi to london heathrow
-- cheap flights from nairobi to london
-- diani flights from nairobi
+- 'flights from nairobi to arusha'
+- 'available flights from nairobi to mombasa tomorrow'
+- 'ba flights from nairobi to london heathrow'
+- 'cheap flights from nairobi to london'
+- 'diani flights from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

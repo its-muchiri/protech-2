@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Kisumu from Wilson: Complete Guide'
-description: Everything you need to know about flights to kisumu from wilson, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to kisumu from wilson, including routes, airlines, booking tips, and fares.'
 slug: flights-to-kisumu-from-wilson
-primary_keyword: flights to kisumu from wilson
+primary_keyword: 'flights to kisumu from wilson'
 secondary_keywords:
-- cheap tickets nairobi to oslo
-- perth to nairobi flights
-- does etihad fly to kenya
-- flights nairobi to seattle
-- nairobi to tanzania flights
+- 'cheap tickets nairobi to oslo'
+- 'perth to nairobi flights'
+- 'does etihad fly to kenya'
+- 'flights nairobi to seattle'
+- 'nairobi to tanzania flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

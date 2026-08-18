@@ -1,14 +1,14 @@
 ---
 title: 'Ear Tag Applicator for Livestock Price: 2026 Price Guide'
-description: Kenya buying guide to ear tag applicator for livestock price. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to ear tag applicator for livestock price. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: ear-tag-applicator-for-livestock-price
-primary_keyword: Ear tag applicator for livestock price
+primary_keyword: 'Ear tag applicator for livestock price'
 secondary_keywords:
-- bandages Kenya types
-- antiseptics Kenya brands
-- blood collection tubes Kenya EDTA
-- first aid kits Kenya contents
-- non-woven swabs Kenya
+- 'bandages Kenya types'
+- 'antiseptics Kenya brands'
+- 'blood collection tubes Kenya EDTA'
+- 'first aid kits Kenya contents'
+- 'non-woven swabs Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

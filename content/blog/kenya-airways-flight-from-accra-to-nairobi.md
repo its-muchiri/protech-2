@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from Accra to Nairobi: Complete Guide'
-description: Everything you need to know about kenya airways flight from accra to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from accra to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-accra-to-nairobi
-primary_keyword: kenya airways flight from accra to nairobi
+primary_keyword: 'kenya airways flight from accra to nairobi'
 secondary_keywords:
-- emirates flights from riyadh to dubai today
-- emirates flights from sfo
-- emirates flights from uk
-- emirates flights from vietnam
-- emirates fly from which terminal
+- 'emirates flights from riyadh to dubai today'
+- 'emirates flights from sfo'
+- 'emirates flights from uk'
+- 'emirates flights from vietnam'
+- 'emirates fly from which terminal'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

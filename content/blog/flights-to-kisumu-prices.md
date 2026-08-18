@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Kisumu Prices: Complete Guide'
-description: Everything you need to know about flights to kisumu prices, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to kisumu prices, including routes, airlines, booking tips, and fares.'
 slug: flights-to-kisumu-prices
-primary_keyword: flights to kisumu prices
+primary_keyword: 'flights to kisumu prices'
 secondary_keywords:
-- emirates flight 413
-- emirates flight 606
-- emirates flight 804
-- emirates flight 980
-- qatar airways lounge nairobi airport
+- 'emirates flight 413'
+- 'emirates flight 606'
+- 'emirates flight 804'
+- 'emirates flight 980'
+- 'qatar airways lounge nairobi airport'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight from Orlando to Dubai Today: Complete Guide'
-description: Everything you need to know about emirates flight from orlando to dubai today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight from orlando to dubai today, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-from-orlando-to-dubai-today
-primary_keyword: emirates flight from orlando to dubai today
+primary_keyword: 'emirates flight from orlando to dubai today'
 secondary_keywords:
-- cost of flight from kisumu to nairobi
-- flight from eldoret to dar es salaam
-- flight from eldoret to kampala
-- fly from eldoret to nairobi
-- flights from wilson to eldoret
+- 'cost of flight from kisumu to nairobi'
+- 'flight from eldoret to dar es salaam'
+- 'flight from eldoret to kampala'
+- 'fly from eldoret to nairobi'
+- 'flights from wilson to eldoret'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

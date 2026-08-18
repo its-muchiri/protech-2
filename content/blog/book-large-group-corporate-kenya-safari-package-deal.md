@@ -1,14 +1,14 @@
 ---
 title: 'Book Large Group Corporate Kenya Safari Package Deal: Complete Guide'
-description: Kenya safari guide covering book large group corporate kenya safari package deal, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book large group corporate kenya safari package deal, including what is included, pricing, and booking advice.'
 slug: book-large-group-corporate-kenya-safari-package-deal
-primary_keyword: Book large group corporate Kenya safari package deal
+primary_keyword: 'Book large group corporate Kenya safari package deal'
 secondary_keywords:
-- Best safari lodges Kenya
-- Safari camp with pool Kenya
-- Sundowners Kenya safari
-- Flamingo safari Lake Nakuru
-- East Africa safari Kenya Tanzania
+- 'Best safari lodges Kenya'
+- 'Safari camp with pool Kenya'
+- 'Sundowners Kenya safari'
+- 'Flamingo safari Lake Nakuru'
+- 'East Africa safari Kenya Tanzania'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

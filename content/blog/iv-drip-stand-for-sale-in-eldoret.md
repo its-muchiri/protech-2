@@ -1,14 +1,14 @@
 ---
 title: 'IV Drip Stand for Sale in Eldoret: 2026 Price Guide'
-description: Kenya buying guide to iv drip stand for sale in eldoret. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to iv drip stand for sale in eldoret. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: iv-drip-stand-for-sale-in-eldoret
-primary_keyword: IV drip stand for sale in Eldoret
+primary_keyword: 'IV drip stand for sale in Eldoret'
 secondary_keywords:
-- Pipettes and micropipettes set price
-- Ophthalmic surgical instruments price in Kenya
-- Anesthesia workstation with ventilator price
-- 1-crank manual hospital bed price
-- Reclining wheelchair price in Kenya
+- 'Pipettes and micropipettes set price'
+- 'Ophthalmic surgical instruments price in Kenya'
+- 'Anesthesia workstation with ventilator price'
+- '1-crank manual hospital bed price'
+- 'Reclining wheelchair price in Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

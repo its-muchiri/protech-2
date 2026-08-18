@@ -1,14 +1,14 @@
 ---
 title: 'ATOL Protected Kenya Safari Package Booking UK Operator: Complete Guide'
-description: Kenya safari guide covering atol protected kenya safari package booking uk operator, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering atol protected kenya safari package booking uk operator, including what is included, pricing, and booking advice.'
 slug: atol-protected-kenya-safari-package-booking-uk-operator
-primary_keyword: ATOL protected Kenya safari package booking UK operator
+primary_keyword: 'ATOL protected Kenya safari package booking UK operator'
 secondary_keywords:
-- Find Halal certified meals Kenya safari tour package UK Muslim friendly lodges operators list
-- Book camel trekking safari northern Kenya Samburu Europe traditional experience cost
-- Buy Mount Longonot hike safari day trip package USA Rift Valley views cost
-- Safari Kenya
-- Kenya travel safari
+- 'Find Halal certified meals Kenya safari tour package UK Muslim friendly lodges operators list'
+- 'Book camel trekking safari northern Kenya Samburu Europe traditional experience cost'
+- 'Buy Mount Longonot hike safari day trip package USA Rift Valley views cost'
+- 'Safari Kenya'
+- 'Kenya travel safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

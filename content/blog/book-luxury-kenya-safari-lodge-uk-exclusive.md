@@ -1,14 +1,14 @@
 ---
 title: 'Book Luxury Kenya Safari Lodge UK Exclusive: Complete Guide'
-description: Kenya safari guide covering book luxury kenya safari lodge uk exclusive, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book luxury kenya safari lodge uk exclusive, including what is included, pricing, and booking advice.'
 slug: book-luxury-kenya-safari-lodge-uk-exclusive
-primary_keyword: Book luxury Kenya safari lodge UK exclusive
+primary_keyword: 'Book luxury Kenya safari lodge UK exclusive'
 secondary_keywords:
-- Reserve Kenya safari package  months in advance
-- Compare Kenya safari package prices
-- Kenya safari package including park fees cost
-- Samburu safari operator quote
-- (Continue generating variations by combining elements like Duration + Location + Type + Intent Word)
+- 'Reserve Kenya safari package  months in advance'
+- 'Compare Kenya safari package prices'
+- 'Kenya safari package including park fees cost'
+- 'Samburu safari operator quote'
+- '(Continue generating variations by combining elements like Duration + Location + Type + Intent Word)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

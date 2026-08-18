@@ -1,14 +1,14 @@
 ---
 title: 'Jambo Jet Flight from Nairobi to Eldoret: Complete Guide'
-description: Everything you need to know about jambo jet flight from nairobi to eldoret, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about jambo jet flight from nairobi to eldoret, including routes, airlines, booking tips, and fares.'
 slug: jambo-jet-flight-from-nairobi-to-eldoret
-primary_keyword: jambo jet flight from nairobi to eldoret
+primary_keyword: 'jambo jet flight from nairobi to eldoret'
 secondary_keywords:
-- emirates flights from uk to south africa
-- emirates flights from india to canada via dubai
-- emirates airline passenger information
-- emirates flights from london to new york
-- emirates flight 0406
+- 'emirates flights from uk to south africa'
+- 'emirates flights from india to canada via dubai'
+- 'emirates airline passenger information'
+- 'emirates flights from london to new york'
+- 'emirates flight 0406'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

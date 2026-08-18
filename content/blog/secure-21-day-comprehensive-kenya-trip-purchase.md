@@ -1,14 +1,14 @@
 ---
 title: 'Secure 21 Day Comprehensive Kenya Trip Purchase: Complete Guide'
-description: Kenya safari guide covering secure 21 day comprehensive kenya trip purchase, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering secure 21 day comprehensive kenya trip purchase, including what is included, pricing, and booking advice.'
 slug: secure-21-day-comprehensive-kenya-trip-purchase
-primary_keyword: Secure 21 day comprehensive Kenya trip purchase
+primary_keyword: 'Secure 21 day comprehensive Kenya trip purchase'
 secondary_keywords:
-- Cost of 3 day Amboseli safari package
-- Samburu special five safari package price
-- Mahali Mzuri safari package deal
-- Luxury honeymoon safari Kenya cost
-- Best value Kenya safari package cost
+- 'Cost of 3 day Amboseli safari package'
+- 'Samburu special five safari package price'
+- 'Mahali Mzuri safari package deal'
+- 'Luxury honeymoon safari Kenya cost'
+- 'Best value Kenya safari package cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

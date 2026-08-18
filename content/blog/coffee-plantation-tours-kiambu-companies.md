@@ -1,14 +1,14 @@
 ---
 title: 'Coffee Plantation Tours Kiambu Companies: Complete Guide'
-description: Kenya safari guide covering coffee plantation tours kiambu companies, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering coffee plantation tours kiambu companies, including what is included, pricing, and booking advice.'
 slug: coffee-plantation-tours-kiambu-companies
-primary_keyword: Coffee plantation tours Kiambu companies
+primary_keyword: 'Coffee plantation tours Kiambu companies'
 secondary_keywords:
-- Natural World Kenya Safaris packages / reviews
-- Single supplement cost Kenya safari solo travelers
-- Best rated tour companies Kenya TripAdvisor
-- Kenya golfing safari packages Great Rift Valley Lodge / Windsor
-- Diani Beach based tour operators excursions / safaris
+- 'Natural World Kenya Safaris packages / reviews'
+- 'Single supplement cost Kenya safari solo travelers'
+- 'Best rated tour companies Kenya TripAdvisor'
+- 'Kenya golfing safari packages Great Rift Valley Lodge / Windsor'
+- 'Diani Beach based tour operators excursions / safaris'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

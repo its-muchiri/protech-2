@@ -1,14 +1,14 @@
 ---
 title: '8 Flights: Complete Guide'
-description: Everything you need to know about 8 flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about 8 flights, including routes, airlines, booking tips, and fares.'
 slug: 8-flights
-primary_keyword: 8 flights
+primary_keyword: '8 flights'
 secondary_keywords:
-- flights from wichita ks to nairobi kenya
-- flights from seiyun yemen to nairobi kenya
-- flights from nairobi kenya to lusaka zambia
-- how much is flight from kenya to uganda
-- uganda airlines flights from nairobi to entebbe
+- 'flights from wichita ks to nairobi kenya'
+- 'flights from seiyun yemen to nairobi kenya'
+- 'flights from nairobi kenya to lusaka zambia'
+- 'how much is flight from kenya to uganda'
+- 'uganda airlines flights from nairobi to entebbe'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Samburu National Reserve Safari Packages Price Samburu Intrepids: Complete Guide'
-description: Kenya safari guide covering samburu national reserve safari packages price samburu intrepids, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering samburu national reserve safari packages price samburu intrepids, including what is included, pricing, and booking advice.'
 slug: samburu-national-reserve-safari-packages-price-samburu-intrepids
-primary_keyword: Samburu National Reserve safari packages price Samburu Intrepids
+primary_keyword: 'Samburu National Reserve safari packages price Samburu Intrepids'
 secondary_keywords:
-- Kenya safari in August (Migration)
-- Kenya safari packages
-- Senior Kenya safari tours
-- What is the best Kenya safari
-- Travel insurance for Kenya safari
+- 'Kenya safari in August (Migration)'
+- 'Kenya safari packages'
+- 'Senior Kenya safari tours'
+- 'What is the best Kenya safari'
+- 'Travel insurance for Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

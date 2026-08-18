@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to United Kingdom: Complete Guide'
-description: Everything you need to know about flight from nairobi to united kingdom, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to united kingdom, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-united-kingdom
-primary_keyword: flight from nairobi to united kingdom
+primary_keyword: 'flight from nairobi to united kingdom'
 secondary_keywords:
-- kq travel requirements
-- kq flight schedule nairobi to entebbe
-- kq world
-- kq lagos to nairobi
-- kq 271 flight status
+- 'kq travel requirements'
+- 'kq flight schedule nairobi to entebbe'
+- 'kq world'
+- 'kq lagos to nairobi'
+- 'kq 271 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

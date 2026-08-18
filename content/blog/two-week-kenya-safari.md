@@ -1,14 +1,14 @@
 ---
 title: 'Two Week Kenya Safari: Complete Guide'
-description: Kenya safari guide covering two week kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering two week kenya safari, including what is included, pricing, and booking advice.'
 slug: two-week-kenya-safari
-primary_keyword: Two week Kenya safari
+primary_keyword: 'Two week Kenya safari'
 secondary_keywords:
-- Amboseli National Park safari
-- Chyulu Hills safari
-- Family Kenya safari
-- Private Kenya safari
-- Community based safari Kenya
+- 'Amboseli National Park safari'
+- 'Chyulu Hills safari'
+- 'Family Kenya safari'
+- 'Private Kenya safari'
+- 'Community based safari Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

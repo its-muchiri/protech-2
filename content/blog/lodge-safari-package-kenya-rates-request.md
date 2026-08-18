@@ -1,14 +1,14 @@
 ---
 title: 'Lodge Safari Package Kenya Rates Request: Complete Guide'
-description: Kenya safari guide covering lodge safari package kenya rates request, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering lodge safari package kenya rates request, including what is included, pricing, and booking advice.'
 slug: lodge-safari-package-kenya-rates-request
-primary_keyword: Lodge safari package Kenya rates request
+primary_keyword: 'Lodge safari package Kenya rates request'
 secondary_keywords:
-- Ol Jogi Conservancy luxury safari booking
-- Masai Mara honeymoon package booking
-- Kenya budget camping safari package book
-- Amboseli Kilimanjaro safari package buy
-- August Masai Mara migration package deals
+- 'Ol Jogi Conservancy luxury safari booking'
+- 'Masai Mara honeymoon package booking'
+- 'Kenya budget camping safari package book'
+- 'Amboseli Kilimanjaro safari package buy'
+- 'August Masai Mara migration package deals'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

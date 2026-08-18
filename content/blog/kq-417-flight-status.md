@@ -1,14 +1,14 @@
 ---
 title: 'Kq 417 Flight Status: Complete Guide'
-description: Everything you need to know about kq 417 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 417 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq-417-flight-status
-primary_keyword: kq 417 flight status
+primary_keyword: 'kq 417 flight status'
 secondary_keywords:
-- emirates flight from vancouver to delhi
-- emirates flights from gatwick which terminal
-- flights from new york to dubai emirates
-- emirates flights to new zealand from birmingham
-- emirates flight 18
+- 'emirates flight from vancouver to delhi'
+- 'emirates flights from gatwick which terminal'
+- 'flights from new york to dubai emirates'
+- 'emirates flights to new zealand from birmingham'
+- 'emirates flight 18'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

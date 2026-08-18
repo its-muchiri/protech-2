@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from Mombasa to Eldoret: Complete Guide'
-description: Everything you need to know about kq flights from mombasa to eldoret, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from mombasa to eldoret, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-mombasa-to-eldoret
-primary_keyword: kq flights from mombasa to eldoret
+primary_keyword: 'kq flights from mombasa to eldoret'
 secondary_keywords:
-- flights nairobi to thailand
-- flights nairobi to victoria falls
-- flights nairobi to windhoek
-- flights nairobi to zanzibar
-- 1 bedroom houses for rent in nairobi
+- 'flights nairobi to thailand'
+- 'flights nairobi to victoria falls'
+- 'flights nairobi to windhoek'
+- 'flights nairobi to zanzibar'
+- '1 bedroom houses for rent in nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Nairobi Office: Complete Guide'
-description: Everything you need to know about ethiopian airlines nairobi office, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines nairobi office, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-nairobi-office
-primary_keyword: ethiopian airlines nairobi office
+primary_keyword: 'ethiopian airlines nairobi office'
 secondary_keywords:
-- flights from nairobi to rabat
-- flights from nairobi to sydney australia
-- flights from entebbe to nairobi
-- flights from nairobi to voi
-- flights from nairobi to winnipeg
+- 'flights from nairobi to rabat'
+- 'flights from nairobi to sydney australia'
+- 'flights from entebbe to nairobi'
+- 'flights from nairobi to voi'
+- 'flights from nairobi to winnipeg'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

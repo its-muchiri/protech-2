@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights 203: Complete Guide'
-description: Everything you need to know about emirates flights 203, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights 203, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-203
-primary_keyword: emirates flights 203
+primary_keyword: 'emirates flights 203'
 secondary_keywords:
-- flights to poland from kenya
-- flights from kenya to rome
-- flights from kenya to swaziland
-- flights from kenya to uk
-- flights from nairobi to vienna
+- 'flights to poland from kenya'
+- 'flights from kenya to rome'
+- 'flights from kenya to swaziland'
+- 'flights from kenya to uk'
+- 'flights from nairobi to vienna'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

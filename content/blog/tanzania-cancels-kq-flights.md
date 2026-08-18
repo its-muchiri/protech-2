@@ -1,14 +1,14 @@
 ---
 title: 'Tanzania Cancels Kq Flights: Complete Guide'
-description: Everything you need to know about tanzania cancels kq flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about tanzania cancels kq flights, including routes, airlines, booking tips, and fares.'
 slug: tanzania-cancels-kq-flights
-primary_keyword: tanzania cancels kq flights
+primary_keyword: 'tanzania cancels kq flights'
 secondary_keywords:
-- kenya airways flight from mauritius to nairobi
-- flights from nairobi to ukunda kenya
-- flight from nairobi to kampala
-- air india flight from nairobi
-- book flight from nairobi to eldoret
+- 'kenya airways flight from mauritius to nairobi'
+- 'flights from nairobi to ukunda kenya'
+- 'flight from nairobi to kampala'
+- 'air india flight from nairobi'
+- 'book flight from nairobi to eldoret'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

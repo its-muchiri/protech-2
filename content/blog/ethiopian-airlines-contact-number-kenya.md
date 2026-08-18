@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Contact Number Kenya: Complete Guide'
-description: Everything you need to know about ethiopian airlines contact number kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines contact number kenya, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-contact-number-kenya
-primary_keyword: ethiopian airlines contact number kenya
+primary_keyword: 'ethiopian airlines contact number kenya'
 secondary_keywords:
-- emirates flight from zambia to dubai
-- emirates flights 1st class
-- emirates flights 202
-- emirates flight 368
-- emirates flight 413
+- 'emirates flight from zambia to dubai'
+- 'emirates flights 1st class'
+- 'emirates flights 202'
+- 'emirates flight 368'
+- 'emirates flight 413'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

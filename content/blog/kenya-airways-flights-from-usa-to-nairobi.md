@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights from Usa to Nairobi: Complete Guide'
-description: Everything you need to know about kenya airways flights from usa to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights from usa to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-from-usa-to-nairobi
-primary_keyword: kenya airways flights from usa to nairobi
+primary_keyword: 'kenya airways flights from usa to nairobi'
 secondary_keywords:
-- kq 0103 flight status
-- kq 204 flight status
-- kq352 flight status
-- kq flight 507
-- sq608 flight status
+- 'kq 0103 flight status'
+- 'kq 204 flight status'
+- 'kq352 flight status'
+- 'kq flight 507'
+- 'sq608 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

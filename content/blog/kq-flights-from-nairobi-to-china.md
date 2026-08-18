@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from Nairobi to China: Complete Guide'
-description: Everything you need to know about kq flights from nairobi to china, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from nairobi to china, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-nairobi-to-china
-primary_keyword: kq flights from nairobi to china
+primary_keyword: 'kq flights from nairobi to china'
 secondary_keywords:
-- emirates flights 777
-- emirates flight 802
-- cheapest flight from nairobi to qatar
-- how much is a flight from nairobi to qatar today
-- qatar airways nairobi email address
+- 'emirates flights 777'
+- 'emirates flight 802'
+- 'cheapest flight from nairobi to qatar'
+- 'how much is a flight from nairobi to qatar today'
+- 'qatar airways nairobi email address'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

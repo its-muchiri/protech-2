@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from Nairobi to Malindi: Complete Guide'
-description: Everything you need to know about kenya airways flight from nairobi to malindi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from nairobi to malindi, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-nairobi-to-malindi
-primary_keyword: kenya airways flight from nairobi to malindi
+primary_keyword: 'kenya airways flight from nairobi to malindi'
 secondary_keywords:
-- emirates flights from ewr
-- emirates flights for dubai
-- emirates flights from geneva to dubai
-- emirates flights from hyderabad to dallas
-- emirates flights from islamabad to dubai
+- 'emirates flights from ewr'
+- 'emirates flights for dubai'
+- 'emirates flights from geneva to dubai'
+- 'emirates flights from hyderabad to dallas'
+- 'emirates flights from islamabad to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

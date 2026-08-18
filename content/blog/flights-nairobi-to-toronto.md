@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Toronto: Complete Guide'
-description: Everything you need to know about flights nairobi to toronto, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to toronto, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-toronto
-primary_keyword: flights nairobi to toronto
+primary_keyword: 'flights nairobi to toronto'
 secondary_keywords:
-- kq flights from mombasa to eldoret
-- flights to mombasa from gatwick
-- flights from mombasa to india
-- cheap flights from mombasa to jeddah
-- kq flights from mombasa to kisumu
+- 'kq flights from mombasa to eldoret'
+- 'flights to mombasa from gatwick'
+- 'flights from mombasa to india'
+- 'cheap flights from mombasa to jeddah'
+- 'kq flights from mombasa to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

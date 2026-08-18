@@ -1,14 +1,14 @@
 ---
 title: 'Klm Flight from Nairobi to Amsterdam Today: Complete Guide'
-description: Everything you need to know about klm flight from nairobi to amsterdam today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about klm flight from nairobi to amsterdam today, including routes, airlines, booking tips, and fares.'
 slug: klm-flight-from-nairobi-to-amsterdam-today
-primary_keyword: klm flight from nairobi to amsterdam today
+primary_keyword: 'klm flight from nairobi to amsterdam today'
 secondary_keywords:
-- emirates flight 8
-- emirates flight 953
-- qatar airways arrival nairobi today
-- qatar airways careers nairobi cabin crew
-- qatar airways nairobi jobs
+- 'emirates flight 8'
+- 'emirates flight 953'
+- 'qatar airways arrival nairobi today'
+- 'qatar airways careers nairobi cabin crew'
+- 'qatar airways nairobi jobs'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

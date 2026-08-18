@@ -1,14 +1,14 @@
 ---
 title: 'X-ray Machine Installation and Maintenance in Kenya: 2026 Price Guide'
-description: Kenya buying guide to x-ray machine installation and maintenance in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to x-ray machine installation and maintenance in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: x-ray-machine-installation-and-maintenance-in-kenya
-primary_keyword: X-ray machine installation and maintenance in Kenya
+primary_keyword: 'X-ray machine installation and maintenance in Kenya'
 secondary_keywords:
-- Ambulance equipment and supplies list
-- Phacoemulsification machine for cataract surgery
-- Absorbable sutures price list
-- Autopsy instrument set for sale
-- Nurse call system for hospitals price
+- 'Ambulance equipment and supplies list'
+- 'Phacoemulsification machine for cataract surgery'
+- 'Absorbable sutures price list'
+- 'Autopsy instrument set for sale'
+- 'Nurse call system for hospitals price'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

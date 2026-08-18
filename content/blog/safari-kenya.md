@@ -1,14 +1,14 @@
 ---
 title: 'Safari Kenya: Complete Guide'
-description: Kenya safari guide covering safari kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering safari kenya, including what is included, pricing, and booking advice.'
 slug: safari-kenya
-primary_keyword: Safari Kenya
+primary_keyword: 'Safari Kenya'
 secondary_keywords:
-- Accessible safari tours Kenya wheelchair friendly
-- Great Rift Valley viewpoint tour operators
-- 10 day Kenya wildlife photography tour
-- Off-season safari deals Kenya companies
-- Tour company pick up from Thika
+- 'Accessible safari tours Kenya wheelchair friendly'
+- 'Great Rift Valley viewpoint tour operators'
+- '10 day Kenya wildlife photography tour'
+- 'Off-season safari deals Kenya companies'
+- 'Tour company pick up from Thika'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

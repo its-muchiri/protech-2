@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Oman: Complete Guide'
-description: Everything you need to know about flight from nairobi to oman, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to oman, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-oman
-primary_keyword: flight from nairobi to oman
+primary_keyword: 'flight from nairobi to oman'
 secondary_keywords:
-- emirates in nairobi
-- emirates flight from riyadh to nairobi today
-- emirates from kenya to canada
-- emirates cargo kenya
-- emirates holidays kenya safari
+- 'emirates in nairobi'
+- 'emirates flight from riyadh to nairobi today'
+- 'emirates from kenya to canada'
+- 'emirates cargo kenya'
+- 'emirates holidays kenya safari'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Delhi: Complete Guide'
-description: Everything you need to know about flight from nairobi to delhi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to delhi, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-delhi
-primary_keyword: flight from nairobi to delhi
+primary_keyword: 'flight from nairobi to delhi'
 secondary_keywords:
-- flights from kisumu to zanzibar
-- flights from eldoret to wilson airport
-- international flights from eldoret
-- flights from lodwar kenya to eldoret kenya
-- safarilink flights from eldoret to nairobi
+- 'flights from kisumu to zanzibar'
+- 'flights from eldoret to wilson airport'
+- 'international flights from eldoret'
+- 'flights from lodwar kenya to eldoret kenya'
+- 'safarilink flights from eldoret to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kisumu Kenya to Nairobi Kenya: Complete Guide'
-description: Everything you need to know about flights from kisumu kenya to nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kisumu kenya to nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kisumu-kenya-to-nairobi-kenya
-primary_keyword: flights from kisumu kenya to nairobi kenya
+primary_keyword: 'flights from kisumu kenya to nairobi kenya'
 secondary_keywords:
-- does etihad fly to kenya
-- flights nairobi to seattle
-- nairobi to tanzania flights
-- flights nairobi to vic falls
-- fly nairobi to watamu
+- 'does etihad fly to kenya'
+- 'flights nairobi to seattle'
+- 'nairobi to tanzania flights'
+- 'flights nairobi to vic falls'
+- 'fly nairobi to watamu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

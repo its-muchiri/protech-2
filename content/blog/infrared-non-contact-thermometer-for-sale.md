@@ -1,14 +1,14 @@
 ---
 title: 'Infrared Non-contact Thermometer for Sale: 2026 Price Guide'
-description: Kenya buying guide to infrared non-contact thermometer for sale. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to infrared non-contact thermometer for sale. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: infrared-non-contact-thermometer-for-sale
-primary_keyword: Infrared non-contact thermometer for sale
+primary_keyword: 'Infrared non-contact thermometer for sale'
 secondary_keywords:
-- Affordable clinic setup package in Kenya
-- Bone densitometer (DEXA scan) suppliers in Kenya
-- Floor-mounted X-ray machine suppliers in Mombasa
-- Semi-automated clinical chemistry analyzer for a startup lab
-- Laboratory incubator suppliers in Eldoret
+- 'Affordable clinic setup package in Kenya'
+- 'Bone densitometer (DEXA scan) suppliers in Kenya'
+- 'Floor-mounted X-ray machine suppliers in Mombasa'
+- 'Semi-automated clinical chemistry analyzer for a startup lab'
+- 'Laboratory incubator suppliers in Eldoret'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

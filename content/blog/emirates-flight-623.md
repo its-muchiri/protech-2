@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 623: Complete Guide'
-description: Everything you need to know about emirates flight 623, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 623, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-623
-primary_keyword: emirates flight 623
+primary_keyword: 'emirates flight 623'
 secondary_keywords:
-- flight from nairobi to los angeles
-- flight time from nairobi to zanzibar
-- cost of flight from nairobi to south africa
-- 540 flight from nairobi to lodwar
-- how many hours flight from nairobi to johannesburg
+- 'flight from nairobi to los angeles'
+- 'flight time from nairobi to zanzibar'
+- 'cost of flight from nairobi to south africa'
+- '540 flight from nairobi to lodwar'
+- 'how many hours flight from nairobi to johannesburg'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

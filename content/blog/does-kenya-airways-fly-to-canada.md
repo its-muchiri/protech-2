@@ -1,14 +1,14 @@
 ---
 title: 'Does Kenya Airways Fly to Canada: Complete Guide'
-description: Everything you need to know about does kenya airways fly to canada, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about does kenya airways fly to canada, including routes, airlines, booking tips, and fares.'
 slug: does-kenya-airways-fly-to-canada
-primary_keyword: does kenya airways fly to canada
+primary_keyword: 'does kenya airways fly to canada'
 secondary_keywords:
-- airfare from nairobi to qatar
-- rwandair flights from nairobi to johannesburg
-- super metro flights from nairobi to mombasa
-- flights from nairobi to uk today
-- cheap flights from vienna to nairobi
+- 'airfare from nairobi to qatar'
+- 'rwandair flights from nairobi to johannesburg'
+- 'super metro flights from nairobi to mombasa'
+- 'flights from nairobi to uk today'
+- 'cheap flights from vienna to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

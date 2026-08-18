@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight Qf8435: Complete Guide'
-description: Everything you need to know about emirates flight qf8435, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight qf8435, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-qf8435
-primary_keyword: emirates flight qf8435
+primary_keyword: 'emirates flight qf8435'
 secondary_keywords:
-- flights to kenya from usa
-- does kenya airways fly to ukunda
-- airlines in kenya list
-- airlines in nairobi kenya
-- does qatar airways fly to kenya
+- 'flights to kenya from usa'
+- 'does kenya airways fly to ukunda'
+- 'airlines in kenya list'
+- 'airlines in nairobi kenya'
+- 'does qatar airways fly to kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Compare Kenya Safari Package Prices USA Operators: Complete Guide'
-description: Kenya safari guide covering compare kenya safari package prices usa operators, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering compare kenya safari package prices usa operators, including what is included, pricing, and booking advice.'
 slug: compare-kenya-safari-package-prices-usa-operators
-primary_keyword: Compare Kenya safari package prices USA operators
+primary_keyword: 'Compare Kenya safari package prices USA operators'
 secondary_keywords:
-- Nairobi National Park half day game drive price / booking
-- Kenya photographic safari tours specialized guides / vehicles
-- Kenya safari and beach combined tours Masai Mara and Diani
-- Best hiking trails near Thika / Kiambu Karura Forest / Kereita Forest Ziplining
-- Day trip to Lake Naivasha from Nairobi / Thika boat ride / Crescent Island cost
+- 'Nairobi National Park half day game drive price / booking'
+- 'Kenya photographic safari tours specialized guides / vehicles'
+- 'Kenya safari and beach combined tours Masai Mara and Diani'
+- 'Best hiking trails near Thika / Kiambu Karura Forest / Kereita Forest Ziplining'
+- 'Day trip to Lake Naivasha from Nairobi / Thika boat ride / Crescent Island cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

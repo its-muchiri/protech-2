@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Kampala: Complete Guide'
-description: Everything you need to know about flights from mombasa to kampala, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to kampala, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-kampala
-primary_keyword: flights from mombasa to kampala
+primary_keyword: 'flights from mombasa to kampala'
 secondary_keywords:
-- emirates holidays kenya safari
-- emirates kenya
-- 6 emirates
-- ethiopian airlines arrival nairobi
-- ethiopian airlines from nairobi to doha price today
+- 'emirates holidays kenya safari'
+- 'emirates kenya'
+- '6 emirates'
+- 'ethiopian airlines arrival nairobi'
+- 'ethiopian airlines from nairobi to doha price today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

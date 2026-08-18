@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways Nairobi Number: Complete Guide'
-description: Everything you need to know about qatar airways nairobi number, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways nairobi number, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-nairobi-number
-primary_keyword: qatar airways nairobi number
+primary_keyword: 'qatar airways nairobi number'
 secondary_keywords:
-- emirates flight 835
-- flight price from nairobi to qatar
-- qatar airways booking nairobi
-- does qatar airways fly to uae
-- qatar airways nairobi office
+- 'emirates flight 835'
+- 'flight price from nairobi to qatar'
+- 'qatar airways booking nairobi'
+- 'does qatar airways fly to uae'
+- 'qatar airways nairobi office'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

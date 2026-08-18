@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Kansas City to Nairobi Kenya: Complete Guide'
-description: Everything you need to know about cheap flights from kansas city to nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from kansas city to nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-kansas-city-to-nairobi-kenya
-primary_keyword: cheap flights from kansas city to nairobi kenya
+primary_keyword: 'cheap flights from kansas city to nairobi kenya'
 secondary_keywords:
-- ottawa to nairobi flights
-- dar to nairobi flights price
-- flights nairobi to rome
-- flights nairobi to seronera
-- flights from toronto to nairobi
+- 'ottawa to nairobi flights'
+- 'dar to nairobi flights price'
+- 'flights nairobi to rome'
+- 'flights nairobi to seronera'
+- 'flights from toronto to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

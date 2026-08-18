@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight from Nairobi to Dubai Yesterday: Complete Guide'
-description: Everything you need to know about emirates flight from nairobi to dubai yesterday, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight from nairobi to dubai yesterday, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-from-nairobi-to-dubai-yesterday
-primary_keyword: emirates flight from nairobi to dubai yesterday
+primary_keyword: 'emirates flight from nairobi to dubai yesterday'
 secondary_keywords:
-- kenya airways flights from accra to freetown
-- kq flight from dubai to nairobi today timetable
-- kq flight from jfk to nairobi
-- kq airline online check in
-- kq 305
+- 'kenya airways flights from accra to freetown'
+- 'kq flight from dubai to nairobi today timetable'
+- 'kq flight from jfk to nairobi'
+- 'kq airline online check in'
+- 'kq 305'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

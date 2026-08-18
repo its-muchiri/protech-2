@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Addis to Nairobi Schedule: Complete Guide'
-description: Everything you need to know about ethiopian airlines addis to nairobi schedule, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines addis to nairobi schedule, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-addis-to-nairobi-schedule
-primary_keyword: ethiopian airlines addis to nairobi schedule
+primary_keyword: 'ethiopian airlines addis to nairobi schedule'
 secondary_keywords:
-- flights from nairobi to voi
-- flights from nairobi to winnipeg
-- flights from nairobi kenya to new york ny
-- how much is flight from nairobi to mombasa
-- flights from nairobi to cairo egypt
+- 'flights from nairobi to voi'
+- 'flights from nairobi to winnipeg'
+- 'flights from nairobi kenya to new york ny'
+- 'how much is flight from nairobi to mombasa'
+- 'flights from nairobi to cairo egypt'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from Nairobi to Usa: Complete Guide'
-description: Everything you need to know about kenya airways flight from nairobi to usa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from nairobi to usa, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-nairobi-to-usa
-primary_keyword: kenya airways flight from nairobi to usa
+primary_keyword: 'kenya airways flight from nairobi to usa'
 secondary_keywords:
-- emirates flights kenya
-- emirates kenya office
-- 1 uae dirham to kenyan shillings
-- ethiopian airlines nairobi airport office
-- cheap flights from nairobi to egypt
+- 'emirates flights kenya'
+- 'emirates kenya office'
+- '1 uae dirham to kenyan shillings'
+- 'ethiopian airlines nairobi airport office'
+- 'cheap flights from nairobi to egypt'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

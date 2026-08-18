@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Zurich to Nairobi: Complete Guide'
-description: Everything you need to know about flight from zurich to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from zurich to nairobi, including routes, airlines, booking tips, and fares.'
 slug: flight-from-zurich-to-nairobi
-primary_keyword: flight from zurich to nairobi
+primary_keyword: 'flight from zurich to nairobi'
 secondary_keywords:
-- flights from or tambo to kenya
-- flights from philadelphia to nairobi kenya
-- cheap flights from qatar to kenya
-- flights from rome to kenya
-- cheapest flights from saudi arabia to kenya
+- 'flights from or tambo to kenya'
+- 'flights from philadelphia to nairobi kenya'
+- 'cheap flights from qatar to kenya'
+- 'flights from rome to kenya'
+- 'cheapest flights from saudi arabia to kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

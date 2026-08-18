@@ -1,14 +1,14 @@
 ---
 title: 'Kq 625 Flight Status: Complete Guide'
-description: Everything you need to know about kq 625 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 625 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq-625-flight-status
-primary_keyword: kq 625 flight status
+primary_keyword: 'kq 625 flight status'
 secondary_keywords:
-- ethiopian airlines flights from nairobi to dubai
-- flights from frankfurt to nairobi
-- cheap flights from nairobi to guangzhou
-- cheap flights from nairobi to london heathrow
-- flights from nairobi to johannesburg
+- 'ethiopian airlines flights from nairobi to dubai'
+- 'flights from frankfurt to nairobi'
+- 'cheap flights from nairobi to guangzhou'
+- 'cheap flights from nairobi to london heathrow'
+- 'flights from nairobi to johannesburg'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

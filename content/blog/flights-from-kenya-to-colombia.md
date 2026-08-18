@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Colombia: Complete Guide'
-description: Everything you need to know about flights from kenya to colombia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to colombia, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-colombia
-primary_keyword: flights from kenya to colombia
+primary_keyword: 'flights from kenya to colombia'
 secondary_keywords:
-- emirates flights from ewr
-- emirates flights for dubai
-- emirates flights from geneva to dubai
-- emirates flights from hyderabad to dallas
-- emirates flights from islamabad to dubai
+- 'emirates flights from ewr'
+- 'emirates flights for dubai'
+- 'emirates flights from geneva to dubai'
+- 'emirates flights from hyderabad to dallas'
+- 'emirates flights from islamabad to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

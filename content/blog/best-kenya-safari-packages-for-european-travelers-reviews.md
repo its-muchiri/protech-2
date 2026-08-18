@@ -1,14 +1,14 @@
 ---
 title: 'Best Kenya Safari Packages for European Travelers Reviews: Complete Guide'
-description: Kenya safari guide covering best kenya safari packages for european travelers reviews, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering best kenya safari packages for european travelers reviews, including what is included, pricing, and booking advice.'
 slug: best-kenya-safari-packages-for-european-travelers-reviews
-primary_keyword: Best Kenya safari packages for European travelers reviews
+primary_keyword: 'Best Kenya safari packages for European travelers reviews'
 secondary_keywords:
-- Best place to see  Kenya
-- Fly Nairobi to Masai Mara safari
-- Kenya safari green season
-- Off-season Kenya safari
-- Kenya safari agent
+- 'Best place to see  Kenya'
+- 'Fly Nairobi to Masai Mara safari'
+- 'Kenya safari green season'
+- 'Off-season Kenya safari'
+- 'Kenya safari agent'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

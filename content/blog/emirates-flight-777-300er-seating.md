@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 777 300er Seating: Complete Guide'
-description: Everything you need to know about emirates flight 777 300er seating, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 777 300er seating, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-777-300er-seating
-primary_keyword: emirates flight 777 300er seating
+primary_keyword: 'emirates flight 777 300er seating'
 secondary_keywords:
-- flight times to kenya
-- flight booking to kenya
-- buupass online booking kenya to nairobi
-- flight check in kenya airways
-- flights to kenya business class
+- 'flight times to kenya'
+- 'flight booking to kenya'
+- 'buupass online booking kenya to nairobi'
+- 'flight check in kenya airways'
+- 'flights to kenya business class'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

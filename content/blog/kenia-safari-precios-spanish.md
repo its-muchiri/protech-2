@@ -1,14 +1,14 @@
 ---
 title: 'Kenia Safari Precios (Spanish): Complete Guide'
-description: Kenya safari guide covering kenia safari precios (spanish), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenia safari precios (spanish), including what is included, pricing, and booking advice.'
 slug: kenia-safari-precios-spanish
-primary_keyword: Kenia safari precios (Spanish)
+primary_keyword: 'Kenia safari precios (Spanish)'
 secondary_keywords:
-- Kenya safari tour cost comparison
-- Kenya safari package with private vehicle buy
-- Buy luxury Kenya safari
-- Cost of 10 day family Kenya Tanzania safari package
-- Book 3 day Nairobi National Park Amboseli express package
+- 'Kenya safari tour cost comparison'
+- 'Kenya safari package with private vehicle buy'
+- 'Buy luxury Kenya safari'
+- 'Cost of 10 day family Kenya Tanzania safari package'
+- 'Book 3 day Nairobi National Park Amboseli express package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

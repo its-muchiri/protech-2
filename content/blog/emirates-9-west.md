@@ -1,14 +1,14 @@
 ---
 title: 'Emirates 9 West: Complete Guide'
-description: Everything you need to know about emirates 9 west, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates 9 west, including routes, airlines, booking tips, and fares.'
 slug: emirates-9-west
-primary_keyword: emirates 9 west
+primary_keyword: 'emirates 9 west'
 secondary_keywords:
-- emirates flights from istanbul to dubai
-- emirates flights from johannesburg to auckland
-- flights from karachi to dubai united arab emirates
-- emirates flights from melbourne
-- emirates flights to uk from nz
+- 'emirates flights from istanbul to dubai'
+- 'emirates flights from johannesburg to auckland'
+- 'flights from karachi to dubai united arab emirates'
+- 'emirates flights from melbourne'
+- 'emirates flights to uk from nz'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

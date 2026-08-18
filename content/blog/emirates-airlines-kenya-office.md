@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Airlines Kenya Office: Complete Guide'
-description: Everything you need to know about emirates airlines kenya office, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates airlines kenya office, including routes, airlines, booking tips, and fares.'
 slug: emirates-airlines-kenya-office
-primary_keyword: emirates airlines kenya office
+primary_keyword: 'emirates airlines kenya office'
 secondary_keywords:
-- cheap flights from nairobi
-- air arabia flights from nairobi to dubai
-- ba flights from nairobi to heathrow today
-- flights from nairobi to cape verde
-- flights from nairobi to dallas texas
+- 'cheap flights from nairobi'
+- 'air arabia flights from nairobi to dubai'
+- 'ba flights from nairobi to heathrow today'
+- 'flights from nairobi to cape verde'
+- 'flights from nairobi to dallas texas'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

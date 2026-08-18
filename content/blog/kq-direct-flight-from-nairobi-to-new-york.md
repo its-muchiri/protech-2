@@ -1,14 +1,14 @@
 ---
 title: 'Kq Direct Flight from Nairobi to New York: Complete Guide'
-description: Everything you need to know about kq direct flight from nairobi to new york, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq direct flight from nairobi to new york, including routes, airlines, booking tips, and fares.'
 slug: kq-direct-flight-from-nairobi-to-new-york
-primary_keyword: kq direct flight from nairobi to new york
+primary_keyword: 'kq direct flight from nairobi to new york'
 secondary_keywords:
-- flights to kenya from ottawa
-- flights from kenya to philippines
-- flight from kenya to qatar time
-- flights to kenya from rdu
-- singapore flights from kenya
+- 'flights to kenya from ottawa'
+- 'flights from kenya to philippines'
+- 'flight from kenya to qatar time'
+- 'flights to kenya from rdu'
+- 'singapore flights from kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

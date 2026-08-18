@@ -1,14 +1,14 @@
 ---
 title: 'KATO Registered Tour Operators List: Complete Guide'
-description: Kenya safari guide covering kato registered tour operators list, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kato registered tour operators list, including what is included, pricing, and booking advice.'
 slug: kato-registered-tour-operators-list
-primary_keyword: KATO registered tour operators list
+primary_keyword: 'KATO registered tour operators list'
 secondary_keywords:
-- Local Kenya safari operators
-- Accessible Kenya safari
-- Wellness safari Kenya
-- Internet access Kenya safari
-- Luxury family safari Kenya Christmas
+- 'Local Kenya safari operators'
+- 'Accessible Kenya safari'
+- 'Wellness safari Kenya'
+- 'Internet access Kenya safari'
+- 'Luxury family safari Kenya Christmas'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

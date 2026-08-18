@@ -1,14 +1,14 @@
 ---
 title: 'Flights Brussels Mombasa: Complete Guide'
-description: Everything you need to know about flights brussels mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights brussels mombasa, including routes, airlines, booking tips, and fares.'
 slug: flights-brussels-mombasa
-primary_keyword: flights brussels mombasa
+primary_keyword: 'flights brussels mombasa'
 secondary_keywords:
-- kq 256 flight status
-- flight kq 3
-- kq 509 flight status
-- kq flights to kampala
-- emirates flights from dubai to nairobi today
+- 'kq 256 flight status'
+- 'flight kq 3'
+- 'kq 509 flight status'
+- 'kq flights to kampala'
+- 'emirates flights from dubai to nairobi today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

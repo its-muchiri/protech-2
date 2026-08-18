@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Bangkok Thailand: Complete Guide'
-description: Everything you need to know about flights from nairobi to bangkok thailand, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to bangkok thailand, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-bangkok-thailand
-primary_keyword: flights from nairobi to bangkok thailand
+primary_keyword: 'flights from nairobi to bangkok thailand'
 secondary_keywords:
-- flights to kenya from melbourne
-- flight from kenya to ontario canada
-- flights from kenya to perth
-- flights from paris to kenya
-- flight from kenya to rwanda price
+- 'flights to kenya from melbourne'
+- 'flight from kenya to ontario canada'
+- 'flights from kenya to perth'
+- 'flights from paris to kenya'
+- 'flight from kenya to rwanda price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

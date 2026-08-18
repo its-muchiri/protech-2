@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Nairobi to Istanbul Today: Complete Guide'
-description: Everything you need to know about turkish airlines nairobi to istanbul today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines nairobi to istanbul today, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-nairobi-to-istanbul-today
-primary_keyword: turkish airlines nairobi to istanbul today
+primary_keyword: 'turkish airlines nairobi to istanbul today'
 secondary_keywords:
-- 3 bedroom houses for rent in nairobi
-- emirates flights from australia
-- emirates flights from bangalore to dubai
-- emirates flights from cairo to dubai
-- emirates flights from dubai to manchester today
+- '3 bedroom houses for rent in nairobi'
+- 'emirates flights from australia'
+- 'emirates flights from bangalore to dubai'
+- 'emirates flights from cairo to dubai'
+- 'emirates flights from dubai to manchester today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Cheapest Flights to Mombasa from London Heathrow: Complete Guide'
-description: Everything you need to know about cheapest flights to mombasa from london heathrow, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheapest flights to mombasa from london heathrow, including routes, airlines, booking tips, and fares.'
 slug: cheapest-flights-to-mombasa-from-london-heathrow
-primary_keyword: cheapest flights to mombasa from london heathrow
+primary_keyword: 'cheapest flights to mombasa from london heathrow'
 secondary_keywords:
-- does qatar airways fly to hong kong
-- qatar airways flight schedule from nairobi to doha price
-- kq flights from south africa
-- kenya airways flights from dubai to nairobi
-- kq flight from jfk to nbo
+- 'does qatar airways fly to hong kong'
+- 'qatar airways flight schedule from nairobi to doha price'
+- 'kq flights from south africa'
+- 'kenya airways flights from dubai to nairobi'
+- 'kq flight from jfk to nbo'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

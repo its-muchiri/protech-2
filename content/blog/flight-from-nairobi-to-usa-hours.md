@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Usa Hours: Complete Guide'
-description: Everything you need to know about flight from nairobi to usa hours, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to usa hours, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-usa-hours
-primary_keyword: flight from nairobi to usa hours
+primary_keyword: 'flight from nairobi to usa hours'
 secondary_keywords:
-- kq flights from south africa today
-- kq online booking domestic flights
-- kq flights to cape town
-- kq flight dubai to nairobi
-- kq flights from kigali to nairobi
+- 'kq flights from south africa today'
+- 'kq online booking domestic flights'
+- 'kq flights to cape town'
+- 'kq flight dubai to nairobi'
+- 'kq flights from kigali to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

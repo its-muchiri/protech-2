@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Flight Schedule from Nairobi: Complete Guide'
-description: Everything you need to know about ethiopian airlines flight schedule from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines flight schedule from nairobi, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-flight-schedule-from-nairobi
-primary_keyword: ethiopian airlines flight schedule from nairobi
+primary_keyword: 'ethiopian airlines flight schedule from nairobi'
 secondary_keywords:
-- emirates fare from nairobi to dubai
-- nairobi to ethiopia flight time
-- ethiopian airlines in nairobi
-- ethiopian airlines nairobi office contacts whatsapp number
-- how much is flight from kenya to ethiopia
+- 'emirates fare from nairobi to dubai'
+- 'nairobi to ethiopia flight time'
+- 'ethiopian airlines in nairobi'
+- 'ethiopian airlines nairobi office contacts whatsapp number'
+- 'how much is flight from kenya to ethiopia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

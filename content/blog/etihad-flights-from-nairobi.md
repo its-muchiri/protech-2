@@ -1,14 +1,14 @@
 ---
 title: 'Etihad Flights from Nairobi: Complete Guide'
-description: Everything you need to know about etihad flights from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about etihad flights from nairobi, including routes, airlines, booking tips, and fares.'
 slug: etihad-flights-from-nairobi
-primary_keyword: etihad flights from nairobi
+primary_keyword: 'etihad flights from nairobi'
 secondary_keywords:
-- flights from nairobi to eldoret kenya
-- flights from frankfurt to nairobi
-- cheap flights from nairobi to guangzhou
-- cheap flights from nairobi to london heathrow
-- flights from nairobi to johannesburg
+- 'flights from nairobi to eldoret kenya'
+- 'flights from frankfurt to nairobi'
+- 'cheap flights from nairobi to guangzhou'
+- 'cheap flights from nairobi to london heathrow'
+- 'flights from nairobi to johannesburg'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

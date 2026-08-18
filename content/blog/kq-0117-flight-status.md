@@ -1,14 +1,14 @@
 ---
 title: 'Kq 0117 Flight Status: Complete Guide'
-description: Everything you need to know about kq 0117 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 0117 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq-0117-flight-status
-primary_keyword: kq 0117 flight status
+primary_keyword: 'kq 0117 flight status'
 secondary_keywords:
-- flights to kenya from boston
-- cheap flights from kenya to dubai
-- flights from kenya to ethiopia
-- flights to ethiopia from kenya
-- flights from kenya to ghana
+- 'flights to kenya from boston'
+- 'cheap flights from kenya to dubai'
+- 'flights from kenya to ethiopia'
+- 'flights to ethiopia from kenya'
+- 'flights from kenya to ghana'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

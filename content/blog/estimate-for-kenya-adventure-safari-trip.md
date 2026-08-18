@@ -1,14 +1,14 @@
 ---
 title: 'Estimate for Kenya Adventure Safari Trip: Complete Guide'
-description: Kenya safari guide covering estimate for kenya adventure safari trip, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering estimate for kenya adventure safari trip, including what is included, pricing, and booking advice.'
 slug: estimate-for-kenya-adventure-safari-trip
-primary_keyword: Estimate for Kenya adventure safari trip
+primary_keyword: 'Estimate for Kenya adventure safari trip'
 secondary_keywords:
-- Cross border safari Kenya and Tanzania Serengeti / Ngorongoro combined tour operators
-- Purchase fly-in safari Kenya Masai Mara online USA
-- Affordable Kenya safari packages USA budget friendly
-- Kenya safari package quote request form
-- Cultural safari tours Kenya booking Europe Maasai village
+- 'Cross border safari Kenya and Tanzania Serengeti / Ngorongoro combined tour operators'
+- 'Purchase fly-in safari Kenya Masai Mara online USA'
+- 'Affordable Kenya safari packages USA budget friendly'
+- 'Kenya safari package quote request form'
+- 'Cultural safari tours Kenya booking Europe Maasai village'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

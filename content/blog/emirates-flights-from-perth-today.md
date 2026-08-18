@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Perth Today: Complete Guide'
-description: Everything you need to know about emirates flights from perth today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from perth today, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-perth-today
-primary_keyword: emirates flights from perth today
+primary_keyword: 'emirates flights from perth today'
 secondary_keywords:
-- kq airline full form
-- kq flight from kinshasa to nairobi
-- kenya airways flights from usa to nairobi today
-- kq flight from nairobi
-- kq flight from cape town to nairobi
+- 'kq airline full form'
+- 'kq flight from kinshasa to nairobi'
+- 'kenya airways flights from usa to nairobi today'
+- 'kq flight from nairobi'
+- 'kq flight from cape town to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

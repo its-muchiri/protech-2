@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight 431 Survivors: Complete Guide'
-description: Everything you need to know about kenya airways flight 431 survivors, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight 431 survivors, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-431-survivors
-primary_keyword: kenya airways flight 431 survivors
+primary_keyword: 'kenya airways flight 431 survivors'
 secondary_keywords:
-- kq flights from kisumu to nairobi
-- flights from kisumu to kampala
-- flights from entebbe uganda to kisumu kenya
-- flights from london to kisumu kenya
-- flight from kisumu to maasai mara
+- 'kq flights from kisumu to nairobi'
+- 'flights from kisumu to kampala'
+- 'flights from entebbe uganda to kisumu kenya'
+- 'flights from london to kisumu kenya'
+- 'flight from kisumu to maasai mara'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

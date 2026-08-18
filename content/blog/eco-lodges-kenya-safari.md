@@ -1,14 +1,14 @@
 ---
 title: 'Eco Lodges Kenya Safari: Complete Guide'
-description: Kenya safari guide covering eco lodges kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering eco lodges kenya safari, including what is included, pricing, and booking advice.'
 slug: eco-lodges-kenya-safari
-primary_keyword: Eco lodges Kenya safari
+primary_keyword: 'Eco lodges Kenya safari'
 secondary_keywords:
-- Buy 12 day luxury Kenya Uganda gorilla package
-- Reserve 11 day Kenya safari and beach Zanzibar package
-- Book 10 day safari package with hot air balloon included cost
-- Buy 3 day Amboseli fly-in package from Nairobi cost
-- Get itinerary and cost 8 day Kenya private safari
+- 'Buy 12 day luxury Kenya Uganda gorilla package'
+- 'Reserve 11 day Kenya safari and beach Zanzibar package'
+- 'Book 10 day safari package with hot air balloon included cost'
+- 'Buy 3 day Amboseli fly-in package from Nairobi cost'
+- 'Get itinerary and cost 8 day Kenya private safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

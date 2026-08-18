@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 612 Status: Complete Guide'
-description: Everything you need to know about emirates flight 612 status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 612 status, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-612-status
-primary_keyword: emirates flight 612 status
+primary_keyword: 'emirates flight 612 status'
 secondary_keywords:
-- flights nairobi to ukunda
-- fly nairobi to vipingo
-- nairobi to washington dc flights
-- nairobi to zanzibar flights
-- 2 bedroom apartments in nairobi for sale
+- 'flights nairobi to ukunda'
+- 'fly nairobi to vipingo'
+- 'nairobi to washington dc flights'
+- 'nairobi to zanzibar flights'
+- '2 bedroom apartments in nairobi for sale'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

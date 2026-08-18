@@ -1,14 +1,14 @@
 ---
 title: '540 Flight from Nairobi to Lodwar Ticket Price: Complete Guide'
-description: Everything you need to know about 540 flight from nairobi to lodwar ticket price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about 540 flight from nairobi to lodwar ticket price, including routes, airlines, booking tips, and fares.'
 slug: 540-flight-from-nairobi-to-lodwar-ticket-price
-primary_keyword: 540 flight from nairobi to lodwar ticket price
+primary_keyword: '540 flight from nairobi to lodwar ticket price'
 secondary_keywords:
-- flight yaounde to nairobi
-- flight from zurich to nairobi
-- fly 48
-- 540 flight from nairobi to lodwar today
-- turkish airlines flight from istanbul to nairobi
+- 'flight yaounde to nairobi'
+- 'flight from zurich to nairobi'
+- 'fly 48'
+- '540 flight from nairobi to lodwar today'
+- 'turkish airlines flight from istanbul to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

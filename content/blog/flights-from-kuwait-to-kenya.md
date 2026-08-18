@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kuwait to Kenya: Complete Guide'
-description: Everything you need to know about flights from kuwait to kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kuwait to kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kuwait-to-kenya
-primary_keyword: flights from kuwait to kenya
+primary_keyword: 'flights from kuwait to kenya'
 secondary_keywords:
-- emirates ek 8
-- how long is flight from nairobi to qatar
-- does qatar airways fly direct to toronto
-- qatar airways frankfurt nairobi
-- qatar airways nairobi office contacts
+- 'emirates ek 8'
+- 'how long is flight from nairobi to qatar'
+- 'does qatar airways fly direct to toronto'
+- 'qatar airways frankfurt nairobi'
+- 'qatar airways nairobi office contacts'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

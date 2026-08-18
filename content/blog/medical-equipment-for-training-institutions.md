@@ -1,14 +1,14 @@
 ---
 title: 'Medical Equipment for Training Institutions: 2026 Price Guide'
-description: Kenya buying guide to medical equipment for training institutions. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to medical equipment for training institutions. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: medical-equipment-for-training-institutions
-primary_keyword: Medical equipment for training institutions
+primary_keyword: 'Medical equipment for training institutions'
 secondary_keywords:
-- temperature loggers medical Kenya
-- surgical thread Kenya
-- plastic test tubes Kenya
-- urology supplies Kenya
-- foldable wheelchair Kenya
+- 'temperature loggers medical Kenya'
+- 'surgical thread Kenya'
+- 'plastic test tubes Kenya'
+- 'urology supplies Kenya'
+- 'foldable wheelchair Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

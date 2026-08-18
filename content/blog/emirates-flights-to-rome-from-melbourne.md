@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights to Rome from Melbourne: Complete Guide'
-description: Everything you need to know about emirates flights to rome from melbourne, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights to rome from melbourne, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-to-rome-from-melbourne
-primary_keyword: emirates flights to rome from melbourne
+primary_keyword: 'emirates flights to rome from melbourne'
 secondary_keywords:
-- qatar airways flight schedule from nairobi to doha
-- qatar airways from nairobi to dubai
-- qatar airways recruitment nairobi kenya
-- qatar airways nairobi project
-- kenya airways flights from accra to freetown
+- 'qatar airways flight schedule from nairobi to doha'
+- 'qatar airways from nairobi to dubai'
+- 'qatar airways recruitment nairobi kenya'
+- 'qatar airways nairobi project'
+- 'kenya airways flights from accra to freetown'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

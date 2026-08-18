@@ -1,14 +1,14 @@
 ---
 title: 'Honeymoon Kenya Holiday Package Deal Reserve: Complete Guide'
-description: Kenya safari guide covering honeymoon kenya holiday package deal reserve, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering honeymoon kenya holiday package deal reserve, including what is included, pricing, and booking advice.'
 slug: honeymoon-kenya-holiday-package-deal-reserve
-primary_keyword: Honeymoon Kenya holiday package deal reserve
+primary_keyword: 'Honeymoon Kenya holiday package deal reserve'
 secondary_keywords:
-- Best Masai Mara safari package operator
-- Top luxury safari camps Kenya package
-- All-inclusive family safari Kenya buy
-- Low cost Kenya safari holiday booking
-- Book Kenya Tanzania safari package
+- 'Best Masai Mara safari package operator'
+- 'Top luxury safari camps Kenya package'
+- 'All-inclusive family safari Kenya buy'
+- 'Low cost Kenya safari holiday booking'
+- 'Book Kenya Tanzania safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Aberdares National Park Treetop Hotel Tours: Complete Guide'
-description: Kenya safari guide covering aberdares national park treetop hotel tours, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering aberdares national park treetop hotel tours, including what is included, pricing, and booking advice.'
 slug: aberdares-national-park-treetop-hotel-tours
-primary_keyword: Aberdares National Park treetop hotel tours
+primary_keyword: 'Aberdares National Park treetop hotel tours'
 secondary_keywords:
-- Book Tsavo safari deal
-- 3 day Kenya safari package deal
-- 4 day Lake Nakuru Masai Mara package booking
-- Tsavo budget camping safari package buy
-- Angama Mara safari package cost
+- 'Book Tsavo safari deal'
+- '3 day Kenya safari package deal'
+- '4 day Lake Nakuru Masai Mara package booking'
+- 'Tsavo budget camping safari package buy'
+- 'Angama Mara safari package cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from Kisumu to Nairobi Today: Complete Guide'
-description: Everything you need to know about kq flights from kisumu to nairobi today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from kisumu to nairobi today, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-kisumu-to-nairobi-today
-primary_keyword: kq flights from kisumu to nairobi today
+primary_keyword: 'kq flights from kisumu to nairobi today'
 secondary_keywords:
-- flights from kenya to qatar today
-- flight from kenya to romania price
-- flights from kenya to switzerland
-- flights from kenya to uk tomorrow
-- flights to vietnam from kenya
+- 'flights from kenya to qatar today'
+- 'flight from kenya to romania price'
+- 'flights from kenya to switzerland'
+- 'flights from kenya to uk tomorrow'
+- 'flights to vietnam from kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

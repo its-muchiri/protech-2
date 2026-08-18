@@ -1,14 +1,14 @@
 ---
 title: '£5 to Kenyan Shillings: Complete Guide'
-description: Everything you need to know about £5 to kenyan shillings, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about £5 to kenyan shillings, including routes, airlines, booking tips, and fares.'
 slug: 5-to-kenyan-shillings
-primary_keyword: £5 to kenyan shillings
+primary_keyword: '£5 to kenyan shillings'
 secondary_keywords:
-- turkish airlines nairobi istanbul
-- flight tickets in kenya
-- flight times to kenya
-- flight booking to kenya
-- buupass online booking kenya to nairobi
+- 'turkish airlines nairobi istanbul'
+- 'flight tickets in kenya'
+- 'flight times to kenya'
+- 'flight booking to kenya'
+- 'buupass online booking kenya to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

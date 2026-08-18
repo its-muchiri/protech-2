@@ -1,14 +1,14 @@
 ---
 title: 'Camel Safari Samburu / Laikipia Operators: Complete Guide'
-description: Kenya safari guide covering camel safari samburu / laikipia operators, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering camel safari samburu / laikipia operators, including what is included, pricing, and booking advice.'
 slug: camel-safari-samburu-laikipia-operators
-primary_keyword: Camel safari Samburu / Laikipia operators
+primary_keyword: 'Camel safari Samburu / Laikipia operators'
 secondary_keywords:
-- Samburu Mount Kenya safari package price
-- New Year Kenya safari tour booking
-- ATOL protected Kenya safari package book
-- Top rated Kenya safari packages booking
-- Luxury lodge full board package Kenya book
+- 'Samburu Mount Kenya safari package price'
+- 'New Year Kenya safari tour booking'
+- 'ATOL protected Kenya safari package book'
+- 'Top rated Kenya safari packages booking'
+- 'Luxury lodge full board package Kenya book'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

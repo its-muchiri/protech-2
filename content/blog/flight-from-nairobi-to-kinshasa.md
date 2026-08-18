@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Kinshasa: Complete Guide'
-description: Everything you need to know about flight from nairobi to kinshasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to kinshasa, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-kinshasa
-primary_keyword: flight from nairobi to kinshasa
+primary_keyword: 'flight from nairobi to kinshasa'
 secondary_keywords:
-- ba flight from nairobi to london
-- flight from nairobi to comoros
-- flight from nairobi to dublin
-- flight from nairobi to frankfurt
-- flight from nairobi to ghana
+- 'ba flight from nairobi to london'
+- 'flight from nairobi to comoros'
+- 'flight from nairobi to dublin'
+- 'flight from nairobi to frankfurt'
+- 'flight from nairobi to ghana'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

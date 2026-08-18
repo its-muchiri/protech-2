@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 977: Complete Guide'
-description: Everything you need to know about emirates flight 977, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 977, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-977
-primary_keyword: emirates flight 977
+primary_keyword: 'emirates flight 977'
 secondary_keywords:
-- emirates flight destinations list
-- emirates ek 3
-- emirates flight 500
-- emirates flight 764
-- emirates flight 803
+- 'emirates flight destinations list'
+- 'emirates ek 3'
+- 'emirates flight 500'
+- 'emirates flight 764'
+- 'emirates flight 803'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

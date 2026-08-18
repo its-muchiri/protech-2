@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Holiday Offers Europe Early Booking: Complete Guide'
-description: Kenya safari guide covering kenya safari holiday offers europe early booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari holiday offers europe early booking, including what is included, pricing, and booking advice.'
 slug: kenya-safari-holiday-offers-europe-early-booking
-primary_keyword: Kenya safari holiday offers Europe early booking
+primary_keyword: 'Kenya safari holiday offers Europe early booking'
 secondary_keywords:
-- Twiga Tours Kenya reviews
-- Travel insurance for Kenya safari World Nomads / SafetyWing review
-- Avoid safari scams Kenya warning signs
-- Fishing safari Lake Turkana / Lake Victoria Nile Perch
-- Book Kenya safari tour online UK
+- 'Twiga Tours Kenya reviews'
+- 'Travel insurance for Kenya safari World Nomads / SafetyWing review'
+- 'Avoid safari scams Kenya warning signs'
+- 'Fishing safari Lake Turkana / Lake Victoria Nile Perch'
+- 'Book Kenya safari tour online UK'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'What Is the Best Kenya Safari: Complete Guide'
-description: Kenya safari guide covering what is the best kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering what is the best kenya safari, including what is included, pricing, and booking advice.'
 slug: what-is-the-best-kenya-safari
-primary_keyword: What is the best Kenya safari
+primary_keyword: 'What is the best Kenya safari'
 secondary_keywords:
-- Tsavo West safari
-- Masai Mara conservancy safari
-- Honeymoon Kenya safari
-- Group Kenya safari
-- Short Kenya safari
+- 'Tsavo West safari'
+- 'Masai Mara conservancy safari'
+- 'Honeymoon Kenya safari'
+- 'Group Kenya safari'
+- 'Short Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

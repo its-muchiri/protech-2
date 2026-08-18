@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Direct Flights from Dubai to Usa: Complete Guide'
-description: Everything you need to know about emirates direct flights from dubai to usa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates direct flights from dubai to usa, including routes, airlines, booking tips, and fares.'
 slug: emirates-direct-flights-from-dubai-to-usa
-primary_keyword: emirates direct flights from dubai to usa
+primary_keyword: 'emirates direct flights from dubai to usa'
 secondary_keywords:
-- kq flights to seychelles
-- kq flights to new york
-- flight kq101
-- kq 257 flight status
-- kq flight 431
+- 'kq flights to seychelles'
+- 'kq flights to new york'
+- 'flight kq101'
+- 'kq 257 flight status'
+- 'kq flight 431'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

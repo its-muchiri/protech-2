@@ -1,14 +1,14 @@
 ---
 title: 'Secure 10 Day Kenya Tanzania Combined Tour: Complete Guide'
-description: Kenya safari guide covering secure 10 day kenya tanzania combined tour, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering secure 10 day kenya tanzania combined tour, including what is included, pricing, and booking advice.'
 slug: secure-10-day-kenya-tanzania-combined-tour
-primary_keyword: Secure 10 day Kenya Tanzania combined tour
+primary_keyword: 'Secure 10 day Kenya Tanzania combined tour'
 secondary_keywords:
-- Buy 6 day fly-in Masai Mara honeymoon package luxury camp
-- Book 3 day express Masai Mara fly-in package deal
-- Get quote 7 day fly-in safari Lewa Conservancy package
-- Reserve 9 day honeymoon hideaway safari beach package
-- Pre-book migration safari package Kenya July
+- 'Buy 6 day fly-in Masai Mara honeymoon package luxury camp'
+- 'Book 3 day express Masai Mara fly-in package deal'
+- 'Get quote 7 day fly-in safari Lewa Conservancy package'
+- 'Reserve 9 day honeymoon hideaway safari beach package'
+- 'Pre-book migration safari package Kenya July'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 730: Complete Guide'
-description: Everything you need to know about emirates flight 730, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 730, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-730
-primary_keyword: emirates flight 730
+primary_keyword: 'emirates flight 730'
 secondary_keywords:
-- flights from nairobi to entebbe
-- emirates flights from nairobi to usa
-- flights from nairobi to gaborone
-- flights from nairobi to hargeisa
-- flights from nairobi to kilimanjaro international airport
+- 'flights from nairobi to entebbe'
+- 'emirates flights from nairobi to usa'
+- 'flights from nairobi to gaborone'
+- 'flights from nairobi to hargeisa'
+- 'flights from nairobi to kilimanjaro international airport'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

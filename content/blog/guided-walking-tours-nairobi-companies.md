@@ -1,14 +1,14 @@
 ---
 title: 'Guided Walking Tours Nairobi Companies: Complete Guide'
-description: Kenya safari guide covering guided walking tours nairobi companies, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering guided walking tours nairobi companies, including what is included, pricing, and booking advice.'
 slug: guided-walking-tours-nairobi-companies
-primary_keyword: Guided walking tours Nairobi companies
+primary_keyword: 'Guided walking tours Nairobi companies'
 secondary_keywords:
-- Kenya safari cost per day estimate
-- Nairobi based safari companies contact
-- Kenya tours for solo female travelers safety
-- Luxury family fly-in safari Laikipia Ol Pejeta combo
-- Tour company offering airport pickup JKIA direct to Mara
+- 'Kenya safari cost per day estimate'
+- 'Nairobi based safari companies contact'
+- 'Kenya tours for solo female travelers safety'
+- 'Luxury family fly-in safari Laikipia Ol Pejeta combo'
+- 'Tour company offering airport pickup JKIA direct to Mara'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

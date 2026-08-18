@@ -1,14 +1,14 @@
 ---
 title: 'Fly-in Kenya Safari: Complete Guide'
-description: Kenya safari guide covering fly-in kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering fly-in kenya safari, including what is included, pricing, and booking advice.'
 slug: fly-in-kenya-safari
-primary_keyword: Fly-in Kenya safari
+primary_keyword: 'Fly-in Kenya safari'
 secondary_keywords:
-- Confirmed itinerary cost 7 day Masai Mara booking
-- Reserve accessible safari package Kenya quote needed
-- Buy 6 day Mara Engai Wilderness Lodge package deal
-- Secure 10 day luxury bespoke safari package Kenya operator
-- Buy wellness and yoga safari retreat package Kenya book
+- 'Confirmed itinerary cost 7 day Masai Mara booking'
+- 'Reserve accessible safari package Kenya quote needed'
+- 'Buy 6 day Mara Engai Wilderness Lodge package deal'
+- 'Secure 10 day luxury bespoke safari package Kenya operator'
+- 'Buy wellness and yoga safari retreat package Kenya book'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights from Nairobi to Addis Ababa Prices: Complete Guide'
-description: Everything you need to know about kenya airways flights from nairobi to addis ababa prices, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights from nairobi to addis ababa prices, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-from-nairobi-to-addis-ababa-prices
-primary_keyword: kenya airways flights from nairobi to addis ababa prices
+primary_keyword: 'kenya airways flights from nairobi to addis ababa prices'
 secondary_keywords:
-- kenya airways flights nairobi to juba
-- kenya airways flight schedule from lusaka to nairobi
-- kenya airways flights from entebbe to nairobi price
-- cheapest flight from nairobi to dubai
-- air india flight from nairobi to delhi
+- 'kenya airways flights nairobi to juba'
+- 'kenya airways flight schedule from lusaka to nairobi'
+- 'kenya airways flights from entebbe to nairobi price'
+- 'cheapest flight from nairobi to dubai'
+- 'air india flight from nairobi to delhi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

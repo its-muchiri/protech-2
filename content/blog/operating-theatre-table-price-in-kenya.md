@@ -1,14 +1,14 @@
 ---
 title: 'Operating Theatre Table Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to operating theatre table price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to operating theatre table price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: operating-theatre-table-price-in-kenya
-primary_keyword: Operating theatre table price in Kenya
+primary_keyword: 'Operating theatre table price in Kenya'
 secondary_keywords:
-- manual BP cuff Kenya
-- electric hospital bed Kenya
-- ventilators Kenya price
-- lab incubator price Kenya
-- medical stretchers Kenya price
+- 'manual BP cuff Kenya'
+- 'electric hospital bed Kenya'
+- 'ventilators Kenya price'
+- 'lab incubator price Kenya'
+- 'medical stretchers Kenya price'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

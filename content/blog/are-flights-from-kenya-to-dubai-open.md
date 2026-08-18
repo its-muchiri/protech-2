@@ -1,14 +1,14 @@
 ---
 title: 'Are Flights from Kenya to Dubai Open: Complete Guide'
-description: Everything you need to know about are flights from kenya to dubai open, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about are flights from kenya to dubai open, including routes, airlines, booking tips, and fares.'
 slug: are-flights-from-kenya-to-dubai-open
-primary_keyword: are flights from kenya to dubai open
+primary_keyword: 'are flights from kenya to dubai open'
 secondary_keywords:
-- flight nairobi to jakarta
-- flights nairobi to kinshasa
-- lusaka to nairobi flights
-- flights nairobi to new york
-- flights to nairobi in october
+- 'flight nairobi to jakarta'
+- 'flights nairobi to kinshasa'
+- 'lusaka to nairobi flights'
+- 'flights nairobi to new york'
+- 'flights to nairobi in october'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

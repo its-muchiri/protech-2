@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Qatar: Complete Guide'
-description: Everything you need to know about flights from kenya to qatar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to qatar, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-qatar
-primary_keyword: flights from kenya to qatar
+primary_keyword: 'flights from kenya to qatar'
 secondary_keywords:
-- flight from nairobi to eswatini
-- flight from nairobi to france
-- cheapest flight from nairobi to atlanta georgia
-- how much is a flight from nairobi to eldoret
-- flight from nairobi to jfk
+- 'flight from nairobi to eswatini'
+- 'flight from nairobi to france'
+- 'cheapest flight from nairobi to atlanta georgia'
+- 'how much is a flight from nairobi to eldoret'
+- 'flight from nairobi to jfk'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

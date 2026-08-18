@@ -1,14 +1,14 @@
 ---
 title: 'Budget Kenya Camping Safari Offers Last Minute: Complete Guide'
-description: Kenya safari guide covering budget kenya camping safari offers last minute, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering budget kenya camping safari offers last minute, including what is included, pricing, and booking advice.'
 slug: budget-kenya-camping-safari-offers-last-minute
-primary_keyword: Budget Kenya camping safari offers last minute
+primary_keyword: 'Budget Kenya camping safari offers last minute'
 secondary_keywords:
-- Kenya safari deals from New York City direct booking
-- Italy (Italia) Kenya safari tour operators price
-- Private safari tour operator Kenya quote custom
-- Masai Mara migration safari availability checker July/August
-- Kenya safari tour reviews SafariBookings UK users
+- 'Kenya safari deals from New York City direct booking'
+- 'Italy (Italia) Kenya safari tour operators price'
+- 'Private safari tour operator Kenya quote custom'
+- 'Masai Mara migration safari availability checker July/August'
+- 'Kenya safari tour reviews SafariBookings UK users'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

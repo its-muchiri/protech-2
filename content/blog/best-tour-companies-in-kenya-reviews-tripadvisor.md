@@ -1,14 +1,14 @@
 ---
 title: 'Best Tour Companies in Kenya Reviews TripAdvisor: Complete Guide'
-description: Kenya safari guide covering best tour companies in kenya reviews tripadvisor, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering best tour companies in kenya reviews tripadvisor, including what is included, pricing, and booking advice.'
 slug: best-tour-companies-in-kenya-reviews-tripadvisor
-primary_keyword: Best tour companies in Kenya reviews TripAdvisor
+primary_keyword: 'Best tour companies in Kenya reviews TripAdvisor'
 secondary_keywords:
-- Fly-in Diani beach holiday from Wilson Airport company
-- Buy Amboseli tour package online
-- Secure Borana Conservancy luxury safari booking
-- Buy two week Kenya adventure tour reservation
-- Book photographic safari Kenya specialist tour
+- 'Fly-in Diani beach holiday from Wilson Airport company'
+- 'Buy Amboseli tour package online'
+- 'Secure Borana Conservancy luxury safari booking'
+- 'Buy two week Kenya adventure tour reservation'
+- 'Book photographic safari Kenya specialist tour'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

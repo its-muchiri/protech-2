@@ -1,14 +1,14 @@
 ---
 title: 'Flight Ticket from Nigeria to Nairobi: Complete Guide'
-description: Everything you need to know about flight ticket from nigeria to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight ticket from nigeria to nairobi, including routes, airlines, booking tips, and fares.'
 slug: flight-ticket-from-nigeria-to-nairobi
-primary_keyword: flight ticket from nigeria to nairobi
+primary_keyword: 'flight ticket from nigeria to nairobi'
 secondary_keywords:
-- flight time from nairobi to zanzibar
-- cost of flight from nairobi to south africa
-- 540 flight from nairobi to lodwar
-- how many hours flight from nairobi to johannesburg
-- turkish airlines flights to nairobi
+- 'flight time from nairobi to zanzibar'
+- 'cost of flight from nairobi to south africa'
+- '540 flight from nairobi to lodwar'
+- 'how many hours flight from nairobi to johannesburg'
+- 'turkish airlines flights to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

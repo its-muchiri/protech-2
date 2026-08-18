@@ -1,14 +1,14 @@
 ---
 title: 'Tourniquet for Blood Collection: 2026 Price Guide'
-description: Kenya buying guide to tourniquet for blood collection. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to tourniquet for blood collection. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: tourniquet-for-blood-collection
-primary_keyword: Tourniquet for blood collection
+primary_keyword: 'Tourniquet for blood collection'
 secondary_keywords:
-- where to get oxygen cylinder in Nairobi
-- lab equipment repair Kenya
-- ISO certified medical suppliers Kenya
-- medical oxygen plant Kenya
-- specialized medical equipment Kenya
+- 'where to get oxygen cylinder in Nairobi'
+- 'lab equipment repair Kenya'
+- 'ISO certified medical suppliers Kenya'
+- 'medical oxygen plant Kenya'
+- 'specialized medical equipment Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

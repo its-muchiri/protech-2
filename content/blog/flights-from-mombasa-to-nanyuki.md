@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Nanyuki: Complete Guide'
-description: Everything you need to know about flights from mombasa to nanyuki, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to nanyuki, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-nanyuki
-primary_keyword: flights from mombasa to nanyuki
+primary_keyword: 'flights from mombasa to nanyuki'
 secondary_keywords:
-- flight from kenya to addis ababa
-- flights from kenya to barbados
-- flights from kenya to cape town
-- flights from kenya to dar es salaam
-- flight from kenya to estonia
+- 'flight from kenya to addis ababa'
+- 'flights from kenya to barbados'
+- 'flights from kenya to cape town'
+- 'flights from kenya to dar es salaam'
+- 'flight from kenya to estonia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Ticket from Kenya to India: Complete Guide'
-description: Everything you need to know about ticket from kenya to india, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ticket from kenya to india, including routes, airlines, booking tips, and fares.'
 slug: ticket-from-kenya-to-india
-primary_keyword: ticket from kenya to india
+primary_keyword: 'ticket from kenya to india'
 secondary_keywords:
-- flight from nairobi to mombasa is how much
-- flights to mombasa from johannesburg
-- flight from mombasa to lamu price
-- flights from mombasa to madagascar
-- which flights operate from nairobi to mombasa
+- 'flight from nairobi to mombasa is how much'
+- 'flights to mombasa from johannesburg'
+- 'flight from mombasa to lamu price'
+- 'flights from mombasa to madagascar'
+- 'which flights operate from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

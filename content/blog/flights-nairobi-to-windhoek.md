@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Windhoek: Complete Guide'
-description: Everything you need to know about flights nairobi to windhoek, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to windhoek, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-windhoek
-primary_keyword: flights nairobi to windhoek
+primary_keyword: 'flights nairobi to windhoek'
 secondary_keywords:
-- flight yaounde to nairobi
-- flight from zurich to nairobi
-- fly 48
-- 540 flight from nairobi to lodwar today
-- turkish airlines from nairobi to istanbul
+- 'flight yaounde to nairobi'
+- 'flight from zurich to nairobi'
+- 'fly 48'
+- '540 flight from nairobi to lodwar today'
+- 'turkish airlines from nairobi to istanbul'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

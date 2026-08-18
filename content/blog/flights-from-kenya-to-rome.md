@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Rome: Complete Guide'
-description: Everything you need to know about flights from kenya to rome, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to rome, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-rome
-primary_keyword: flights from kenya to rome
+primary_keyword: 'flights from kenya to rome'
 secondary_keywords:
-- qatar airways from nairobi to qatar
-- kq flights from nairobi to china today
-- kq flight from nairobi to mombasa
-- kq flight from kenya to dubai
-- flights to ukunda from jkia
+- 'qatar airways from nairobi to qatar'
+- 'kq flights from nairobi to china today'
+- 'kq flight from nairobi to mombasa'
+- 'kq flight from kenya to dubai'
+- 'flights to ukunda from jkia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

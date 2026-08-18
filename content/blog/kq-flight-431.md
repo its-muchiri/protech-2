@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight 431: Complete Guide'
-description: Everything you need to know about kq flight 431, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight 431, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-431
-primary_keyword: kq flight 431
+primary_keyword: 'kq flight 431'
 secondary_keywords:
-- flights from nairobi to warsaw
-- cheap flights from zurich to nairobi
-- cheapest flights from nairobi to johannesburg
-- flights from mombasa
-- available flights from mombasa to kisumu
+- 'flights from nairobi to warsaw'
+- 'cheap flights from zurich to nairobi'
+- 'cheapest flights from nairobi to johannesburg'
+- 'flights from mombasa'
+- 'available flights from mombasa to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

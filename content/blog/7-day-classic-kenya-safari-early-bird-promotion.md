@@ -1,14 +1,14 @@
 ---
 title: '7 Day Classic Kenya Safari Early Bird Promotion: Complete Guide'
-description: Kenya safari guide covering 7 day classic kenya safari early bird promotion, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering 7 day classic kenya safari early bird promotion, including what is included, pricing, and booking advice.'
 slug: 7-day-classic-kenya-safari-early-bird-promotion
-primary_keyword: 7 day classic Kenya safari early bird promotion
+primary_keyword: '7 day classic Kenya safari early bird promotion'
 secondary_keywords:
-- Green season Kenya safari package booking
-- Kenya safari price quote
-- Kenya safari booking confirmation details
-- Bush meals included Kenya safari package price
-- Reserve private safari vehicle package
+- 'Green season Kenya safari package booking'
+- 'Kenya safari price quote'
+- 'Kenya safari booking confirmation details'
+- 'Bush meals included Kenya safari package price'
+- 'Reserve private safari vehicle package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

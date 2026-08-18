@@ -1,14 +1,14 @@
 ---
 title: 'What Is the Longest Flight from Nairobi: Complete Guide'
-description: Everything you need to know about what is the longest flight from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about what is the longest flight from nairobi, including routes, airlines, booking tips, and fares.'
 slug: what-is-the-longest-flight-from-nairobi
-primary_keyword: what is the longest flight from nairobi
+primary_keyword: 'what is the longest flight from nairobi'
 secondary_keywords:
-- emirates flights from kenya to australia today
-- flights from florida to kenya
-- flights from glasgow to kenya
-- flights to kenya from houston
-- cheap flights from kenya to ireland
+- 'emirates flights from kenya to australia today'
+- 'flights from florida to kenya'
+- 'flights from glasgow to kenya'
+- 'flights to kenya from houston'
+- 'cheap flights from kenya to ireland'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

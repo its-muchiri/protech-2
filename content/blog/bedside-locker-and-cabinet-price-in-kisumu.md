@@ -1,14 +1,14 @@
 ---
 title: 'Bedside Locker and Cabinet Price in Kisumu: 2026 Price Guide'
-description: Kenya buying guide to bedside locker and cabinet price in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to bedside locker and cabinet price in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: bedside-locker-and-cabinet-price-in-kisumu
-primary_keyword: Bedside locker and cabinet price in Kisumu
+primary_keyword: 'Bedside locker and cabinet price in Kisumu'
 secondary_keywords:
-- ECG machine suppliers in Meru
-- Lab equipment calibration in Eldoret
-- Ambulance fabrication companies in Nairobi
-- 1.5 Tesla MRI machine price in Kenya
-- Affordable black and white ultrasound for a small clinic
+- 'ECG machine suppliers in Meru'
+- 'Lab equipment calibration in Eldoret'
+- 'Ambulance fabrication companies in Nairobi'
+- '1.5 Tesla MRI machine price in Kenya'
+- 'Affordable black and white ultrasound for a small clinic'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

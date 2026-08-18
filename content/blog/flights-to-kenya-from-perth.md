@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Kenya from Perth: Complete Guide'
-description: Everything you need to know about flights to kenya from perth, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to kenya from perth, including routes, airlines, booking tips, and fares.'
 slug: flights-to-kenya-from-perth
-primary_keyword: flights to kenya from perth
+primary_keyword: 'flights to kenya from perth'
 secondary_keywords:
-- kq116 flight status
-- kq 275
-- kq 415 flight status
-- kq 609 flight status
-- kq 887
+- 'kq116 flight status'
+- 'kq 275'
+- 'kq 415 flight status'
+- 'kq 609 flight status'
+- 'kq 887'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

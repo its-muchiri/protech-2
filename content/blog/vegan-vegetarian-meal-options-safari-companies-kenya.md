@@ -1,14 +1,14 @@
 ---
 title: 'Vegan/vegetarian Meal Options Safari Companies Kenya: Complete Guide'
-description: Kenya safari guide covering vegan/vegetarian meal options safari companies kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering vegan/vegetarian meal options safari companies kenya, including what is included, pricing, and booking advice.'
 slug: vegan-vegetarian-meal-options-safari-companies-kenya
-primary_keyword: Vegan/vegetarian meal options safari companies Kenya
+primary_keyword: 'Vegan/vegetarian meal options safari companies Kenya'
 secondary_keywords:
-- 12 day Kenya safari
-- All-inclusive safari cost Kenya
-- Masai Mara lodges
-- Cultural tours Kenya safari
-- Wildebeest migration Kenya timing
+- '12 day Kenya safari'
+- 'All-inclusive safari cost Kenya'
+- 'Masai Mara lodges'
+- 'Cultural tours Kenya safari'
+- 'Wildebeest migration Kenya timing'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Nairobi Airport: Complete Guide'
-description: Everything you need to know about emirates nairobi airport, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates nairobi airport, including routes, airlines, booking tips, and fares.'
 slug: emirates-nairobi-airport
-primary_keyword: emirates nairobi airport
+primary_keyword: 'emirates nairobi airport'
 secondary_keywords:
-- kenya airways flights from nairobi to seychelles
-- flight from nairobi to dubai price
-- air france flight from nairobi to paris
-- booking flight from nairobi to mombasa
-- flight from nairobi to calgary
+- 'kenya airways flights from nairobi to seychelles'
+- 'flight from nairobi to dubai price'
+- 'air france flight from nairobi to paris'
+- 'booking flight from nairobi to mombasa'
+- 'flight from nairobi to calgary'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

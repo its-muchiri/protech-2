@@ -1,14 +1,14 @@
 ---
-title: 'Book Rock Climbing Hell's Gate Safari Add-on Kenya UK Adventure Gear Included Cost: Complete Guide'
-description: Kenya safari guide covering book rock climbing hells gate safari add-on kenya uk adventure gear included cost, including what is included, pricing, and booking advice.
+title: 'Book Rock Climbing Hell''s Gate Safari Add-on Kenya UK Adventure Gear Included Cost: Complete Guide'
+description: 'Kenya safari guide covering book rock climbing hells gate safari add-on kenya uk adventure gear included cost, including what is included, pricing, and booking advice.'
 slug: book-rock-climbing-hell-s-gate-safari-add-on-kenya-uk-adventure-gear-included-cost
-primary_keyword: Book rock climbing Hell's Gate safari add-on Kenya UK adventure gear included cost
+primary_keyword: 'Book rock climbing Hell''s Gate safari add-on Kenya UK adventure gear included cost'
 secondary_keywords:
-- Secure Kenya safari package for family with young children quote
-- Reserve New Year luxury Kenya safari deal
-- Purchase 6 day mid-range tented camp Masai Mara Nakuru package KATO operator
-- Secure 9 day Laikipia Borana Conservancy luxury horseback safari package reserve
-- Boutique tour companies Kenya personalized service
+- 'Secure Kenya safari package for family with young children quote'
+- 'Reserve New Year luxury Kenya safari deal'
+- 'Purchase 6 day mid-range tented camp Masai Mara Nakuru package KATO operator'
+- 'Secure 9 day Laikipia Borana Conservancy luxury horseback safari package reserve'
+- 'Boutique tour companies Kenya personalized service'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

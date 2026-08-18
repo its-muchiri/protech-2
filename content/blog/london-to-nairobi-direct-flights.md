@@ -1,14 +1,14 @@
 ---
 title: 'London to Nairobi Direct Flights: Complete Guide'
-description: Everything you need to know about london to nairobi direct flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about london to nairobi direct flights, including routes, airlines, booking tips, and fares.'
 slug: london-to-nairobi-direct-flights
-primary_keyword: london to nairobi direct flights
+primary_keyword: 'london to nairobi direct flights'
 secondary_keywords:
-- flights from mombasa kenya to kigali rwanda
-- cheap flights to kenya from manchester
-- flights to kenya from ottawa
-- flights from kenya to philippines
-- flight from kenya to qatar time
+- 'flights from mombasa kenya to kigali rwanda'
+- 'cheap flights to kenya from manchester'
+- 'flights to kenya from ottawa'
+- 'flights from kenya to philippines'
+- 'flight from kenya to qatar time'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

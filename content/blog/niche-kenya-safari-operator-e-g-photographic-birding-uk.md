@@ -1,14 +1,14 @@
 ---
 title: 'Niche Kenya Safari Operator (e.g., Photographic, Birding) UK: Complete Guide'
-description: Kenya safari guide covering niche kenya safari operator (e.g., photographic, birding) uk, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering niche kenya safari operator (e.g., photographic, birding) uk, including what is included, pricing, and booking advice.'
 slug: niche-kenya-safari-operator-e-g-photographic-birding-uk
-primary_keyword: Niche Kenya safari operator (e.g., photographic, birding) UK
+primary_keyword: 'Niche Kenya safari operator (e.g., photographic, birding) UK'
 secondary_keywords:
-- Budget camping safari companies Kenya
-- Over 50s safari tours Kenya
-- Tea plantation tours Limuru operators
-- One month Kenya volunteer tour program
-- Compare prices Kenya safari companies
+- 'Budget camping safari companies Kenya'
+- 'Over 50s safari tours Kenya'
+- 'Tea plantation tours Limuru operators'
+- 'One month Kenya volunteer tour program'
+- 'Compare prices Kenya safari companies'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Nairobi from Usa: Complete Guide'
-description: Everything you need to know about flights to nairobi from usa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to nairobi from usa, including routes, airlines, booking tips, and fares.'
 slug: flights-to-nairobi-from-usa
-primary_keyword: flights to nairobi from usa
+primary_keyword: 'flights to nairobi from usa'
 secondary_keywords:
-- flight from nairobi to kabunde
-- turkish airlines flight price from nairobi to turkey
-- turkish airlines cargo nairobi
-- how much is flight from nairobi to turkey
-- turkish airlines lounge nairobi price
+- 'flight from nairobi to kabunde'
+- 'turkish airlines flight price from nairobi to turkey'
+- 'turkish airlines cargo nairobi'
+- 'how much is flight from nairobi to turkey'
+- 'turkish airlines lounge nairobi price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

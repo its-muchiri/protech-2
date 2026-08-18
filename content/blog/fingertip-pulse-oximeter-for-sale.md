@@ -1,14 +1,14 @@
 ---
 title: 'Fingertip Pulse Oximeter for Sale: 2026 Price Guide'
-description: Kenya buying guide to fingertip pulse oximeter for sale. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to fingertip pulse oximeter for sale. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: fingertip-pulse-oximeter-for-sale
-primary_keyword: Fingertip pulse oximeter for sale
+primary_keyword: 'Fingertip pulse oximeter for sale'
 secondary_keywords:
-- Physiotherapy clinic setup in Nakuru
-- Emergency trolley suppliers in Eldoret
-- GE Optima CT scanner cost in Mombasa
-- GE Logiq F8 ultrasound system cost in Mombasa
-- Veterinary X-ray equipment for a clinic in Nanyuki
+- 'Physiotherapy clinic setup in Nakuru'
+- 'Emergency trolley suppliers in Eldoret'
+- 'GE Optima CT scanner cost in Mombasa'
+- 'GE Logiq F8 ultrasound system cost in Mombasa'
+- 'Veterinary X-ray equipment for a clinic in Nanyuki'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

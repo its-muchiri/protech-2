@@ -1,14 +1,14 @@
 ---
 title: 'Luxury Tented Camp Safari Cost Estimate: Complete Guide'
-description: Kenya safari guide covering luxury tented camp safari cost estimate, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering luxury tented camp safari cost estimate, including what is included, pricing, and booking advice.'
 slug: luxury-tented-camp-safari-cost-estimate
-primary_keyword: Luxury tented camp safari cost estimate
+primary_keyword: 'Luxury tented camp safari cost estimate'
 secondary_keywords:
-- Calving season Kenya safari (Jan/Feb, less distinct than Serengeti)
-- Early bird Kenya safari booking
-- Remote Kenya safari locations
-- Kenya safari binoculars recommendation
-- What makes Masai Mara special
+- 'Calving season Kenya safari (Jan/Feb, less distinct than Serengeti)'
+- 'Early bird Kenya safari booking'
+- 'Remote Kenya safari locations'
+- 'Kenya safari binoculars recommendation'
+- 'What makes Masai Mara special'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Recruitment Nairobi: Complete Guide'
-description: Everything you need to know about emirates recruitment nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates recruitment nairobi, including routes, airlines, booking tips, and fares.'
 slug: emirates-recruitment-nairobi
-primary_keyword: emirates recruitment nairobi
+primary_keyword: 'emirates recruitment nairobi'
 secondary_keywords:
-- emirates flights for pakistan
-- emirates flights from glasgow to abu dhabi
-- how many emirates flights from toronto to dubai
-- emirates flights from italy to dubai
-- emirates flights from dubai to johannesburg today
+- 'emirates flights for pakistan'
+- 'emirates flights from glasgow to abu dhabi'
+- 'how many emirates flights from toronto to dubai'
+- 'emirates flights from italy to dubai'
+- 'emirates flights from dubai to johannesburg today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

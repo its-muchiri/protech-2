@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is a Flight to Mombasa: Complete Guide'
-description: Everything you need to know about how much is a flight to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is a flight to mombasa, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-a-flight-to-mombasa
-primary_keyword: how much is a flight to mombasa
+primary_keyword: 'how much is a flight to mombasa'
 secondary_keywords:
-- flights from nairobi to reunion island
-- flights from nairobi to sydney
-- flights from nairobi to uk
-- flights from nairobi to las vegas
-- flights from kisumu to nairobi wilson
+- 'flights from nairobi to reunion island'
+- 'flights from nairobi to sydney'
+- 'flights from nairobi to uk'
+- 'flights from nairobi to las vegas'
+- 'flights from kisumu to nairobi wilson'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

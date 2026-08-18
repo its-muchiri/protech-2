@@ -1,14 +1,14 @@
 ---
 title: 'Accessible Safari Kenya Wheelchair Friendly Lodges / Vehicles: Complete Guide'
-description: Kenya safari guide covering accessible safari kenya wheelchair friendly lodges / vehicles, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering accessible safari kenya wheelchair friendly lodges / vehicles, including what is included, pricing, and booking advice.'
 slug: accessible-safari-kenya-wheelchair-friendly-lodges-vehicles
-primary_keyword: Accessible safari Kenya wheelchair friendly lodges / vehicles
+primary_keyword: 'Accessible safari Kenya wheelchair friendly lodges / vehicles'
 secondary_keywords:
-- Get itinerary and cost 8 day Kenya private safari
-- Secure place 6 day small group Kenya photo safari
-- Reserve spot 7 day photographic workshop package Kenya
-- Get deal on 8 day Kicheche Camps luxury package Mara conservancy
-- Buy 9 day Cottar''s 1920s Safari Camp luxury package
+- 'Get itinerary and cost 8 day Kenya private safari'
+- 'Secure place 6 day small group Kenya photo safari'
+- 'Reserve spot 7 day photographic workshop package Kenya'
+- 'Get deal on 8 day Kicheche Camps luxury package Mara conservancy'
+- 'Buy 9 day Cottar''''s 1920s Safari Camp luxury package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

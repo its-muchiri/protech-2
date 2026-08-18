@@ -1,14 +1,14 @@
 ---
 title: 'Hospital Bed Dealers in Eldoret: 2026 Price Guide'
-description: Kenya buying guide to hospital bed dealers in eldoret. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to hospital bed dealers in eldoret. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: hospital-bed-dealers-in-eldoret
-primary_keyword: Hospital bed dealers in Eldoret
+primary_keyword: 'Hospital bed dealers in Eldoret'
 secondary_keywords:
-- oxygen masks Kenya adult
-- Chlorhexidine solution Kenya
-- protective eyewear medical Kenya
-- pregnancy test kit Kenya price
-- medical alcohol wipes Kenya
+- 'oxygen masks Kenya adult'
+- 'Chlorhexidine solution Kenya'
+- 'protective eyewear medical Kenya'
+- 'pregnancy test kit Kenya price'
+- 'medical alcohol wipes Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

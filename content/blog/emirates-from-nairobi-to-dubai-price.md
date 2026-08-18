@@ -1,14 +1,14 @@
 ---
 title: 'Emirates from Nairobi to Dubai Price: Complete Guide'
-description: Everything you need to know about emirates from nairobi to dubai price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates from nairobi to dubai price, including routes, airlines, booking tips, and fares.'
 slug: emirates-from-nairobi-to-dubai-price
-primary_keyword: emirates from nairobi to dubai price
+primary_keyword: 'emirates from nairobi to dubai price'
 secondary_keywords:
-- emirates flights from dubai
-- emirates flights from entebbe to london
-- flights from faisalabad to dubai united arab emirates
-- emirates flights from dubai to glasgow today
-- how many emirates flights from heathrow
+- 'emirates flights from dubai'
+- 'emirates flights from entebbe to london'
+- 'flights from faisalabad to dubai united arab emirates'
+- 'emirates flights from dubai to glasgow today'
+- 'how many emirates flights from heathrow'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

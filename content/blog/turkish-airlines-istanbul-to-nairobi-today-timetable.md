@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Istanbul to Nairobi Today Timetable: Complete Guide'
-description: Everything you need to know about turkish airlines istanbul to nairobi today timetable, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines istanbul to nairobi today timetable, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-istanbul-to-nairobi-today-timetable
-primary_keyword: turkish airlines istanbul to nairobi today timetable
+primary_keyword: 'turkish airlines istanbul to nairobi today timetable'
 secondary_keywords:
-- flights from nairobi to mauritius
-- flights from nairobi to new delhi
-- flights from nairobi to oslo
-- flights from nairobi to portugal
-- flights from nairobi to rwanda
+- 'flights from nairobi to mauritius'
+- 'flights from nairobi to new delhi'
+- 'flights from nairobi to oslo'
+- 'flights from nairobi to portugal'
+- 'flights from nairobi to rwanda'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

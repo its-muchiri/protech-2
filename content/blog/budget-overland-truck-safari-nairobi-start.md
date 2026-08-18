@@ -1,14 +1,14 @@
 ---
 title: 'Budget Overland Truck Safari Nairobi Start: Complete Guide'
-description: Kenya safari guide covering budget overland truck safari nairobi start, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering budget overland truck safari nairobi start, including what is included, pricing, and booking advice.'
 slug: budget-overland-truck-safari-nairobi-start
-primary_keyword: Budget overland truck safari Nairobi start
+primary_keyword: 'Budget overland truck safari Nairobi start'
 secondary_keywords:
-- Buy 8 day romantic getaway safari package Laikipia
-- Book 5 day Great Rift Valley lakes birding package
-- Get quote 6 day Masai Mara wildlife focus package operator
-- Lock in rate for 10 day Kenya premium package
-- Get quote 5 day Kenya budget camping joining safari
+- 'Buy 8 day romantic getaway safari package Laikipia'
+- 'Book 5 day Great Rift Valley lakes birding package'
+- 'Get quote 6 day Masai Mara wildlife focus package operator'
+- 'Lock in rate for 10 day Kenya premium package'
+- 'Get quote 5 day Kenya budget camping joining safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

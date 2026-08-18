@@ -1,14 +1,14 @@
 ---
 title: 'Star Gazing Kenya Safari: Complete Guide'
-description: Kenya safari guide covering star gazing kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering star gazing kenya safari, including what is included, pricing, and booking advice.'
 slug: star-gazing-kenya-safari
-primary_keyword: Star gazing Kenya safari
+primary_keyword: 'Star gazing Kenya safari'
 secondary_keywords:
-- Kenya fly-in circuit safari package buy
-- Dry season Kenya safari package deals
-- Compare packages from Kenya safari companies
-- Payment options Kenya safari package
-- Walking safari included package Kenya buy
+- 'Kenya fly-in circuit safari package buy'
+- 'Dry season Kenya safari package deals'
+- 'Compare packages from Kenya safari companies'
+- 'Payment options Kenya safari package'
+- 'Walking safari included package Kenya buy'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

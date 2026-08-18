@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Doha: Complete Guide'
-description: Everything you need to know about flights from mombasa to doha, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to doha, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-doha
-primary_keyword: flights from mombasa to doha
+primary_keyword: 'flights from mombasa to doha'
 secondary_keywords:
-- cheap flights nairobi to usa
-- nairobi to las vegas flights
-- cheap flights nairobi to new york
-- does american airlines fly to kenya
-- how much is it from nairobi to mombasa by flight
+- 'cheap flights nairobi to usa'
+- 'nairobi to las vegas flights'
+- 'cheap flights nairobi to new york'
+- 'does american airlines fly to kenya'
+- 'how much is it from nairobi to mombasa by flight'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

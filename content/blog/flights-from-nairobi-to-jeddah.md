@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Jeddah: Complete Guide'
-description: Everything you need to know about flights from nairobi to jeddah, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to jeddah, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-jeddah
-primary_keyword: flights from nairobi to jeddah
+primary_keyword: 'flights from nairobi to jeddah'
 secondary_keywords:
-- qatar airways nairobi office address
-- kq flight from accra to nairobi
-- kq flights from dubai to mombasa
-- kenya airways flights from harare to nairobi price
-- kq flight from mumbai to nairobi today
+- 'qatar airways nairobi office address'
+- 'kq flight from accra to nairobi'
+- 'kq flights from dubai to mombasa'
+- 'kenya airways flights from harare to nairobi price'
+- 'kq flight from mumbai to nairobi today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

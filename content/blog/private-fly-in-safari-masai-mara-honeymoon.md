@@ -1,14 +1,14 @@
 ---
 title: 'Private Fly-in Safari Masai Mara Honeymoon: Complete Guide'
-description: Kenya safari guide covering private fly-in safari masai mara honeymoon, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering private fly-in safari masai mara honeymoon, including what is included, pricing, and booking advice.'
 slug: private-fly-in-safari-masai-mara-honeymoon
-primary_keyword: Private fly-in safari Masai Mara honeymoon
+primary_keyword: 'Private fly-in safari Masai Mara honeymoon'
 secondary_keywords:
-- Book Kenya conservation focused safari Ol Pejeta rhino tracking Europe donation included
-- Book Kenya safari including school visit community project UK responsible tourism options cost
-- Purchase luxury wellness retreat & safari combination Kenya USA spa treatments yoga included cost
-- Reserve Lake Victoria fishing safari Nile perch Kenya USA boat charter booking cost
-- Find luxury train safari Rovos Rail style Kenya (limited options) booking agent USA
+- 'Book Kenya conservation focused safari Ol Pejeta rhino tracking Europe donation included'
+- 'Book Kenya safari including school visit community project UK responsible tourism options cost'
+- 'Purchase luxury wellness retreat & safari combination Kenya USA spa treatments yoga included cost'
+- 'Reserve Lake Victoria fishing safari Nile perch Kenya USA boat charter booking cost'
+- 'Find luxury train safari Rovos Rail style Kenya (limited options) booking agent USA'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

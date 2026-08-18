@@ -1,14 +1,14 @@
 ---
 title: 'Veterinary Consumables and Pharmaceuticals in Kenya: 2026 Price Guide'
-description: Kenya buying guide to veterinary consumables and pharmaceuticals in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to veterinary consumables and pharmaceuticals in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: veterinary-consumables-and-pharmaceuticals-in-kenya
-primary_keyword: Veterinary consumables and pharmaceuticals in Kenya
+primary_keyword: 'Veterinary consumables and pharmaceuticals in Kenya'
 secondary_keywords:
-- Digital X-ray machine price in Kenya
-- Open MRI scanner cost in Kenya
-- Bronchoscope for sale in Eldoret
-- Coagulation analyzer for a lab in Nakuru
-- Horizontal steam sterilizer for hospital
+- 'Digital X-ray machine price in Kenya'
+- 'Open MRI scanner cost in Kenya'
+- 'Bronchoscope for sale in Eldoret'
+- 'Coagulation analyzer for a lab in Nakuru'
+- 'Horizontal steam sterilizer for hospital'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

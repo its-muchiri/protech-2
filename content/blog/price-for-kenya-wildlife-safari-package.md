@@ -1,14 +1,14 @@
 ---
 title: 'Price for Kenya Wildlife Safari Package: Complete Guide'
-description: Kenya safari guide covering price for kenya wildlife safari package, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering price for kenya wildlife safari package, including what is included, pricing, and booking advice.'
 slug: price-for-kenya-wildlife-safari-package
-primary_keyword: Price for Kenya wildlife safari package
+primary_keyword: 'Price for Kenya wildlife safari package'
 secondary_keywords:
-- Bomas of Kenya cultural tour Nairobi price / show times
-- Ol Pejeta Conservancy day trip from Nairobi cost / travel time
-- African Sermon Safaris itinerary examples
-- Hire 4x4 Land Cruiser with driver guide Kenya daily rate
-- Kenya safari company reviews SafariBookings verified reviews
+- 'Bomas of Kenya cultural tour Nairobi price / show times'
+- 'Ol Pejeta Conservancy day trip from Nairobi cost / travel time'
+- 'African Sermon Safaris itinerary examples'
+- 'Hire 4x4 Land Cruiser with driver guide Kenya daily rate'
+- 'Kenya safari company reviews SafariBookings verified reviews'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Nairobi Number: Complete Guide'
-description: Everything you need to know about emirates nairobi number, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates nairobi number, including routes, airlines, booking tips, and fares.'
 slug: emirates-nairobi-number
-primary_keyword: emirates nairobi number
+primary_keyword: 'emirates nairobi number'
 secondary_keywords:
-- flights from nairobi to berlin germany
-- flights from nairobi to cairo
-- flights from nairobi to dar es salaam
-- flights from nairobi to egypt
-- flight from nairobi to mombasa fare
+- 'flights from nairobi to berlin germany'
+- 'flights from nairobi to cairo'
+- 'flights from nairobi to dar es salaam'
+- 'flights from nairobi to egypt'
+- 'flight from nairobi to mombasa fare'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

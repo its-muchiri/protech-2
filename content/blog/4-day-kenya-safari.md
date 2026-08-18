@@ -1,14 +1,14 @@
 ---
 title: '4 Day Kenya Safari: Complete Guide'
-description: Kenya safari guide covering 4 day kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering 4 day kenya safari, including what is included, pricing, and booking advice.'
 slug: 4-day-kenya-safari
-primary_keyword: 4 day Kenya safari
+primary_keyword: '4 day Kenya safari'
 secondary_keywords:
-- Kenya safari holidays from UK book online ABTA/ATOL protected
-- Cost of Kenya safari from Manchester UK agent quote
-- Recommended Kenya tour operators for migration safari viewing
-- Urgent Kenya safari booking online UK instant confirmation
-- Best luxury Kenya safari packages reviews Conde Nast UK
+- 'Kenya safari holidays from UK book online ABTA/ATOL protected'
+- 'Cost of Kenya safari from Manchester UK agent quote'
+- 'Recommended Kenya tour operators for migration safari viewing'
+- 'Urgent Kenya safari booking online UK instant confirmation'
+- 'Best luxury Kenya safari packages reviews Conde Nast UK'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

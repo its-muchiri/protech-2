@@ -1,14 +1,14 @@
 ---
 title: 'Recommended Private Kenya Safari Companies Expert Reviews: Complete Guide'
-description: Kenya safari guide covering recommended private kenya safari companies expert reviews, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering recommended private kenya safari companies expert reviews, including what is included, pricing, and booking advice.'
 slug: recommended-private-kenya-safari-companies-expert-reviews
-primary_keyword: Recommended private Kenya safari companies expert reviews
+primary_keyword: 'Recommended private Kenya safari companies expert reviews'
 secondary_keywords:
-- Migration season Masai Mara
-- Travel agency Kenya safari
-- Off the beaten track Kenya safari
-- Best camera for Kenya safari
-- Why choose Kenya for safari
+- 'Migration season Masai Mara'
+- 'Travel agency Kenya safari'
+- 'Off the beaten track Kenya safari'
+- 'Best camera for Kenya safari'
+- 'Why choose Kenya for safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

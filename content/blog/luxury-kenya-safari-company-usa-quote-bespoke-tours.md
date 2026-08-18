@@ -1,14 +1,14 @@
 ---
 title: 'Luxury Kenya Safari Company USA Quote Bespoke Tours: Complete Guide'
-description: Kenya safari guide covering luxury kenya safari company usa quote bespoke tours, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering luxury kenya safari company usa quote bespoke tours, including what is included, pricing, and booking advice.'
 slug: luxury-kenya-safari-company-usa-quote-bespoke-tours
-primary_keyword: Luxury Kenya safari company USA quote bespoke tours
+primary_keyword: 'Luxury Kenya safari company USA quote bespoke tours'
 secondary_keywords:
-- Karen Blixen Museum tour operators
-- Nairobi National Park day trip operators from Thika
-- Kenya safari cost per day estimate
-- Nairobi based safari companies contact
-- Kenya tours for solo female travelers safety
+- 'Karen Blixen Museum tour operators'
+- 'Nairobi National Park day trip operators from Thika'
+- 'Kenya safari cost per day estimate'
+- 'Nairobi based safari companies contact'
+- 'Kenya tours for solo female travelers safety'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

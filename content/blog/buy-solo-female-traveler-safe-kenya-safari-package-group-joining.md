@@ -1,14 +1,14 @@
 ---
 title: 'Buy Solo Female Traveler Safe Kenya Safari Package Group Joining: Complete Guide'
-description: Kenya safari guide covering buy solo female traveler safe kenya safari package group joining, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy solo female traveler safe kenya safari package group joining, including what is included, pricing, and booking advice.'
 slug: buy-solo-female-traveler-safe-kenya-safari-package-group-joining
-primary_keyword: Buy solo female traveler safe Kenya safari package group joining
+primary_keyword: 'Buy solo female traveler safe Kenya safari package group joining'
 secondary_keywords:
-- Laikipia safari
-- Affordable Kenya safari
-- Fly-in Kenya safari
-- Mobile camping safari Kenya
-- 3 day Kenya safari
+- 'Laikipia safari'
+- 'Affordable Kenya safari'
+- 'Fly-in Kenya safari'
+- 'Mobile camping safari Kenya'
+- '3 day Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

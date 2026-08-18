@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Direct Flights from Nairobi to London Heathrow: Complete Guide'
-description: Everything you need to know about cheap direct flights from nairobi to london heathrow, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap direct flights from nairobi to london heathrow, including routes, airlines, booking tips, and fares.'
 slug: cheap-direct-flights-from-nairobi-to-london-heathrow
-primary_keyword: cheap direct flights from nairobi to london heathrow
+primary_keyword: 'cheap direct flights from nairobi to london heathrow'
 secondary_keywords:
-- flight from nairobi to johannesburg
-- flight from nairobi kenya to madrid spain
-- last flight from nairobi to kisumu
-- mauritius flight from nairobi
-- flight from nairobi to columbus ohio
+- 'flight from nairobi to johannesburg'
+- 'flight from nairobi kenya to madrid spain'
+- 'last flight from nairobi to kisumu'
+- 'mauritius flight from nairobi'
+- 'flight from nairobi to columbus ohio'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

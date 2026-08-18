@@ -1,14 +1,14 @@
 ---
 title: 'Ambulance Equipment and Supplies List: 2026 Price Guide'
-description: Kenya buying guide to ambulance equipment and supplies list. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to ambulance equipment and supplies list. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: ambulance-equipment-and-supplies-list
-primary_keyword: Ambulance equipment and supplies list
+primary_keyword: 'Ambulance equipment and supplies list'
 secondary_keywords:
-- disinfectants Kenya for hospitals
-- sharps containers Kenya 5L
-- alcohol prep pads Kenya
-- bed sheets disposable Kenya
-- malaria test kit Kenya
+- 'disinfectants Kenya for hospitals'
+- 'sharps containers Kenya 5L'
+- 'alcohol prep pads Kenya'
+- 'bed sheets disposable Kenya'
+- 'malaria test kit Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

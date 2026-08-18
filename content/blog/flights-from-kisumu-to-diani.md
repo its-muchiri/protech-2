@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kisumu to Diani: Complete Guide'
-description: Everything you need to know about flights from kisumu to diani, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kisumu to diani, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kisumu-to-diani
-primary_keyword: flights from kisumu to diani
+primary_keyword: 'flights from kisumu to diani'
 secondary_keywords:
-- flights kenya to johannesburg
-- flights from kenya to vietnam
-- holidays in kenya 2023
-- flight from kenya to america
-- flights from kenya to barcelona
+- 'flights kenya to johannesburg'
+- 'flights from kenya to vietnam'
+- 'holidays in kenya 2023'
+- 'flight from kenya to america'
+- 'flights from kenya to barcelona'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

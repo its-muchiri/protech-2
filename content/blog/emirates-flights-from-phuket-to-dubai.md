@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Phuket to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from phuket to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from phuket to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-phuket-to-dubai
-primary_keyword: emirates flights from phuket to dubai
+primary_keyword: 'emirates flights from phuket to dubai'
 secondary_keywords:
-- flight from nairobi to dallas
-- zanzibar flight from nairobi
-- cost of flight from nairobi to kitale
-- 540 flight from nairobi to eldoret
-- 740 flight
+- 'flight from nairobi to dallas'
+- 'zanzibar flight from nairobi'
+- 'cost of flight from nairobi to kitale'
+- '540 flight from nairobi to eldoret'
+- '740 flight'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

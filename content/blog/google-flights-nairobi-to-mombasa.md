@@ -1,14 +1,14 @@
 ---
 title: 'Google Flights Nairobi to Mombasa: Complete Guide'
-description: Everything you need to know about google flights nairobi to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about google flights nairobi to mombasa, including routes, airlines, booking tips, and fares.'
 slug: google-flights-nairobi-to-mombasa
-primary_keyword: google flights nairobi to mombasa
+primary_keyword: 'google flights nairobi to mombasa'
 secondary_keywords:
-- kenya to hargeisa flight
-- flight from kenya to india time
-- flights from kenya to jhb
-- flight from kenya to hong kong
-- flights from kenya to lusaka
+- 'kenya to hargeisa flight'
+- 'flight from kenya to india time'
+- 'flights from kenya to jhb'
+- 'flight from kenya to hong kong'
+- 'flights from kenya to lusaka'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

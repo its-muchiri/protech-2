@@ -1,14 +1,14 @@
 ---
 title: 'Equipment List for Mount Kenya Climb Rental Options Nanyuki: Complete Guide'
-description: Kenya safari guide covering equipment list for mount kenya climb rental options nanyuki, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering equipment list for mount kenya climb rental options nanyuki, including what is included, pricing, and booking advice.'
 slug: equipment-list-for-mount-kenya-climb-rental-options-nanyuki
-primary_keyword: Equipment list for Mount Kenya climb rental options Nanyuki
+primary_keyword: 'Equipment list for Mount Kenya climb rental options Nanyuki'
 secondary_keywords:
-- Price for 4 day Lake Nakuru Sopa Lodge package deal
-- Best price guarantee Kenya safari package 7 days
-- Purchase e-ticket Kenya fly-in safari package
-- Book recommended 8 day Kenya wildlife classic package
-- Book 9 day Sanctuary Olonana luxury river package Mara
+- 'Price for 4 day Lake Nakuru Sopa Lodge package deal'
+- 'Best price guarantee Kenya safari package 7 days'
+- 'Purchase e-ticket Kenya fly-in safari package'
+- 'Book recommended 8 day Kenya wildlife classic package'
+- 'Book 9 day Sanctuary Olonana luxury river package Mara'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

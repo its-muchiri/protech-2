@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Masai Mara: Complete Guide'
-description: Everything you need to know about flights from nairobi to masai mara, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to masai mara, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-masai-mara
-primary_keyword: flights from nairobi to masai mara
+primary_keyword: 'flights from nairobi to masai mara'
 secondary_keywords:
-- emirates flights from kochi
-- emirates flights from london to dubai today
-- emirates flights from newcastle to dubai
-- flights from ottawa to dubai emirates
-- emirates flights from cape town to dubai prices
+- 'emirates flights from kochi'
+- 'emirates flights from london to dubai today'
+- 'emirates flights from newcastle to dubai'
+- 'flights from ottawa to dubai emirates'
+- 'emirates flights from cape town to dubai prices'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

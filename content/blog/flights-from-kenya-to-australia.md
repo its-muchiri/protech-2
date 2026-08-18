@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Australia: Complete Guide'
-description: Everything you need to know about flights from kenya to australia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to australia, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-australia
-primary_keyword: flights from kenya to australia
+primary_keyword: 'flights from kenya to australia'
 secondary_keywords:
-- kenya airways flights from addis ababa to nairobi
-- flights from or tambo to kenya
-- flights from philadelphia to nairobi kenya
-- cheap flights from qatar to kenya
-- flights from rome to kenya
+- 'kenya airways flights from addis ababa to nairobi'
+- 'flights from or tambo to kenya'
+- 'flights from philadelphia to nairobi kenya'
+- 'cheap flights from qatar to kenya'
+- 'flights from rome to kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

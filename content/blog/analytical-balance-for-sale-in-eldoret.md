@@ -1,14 +1,14 @@
 ---
 title: 'Analytical Balance for Sale in Eldoret: 2026 Price Guide'
-description: Kenya buying guide to analytical balance for sale in eldoret. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to analytical balance for sale in eldoret. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: analytical-balance-for-sale-in-eldoret
-primary_keyword: Analytical balance for sale in Eldoret
+primary_keyword: 'Analytical balance for sale in Eldoret'
 secondary_keywords:
-- Portable single-channel ECG machine
-- Infant incubator price in Kenya
-- Shoulder wheel and finger ladder suppliers in Mombasa
-- Best dental chair brands in Kenya
-- Ultrasonic scaler for teeth cleaning in Nairobi
+- 'Portable single-channel ECG machine'
+- 'Infant incubator price in Kenya'
+- 'Shoulder wheel and finger ladder suppliers in Mombasa'
+- 'Best dental chair brands in Kenya'
+- 'Ultrasonic scaler for teeth cleaning in Nairobi'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

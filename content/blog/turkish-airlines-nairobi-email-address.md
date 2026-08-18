@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Nairobi Email Address: Complete Guide'
-description: Everything you need to know about turkish airlines nairobi email address, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines nairobi email address, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-nairobi-email-address
-primary_keyword: turkish airlines nairobi email address
+primary_keyword: 'turkish airlines nairobi email address'
 secondary_keywords:
-- how long is a flight from nairobi to new york
-- turkish airline nairobi
-- how do i track a turkish airlines flight
-- turkish airlines contact number nairobi kenya
-- turkish airlines pnr not working
+- 'how long is a flight from nairobi to new york'
+- 'turkish airline nairobi'
+- 'how do i track a turkish airlines flight'
+- 'turkish airlines contact number nairobi kenya'
+- 'turkish airlines pnr not working'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

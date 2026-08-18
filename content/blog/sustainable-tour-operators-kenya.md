@@ -1,14 +1,14 @@
 ---
 title: 'Sustainable Tour Operators Kenya: Complete Guide'
-description: Kenya safari guide covering sustainable tour operators kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering sustainable tour operators kenya, including what is included, pricing, and booking advice.'
 slug: sustainable-tour-operators-kenya
-primary_keyword: Sustainable tour operators Kenya
+primary_keyword: 'Sustainable tour operators Kenya'
 secondary_keywords:
-- Book Samburu special five photography safari package Europe expert guide availability
-- Book budget overland truck safari Nairobi to Cape Town including Kenya section UK price duration
-- Book Kenya safari focused on western Kenya rainforest Kakamega primate tracking Europe birding tours
-- Buy Kenya safari cooking class experience package UK local cuisine focus booking
-- Reserve Gede Ruins historical site tour safari package Kenya Europe coastal history focus
+- 'Book Samburu special five photography safari package Europe expert guide availability'
+- 'Book budget overland truck safari Nairobi to Cape Town including Kenya section UK price duration'
+- 'Book Kenya safari focused on western Kenya rainforest Kakamega primate tracking Europe birding tours'
+- 'Buy Kenya safari cooking class experience package UK local cuisine focus booking'
+- 'Reserve Gede Ruins historical site tour safari package Kenya Europe coastal history focus'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

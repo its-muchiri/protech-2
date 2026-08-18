@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Beirut to Kenya: Complete Guide'
-description: Everything you need to know about flights from beirut to kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from beirut to kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-beirut-to-kenya
-primary_keyword: flights from beirut to kenya
+primary_keyword: 'flights from beirut to kenya'
 secondary_keywords:
-- emirates flights from riyadh
-- emirates flights from toronto
-- emirates flights from usa to india
-- flights from varanasi to dubai united arab emirates
-- emirates airlines x
+- 'emirates flights from riyadh'
+- 'emirates flights from toronto'
+- 'emirates flights from usa to india'
+- 'flights from varanasi to dubai united arab emirates'
+- 'emirates airlines x'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

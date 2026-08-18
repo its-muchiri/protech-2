@@ -1,14 +1,14 @@
 ---
 title: 'Hoof Trimming Kit for Cattle Suppliers: 2026 Price Guide'
-description: Kenya buying guide to hoof trimming kit for cattle suppliers. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to hoof trimming kit for cattle suppliers. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: hoof-trimming-kit-for-cattle-suppliers
-primary_keyword: Hoof trimming kit for cattle suppliers
+primary_keyword: 'Hoof trimming kit for cattle suppliers'
 secondary_keywords:
-- blood sugar strips Kenya
-- clinical waste bags Kenya
-- cytology supplies Kenya
-- stethoscope price in Kenya
-- examination tables Kenya price
+- 'blood sugar strips Kenya'
+- 'clinical waste bags Kenya'
+- 'cytology supplies Kenya'
+- 'stethoscope price in Kenya'
+- 'examination tables Kenya price'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

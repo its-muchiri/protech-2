@@ -1,14 +1,14 @@
 ---
 title: 'Buy Amboseli Tour Package Online: Complete Guide'
-description: Kenya safari guide covering buy amboseli tour package online, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy amboseli tour package online, including what is included, pricing, and booking advice.'
 slug: buy-amboseli-tour-package-online
-primary_keyword: Buy Amboseli tour package online
+primary_keyword: 'Buy Amboseli tour package online'
 secondary_keywords:
-- Famous people Kenya safari
-- Request Kenya safari itinerary cost
-- Pre-book Kenya migration safari
-- Two week Kenya safari tour cost
-- Book Masai Mara conservancy safari package
+- 'Famous people Kenya safari'
+- 'Request Kenya safari itinerary cost'
+- 'Pre-book Kenya migration safari'
+- 'Two week Kenya safari tour cost'
+- 'Book Masai Mara conservancy safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

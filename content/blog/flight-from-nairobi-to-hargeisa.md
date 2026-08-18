@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Hargeisa: Complete Guide'
-description: Everything you need to know about flight from nairobi to hargeisa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to hargeisa, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-hargeisa
-primary_keyword: flight from nairobi to hargeisa
+primary_keyword: 'flight from nairobi to hargeisa'
 secondary_keywords:
-- 1 qatar to ksh
-- flight from kc to chicago
-- kenya airways flights from harare to london
-- kq flight from lagos to nairobi today
-- kq flight from new york to nairobi today
+- '1 qatar to ksh'
+- 'flight from kc to chicago'
+- 'kenya airways flights from harare to london'
+- 'kq flight from lagos to nairobi today'
+- 'kq flight from new york to nairobi today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

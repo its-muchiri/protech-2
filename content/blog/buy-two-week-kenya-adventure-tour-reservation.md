@@ -1,14 +1,14 @@
 ---
 title: 'Buy Two Week Kenya Adventure Tour Reservation: Complete Guide'
-description: Kenya safari guide covering buy two week kenya adventure tour reservation, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy two week kenya adventure tour reservation, including what is included, pricing, and booking advice.'
 slug: buy-two-week-kenya-adventure-tour-reservation
-primary_keyword: Buy two week Kenya adventure tour reservation
+primary_keyword: 'Buy two week Kenya adventure tour reservation'
 secondary_keywords:
-- Kenya family safari holiday cost estimate 2025
-- Specific Safari Types (Luxury, Budget, Family, Honeymoon, Private, Group, etc.)
-- Short Kenya safari tour (3-day/4-day) booking USA
-- Nairobi departure Kenya safari packages Europe start city
-- Book Kenya safari from London Heathrow flights included deals
+- 'Kenya family safari holiday cost estimate 2025'
+- 'Specific Safari Types (Luxury, Budget, Family, Honeymoon, Private, Group, etc.)'
+- 'Short Kenya safari tour (3-day/4-day) booking USA'
+- 'Nairobi departure Kenya safari packages Europe start city'
+- 'Book Kenya safari from London Heathrow flights included deals'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

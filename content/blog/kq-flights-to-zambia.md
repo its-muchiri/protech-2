@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Zambia: Complete Guide'
-description: Everything you need to know about kq flights to zambia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to zambia, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-zambia
-primary_keyword: kq flights to zambia
+primary_keyword: 'kq flights to zambia'
 secondary_keywords:
-- cheap direct flights from nairobi to london heathrow
-- flights from nairobi to entebbe uganda
-- etihad flights from nairobi
-- flights from nairobi to ghana
-- flights from nairobi to hong kong
+- 'cheap direct flights from nairobi to london heathrow'
+- 'flights from nairobi to entebbe uganda'
+- 'etihad flights from nairobi'
+- 'flights from nairobi to ghana'
+- 'flights from nairobi to hong kong'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

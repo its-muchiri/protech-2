@@ -1,14 +1,14 @@
 ---
 title: 'Fly-in Safari Operators Kenya Mara North: Complete Guide'
-description: Kenya safari guide covering fly-in safari operators kenya mara north, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering fly-in safari operators kenya mara north, including what is included, pricing, and booking advice.'
 slug: fly-in-safari-operators-kenya-mara-north
-primary_keyword: Fly-in safari operators Kenya Mara North
+primary_keyword: 'Fly-in safari operators Kenya Mara North'
 secondary_keywords:
-- Buy bird watching Kenya safari package
-- Get quote Kenya safari online
-- One week Kenya wildlife tour budget enquiry
-- Budget for 8 day private photographic Samburu tour
-- Lake Nakuru safari tour early bird promotion
+- 'Buy bird watching Kenya safari package'
+- 'Get quote Kenya safari online'
+- 'One week Kenya wildlife tour budget enquiry'
+- 'Budget for 8 day private photographic Samburu tour'
+- 'Lake Nakuru safari tour early bird promotion'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

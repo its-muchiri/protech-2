@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Nairobi to Kinshasa: Complete Guide'
-description: Everything you need to know about cheap flights from nairobi to kinshasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from nairobi to kinshasa, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-nairobi-to-kinshasa
-primary_keyword: cheap flights from nairobi to kinshasa
+primary_keyword: 'cheap flights from nairobi to kinshasa'
 secondary_keywords:
-- turkish airlines nairobi
-- how do i confirm my flight with turkish airlines
-- turkish airlines nairobi phone number
-- turkish airlines nairobi contacts
-- ethiopian airlines nairobi office address
+- 'turkish airlines nairobi'
+- 'how do i confirm my flight with turkish airlines'
+- 'turkish airlines nairobi phone number'
+- 'turkish airlines nairobi contacts'
+- 'ethiopian airlines nairobi office address'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

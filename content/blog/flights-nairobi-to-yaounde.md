@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Yaounde: Complete Guide'
-description: Everything you need to know about flights nairobi to yaounde, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to yaounde, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-yaounde
-primary_keyword: flights nairobi to yaounde
+primary_keyword: 'flights nairobi to yaounde'
 secondary_keywords:
-- flight from nairobi to new york
-- cost of flight from nairobi to diani
-- price of flight from nairobi to eldoret
-- return flight from nairobi to zanzibar
-- skyward flight from nairobi to mombasa
+- 'flight from nairobi to new york'
+- 'cost of flight from nairobi to diani'
+- 'price of flight from nairobi to eldoret'
+- 'return flight from nairobi to zanzibar'
+- 'skyward flight from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

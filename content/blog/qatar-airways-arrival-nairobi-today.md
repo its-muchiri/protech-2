@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways Arrival Nairobi Today: Complete Guide'
-description: Everything you need to know about qatar airways arrival nairobi today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways arrival nairobi today, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-arrival-nairobi-today
-primary_keyword: qatar airways arrival nairobi today
+primary_keyword: 'qatar airways arrival nairobi today'
 secondary_keywords:
-- flight ticket to kenya from south africa
-- online bus booking kenya from mombasa
-- local flights in kenya prices
-- flights to kenya in april
-- flights companies in kenya
+- 'flight ticket to kenya from south africa'
+- 'online bus booking kenya from mombasa'
+- 'local flights in kenya prices'
+- 'flights to kenya in april'
+- 'flights companies in kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Lake Nakuru Flamingo Safari Operators: Complete Guide'
-description: Kenya safari guide covering lake nakuru flamingo safari operators, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering lake nakuru flamingo safari operators, including what is included, pricing, and booking advice.'
 slug: lake-nakuru-flamingo-safari-operators
-primary_keyword: Lake Nakuru flamingo safari operators
+primary_keyword: 'Lake Nakuru flamingo safari operators'
 secondary_keywords:
-- Kenya safari package with hot air balloon price
-- Honeymoon package Kenya cost
-- Buy 4 day fly-in Samburu package deal
-- Buy package 7 day Kenya walking safari guided tour
-- Book 4 day Hell''s Gate Naivasha adventure package
+- 'Kenya safari package with hot air balloon price'
+- 'Honeymoon package Kenya cost'
+- 'Buy 4 day fly-in Samburu package deal'
+- 'Buy package 7 day Kenya walking safari guided tour'
+- 'Book 4 day Hell''''s Gate Naivasha adventure package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

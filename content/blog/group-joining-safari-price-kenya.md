@@ -1,14 +1,14 @@
 ---
 title: 'Group Joining Safari Price Kenya: Complete Guide'
-description: Kenya safari guide covering group joining safari price kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering group joining safari price kenya, including what is included, pricing, and booking advice.'
 slug: group-joining-safari-price-kenya
-primary_keyword: Group joining safari price Kenya
+primary_keyword: 'Group joining safari price Kenya'
 secondary_keywords:
-- Reserve luxury Kenya safari 2025/2026
-- Purchase Kenya migration safari August 2025 online
-- Kenya honeymoon safari package deals USA luxury
-- Affordable budget Kenya safari camping USA tours
-- Eco-friendly Kenya safari tours booking UK sustainable lodges
+- 'Reserve luxury Kenya safari 2025/2026'
+- 'Purchase Kenya migration safari August 2025 online'
+- 'Kenya honeymoon safari package deals USA luxury'
+- 'Affordable budget Kenya safari camping USA tours'
+- 'Eco-friendly Kenya safari tours booking UK sustainable lodges'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

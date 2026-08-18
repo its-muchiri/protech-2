@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nbo to Eldoret: Complete Guide'
-description: Everything you need to know about flights from nbo to eldoret, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nbo to eldoret, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nbo-to-eldoret
-primary_keyword: flights from nbo to eldoret
+primary_keyword: 'flights from nbo to eldoret'
 secondary_keywords:
-- flight from nairobi to kisumu
-- air india flight from nairobi to delhi price
-- flight from nairobi to belgium
-- flight from nairobi to chicago
-- flight from nairobi to delhi
+- 'flight from nairobi to kisumu'
+- 'air india flight from nairobi to delhi price'
+- 'flight from nairobi to belgium'
+- 'flight from nairobi to chicago'
+- 'flight from nairobi to delhi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

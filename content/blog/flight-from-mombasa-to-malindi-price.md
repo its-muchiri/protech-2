@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Mombasa to Malindi Price: Complete Guide'
-description: Everything you need to know about flight from mombasa to malindi price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from mombasa to malindi price, including routes, airlines, booking tips, and fares.'
 slug: flight-from-mombasa-to-malindi-price
-primary_keyword: flight from mombasa to malindi price
+primary_keyword: 'flight from mombasa to malindi price'
 secondary_keywords:
-- ghana flights from kenya
-- kenya to hargeisa flight
-- flight from kenya to india time
-- flights from kenya to jhb
-- flight from kenya to hong kong
+- 'ghana flights from kenya'
+- 'kenya to hargeisa flight'
+- 'flight from kenya to india time'
+- 'flights from kenya to jhb'
+- 'flight from kenya to hong kong'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

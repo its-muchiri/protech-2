@@ -1,14 +1,14 @@
 ---
 title: 'Laikipia Luxury Safari Deals Online: Complete Guide'
-description: Kenya safari guide covering laikipia luxury safari deals online, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering laikipia luxury safari deals online, including what is included, pricing, and booking advice.'
 slug: laikipia-luxury-safari-deals-online
-primary_keyword: Laikipia luxury safari deals online
+primary_keyword: 'Laikipia luxury safari deals online'
 secondary_keywords:
-- Overcrowded Masai Mara safari
-- Pangolin safari Kenya (extremely difficult sighting)
-- Wilson Airport Nairobi safari flights
-- Best travel pillow Kenya safari flight
-- Cost estimate Kenya safari package
+- 'Overcrowded Masai Mara safari'
+- 'Pangolin safari Kenya (extremely difficult sighting)'
+- 'Wilson Airport Nairobi safari flights'
+- 'Best travel pillow Kenya safari flight'
+- 'Cost estimate Kenya safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

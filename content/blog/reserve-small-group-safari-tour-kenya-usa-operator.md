@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Small Group Safari Tour Kenya USA Operator: Complete Guide'
-description: Kenya safari guide covering reserve small group safari tour kenya usa operator, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve small group safari tour kenya usa operator, including what is included, pricing, and booking advice.'
 slug: reserve-small-group-safari-tour-kenya-usa-operator
-primary_keyword: Reserve small group safari tour Kenya USA operator
+primary_keyword: 'Reserve small group safari tour Kenya USA operator'
 secondary_keywords:
-- Get deal 12 day Kenya Tanzania migration combo package booking
-- Purchase voucher Kenya family safari package
-- Buy discounted off-peak Kenya safari package April
-- Quote all-in price 10 day family safari Kenya December
-- Price and book 6 day Ashnil Samburu Mara package
+- 'Get deal 12 day Kenya Tanzania migration combo package booking'
+- 'Purchase voucher Kenya family safari package'
+- 'Buy discounted off-peak Kenya safari package April'
+- 'Quote all-in price 10 day family safari Kenya December'
+- 'Price and book 6 day Ashnil Samburu Mara package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

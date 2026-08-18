@@ -1,14 +1,14 @@
 ---
 title: 'Bonfire Adventures Kenya Safari Packages Price List / Reviews: Complete Guide'
-description: Kenya safari guide covering bonfire adventures kenya safari packages price list / reviews, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering bonfire adventures kenya safari packages price list / reviews, including what is included, pricing, and booking advice.'
 slug: bonfire-adventures-kenya-safari-packages-price-list-reviews
-primary_keyword: Bonfire Adventures Kenya safari packages price list / reviews
+primary_keyword: 'Bonfire Adventures Kenya safari packages price list / reviews'
 secondary_keywords:
-- Confirm availability 5 day budget safari Kenya August
-- Immediate quote Kenya custom safari package 14 days
-- Buy 4 day Amboseli Kilimanjaro view package deal
-- Secure 12 day premium family safari package Sarova lodges
-- Secure 6 day Saruni Samburu lodge package deal
+- 'Confirm availability 5 day budget safari Kenya August'
+- 'Immediate quote Kenya custom safari package 14 days'
+- 'Buy 4 day Amboseli Kilimanjaro view package deal'
+- 'Secure 12 day premium family safari package Sarova lodges'
+- 'Secure 6 day Saruni Samburu lodge package deal'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

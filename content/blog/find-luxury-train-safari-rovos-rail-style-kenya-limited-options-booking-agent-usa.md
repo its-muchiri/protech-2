@@ -1,14 +1,14 @@
 ---
 title: 'Find Luxury Train Safari Rovos Rail Style Kenya (limited Options) Booking Agent USA: Complete Guide'
-description: Kenya safari guide covering find luxury train safari rovos rail style kenya (limited options) booking agent usa, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering find luxury train safari rovos rail style kenya (limited options) booking agent usa, including what is included, pricing, and booking advice.'
 slug: find-luxury-train-safari-rovos-rail-style-kenya-limited-options-booking-agent-usa
-primary_keyword: Find luxury train safari Rovos Rail style Kenya (limited options) booking agent USA
+primary_keyword: 'Find luxury train safari Rovos Rail style Kenya (limited options) booking agent USA'
 secondary_keywords:
-- Fly-in Diani beach holiday from Wilson Airport company
-- Buy Amboseli tour package online
-- Secure Borana Conservancy luxury safari booking
-- Buy two week Kenya adventure tour reservation
-- Book photographic safari Kenya specialist tour
+- 'Fly-in Diani beach holiday from Wilson Airport company'
+- 'Buy Amboseli tour package online'
+- 'Secure Borana Conservancy luxury safari booking'
+- 'Buy two week Kenya adventure tour reservation'
+- 'Book photographic safari Kenya specialist tour'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

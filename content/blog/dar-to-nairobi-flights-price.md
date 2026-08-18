@@ -1,14 +1,14 @@
 ---
 title: 'Dar to Nairobi Flights Price: Complete Guide'
-description: Everything you need to know about dar to nairobi flights price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about dar to nairobi flights price, including routes, airlines, booking tips, and fares.'
 slug: dar-to-nairobi-flights-price
-primary_keyword: dar to nairobi flights price
+primary_keyword: 'dar to nairobi flights price'
 secondary_keywords:
-- requirements for domestic flights in kenya
-- flights arriving in kenya today
-- commercial flights in kenya
-- emirates in kenya
-- flights nairobi kigali
+- 'requirements for domestic flights in kenya'
+- 'flights arriving in kenya today'
+- 'commercial flights in kenya'
+- 'emirates in kenya'
+- 'flights nairobi kigali'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Recommended Kenya Safari: Complete Guide'
-description: Kenya safari guide covering recommended kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering recommended kenya safari, including what is included, pricing, and booking advice.'
 slug: recommended-kenya-safari
-primary_keyword: Recommended Kenya safari
+primary_keyword: 'Recommended Kenya safari'
 secondary_keywords:
-- Basic Kenya safari lodge package buy
-- 10 day Kenya Tanzania migration package buy
-- Reserve Kenya safari package  months in advance
-- Compare Kenya safari package prices
-- Kenya safari package including park fees cost
+- 'Basic Kenya safari lodge package buy'
+- '10 day Kenya Tanzania migration package buy'
+- 'Reserve Kenya safari package  months in advance'
+- 'Compare Kenya safari package prices'
+- 'Kenya safari package including park fees cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

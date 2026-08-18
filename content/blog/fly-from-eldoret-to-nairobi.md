@@ -1,14 +1,14 @@
 ---
 title: 'Fly from Eldoret to Nairobi: Complete Guide'
-description: Everything you need to know about fly from eldoret to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about fly from eldoret to nairobi, including routes, airlines, booking tips, and fares.'
 slug: fly-from-eldoret-to-nairobi
-primary_keyword: fly from eldoret to nairobi
+primary_keyword: 'fly from eldoret to nairobi'
 secondary_keywords:
-- flights in nairobi
-- flights from nairobi to jinja uganda
-- kenya airways flights from nairobi to addis ababa prices
-- flights to nairobi from london
-- skyward flights from mombasa to nairobi
+- 'flights in nairobi'
+- 'flights from nairobi to jinja uganda'
+- 'kenya airways flights from nairobi to addis ababa prices'
+- 'flights to nairobi from london'
+- 'skyward flights from mombasa to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

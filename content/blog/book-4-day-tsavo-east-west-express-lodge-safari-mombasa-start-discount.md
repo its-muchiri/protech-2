@@ -1,14 +1,14 @@
 ---
 title: 'Book 4 Day Tsavo East West Express Lodge Safari Mombasa Start Discount: Complete Guide'
-description: Kenya safari guide covering book 4 day tsavo east west express lodge safari mombasa start discount, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book 4 day tsavo east west express lodge safari mombasa start discount, including what is included, pricing, and booking advice.'
 slug: book-4-day-tsavo-east-west-express-lodge-safari-mombasa-start-discount
-primary_keyword: Book 4 day Tsavo East West express lodge safari Mombasa start discount
+primary_keyword: 'Book 4 day Tsavo East West express lodge safari Mombasa start discount'
 secondary_keywords:
-- Secure Kenya safari package for family with young children quote
-- Reserve New Year luxury Kenya safari deal
-- Purchase 6 day mid-range tented camp Masai Mara Nakuru package KATO operator
-- Purchase 3 day Nairobi National Park & Sheldrick Trust day tour package book
-- Online travel agencies (OTAs) for Kenya tours (e.g., Viator, GetYourGuide)
+- 'Secure Kenya safari package for family with young children quote'
+- 'Reserve New Year luxury Kenya safari deal'
+- 'Purchase 6 day mid-range tented camp Masai Mara Nakuru package KATO operator'
+- 'Purchase 3 day Nairobi National Park & Sheldrick Trust day tour package book'
+- 'Online travel agencies (OTAs) for Kenya tours (e.g., Viator, GetYourGuide)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

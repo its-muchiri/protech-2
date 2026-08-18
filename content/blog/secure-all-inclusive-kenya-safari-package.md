@@ -1,14 +1,14 @@
 ---
 title: 'Secure All-inclusive Kenya Safari Package: Complete Guide'
-description: Kenya safari guide covering secure all-inclusive kenya safari package, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering secure all-inclusive kenya safari package, including what is included, pricing, and booking advice.'
 slug: secure-all-inclusive-kenya-safari-package
-primary_keyword: Secure all-inclusive Kenya safari package
+primary_keyword: 'Secure all-inclusive Kenya safari package'
 secondary_keywords:
-- Senior citizen safari tours Kenya comfortable pace
-- Quiet beaches near Mombasa Tiwi Beach / Galu Beach
-- El Molo village tour Lake Turkana operators
-- Lake Magadi day trip flamingo tour price / road condition
-- Sunworld Safaris Kenya reviews
+- 'Senior citizen safari tours Kenya comfortable pace'
+- 'Quiet beaches near Mombasa Tiwi Beach / Galu Beach'
+- 'El Molo village tour Lake Turkana operators'
+- 'Lake Magadi day trip flamingo tour price / road condition'
+- 'Sunworld Safaris Kenya reviews'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

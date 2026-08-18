@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from Mombasa to Nairobi Today: Complete Guide'
-description: Everything you need to know about kenya airways flight from mombasa to nairobi today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from mombasa to nairobi today, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-mombasa-to-nairobi-today
-primary_keyword: kenya airways flight from mombasa to nairobi today
+primary_keyword: 'kenya airways flight from mombasa to nairobi today'
 secondary_keywords:
-- emirates flight 720
-- emirates flight 978
-- qatar airways flight from nairobi to dubai
-- qatar airways cargo nairobi
-- qatar airways in nairobi office
+- 'emirates flight 720'
+- 'emirates flight 978'
+- 'qatar airways flight from nairobi to dubai'
+- 'qatar airways cargo nairobi'
+- 'qatar airways in nairobi office'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

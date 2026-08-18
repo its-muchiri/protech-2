@@ -1,14 +1,14 @@
 ---
 title: 'Affordable Black and White Ultrasound Scanner in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to affordable black and white ultrasound scanner in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to affordable black and white ultrasound scanner in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: affordable-black-and-white-ultrasound-scanner-in-nairobi
-primary_keyword: Affordable black and white ultrasound scanner in Nairobi
+primary_keyword: 'Affordable black and white ultrasound scanner in Nairobi'
 secondary_keywords:
-- Sperm analysis (CASA) system for fertility clinic
-- dental implant kits price list
-- radiation monitoring badge service
-- special needs equipment for schools
-- hospital water storage and purification
+- 'Sperm analysis (CASA) system for fertility clinic'
+- 'dental implant kits price list'
+- 'radiation monitoring badge service'
+- 'special needs equipment for schools'
+- 'hospital water storage and purification'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

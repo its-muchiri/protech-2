@@ -1,14 +1,14 @@
 ---
 title: 'Top 10 Kenya Luxury Safari Lodges Booking Rates USA: Complete Guide'
-description: Kenya safari guide covering top 10 kenya luxury safari lodges booking rates usa, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering top 10 kenya luxury safari lodges booking rates usa, including what is included, pricing, and booking advice.'
 slug: top-10-kenya-luxury-safari-lodges-booking-rates-usa
-primary_keyword: Top 10 Kenya luxury safari lodges booking rates USA
+primary_keyword: 'Top 10 Kenya luxury safari lodges booking rates USA'
 secondary_keywords:
-- Reserve 11 day Kenya safari and beach Zanzibar package
-- Book 10 day safari package with hot air balloon included cost
-- Buy 3 day Amboseli fly-in package from Nairobi cost
-- Get itinerary and cost 8 day Kenya private safari
-- Secure place 6 day small group Kenya photo safari
+- 'Reserve 11 day Kenya safari and beach Zanzibar package'
+- 'Book 10 day safari package with hot air balloon included cost'
+- 'Buy 3 day Amboseli fly-in package from Nairobi cost'
+- 'Get itinerary and cost 8 day Kenya private safari'
+- 'Secure place 6 day small group Kenya photo safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

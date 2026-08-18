@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight Schedule Nairobi to Dubai: Complete Guide'
-description: Everything you need to know about emirates flight schedule nairobi to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight schedule nairobi to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-schedule-nairobi-to-dubai
-primary_keyword: emirates flight schedule nairobi to dubai
+primary_keyword: 'emirates flight schedule nairobi to dubai'
 secondary_keywords:
-- kenya airways booking nairobi to mombasa
-- airplanes in kenya
-- does british airways fly to uganda
-- do i need a passport for domestic flights in kenya
-- flights to kenya from toronto
+- 'kenya airways booking nairobi to mombasa'
+- 'airplanes in kenya'
+- 'does british airways fly to uganda'
+- 'do i need a passport for domestic flights in kenya'
+- 'flights to kenya from toronto'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

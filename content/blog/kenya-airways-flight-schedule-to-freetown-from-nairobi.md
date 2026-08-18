@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight Schedule to Freetown from Nairobi: Complete Guide'
-description: Everything you need to know about kenya airways flight schedule to freetown from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight schedule to freetown from nairobi, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-schedule-to-freetown-from-nairobi
-primary_keyword: kenya airways flight schedule to freetown from nairobi
+primary_keyword: 'kenya airways flight schedule to freetown from nairobi'
 secondary_keywords:
-- emirates flights from london to new york
-- emirates flight 0406
-- emirates flight 206 from jfk
-- emirates flight 332
-- emirates flight 407 pilots
+- 'emirates flights from london to new york'
+- 'emirates flight 0406'
+- 'emirates flight 206 from jfk'
+- 'emirates flight 332'
+- 'emirates flight 407 pilots'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

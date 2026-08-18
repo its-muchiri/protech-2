@@ -1,14 +1,14 @@
 ---
 title: 'Dubai Flights from Nairobi: Complete Guide'
-description: Everything you need to know about dubai flights from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about dubai flights from nairobi, including routes, airlines, booking tips, and fares.'
 slug: dubai-flights-from-nairobi
-primary_keyword: dubai flights from nairobi
+primary_keyword: 'dubai flights from nairobi'
 secondary_keywords:
-- emirates flights from heathrow to dubai
-- how many emirates flights from london to dubai a week
-- emirates flights from jfk
-- emirates flights from kolkata to dubai
-- emirates flights from larnaca
+- 'emirates flights from heathrow to dubai'
+- 'how many emirates flights from london to dubai a week'
+- 'emirates flights from jfk'
+- 'emirates flights from kolkata to dubai'
+- 'emirates flights from larnaca'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

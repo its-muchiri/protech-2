@@ -1,14 +1,14 @@
 ---
 title: 'Height Measuring Scale (stadiometer): 2026 Price Guide'
-description: Kenya buying guide to height measuring scale (stadiometer). Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to height measuring scale (stadiometer). Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: height-measuring-scale-stadiometer
-primary_keyword: Height measuring scale (stadiometer)
+primary_keyword: 'Height measuring scale (stadiometer)'
 secondary_keywords:
-- CPAP machines Kenya price
-- pipettes Kenya price
-- orthotic devices Kenya
-- otoscope price Kenya
-- patient transfer systems Kenya
+- 'CPAP machines Kenya price'
+- 'pipettes Kenya price'
+- 'orthotic devices Kenya'
+- 'otoscope price Kenya'
+- 'patient transfer systems Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

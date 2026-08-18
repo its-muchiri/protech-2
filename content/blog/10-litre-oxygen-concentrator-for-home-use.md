@@ -1,14 +1,14 @@
 ---
 title: '10-litre Oxygen Concentrator for Home Use: 2026 Price Guide'
-description: Kenya buying guide to 10-litre oxygen concentrator for home use. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to 10-litre oxygen concentrator for home use. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: 10-litre-oxygen-concentrator-for-home-use
-primary_keyword: 10-litre oxygen concentrator for home use
+primary_keyword: '10-litre oxygen concentrator for home use'
 secondary_keywords:
-- DNA testing equipment price in Kenya
-- blood pressure machine calibration Nairobi
-- tissue floatation bath for histology
-- automated CPR device (LUCAS) price
-- hospital security and CCTV systems
+- 'DNA testing equipment price in Kenya'
+- 'blood pressure machine calibration Nairobi'
+- 'tissue floatation bath for histology'
+- 'automated CPR device (LUCAS) price'
+- 'hospital security and CCTV systems'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

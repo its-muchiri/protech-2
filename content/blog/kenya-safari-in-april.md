@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari in April: Complete Guide'
-description: Kenya safari guide covering kenya safari in april, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari in april, including what is included, pricing, and booking advice.'
 slug: kenya-safari-in-april
-primary_keyword: Kenya safari in April
+primary_keyword: 'Kenya safari in April'
 secondary_keywords:
-- Top rated safari companies Kenya SafariBookings
-- Masai Mara National Reserve safari packages 3 days 2 nights from Nairobi
-- Budget camping safari Tsavo East red elephants
-- Crescent Island walking safari Lake Naivasha cost
-- Student safari packages Kenya budget options
+- 'Top rated safari companies Kenya SafariBookings'
+- 'Masai Mara National Reserve safari packages 3 days 2 nights from Nairobi'
+- 'Budget camping safari Tsavo East red elephants'
+- 'Crescent Island walking safari Lake Naivasha cost'
+- 'Student safari packages Kenya budget options'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

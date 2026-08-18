@@ -1,14 +1,14 @@
 ---
 title: 'B6 6 Flight Status: Complete Guide'
-description: Everything you need to know about b6 6 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about b6 6 flight status, including routes, airlines, booking tips, and fares.'
 slug: b6-6-flight-status
-primary_keyword: b6 6 flight status
+primary_keyword: 'b6 6 flight status'
 secondary_keywords:
-- flights from nbo to yow
-- flights from nairobi to zanzibar tanzania
-- kenya airways flights to south africa price
-- international flights from kisumu
-- flights from nairobi to atlanta
+- 'flights from nbo to yow'
+- 'flights from nairobi to zanzibar tanzania'
+- 'kenya airways flights to south africa price'
+- 'international flights from kisumu'
+- 'flights from nairobi to atlanta'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

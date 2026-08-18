@@ -1,14 +1,14 @@
 ---
 title: 'Fly Fishing Mount Kenya Safari: Complete Guide'
-description: Kenya safari guide covering fly fishing mount kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering fly fishing mount kenya safari, including what is included, pricing, and booking advice.'
 slug: fly-fishing-mount-kenya-safari
-primary_keyword: Fly fishing Mount Kenya safari
+primary_keyword: 'Fly fishing Mount Kenya safari'
 secondary_keywords:
-- Reserve luxury fly-camping safari private conservancy Kenya USA exclusive remote experience booking
-- Reserve archaeological site tour Koobi Fora safari Kenya Europe paleontology focus booking
-- Find kosher meal options Kenya safari booking Europe Jewish travel specialist agent
-- Book Saiwa Swamp National Park sitatunga antelope safari Kenya Europe rare species focus cost
-- Recommended Kenya safari
+- 'Reserve luxury fly-camping safari private conservancy Kenya USA exclusive remote experience booking'
+- 'Reserve archaeological site tour Koobi Fora safari Kenya Europe paleontology focus booking'
+- 'Find kosher meal options Kenya safari booking Europe Jewish travel specialist agent'
+- 'Book Saiwa Swamp National Park sitatunga antelope safari Kenya Europe rare species focus cost'
+- 'Recommended Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

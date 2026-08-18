@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kenya to Abuja: Complete Guide'
-description: Everything you need to know about flight from kenya to abuja, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kenya to abuja, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kenya-to-abuja
-primary_keyword: flight from kenya to abuja
+primary_keyword: 'flight from kenya to abuja'
 secondary_keywords:
-- flights nairobi to atlanta
-- flights nairobi to barcelona
-- flights nairobi to chicago
-- flights nairobi to delhi
-- emirates flights nairobi to dubai
+- 'flights nairobi to atlanta'
+- 'flights nairobi to barcelona'
+- 'flights nairobi to chicago'
+- 'flights nairobi to delhi'
+- 'emirates flights nairobi to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

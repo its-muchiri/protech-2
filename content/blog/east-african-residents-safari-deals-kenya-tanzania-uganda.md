@@ -1,14 +1,14 @@
 ---
 title: 'East African Residents Safari Deals Kenya / Tanzania / Uganda: Complete Guide'
-description: Kenya safari guide covering east african residents safari deals kenya / tanzania / uganda, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering east african residents safari deals kenya / tanzania / uganda, including what is included, pricing, and booking advice.'
 slug: east-african-residents-safari-deals-kenya-tanzania-uganda
-primary_keyword: East African residents safari deals Kenya / Tanzania / Uganda
+primary_keyword: 'East African residents safari deals Kenya / Tanzania / Uganda'
 secondary_keywords:
-- Purchase overland truck safari Kenya booking
-- Estimate for Kenya adventure safari trip
-- Estimate for 6 day Samburu Nakuru safari
-- Price enquiry 5 day family fly-in Amboseli package
-- Tsavo East West safari discount code
+- 'Purchase overland truck safari Kenya booking'
+- 'Estimate for Kenya adventure safari trip'
+- 'Estimate for 6 day Samburu Nakuru safari'
+- 'Price enquiry 5 day family fly-in Amboseli package'
+- 'Tsavo East West safari discount code'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Anti-decubitus Air Mattress Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to anti-decubitus air mattress price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to anti-decubitus air mattress price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: anti-decubitus-air-mattress-price-in-kenya
-primary_keyword: Anti-decubitus air mattress price in Kenya
+primary_keyword: 'Anti-decubitus air mattress price in Kenya'
 secondary_keywords:
-- crepe bandages Kenya price
-- surgical spirit price Nairobi
-- disposable aprons medical Kenya
-- medical sharps disposal Kenya
-- essential medical supplies Kenya
+- 'crepe bandages Kenya price'
+- 'surgical spirit price Nairobi'
+- 'disposable aprons medical Kenya'
+- 'medical sharps disposal Kenya'
+- 'essential medical supplies Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

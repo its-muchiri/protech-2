@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Packing List: Complete Guide'
-description: Kenya safari guide covering kenya safari packing list, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari packing list, including what is included, pricing, and booking advice.'
 slug: kenya-safari-packing-list
-primary_keyword: Kenya safari packing list
+primary_keyword: 'Kenya safari packing list'
 secondary_keywords:
-- 12 day Kenya safari
-- All-inclusive safari cost Kenya
-- Masai Mara lodges
-- Cultural tours Kenya safari
-- Wildebeest migration Kenya timing
+- '12 day Kenya safari'
+- 'All-inclusive safari cost Kenya'
+- 'Masai Mara lodges'
+- 'Cultural tours Kenya safari'
+- 'Wildebeest migration Kenya timing'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

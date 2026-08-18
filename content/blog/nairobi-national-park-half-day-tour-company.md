@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi National Park Half-day Tour Company: Complete Guide'
-description: Kenya safari guide covering nairobi national park half-day tour company, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering nairobi national park half-day tour company, including what is included, pricing, and booking advice.'
 slug: nairobi-national-park-half-day-tour-company
-primary_keyword: Nairobi National Park half-day tour company
+primary_keyword: 'Nairobi National Park half-day tour company'
 secondary_keywords:
-- Kenya family safari packages all inclusive
-- Watamu deep sea fishing charter companies
-- Duration-Specific Searches
-- Cheapest safari Kenya Mara
-- Safari operators Kiambu County
+- 'Kenya family safari packages all inclusive'
+- 'Watamu deep sea fishing charter companies'
+- 'Duration-Specific Searches'
+- 'Cheapest safari Kenya Mara'
+- 'Safari operators Kiambu County'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

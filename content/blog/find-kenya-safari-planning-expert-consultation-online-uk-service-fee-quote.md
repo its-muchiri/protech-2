@@ -1,14 +1,14 @@
 ---
 title: 'Find Kenya Safari Planning Expert Consultation Online UK Service Fee Quote: Complete Guide'
-description: Kenya safari guide covering find kenya safari planning expert consultation online uk service fee quote, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering find kenya safari planning expert consultation online uk service fee quote, including what is included, pricing, and booking advice.'
 slug: find-kenya-safari-planning-expert-consultation-online-uk-service-fee-quote
-primary_keyword: Find Kenya safari planning expert consultation online UK service fee quote
+primary_keyword: 'Find Kenya safari planning expert consultation online UK service fee quote'
 secondary_keywords:
-- Sustainable tour operators Kenya
-- Samburu National Reserve tour packages
-- Meru National Park safari companies
-- Solo traveler tours Kenya safe operators
-- Karen Blixen Museum tour operators
+- 'Sustainable tour operators Kenya'
+- 'Samburu National Reserve tour packages'
+- 'Meru National Park safari companies'
+- 'Solo traveler tours Kenya safe operators'
+- 'Karen Blixen Museum tour operators'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

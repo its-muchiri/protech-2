@@ -1,14 +1,14 @@
 ---
 title: 'Flight Time from Nairobi to New Delhi: Complete Guide'
-description: Everything you need to know about flight time from nairobi to new delhi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight time from nairobi to new delhi, including routes, airlines, booking tips, and fares.'
 slug: flight-time-from-nairobi-to-new-delhi
-primary_keyword: flight time from nairobi to new delhi
+primary_keyword: 'flight time from nairobi to new delhi'
 secondary_keywords:
-- kq flight 100
-- kq 274 flight status
-- kq flight 4
-- kq 586 flight status
-- kq 887 flight status
+- 'kq flight 100'
+- 'kq 274 flight status'
+- 'kq flight 4'
+- 'kq 586 flight status'
+- 'kq 887 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

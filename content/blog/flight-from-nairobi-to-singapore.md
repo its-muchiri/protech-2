@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Singapore: Complete Guide'
-description: Everything you need to know about flight from nairobi to singapore, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to singapore, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-singapore
-primary_keyword: flight from nairobi to singapore
+primary_keyword: 'flight from nairobi to singapore'
 secondary_keywords:
-- flights from mombasa to wilson airport
-- airlines that fly to mombasa
-- cheap flights from mombasa to zanzibar
-- flights from mombasa to eldoret
-- flights to mombasa kenya from paris france
+- 'flights from mombasa to wilson airport'
+- 'airlines that fly to mombasa'
+- 'cheap flights from mombasa to zanzibar'
+- 'flights from mombasa to eldoret'
+- 'flights to mombasa kenya from paris france'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

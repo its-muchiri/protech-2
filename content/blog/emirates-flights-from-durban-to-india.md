@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Durban to India: Complete Guide'
-description: Everything you need to know about emirates flights from durban to india, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from durban to india, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-durban-to-india
-primary_keyword: emirates flights from durban to india
+primary_keyword: 'emirates flights from durban to india'
 secondary_keywords:
-- fly 48
-- 540 flight from nairobi to lodwar today
-- turkish airlines from nairobi to istanbul
-- turkish airlines nairobi contact number
-- flight from nairobi to turkey
+- 'fly 48'
+- '540 flight from nairobi to lodwar today'
+- 'turkish airlines from nairobi to istanbul'
+- 'turkish airlines nairobi contact number'
+- 'flight from nairobi to turkey'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

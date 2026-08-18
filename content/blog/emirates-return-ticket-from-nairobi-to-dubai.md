@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Return Ticket from Nairobi to Dubai: Complete Guide'
-description: Everything you need to know about emirates return ticket from nairobi to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates return ticket from nairobi to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-return-ticket-from-nairobi-to-dubai
-primary_keyword: emirates return ticket from nairobi to dubai
+primary_keyword: 'emirates return ticket from nairobi to dubai'
 secondary_keywords:
-- does ethiopian airlines fly to dublin
-- nairobi to turkey flight time
-- flight booking agents in nairobi
-- flight duration from kenya to usa
-- kenya to dubai flight cost
+- 'does ethiopian airlines fly to dublin'
+- 'nairobi to turkey flight time'
+- 'flight booking agents in nairobi'
+- 'flight duration from kenya to usa'
+- 'kenya to dubai flight cost'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

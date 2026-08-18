@@ -1,14 +1,14 @@
 ---
 title: 'Overland Truck Tour Companies Nairobi Start: Complete Guide'
-description: Kenya safari guide covering overland truck tour companies nairobi start, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering overland truck tour companies nairobi start, including what is included, pricing, and booking advice.'
 slug: overland-truck-tour-companies-nairobi-start
-primary_keyword: Overland truck tour companies Nairobi start
+primary_keyword: 'Overland truck tour companies Nairobi start'
 secondary_keywords:
-- Buy 10 day budget Kenya Tanzania camping safari booking
-- Masai Mara safari package cost estimate
-- Price quote 10 day Kenya Tanzania combined tour
-- Estimate 12 day luxury tented camp migration safari
-- Meru National Park package discount booking
+- 'Buy 10 day budget Kenya Tanzania camping safari booking'
+- 'Masai Mara safari package cost estimate'
+- 'Price quote 10 day Kenya Tanzania combined tour'
+- 'Estimate 12 day luxury tented camp migration safari'
+- 'Meru National Park package discount booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

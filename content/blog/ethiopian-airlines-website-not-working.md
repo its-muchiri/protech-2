@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Website Not Working: Complete Guide'
-description: Everything you need to know about ethiopian airlines website not working, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines website not working, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-website-not-working
-primary_keyword: ethiopian airlines website not working
+primary_keyword: 'ethiopian airlines website not working'
 secondary_keywords:
-- flights to kenya mombasa
-- flights to kenya price
-- flights from nairobi kenya to rome italy
-- flights to kenya uk
-- flights to zambia from nairobi
+- 'flights to kenya mombasa'
+- 'flights to kenya price'
+- 'flights from nairobi kenya to rome italy'
+- 'flights to kenya uk'
+- 'flights to zambia from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

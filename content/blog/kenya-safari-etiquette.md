@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Etiquette: Complete Guide'
-description: Kenya safari guide covering kenya safari etiquette, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari etiquette, including what is included, pricing, and booking advice.'
 slug: kenya-safari-etiquette
-primary_keyword: Kenya safari etiquette
+primary_keyword: 'Kenya safari etiquette'
 secondary_keywords:
-- Reserve bespoke Kenya safari experience
-- Book Mara North Conservancy package
-- Secure 10 day Kenya Tanzania combined tour
-- Reserve luxury tented camp safari booking
-- Price for Kenya wildlife safari package
+- 'Reserve bespoke Kenya safari experience'
+- 'Book Mara North Conservancy package'
+- 'Secure 10 day Kenya Tanzania combined tour'
+- 'Reserve luxury tented camp safari booking'
+- 'Price for Kenya wildlife safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

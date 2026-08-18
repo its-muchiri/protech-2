@@ -1,14 +1,14 @@
 ---
 title: 'Ba Flight from Nairobi to London Today: Complete Guide'
-description: Everything you need to know about ba flight from nairobi to london today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ba flight from nairobi to london today, including routes, airlines, booking tips, and fares.'
 slug: ba-flight-from-nairobi-to-london-today
-primary_keyword: ba flight from nairobi to london today
+primary_keyword: 'ba flight from nairobi to london today'
 secondary_keywords:
-- emirates flights from riyadh to dubai today
-- emirates flights from sfo
-- emirates flights from uk
-- emirates flights from vietnam
-- emirates fly from which terminal
+- 'emirates flights from riyadh to dubai today'
+- 'emirates flights from sfo'
+- 'emirates flights from uk'
+- 'emirates flights from vietnam'
+- 'emirates fly from which terminal'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from South Africa: Complete Guide'
-description: Everything you need to know about emirates flights from south africa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from south africa, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-south-africa
-primary_keyword: emirates flights from south africa
+primary_keyword: 'emirates flights from south africa'
 secondary_keywords:
-- flight duration from nairobi to new york
-- book flight from nairobi to mombasa
-- flight 540 nairobi to eldoret
-- b6 6 flight status
-- turkish airlines routes
+- 'flight duration from nairobi to new york'
+- 'book flight from nairobi to mombasa'
+- 'flight 540 nairobi to eldoret'
+- 'b6 6 flight status'
+- 'turkish airlines routes'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

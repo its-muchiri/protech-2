@@ -1,14 +1,14 @@
 ---
 title: 'Where Can You Fly Direct from Nairobi: Complete Guide'
-description: Everything you need to know about where can you fly direct from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about where can you fly direct from nairobi, including routes, airlines, booking tips, and fares.'
 slug: where-can-you-fly-direct-from-nairobi
-primary_keyword: where can you fly direct from nairobi
+primary_keyword: 'where can you fly direct from nairobi'
 secondary_keywords:
-- does british airways fly to mombasa
-- cheap flights from mombasa to entebbe
-- flights to mombasa from europe
-- flights from mombasa to garissa
-- flights from homabay to mombasa
+- 'does british airways fly to mombasa'
+- 'cheap flights from mombasa to entebbe'
+- 'flights to mombasa from europe'
+- 'flights from mombasa to garissa'
+- 'flights from homabay to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

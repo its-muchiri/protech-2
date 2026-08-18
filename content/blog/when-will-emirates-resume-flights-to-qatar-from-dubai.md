@@ -1,14 +1,14 @@
 ---
 title: 'When Will Emirates Resume Flights to Qatar from Dubai: Complete Guide'
-description: Everything you need to know about when will emirates resume flights to qatar from dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about when will emirates resume flights to qatar from dubai, including routes, airlines, booking tips, and fares.'
 slug: when-will-emirates-resume-flights-to-qatar-from-dubai
-primary_keyword: when will emirates resume flights to qatar from dubai
+primary_keyword: 'when will emirates resume flights to qatar from dubai'
 secondary_keywords:
-- flight from nairobi to sweden
-- how long is the flight from nairobi to london
-- flight from nairobi to vienna
-- what is the longest flight from nairobi
-- flight from nairobi to zurich
+- 'flight from nairobi to sweden'
+- 'how long is the flight from nairobi to london'
+- 'flight from nairobi to vienna'
+- 'what is the longest flight from nairobi'
+- 'flight from nairobi to zurich'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

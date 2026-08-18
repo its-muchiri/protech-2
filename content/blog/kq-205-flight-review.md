@@ -1,14 +1,14 @@
 ---
 title: 'Kq 205 Flight Review: Complete Guide'
-description: Everything you need to know about kq 205 flight review, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 205 flight review, including routes, airlines, booking tips, and fares.'
 slug: kq-205-flight-review
-primary_keyword: kq 205 flight review
+primary_keyword: 'kq 205 flight review'
 secondary_keywords:
-- kisumu to nairobi flight time
-- jambojet flights from kisumu to nairobi timetable
-- last flight from kisumu to nairobi
-- flights to kisumu renegade
-- flights from eldoret
+- 'kisumu to nairobi flight time'
+- 'jambojet flights from kisumu to nairobi timetable'
+- 'last flight from kisumu to nairobi'
+- 'flights to kisumu renegade'
+- 'flights from eldoret'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

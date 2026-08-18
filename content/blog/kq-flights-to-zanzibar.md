@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Zanzibar: Complete Guide'
-description: Everything you need to know about kq flights to zanzibar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to zanzibar, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-zanzibar
-primary_keyword: kq flights to zanzibar
+primary_keyword: 'kq flights to zanzibar'
 secondary_keywords:
-- flights to nairobi today
-- how much is a flight from nairobi to new york
-- flights from mombasa to amsterdam
-- flights from berlin to mombasa
-- flight from nairobi to mombasa cost
+- 'flights to nairobi today'
+- 'how much is a flight from nairobi to new york'
+- 'flights from mombasa to amsterdam'
+- 'flights from berlin to mombasa'
+- 'flight from nairobi to mombasa cost'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

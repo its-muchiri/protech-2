@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is a Flight from Nairobi to Mombasa: Complete Guide'
-description: Everything you need to know about how much is a flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is a flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-a-flight-from-nairobi-to-mombasa
-primary_keyword: how much is a flight from nairobi to mombasa
+primary_keyword: 'how much is a flight from nairobi to mombasa'
 secondary_keywords:
-- kenya airways flights from heathrow
-- kq flight from mumbai to nairobi
-- kq to zanzibar
-- kq flight from nairobi to accra
-- kq direct flight from nairobi to new york time
+- 'kenya airways flights from heathrow'
+- 'kq flight from mumbai to nairobi'
+- 'kq to zanzibar'
+- 'kq flight from nairobi to accra'
+- 'kq direct flight from nairobi to new york time'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Domestic Flight from Nairobi to Mombasa Price in Ksh: Complete Guide'
-description: Everything you need to know about domestic flight from nairobi to mombasa price in ksh, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about domestic flight from nairobi to mombasa price in ksh, including routes, airlines, booking tips, and fares.'
 slug: domestic-flight-from-nairobi-to-mombasa-price-in-ksh
-primary_keyword: domestic flight from nairobi to mombasa price in ksh
+primary_keyword: 'domestic flight from nairobi to mombasa price in ksh'
 secondary_keywords:
-- flights from kenya to china
-- are there direct flights from kenya to germany
-- flights to kenya from birmingham
-- cheap flights from kenya to ghana
-- flights from kenya to eswatini
+- 'flights from kenya to china'
+- 'are there direct flights from kenya to germany'
+- 'flights to kenya from birmingham'
+- 'cheap flights from kenya to ghana'
+- 'flights from kenya to eswatini'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

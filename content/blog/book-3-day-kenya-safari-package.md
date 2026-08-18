@@ -1,14 +1,14 @@
 ---
 title: 'Book 3 Day Kenya Safari Package: Complete Guide'
-description: Kenya safari guide covering book 3 day kenya safari package, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book 3 day kenya safari package, including what is included, pricing, and booking advice.'
 slug: book-3-day-kenya-safari-package
-primary_keyword: Book 3 day Kenya safari package
+primary_keyword: 'Book 3 day Kenya safari package'
 secondary_keywords:
-- Ol Pejeta Conservancy day trip from Nanyuki / Nairobi chimpanzee sanctuary tour
-- Family safari Kenya deals child friendly lodges
-- Malindi beach hotels deals Italian influence
-- Mount Longonot hike day trip from Nairobi / Thika price / guide
-- Day trip Nairobi National Park tour company price
+- 'Ol Pejeta Conservancy day trip from Nanyuki / Nairobi chimpanzee sanctuary tour'
+- 'Family safari Kenya deals child friendly lodges'
+- 'Malindi beach hotels deals Italian influence'
+- 'Mount Longonot hike day trip from Nairobi / Thika price / guide'
+- 'Day trip Nairobi National Park tour company price'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

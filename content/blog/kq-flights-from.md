@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from: Complete Guide'
-description: Everything you need to know about kq flights from, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from
-primary_keyword: kq flights from
+primary_keyword: 'kq flights from'
 secondary_keywords:
-- flights from nairobi kenya to new york ny
-- how much is flight from nairobi to mombasa
-- flights from nairobi to cairo egypt
-- flights from mombasa to addis ababa
-- flights from mombasa to homa bay
+- 'flights from nairobi kenya to new york ny'
+- 'how much is flight from nairobi to mombasa'
+- 'flights from nairobi to cairo egypt'
+- 'flights from mombasa to addis ababa'
+- 'flights from mombasa to homa bay'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

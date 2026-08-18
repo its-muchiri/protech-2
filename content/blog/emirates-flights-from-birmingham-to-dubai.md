@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Birmingham to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from birmingham to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from birmingham to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-birmingham-to-dubai
-primary_keyword: emirates flights from birmingham to dubai
+primary_keyword: 'emirates flights from birmingham to dubai'
 secondary_keywords:
-- kq flight to qatar
-- kq flight status lhr to nbo
-- wb flight
-- kq 001
-- kq 203 flight status today
+- 'kq flight to qatar'
+- 'kq flight status lhr to nbo'
+- 'wb flight'
+- 'kq 001'
+- 'kq 203 flight status today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

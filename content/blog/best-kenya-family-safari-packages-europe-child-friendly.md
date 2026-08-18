@@ -1,14 +1,14 @@
 ---
 title: 'Best Kenya Family Safari Packages Europe Child Friendly: Complete Guide'
-description: Kenya safari guide covering best kenya family safari packages europe child friendly, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering best kenya family safari packages europe child friendly, including what is included, pricing, and booking advice.'
 slug: best-kenya-family-safari-packages-europe-child-friendly
-primary_keyword: Best Kenya family safari packages Europe child friendly
+primary_keyword: 'Best Kenya family safari packages Europe child friendly'
 secondary_keywords:
-- African safari Kenya
-- Amboseli National Park safari
-- Chyulu Hills safari
-- Family Kenya safari
-- Private Kenya safari
+- 'African safari Kenya'
+- 'Amboseli National Park safari'
+- 'Chyulu Hills safari'
+- 'Family Kenya safari'
+- 'Private Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Entebbe: Complete Guide'
-description: Everything you need to know about kq flights to entebbe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to entebbe, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-entebbe
-primary_keyword: kq flights to entebbe
+primary_keyword: 'kq flights to entebbe'
 secondary_keywords:
-- are emirates flights cancelled
-- emirates flights to australia from glasgow
-- how many emirates flights from glasgow
-- emirates flights to india from dubai
-- emirates flights from kochi to dubai
+- 'are emirates flights cancelled'
+- 'emirates flights to australia from glasgow'
+- 'how many emirates flights from glasgow'
+- 'emirates flights to india from dubai'
+- 'emirates flights from kochi to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

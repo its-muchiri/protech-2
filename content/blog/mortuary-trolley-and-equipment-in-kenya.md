@@ -1,14 +1,14 @@
 ---
 title: 'Mortuary Trolley and Equipment in Kenya: 2026 Price Guide'
-description: Kenya buying guide to mortuary trolley and equipment in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to mortuary trolley and equipment in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: mortuary-trolley-and-equipment-in-kenya
-primary_keyword: Mortuary trolley and equipment in Kenya
+primary_keyword: 'Mortuary trolley and equipment in Kenya'
 secondary_keywords:
-- Computed Radiography (CR) system upgrade cost
-- Mindray BC-5000 price and reagent cost
-- Tabletop autoclave sterilizer (18L) price
-- Mobile surgical light suppliers in Nairobi
-- Dental extraction and filling instrument kit
+- 'Computed Radiography (CR) system upgrade cost'
+- 'Mindray BC-5000 price and reagent cost'
+- 'Tabletop autoclave sterilizer (18L) price'
+- 'Mobile surgical light suppliers in Nairobi'
+- 'Dental extraction and filling instrument kit'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

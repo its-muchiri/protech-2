@@ -1,14 +1,14 @@
 ---
 title: 'Community-based Tourism Operators Kenya: Complete Guide'
-description: Kenya safari guide covering community-based tourism operators kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering community-based tourism operators kenya, including what is included, pricing, and booking advice.'
 slug: community-based-tourism-operators-kenya
-primary_keyword: Community-based tourism operators Kenya
+primary_keyword: 'Community-based tourism operators Kenya'
 secondary_keywords:
-- Safari Chyulu Hills booking USA luxury lodge (e.g., Ol Donyo)
-- Kenya family safari deals Europe based operators
-- Best Kenya safari tour operators UK reviews 2025
-- Niche Kenya safari operator (e.g., photographic, birding) UK
-- Immediate booking confirmation Kenya safari tour online
+- 'Safari Chyulu Hills booking USA luxury lodge (e.g., Ol Donyo)'
+- 'Kenya family safari deals Europe based operators'
+- 'Best Kenya safari tour operators UK reviews 2025'
+- 'Niche Kenya safari operator (e.g., photographic, birding) UK'
+- 'Immediate booking confirmation Kenya safari tour online'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

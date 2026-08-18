@@ -1,14 +1,14 @@
 ---
 title: 'Flight Time from Nairobi to Zimbabwe: Complete Guide'
-description: Everything you need to know about flight time from nairobi to zimbabwe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight time from nairobi to zimbabwe, including routes, airlines, booking tips, and fares.'
 slug: flight-time-from-nairobi-to-zimbabwe
-primary_keyword: flight time from nairobi to zimbabwe
+primary_keyword: 'flight time from nairobi to zimbabwe'
 secondary_keywords:
-- kq flights schedule today
-- kq flights to uganda today
-- kq 0760 flight status
-- kq 205 flight status
-- kq 305 flight status
+- 'kq flights schedule today'
+- 'kq flights to uganda today'
+- 'kq 0760 flight status'
+- 'kq 205 flight status'
+- 'kq 305 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

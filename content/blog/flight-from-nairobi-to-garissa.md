@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Garissa: Complete Guide'
-description: Everything you need to know about flight from nairobi to garissa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to garissa, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-garissa
-primary_keyword: flight from nairobi to garissa
+primary_keyword: 'flight from nairobi to garissa'
 secondary_keywords:
-- flights nairobi to zanzibar
-- 1 bedroom houses for rent in nairobi
-- flights from nairobi to thailand
-- emirates flights arriving from dubai today
-- emirates flights from birmingham today
+- 'flights nairobi to zanzibar'
+- '1 bedroom houses for rent in nairobi'
+- 'flights from nairobi to thailand'
+- 'emirates flights arriving from dubai today'
+- 'emirates flights from birmingham today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

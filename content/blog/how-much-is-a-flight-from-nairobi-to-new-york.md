@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is a Flight from Nairobi to New York: Complete Guide'
-description: Everything you need to know about how much is a flight from nairobi to new york, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is a flight from nairobi to new york, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-a-flight-from-nairobi-to-new-york
-primary_keyword: how much is a flight from nairobi to new york
+primary_keyword: 'how much is a flight from nairobi to new york'
 secondary_keywords:
-- ethiopian airlines nairobi to mumbai
-- ethiopian airlines fares
-- turkish airlines istanbul to nairobi today
-- flight ticket from kenya to uk
-- flight booking sites in kenya
+- 'ethiopian airlines nairobi to mumbai'
+- 'ethiopian airlines fares'
+- 'turkish airlines istanbul to nairobi today'
+- 'flight ticket from kenya to uk'
+- 'flight booking sites in kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

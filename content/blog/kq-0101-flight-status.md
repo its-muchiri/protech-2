@@ -1,14 +1,14 @@
 ---
 title: 'Kq 0101 Flight Status: Complete Guide'
-description: Everything you need to know about kq 0101 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 0101 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq-0101-flight-status
-primary_keyword: kq 0101 flight status
+primary_keyword: 'kq 0101 flight status'
 secondary_keywords:
-- flights to kenya from winnipeg
-- flights from nbo to yvr
-- flights from nairobi kenya to zurich switzerland
-- how much is a flight from kenya to south africa
-- how much is a flight from kenya to china
+- 'flights to kenya from winnipeg'
+- 'flights from nbo to yvr'
+- 'flights from nairobi kenya to zurich switzerland'
+- 'how much is a flight from kenya to south africa'
+- 'how much is a flight from kenya to china'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

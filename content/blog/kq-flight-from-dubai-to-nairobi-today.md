@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Dubai to Nairobi Today: Complete Guide'
-description: Everything you need to know about kq flight from dubai to nairobi today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from dubai to nairobi today, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-dubai-to-nairobi-today
-primary_keyword: kq flight from dubai to nairobi today
+primary_keyword: 'kq flight from dubai to nairobi today'
 secondary_keywords:
-- flights from mombasa to frankfurt
-- flights from mombasa to heathrow
-- flights to mombasa in december
-- jambojet flights from mombasa to nairobi today timetable
-- flights from mombasa to london
+- 'flights from mombasa to frankfurt'
+- 'flights from mombasa to heathrow'
+- 'flights to mombasa in december'
+- 'jambojet flights from mombasa to nairobi today timetable'
+- 'flights from mombasa to london'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

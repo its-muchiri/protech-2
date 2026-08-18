@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Jersey: Complete Guide'
-description: Everything you need to know about flight from nairobi to jersey, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to jersey, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-jersey
-primary_keyword: flight from nairobi to jersey
+primary_keyword: 'flight from nairobi to jersey'
 secondary_keywords:
-- flight from nairobi to uae
-- how long is the flight from nairobi to victoria falls
-- cheapest flight from nairobi to south africa
-- how many hours flight from nairobi to zanzibar
-- cheapest flight from nairobi to johannesburg
+- 'flight from nairobi to uae'
+- 'how long is the flight from nairobi to victoria falls'
+- 'cheapest flight from nairobi to south africa'
+- 'how many hours flight from nairobi to zanzibar'
+- 'cheapest flight from nairobi to johannesburg'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

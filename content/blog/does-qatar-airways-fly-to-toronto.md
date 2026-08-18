@@ -1,14 +1,14 @@
 ---
 title: 'Does Qatar Airways Fly to Toronto: Complete Guide'
-description: Everything you need to know about does qatar airways fly to toronto, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about does qatar airways fly to toronto, including routes, airlines, booking tips, and fares.'
 slug: does-qatar-airways-fly-to-toronto
-primary_keyword: does qatar airways fly to toronto
+primary_keyword: 'does qatar airways fly to toronto'
 secondary_keywords:
-- yyz to nairobi flights
-- 1 bedroom nairobi west
-- 8 flights
-- emirates flights from amsterdam
-- emirates flights from beirut
+- 'yyz to nairobi flights'
+- '1 bedroom nairobi west'
+- '8 flights'
+- 'emirates flights from amsterdam'
+- 'emirates flights from beirut'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

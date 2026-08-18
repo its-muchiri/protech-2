@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Winnipeg to Nairobi Kenya: Complete Guide'
-description: Everything you need to know about flights from winnipeg to nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from winnipeg to nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-winnipeg-to-nairobi-kenya
-primary_keyword: flights from winnipeg to nairobi kenya
+primary_keyword: 'flights from winnipeg to nairobi kenya'
 secondary_keywords:
-- kq 271 flight status
-- kq 353 flight status today
-- kq 520 flight status
-- kq 610
-- does emirates have domestic flights
+- 'kq 271 flight status'
+- 'kq 353 flight status today'
+- 'kq 520 flight status'
+- 'kq 610'
+- 'does emirates have domestic flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

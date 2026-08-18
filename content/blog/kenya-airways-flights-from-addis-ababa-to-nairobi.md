@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights from Addis Ababa to Nairobi: Complete Guide'
-description: Everything you need to know about kenya airways flights from addis ababa to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights from addis ababa to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-from-addis-ababa-to-nairobi
-primary_keyword: kenya airways flights from addis ababa to nairobi
+primary_keyword: 'kenya airways flights from addis ababa to nairobi'
 secondary_keywords:
-- flights from nairobi to vipingo
-- flights from winnipeg to nairobi kenya
-- flights from new york to kenya
-- zanzibar flights from kenya
-- 748 flights from kisumu to nairobi
+- 'flights from nairobi to vipingo'
+- 'flights from winnipeg to nairobi kenya'
+- 'flights from new york to kenya'
+- 'zanzibar flights from kenya'
+- '748 flights from kisumu to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

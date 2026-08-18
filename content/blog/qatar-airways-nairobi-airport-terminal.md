@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways Nairobi Airport Terminal: Complete Guide'
-description: Everything you need to know about qatar airways nairobi airport terminal, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways nairobi airport terminal, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-nairobi-airport-terminal
-primary_keyword: qatar airways nairobi airport terminal
+primary_keyword: 'qatar airways nairobi airport terminal'
 secondary_keywords:
-- flights from mombasa to dar
-- flights from mombasa to frankfurt
-- flights from mombasa to heathrow
-- flights to mombasa in december
-- jambojet flights from mombasa to nairobi today timetable
+- 'flights from mombasa to dar'
+- 'flights from mombasa to frankfurt'
+- 'flights from mombasa to heathrow'
+- 'flights to mombasa in december'
+- 'jambojet flights from mombasa to nairobi today timetable'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

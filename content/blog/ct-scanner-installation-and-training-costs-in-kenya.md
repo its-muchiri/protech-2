@@ -1,14 +1,14 @@
 ---
 title: 'CT Scanner Installation and Training Costs in Kenya: 2026 Price Guide'
-description: Kenya buying guide to ct scanner installation and training costs in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to ct scanner installation and training costs in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: ct-scanner-installation-and-training-costs-in-kenya
-primary_keyword: CT scanner installation and training costs in Kenya
+primary_keyword: 'CT scanner installation and training costs in Kenya'
 secondary_keywords:
-- Portable dental chair for mobile clinics
-- Tenders for dental imaging equipment in Kenya
-- Portable veterinary X-ray machine for sale in Kenya
-- Artificial insemination equipment for livestock
-- Suction machine for home care price
+- 'Portable dental chair for mobile clinics'
+- 'Tenders for dental imaging equipment in Kenya'
+- 'Portable veterinary X-ray machine for sale in Kenya'
+- 'Artificial insemination equipment for livestock'
+- 'Suction machine for home care price'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

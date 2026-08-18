@@ -1,14 +1,14 @@
 ---
 title: 'Tipping Guide for Safari Driver / Lodge Staff Kenya: Complete Guide'
-description: Kenya safari guide covering tipping guide for safari driver / lodge staff kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering tipping guide for safari driver / lodge staff kenya, including what is included, pricing, and booking advice.'
 slug: tipping-guide-for-safari-driver-lodge-staff-kenya
-primary_keyword: Tipping guide for safari driver / lodge staff Kenya
+primary_keyword: 'Tipping guide for safari driver / lodge staff Kenya'
 secondary_keywords:
-- Plan Kenya safari
-- Aberdare National Park safari
-- Multi-park Kenya safari
-- Camping Kenya safari
-- Guided Kenya safari
+- 'Plan Kenya safari'
+- 'Aberdare National Park safari'
+- 'Multi-park Kenya safari'
+- 'Camping Kenya safari'
+- 'Guided Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

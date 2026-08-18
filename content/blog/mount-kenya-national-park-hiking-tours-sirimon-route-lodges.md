@@ -1,14 +1,14 @@
 ---
 title: 'Mount Kenya National Park Hiking Tours Sirimon Route Lodges: Complete Guide'
-description: Kenya safari guide covering mount kenya national park hiking tours sirimon route lodges, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering mount kenya national park hiking tours sirimon route lodges, including what is included, pricing, and booking advice.'
 slug: mount-kenya-national-park-hiking-tours-sirimon-route-lodges
-primary_keyword: Mount Kenya National Park hiking tours Sirimon route lodges
+primary_keyword: 'Mount Kenya National Park hiking tours Sirimon route lodges'
 secondary_keywords:
-- Fly-in Kenya safari
-- Mobile camping safari Kenya
-- 3 day Kenya safari
-- Kenya safari cost
-- Kenya park fees cost
+- 'Fly-in Kenya safari'
+- 'Mobile camping safari Kenya'
+- '3 day Kenya safari'
+- 'Kenya safari cost'
+- 'Kenya park fees cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

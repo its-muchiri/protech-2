@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Paris: Complete Guide'
-description: Everything you need to know about flights from kenya to paris, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to paris, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-paris
-primary_keyword: flights from kenya to paris
+primary_keyword: 'flights from kenya to paris'
 secondary_keywords:
-- emirates kenya airport
-- how many hours from kenya to dubai emirates
-- how much is emirates flight from kenya to dubai
-- emirates store kenya
-- ethiopian airlines flight schedule from nairobi
+- 'emirates kenya airport'
+- 'how many hours from kenya to dubai emirates'
+- 'how much is emirates flight from kenya to dubai'
+- 'emirates store kenya'
+- 'ethiopian airlines flight schedule from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

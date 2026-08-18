@@ -1,14 +1,14 @@
 ---
 title: 'Flight Booking to Mombasa: Complete Guide'
-description: Everything you need to know about flight booking to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight booking to mombasa, including routes, airlines, booking tips, and fares.'
 slug: flight-booking-to-mombasa
-primary_keyword: flight booking to mombasa
+primary_keyword: 'flight booking to mombasa'
 secondary_keywords:
-- turkish airlines cargo nairobi
-- how much is flight from nairobi to turkey
-- turkish airlines lounge nairobi price
-- turkish airlines flight status nairobi
-- emirates airlines office in nairobi kenya
+- 'turkish airlines cargo nairobi'
+- 'how much is flight from nairobi to turkey'
+- 'turkish airlines lounge nairobi price'
+- 'turkish airlines flight status nairobi'
+- 'emirates airlines office in nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

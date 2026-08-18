@@ -1,14 +1,14 @@
 ---
 title: 'Fly Nairobi to Uganda: Complete Guide'
-description: Everything you need to know about fly nairobi to uganda, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about fly nairobi to uganda, including routes, airlines, booking tips, and fares.'
 slug: fly-nairobi-to-uganda
-primary_keyword: fly nairobi to uganda
+primary_keyword: 'fly nairobi to uganda'
 secondary_keywords:
-- how much is a flight ticket from nairobi to qatar
-- qatar flight from doha to nairobi today
-- cost of flight from kenya to qatar
-- plane ticket from kenya to qatar
-- kq flight from nairobi to bangkok
+- 'how much is a flight ticket from nairobi to qatar'
+- 'qatar flight from doha to nairobi today'
+- 'cost of flight from kenya to qatar'
+- 'plane ticket from kenya to qatar'
+- 'kq flight from nairobi to bangkok'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

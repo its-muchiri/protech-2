@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Kenya to Dubai: Complete Guide'
-description: Everything you need to know about kq flight from kenya to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from kenya to dubai, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-kenya-to-dubai
-primary_keyword: kq flight from kenya to dubai
+primary_keyword: 'kq flight from kenya to dubai'
 secondary_keywords:
-- flights nairobi to kilimanjaro airport
-- london to nairobi direct flights
-- mogadishu to nairobi flights time
-- flights to nairobi one way
-- nairobi to china flights price
+- 'flights nairobi to kilimanjaro airport'
+- 'london to nairobi direct flights'
+- 'mogadishu to nairobi flights time'
+- 'flights to nairobi one way'
+- 'nairobi to china flights price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

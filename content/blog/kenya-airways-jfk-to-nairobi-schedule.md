@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Jfk to Nairobi Schedule: Complete Guide'
-description: Everything you need to know about kenya airways jfk to nairobi schedule, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways jfk to nairobi schedule, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-jfk-to-nairobi-schedule
-primary_keyword: kenya airways jfk to nairobi schedule
+primary_keyword: 'kenya airways jfk to nairobi schedule'
 secondary_keywords:
-- safarilink flights from kisumu to mombasa
-- cheapest flights from mombasa to nairobi
-- cheap flights from kisumu to mombasa
-- cheap flights from kisumu to nairobi today
-- how much is flight from kisumu to mombasa
+- 'safarilink flights from kisumu to mombasa'
+- 'cheapest flights from mombasa to nairobi'
+- 'cheap flights from kisumu to mombasa'
+- 'cheap flights from kisumu to nairobi today'
+- 'how much is flight from kisumu to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Fly Emirates from Nairobi to Dubai: Complete Guide'
-description: Everything you need to know about fly emirates from nairobi to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about fly emirates from nairobi to dubai, including routes, airlines, booking tips, and fares.'
 slug: fly-emirates-from-nairobi-to-dubai
-primary_keyword: fly emirates from nairobi to dubai
+primary_keyword: 'fly emirates from nairobi to dubai'
 secondary_keywords:
-- flight from nairobi to mombasa time
-- flight 540 nairobi to dar es salaam
-- flight from nairobi to kabunde
-- turkish airlines flight price from nairobi to turkey
-- turkish airlines cargo nairobi
+- 'flight from nairobi to mombasa time'
+- 'flight 540 nairobi to dar es salaam'
+- 'flight from nairobi to kabunde'
+- 'turkish airlines flight price from nairobi to turkey'
+- 'turkish airlines cargo nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

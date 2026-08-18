@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Brisbane Today: Complete Guide'
-description: Everything you need to know about emirates flights from brisbane today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from brisbane today, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-brisbane-today
-primary_keyword: emirates flights from brisbane today
+primary_keyword: 'emirates flights from brisbane today'
 secondary_keywords:
-- flights from gaborone to kenya
-- cheap flights from heathrow to nairobi kenya
-- flights from kenya to italy
-- cheap flights from johannesburg to nairobi kenya
-- flights from kuala lumpur to nairobi kenya
+- 'flights from gaborone to kenya'
+- 'cheap flights from heathrow to nairobi kenya'
+- 'flights from kenya to italy'
+- 'cheap flights from johannesburg to nairobi kenya'
+- 'flights from kuala lumpur to nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

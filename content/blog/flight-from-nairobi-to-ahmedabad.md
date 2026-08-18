@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Ahmedabad: Complete Guide'
-description: Everything you need to know about flight from nairobi to ahmedabad, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to ahmedabad, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-ahmedabad
-primary_keyword: flight from nairobi to ahmedabad
+primary_keyword: 'flight from nairobi to ahmedabad'
 secondary_keywords:
-- flights nairobi to new delhi
-- nairobi to oslo flights
-- flights nairobi to qatar
-- flights nairobi to rdu
-- flights nairobi to serengeti
+- 'flights nairobi to new delhi'
+- 'nairobi to oslo flights'
+- 'flights nairobi to qatar'
+- 'flights nairobi to rdu'
+- 'flights nairobi to serengeti'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

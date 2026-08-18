@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Pakistan to Uk: Complete Guide'
-description: Everything you need to know about emirates flights from pakistan to uk, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from pakistan to uk, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-pakistan-to-uk
-primary_keyword: emirates flights from pakistan to uk
+primary_keyword: 'emirates flights from pakistan to uk'
 secondary_keywords:
-- emirates flights from durban to mumbai
-- emirates flight from osaka to dubai
-- emirates flights from johannesburg to dubai price
-- when will emirates resume flights to qatar from dubai
-- emirates flights to rome from melbourne
+- 'emirates flights from durban to mumbai'
+- 'emirates flight from osaka to dubai'
+- 'emirates flights from johannesburg to dubai price'
+- 'when will emirates resume flights to qatar from dubai'
+- 'emirates flights to rome from melbourne'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

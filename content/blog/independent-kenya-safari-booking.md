@@ -1,14 +1,14 @@
 ---
 title: 'Independent Kenya Safari Booking: Complete Guide'
-description: Kenya safari guide covering independent kenya safari booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering independent kenya safari booking, including what is included, pricing, and booking advice.'
 slug: independent-kenya-safari-booking
-primary_keyword: Independent Kenya safari booking
+primary_keyword: 'Independent Kenya safari booking'
 secondary_keywords:
-- Kenia safari reis (Dutch)
-- Books about Kenya safari
-- Kenya safari package price quote
-- Book last minute Kenya safari deal
-- Buy 14 day Kenya grand safari package
+- 'Kenia safari reis (Dutch)'
+- 'Books about Kenya safari'
+- 'Kenya safari package price quote'
+- 'Book last minute Kenya safari deal'
+- 'Buy 14 day Kenya grand safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

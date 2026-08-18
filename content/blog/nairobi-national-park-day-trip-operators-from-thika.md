@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi National Park Day Trip Operators from Thika: Complete Guide'
-description: Kenya safari guide covering nairobi national park day trip operators from thika, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering nairobi national park day trip operators from thika, including what is included, pricing, and booking advice.'
 slug: nairobi-national-park-day-trip-operators-from-thika
-primary_keyword: Nairobi National Park day trip operators from Thika
+primary_keyword: 'Nairobi National Park day trip operators from Thika'
 secondary_keywords:
-- Reserve private Samburu & Laikipia safari tour online UK quote
-- Cost of custom luxury Kenya safari for couple anniversary UK private lodges
-- Find last minute deals on luxury Kenya safari lodges Mara Triangle UK operator direct
-- Reserve wheelchair accessible Kenya safari vehicle & lodge USA custom tour planning service
-- Find Halal certified meals Kenya safari tour package UK Muslim friendly lodges operators list
+- 'Reserve private Samburu & Laikipia safari tour online UK quote'
+- 'Cost of custom luxury Kenya safari for couple anniversary UK private lodges'
+- 'Find last minute deals on luxury Kenya safari lodges Mara Triangle UK operator direct'
+- 'Reserve wheelchair accessible Kenya safari vehicle & lodge USA custom tour planning service'
+- 'Find Halal certified meals Kenya safari tour package UK Muslim friendly lodges operators list'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

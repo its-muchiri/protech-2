@@ -1,14 +1,14 @@
 ---
 title: 'Safari Lake Nakuru Flamingos: Complete Guide'
-description: Kenya safari guide covering safari lake nakuru flamingos, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering safari lake nakuru flamingos, including what is included, pricing, and booking advice.'
 slug: safari-lake-nakuru-flamingos
-primary_keyword: Safari Lake Nakuru flamingos
+primary_keyword: 'Safari Lake Nakuru flamingos'
 secondary_keywords:
-- Samburu cultural village visit tour package
-- Kiambethu Tea Farm tour Limuru booking / price from Nairobi / Thika
-- Gamewatchers Safaris Porini Camps price / reviews
-- Kenya tour package cancellation policy refund options
-- Internal flights Kenya Safarilink / AirKenya schedule / price
+- 'Samburu cultural village visit tour package'
+- 'Kiambethu Tea Farm tour Limuru booking / price from Nairobi / Thika'
+- 'Gamewatchers Safaris Porini Camps price / reviews'
+- 'Kenya tour package cancellation policy refund options'
+- 'Internal flights Kenya Safarilink / AirKenya schedule / price'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

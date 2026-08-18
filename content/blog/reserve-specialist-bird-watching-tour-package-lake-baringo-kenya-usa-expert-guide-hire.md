@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Specialist Bird Watching Tour Package Lake Baringo Kenya USA Expert Guide Hire: Complete Guide'
-description: Kenya safari guide covering reserve specialist bird watching tour package lake baringo kenya usa expert guide hire, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve specialist bird watching tour package lake baringo kenya usa expert guide hire, including what is included, pricing, and booking advice.'
 slug: reserve-specialist-bird-watching-tour-package-lake-baringo-kenya-usa-expert-guide-hire
-primary_keyword: Reserve specialist bird watching tour package Lake Baringo Kenya USA expert guide hire
+primary_keyword: 'Reserve specialist bird watching tour package Lake Baringo Kenya USA expert guide hire'
 secondary_keywords:
-- Lake Nakuru safari tour price list
-- Honeymoon Kenya safari package price enquiry
-- Discounted Kenya safari tours
-- 5 day Amboseli Tsavo combo discount code
-- Offer 10 day budget Kenya Tanzania camping safari last minute
+- 'Lake Nakuru safari tour price list'
+- 'Honeymoon Kenya safari package price enquiry'
+- 'Discounted Kenya safari tours'
+- '5 day Amboseli Tsavo combo discount code'
+- 'Offer 10 day budget Kenya Tanzania camping safari last minute'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Samburu National Reserve Tour Packages: Complete Guide'
-description: Kenya safari guide covering samburu national reserve tour packages, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering samburu national reserve tour packages, including what is included, pricing, and booking advice.'
 slug: samburu-national-reserve-tour-packages
-primary_keyword: Samburu National Reserve tour packages
+primary_keyword: 'Samburu National Reserve tour packages'
 secondary_keywords:
-- Safari Kenya
-- Kenya travel safari
-- Laikipia safari
-- Affordable Kenya safari
-- Fly-in Kenya safari
+- 'Safari Kenya'
+- 'Kenya travel safari'
+- 'Laikipia safari'
+- 'Affordable Kenya safari'
+- 'Fly-in Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

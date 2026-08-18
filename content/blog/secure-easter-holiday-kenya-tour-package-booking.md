@@ -1,14 +1,14 @@
 ---
 title: 'Secure Easter Holiday Kenya Tour Package Booking: Complete Guide'
-description: Kenya safari guide covering secure easter holiday kenya tour package booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering secure easter holiday kenya tour package booking, including what is included, pricing, and booking advice.'
 slug: secure-easter-holiday-kenya-tour-package-booking
-primary_keyword: Secure Easter holiday Kenya tour package booking
+primary_keyword: 'Secure Easter holiday Kenya tour package booking'
 secondary_keywords:
-- Lake Magadi day trip flamingo tour price / road condition
-- Sunworld Safaris Kenya reviews
-- Safari tour van hire Nairobi price per day 7 seater
-- Reliable tour operator Kenya forum recommendations (Lonely Planet, Fodor''s)
-- Kenya yoga retreat safari lodges offering wellness programs
+- 'Lake Magadi day trip flamingo tour price / road condition'
+- 'Sunworld Safaris Kenya reviews'
+- 'Safari tour van hire Nairobi price per day 7 seater'
+- 'Reliable tour operator Kenya forum recommendations (Lonely Planet, Fodor''''s)'
+- 'Kenya yoga retreat safari lodges offering wellness programs'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: '7-day Kenya Safari Package Price List UK: Complete Guide'
-description: Kenya safari guide covering 7-day kenya safari package price list uk, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering 7-day kenya safari package price list uk, including what is included, pricing, and booking advice.'
 slug: 7-day-kenya-safari-package-price-list-uk
-primary_keyword: 7-day Kenya safari package price list UK
+primary_keyword: '7-day Kenya safari package price list UK'
 secondary_keywords:
-- Safari Chyulu Hills booking USA luxury lodge (e.g., Ol Donyo)
-- Kenya family safari deals Europe based operators
-- Best Kenya safari tour operators UK reviews 2025
-- Niche Kenya safari operator (e.g., photographic, birding) UK
-- Immediate booking confirmation Kenya safari tour online
+- 'Safari Chyulu Hills booking USA luxury lodge (e.g., Ol Donyo)'
+- 'Kenya family safari deals Europe based operators'
+- 'Best Kenya safari tour operators UK reviews 2025'
+- 'Niche Kenya safari operator (e.g., photographic, birding) UK'
+- 'Immediate booking confirmation Kenya safari tour online'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

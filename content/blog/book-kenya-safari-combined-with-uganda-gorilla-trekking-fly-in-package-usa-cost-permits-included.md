@@ -1,14 +1,14 @@
 ---
 title: 'Book Kenya Safari Combined with Uganda Gorilla Trekking Fly-in Package USA Cost Permits Included: Complete Guide'
-description: Kenya safari guide covering book kenya safari combined with uganda gorilla trekking fly-in package usa cost permits included, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book kenya safari combined with uganda gorilla trekking fly-in package usa cost permits included, including what is included, pricing, and booking advice.'
 slug: book-kenya-safari-combined-with-uganda-gorilla-trekking-fly-in-package-usa-cost-permits-included
-primary_keyword: Book Kenya safari combined with Uganda gorilla trekking fly-in package USA cost permits included
+primary_keyword: 'Book Kenya safari combined with Uganda gorilla trekking fly-in package USA cost permits included'
 secondary_keywords:
-- Ol Pejeta Conservancy safari cost per day
-- Private guided Kenya safari cost per day quote
-- Kenya safari holiday sale
-- 6 day Samburu Nakuru safari sale price
-- Discount 5 day family fly-in Amboseli package early bird
+- 'Ol Pejeta Conservancy safari cost per day'
+- 'Private guided Kenya safari cost per day quote'
+- 'Kenya safari holiday sale'
+- '6 day Samburu Nakuru safari sale price'
+- 'Discount 5 day family fly-in Amboseli package early bird'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Store Kenya: Complete Guide'
-description: Everything you need to know about emirates store kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates store kenya, including routes, airlines, booking tips, and fares.'
 slug: emirates-store-kenya
-primary_keyword: emirates store kenya
+primary_keyword: 'emirates store kenya'
 secondary_keywords:
-- flights paris kenya
-- is kenya airport open now
-- does united airlines fly to kenya
-- flights to zimbabwe from nairobi
-- flights from kenya to china
+- 'flights paris kenya'
+- 'is kenya airport open now'
+- 'does united airlines fly to kenya'
+- 'flights to zimbabwe from nairobi'
+- 'flights from kenya to china'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

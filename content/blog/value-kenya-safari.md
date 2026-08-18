@@ -1,14 +1,14 @@
 ---
 title: 'Value Kenya Safari: Complete Guide'
-description: Kenya safari guide covering value kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering value kenya safari, including what is included, pricing, and booking advice.'
 slug: value-kenya-safari
-primary_keyword: Value Kenya safari
+primary_keyword: 'Value Kenya safari'
 secondary_keywords:
-- Kenya e-Visa application official website / cost 2025
-- How to check if a Kenya tour company is legitimate
-- Camel safari Samburu / Laikipia operators
-- Direct Booking/Purchase Intent (Book, Buy, Purchase, Reserve)
-- Book Kenya camping safari adventure Europe budget
+- 'Kenya e-Visa application official website / cost 2025'
+- 'How to check if a Kenya tour company is legitimate'
+- 'Camel safari Samburu / Laikipia operators'
+- 'Direct Booking/Purchase Intent (Book, Buy, Purchase, Reserve)'
+- 'Book Kenya camping safari adventure Europe budget'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

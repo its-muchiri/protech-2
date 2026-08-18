@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Coast Safari (Mombasa/Diani Departure) Deals USA Booking: Complete Guide'
-description: Kenya safari guide covering kenya coast safari (mombasa/diani departure) deals usa booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya coast safari (mombasa/diani departure) deals usa booking, including what is included, pricing, and booking advice.'
 slug: kenya-coast-safari-mombasa-diani-departure-deals-usa-booking
-primary_keyword: Kenya coast safari (Mombasa/Diani departure) deals USA booking
+primary_keyword: 'Kenya coast safari (Mombasa/Diani departure) deals USA booking'
 secondary_keywords:
-- Fly-in safari Masai Mara Wilson Airport cost
-- Lake Nakuru lodges price (Sarova Lion Hill, Lake Nakuru Lodge)
-- All-inclusive luxury safari Kenya what''s included
-- Diani Beach holiday packages all inclusive price
-- Naro Moru route Mount Kenya climb technical sections
+- 'Fly-in safari Masai Mara Wilson Airport cost'
+- 'Lake Nakuru lodges price (Sarova Lion Hill, Lake Nakuru Lodge)'
+- 'All-inclusive luxury safari Kenya what''''s included'
+- 'Diani Beach holiday packages all inclusive price'
+- 'Naro Moru route Mount Kenya climb technical sections'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

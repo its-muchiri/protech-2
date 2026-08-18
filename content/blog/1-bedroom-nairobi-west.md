@@ -1,14 +1,14 @@
 ---
 title: '1 Bedroom Nairobi West: Complete Guide'
-description: Everything you need to know about 1 bedroom nairobi west, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about 1 bedroom nairobi west, including routes, airlines, booking tips, and fares.'
 slug: 1-bedroom-nairobi-west
-primary_keyword: 1 bedroom nairobi west
+primary_keyword: '1 bedroom nairobi west'
 secondary_keywords:
-- flight from kenya to haiti
-- flight from kenya to indonesia
-- flights from kenya to juba
-- flight from kenya to south korea
-- flights from kenya to lithuania
+- 'flight from kenya to haiti'
+- 'flight from kenya to indonesia'
+- 'flights from kenya to juba'
+- 'flight from kenya to south korea'
+- 'flights from kenya to lithuania'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

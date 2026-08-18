@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Nairobi Return: Complete Guide'
-description: Everything you need to know about flights to nairobi return, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to nairobi return, including routes, airlines, booking tips, and fares.'
 slug: flights-to-nairobi-return
-primary_keyword: flights to nairobi return
+primary_keyword: 'flights to nairobi return'
 secondary_keywords:
-- nairobi to istanbul flight status
-- turkish airline from turkey to nairobi
-- emirates number kenya
-- ethiopian airlines nairobi to hargeisa
-- ethiopian airlines booking office nairobi telephone number
+- 'nairobi to istanbul flight status'
+- 'turkish airline from turkey to nairobi'
+- 'emirates number kenya'
+- 'ethiopian airlines nairobi to hargeisa'
+- 'ethiopian airlines booking office nairobi telephone number'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

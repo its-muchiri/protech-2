@@ -1,14 +1,14 @@
 ---
 title: 'Rwandair Flight from Nairobi to Kigali: Complete Guide'
-description: Everything you need to know about rwandair flight from nairobi to kigali, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about rwandair flight from nairobi to kigali, including routes, airlines, booking tips, and fares.'
 slug: rwandair-flight-from-nairobi-to-kigali
-primary_keyword: rwandair flight from nairobi to kigali
+primary_keyword: 'rwandair flight from nairobi to kigali'
 secondary_keywords:
-- emirates flights from manchester today
-- emirates flights to new zealand from south africa
-- emirates flights to bali from uk
-- emirates flights from dubai to nairobi
-- emirates flights from europe
+- 'emirates flights from manchester today'
+- 'emirates flights to new zealand from south africa'
+- 'emirates flights to bali from uk'
+- 'emirates flights from dubai to nairobi'
+- 'emirates flights from europe'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

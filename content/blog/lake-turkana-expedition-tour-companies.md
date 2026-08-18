@@ -1,14 +1,14 @@
 ---
 title: 'Lake Turkana Expedition Tour Companies: Complete Guide'
-description: Kenya safari guide covering lake turkana expedition tour companies, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering lake turkana expedition tour companies, including what is included, pricing, and booking advice.'
 slug: lake-turkana-expedition-tour-companies
-primary_keyword: Lake Turkana expedition tour companies
+primary_keyword: 'Lake Turkana expedition tour companies'
 secondary_keywords:
-- Reserve Kenya safari Easter 2026 UK family package availability
-- Luxury all-inclusive Kenya safari reviews Forbes Travel Guide
-- Reserve private Samburu & Laikipia safari tour online UK quote
-- Cost of custom luxury Kenya safari for couple anniversary UK private lodges
-- Find last minute deals on luxury Kenya safari lodges Mara Triangle UK operator direct
+- 'Reserve Kenya safari Easter 2026 UK family package availability'
+- 'Luxury all-inclusive Kenya safari reviews Forbes Travel Guide'
+- 'Reserve private Samburu & Laikipia safari tour online UK quote'
+- 'Cost of custom luxury Kenya safari for couple anniversary UK private lodges'
+- 'Find last minute deals on luxury Kenya safari lodges Mara Triangle UK operator direct'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

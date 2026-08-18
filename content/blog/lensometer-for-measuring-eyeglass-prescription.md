@@ -1,14 +1,14 @@
 ---
 title: 'Lensometer for Measuring Eyeglass Prescription: 2026 Price Guide'
-description: Kenya buying guide to lensometer for measuring eyeglass prescription. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to lensometer for measuring eyeglass prescription. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: lensometer-for-measuring-eyeglass-prescription
-primary_keyword: Lensometer for measuring eyeglass prescription
+primary_keyword: 'Lensometer for measuring eyeglass prescription'
 secondary_keywords:
-- Ophthalmic equipment for sale in Kitale
-- Medical equipment importers in Industrial Area, Nairobi
-- Operating theatre lights installation in Mombasa
-- Mobile CT scanner rental services in the Rift Valley
-- Used veterinary ultrasound for sale in Kenya
+- 'Ophthalmic equipment for sale in Kitale'
+- 'Medical equipment importers in Industrial Area, Nairobi'
+- 'Operating theatre lights installation in Mombasa'
+- 'Mobile CT scanner rental services in the Rift Valley'
+- 'Used veterinary ultrasound for sale in Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

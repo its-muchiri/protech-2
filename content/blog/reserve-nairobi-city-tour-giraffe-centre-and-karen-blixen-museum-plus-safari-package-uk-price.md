@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Nairobi City Tour Giraffe Centre & Karen Blixen Museum Plus Safari Package UK Price: Complete Guide'
-description: Kenya safari guide covering reserve nairobi city tour giraffe centre & karen blixen museum plus safari package uk price, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve nairobi city tour giraffe centre & karen blixen museum plus safari package uk price, including what is included, pricing, and booking advice.'
 slug: reserve-nairobi-city-tour-giraffe-centre-and-karen-blixen-museum-plus-safari-package-uk-price
-primary_keyword: Reserve Nairobi city tour Giraffe Centre & Karen Blixen Museum plus safari package UK price
+primary_keyword: 'Reserve Nairobi city tour Giraffe Centre & Karen Blixen Museum plus safari package UK price'
 secondary_keywords:
-- Tour company accreditation Kenya TRA license
-- Elephant photography safari Amboseli tour operators
-- Hell''s Gate National Park cycling and gorge walk tour from Naivasha / Thika
-- Overland truck tours Kenya Intrepid / G Adventures price
-- SGR train packages Mombasa beach holiday
+- 'Tour company accreditation Kenya TRA license'
+- 'Elephant photography safari Amboseli tour operators'
+- 'Hell''''s Gate National Park cycling and gorge walk tour from Naivasha / Thika'
+- 'Overland truck tours Kenya Intrepid / G Adventures price'
+- 'SGR train packages Mombasa beach holiday'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

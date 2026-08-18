@@ -1,14 +1,14 @@
 ---
 title: 'Samburu Safari Bundle Deal Quote: Complete Guide'
-description: Kenya safari guide covering samburu safari bundle deal quote, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering samburu safari bundle deal quote, including what is included, pricing, and booking advice.'
 slug: samburu-safari-bundle-deal-quote
-primary_keyword: Samburu safari bundle deal quote
+primary_keyword: 'Samburu safari bundle deal quote'
 secondary_keywords:
-- Best Kenya tour operators
-- Independent Kenya safari booking
-- Digital detox safari Kenya
-- Using credit cards Kenya safari
-- Affordable 7 day Masai Mara Amboseli safari
+- 'Best Kenya tour operators'
+- 'Independent Kenya safari booking'
+- 'Digital detox safari Kenya'
+- 'Using credit cards Kenya safari'
+- 'Affordable 7 day Masai Mara Amboseli safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

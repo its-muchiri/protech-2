@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Kenya to Canada: Complete Guide'
-description: Everything you need to know about kq flight from kenya to canada, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from kenya to canada, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-kenya-to-canada
-primary_keyword: kq flight from kenya to canada
+primary_keyword: 'kq flight from kenya to canada'
 secondary_keywords:
-- flight hours from nairobi to qatar
-- cheap flights nairobi to rome
-- nairobi to seattle flights
-- fly nairobi to uganda
-- vienna to nairobi flights
+- 'flight hours from nairobi to qatar'
+- 'cheap flights nairobi to rome'
+- 'nairobi to seattle flights'
+- 'fly nairobi to uganda'
+- 'vienna to nairobi flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

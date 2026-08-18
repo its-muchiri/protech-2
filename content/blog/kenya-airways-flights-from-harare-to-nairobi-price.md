@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights from Harare to Nairobi Price: Complete Guide'
-description: Everything you need to know about kenya airways flights from harare to nairobi price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights from harare to nairobi price, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-from-harare-to-nairobi-price
-primary_keyword: kenya airways flights from harare to nairobi price
+primary_keyword: 'kenya airways flights from harare to nairobi price'
 secondary_keywords:
-- kq flights from nairobi to london heathrow
-- kq flights to jfk
-- kq flights to london
-- kq flights to mogadishu
-- kq flight from paris to nairobi
+- 'kq flights from nairobi to london heathrow'
+- 'kq flights to jfk'
+- 'kq flights to london'
+- 'kq flights to mogadishu'
+- 'kq flight from paris to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

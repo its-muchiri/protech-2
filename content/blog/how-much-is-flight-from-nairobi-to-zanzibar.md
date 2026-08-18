@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is Flight from Nairobi to Zanzibar: Complete Guide'
-description: Everything you need to know about how much is flight from nairobi to zanzibar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is flight from nairobi to zanzibar, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-flight-from-nairobi-to-zanzibar
-primary_keyword: how much is flight from nairobi to zanzibar
+primary_keyword: 'how much is flight from nairobi to zanzibar'
 secondary_keywords:
-- flight from nairobi to dar es salaam
-- flight from nairobi to eswatini
-- flight from nairobi to france
-- cheapest flight from nairobi to atlanta georgia
-- how much is a flight from nairobi to eldoret
+- 'flight from nairobi to dar es salaam'
+- 'flight from nairobi to eswatini'
+- 'flight from nairobi to france'
+- 'cheapest flight from nairobi to atlanta georgia'
+- 'how much is a flight from nairobi to eldoret'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi Kenya: Complete Guide'
-description: Everything you need to know about flight from nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-kenya
-primary_keyword: flight from nairobi kenya
+primary_keyword: 'flight from nairobi kenya'
 secondary_keywords:
-- flights from lusaka to mombasa
-- flights from mombasa to nakuru
-- safarilink flights from nairobi to mombasa price
-- flights to mombasa skyward
-- flights from wilson to mombasa today
+- 'flights from lusaka to mombasa'
+- 'flights from mombasa to nakuru'
+- 'safarilink flights from nairobi to mombasa price'
+- 'flights to mombasa skyward'
+- 'flights from wilson to mombasa today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

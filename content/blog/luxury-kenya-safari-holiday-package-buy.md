@@ -1,14 +1,14 @@
 ---
 title: 'Luxury Kenya Safari Holiday Package Buy: Complete Guide'
-description: Kenya safari guide covering luxury kenya safari holiday package buy, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering luxury kenya safari holiday package buy, including what is included, pricing, and booking advice.'
 slug: luxury-kenya-safari-holiday-package-buy
-primary_keyword: Luxury Kenya safari holiday package buy
+primary_keyword: 'Luxury Kenya safari holiday package buy'
 secondary_keywords:
-- Bird watching Kenya safari
-- Kenya hiking safari
-- Conservation safari Kenya
-- Two week Kenya safari
-- Kenya safari price per day
+- 'Bird watching Kenya safari'
+- 'Kenya hiking safari'
+- 'Conservation safari Kenya'
+- 'Two week Kenya safari'
+- 'Kenya safari price per day'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Amboseli National Park Safari Deals UK Family: Complete Guide'
-description: Kenya safari guide covering amboseli national park safari deals uk family, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering amboseli national park safari deals uk family, including what is included, pricing, and booking advice.'
 slug: amboseli-national-park-safari-deals-uk-family
-primary_keyword: Amboseli National Park safari deals UK family
+primary_keyword: 'Amboseli National Park safari deals UK family'
 secondary_keywords:
-- Twiga Tours Kenya reviews
-- Travel insurance for Kenya safari World Nomads / SafetyWing review
-- Avoid safari scams Kenya warning signs
-- Fishing safari Lake Turkana / Lake Victoria Nile Perch
-- Book Kenya safari tour online UK
+- 'Twiga Tours Kenya reviews'
+- 'Travel insurance for Kenya safari World Nomads / SafetyWing review'
+- 'Avoid safari scams Kenya warning signs'
+- 'Fishing safari Lake Turkana / Lake Victoria Nile Perch'
+- 'Book Kenya safari tour online UK'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

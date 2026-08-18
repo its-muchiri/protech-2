@@ -1,14 +1,14 @@
 ---
 title: 'Kobo Safaris DMC Kenya Services: Complete Guide'
-description: Kenya safari guide covering kobo safaris dmc kenya services, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kobo safaris dmc kenya services, including what is included, pricing, and booking advice.'
 slug: kobo-safaris-dmc-kenya-services
-primary_keyword: Kobo Safaris DMC Kenya services
+primary_keyword: 'Kobo Safaris DMC Kenya services'
 secondary_keywords:
-- Hell''s Gate National Park day trip cycling / hiking tour price
-- Go Kenya Tours and Safaris packages
-- Kenya safari payment terms deposit / balance due date
-- Luggage restrictions fly-in safari Kenya soft bags required
-- Kenya conservation safari tours rhino tracking / lion monitoring
+- 'Hell''''s Gate National Park day trip cycling / hiking tour price'
+- 'Go Kenya Tours and Safaris packages'
+- 'Kenya safari payment terms deposit / balance due date'
+- 'Luggage restrictions fly-in safari Kenya soft bags required'
+- 'Kenya conservation safari tours rhino tracking / lion monitoring'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

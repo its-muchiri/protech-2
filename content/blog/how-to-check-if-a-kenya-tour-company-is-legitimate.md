@@ -1,14 +1,14 @@
 ---
 title: 'How to Check If a Kenya Tour Company Is Legitimate: Complete Guide'
-description: Kenya safari guide covering how to check if a kenya tour company is legitimate, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering how to check if a kenya tour company is legitimate, including what is included, pricing, and booking advice.'
 slug: how-to-check-if-a-kenya-tour-company-is-legitimate
-primary_keyword: How to check if a Kenya tour company is legitimate
+primary_keyword: 'How to check if a Kenya tour company is legitimate'
 secondary_keywords:
-- Recommended Kenya safari
-- Samburu National Reserve safari
-- David Sheldrick Wildlife Trust visit
-- Kenya photo safari tour
-- Walking safari Kenya
+- 'Recommended Kenya safari'
+- 'Samburu National Reserve safari'
+- 'David Sheldrick Wildlife Trust visit'
+- 'Kenya photo safari tour'
+- 'Walking safari Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

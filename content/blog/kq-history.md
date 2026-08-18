@@ -1,14 +1,14 @@
 ---
 title: 'Kq History: Complete Guide'
-description: Everything you need to know about kq history, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq history, including routes, airlines, booking tips, and fares.'
 slug: kq-history
-primary_keyword: kq history
+primary_keyword: 'kq history'
 secondary_keywords:
-- wb flight
-- kq 001
-- kq 203 flight status today
-- kq306 flight status
-- kq 521 flight status
+- 'wb flight'
+- 'kq 001'
+- 'kq 203 flight status today'
+- 'kq306 flight status'
+- 'kq 521 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

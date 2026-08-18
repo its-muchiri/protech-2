@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi to China Flights Price: Complete Guide'
-description: Everything you need to know about nairobi to china flights price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about nairobi to china flights price, including routes, airlines, booking tips, and fares.'
 slug: nairobi-to-china-flights-price
-primary_keyword: nairobi to china flights price
+primary_keyword: 'nairobi to china flights price'
 secondary_keywords:
-- emirates flights from orlando today
-- emirates flights from philippines
-- flights from quetta to dubai united arab emirates
-- are emirates flights from iran cancelled
-- emirates flights from tehran to dubai
+- 'emirates flights from orlando today'
+- 'emirates flights from philippines'
+- 'flights from quetta to dubai united arab emirates'
+- 'are emirates flights from iran cancelled'
+- 'emirates flights from tehran to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

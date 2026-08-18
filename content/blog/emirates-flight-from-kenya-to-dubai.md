@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight from Kenya to Dubai: Complete Guide'
-description: Everything you need to know about emirates flight from kenya to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight from kenya to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-from-kenya-to-dubai
-primary_keyword: emirates flight from kenya to dubai
+primary_keyword: 'emirates flight from kenya to dubai'
 secondary_keywords:
-- does turkish airlines fly to orlando
-- flight ticket from kenya to qatar
-- domestic flight booking in kenya
-- kenya airways mombasa to nairobi price
-- kenya international flights
+- 'does turkish airlines fly to orlando'
+- 'flight ticket from kenya to qatar'
+- 'domestic flight booking in kenya'
+- 'kenya airways mombasa to nairobi price'
+- 'kenya international flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

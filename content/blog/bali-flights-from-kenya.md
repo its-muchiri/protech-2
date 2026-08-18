@@ -1,14 +1,14 @@
 ---
 title: 'Bali Flights from Kenya: Complete Guide'
-description: Everything you need to know about bali flights from kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about bali flights from kenya, including routes, airlines, booking tips, and fares.'
 slug: bali-flights-from-kenya
-primary_keyword: bali flights from kenya
+primary_keyword: 'bali flights from kenya'
 secondary_keywords:
-- flight from nairobi to isiolo
-- flights from nairobi to japan
-- kq flights from nairobi to china
-- lufthansa flights from nairobi
-- masai mara flights from nairobi
+- 'flight from nairobi to isiolo'
+- 'flights from nairobi to japan'
+- 'kq flights from nairobi to china'
+- 'lufthansa flights from nairobi'
+- 'masai mara flights from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Inbound Tour Operators Kenya Contact List: Complete Guide'
-description: Kenya safari guide covering inbound tour operators kenya contact list, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering inbound tour operators kenya contact list, including what is included, pricing, and booking advice.'
 slug: inbound-tour-operators-kenya-contact-list
-primary_keyword: Inbound tour operators Kenya contact list
+primary_keyword: 'Inbound tour operators Kenya contact list'
 secondary_keywords:
-- Drive Nairobi Masai Mara safari package deal
-- Segera Retreat Laikipia package buy
-- Kenya safari and beach honeymoon package buy
-- Group joining safari Kenya budget package
-- Great Rift Valley lakes safari package Kenya book
+- 'Drive Nairobi Masai Mara safari package deal'
+- 'Segera Retreat Laikipia package buy'
+- 'Kenya safari and beach honeymoon package buy'
+- 'Group joining safari Kenya budget package'
+- 'Great Rift Valley lakes safari package Kenya book'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Nairobi from Heathrow: Complete Guide'
-description: Everything you need to know about flights to nairobi from heathrow, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to nairobi from heathrow, including routes, airlines, booking tips, and fares.'
 slug: flights-to-nairobi-from-heathrow
-primary_keyword: flights to nairobi from heathrow
+primary_keyword: 'flights to nairobi from heathrow'
 secondary_keywords:
-- are there direct flights from kenya to uk
-- flights to kenya from boston
-- cheap flights from kenya to dubai
-- flights from kenya to ethiopia
-- flights to ethiopia from kenya
+- 'are there direct flights from kenya to uk'
+- 'flights to kenya from boston'
+- 'cheap flights from kenya to dubai'
+- 'flights from kenya to ethiopia'
+- 'flights to ethiopia from kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

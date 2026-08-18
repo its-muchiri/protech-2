@@ -1,14 +1,14 @@
 ---
 title: 'Three Week Kenya Safari: Complete Guide'
-description: Kenya safari guide covering three week kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering three week kenya safari, including what is included, pricing, and booking advice.'
 slug: three-week-kenya-safari
-primary_keyword: Three week Kenya safari
+primary_keyword: 'Three week Kenya safari'
 secondary_keywords:
-- Book Kenya safari tour package
-- Secure Samburu safari package deal
-- Book Mombasa start Tsavo safari tour
-- Secure 21 day comprehensive Kenya trip purchase
-- Reserve Great Migration safari package booking
+- 'Book Kenya safari tour package'
+- 'Secure Samburu safari package deal'
+- 'Book Mombasa start Tsavo safari tour'
+- 'Secure 21 day comprehensive Kenya trip purchase'
+- 'Reserve Great Migration safari package booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

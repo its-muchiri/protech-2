@@ -1,14 +1,14 @@
 ---
 title: 'Kq 117 Flight Status: Complete Guide'
-description: Everything you need to know about kq 117 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 117 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq-117-flight-status
-primary_keyword: kq 117 flight status
+primary_keyword: 'kq 117 flight status'
 secondary_keywords:
-- is kenya airways a safe airline
-- kenya airways flight from nairobi to lusaka
-- kenya airways flight from nairobi to mombasa ticket price
-- kenya airways flight 431 survivors
-- flight from nairobi to accra
+- 'is kenya airways a safe airline'
+- 'kenya airways flight from nairobi to lusaka'
+- 'kenya airways flight from nairobi to mombasa ticket price'
+- 'kenya airways flight 431 survivors'
+- 'flight from nairobi to accra'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

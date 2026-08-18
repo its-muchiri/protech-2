@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Safety Tips: Complete Guide'
-description: Kenya safari guide covering kenya safari safety tips, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari safety tips, including what is included, pricing, and booking advice.'
 slug: kenya-safari-safety-tips
-primary_keyword: Kenya safari safety tips
+primary_keyword: 'Kenya safari safety tips'
 secondary_keywords:
-- Custom Kenya safari quote
-- LGBTQ+ friendly Kenya safari
-- Is Kenya safe for safari
-- What animals will I see Kenya safari
-- See Big Five Samburu safari lodge
+- 'Custom Kenya safari quote'
+- 'LGBTQ+ friendly Kenya safari'
+- 'Is Kenya safe for safari'
+- 'What animals will I see Kenya safari'
+- 'See Big Five Samburu safari lodge'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

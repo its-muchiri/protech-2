@@ -1,14 +1,14 @@
 ---
 title: 'Waiting Room Chairs for a Clinic in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to waiting room chairs for a clinic in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to waiting room chairs for a clinic in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: waiting-room-chairs-for-a-clinic-in-nairobi
-primary_keyword: Waiting room chairs for a clinic in Nairobi
+primary_keyword: 'Waiting room chairs for a clinic in Nairobi'
 secondary_keywords:
-- Phlebotomy chair for blood collection
-- Biomedical equipment inventory management
-- Medical equipment for field hospitals
-- hospital bed repair services in Eldoret
-- hospital bed head unit suppliers
+- 'Phlebotomy chair for blood collection'
+- 'Biomedical equipment inventory management'
+- 'Medical equipment for field hospitals'
+- 'hospital bed repair services in Eldoret'
+- 'hospital bed head unit suppliers'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

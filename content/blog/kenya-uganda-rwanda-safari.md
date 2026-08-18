@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Uganda Rwanda Safari: Complete Guide'
-description: Kenya safari guide covering kenya uganda rwanda safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya uganda rwanda safari, including what is included, pricing, and booking advice.'
 slug: kenya-uganda-rwanda-safari
-primary_keyword: Kenya Uganda Rwanda safari
+primary_keyword: 'Kenya Uganda Rwanda safari'
 secondary_keywords:
-- Butterfly safari Kenya (Arabuko Sokoke)
-- Kenya safari COVID requirements (Historically important)
-- How are safari guides trained Kenya
-- Kenya safari booking online
-- Kenya safari deposit payment
+- 'Butterfly safari Kenya (Arabuko Sokoke)'
+- 'Kenya safari COVID requirements (Historically important)'
+- 'How are safari guides trained Kenya'
+- 'Kenya safari booking online'
+- 'Kenya safari deposit payment'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Hologic Mammography System for Sale in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to hologic mammography system for sale in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to hologic mammography system for sale in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: hologic-mammography-system-for-sale-in-nairobi
-primary_keyword: Hologic mammography system for sale in Nairobi
+primary_keyword: 'Hologic mammography system for sale in Nairobi'
 secondary_keywords:
-- Cryotherapy machine for dermatology
-- Wheelchair rental services in Mombasa
-- Cholesterol testing machine for pharmacy
-- 3D printer for dental models
-- anti-fatigue mats for operating theatre
+- 'Cryotherapy machine for dermatology'
+- 'Wheelchair rental services in Mombasa'
+- 'Cholesterol testing machine for pharmacy'
+- '3D printer for dental models'
+- 'anti-fatigue mats for operating theatre'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

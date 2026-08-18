@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights Nairobi to Kampala: Complete Guide'
-description: Everything you need to know about cheap flights nairobi to kampala, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights nairobi to kampala, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-nairobi-to-kampala
-primary_keyword: cheap flights nairobi to kampala
+primary_keyword: 'cheap flights nairobi to kampala'
 secondary_keywords:
-- flights to zanzibar from nairobi precision air
-- cheap flights from nairobi to mombasa
-- cheap flights from nairobi to kinshasa
-- flight from mombasa to saudi arabia
-- which airlines fly direct to mombasa
+- 'flights to zanzibar from nairobi precision air'
+- 'cheap flights from nairobi to mombasa'
+- 'cheap flights from nairobi to kinshasa'
+- 'flight from mombasa to saudi arabia'
+- 'which airlines fly direct to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways Nairobi Recruitment: Complete Guide'
-description: Everything you need to know about qatar airways nairobi recruitment, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways nairobi recruitment, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-nairobi-recruitment
-primary_keyword: qatar airways nairobi recruitment
+primary_keyword: 'qatar airways nairobi recruitment'
 secondary_keywords:
-- emirates flight 0204
-- emirates flight 163
-- emirates flight destinations list
-- emirates ek 3
-- emirates flight 500
+- 'emirates flight 0204'
+- 'emirates flight 163'
+- 'emirates flight destinations list'
+- 'emirates ek 3'
+- 'emirates flight 500'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

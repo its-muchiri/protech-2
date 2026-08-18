@@ -1,14 +1,14 @@
 ---
 title: 'Safarilink Flights from Nairobi to Kisumu: Complete Guide'
-description: Everything you need to know about safarilink flights from nairobi to kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about safarilink flights from nairobi to kisumu, including routes, airlines, booking tips, and fares.'
 slug: safarilink-flights-from-nairobi-to-kisumu
-primary_keyword: safarilink flights from nairobi to kisumu
+primary_keyword: 'safarilink flights from nairobi to kisumu'
 secondary_keywords:
-- flights nairobi to harare
-- flights to kericho
-- flights in kenya today
-- planes in kenya
-- flight attendant jobs in kenya salary
+- 'flights nairobi to harare'
+- 'flights to kericho'
+- 'flights in kenya today'
+- 'planes in kenya'
+- 'flight attendant jobs in kenya salary'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

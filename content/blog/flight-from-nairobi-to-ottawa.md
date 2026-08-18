@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Ottawa: Complete Guide'
-description: Everything you need to know about flight from nairobi to ottawa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to ottawa, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-ottawa
-primary_keyword: flight from nairobi to ottawa
+primary_keyword: 'flight from nairobi to ottawa'
 secondary_keywords:
-- kq flights mombasa
-- kq flight nairobi to new york
-- kq flight rates
-- kq flights to senegal
-- kq flights from nairobi to london
+- 'kq flights mombasa'
+- 'kq flight nairobi to new york'
+- 'kq flight rates'
+- 'kq flights to senegal'
+- 'kq flights from nairobi to london'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

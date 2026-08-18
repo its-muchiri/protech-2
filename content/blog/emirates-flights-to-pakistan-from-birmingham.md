@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights to Pakistan from Birmingham: Complete Guide'
-description: Everything you need to know about emirates flights to pakistan from birmingham, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights to pakistan from birmingham, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-to-pakistan-from-birmingham
-primary_keyword: emirates flights to pakistan from birmingham
+primary_keyword: 'emirates flights to pakistan from birmingham'
 secondary_keywords:
-- kq flight from nairobi to paris
-- kq flight from london
-- kq flight from new york to nairobi
-- kq flight from nairobi to london
-- kenya airways flight from nairobi to dar es salaam
+- 'kq flight from nairobi to paris'
+- 'kq flight from london'
+- 'kq flight from new york to nairobi'
+- 'kq flight from nairobi to london'
+- 'kenya airways flight from nairobi to dar es salaam'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

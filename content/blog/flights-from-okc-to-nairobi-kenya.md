@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Okc to Nairobi Kenya: Complete Guide'
-description: Everything you need to know about flights from okc to nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from okc to nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-okc-to-nairobi-kenya
-primary_keyword: flights from okc to nairobi kenya
+primary_keyword: 'flights from okc to nairobi kenya'
 secondary_keywords:
-- cheap flights from nairobi to washington dc
-- cheapest flights from nairobi to zanzibar
-- cheapest flights from nairobi to usa
-- flights from nairobi to juba
-- flights from mombasa to south africa
+- 'cheap flights from nairobi to washington dc'
+- 'cheapest flights from nairobi to zanzibar'
+- 'cheapest flights from nairobi to usa'
+- 'flights from nairobi to juba'
+- 'flights from mombasa to south africa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Best Value Kenya Safari Packages Money Saving Tips UK: Complete Guide'
-description: Kenya safari guide covering best value kenya safari packages money saving tips uk, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering best value kenya safari packages money saving tips uk, including what is included, pricing, and booking advice.'
 slug: best-value-kenya-safari-packages-money-saving-tips-uk
-primary_keyword: Best value Kenya safari packages money saving tips UK
+primary_keyword: 'Best value Kenya safari packages money saving tips UK'
 secondary_keywords:
-- Secure accessible luxury safari package Kenya operator
-- Local tour companies Thika Kenya
-- Tsavo East budget safari company Diani
-- Malindi travel agency beach holidays
-- Private guided tours Kenya
+- 'Secure accessible luxury safari package Kenya operator'
+- 'Local tour companies Thika Kenya'
+- 'Tsavo East budget safari company Diani'
+- 'Malindi travel agency beach holidays'
+- 'Private guided tours Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

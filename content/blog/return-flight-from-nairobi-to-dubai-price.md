@@ -1,14 +1,14 @@
 ---
 title: 'Return Flight from Nairobi to Dubai Price: Complete Guide'
-description: Everything you need to know about return flight from nairobi to dubai price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about return flight from nairobi to dubai price, including routes, airlines, booking tips, and fares.'
 slug: return-flight-from-nairobi-to-dubai-price
-primary_keyword: return flight from nairobi to dubai price
+primary_keyword: 'return flight from nairobi to dubai price'
 secondary_keywords:
-- flights from kisumu to lamu
-- flight from eldoret to kisumu price
-- flights to kisumu from mombasa
-- flights from eldoret to diani
-- flights to eldoret from jkia
+- 'flights from kisumu to lamu'
+- 'flight from eldoret to kisumu price'
+- 'flights to kisumu from mombasa'
+- 'flights from eldoret to diani'
+- 'flights to eldoret from jkia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

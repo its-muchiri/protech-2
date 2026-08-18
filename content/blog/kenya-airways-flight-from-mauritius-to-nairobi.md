@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from Mauritius to Nairobi: Complete Guide'
-description: Everything you need to know about kenya airways flight from mauritius to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from mauritius to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-mauritius-to-nairobi
-primary_keyword: kenya airways flight from mauritius to nairobi
+primary_keyword: 'kenya airways flight from mauritius to nairobi'
 secondary_keywords:
-- turkish airlines office nairobi airport
-- turkey flight from kenya
-- flight ticket from kenya to china
-- flight booking mombasa to nairobi
-- ticket from kenya to india
+- 'turkish airlines office nairobi airport'
+- 'turkey flight from kenya'
+- 'flight ticket from kenya to china'
+- 'flight booking mombasa to nairobi'
+- 'ticket from kenya to india'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

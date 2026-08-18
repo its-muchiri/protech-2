@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight Status Nairobi to Dubai: Complete Guide'
-description: Everything you need to know about emirates flight status nairobi to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight status nairobi to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-status-nairobi-to-dubai
-primary_keyword: emirates flight status nairobi to dubai
+primary_keyword: 'emirates flight status nairobi to dubai'
 secondary_keywords:
-- emirates flight 0409
-- emirates flights 2026
-- emirates flight 39
-- emirates flight 417
-- emirates flight 622 status
+- 'emirates flight 0409'
+- 'emirates flights 2026'
+- 'emirates flight 39'
+- 'emirates flight 417'
+- 'emirates flight 622 status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

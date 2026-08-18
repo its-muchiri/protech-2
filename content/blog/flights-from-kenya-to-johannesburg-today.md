@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Johannesburg Today: Complete Guide'
-description: Everything you need to know about flights from kenya to johannesburg today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to johannesburg today, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-johannesburg-today
-primary_keyword: flights from kenya to johannesburg today
+primary_keyword: 'flights from kenya to johannesburg today'
 secondary_keywords:
-- round trip flights to nairobi kenya
-- flights nairobi to tanzania
-- flights nairobi to vipingo
-- flights nairobi to washington dc
-- yvr to nairobi flights
+- 'round trip flights to nairobi kenya'
+- 'flights nairobi to tanzania'
+- 'flights nairobi to vipingo'
+- 'flights nairobi to washington dc'
+- 'yvr to nairobi flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

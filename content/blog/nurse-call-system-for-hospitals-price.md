@@ -1,14 +1,14 @@
 ---
 title: 'Nurse Call System for Hospitals Price: 2026 Price Guide'
-description: Kenya buying guide to nurse call system for hospitals price. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to nurse call system for hospitals price. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: nurse-call-system-for-hospitals-price
-primary_keyword: Nurse call system for hospitals price
+primary_keyword: 'Nurse call system for hospitals price'
 secondary_keywords:
-- medical scales digital Kenya
-- incubators for labs Kenya
-- operating theatre equipment Kenya
-- medical training models Kenya
-- PPE suppliers Kenya for COVID
+- 'medical scales digital Kenya'
+- 'incubators for labs Kenya'
+- 'operating theatre equipment Kenya'
+- 'medical training models Kenya'
+- 'PPE suppliers Kenya for COVID'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

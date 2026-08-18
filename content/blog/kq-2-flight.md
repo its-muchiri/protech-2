@@ -1,14 +1,14 @@
 ---
 title: 'Kq 2 Flight: Complete Guide'
-description: Everything you need to know about kq 2 flight, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 2 flight, including routes, airlines, booking tips, and fares.'
 slug: kq-2-flight
-primary_keyword: kq 2 flight
+primary_keyword: 'kq 2 flight'
 secondary_keywords:
-- kq flight from jfk to nairobi
-- kq airline online check in
-- kq 305
-- kenya airways flight arrivals nairobi
-- kq flight from nairobi to entebbe
+- 'kq flight from jfk to nairobi'
+- 'kq airline online check in'
+- 'kq 305'
+- 'kenya airways flight arrivals nairobi'
+- 'kq flight from nairobi to entebbe'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

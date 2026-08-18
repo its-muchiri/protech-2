@@ -1,14 +1,14 @@
 ---
 title: 'Kq 554 Flight Status: Complete Guide'
-description: Everything you need to know about kq 554 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 554 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq-554-flight-status
-primary_keyword: kq 554 flight status
+primary_keyword: 'kq 554 flight status'
 secondary_keywords:
-- available flights from mombasa to kisumu
-- can you fly direct to mombasa
-- cheapest flights from mombasa to lamu
-- flight from mombasa to eldoret price
-- flights from mombasa to gatwick london
+- 'available flights from mombasa to kisumu'
+- 'can you fly direct to mombasa'
+- 'cheapest flights from mombasa to lamu'
+- 'flight from mombasa to eldoret price'
+- 'flights from mombasa to gatwick london'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

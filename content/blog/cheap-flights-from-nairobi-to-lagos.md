@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Nairobi to Lagos: Complete Guide'
-description: Everything you need to know about cheap flights from nairobi to lagos, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from nairobi to lagos, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-nairobi-to-lagos
-primary_keyword: cheap flights from nairobi to lagos
+primary_keyword: 'cheap flights from nairobi to lagos'
 secondary_keywords:
-- flights nairobi to cape town
-- flights from addis ababa to nairobi today
-- nairobi to bangalore flights
-- cheap flights nairobi to dar es salaam
-- flights nairobi to edmonton
+- 'flights nairobi to cape town'
+- 'flights from addis ababa to nairobi today'
+- 'nairobi to bangalore flights'
+- 'cheap flights nairobi to dar es salaam'
+- 'flights nairobi to edmonton'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

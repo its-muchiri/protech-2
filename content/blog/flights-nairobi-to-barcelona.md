@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Barcelona: Complete Guide'
-description: Everything you need to know about flights nairobi to barcelona, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to barcelona, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-barcelona
-primary_keyword: flights nairobi to barcelona
+primary_keyword: 'flights nairobi to barcelona'
 secondary_keywords:
-- emirates from nairobi
-- emirates nairobi contacts
-- emirates hotel nairobi
-- emirates return ticket from nairobi to dubai
-- emirates from kenya to dubai
+- 'emirates from nairobi'
+- 'emirates nairobi contacts'
+- 'emirates hotel nairobi'
+- 'emirates return ticket from nairobi to dubai'
+- 'emirates from kenya to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

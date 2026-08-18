@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Paris to Nairobi: Complete Guide'
-description: Everything you need to know about flights from paris to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from paris to nairobi, including routes, airlines, booking tips, and fares.'
 slug: flights-from-paris-to-nairobi
-primary_keyword: flights from paris to nairobi
+primary_keyword: 'flights from paris to nairobi'
 secondary_keywords:
-- flight from mombasa to lamu price
-- flights from mombasa to madagascar
-- which flights operate from nairobi to mombasa
-- flight from mombasa to rwanda
-- flights from mombasa to uganda
+- 'flight from mombasa to lamu price'
+- 'flights from mombasa to madagascar'
+- 'which flights operate from nairobi to mombasa'
+- 'flight from mombasa to rwanda'
+- 'flights from mombasa to uganda'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

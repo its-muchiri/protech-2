@@ -1,14 +1,14 @@
 ---
 title: 'Short Notice Safari Booking Kenya: Complete Guide'
-description: Kenya safari guide covering short notice safari booking kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering short notice safari booking kenya, including what is included, pricing, and booking advice.'
 slug: short-notice-safari-booking-kenya
-primary_keyword: Short notice safari booking Kenya
+primary_keyword: 'Short notice safari booking Kenya'
 secondary_keywords:
-- Recommended Kenya safari
-- Samburu National Reserve safari
-- David Sheldrick Wildlife Trust visit
-- Kenya photo safari tour
-- Walking safari Kenya
+- 'Recommended Kenya safari'
+- 'Samburu National Reserve safari'
+- 'David Sheldrick Wildlife Trust visit'
+- 'Kenya photo safari tour'
+- 'Walking safari Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

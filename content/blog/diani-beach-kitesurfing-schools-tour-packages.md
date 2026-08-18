@@ -1,14 +1,14 @@
 ---
 title: 'Diani Beach Kitesurfing Schools/tour Packages: Complete Guide'
-description: Kenya safari guide covering diani beach kitesurfing schools/tour packages, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering diani beach kitesurfing schools/tour packages, including what is included, pricing, and booking advice.'
 slug: diani-beach-kitesurfing-schools-tour-packages
-primary_keyword: Diani Beach kitesurfing schools/tour packages
+primary_keyword: 'Diani Beach kitesurfing schools/tour packages'
 secondary_keywords:
-- Lake Nakuru accommodation
-- Chimpanzee tracking Kenya (Ol Pejeta)
-- Elephant safari Kenya
-- Safari starting Mombasa
-- Kenya safari from France
+- 'Lake Nakuru accommodation'
+- 'Chimpanzee tracking Kenya (Ol Pejeta)'
+- 'Elephant safari Kenya'
+- 'Safari starting Mombasa'
+- 'Kenya safari from France'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

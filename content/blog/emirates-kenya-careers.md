@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Kenya Careers: Complete Guide'
-description: Everything you need to know about emirates kenya careers, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates kenya careers, including routes, airlines, booking tips, and fares.'
 slug: emirates-kenya-careers
-primary_keyword: emirates kenya careers
+primary_keyword: 'emirates kenya careers'
 secondary_keywords:
-- flights from nairobi to new orleans
-- flights from perth to nairobi
-- flights from nairobi to romania
-- flights from nairobi to seattle
-- flights from nairobi to ukunda
+- 'flights from nairobi to new orleans'
+- 'flights from perth to nairobi'
+- 'flights from nairobi to romania'
+- 'flights from nairobi to seattle'
+- 'flights from nairobi to ukunda'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

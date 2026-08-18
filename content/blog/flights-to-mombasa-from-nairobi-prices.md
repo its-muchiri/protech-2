@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Mombasa from Nairobi Prices: Complete Guide'
-description: Everything you need to know about flights to mombasa from nairobi prices, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to mombasa from nairobi prices, including routes, airlines, booking tips, and fares.'
 slug: flights-to-mombasa-from-nairobi-prices
-primary_keyword: flights to mombasa from nairobi prices
+primary_keyword: 'flights to mombasa from nairobi prices'
 secondary_keywords:
-- flight from nairobi to china
-- flight from nairobi to diani
-- flight from nairobi to edmonton
-- how long is a flight from frankfurt to nairobi
-- how many hours flight from nairobi to germany
+- 'flight from nairobi to china'
+- 'flight from nairobi to diani'
+- 'flight from nairobi to edmonton'
+- 'how long is a flight from frankfurt to nairobi'
+- 'how many hours flight from nairobi to germany'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

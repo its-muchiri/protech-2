@@ -1,14 +1,14 @@
 ---
 title: 'Short Kenya Safari: Complete Guide'
-description: Kenya safari guide covering short kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering short kenya safari, including what is included, pricing, and booking advice.'
 slug: short-kenya-safari
-primary_keyword: Short Kenya safari
+primary_keyword: 'Short Kenya safari'
 secondary_keywords:
-- Buy 4 day Lake Nakuru Sopa Lodge birding package deal online
-- Top rated safari companies Kenya SafariBookings
-- Masai Mara National Reserve safari packages 3 days 2 nights from Nairobi
-- Budget camping safari Tsavo East red elephants
-- Crescent Island walking safari Lake Naivasha cost
+- 'Buy 4 day Lake Nakuru Sopa Lodge birding package deal online'
+- 'Top rated safari companies Kenya SafariBookings'
+- 'Masai Mara National Reserve safari packages 3 days 2 nights from Nairobi'
+- 'Budget camping safari Tsavo East red elephants'
+- 'Crescent Island walking safari Lake Naivasha cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

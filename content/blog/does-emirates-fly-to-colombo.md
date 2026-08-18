@@ -1,14 +1,14 @@
 ---
 title: 'Does Emirates Fly to Colombo: Complete Guide'
-description: Everything you need to know about does emirates fly to colombo, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about does emirates fly to colombo, including routes, airlines, booking tips, and fares.'
 slug: does-emirates-fly-to-colombo
-primary_keyword: does emirates fly to colombo
+primary_keyword: 'does emirates fly to colombo'
 secondary_keywords:
-- emirates flights from chicago to dubai
-- flights from islamabad to dubai united arab emirates
-- emirates flights from frankfurt
-- emirates flights from glasgow today timetable
-- emirates flights from hong kong
+- 'emirates flights from chicago to dubai'
+- 'flights from islamabad to dubai united arab emirates'
+- 'emirates flights from frankfurt'
+- 'emirates flights from glasgow today timetable'
+- 'emirates flights from hong kong'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

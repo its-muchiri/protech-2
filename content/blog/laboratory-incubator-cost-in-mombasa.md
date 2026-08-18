@@ -1,14 +1,14 @@
 ---
 title: 'Laboratory Incubator Cost in Mombasa: 2026 Price Guide'
-description: Kenya buying guide to laboratory incubator cost in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to laboratory incubator cost in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: laboratory-incubator-cost-in-mombasa
-primary_keyword: Laboratory incubator cost in Mombasa
+primary_keyword: 'Laboratory incubator cost in Mombasa'
 secondary_keywords:
-- Portable defibrillator for ambulance in Nairobi
-- Visual acuity chart / Snellen chart
-- Blood collection tubes (vacutainers) suppliers
-- Body bags wholesale price in Kenya
-- Medical oxygen plant installation cost in Kenya
+- 'Portable defibrillator for ambulance in Nairobi'
+- 'Visual acuity chart / Snellen chart'
+- 'Blood collection tubes (vacutainers) suppliers'
+- 'Body bags wholesale price in Kenya'
+- 'Medical oxygen plant installation cost in Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

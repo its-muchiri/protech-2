@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight Schedule Nairobi to Harare: Complete Guide'
-description: Everything you need to know about kenya airways flight schedule nairobi to harare, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight schedule nairobi to harare, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-schedule-nairobi-to-harare
-primary_keyword: kenya airways flight schedule nairobi to harare
+primary_keyword: 'kenya airways flight schedule nairobi to harare'
 secondary_keywords:
-- ethiopian airlines website not working
-- flight ticket from nairobi to istanbul
-- flight booking nairobi to kisumu
-- flight ticket to kenya from lagos
-- ticket from kenya to south africa
+- 'ethiopian airlines website not working'
+- 'flight ticket from nairobi to istanbul'
+- 'flight booking nairobi to kisumu'
+- 'flight ticket to kenya from lagos'
+- 'ticket from kenya to south africa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: '3 Day Masai Mara Budget Camping Tour: Complete Guide'
-description: Kenya safari guide covering 3 day masai mara budget camping tour, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering 3 day masai mara budget camping tour, including what is included, pricing, and booking advice.'
 slug: 3-day-masai-mara-budget-camping-tour
-primary_keyword: 3 day Masai Mara budget camping tour
+primary_keyword: '3 day Masai Mara budget camping tour'
 secondary_keywords:
-- Angama Mara safari package cost
-- Romantic Kenya safari package deals
-- Discounted Kenya safari tours purchase
-- Kenya Zanzibar beach safari package deal
-- Book Northern circuit Kenya safari package
+- 'Angama Mara safari package cost'
+- 'Romantic Kenya safari package deals'
+- 'Discounted Kenya safari tours purchase'
+- 'Kenya Zanzibar beach safari package deal'
+- 'Book Northern circuit Kenya safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

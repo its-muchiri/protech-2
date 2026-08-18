@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight Delays: Complete Guide'
-description: Everything you need to know about kq flight delays, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight delays, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-delays
-primary_keyword: kq flight delays
+primary_keyword: 'kq flight delays'
 secondary_keywords:
-- flight ticket kenya to nigeria
-- flight ticket for kenya
-- book ticket to kenya
-- ticket from kenya to uganda
-- which airlines are flying to kenya
+- 'flight ticket kenya to nigeria'
+- 'flight ticket for kenya'
+- 'book ticket to kenya'
+- 'ticket from kenya to uganda'
+- 'which airlines are flying to kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

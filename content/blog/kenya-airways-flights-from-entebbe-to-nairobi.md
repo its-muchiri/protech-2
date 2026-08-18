@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights from Entebbe to Nairobi: Complete Guide'
-description: Everything you need to know about kenya airways flights from entebbe to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights from entebbe to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-from-entebbe-to-nairobi
-primary_keyword: kenya airways flights from entebbe to nairobi
+primary_keyword: 'kenya airways flights from entebbe to nairobi'
 secondary_keywords:
-- emirates flights to dubai from nairobi
-- emirates flight 407
-- emirates flight 515
-- emirates flight 777 300er seating
-- emirates ek 8
+- 'emirates flights to dubai from nairobi'
+- 'emirates flight 407'
+- 'emirates flight 515'
+- 'emirates flight 777 300er seating'
+- 'emirates ek 8'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

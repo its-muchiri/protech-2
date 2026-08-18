@@ -1,14 +1,14 @@
 ---
 title: 'Price of Flight from Nairobi to Dubai: Complete Guide'
-description: Everything you need to know about price of flight from nairobi to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about price of flight from nairobi to dubai, including routes, airlines, booking tips, and fares.'
 slug: price-of-flight-from-nairobi-to-dubai
-primary_keyword: price of flight from nairobi to dubai
+primary_keyword: 'price of flight from nairobi to dubai'
 secondary_keywords:
-- rwanda flights from kenya
-- south africa flights from kenya price
-- uganda flights from kenya
-- cheapest flights from vilnius to nairobi kenya
-- flights from winnipeg canada to nairobi kenya
+- 'rwanda flights from kenya'
+- 'south africa flights from kenya price'
+- 'uganda flights from kenya'
+- 'cheapest flights from vilnius to nairobi kenya'
+- 'flights from winnipeg canada to nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

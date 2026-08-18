@@ -1,14 +1,14 @@
 ---
 title: 'Hospital Steam Sterilizer (autoclave) Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to hospital steam sterilizer (autoclave) price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to hospital steam sterilizer (autoclave) price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: hospital-steam-sterilizer-autoclave-price-in-kenya
-primary_keyword: Hospital steam sterilizer (autoclave) price in Kenya
+primary_keyword: 'Hospital steam sterilizer (autoclave) price in Kenya'
 secondary_keywords:
-- medical hygiene products Kenya
-- medical waste collection Kenya
-- medical equipment grants Kenya
-- rural clinic medical supplies Kenya
-- medical instrument sterilization solutions Kenya
+- 'medical hygiene products Kenya'
+- 'medical waste collection Kenya'
+- 'medical equipment grants Kenya'
+- 'rural clinic medical supplies Kenya'
+- 'medical instrument sterilization solutions Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

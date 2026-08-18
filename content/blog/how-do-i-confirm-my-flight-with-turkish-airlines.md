@@ -1,14 +1,14 @@
 ---
 title: 'How Do I Confirm My Flight with Turkish Airlines: Complete Guide'
-description: Everything you need to know about how do i confirm my flight with turkish airlines, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how do i confirm my flight with turkish airlines, including routes, airlines, booking tips, and fares.'
 slug: how-do-i-confirm-my-flight-with-turkish-airlines
-primary_keyword: how do i confirm my flight with turkish airlines
+primary_keyword: 'how do i confirm my flight with turkish airlines'
 secondary_keywords:
-- does turkish airlines allow pets in business class
-- turkish airlines in nairobi
-- turkish airlines mombasa
-- turkish airlines nairobi terminal
-- emirates airlines mombasa office
+- 'does turkish airlines allow pets in business class'
+- 'turkish airlines in nairobi'
+- 'turkish airlines mombasa'
+- 'turkish airlines nairobi terminal'
+- 'emirates airlines mombasa office'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

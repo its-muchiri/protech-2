@@ -1,14 +1,14 @@
 ---
 title: 'LED Operating Theatre Lights Cost in Kisumu: 2026 Price Guide'
-description: Kenya buying guide to led operating theatre lights cost in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to led operating theatre lights cost in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: led-operating-theatre-lights-cost-in-kisumu
-primary_keyword: LED operating theatre lights cost in Kisumu
+primary_keyword: 'LED operating theatre lights cost in Kisumu'
 secondary_keywords:
-- patient mobility aids Kenya
-- medical equipment suppliers Nairobi CBD
-- clinic management software Kenya
-- medical cleaning supplies Kenya
-- hospital bed rental Nairobi
+- 'patient mobility aids Kenya'
+- 'medical equipment suppliers Nairobi CBD'
+- 'clinic management software Kenya'
+- 'medical cleaning supplies Kenya'
+- 'hospital bed rental Nairobi'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

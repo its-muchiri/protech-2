@@ -1,14 +1,14 @@
 ---
 title: 'Find French-speaking Driver-guide Kenya Safari Package Booking Europe Reliable Operator Needed: Complete Guide'
-description: Kenya safari guide covering find french-speaking driver-guide kenya safari package booking europe reliable operator needed, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering find french-speaking driver-guide kenya safari package booking europe reliable operator needed, including what is included, pricing, and booking advice.'
 slug: find-french-speaking-driver-guide-kenya-safari-package-booking-europe-reliable-operator-needed
-primary_keyword: Find French-speaking driver-guide Kenya safari package booking Europe reliable operator needed
+primary_keyword: 'Find French-speaking driver-guide Kenya safari package booking Europe reliable operator needed'
 secondary_keywords:
-- Book Valentine''s romantic safari package Kenya
-- Quote & Book 7 day fly-in Governors Camp package
-- Reserve 10 day Offbeat Safaris mobile camping package
-- Book 5 star all-inclusive Kenya safari package deal online
-- Buy last minute cancellation deal Kenya luxury safari package
+- 'Book Valentine''''s romantic safari package Kenya'
+- 'Quote & Book 7 day fly-in Governors Camp package'
+- 'Reserve 10 day Offbeat Safaris mobile camping package'
+- 'Book 5 star all-inclusive Kenya safari package deal online'
+- 'Buy last minute cancellation deal Kenya luxury safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

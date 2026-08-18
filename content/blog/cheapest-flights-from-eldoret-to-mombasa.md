@@ -1,14 +1,14 @@
 ---
 title: 'Cheapest Flights from Eldoret to Mombasa: Complete Guide'
-description: Everything you need to know about cheapest flights from eldoret to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheapest flights from eldoret to mombasa, including routes, airlines, booking tips, and fares.'
 slug: cheapest-flights-from-eldoret-to-mombasa
-primary_keyword: cheapest flights from eldoret to mombasa
+primary_keyword: 'cheapest flights from eldoret to mombasa'
 secondary_keywords:
-- flights nairobi to canada
-- flights nairobi to dublin
-- cheap flights from entebbe to nairobi
-- google flights nairobi to london
-- harare to nairobi flights
+- 'flights nairobi to canada'
+- 'flights nairobi to dublin'
+- 'cheap flights from entebbe to nairobi'
+- 'google flights nairobi to london'
+- 'harare to nairobi flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

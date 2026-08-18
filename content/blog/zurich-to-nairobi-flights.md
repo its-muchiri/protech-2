@@ -1,14 +1,14 @@
 ---
 title: 'Zurich to Nairobi Flights: Complete Guide'
-description: Everything you need to know about zurich to nairobi flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about zurich to nairobi flights, including routes, airlines, booking tips, and fares.'
 slug: zurich-to-nairobi-flights
-primary_keyword: zurich to nairobi flights
+primary_keyword: 'zurich to nairobi flights'
 secondary_keywords:
-- flights from new orleans to kenya
-- cheap flights to kenya from perth
-- flights from qatar to kenya today
-- flights from raleigh to kenya
-- turkey flights from kenya
+- 'flights from new orleans to kenya'
+- 'cheap flights to kenya from perth'
+- 'flights from qatar to kenya today'
+- 'flights from raleigh to kenya'
+- 'turkey flights from kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Bird Watching Safari Tours USA Specialist Booking: Complete Guide'
-description: Kenya safari guide covering kenya bird watching safari tours usa specialist booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya bird watching safari tours usa specialist booking, including what is included, pricing, and booking advice.'
 slug: kenya-bird-watching-safari-tours-usa-specialist-booking
-primary_keyword: Kenya bird watching safari tours USA specialist booking
+primary_keyword: 'Kenya bird watching safari tours USA specialist booking'
 secondary_keywords:
-- Kenya safari package quote request form
-- Kenya adventure safari packages cost UK (hiking, biking)
-- Kenya coast safari (Mombasa/Diani departure) deals USA booking
-- Best Kenya safari packages for European travelers reviews
-- German speaking guide Kenya safari booking online
+- 'Kenya safari package quote request form'
+- 'Kenya adventure safari packages cost UK (hiking, biking)'
+- 'Kenya coast safari (Mombasa/Diani departure) deals USA booking'
+- 'Best Kenya safari packages for European travelers reviews'
+- 'German speaking guide Kenya safari booking online'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

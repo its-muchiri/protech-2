@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Tour Package Discounts: Complete Guide'
-description: Kenya safari guide covering kenya tour package discounts, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya tour package discounts, including what is included, pricing, and booking advice.'
 slug: kenya-tour-package-discounts
-primary_keyword: Kenya tour package discounts
+primary_keyword: 'Kenya tour package discounts'
 secondary_keywords:
-- Luxury fly-in Kenya safari quote
-- Child friendly safari lodge package Kenya booking
-- Budget Kenya safari package book
-- Compare budget Kenya safari packages price
-- Cross border safari Kenya Tanzania operator
+- 'Luxury fly-in Kenya safari quote'
+- 'Child friendly safari lodge package Kenya booking'
+- 'Budget Kenya safari package book'
+- 'Compare budget Kenya safari packages price'
+- 'Cross border safari Kenya Tanzania operator'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

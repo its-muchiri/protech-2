@@ -1,14 +1,14 @@
 ---
 title: 'Secure Extended Stay Kenya Safari Booking (3+ Weeks): Complete Guide'
-description: Kenya safari guide covering secure extended stay kenya safari booking (3+ weeks), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering secure extended stay kenya safari booking (3+ weeks), including what is included, pricing, and booking advice.'
 slug: secure-extended-stay-kenya-safari-booking-3-weeks
-primary_keyword: Secure extended stay Kenya safari booking (3+ weeks)
+primary_keyword: 'Secure extended stay Kenya safari booking (3+ weeks)'
 secondary_keywords:
-- Lake Nakuru National Park day trip from Nairobi cost Flamingo Hill Camp
-- Affordable Kenya lodge safari packages mid-range
-- Adventure safari Kenya hiking / rafting options
-- Mount Kenya climbing tours Sirimon route price / itinerary 5 days
-- Kikuyu cultural experiences near Nairobi Kiambethu Tea Farm tour
+- 'Lake Nakuru National Park day trip from Nairobi cost Flamingo Hill Camp'
+- 'Affordable Kenya lodge safari packages mid-range'
+- 'Adventure safari Kenya hiking / rafting options'
+- 'Mount Kenya climbing tours Sirimon route price / itinerary 5 days'
+- 'Kikuyu cultural experiences near Nairobi Kiambethu Tea Farm tour'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

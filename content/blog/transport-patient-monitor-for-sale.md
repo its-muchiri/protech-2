@@ -1,14 +1,14 @@
 ---
 title: 'Transport Patient Monitor for Sale: 2026 Price Guide'
-description: Kenya buying guide to transport patient monitor for sale. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to transport patient monitor for sale. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: transport-patient-monitor-for-sale
-primary_keyword: Transport patient monitor for sale
+primary_keyword: 'Transport patient monitor for sale'
 secondary_keywords:
-- Bubble CPAP machine for neonates
-- Portable electrotherapy device for home use
-- Affordable dental chair for a new clinic in Nairobi
-- Used dental X-ray machine for sale in Kisumu
-- Veterinary ultrasound machine for small animals
+- 'Bubble CPAP machine for neonates'
+- 'Portable electrotherapy device for home use'
+- 'Affordable dental chair for a new clinic in Nairobi'
+- 'Used dental X-ray machine for sale in Kisumu'
+- 'Veterinary ultrasound machine for small animals'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

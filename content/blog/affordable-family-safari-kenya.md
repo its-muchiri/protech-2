@@ -1,14 +1,14 @@
 ---
 title: 'Affordable Family Safari Kenya: Complete Guide'
-description: Kenya safari guide covering affordable family safari kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering affordable family safari kenya, including what is included, pricing, and booking advice.'
 slug: affordable-family-safari-kenya
-primary_keyword: Affordable family safari Kenya
+primary_keyword: 'Affordable family safari Kenya'
 secondary_keywords:
-- Niche Kenya safari operator (e.g., photographic, birding) UK
-- Immediate booking confirmation Kenya safari tour online
-- Top 10 Kenya luxury safari lodges booking rates USA
-- Book last minute Masai Mara migration safari UK tour operator offers
-- Book multi-day walking safari northern Kenya online Europe experienced hikers
+- 'Niche Kenya safari operator (e.g., photographic, birding) UK'
+- 'Immediate booking confirmation Kenya safari tour online'
+- 'Top 10 Kenya luxury safari lodges booking rates USA'
+- 'Book last minute Masai Mara migration safari UK tour operator offers'
+- 'Book multi-day walking safari northern Kenya online Europe experienced hikers'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

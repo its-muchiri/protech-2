@@ -1,14 +1,14 @@
 ---
 title: 'Amboseli Holiday Package Booking: Complete Guide'
-description: Kenya safari guide covering amboseli holiday package booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering amboseli holiday package booking, including what is included, pricing, and booking advice.'
 slug: amboseli-holiday-package-booking
-primary_keyword: Amboseli holiday package booking
+primary_keyword: 'Amboseli holiday package booking'
 secondary_keywords:
-- Secure Great Rift Valley lakes tour booking
-- Buy weekend Kenya safari getaway booking
-- Reserve 5 day family fly-in Amboseli package
-- Amboseli tour package price quote
-- Luxury Kenya safari package price quote
+- 'Secure Great Rift Valley lakes tour booking'
+- 'Buy weekend Kenya safari getaway booking'
+- 'Reserve 5 day family fly-in Amboseli package'
+- 'Amboseli tour package price quote'
+- 'Luxury Kenya safari package price quote'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

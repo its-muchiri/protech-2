@@ -1,14 +1,14 @@
 ---
 title: 'Ba Flights from Kenya to London: Complete Guide'
-description: Everything you need to know about ba flights from kenya to london, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ba flights from kenya to london, including routes, airlines, booking tips, and fares.'
 slug: ba-flights-from-kenya-to-london
-primary_keyword: ba flights from kenya to london
+primary_keyword: 'ba flights from kenya to london'
 secondary_keywords:
-- how many types of flights in kenya
-- klm in kenya
-- flight in nairobi kenya
-- flights to kenya qatar
-- how much is the flight ticket to kenya
+- 'how many types of flights in kenya'
+- 'klm in kenya'
+- 'flight in nairobi kenya'
+- 'flights to kenya qatar'
+- 'how much is the flight ticket to kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

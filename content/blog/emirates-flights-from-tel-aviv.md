@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Tel Aviv: Complete Guide'
-description: Everything you need to know about emirates flights from tel aviv, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from tel aviv, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-tel-aviv
-primary_keyword: emirates flights from tel aviv
+primary_keyword: 'emirates flights from tel aviv'
 secondary_keywords:
-- qatar flight to nairobi today
-- how many destinations does kenya airways fly to
-- kq flight from nairobi to new york
-- kq flight from lagos to nairobi
-- kq direct flight from kenya to usa
+- 'qatar flight to nairobi today'
+- 'how many destinations does kenya airways fly to'
+- 'kq flight from nairobi to new york'
+- 'kq flight from lagos to nairobi'
+- 'kq direct flight from kenya to usa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

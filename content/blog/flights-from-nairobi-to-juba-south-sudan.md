@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Juba South Sudan: Complete Guide'
-description: Everything you need to know about flights from nairobi to juba south sudan, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to juba south sudan, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-juba-south-sudan
-primary_keyword: flights from nairobi to juba south sudan
+primary_keyword: 'flights from nairobi to juba south sudan'
 secondary_keywords:
-- flights from kenya to canada
-- flights from kenya to dubai today
-- flights from kenya to edinburgh
-- flights from kenya to sierra leone
-- flight from kenya to georgia
+- 'flights from kenya to canada'
+- 'flights from kenya to dubai today'
+- 'flights from kenya to edinburgh'
+- 'flights from kenya to sierra leone'
+- 'flight from kenya to georgia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

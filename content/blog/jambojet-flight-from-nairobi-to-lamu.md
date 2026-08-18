@@ -1,14 +1,14 @@
 ---
 title: 'Jambojet Flight from Nairobi to Lamu: Complete Guide'
-description: Everything you need to know about jambojet flight from nairobi to lamu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about jambojet flight from nairobi to lamu, including routes, airlines, booking tips, and fares.'
 slug: jambojet-flight-from-nairobi-to-lamu
-primary_keyword: jambojet flight from nairobi to lamu
+primary_keyword: 'jambojet flight from nairobi to lamu'
 secondary_keywords:
-- flights from kenya to brisbane
-- flights from kenya to cameroon
-- flights from kenya to denmark
-- emirates flights from kenya to australia today
-- flights from florida to kenya
+- 'flights from kenya to brisbane'
+- 'flights from kenya to cameroon'
+- 'flights from kenya to denmark'
+- 'emirates flights from kenya to australia today'
+- 'flights from florida to kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

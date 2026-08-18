@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from London to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from london to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from london to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-london-to-dubai
-primary_keyword: emirates flights from london to dubai
+primary_keyword: 'emirates flights from london to dubai'
 secondary_keywords:
-- airfare from kisumu to nairobi
-- flights from wilson to kisumu
-- eldoret airport flights
-- flights from eldoret to jkia
-- flights from eldoret to nairobi price
+- 'airfare from kisumu to nairobi'
+- 'flights from wilson to kisumu'
+- 'eldoret airport flights'
+- 'flights from eldoret to jkia'
+- 'flights from eldoret to nairobi price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

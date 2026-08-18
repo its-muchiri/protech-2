@@ -1,14 +1,14 @@
 ---
 title: 'Flight Route from Nairobi to New York: Complete Guide'
-description: Everything you need to know about flight route from nairobi to new york, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight route from nairobi to new york, including routes, airlines, booking tips, and fares.'
 slug: flight-route-from-nairobi-to-new-york
-primary_keyword: flight route from nairobi to new york
+primary_keyword: 'flight route from nairobi to new york'
 secondary_keywords:
-- ticket from kenya to egypt
-- flights to kenya africa
-- cheap flights from beirut to kenya in dollars
-- flights to kenya delta
-- flights to kenya from johannesburg
+- 'ticket from kenya to egypt'
+- 'flights to kenya africa'
+- 'cheap flights from beirut to kenya in dollars'
+- 'flights to kenya delta'
+- 'flights to kenya from johannesburg'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

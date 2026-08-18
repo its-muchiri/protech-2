@@ -1,14 +1,14 @@
 ---
 title: 'Cheapest Flights from Mombasa to London: Complete Guide'
-description: Everything you need to know about cheapest flights from mombasa to london, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheapest flights from mombasa to london, including routes, airlines, booking tips, and fares.'
 slug: cheapest-flights-from-mombasa-to-london
-primary_keyword: cheapest flights from mombasa to london
+primary_keyword: 'cheapest flights from mombasa to london'
 secondary_keywords:
-- cheap flights to nairobi from london
-- flights from nairobi to new york
-- flights from nairobi to abuja nigeria
-- flights from nairobi to philadelphia
-- qatar airways flights from nairobi
+- 'cheap flights to nairobi from london'
+- 'flights from nairobi to new york'
+- 'flights from nairobi to abuja nigeria'
+- 'flights from nairobi to philadelphia'
+- 'qatar airways flights from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to South Africa: Complete Guide'
-description: Everything you need to know about flights from nairobi to south africa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to south africa, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-south-africa
-primary_keyword: flights from nairobi to south africa
+primary_keyword: 'flights from nairobi to south africa'
 secondary_keywords:
-- how many emirates flights from glasgow
-- emirates flights to india from dubai
-- emirates flights from kochi to dubai
-- emirates flights from lusaka to harare
-- emirates flights to australia from manchester
+- 'how many emirates flights from glasgow'
+- 'emirates flights to india from dubai'
+- 'emirates flights from kochi to dubai'
+- 'emirates flights from lusaka to harare'
+- 'emirates flights to australia from manchester'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

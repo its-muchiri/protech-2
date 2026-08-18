@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Kisumu from Entebbe Uganda: Complete Guide'
-description: Everything you need to know about flights to kisumu from entebbe uganda, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to kisumu from entebbe uganda, including routes, airlines, booking tips, and fares.'
 slug: flights-to-kisumu-from-entebbe-uganda
-primary_keyword: flights to kisumu from entebbe uganda
+primary_keyword: 'flights to kisumu from entebbe uganda'
 secondary_keywords:
-- who flies to nairobi
-- flights from nairobi to garowe
-- how much are flights from nairobi to mombasa
-- flights to india from nairobi
-- jambojet flights from nairobi to mombasa
+- 'who flies to nairobi'
+- 'flights from nairobi to garowe'
+- 'how much are flights from nairobi to mombasa'
+- 'flights to india from nairobi'
+- 'jambojet flights from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Buy Luxury Lodge Safari Kenya USA Reviews: Complete Guide'
-description: Kenya safari guide covering buy luxury lodge safari kenya usa reviews, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy luxury lodge safari kenya usa reviews, including what is included, pricing, and booking advice.'
 slug: buy-luxury-lodge-safari-kenya-usa-reviews
-primary_keyword: Buy luxury lodge safari Kenya USA reviews
+primary_keyword: 'Buy luxury lodge safari Kenya USA reviews'
 secondary_keywords:
-- Kenya cultural safari
-- 4 day Kenya safari
-- How much is a Kenya safari
-- Hidden costs Kenya safari
-- Fly camp accommodation Kenya
+- 'Kenya cultural safari'
+- '4 day Kenya safari'
+- 'How much is a Kenya safari'
+- 'Hidden costs Kenya safari'
+- 'Fly camp accommodation Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

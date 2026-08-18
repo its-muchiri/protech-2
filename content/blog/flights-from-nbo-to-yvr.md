@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nbo to Yvr: Complete Guide'
-description: Everything you need to know about flights from nbo to yvr, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nbo to yvr, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nbo-to-yvr
-primary_keyword: flights from nbo to yvr
+primary_keyword: 'flights from nbo to yvr'
 secondary_keywords:
-- emirates flight 98
-- qatar airways nairobi airport office
-- qatar airways nairobi cabin crew
-- how much is a flight from nairobi to qatar
-- qatar airways nairobi office working hours
+- 'emirates flight 98'
+- 'qatar airways nairobi airport office'
+- 'qatar airways nairobi cabin crew'
+- 'how much is a flight from nairobi to qatar'
+- 'qatar airways nairobi office working hours'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

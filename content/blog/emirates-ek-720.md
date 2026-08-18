@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Ek 720: Complete Guide'
-description: Everything you need to know about emirates ek 720, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates ek 720, including routes, airlines, booking tips, and fares.'
 slug: emirates-ek-720
-primary_keyword: emirates ek 720
+primary_keyword: 'emirates ek 720'
 secondary_keywords:
-- flight from nairobi to mauritius
-- flight ticket from nigeria to nairobi
-- flight from nairobi to portugal
-- flight from nairobi to romania
-- flight from nairobi to seattle
+- 'flight from nairobi to mauritius'
+- 'flight ticket from nigeria to nairobi'
+- 'flight from nairobi to portugal'
+- 'flight from nairobi to romania'
+- 'flight from nairobi to seattle'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

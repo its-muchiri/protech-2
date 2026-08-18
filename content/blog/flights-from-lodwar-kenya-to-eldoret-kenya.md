@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Lodwar Kenya to Eldoret Kenya: Complete Guide'
-description: Everything you need to know about flights from lodwar kenya to eldoret kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from lodwar kenya to eldoret kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-lodwar-kenya-to-eldoret-kenya
-primary_keyword: flights from lodwar kenya to eldoret kenya
+primary_keyword: 'flights from lodwar kenya to eldoret kenya'
 secondary_keywords:
-- emirates flight status from nairobi to dubai
-- nairobi to dubai emirates flight status
-- emirates airlines nairobi to dubai
-- emirates flight from nairobi to dubai today timetable
-- emirates offices nairobi location
+- 'emirates flight status from nairobi to dubai'
+- 'nairobi to dubai emirates flight status'
+- 'emirates airlines nairobi to dubai'
+- 'emirates flight from nairobi to dubai today timetable'
+- 'emirates offices nairobi location'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

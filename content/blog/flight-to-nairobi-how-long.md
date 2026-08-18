@@ -1,14 +1,14 @@
 ---
 title: 'Flight to Nairobi How Long: Complete Guide'
-description: Everything you need to know about flight to nairobi how long, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight to nairobi how long, including routes, airlines, booking tips, and fares.'
 slug: flight-to-nairobi-how-long
-primary_keyword: flight to nairobi how long
+primary_keyword: 'flight to nairobi how long'
 secondary_keywords:
-- emirates flights from johannesburg
-- emirates flights from dublin to kochi
-- emirates flights from miami
-- emirates flights from orlando to dubai
-- emirates flights from pakistan to london
+- 'emirates flights from johannesburg'
+- 'emirates flights from dublin to kochi'
+- 'emirates flights from miami'
+- 'emirates flights from orlando to dubai'
+- 'emirates flights from pakistan to london'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

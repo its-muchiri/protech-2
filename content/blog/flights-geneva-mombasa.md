@@ -1,14 +1,14 @@
 ---
 title: 'Flights Geneva Mombasa: Complete Guide'
-description: Everything you need to know about flights geneva mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights geneva mombasa, including routes, airlines, booking tips, and fares.'
 slug: flights-geneva-mombasa
-primary_keyword: flights geneva mombasa
+primary_keyword: 'flights geneva mombasa'
 secondary_keywords:
-- flights from saudi arabia to nairobi
-- ba flights nairobi to london today
-- cheap flights nairobi to dubai
-- nairobi to dar es salaam flights
-- flights to nairobi from mombasa
+- 'flights from saudi arabia to nairobi'
+- 'ba flights nairobi to london today'
+- 'cheap flights nairobi to dubai'
+- 'nairobi to dar es salaam flights'
+- 'flights to nairobi from mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

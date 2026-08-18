@@ -1,14 +1,14 @@
 ---
 title: 'Hot Air Balloon Safari Kenya: Complete Guide'
-description: Kenya safari guide covering hot air balloon safari kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering hot air balloon safari kenya, including what is included, pricing, and booking advice.'
 slug: hot-air-balloon-safari-kenya
-primary_keyword: Hot air balloon safari Kenya
+primary_keyword: 'Hot air balloon safari Kenya'
 secondary_keywords:
-- Kenya safari in December
-- Kenya Association of Tour Operators (KATO) members
-- Gluten-free safari Kenya
-- What to pack for Kenya safari
-- Can I drink tap water Kenya safari
+- 'Kenya safari in December'
+- 'Kenya Association of Tour Operators (KATO) members'
+- 'Gluten-free safari Kenya'
+- 'What to pack for Kenya safari'
+- 'Can I drink tap water Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

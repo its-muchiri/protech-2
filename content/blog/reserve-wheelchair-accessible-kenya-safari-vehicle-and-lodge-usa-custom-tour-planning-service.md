@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Wheelchair Accessible Kenya Safari Vehicle & Lodge USA Custom Tour Planning Service: Complete Guide'
-description: Kenya safari guide covering reserve wheelchair accessible kenya safari vehicle & lodge usa custom tour planning service, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve wheelchair accessible kenya safari vehicle & lodge usa custom tour planning service, including what is included, pricing, and booking advice.'
 slug: reserve-wheelchair-accessible-kenya-safari-vehicle-and-lodge-usa-custom-tour-planning-service
-primary_keyword: Reserve wheelchair accessible Kenya safari vehicle & lodge USA custom tour planning service
+primary_keyword: 'Reserve wheelchair accessible Kenya safari vehicle & lodge USA custom tour planning service'
 secondary_keywords:
-- Lake Naivasha boat ride hippo tour price
-- Accessible safari Kenya wheelchair friendly lodges / vehicles
-- Budget beach hotels Mombasa North Coast backpacker options
-- Lamu cultural festival dates and tours 2025
-- Fourteen Falls Thika day trip guide / cost
+- 'Lake Naivasha boat ride hippo tour price'
+- 'Accessible safari Kenya wheelchair friendly lodges / vehicles'
+- 'Budget beach hotels Mombasa North Coast backpacker options'
+- 'Lamu cultural festival dates and tours 2025'
+- 'Fourteen Falls Thika day trip guide / cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

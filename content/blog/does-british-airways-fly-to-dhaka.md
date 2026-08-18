@@ -1,14 +1,14 @@
 ---
 title: 'Does British Airways Fly to Dhaka: Complete Guide'
-description: Everything you need to know about does british airways fly to dhaka, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about does british airways fly to dhaka, including routes, airlines, booking tips, and fares.'
 slug: does-british-airways-fly-to-dhaka
-primary_keyword: does british airways fly to dhaka
+primary_keyword: 'does british airways fly to dhaka'
 secondary_keywords:
-- entebbe to nairobi flights
-- flight nairobi to germany
-- flights nairobi to london heathrow
-- nairobi to india flights price air india
-- flights nairobi to kampala
+- 'entebbe to nairobi flights'
+- 'flight nairobi to germany'
+- 'flights nairobi to london heathrow'
+- 'nairobi to india flights price air india'
+- 'flights nairobi to kampala'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

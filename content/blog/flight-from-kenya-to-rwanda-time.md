@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kenya to Rwanda Time: Complete Guide'
-description: Everything you need to know about flight from kenya to rwanda time, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kenya to rwanda time, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kenya-to-rwanda-time
-primary_keyword: flight from kenya to rwanda time
+primary_keyword: 'flight from kenya to rwanda time'
 secondary_keywords:
-- flight from nairobi to kabunde
-- turkish airlines flight price from nairobi to turkey
-- turkish airlines cargo nairobi
-- how much is flight from nairobi to turkey
-- turkish airlines lounge nairobi price
+- 'flight from nairobi to kabunde'
+- 'turkish airlines flight price from nairobi to turkey'
+- 'turkish airlines cargo nairobi'
+- 'how much is flight from nairobi to turkey'
+- 'turkish airlines lounge nairobi price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

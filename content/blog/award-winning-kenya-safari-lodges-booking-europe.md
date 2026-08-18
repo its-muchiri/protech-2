@@ -1,14 +1,14 @@
 ---
 title: 'Award-winning Kenya Safari Lodges Booking Europe: Complete Guide'
-description: Kenya safari guide covering award-winning kenya safari lodges booking europe, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering award-winning kenya safari lodges booking europe, including what is included, pricing, and booking advice.'
 slug: award-winning-kenya-safari-lodges-booking-europe
-primary_keyword: Award-winning Kenya safari lodges booking Europe
+primary_keyword: 'Award-winning Kenya safari lodges booking Europe'
 secondary_keywords:
-- Buy 6 day Amboseli Tsavo safari package
-- Masai Mara safari package deals
-- Fly-in Masai Mara safari package book
-- Finch Hattons Tsavo luxury package quote
-- Private Kenya honeymoon safari quote
+- 'Buy 6 day Amboseli Tsavo safari package'
+- 'Masai Mara safari package deals'
+- 'Fly-in Masai Mara safari package book'
+- 'Finch Hattons Tsavo luxury package quote'
+- 'Private Kenya honeymoon safari quote'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

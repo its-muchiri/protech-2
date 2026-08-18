@@ -1,14 +1,14 @@
 ---
 title: 'Thailand Flights from Kenya: Complete Guide'
-description: Everything you need to know about thailand flights from kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about thailand flights from kenya, including routes, airlines, booking tips, and fares.'
 slug: thailand-flights-from-kenya
-primary_keyword: thailand flights from kenya
+primary_keyword: 'thailand flights from kenya'
 secondary_keywords:
-- flight nairobi to ethiopia
-- flights to nairobi from manchester
-- google flights nairobi to new york
-- cheap flights nairobi to istanbul
-- jambojet flights nairobi to malindi
+- 'flight nairobi to ethiopia'
+- 'flights to nairobi from manchester'
+- 'google flights nairobi to new york'
+- 'cheap flights nairobi to istanbul'
+- 'jambojet flights nairobi to malindi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

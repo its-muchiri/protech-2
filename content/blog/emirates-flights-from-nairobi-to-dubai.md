@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Nairobi to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from nairobi to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from nairobi to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-nairobi-to-dubai
-primary_keyword: emirates flights from nairobi to dubai
+primary_keyword: 'emirates flights from nairobi to dubai'
 secondary_keywords:
-- kenya airways from nairobi to new york
-- flight from nairobi to arusha
-- a flight from nairobi to kisumu
-- ba flight from nairobi to heathrow
-- cheapest flight from nairobi to canada
+- 'kenya airways from nairobi to new york'
+- 'flight from nairobi to arusha'
+- 'a flight from nairobi to kisumu'
+- 'ba flight from nairobi to heathrow'
+- 'cheapest flight from nairobi to canada'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

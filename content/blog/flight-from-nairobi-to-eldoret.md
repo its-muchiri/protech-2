@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Eldoret: Complete Guide'
-description: Everything you need to know about flight from nairobi to eldoret, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to eldoret, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-eldoret
-primary_keyword: flight from nairobi to eldoret
+primary_keyword: 'flight from nairobi to eldoret'
 secondary_keywords:
-- cheap flights from nairobi to isiolo
-- which airlines fly from nairobi to ukunda
-- kq flights from mombasa to nairobi today
-- are there direct flights from mombasa to zanzibar
-- does british airways fly to bangladesh
+- 'cheap flights from nairobi to isiolo'
+- 'which airlines fly from nairobi to ukunda'
+- 'kq flights from mombasa to nairobi today'
+- 'are there direct flights from mombasa to zanzibar'
+- 'does british airways fly to bangladesh'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

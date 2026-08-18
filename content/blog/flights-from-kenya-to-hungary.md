@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Hungary: Complete Guide'
-description: Everything you need to know about flights from kenya to hungary, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to hungary, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-hungary
-primary_keyword: flights from kenya to hungary
+primary_keyword: 'flights from kenya to hungary'
 secondary_keywords:
-- flights to rwanda from nairobi
-- skyward flights from nairobi to eldoret
-- ukunda flights from nairobi
-- flights from nairobi wilson to ukunda
-- cheap flights from nairobi to mumbai
+- 'flights to rwanda from nairobi'
+- 'skyward flights from nairobi to eldoret'
+- 'ukunda flights from nairobi'
+- 'flights from nairobi wilson to ukunda'
+- 'cheap flights from nairobi to mumbai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

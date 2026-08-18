@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Which Country: Complete Guide'
-description: Everything you need to know about emirates flights from which country, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from which country, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-which-country
-primary_keyword: emirates flights from which country
+primary_keyword: 'emirates flights from which country'
 secondary_keywords:
-- kq flights to kisumu
-- kq flights from south africa today
-- kq online booking domestic flights
-- kq flights to cape town
-- kq flight dubai to nairobi
+- 'kq flights to kisumu'
+- 'kq flights from south africa today'
+- 'kq online booking domestic flights'
+- 'kq flights to cape town'
+- 'kq flight dubai to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

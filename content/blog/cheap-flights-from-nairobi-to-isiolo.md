@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Nairobi to Isiolo: Complete Guide'
-description: Everything you need to know about cheap flights from nairobi to isiolo, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from nairobi to isiolo, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-nairobi-to-isiolo
-primary_keyword: cheap flights from nairobi to isiolo
+primary_keyword: 'cheap flights from nairobi to isiolo'
 secondary_keywords:
-- flight times to kenya
-- flight booking to kenya
-- buupass online booking kenya to nairobi
-- flight check in kenya airways
-- flights to kenya business class
+- 'flight times to kenya'
+- 'flight booking to kenya'
+- 'buupass online booking kenya to nairobi'
+- 'flight check in kenya airways'
+- 'flights to kenya business class'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

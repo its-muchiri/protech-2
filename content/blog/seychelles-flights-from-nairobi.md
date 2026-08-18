@@ -1,14 +1,14 @@
 ---
 title: 'Seychelles Flights from Nairobi: Complete Guide'
-description: Everything you need to know about seychelles flights from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about seychelles flights from nairobi, including routes, airlines, booking tips, and fares.'
 slug: seychelles-flights-from-nairobi
-primary_keyword: seychelles flights from nairobi
+primary_keyword: 'seychelles flights from nairobi'
 secondary_keywords:
-- kenya airways requirements
-- kq flights from nairobi to entebbe today
-- kq flight from nairobi to johannesburg
-- kenya airways flight schedule london to nairobi
-- kenya airways flight schedule nairobi to lusaka
+- 'kenya airways requirements'
+- 'kq flights from nairobi to entebbe today'
+- 'kq flight from nairobi to johannesburg'
+- 'kenya airways flight schedule london to nairobi'
+- 'kenya airways flight schedule nairobi to lusaka'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

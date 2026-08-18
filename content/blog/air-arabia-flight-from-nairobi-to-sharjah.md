@@ -1,14 +1,14 @@
 ---
 title: 'Air Arabia Flight from Nairobi to Sharjah: Complete Guide'
-description: Everything you need to know about air arabia flight from nairobi to sharjah, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about air arabia flight from nairobi to sharjah, including routes, airlines, booking tips, and fares.'
 slug: air-arabia-flight-from-nairobi-to-sharjah
-primary_keyword: air arabia flight from nairobi to sharjah
+primary_keyword: 'air arabia flight from nairobi to sharjah'
 secondary_keywords:
-- qatar airways from nairobi to london
-- qatar airways nairobi recruitment
-- kq airline baggage allowance
-- kenya airways flights from durban to mumbai
-- kq flight from juba to nairobi today
+- 'qatar airways from nairobi to london'
+- 'qatar airways nairobi recruitment'
+- 'kq airline baggage allowance'
+- 'kenya airways flights from durban to mumbai'
+- 'kq flight from juba to nairobi today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

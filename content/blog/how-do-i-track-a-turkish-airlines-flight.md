@@ -1,14 +1,14 @@
 ---
 title: 'How Do I Track a Turkish Airlines Flight: Complete Guide'
-description: Everything you need to know about how do i track a turkish airlines flight, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how do i track a turkish airlines flight, including routes, airlines, booking tips, and fares.'
 slug: how-do-i-track-a-turkish-airlines-flight
-primary_keyword: how do i track a turkish airlines flight
+primary_keyword: 'how do i track a turkish airlines flight'
 secondary_keywords:
-- flights from quetta to dubai united arab emirates
-- are emirates flights from iran cancelled
-- emirates flights from tehran to dubai
-- emirates flights from us to dubai
-- emirates flights to vietnam from uk
+- 'flights from quetta to dubai united arab emirates'
+- 'are emirates flights from iran cancelled'
+- 'emirates flights from tehran to dubai'
+- 'emirates flights from us to dubai'
+- 'emirates flights to vietnam from uk'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

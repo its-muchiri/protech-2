@@ -1,14 +1,14 @@
 ---
 title: 'Sheldrick Elephant Orphanage Visit Organizers: Complete Guide'
-description: Kenya safari guide covering sheldrick elephant orphanage visit organizers, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering sheldrick elephant orphanage visit organizers, including what is included, pricing, and booking advice.'
 slug: sheldrick-elephant-orphanage-visit-organizers
-primary_keyword: Sheldrick Elephant Orphanage visit organizers
+primary_keyword: 'Sheldrick Elephant Orphanage visit organizers'
 secondary_keywords:
-- Horseback safari Kenya
-- One week Kenya safari
-- Kenya safari deals
-- Luxury safari lodges Kenya
-- Kenya game drives
+- 'Horseback safari Kenya'
+- 'One week Kenya safari'
+- 'Kenya safari deals'
+- 'Luxury safari lodges Kenya'
+- 'Kenya game drives'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

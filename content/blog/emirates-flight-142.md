@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 142: Complete Guide'
-description: Everything you need to know about emirates flight 142, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 142, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-142
-primary_keyword: emirates flight 142
+primary_keyword: 'emirates flight 142'
 secondary_keywords:
-- emirates flights from larnaca
-- emirates flights from newcastle
-- emirates flight from orlando to dubai today
-- emirates flights from johannesburg to dubai price
-- when will emirates resume flights to qatar from dubai
+- 'emirates flights from larnaca'
+- 'emirates flights from newcastle'
+- 'emirates flight from orlando to dubai today'
+- 'emirates flights from johannesburg to dubai price'
+- 'when will emirates resume flights to qatar from dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

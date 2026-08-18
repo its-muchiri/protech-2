@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Nairobi to Zanzibar: Complete Guide'
-description: Everything you need to know about kq flight from nairobi to zanzibar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from nairobi to zanzibar, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-nairobi-to-zanzibar
-primary_keyword: kq flight from nairobi to zanzibar
+primary_keyword: 'kq flight from nairobi to zanzibar'
 secondary_keywords:
-- flights from mombasa to cairo
-- flights from mombasa to diani
-- flights from dar es salaam to mombasa kenya
-- which flights go to mombasa from nairobi
-- flights in mombasa
+- 'flights from mombasa to cairo'
+- 'flights from mombasa to diani'
+- 'flights from dar es salaam to mombasa kenya'
+- 'which flights go to mombasa from nairobi'
+- 'flights in mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

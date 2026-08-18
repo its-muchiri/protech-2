@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines in Nairobi: Complete Guide'
-description: Everything you need to know about turkish airlines in nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines in nairobi, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-in-nairobi
-primary_keyword: turkish airlines in nairobi
+primary_keyword: 'turkish airlines in nairobi'
 secondary_keywords:
-- flights from london to kisumu kenya
-- flight from kisumu to maasai mara
-- skyward flights from kisumu to nairobi
-- kq flights from eldoret to nairobi price
-- flights in eldoret
+- 'flights from london to kisumu kenya'
+- 'flight from kisumu to maasai mara'
+- 'skyward flights from kisumu to nairobi'
+- 'kq flights from eldoret to nairobi price'
+- 'flights in eldoret'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

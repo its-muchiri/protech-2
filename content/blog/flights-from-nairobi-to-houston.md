@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Houston: Complete Guide'
-description: Everything you need to know about flights from nairobi to houston, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to houston, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-houston
-primary_keyword: flights from nairobi to houston
+primary_keyword: 'flights from nairobi to houston'
 secondary_keywords:
-- flights from mombasa to kilimanjaro
-- cheap flights to mombasa from london
-- flights from mombasa to nairobi jambojet
-- flight from kisumu to mombasa price in ksh
-- flights from mombasa to singapore
+- 'flights from mombasa to kilimanjaro'
+- 'cheap flights to mombasa from london'
+- 'flights from mombasa to nairobi jambojet'
+- 'flight from kisumu to mombasa price in ksh'
+- 'flights from mombasa to singapore'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

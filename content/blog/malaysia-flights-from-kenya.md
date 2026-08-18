@@ -1,14 +1,14 @@
 ---
 title: 'Malaysia Flights from Kenya: Complete Guide'
-description: Everything you need to know about malaysia flights from kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about malaysia flights from kenya, including routes, airlines, booking tips, and fares.'
 slug: malaysia-flights-from-kenya
-primary_keyword: malaysia flights from kenya
+primary_keyword: 'malaysia flights from kenya'
 secondary_keywords:
-- flights nairobi to addis
-- flights nairobi to bali
-- flights nairobi to calgary
-- flights nairobi to durban
-- eldoret to nairobi flights
+- 'flights nairobi to addis'
+- 'flights nairobi to bali'
+- 'flights nairobi to calgary'
+- 'flights nairobi to durban'
+- 'eldoret to nairobi flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

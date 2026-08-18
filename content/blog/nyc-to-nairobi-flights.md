@@ -1,14 +1,14 @@
 ---
 title: 'Nyc to Nairobi Flights: Complete Guide'
-description: Everything you need to know about nyc to nairobi flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about nyc to nairobi flights, including routes, airlines, booking tips, and fares.'
 slug: nyc-to-nairobi-flights
-primary_keyword: nyc to nairobi flights
+primary_keyword: 'nyc to nairobi flights'
 secondary_keywords:
-- 3 bedroom houses for rent in nairobi
-- emirates flights from australia
-- emirates flights from bangalore to dubai
-- emirates flights from cairo to dubai
-- emirates flights from dubai to manchester today
+- '3 bedroom houses for rent in nairobi'
+- 'emirates flights from australia'
+- 'emirates flights from bangalore to dubai'
+- 'emirates flights from cairo to dubai'
+- 'emirates flights from dubai to manchester today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

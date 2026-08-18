@@ -1,14 +1,14 @@
 ---
 title: 'Islamabad to Nairobi Flights: Complete Guide'
-description: Everything you need to know about islamabad to nairobi flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about islamabad to nairobi flights, including routes, airlines, booking tips, and fares.'
 slug: islamabad-to-nairobi-flights
-primary_keyword: islamabad to nairobi flights
+primary_keyword: 'islamabad to nairobi flights'
 secondary_keywords:
-- kq flight crash
-- kq flight delays today
-- kq flights to ethiopia
-- kq flight to heathrow diverted today
-- kq flights from johannesburg to nairobi
+- 'kq flight crash'
+- 'kq flight delays today'
+- 'kq flights to ethiopia'
+- 'kq flight to heathrow diverted today'
+- 'kq flights from johannesburg to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

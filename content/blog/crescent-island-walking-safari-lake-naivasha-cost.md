@@ -1,14 +1,14 @@
 ---
 title: 'Crescent Island Walking Safari Lake Naivasha Cost: Complete Guide'
-description: Kenya safari guide covering crescent island walking safari lake naivasha cost, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering crescent island walking safari lake naivasha cost, including what is included, pricing, and booking advice.'
 slug: crescent-island-walking-safari-lake-naivasha-cost
-primary_keyword: Crescent Island walking safari Lake Naivasha cost
+primary_keyword: 'Crescent Island walking safari Lake Naivasha cost'
 secondary_keywords:
-- Kenya safari booking agency online UK secure payment
-- Check availability Kenya luxury safari lodge Masai Mara USA dates
-- Top rated Kenya safari tours for families TripAdvisor USA
-- Award-winning Kenya safari lodges booking Europe
-- Book cultural Masai village visit & Amboseli safari tour Kenya Europe price
+- 'Kenya safari booking agency online UK secure payment'
+- 'Check availability Kenya luxury safari lodge Masai Mara USA dates'
+- 'Top rated Kenya safari tours for families TripAdvisor USA'
+- 'Award-winning Kenya safari lodges booking Europe'
+- 'Book cultural Masai village visit & Amboseli safari tour Kenya Europe price'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

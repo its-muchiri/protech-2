@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight 100: Complete Guide'
-description: Everything you need to know about kq flight 100, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight 100, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-100
-primary_keyword: kq flight 100
+primary_keyword: 'kq flight 100'
 secondary_keywords:
-- emirates flight from riyadh to nairobi
-- emirates airlines kenya contacts
-- emirates jkia nairobi
-- emirates shoes nairobi
-- emirates flights to kenya from london
+- 'emirates flight from riyadh to nairobi'
+- 'emirates airlines kenya contacts'
+- 'emirates jkia nairobi'
+- 'emirates shoes nairobi'
+- 'emirates flights to kenya from london'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

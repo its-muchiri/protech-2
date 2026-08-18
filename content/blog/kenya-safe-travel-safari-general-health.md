@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safe Travel Safari (General Health): Complete Guide'
-description: Kenya safari guide covering kenya safe travel safari (general health), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safe travel safari (general health), including what is included, pricing, and booking advice.'
 slug: kenya-safe-travel-safari-general-health
-primary_keyword: Kenya safe travel safari (General health)
+primary_keyword: 'Kenya safe travel safari (General health)'
 secondary_keywords:
-- Reserve 9 day Joy''s Camp Shaba Samburu package deal
-- Secure booking philanthropic safari package Kenya donation focus
-- Eco-friendly safari companies Kenya
-- Samburu fly-in safari companies
-- Shimba Hills National Reserve tours from Diani
+- 'Reserve 9 day Joy''''s Camp Shaba Samburu package deal'
+- 'Secure booking philanthropic safari package Kenya donation focus'
+- 'Eco-friendly safari companies Kenya'
+- 'Samburu fly-in safari companies'
+- 'Shimba Hills National Reserve tours from Diani'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

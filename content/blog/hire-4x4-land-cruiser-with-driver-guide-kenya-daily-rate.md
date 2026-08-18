@@ -1,14 +1,14 @@
 ---
 title: 'Hire 4x4 Land Cruiser with Driver Guide Kenya Daily Rate: Complete Guide'
-description: Kenya safari guide covering hire 4x4 land cruiser with driver guide kenya daily rate, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering hire 4x4 land cruiser with driver guide kenya daily rate, including what is included, pricing, and booking advice.'
 slug: hire-4x4-land-cruiser-with-driver-guide-kenya-daily-rate
-primary_keyword: Hire 4x4 Land Cruiser with driver guide Kenya daily rate
+primary_keyword: 'Hire 4x4 Land Cruiser with driver guide Kenya daily rate'
 secondary_keywords:
-- Compare budget Kenya safari packages price
-- Cross border safari Kenya Tanzania operator
-- Last minute August migration package availability
-- custom safari quote Kenya
-- Kenya safari package with international flights book
+- 'Compare budget Kenya safari packages price'
+- 'Cross border safari Kenya Tanzania operator'
+- 'Last minute August migration package availability'
+- 'custom safari quote Kenya'
+- 'Kenya safari package with international flights book'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

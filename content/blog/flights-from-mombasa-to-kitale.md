@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Kitale: Complete Guide'
-description: Everything you need to know about flights from mombasa to kitale, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to kitale, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-kitale
-primary_keyword: flights from mombasa to kitale
+primary_keyword: 'flights from mombasa to kitale'
 secondary_keywords:
-- flight 540 nairobi to malindi
-- flight from nairobi to abuja
-- turkish airlines nairobi email address
-- kenya to turkey flight price
-- turkish airlines terminal in nairobi
+- 'flight 540 nairobi to malindi'
+- 'flight from nairobi to abuja'
+- 'turkish airlines nairobi email address'
+- 'kenya to turkey flight price'
+- 'turkish airlines terminal in nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

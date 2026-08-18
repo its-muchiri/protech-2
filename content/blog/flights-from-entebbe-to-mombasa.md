@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Entebbe to Mombasa: Complete Guide'
-description: Everything you need to know about flights from entebbe to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from entebbe to mombasa, including routes, airlines, booking tips, and fares.'
 slug: flights-from-entebbe-to-mombasa
-primary_keyword: flights from entebbe to mombasa
+primary_keyword: 'flights from entebbe to mombasa'
 secondary_keywords:
-- what countries does turkish airlines fly to
-- which airline goes to kenya
-- flight ticket to kenya from uk
-- ticketing courses in kenya
-- kenya airways booking nairobi to mombasa
+- 'what countries does turkish airlines fly to'
+- 'which airline goes to kenya'
+- 'flight ticket to kenya from uk'
+- 'ticketing courses in kenya'
+- 'kenya airways booking nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

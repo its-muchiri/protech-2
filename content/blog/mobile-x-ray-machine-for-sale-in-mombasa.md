@@ -1,14 +1,14 @@
 ---
 title: 'Mobile X-ray Machine for Sale in Mombasa: 2026 Price Guide'
-description: Kenya buying guide to mobile x-ray machine for sale in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to mobile x-ray machine for sale in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: mobile-x-ray-machine-for-sale-in-mombasa
-primary_keyword: Mobile X-ray machine for sale in Mombasa
+primary_keyword: 'Mobile X-ray machine for sale in Mombasa'
 secondary_keywords:
-- pharmacy management software Kenya
-- home blood pressure monitor recommendations Kenya
-- nebulizer rental Kenya
-- medical equipment suppliers list Kenya
-- eye clinic equipment Kenya
+- 'pharmacy management software Kenya'
+- 'home blood pressure monitor recommendations Kenya'
+- 'nebulizer rental Kenya'
+- 'medical equipment suppliers list Kenya'
+- 'eye clinic equipment Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

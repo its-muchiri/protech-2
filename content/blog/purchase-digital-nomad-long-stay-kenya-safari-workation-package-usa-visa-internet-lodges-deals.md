@@ -1,14 +1,14 @@
 ---
 title: 'Purchase Digital Nomad Long Stay Kenya Safari Workation Package USA Visa Internet Lodges Deals: Complete Guide'
-description: Kenya safari guide covering purchase digital nomad long stay kenya safari workation package usa visa internet lodges deals, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase digital nomad long stay kenya safari workation package usa visa internet lodges deals, including what is included, pricing, and booking advice.'
 slug: purchase-digital-nomad-long-stay-kenya-safari-workation-package-usa-visa-internet-lodges-deals
-primary_keyword: Purchase digital nomad long stay Kenya safari workation package USA visa internet lodges deals
+primary_keyword: 'Purchase digital nomad long stay Kenya safari workation package USA visa internet lodges deals'
 secondary_keywords:
-- Best Kenya safari
-- Lake Nakuru safari
-- Borana Conservancy safari
-- Couples Kenya safari
-- Solo traveler Kenya safari
+- 'Best Kenya safari'
+- 'Lake Nakuru safari'
+- 'Borana Conservancy safari'
+- 'Couples Kenya safari'
+- 'Solo traveler Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

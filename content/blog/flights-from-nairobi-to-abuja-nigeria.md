@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Abuja Nigeria: Complete Guide'
-description: Everything you need to know about flights from nairobi to abuja nigeria, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to abuja nigeria, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-abuja-nigeria
-primary_keyword: flights from nairobi to abuja nigeria
+primary_keyword: 'flights from nairobi to abuja nigeria'
 secondary_keywords:
-- flights from gatwick to kenya
-- flights from houston to nairobi kenya
-- cheap flights from istanbul to kenya
-- kenya airways flights from johannesburg to nairobi
-- flights from kuwait to kenya
+- 'flights from gatwick to kenya'
+- 'flights from houston to nairobi kenya'
+- 'cheap flights from istanbul to kenya'
+- 'kenya airways flights from johannesburg to nairobi'
+- 'flights from kuwait to kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

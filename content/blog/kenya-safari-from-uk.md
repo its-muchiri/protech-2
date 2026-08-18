@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari from UK: Complete Guide'
-description: Kenya safari guide covering kenya safari from uk, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari from uk, including what is included, pricing, and booking advice.'
 slug: kenya-safari-from-uk
-primary_keyword: Kenya safari from UK
+primary_keyword: 'Kenya safari from UK'
 secondary_keywords:
-- Kenya travel safari
-- Laikipia safari
-- Affordable Kenya safari
-- Fly-in Kenya safari
-- Mobile camping safari Kenya
+- 'Kenya travel safari'
+- 'Laikipia safari'
+- 'Affordable Kenya safari'
+- 'Fly-in Kenya safari'
+- 'Mobile camping safari Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Zanzibar Safari: Complete Guide'
-description: Kenya safari guide covering kenya zanzibar safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya zanzibar safari, including what is included, pricing, and booking advice.'
 slug: kenya-zanzibar-safari
-primary_keyword: Kenya Zanzibar safari
+primary_keyword: 'Kenya Zanzibar safari'
 secondary_keywords:
-- Maasai village visit Kenya
-- See Big 5 Kenya
-- Grevy''s zebra safari Kenya
-- Kenya safari from USA
-- Kenya safari in March
+- 'Maasai village visit Kenya'
+- 'See Big 5 Kenya'
+- 'Grevy''''s zebra safari Kenya'
+- 'Kenya safari from USA'
+- 'Kenya safari in March'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

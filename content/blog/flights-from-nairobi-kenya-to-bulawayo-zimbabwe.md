@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi Kenya to Bulawayo Zimbabwe: Complete Guide'
-description: Everything you need to know about flights from nairobi kenya to bulawayo zimbabwe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi kenya to bulawayo zimbabwe, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-kenya-to-bulawayo-zimbabwe
-primary_keyword: flights from nairobi kenya to bulawayo zimbabwe
+primary_keyword: 'flights from nairobi kenya to bulawayo zimbabwe'
 secondary_keywords:
-- who flies to zambia
-- cheapest flights from eldoret to mombasa
-- flight from nairobi to eldoret jambojet price today
-- flight from eldoret to nairobi time
-- flights from eldoret to uganda
+- 'who flies to zambia'
+- 'cheapest flights from eldoret to mombasa'
+- 'flight from nairobi to eldoret jambojet price today'
+- 'flight from eldoret to nairobi time'
+- 'flights from eldoret to uganda'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

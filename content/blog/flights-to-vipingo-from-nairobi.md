@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Vipingo from Nairobi: Complete Guide'
-description: Everything you need to know about flights to vipingo from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to vipingo from nairobi, including routes, airlines, booking tips, and fares.'
 slug: flights-to-vipingo-from-nairobi
-primary_keyword: flights to vipingo from nairobi
+primary_keyword: 'flights to vipingo from nairobi'
 secondary_keywords:
-- emirates skycargo nairobi contacts
-- emirates flight from kenya
-- emirates flight from kenya to dubai price
-- how much is the flight from kenya to dubai
-- emirates kenya safari
+- 'emirates skycargo nairobi contacts'
+- 'emirates flight from kenya'
+- 'emirates flight from kenya to dubai price'
+- 'how much is the flight from kenya to dubai'
+- 'emirates kenya safari'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Wilson to Kisumu: Complete Guide'
-description: Everything you need to know about flights from wilson to kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from wilson to kisumu, including routes, airlines, booking tips, and fares.'
 slug: flights-from-wilson-to-kisumu
-primary_keyword: flights from wilson to kisumu
+primary_keyword: 'flights from wilson to kisumu'
 secondary_keywords:
-- flights from nairobi to hyderabad india
-- flight from nairobi to india price
-- flights from nairobi to jakarta
-- kisumu flights from nairobi
-- lufthansa flights from nairobi today
+- 'flights from nairobi to hyderabad india'
+- 'flight from nairobi to india price'
+- 'flights from nairobi to jakarta'
+- 'kisumu flights from nairobi'
+- 'lufthansa flights from nairobi today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

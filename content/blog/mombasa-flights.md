@@ -1,14 +1,14 @@
 ---
 title: 'Mombasa Flights: Complete Guide'
-description: Everything you need to know about mombasa flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about mombasa flights, including routes, airlines, booking tips, and fares.'
 slug: mombasa-flights
-primary_keyword: mombasa flights
+primary_keyword: 'mombasa flights'
 secondary_keywords:
-- ethiopian airlines flight 302 videos
-- flights nairobi to atlanta
-- flights nairobi to barcelona
-- flights nairobi to chicago
-- flights nairobi to delhi
+- 'ethiopian airlines flight 302 videos'
+- 'flights nairobi to atlanta'
+- 'flights nairobi to barcelona'
+- 'flights nairobi to chicago'
+- 'flights nairobi to delhi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways Flight from Nairobi to Doha: Complete Guide'
-description: Everything you need to know about qatar airways flight from nairobi to doha, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways flight from nairobi to doha, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-flight-from-nairobi-to-doha
-primary_keyword: qatar airways flight from nairobi to doha
+primary_keyword: 'qatar airways flight from nairobi to doha'
 secondary_keywords:
-- requirements for local flights in kenya
-- flights to kenya in october
-- flights ro kenya
-- flights kenya to cape town
-- x in kenya
+- 'requirements for local flights in kenya'
+- 'flights to kenya in october'
+- 'flights ro kenya'
+- 'flights kenya to cape town'
+- 'x in kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

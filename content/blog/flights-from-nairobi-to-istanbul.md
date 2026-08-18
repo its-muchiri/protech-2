@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Istanbul: Complete Guide'
-description: Everything you need to know about flights from nairobi to istanbul, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to istanbul, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-istanbul
-primary_keyword: flights from nairobi to istanbul
+primary_keyword: 'flights from nairobi to istanbul'
 secondary_keywords:
-- yyz to nairobi flights
-- 1 bedroom nairobi west
-- 8 flights
-- emirates flights from amsterdam
-- emirates flights from beirut
+- 'yyz to nairobi flights'
+- '1 bedroom nairobi west'
+- '8 flights'
+- 'emirates flights from amsterdam'
+- 'emirates flights from beirut'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

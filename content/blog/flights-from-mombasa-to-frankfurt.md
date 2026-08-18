@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Frankfurt: Complete Guide'
-description: Everything you need to know about flights from mombasa to frankfurt, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to frankfurt, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-frankfurt
-primary_keyword: flights from mombasa to frankfurt
+primary_keyword: 'flights from mombasa to frankfurt'
 secondary_keywords:
-- cheapest emirates flights from india
-- emirates flights from ewr
-- emirates flights for dubai
-- emirates flights from geneva to dubai
-- emirates flights from hyderabad to dallas
+- 'cheapest emirates flights from india'
+- 'emirates flights from ewr'
+- 'emirates flights for dubai'
+- 'emirates flights from geneva to dubai'
+- 'emirates flights from hyderabad to dallas'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

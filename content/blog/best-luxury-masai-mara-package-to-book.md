@@ -1,14 +1,14 @@
 ---
 title: 'Best Luxury Masai Mara Package to Book: Complete Guide'
-description: Kenya safari guide covering best luxury masai mara package to book, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering best luxury masai mara package to book, including what is included, pricing, and booking advice.'
 slug: best-luxury-masai-mara-package-to-book
-primary_keyword: Best luxury Masai Mara package to book
+primary_keyword: 'Best luxury Masai Mara package to book'
 secondary_keywords:
-- Samburu special five safari package price
-- Mahali Mzuri safari package deal
-- Luxury honeymoon safari Kenya cost
-- Best value Kenya safari package cost
-- Masai Mara Serengeti migration package booking
+- 'Samburu special five safari package price'
+- 'Mahali Mzuri safari package deal'
+- 'Luxury honeymoon safari Kenya cost'
+- 'Best value Kenya safari package cost'
+- 'Masai Mara Serengeti migration package booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

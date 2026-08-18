@@ -1,14 +1,14 @@
 ---
 title: 'Return Flight from Nairobi to Kisumu: Complete Guide'
-description: Everything you need to know about return flight from nairobi to kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about return flight from nairobi to kisumu, including routes, airlines, booking tips, and fares.'
 slug: return-flight-from-nairobi-to-kisumu
-primary_keyword: return flight from nairobi to kisumu
+primary_keyword: 'return flight from nairobi to kisumu'
 secondary_keywords:
-- cheap flights to kenya from heathrow
-- flights from nairobi kenya to dublin ireland
-- flights to kenya from jfk
-- klm flights from kenya to amsterdam
-- flights from kenya to los angeles
+- 'cheap flights to kenya from heathrow'
+- 'flights from nairobi kenya to dublin ireland'
+- 'flights to kenya from jfk'
+- 'klm flights from kenya to amsterdam'
+- 'flights from kenya to los angeles'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

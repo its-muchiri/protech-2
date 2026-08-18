@@ -1,14 +1,14 @@
 ---
 title: 'Custom Kenya Safari Quote: Complete Guide'
-description: Kenya safari guide covering custom kenya safari quote, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering custom kenya safari quote, including what is included, pricing, and booking advice.'
 slug: custom-kenya-safari-quote
-primary_keyword: Custom Kenya safari quote
+primary_keyword: 'Custom Kenya safari quote'
 secondary_keywords:
-- Safari tours Kenya
-- Masai Mara safari
-- Hell''s Gate National Park safari
-- High-end Kenya safari
-- Great Migration Kenya safari
+- 'Safari tours Kenya'
+- 'Masai Mara safari'
+- 'Hell''''s Gate National Park safari'
+- 'High-end Kenya safari'
+- 'Great Migration Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

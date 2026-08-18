@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Nairobi to Washington Dc: Complete Guide'
-description: Everything you need to know about cheap flights from nairobi to washington dc, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from nairobi to washington dc, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-nairobi-to-washington-dc
-primary_keyword: cheap flights from nairobi to washington dc
+primary_keyword: 'cheap flights from nairobi to washington dc'
 secondary_keywords:
-- available flights from kisumu to nairobi
-- domestic flights from nairobi to kisumu
-- flight from nairobi to kisumu jambojet price
-- flights from lodwar to kisumu
-- flights from nairobi to kisumu prices
+- 'available flights from kisumu to nairobi'
+- 'domestic flights from nairobi to kisumu'
+- 'flight from nairobi to kisumu jambojet price'
+- 'flights from lodwar to kisumu'
+- 'flights from nairobi to kisumu prices'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

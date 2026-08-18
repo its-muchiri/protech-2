@@ -1,14 +1,14 @@
 ---
 title: 'Discounted Kenya Safari Tours: Complete Guide'
-description: Kenya safari guide covering discounted kenya safari tours, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering discounted kenya safari tours, including what is included, pricing, and booking advice.'
 slug: discounted-kenya-safari-tours
-primary_keyword: Discounted Kenya safari tours
+primary_keyword: 'Discounted Kenya safari tours'
 secondary_keywords:
-- Book 7 day Singita Grumeti link Kenya package (linking concepts)
-- Reserve corporate retreat safari package Kenya luxury
-- Compare Kenya safari company prices
-- Lake Nakuru day trip tour company from Thika
-- Mt Kenya Sirimon route trekking company
+- 'Book 7 day Singita Grumeti link Kenya package (linking concepts)'
+- 'Reserve corporate retreat safari package Kenya luxury'
+- 'Compare Kenya safari company prices'
+- 'Lake Nakuru day trip tour company from Thika'
+- 'Mt Kenya Sirimon route trekking company'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

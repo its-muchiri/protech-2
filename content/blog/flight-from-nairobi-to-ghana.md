@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Ghana: Complete Guide'
-description: Everything you need to know about flight from nairobi to ghana, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to ghana, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-ghana
-primary_keyword: flight from nairobi to ghana
+primary_keyword: 'flight from nairobi to ghana'
 secondary_keywords:
-- booking flights online in kenya
-- flights to kenya direct
-- flights from kenya to usa today
-- how much is a flight to kenya
-- flights to kenya length
+- 'booking flights online in kenya'
+- 'flights to kenya direct'
+- 'flights from kenya to usa today'
+- 'how much is a flight to kenya'
+- 'flights to kenya length'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

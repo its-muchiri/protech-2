@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to or Tambo: Complete Guide'
-description: Everything you need to know about flights from nairobi to or tambo, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to or tambo, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-or-tambo
-primary_keyword: flights from nairobi to or tambo
+primary_keyword: 'flights from nairobi to or tambo'
 secondary_keywords:
-- ethiopian airlines office nairobi location
-- price of flight from nairobi to dubai
-- cheap flights nairobi to london
-- flights nairobi to abuja
-- flights nairobi to brussels
+- 'ethiopian airlines office nairobi location'
+- 'price of flight from nairobi to dubai'
+- 'cheap flights nairobi to london'
+- 'flights nairobi to abuja'
+- 'flights nairobi to brussels'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

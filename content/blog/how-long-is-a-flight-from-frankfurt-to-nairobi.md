@@ -1,14 +1,14 @@
 ---
 title: 'How Long Is a Flight from Frankfurt to Nairobi: Complete Guide'
-description: Everything you need to know about how long is a flight from frankfurt to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how long is a flight from frankfurt to nairobi, including routes, airlines, booking tips, and fares.'
 slug: how-long-is-a-flight-from-frankfurt-to-nairobi
-primary_keyword: how long is a flight from frankfurt to nairobi
+primary_keyword: 'how long is a flight from frankfurt to nairobi'
 secondary_keywords:
-- jambojet flights from nairobi to malindi
-- kq flights from nairobi to dar es salaam
-- flights from nairobi to masai mara
-- flights from nairobi to namibia
-- flights from nairobi to oman
+- 'jambojet flights from nairobi to malindi'
+- 'kq flights from nairobi to dar es salaam'
+- 'flights from nairobi to masai mara'
+- 'flights from nairobi to namibia'
+- 'flights from nairobi to oman'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

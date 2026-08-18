@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Luxury Tented Camp Safari Booking: Complete Guide'
-description: Kenya safari guide covering reserve luxury tented camp safari booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve luxury tented camp safari booking, including what is included, pricing, and booking advice.'
 slug: reserve-luxury-tented-camp-safari-booking
-primary_keyword: Reserve luxury tented camp safari booking
+primary_keyword: 'Reserve luxury tented camp safari booking'
 secondary_keywords:
-- High-end Kenya safari
-- Great Migration Kenya safari
-- Eco safari Kenya
-- 5 day Kenya safari
-- Kenya safari price
+- 'High-end Kenya safari'
+- 'Great Migration Kenya safari'
+- 'Eco safari Kenya'
+- '5 day Kenya safari'
+- 'Kenya safari price'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

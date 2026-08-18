@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Nigeria from Nairobi: Complete Guide'
-description: Everything you need to know about flights to nigeria from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to nigeria from nairobi, including routes, airlines, booking tips, and fares.'
 slug: flights-to-nigeria-from-nairobi
-primary_keyword: flights to nigeria from nairobi
+primary_keyword: 'flights to nigeria from nairobi'
 secondary_keywords:
-- flights nairobi to vic falls
-- fly nairobi to watamu
-- flight time nairobi to zanzibar
-- 2 bedroom nairobi west
-- emirates flights from sydney
+- 'flights nairobi to vic falls'
+- 'fly nairobi to watamu'
+- 'flight time nairobi to zanzibar'
+- '2 bedroom nairobi west'
+- 'emirates flights from sydney'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

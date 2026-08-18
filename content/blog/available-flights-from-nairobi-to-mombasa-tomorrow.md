@@ -1,14 +1,14 @@
 ---
 title: 'Available Flights from Nairobi to Mombasa Tomorrow: Complete Guide'
-description: Everything you need to know about available flights from nairobi to mombasa tomorrow, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about available flights from nairobi to mombasa tomorrow, including routes, airlines, booking tips, and fares.'
 slug: available-flights-from-nairobi-to-mombasa-tomorrow
-primary_keyword: available flights from nairobi to mombasa tomorrow
+primary_keyword: 'available flights from nairobi to mombasa tomorrow'
 secondary_keywords:
-- kq flight rates
-- kq flights to senegal
-- kq flights from nairobi to london
-- kq flight 100
-- kq 274 flight status
+- 'kq flight rates'
+- 'kq flights to senegal'
+- 'kq flights from nairobi to london'
+- 'kq flight 100'
+- 'kq 274 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Mt Kenya Sirimon Route Trekking Company: Complete Guide'
-description: Kenya safari guide covering mt kenya sirimon route trekking company, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering mt kenya sirimon route trekking company, including what is included, pricing, and booking advice.'
 slug: mt-kenya-sirimon-route-trekking-company
-primary_keyword: Mt Kenya Sirimon route trekking company
+primary_keyword: 'Mt Kenya Sirimon route trekking company'
 secondary_keywords:
-- 10 day Kenya Tanzania tour sale
-- Last minute 12 day luxury tented camp migration safari offer
-- Private Kenya safari tour bundle buy online
-- ATOL protected Kenya safari package booking UK operator
-- Buy solo female traveler safe Kenya safari package group joining
+- '10 day Kenya Tanzania tour sale'
+- 'Last minute 12 day luxury tented camp migration safari offer'
+- 'Private Kenya safari tour bundle buy online'
+- 'ATOL protected Kenya safari package booking UK operator'
+- 'Buy solo female traveler safe Kenya safari package group joining'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

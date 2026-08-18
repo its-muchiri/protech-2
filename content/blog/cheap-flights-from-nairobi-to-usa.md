@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Nairobi to Usa: Complete Guide'
-description: Everything you need to know about cheap flights from nairobi to usa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from nairobi to usa, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-nairobi-to-usa
-primary_keyword: cheap flights from nairobi to usa
+primary_keyword: 'cheap flights from nairobi to usa'
 secondary_keywords:
-- how much is flight from nairobi to turkey
-- turkish airlines lounge nairobi price
-- turkish airlines flight status nairobi
-- emirates airlines office in nairobi kenya
-- ethiopian airlines flights from nairobi to dubai today
+- 'how much is flight from nairobi to turkey'
+- 'turkish airlines lounge nairobi price'
+- 'turkish airlines flight status nairobi'
+- 'emirates airlines office in nairobi kenya'
+- 'ethiopian airlines flights from nairobi to dubai today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Paleontology Tour Lake Turkana (very Niche): Complete Guide'
-description: Kenya safari guide covering paleontology tour lake turkana (very niche), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering paleontology tour lake turkana (very niche), including what is included, pricing, and booking advice.'
 slug: paleontology-tour-lake-turkana-very-niche
-primary_keyword: Paleontology tour Lake Turkana (very niche)
+primary_keyword: 'Paleontology tour Lake Turkana (very niche)'
 secondary_keywords:
-- Book 10 day luxury Kenya safari escape package
-- Get booking code 6 day budget Masai Mara safari
-- Reserve 8 day Tortilis Camp Amboseli luxury package
-- Book 7 day Singita Grumeti link Kenya package (linking concepts)
-- Reserve corporate retreat safari package Kenya luxury
+- 'Book 10 day luxury Kenya safari escape package'
+- 'Get booking code 6 day budget Masai Mara safari'
+- 'Reserve 8 day Tortilis Camp Amboseli luxury package'
+- 'Book 7 day Singita Grumeti link Kenya package (linking concepts)'
+- 'Reserve corporate retreat safari package Kenya luxury'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

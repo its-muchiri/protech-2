@@ -1,14 +1,14 @@
 ---
 title: 'Flight Booking in Kenya: Complete Guide'
-description: Everything you need to know about flight booking in kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight booking in kenya, including routes, airlines, booking tips, and fares.'
 slug: flight-booking-in-kenya
-primary_keyword: flight booking in kenya
+primary_keyword: 'flight booking in kenya'
 secondary_keywords:
-- flights from nairobi to sydney
-- flights from nairobi to uk
-- flights from nairobi to las vegas
-- flights from kisumu to nairobi wilson
-- flight from nairobi to zanzibar time
+- 'flights from nairobi to sydney'
+- 'flights from nairobi to uk'
+- 'flights from nairobi to las vegas'
+- 'flights from kisumu to nairobi wilson'
+- 'flight from nairobi to zanzibar time'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

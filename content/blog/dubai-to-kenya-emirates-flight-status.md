@@ -1,14 +1,14 @@
 ---
 title: 'Dubai to Kenya Emirates Flight Status: Complete Guide'
-description: Everything you need to know about dubai to kenya emirates flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about dubai to kenya emirates flight status, including routes, airlines, booking tips, and fares.'
 slug: dubai-to-kenya-emirates-flight-status
-primary_keyword: dubai to kenya emirates flight status
+primary_keyword: 'dubai to kenya emirates flight status'
 secondary_keywords:
-- flights from nairobi to south africa
-- flights from eldoret to nairobi
-- flights from nairobi to vancouver
-- flights from nairobi to washington dc
-- flights from nairobi kenya to seiyun yemen
+- 'flights from nairobi to south africa'
+- 'flights from eldoret to nairobi'
+- 'flights from nairobi to vancouver'
+- 'flights from nairobi to washington dc'
+- 'flights from nairobi kenya to seiyun yemen'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

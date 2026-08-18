@@ -1,14 +1,14 @@
 ---
 title: 'Purchase Kenya Adventure Safari Package: Complete Guide'
-description: Kenya safari guide covering purchase kenya adventure safari package, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase kenya adventure safari package, including what is included, pricing, and booking advice.'
 slug: purchase-kenya-adventure-safari-package
-primary_keyword: Purchase Kenya adventure safari package
+primary_keyword: 'Purchase Kenya adventure safari package'
 secondary_keywords:
-- Book last available spots Kenya Christmas safari package
-- Reserve now pay later Kenya safari package (if offered)
-- (Continuing with more diverse high-intent combinations)
-- Get quote 7 day Loisaba Tented Camp Laikipia package
-- Buy 13 day comprehensive Kenya safari tour package
+- 'Book last available spots Kenya Christmas safari package'
+- 'Reserve now pay later Kenya safari package (if offered)'
+- '(Continuing with more diverse high-intent combinations)'
+- 'Get quote 7 day Loisaba Tented Camp Laikipia package'
+- 'Buy 13 day comprehensive Kenya safari tour package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

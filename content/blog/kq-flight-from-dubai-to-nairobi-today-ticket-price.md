@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Dubai to Nairobi Today Ticket Price: Complete Guide'
-description: Everything you need to know about kq flight from dubai to nairobi today ticket price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from dubai to nairobi today ticket price, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-dubai-to-nairobi-today-ticket-price
-primary_keyword: kq flight from dubai to nairobi today ticket price
+primary_keyword: 'kq flight from dubai to nairobi today ticket price'
 secondary_keywords:
-- kenya 3
-- flight from kenya to amsterdam
-- flights from kenya to burundi
-- flights from kenya to cairo
-- flights from kenya to durban
+- 'kenya 3'
+- 'flight from kenya to amsterdam'
+- 'flights from kenya to burundi'
+- 'flights from kenya to cairo'
+- 'flights from kenya to durban'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Company Organizing Coffee Tour Kiambu and Nairobi NP Trip: Complete Guide'
-description: Kenya safari guide covering company organizing coffee tour kiambu and nairobi np trip, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering company organizing coffee tour kiambu and nairobi np trip, including what is included, pricing, and booking advice.'
 slug: company-organizing-coffee-tour-kiambu-and-nairobi-np-trip
-primary_keyword: Company organizing coffee tour Kiambu and Nairobi NP trip
+primary_keyword: 'Company organizing coffee tour Kiambu and Nairobi NP trip'
 secondary_keywords:
-- Book Samburu special five photography safari package Europe expert guide availability
-- Book budget overland truck safari Nairobi to Cape Town including Kenya section UK price duration
-- Book Kenya safari focused on western Kenya rainforest Kakamega primate tracking Europe birding tours
-- Buy Kenya safari cooking class experience package UK local cuisine focus booking
-- Reserve Gede Ruins historical site tour safari package Kenya Europe coastal history focus
+- 'Book Samburu special five photography safari package Europe expert guide availability'
+- 'Book budget overland truck safari Nairobi to Cape Town including Kenya section UK price duration'
+- 'Book Kenya safari focused on western Kenya rainforest Kakamega primate tracking Europe birding tours'
+- 'Buy Kenya safari cooking class experience package UK local cuisine focus booking'
+- 'Reserve Gede Ruins historical site tour safari package Kenya Europe coastal history focus'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Ethiopia: Complete Guide'
-description: Everything you need to know about flights from nairobi to ethiopia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to ethiopia, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-ethiopia
-primary_keyword: flights from nairobi to ethiopia
+primary_keyword: 'flights from nairobi to ethiopia'
 secondary_keywords:
-- kq flights to mombasa prices from nairobi
-- skyward flights from mombasa to nairobi ticket price
-- mombasa flights from wilson
-- kq flights from kisumu to nairobi today
-- cheap flights from kisumu to nairobi
+- 'kq flights to mombasa prices from nairobi'
+- 'skyward flights from mombasa to nairobi ticket price'
+- 'mombasa flights from wilson'
+- 'kq flights from kisumu to nairobi today'
+- 'cheap flights from kisumu to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

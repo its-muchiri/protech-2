@@ -1,14 +1,14 @@
 ---
 title: 'Book 14 Day Grand Kenya Safari Package: Complete Guide'
-description: Kenya safari guide covering book 14 day grand kenya safari package, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book 14 day grand kenya safari package, including what is included, pricing, and booking advice.'
 slug: book-14-day-grand-kenya-safari-package
-primary_keyword: Book 14 day grand Kenya safari package
+primary_keyword: 'Book 14 day grand Kenya safari package'
 secondary_keywords:
-- Book senior friendly Kenya safari package easy pace
-- Compare fly-in vs overland Kenya safari package cost buy
-- Reserve 5 day family lodge Amboseli package Christmas  deal
-- Quote 7 day Kicheche Camps migration special package July booking
-- Ethical tour companies Kenya community focus
+- 'Book senior friendly Kenya safari package easy pace'
+- 'Compare fly-in vs overland Kenya safari package cost buy'
+- 'Reserve 5 day family lodge Amboseli package Christmas  deal'
+- 'Quote 7 day Kicheche Camps migration special package July booking'
+- 'Ethical tour companies Kenya community focus'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

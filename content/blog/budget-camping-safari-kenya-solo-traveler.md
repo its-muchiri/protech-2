@@ -1,14 +1,14 @@
 ---
 title: 'Budget Camping Safari Kenya Solo Traveler: Complete Guide'
-description: Kenya safari guide covering budget camping safari kenya solo traveler, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering budget camping safari kenya solo traveler, including what is included, pricing, and booking advice.'
 slug: budget-camping-safari-kenya-solo-traveler
-primary_keyword: Budget camping safari Kenya solo traveler
+primary_keyword: 'Budget camping safari Kenya solo traveler'
 secondary_keywords:
-- Buy Tsavo National Park safari online now
-- Reserve Kenya safari slot for July 2025 USA
-- Last minute Kenya safari deals UK direct operator
-- Private Kenya safari tour booking UK custom itinerary
-- Reserve Kenya photographic hide safari tour Europe
+- 'Buy Tsavo National Park safari online now'
+- 'Reserve Kenya safari slot for July 2025 USA'
+- 'Last minute Kenya safari deals UK direct operator'
+- 'Private Kenya safari tour booking UK custom itinerary'
+- 'Reserve Kenya photographic hide safari tour Europe'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Ontario: Complete Guide'
-description: Everything you need to know about flights from nairobi to ontario, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to ontario, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-ontario
-primary_keyword: flights from nairobi to ontario
+primary_keyword: 'flights from nairobi to ontario'
 secondary_keywords:
-- flights from nairobi to thailand
-- emirates flights arriving from dubai today
-- emirates flights from birmingham today
-- cheapest emirates flights from india
-- emirates flights from ewr
+- 'flights from nairobi to thailand'
+- 'emirates flights arriving from dubai today'
+- 'emirates flights from birmingham today'
+- 'cheapest emirates flights from india'
+- 'emirates flights from ewr'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

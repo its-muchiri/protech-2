@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi Kenya to Madrid Spain: Complete Guide'
-description: Everything you need to know about flight from nairobi kenya to madrid spain, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi kenya to madrid spain, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-kenya-to-madrid-spain
-primary_keyword: flight from nairobi kenya to madrid spain
+primary_keyword: 'flight from nairobi kenya to madrid spain'
 secondary_keywords:
-- flights from mombasa to diani
-- flights from dar es salaam to mombasa kenya
-- which flights go to mombasa from nairobi
-- flights in mombasa
-- jambojet flights from mombasa to nairobi
+- 'flights from mombasa to diani'
+- 'flights from dar es salaam to mombasa kenya'
+- 'which flights go to mombasa from nairobi'
+- 'flights in mombasa'
+- 'jambojet flights from mombasa to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

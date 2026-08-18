@@ -1,14 +1,14 @@
 ---
 title: 'Night Game Drive Kenya: Complete Guide'
-description: Kenya safari guide covering night game drive kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering night game drive kenya, including what is included, pricing, and booking advice.'
 slug: night-game-drive-kenya
-primary_keyword: Night game drive Kenya
+primary_keyword: 'Night game drive Kenya'
 secondary_keywords:
-- Buy 10 day budget Kenya Tanzania camping safari booking
-- Masai Mara safari package cost estimate
-- Price quote 10 day Kenya Tanzania combined tour
-- Estimate 12 day luxury tented camp migration safari
-- Meru National Park package discount booking
+- 'Buy 10 day budget Kenya Tanzania camping safari booking'
+- 'Masai Mara safari package cost estimate'
+- 'Price quote 10 day Kenya Tanzania combined tour'
+- 'Estimate 12 day luxury tented camp migration safari'
+- 'Meru National Park package discount booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

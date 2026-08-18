@@ -1,14 +1,14 @@
 ---
 title: 'Used Philips Ultrasound Machine for Sale in Kenya: 2026 Price Guide'
-description: Kenya buying guide to used philips ultrasound machine for sale in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to used philips ultrasound machine for sale in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: used-philips-ultrasound-machine-for-sale-in-kenya
-primary_keyword: Used Philips ultrasound machine for sale in Kenya
+primary_keyword: 'Used Philips ultrasound machine for sale in Kenya'
 secondary_keywords:
-- e-health platforms Kenya
-- medical safety equipment Kenya
-- insulin pen needles Kenya
-- NHIF medical equipment benefits Kenya
-- public hospital equipment Kenya
+- 'e-health platforms Kenya'
+- 'medical safety equipment Kenya'
+- 'insulin pen needles Kenya'
+- 'NHIF medical equipment benefits Kenya'
+- 'public hospital equipment Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

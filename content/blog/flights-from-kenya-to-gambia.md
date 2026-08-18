@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Gambia: Complete Guide'
-description: Everything you need to know about flights from kenya to gambia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to gambia, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-gambia
-primary_keyword: flights from kenya to gambia
+primary_keyword: 'flights from kenya to gambia'
 secondary_keywords:
-- emirates flights from kenya to australia today
-- flights from florida to kenya
-- flights from gaborone to kenya
-- cheap flights from heathrow to nairobi kenya
-- flights from kenya to italy
+- 'emirates flights from kenya to australia today'
+- 'flights from florida to kenya'
+- 'flights from gaborone to kenya'
+- 'cheap flights from heathrow to nairobi kenya'
+- 'flights from kenya to italy'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

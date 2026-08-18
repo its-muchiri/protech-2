@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Columbus Ohio: Complete Guide'
-description: Everything you need to know about flight from nairobi to columbus ohio, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to columbus ohio, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-columbus-ohio
-primary_keyword: flight from nairobi to columbus ohio
+primary_keyword: 'flight from nairobi to columbus ohio'
 secondary_keywords:
-- flights from mombasa to eldoret
-- flights to mombasa kenya from paris france
-- flights from harare to mombasa
-- flights from istanbul to mombasa
-- flights from mombasa to kampala
+- 'flights from mombasa to eldoret'
+- 'flights to mombasa kenya from paris france'
+- 'flights from harare to mombasa'
+- 'flights from istanbul to mombasa'
+- 'flights from mombasa to kampala'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

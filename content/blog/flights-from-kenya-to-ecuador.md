@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Ecuador: Complete Guide'
-description: Everything you need to know about flights from kenya to ecuador, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to ecuador, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-ecuador
-primary_keyword: flights from kenya to ecuador
+primary_keyword: 'flights from kenya to ecuador'
 secondary_keywords:
-- flight from nairobi to jfk today
-- flight from nairobi kenya to panama city panama
-- lufthansa flight from nairobi
-- madagascar flight from nairobi
-- one way flight from nairobi to dubai
+- 'flight from nairobi to jfk today'
+- 'flight from nairobi kenya to panama city panama'
+- 'lufthansa flight from nairobi'
+- 'madagascar flight from nairobi'
+- 'one way flight from nairobi to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

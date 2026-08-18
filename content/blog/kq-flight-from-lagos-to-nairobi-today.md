@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Lagos to Nairobi Today: Complete Guide'
-description: Everything you need to know about kq flight from lagos to nairobi today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from lagos to nairobi today, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-lagos-to-nairobi-today
-primary_keyword: kq flight from lagos to nairobi today
+primary_keyword: 'kq flight from lagos to nairobi today'
 secondary_keywords:
-- emirates flights from new york to milan
-- emirates flight from zambia to dubai
-- emirates flights 1st class
-- emirates flights 202
-- emirates flight 368
+- 'emirates flights from new york to milan'
+- 'emirates flight from zambia to dubai'
+- 'emirates flights 1st class'
+- 'emirates flights 202'
+- 'emirates flight 368'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

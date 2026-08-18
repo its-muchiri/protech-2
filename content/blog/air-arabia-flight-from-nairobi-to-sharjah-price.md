@@ -1,14 +1,14 @@
 ---
 title: 'Air Arabia Flight from Nairobi to Sharjah Price: Complete Guide'
-description: Everything you need to know about air arabia flight from nairobi to sharjah price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about air arabia flight from nairobi to sharjah price, including routes, airlines, booking tips, and fares.'
 slug: air-arabia-flight-from-nairobi-to-sharjah-price
-primary_keyword: air arabia flight from nairobi to sharjah price
+primary_keyword: 'air arabia flight from nairobi to sharjah price'
 secondary_keywords:
-- flights to france from kenya
-- ghana flights from kenya
-- kenya to hargeisa flight
-- flight from kenya to india time
-- flights from kenya to jhb
+- 'flights to france from kenya'
+- 'ghana flights from kenya'
+- 'kenya to hargeisa flight'
+- 'flight from kenya to india time'
+- 'flights from kenya to jhb'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

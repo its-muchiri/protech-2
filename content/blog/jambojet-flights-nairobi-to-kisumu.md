@@ -1,14 +1,14 @@
 ---
 title: 'Jambojet Flights Nairobi to Kisumu: Complete Guide'
-description: Everything you need to know about jambojet flights nairobi to kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about jambojet flights nairobi to kisumu, including routes, airlines, booking tips, and fares.'
 slug: jambojet-flights-nairobi-to-kisumu
-primary_keyword: jambojet flights nairobi to kisumu
+primary_keyword: 'jambojet flights nairobi to kisumu'
 secondary_keywords:
-- flights from gatwick to mombasa kenya
-- flights from mombasa to istanbul
-- jambojet flights from mombasa to nairobi timetable
-- kq flights from mombasa to nairobi today timetable
-- flights from mombasa to malindi
+- 'flights from gatwick to mombasa kenya'
+- 'flights from mombasa to istanbul'
+- 'jambojet flights from mombasa to nairobi timetable'
+- 'kq flights from mombasa to nairobi today timetable'
+- 'flights from mombasa to malindi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

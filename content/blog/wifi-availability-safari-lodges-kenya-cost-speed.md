@@ -1,14 +1,14 @@
 ---
 title: 'WiFi Availability Safari Lodges Kenya Cost / Speed: Complete Guide'
-description: Kenya safari guide covering wifi availability safari lodges kenya cost / speed, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering wifi availability safari lodges kenya cost / speed, including what is included, pricing, and booking advice.'
 slug: wifi-availability-safari-lodges-kenya-cost-speed
-primary_keyword: WiFi availability safari lodges Kenya cost / speed
+primary_keyword: 'WiFi availability safari lodges Kenya cost / speed'
 secondary_keywords:
-- Bush breakfast Kenya safari
-- Bird species Kenya safari
-- Kenya Uganda Rwanda safari
-- Kenya safari dry season
-- Easter Kenya safari
+- 'Bush breakfast Kenya safari'
+- 'Bird species Kenya safari'
+- 'Kenya Uganda Rwanda safari'
+- 'Kenya safari dry season'
+- 'Easter Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'IV Cannulas and Infusion Sets Distributors in Mombasa: 2026 Price Guide'
-description: Kenya buying guide to iv cannulas and infusion sets distributors in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to iv cannulas and infusion sets distributors in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: iv-cannulas-and-infusion-sets-distributors-in-mombasa
-primary_keyword: IV cannulas and infusion sets distributors in Mombasa
+primary_keyword: 'IV cannulas and infusion sets distributors in Mombasa'
 secondary_keywords:
-- oxygen concentrator servicing in Thika
-- pathology grossing station price
-- sports medicine supplies for teams
-- RFID tracking for hospital assets
-- Certificate of Conformity for medical device imports Kenya
+- 'oxygen concentrator servicing in Thika'
+- 'pathology grossing station price'
+- 'sports medicine supplies for teams'
+- 'RFID tracking for hospital assets'
+- 'Certificate of Conformity for medical device imports Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

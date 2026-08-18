@@ -1,14 +1,14 @@
 ---
 title: 'Ngong Hills Hiking Trail Guide KFS Fee: Complete Guide'
-description: Kenya safari guide covering ngong hills hiking trail guide kfs fee, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering ngong hills hiking trail guide kfs fee, including what is included, pricing, and booking advice.'
 slug: ngong-hills-hiking-trail-guide-kfs-fee
-primary_keyword: Ngong Hills hiking trail guide KFS fee
+primary_keyword: 'Ngong Hills hiking trail guide KFS fee'
 secondary_keywords:
-- Tsavo Mombasa beach safari package quote
-- September Kenya migration safari cost
-- Best Kenya tour operator packages booking
-- Kenya safari package inclusions comparison
-- Kenya safari package with beach extension buy
+- 'Tsavo Mombasa beach safari package quote'
+- 'September Kenya migration safari cost'
+- 'Best Kenya tour operator packages booking'
+- 'Kenya safari package inclusions comparison'
+- 'Kenya safari package with beach extension buy'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

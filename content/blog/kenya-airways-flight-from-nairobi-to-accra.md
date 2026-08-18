@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from Nairobi to Accra: Complete Guide'
-description: Everything you need to know about kenya airways flight from nairobi to accra, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from nairobi to accra, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-nairobi-to-accra
-primary_keyword: kenya airways flight from nairobi to accra
+primary_keyword: 'kenya airways flight from nairobi to accra'
 secondary_keywords:
-- flights from kenya to china
-- are there direct flights from kenya to germany
-- flights to kenya from birmingham
-- cheap flights from kenya to ghana
-- flights from kenya to eswatini
+- 'flights from kenya to china'
+- 'are there direct flights from kenya to germany'
+- 'flights to kenya from birmingham'
+- 'cheap flights from kenya to ghana'
+- 'flights from kenya to eswatini'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

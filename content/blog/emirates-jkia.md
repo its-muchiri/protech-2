@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Jkia: Complete Guide'
-description: Everything you need to know about emirates jkia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates jkia, including routes, airlines, booking tips, and fares.'
 slug: emirates-jkia
-primary_keyword: emirates jkia
+primary_keyword: 'emirates jkia'
 secondary_keywords:
-- flights to kenya from sfo
-- flights from kenya to victoria falls
-- flight from kenya to washington dc
-- flights from nbo to yto
-- flights from kenya to zimbabwe
+- 'flights to kenya from sfo'
+- 'flights from kenya to victoria falls'
+- 'flight from kenya to washington dc'
+- 'flights from nbo to yto'
+- 'flights from kenya to zimbabwe'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

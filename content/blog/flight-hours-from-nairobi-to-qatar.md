@@ -1,14 +1,14 @@
 ---
 title: 'Flight Hours from Nairobi to Qatar: Complete Guide'
-description: Everything you need to know about flight hours from nairobi to qatar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight hours from nairobi to qatar, including routes, airlines, booking tips, and fares.'
 slug: flight-hours-from-nairobi-to-qatar
-primary_keyword: flight hours from nairobi to qatar
+primary_keyword: 'flight hours from nairobi to qatar'
 secondary_keywords:
-- emirates kenya office
-- 1 uae dirham to kenyan shillings
-- ethiopian airlines nairobi airport office
-- cheap flights from nairobi to egypt
-- kenya airways flight from nairobi to khartoum
+- 'emirates kenya office'
+- '1 uae dirham to kenyan shillings'
+- 'ethiopian airlines nairobi airport office'
+- 'cheap flights from nairobi to egypt'
+- 'kenya airways flight from nairobi to khartoum'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Buy Kenya Safari Cooking Class Experience Package UK Local Cuisine Focus Booking: Complete Guide'
-description: Kenya safari guide covering buy kenya safari cooking class experience package uk local cuisine focus booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy kenya safari cooking class experience package uk local cuisine focus booking, including what is included, pricing, and booking advice.'
 slug: buy-kenya-safari-cooking-class-experience-package-uk-local-cuisine-focus-booking
-primary_keyword: Buy Kenya safari cooking class experience package UK local cuisine focus booking
+primary_keyword: 'Buy Kenya safari cooking class experience package UK local cuisine focus booking'
 secondary_keywords:
-- Masai Mara tour cost
-- Finalize Kenya safari itinerary booking
-- Guided photo safari package Kenya book
-- Family safari package Kenya book
-- Quote for 5 day budget Amboseli Tsavo package
+- 'Masai Mara tour cost'
+- 'Finalize Kenya safari itinerary booking'
+- 'Guided photo safari package Kenya book'
+- 'Family safari package Kenya book'
+- 'Quote for 5 day budget Amboseli Tsavo package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

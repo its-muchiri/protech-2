@@ -1,14 +1,14 @@
 ---
 title: 'Using Credit Cards Kenya Safari: Complete Guide'
-description: Kenya safari guide covering using credit cards kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering using credit cards kenya safari, including what is included, pricing, and booking advice.'
 slug: using-credit-cards-kenya-safari
-primary_keyword: Using credit cards Kenya safari
+primary_keyword: 'Using credit cards Kenya safari'
 secondary_keywords:
-- Buy 4 day Amboseli Kilimanjaro view package deal
-- Secure 12 day premium family safari package Sarova lodges
-- Secure 6 day Saruni Samburu lodge package deal
-- Buy exclusive use safari lodge package Kenya family
-- Get best available rate Kenya safari package 5 days book
+- 'Buy 4 day Amboseli Kilimanjaro view package deal'
+- 'Secure 12 day premium family safari package Sarova lodges'
+- 'Secure 6 day Saruni Samburu lodge package deal'
+- 'Buy exclusive use safari lodge package Kenya family'
+- 'Get best available rate Kenya safari package 5 days book'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

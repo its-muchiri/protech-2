@@ -1,14 +1,14 @@
 ---
 title: 'Walking Safari Operators Laikipia: Complete Guide'
-description: Kenya safari guide covering walking safari operators laikipia, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering walking safari operators laikipia, including what is included, pricing, and booking advice.'
 slug: walking-safari-operators-laikipia
-primary_keyword: Walking safari operators Laikipia
+primary_keyword: 'Walking safari operators Laikipia'
 secondary_keywords:
-- Ruma National Park tour companies Kisumu
-- Bird watching specialized tour operators Kenya
-- Maasai village visit ethical tour operators
-- 5 day Kenya highlights tour operator
-- Kenya tour package discounts
+- 'Ruma National Park tour companies Kisumu'
+- 'Bird watching specialized tour operators Kenya'
+- 'Maasai village visit ethical tour operators'
+- '5 day Kenya highlights tour operator'
+- 'Kenya tour package discounts'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

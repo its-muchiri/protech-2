@@ -1,14 +1,14 @@
 ---
 title: 'Fundus Camera for Sale in Kenya: 2026 Price Guide'
-description: Kenya buying guide to fundus camera for sale in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to fundus camera for sale in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: fundus-camera-for-sale-in-kenya
-primary_keyword: Fundus camera for sale in Kenya
+primary_keyword: 'Fundus camera for sale in Kenya'
 secondary_keywords:
-- 5-part hematology analyzer for sale in Nairobi
-- Refrigerated centrifuge for blood bank in Mombasa
-- Orthopedic extension device for OT table
-- Neurosurgery instrument suppliers in Kenya
-- Examination couch for a clinic in Thika
+- '5-part hematology analyzer for sale in Nairobi'
+- 'Refrigerated centrifuge for blood bank in Mombasa'
+- 'Orthopedic extension device for OT table'
+- 'Neurosurgery instrument suppliers in Kenya'
+- 'Examination couch for a clinic in Thika'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Safety for Solo Female Traveler Nairobi Safari: Complete Guide'
-description: Kenya safari guide covering safety for solo female traveler nairobi safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering safety for solo female traveler nairobi safari, including what is included, pricing, and booking advice.'
 slug: safety-for-solo-female-traveler-nairobi-safari
-primary_keyword: Safety for solo female traveler Nairobi safari
+primary_keyword: 'Safety for solo female traveler Nairobi safari'
 secondary_keywords:
-- Vegan/vegetarian meal options safari companies Kenya
-- Ethical Maasai village tour operator near Mara
-- Student group educational tour operator Kenya
-- Book tailor-made Kenya safari itinerary
-- Secure Shimba Hills coastal safari package
+- 'Vegan/vegetarian meal options safari companies Kenya'
+- 'Ethical Maasai village tour operator near Mara'
+- 'Student group educational tour operator Kenya'
+- 'Book tailor-made Kenya safari itinerary'
+- 'Secure Shimba Hills coastal safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

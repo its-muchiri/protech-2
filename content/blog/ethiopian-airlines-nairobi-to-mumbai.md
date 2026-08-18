@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Nairobi to Mumbai: Complete Guide'
-description: Everything you need to know about ethiopian airlines nairobi to mumbai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines nairobi to mumbai, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-nairobi-to-mumbai
-primary_keyword: ethiopian airlines nairobi to mumbai
+primary_keyword: 'ethiopian airlines nairobi to mumbai'
 secondary_keywords:
-- flight from kenya to haiti
-- flight from kenya to indonesia
-- flights from kenya to juba
-- flight from kenya to south korea
-- flights from kenya to lithuania
+- 'flight from kenya to haiti'
+- 'flight from kenya to indonesia'
+- 'flights from kenya to juba'
+- 'flight from kenya to south korea'
+- 'flights from kenya to lithuania'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

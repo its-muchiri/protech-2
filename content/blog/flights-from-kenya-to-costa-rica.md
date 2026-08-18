@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Costa Rica: Complete Guide'
-description: Everything you need to know about flights from kenya to costa rica, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to costa rica, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-costa-rica
-primary_keyword: flights from kenya to costa rica
+primary_keyword: 'flights from kenya to costa rica'
 secondary_keywords:
-- kq flights from mombasa to nairobi today price
-- flights from mombasa to mumbai
-- flights to mombasa from muscat oman
-- kq flights from mombasa to nairobi tomorrow
-- flights from kisumu to mombasa
+- 'kq flights from mombasa to nairobi today price'
+- 'flights from mombasa to mumbai'
+- 'flights to mombasa from muscat oman'
+- 'kq flights from mombasa to nairobi tomorrow'
+- 'flights from kisumu to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

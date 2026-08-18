@@ -1,14 +1,14 @@
 ---
-title: 'Rock Climbing Tours Hell's Gate: Complete Guide'
-description: Kenya safari guide covering rock climbing tours hells gate, including what is included, pricing, and booking advice.
+title: 'Rock Climbing Tours Hell''s Gate: Complete Guide'
+description: 'Kenya safari guide covering rock climbing tours hells gate, including what is included, pricing, and booking advice.'
 slug: rock-climbing-tours-hell-s-gate
-primary_keyword: Rock climbing tours Hell's Gate
+primary_keyword: 'Rock climbing tours Hell''s Gate'
 secondary_keywords:
-- Buy Laikipia luxury safari booking
-- Secure Great Rift Valley lakes tour booking
-- Buy weekend Kenya safari getaway booking
-- Reserve 5 day family fly-in Amboseli package
-- Amboseli tour package price quote
+- 'Buy Laikipia luxury safari booking'
+- 'Secure Great Rift Valley lakes tour booking'
+- 'Buy weekend Kenya safari getaway booking'
+- 'Reserve 5 day family fly-in Amboseli package'
+- 'Amboseli tour package price quote'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

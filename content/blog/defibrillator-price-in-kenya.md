@@ -1,14 +1,14 @@
 ---
 title: 'Defibrillator Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to defibrillator price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to defibrillator price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: defibrillator-price-in-kenya
-primary_keyword: Defibrillator price in Kenya
+primary_keyword: 'Defibrillator price in Kenya'
 secondary_keywords:
-- examination gloves Kenya prices
-- catheters Kenya types and prices
-- shoe covers medical Kenya
-- lancets Kenya for glucometer
-- adhesive plasters Kenya
+- 'examination gloves Kenya prices'
+- 'catheters Kenya types and prices'
+- 'shoe covers medical Kenya'
+- 'lancets Kenya for glucometer'
+- 'adhesive plasters Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

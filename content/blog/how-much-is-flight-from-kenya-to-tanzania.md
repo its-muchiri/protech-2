@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is Flight from Kenya to Tanzania: Complete Guide'
-description: Everything you need to know about how much is flight from kenya to tanzania, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is flight from kenya to tanzania, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-flight-from-kenya-to-tanzania
-primary_keyword: how much is flight from kenya to tanzania
+primary_keyword: 'how much is flight from kenya to tanzania'
 secondary_keywords:
-- kq flights from mombasa to nairobi today timetable
-- flights from mombasa to malindi
-- flight from mombasa to nairobi time
-- kq flights to mombasa prices from nairobi
-- skyward flights from mombasa to nairobi ticket price
+- 'kq flights from mombasa to nairobi today timetable'
+- 'flights from mombasa to malindi'
+- 'flight from mombasa to nairobi time'
+- 'kq flights to mombasa prices from nairobi'
+- 'skyward flights from mombasa to nairobi ticket price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

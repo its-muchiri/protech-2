@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from Nairobi to Johannesburg Today: Complete Guide'
-description: Everything you need to know about kenya airways flight from nairobi to johannesburg today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from nairobi to johannesburg today, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-nairobi-to-johannesburg-today
-primary_keyword: kenya airways flight from nairobi to johannesburg today
+primary_keyword: 'kenya airways flight from nairobi to johannesburg today'
 secondary_keywords:
-- cheapest flights from nairobi to usa
-- flights from nairobi to juba
-- flights from mombasa to south africa
-- how much is a flight to mombasa
-- cheap flights from mombasa to dar es salaam
+- 'cheapest flights from nairobi to usa'
+- 'flights from nairobi to juba'
+- 'flights from mombasa to south africa'
+- 'how much is a flight to mombasa'
+- 'cheap flights from mombasa to dar es salaam'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

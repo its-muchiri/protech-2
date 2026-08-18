@@ -1,14 +1,14 @@
 ---
 title: 'Flight 540 Nairobi to Mombasa Price in Kenya Shillings Today: Complete Guide'
-description: Everything you need to know about flight 540 nairobi to mombasa price in kenya shillings today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight 540 nairobi to mombasa price in kenya shillings today, including routes, airlines, booking tips, and fares.'
 slug: flight-540-nairobi-to-mombasa-price-in-kenya-shillings-today
-primary_keyword: flight 540 nairobi to mombasa price in kenya shillings today
+primary_keyword: 'flight 540 nairobi to mombasa price in kenya shillings today'
 secondary_keywords:
-- flights from masai mara to mombasa
-- flight from eldoret to mombasa price
-- flights from rome to mombasa
-- uganda airlines flights from mombasa to entebbe
-- flights to mombasa from nairobi prices
+- 'flights from masai mara to mombasa'
+- 'flight from eldoret to mombasa price'
+- 'flights from rome to mombasa'
+- 'uganda airlines flights from mombasa to entebbe'
+- 'flights to mombasa from nairobi prices'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Deals for June 2025 UK Low Season Offer: Complete Guide'
-description: Kenya safari guide covering kenya safari deals for june 2025 uk low season offer, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari deals for june 2025 uk low season offer, including what is included, pricing, and booking advice.'
 slug: kenya-safari-deals-for-june-2025-uk-low-season-offer
-primary_keyword: Kenya safari deals for June 2025 UK low season offer
+primary_keyword: 'Kenya safari deals for June 2025 UK low season offer'
 secondary_keywords:
-- Book voluntourism placement Kenya wildlife conservation project safari included USA program fees cost
-- Purchase vintage car safari tour Kenya experience USA classic vehicle booking price
-- Reserve Elsamere Conservation Centre visit Lake Naivasha safari UK Joy Adamson history booking
-- Kenya holiday safari
-- Safari Amboseli
+- 'Book voluntourism placement Kenya wildlife conservation project safari included USA program fees cost'
+- 'Purchase vintage car safari tour Kenya experience USA classic vehicle booking price'
+- 'Reserve Elsamere Conservation Centre visit Lake Naivasha safari UK Joy Adamson history booking'
+- 'Kenya holiday safari'
+- 'Safari Amboseli'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

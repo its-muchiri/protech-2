@@ -1,14 +1,14 @@
 ---
 title: 'Flight Ticket Kenya to Dubai: Complete Guide'
-description: Everything you need to know about flight ticket kenya to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight ticket kenya to dubai, including routes, airlines, booking tips, and fares.'
 slug: flight-ticket-kenya-to-dubai
-primary_keyword: flight ticket kenya to dubai
+primary_keyword: 'flight ticket kenya to dubai'
 secondary_keywords:
-- how many airlines fly to dubai
-- emirates airline kenya nairobi photos
-- emirates 9 west
-- emirates contacts in nairobi
-- emirates holidays nairobi
+- 'how many airlines fly to dubai'
+- 'emirates airline kenya nairobi photos'
+- 'emirates 9 west'
+- 'emirates contacts in nairobi'
+- 'emirates holidays nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

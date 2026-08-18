@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Eldoret to Wilson Airport: Complete Guide'
-description: Everything you need to know about flights from eldoret to wilson airport, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from eldoret to wilson airport, including routes, airlines, booking tips, and fares.'
 slug: flights-from-eldoret-to-wilson-airport
-primary_keyword: flights from eldoret to wilson airport
+primary_keyword: 'flights from eldoret to wilson airport'
 secondary_keywords:
-- 8 emirates
-- qatar airways flight from nairobi to doha today
-- nairobi qatar flights
-- how much flight from nairobi to qatar
-- qatar airways nairobi office opening hours
+- '8 emirates'
+- 'qatar airways flight from nairobi to doha today'
+- 'nairobi qatar flights'
+- 'how much flight from nairobi to qatar'
+- 'qatar airways nairobi office opening hours'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

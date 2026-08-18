@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight Query: Complete Guide'
-description: Everything you need to know about emirates flight query, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight query, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-query
-primary_keyword: emirates flight query
+primary_keyword: 'emirates flight query'
 secondary_keywords:
-- cheapest flight from nairobi to kisumu
-- flight from nairobi to entebbe
-- air france flight from nairobi today
-- flight from nairobi to gaborone
-- flight from nairobi to hungary
+- 'cheapest flight from nairobi to kisumu'
+- 'flight from nairobi to entebbe'
+- 'air france flight from nairobi today'
+- 'flight from nairobi to gaborone'
+- 'flight from nairobi to hungary'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

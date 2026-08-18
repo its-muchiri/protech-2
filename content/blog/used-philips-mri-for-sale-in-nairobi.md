@@ -1,14 +1,14 @@
 ---
 title: 'Used Philips MRI for Sale in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to used philips mri for sale in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to used philips mri for sale in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: used-philips-mri-for-sale-in-nairobi
-primary_keyword: Used Philips MRI for sale in Nairobi
+primary_keyword: 'Used Philips MRI for sale in Nairobi'
 secondary_keywords:
-- Refrigerated centrifuge cost in Eldoret
-- Laboratory refrigerator and freezer cost in Mombasa
-- Cataract surgery set cost
-- Patient monitor for operating theatre cost
-- 2-crank manual hospital bed for sale in Kenya
+- 'Refrigerated centrifuge cost in Eldoret'
+- 'Laboratory refrigerator and freezer cost in Mombasa'
+- 'Cataract surgery set cost'
+- 'Patient monitor for operating theatre cost'
+- '2-crank manual hospital bed for sale in Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

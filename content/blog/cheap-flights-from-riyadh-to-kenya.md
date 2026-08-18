@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Riyadh to Kenya: Complete Guide'
-description: Everything you need to know about cheap flights from riyadh to kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from riyadh to kenya, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-riyadh-to-kenya
-primary_keyword: cheap flights from riyadh to kenya
+primary_keyword: 'cheap flights from riyadh to kenya'
 secondary_keywords:
-- cheap flights from frankfurt to mombasa
-- flight from nairobi to mombasa hours
-- flights from isiolo to mombasa
-- flights from mombasa kenya to nairobi kenya
-- flights leaving mombasa to zanzibar direct
+- 'cheap flights from frankfurt to mombasa'
+- 'flight from nairobi to mombasa hours'
+- 'flights from isiolo to mombasa'
+- 'flights from mombasa kenya to nairobi kenya'
+- 'flights leaving mombasa to zanzibar direct'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

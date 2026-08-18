@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Lounge Nairobi Photos: Complete Guide'
-description: Everything you need to know about turkish airlines lounge nairobi photos, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines lounge nairobi photos, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-lounge-nairobi-photos
-primary_keyword: turkish airlines lounge nairobi photos
+primary_keyword: 'turkish airlines lounge nairobi photos'
 secondary_keywords:
-- emirates flights 777
-- emirates flight 802
-- cheapest flight from nairobi to qatar
-- how much is a flight from nairobi to qatar today
-- qatar airways nairobi email address
+- 'emirates flights 777'
+- 'emirates flight 802'
+- 'cheapest flight from nairobi to qatar'
+- 'how much is a flight from nairobi to qatar today'
+- 'qatar airways nairobi email address'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

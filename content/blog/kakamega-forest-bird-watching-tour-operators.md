@@ -1,14 +1,14 @@
 ---
 title: 'Kakamega Forest Bird Watching Tour Operators: Complete Guide'
-description: Kenya safari guide covering kakamega forest bird watching tour operators, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kakamega forest bird watching tour operators, including what is included, pricing, and booking advice.'
 slug: kakamega-forest-bird-watching-tour-operators
-primary_keyword: Kakamega Forest bird watching tour operators
+primary_keyword: 'Kakamega Forest bird watching tour operators'
 secondary_keywords:
-- KATO registered tour operator packages buy
-- Reviews of Kenya safari packages to buy
-- Tented camp all-inclusive package Kenya cost
-- Book 10 day package operator
-- Price for all-inclusive honeymoon package Kenya coast safari
+- 'KATO registered tour operator packages buy'
+- 'Reviews of Kenya safari packages to buy'
+- 'Tented camp all-inclusive package Kenya cost'
+- 'Book 10 day package operator'
+- 'Price for all-inclusive honeymoon package Kenya coast safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

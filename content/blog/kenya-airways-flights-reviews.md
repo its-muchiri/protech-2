@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights Reviews: Complete Guide'
-description: Everything you need to know about kenya airways flights reviews, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights reviews, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-reviews
-primary_keyword: kenya airways flights reviews
+primary_keyword: 'kenya airways flights reviews'
 secondary_keywords:
-- flight from nairobi to eldoret jambojet price today
-- flight from eldoret to nairobi time
-- flights from eldoret to uganda
-- kq flight accra to nairobi
-- kq flying blue
+- 'flight from nairobi to eldoret jambojet price today'
+- 'flight from eldoret to nairobi time'
+- 'flights from eldoret to uganda'
+- 'kq flight accra to nairobi'
+- 'kq flying blue'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

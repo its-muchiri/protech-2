@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Airlines Offices in Nairobi: Complete Guide'
-description: Everything you need to know about emirates airlines offices in nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates airlines offices in nairobi, including routes, airlines, booking tips, and fares.'
 slug: emirates-airlines-offices-in-nairobi
-primary_keyword: emirates airlines offices in nairobi
+primary_keyword: 'emirates airlines offices in nairobi'
 secondary_keywords:
-- flights from nairobi to freetown
-- flights from nairobi to geneva
-- flights from nairobi to hamburg
-- flight from nairobi to kisumu is how much
-- jambojet flights from nairobi to eldoret
+- 'flights from nairobi to freetown'
+- 'flights from nairobi to geneva'
+- 'flights from nairobi to hamburg'
+- 'flight from nairobi to kisumu is how much'
+- 'jambojet flights from nairobi to eldoret'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

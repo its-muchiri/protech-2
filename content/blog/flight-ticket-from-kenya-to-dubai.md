@@ -1,14 +1,14 @@
 ---
 title: 'Flight Ticket from Kenya to Dubai: Complete Guide'
-description: Everything you need to know about flight ticket from kenya to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight ticket from kenya to dubai, including routes, airlines, booking tips, and fares.'
 slug: flight-ticket-from-kenya-to-dubai
-primary_keyword: flight ticket from kenya to dubai
+primary_keyword: 'flight ticket from kenya to dubai'
 secondary_keywords:
-- flights nairobi to jfk
-- flights nairobi to kilifi
-- flights nairobi to london today
-- nairobi to mombasa flights price
-- nairobi to nakuru flights
+- 'flights nairobi to jfk'
+- 'flights nairobi to kilifi'
+- 'flights nairobi to london today'
+- 'nairobi to mombasa flights price'
+- 'nairobi to nakuru flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Book Kenya Safari and Beach Extension Package Deal: Complete Guide'
-description: Kenya safari guide covering book kenya safari and beach extension package deal, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book kenya safari and beach extension package deal, including what is included, pricing, and booking advice.'
 slug: book-kenya-safari-and-beach-extension-package-deal
-primary_keyword: Book Kenya safari and beach extension package deal
+primary_keyword: 'Book Kenya safari and beach extension package deal'
 secondary_keywords:
-- Secure fly-in Kenya safari package purchase
-- Kenya safari holiday rates enquiry
-- 5 day Amboseli Tsavo combo package rates
-- Cost estimate 10 day budget Kenya Tanzania camping safari
-- Amboseli tour package offers last minute
+- 'Secure fly-in Kenya safari package purchase'
+- 'Kenya safari holiday rates enquiry'
+- '5 day Amboseli Tsavo combo package rates'
+- 'Cost estimate 10 day budget Kenya Tanzania camping safari'
+- 'Amboseli tour package offers last minute'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

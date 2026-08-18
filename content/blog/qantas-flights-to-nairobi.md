@@ -1,14 +1,14 @@
 ---
 title: 'Qantas Flights to Nairobi: Complete Guide'
-description: Everything you need to know about qantas flights to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qantas flights to nairobi, including routes, airlines, booking tips, and fares.'
 slug: qantas-flights-to-nairobi
-primary_keyword: qantas flights to nairobi
+primary_keyword: 'qantas flights to nairobi'
 secondary_keywords:
-- ek flight nairobi to.dubai
-- flight from nairobi to garissa
-- flight from nairobi to harare
-- flight from nairobi to istanbul
-- jkia flight from nairobi to mombasa
+- 'ek flight nairobi to.dubai'
+- 'flight from nairobi to garissa'
+- 'flight from nairobi to harare'
+- 'flight from nairobi to istanbul'
+- 'jkia flight from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

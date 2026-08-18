@@ -1,14 +1,14 @@
 ---
 title: '12-channel ECG Machine for Sale in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to 12-channel ecg machine for sale in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to 12-channel ecg machine for sale in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: 12-channel-ecg-machine-for-sale-in-nairobi
-primary_keyword: 12-channel ECG machine for sale in Nairobi
+primary_keyword: '12-channel ECG machine for sale in Nairobi'
 secondary_keywords:
-- stethoscope price in Kenya
-- examination tables Kenya price
-- mechanical ventilator Kenya
-- phototherapy units Kenya
-- emergency trolleys Kenya
+- 'stethoscope price in Kenya'
+- 'examination tables Kenya price'
+- 'mechanical ventilator Kenya'
+- 'phototherapy units Kenya'
+- 'emergency trolleys Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

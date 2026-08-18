@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Nairobi to Juba: Complete Guide'
-description: Everything you need to know about kq flight from nairobi to juba, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from nairobi to juba, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-nairobi-to-juba
-primary_keyword: kq flight from nairobi to juba
+primary_keyword: 'kq flight from nairobi to juba'
 secondary_keywords:
-- flights from mombasa to singapore
-- cheap flights from uganda to mombasa
-- flights from kisumu
-- does british airways fly to kolkata
-- flights from kisumu to entebbe
+- 'flights from mombasa to singapore'
+- 'cheap flights from uganda to mombasa'
+- 'flights from kisumu'
+- 'does british airways fly to kolkata'
+- 'flights from kisumu to entebbe'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

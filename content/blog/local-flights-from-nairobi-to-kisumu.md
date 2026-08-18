@@ -1,14 +1,14 @@
 ---
 title: 'Local Flights from Nairobi to Kisumu: Complete Guide'
-description: Everything you need to know about local flights from nairobi to kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about local flights from nairobi to kisumu, including routes, airlines, booking tips, and fares.'
 slug: local-flights-from-nairobi-to-kisumu
-primary_keyword: local flights from nairobi to kisumu
+primary_keyword: 'local flights from nairobi to kisumu'
 secondary_keywords:
-- flights from nairobi to netherlands
-- flights from nairobi to new orleans
-- flights from perth to nairobi
-- flights from nairobi to romania
-- flights from nairobi to seattle
+- 'flights from nairobi to netherlands'
+- 'flights from nairobi to new orleans'
+- 'flights from perth to nairobi'
+- 'flights from nairobi to romania'
+- 'flights from nairobi to seattle'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

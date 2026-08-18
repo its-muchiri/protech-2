@@ -1,14 +1,14 @@
 ---
 title: 'Book Kenya Conservation Safari Experience USA Rhino Focus: Complete Guide'
-description: Kenya safari guide covering book kenya conservation safari experience usa rhino focus, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book kenya conservation safari experience usa rhino focus, including what is included, pricing, and booking advice.'
 slug: book-kenya-conservation-safari-experience-usa-rhino-focus
-primary_keyword: Book Kenya conservation safari experience USA rhino focus
+primary_keyword: 'Book Kenya conservation safari experience USA rhino focus'
 secondary_keywords:
-- Kenya safari in May
-- Local Kenya safari operators
-- Accessible Kenya safari
-- Wellness safari Kenya
-- Internet access Kenya safari
+- 'Kenya safari in May'
+- 'Local Kenya safari operators'
+- 'Accessible Kenya safari'
+- 'Wellness safari Kenya'
+- 'Internet access Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

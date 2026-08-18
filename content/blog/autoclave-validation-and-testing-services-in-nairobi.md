@@ -1,14 +1,14 @@
 ---
 title: 'Autoclave Validation and Testing Services in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to autoclave validation and testing services in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to autoclave validation and testing services in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: autoclave-validation-and-testing-services-in-nairobi
-primary_keyword: Autoclave validation and testing services in Nairobi
+primary_keyword: 'Autoclave validation and testing services in Nairobi'
 secondary_keywords:
-- IVF lab equipment suppliers in Nairobi
-- bone densitometry services in Nairobi cost
-- medical gas alarm system for hospitals
-- braille machine price in Kenya
-- hospital waste management plan
+- 'IVF lab equipment suppliers in Nairobi'
+- 'bone densitometry services in Nairobi cost'
+- 'medical gas alarm system for hospitals'
+- 'braille machine price in Kenya'
+- 'hospital waste management plan'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

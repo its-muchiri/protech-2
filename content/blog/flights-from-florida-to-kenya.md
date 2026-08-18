@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Florida to Kenya: Complete Guide'
-description: Everything you need to know about flights from florida to kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from florida to kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-florida-to-kenya
-primary_keyword: flights from florida to kenya
+primary_keyword: 'flights from florida to kenya'
 secondary_keywords:
-- flights from kenya to johannesburg today
-- flights from kenya to kigali
-- flights from kenya to london
-- flights from mombasa kenya to kigali rwanda
-- cheap flights to kenya from manchester
+- 'flights from kenya to johannesburg today'
+- 'flights from kenya to kigali'
+- 'flights from kenya to london'
+- 'flights from mombasa kenya to kigali rwanda'
+- 'cheap flights to kenya from manchester'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

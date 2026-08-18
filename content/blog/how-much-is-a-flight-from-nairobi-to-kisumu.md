@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is a Flight from Nairobi to Kisumu: Complete Guide'
-description: Everything you need to know about how much is a flight from nairobi to kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is a flight from nairobi to kisumu, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-a-flight-from-nairobi-to-kisumu
-primary_keyword: how much is a flight from nairobi to kisumu
+primary_keyword: 'how much is a flight from nairobi to kisumu'
 secondary_keywords:
-- emirates flights from nairobi to usa
-- flights from nairobi to gaborone
-- flights from nairobi to hargeisa
-- flights from nairobi to kilimanjaro international airport
-- flights from nairobi to jro
+- 'emirates flights from nairobi to usa'
+- 'flights from nairobi to gaborone'
+- 'flights from nairobi to hargeisa'
+- 'flights from nairobi to kilimanjaro international airport'
+- 'flights from nairobi to jro'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

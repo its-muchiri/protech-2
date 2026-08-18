@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Auckland: Complete Guide'
-description: Everything you need to know about emirates flights from auckland, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from auckland, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-auckland
-primary_keyword: emirates flights from auckland
+primary_keyword: 'emirates flights from auckland'
 secondary_keywords:
-- flights nairobi to mombasa
-- nairobi to arusha flights
-- flights nairobi to berlin
-- flights nairobi to canada
-- flights nairobi to dublin
+- 'flights nairobi to mombasa'
+- 'nairobi to arusha flights'
+- 'flights nairobi to berlin'
+- 'flights nairobi to canada'
+- 'flights nairobi to dublin'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

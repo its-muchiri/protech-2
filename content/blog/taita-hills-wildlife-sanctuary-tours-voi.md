@@ -1,14 +1,14 @@
 ---
 title: 'Taita Hills Wildlife Sanctuary Tours Voi: Complete Guide'
-description: Kenya safari guide covering taita hills wildlife sanctuary tours voi, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering taita hills wildlife sanctuary tours voi, including what is included, pricing, and booking advice.'
 slug: taita-hills-wildlife-sanctuary-tours-voi
-primary_keyword: Taita Hills Wildlife Sanctuary tours Voi
+primary_keyword: 'Taita Hills Wildlife Sanctuary tours Voi'
 secondary_keywords:
-- Reserve Meru National Park package online
-- Book 3 day Kenya safari package
-- Reserve express fly-in safari package (2-3 days)
-- Secure 14 day honeymoon Kenya beach safari booking
-- Tsavo East West safari rates request
+- 'Reserve Meru National Park package online'
+- 'Book 3 day Kenya safari package'
+- 'Reserve express fly-in safari package (2-3 days)'
+- 'Secure 14 day honeymoon Kenya beach safari booking'
+- 'Tsavo East West safari rates request'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

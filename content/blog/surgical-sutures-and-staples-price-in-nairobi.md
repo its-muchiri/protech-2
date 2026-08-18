@@ -1,14 +1,14 @@
 ---
 title: 'Surgical Sutures and Staples Price in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to surgical sutures and staples price in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to surgical sutures and staples price in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: surgical-sutures-and-staples-price-in-nairobi
-primary_keyword: Surgical sutures and staples price in Nairobi
+primary_keyword: 'Surgical sutures and staples price in Nairobi'
 secondary_keywords:
-- Blood mixer and scale for blood bank
-- How to register a medical device in Kenya
-- Hospital floor cleaning and disinfection machines
-- Used laboratory equipment auction Nairobi
-- Disaster response medical kits suppliers
+- 'Blood mixer and scale for blood bank'
+- 'How to register a medical device in Kenya'
+- 'Hospital floor cleaning and disinfection machines'
+- 'Used laboratory equipment auction Nairobi'
+- 'Disaster response medical kits suppliers'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

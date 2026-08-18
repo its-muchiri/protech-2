@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Email Address Kenya: Complete Guide'
-description: Everything you need to know about emirates email address kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates email address kenya, including routes, airlines, booking tips, and fares.'
 slug: emirates-email-address-kenya
-primary_keyword: emirates email address kenya
+primary_keyword: 'emirates email address kenya'
 secondary_keywords:
-- flight from nairobi to ottawa
-- flight from nairobi to phuket
-- return flight from nairobi to mombasa
-- flight from nairobi to somalia
-- flight from nairobi to usa
+- 'flight from nairobi to ottawa'
+- 'flight from nairobi to phuket'
+- 'return flight from nairobi to mombasa'
+- 'flight from nairobi to somalia'
+- 'flight from nairobi to usa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

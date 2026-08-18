@@ -1,14 +1,14 @@
 ---
 title: 'Who Flies to Zambia: Complete Guide'
-description: Everything you need to know about who flies to zambia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about who flies to zambia, including routes, airlines, booking tips, and fares.'
 slug: who-flies-to-zambia
-primary_keyword: who flies to zambia
+primary_keyword: 'who flies to zambia'
 secondary_keywords:
-- 740 flight
-- turkish airlines nairobi office
-- what terminal is turkish airlines
-- turkish airlines jkia
-- turkish airlines pet allowance
+- '740 flight'
+- 'turkish airlines nairobi office'
+- 'what terminal is turkish airlines'
+- 'turkish airlines jkia'
+- 'turkish airlines pet allowance'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

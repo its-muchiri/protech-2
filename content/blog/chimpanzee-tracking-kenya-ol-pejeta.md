@@ -1,14 +1,14 @@
 ---
 title: 'Chimpanzee Tracking Kenya (Ol Pejeta): Complete Guide'
-description: Kenya safari guide covering chimpanzee tracking kenya (ol pejeta), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering chimpanzee tracking kenya (ol pejeta), including what is included, pricing, and booking advice.'
 slug: chimpanzee-tracking-kenya-ol-pejeta
-primary_keyword: Chimpanzee tracking Kenya (Ol Pejeta)
+primary_keyword: 'Chimpanzee tracking Kenya (Ol Pejeta)'
 secondary_keywords:
-- 10 day Kenya Tanzania migration package buy
-- Reserve Kenya safari package  months in advance
-- Compare Kenya safari package prices
-- Kenya safari package including park fees cost
-- Samburu safari operator quote
+- '10 day Kenya Tanzania migration package buy'
+- 'Reserve Kenya safari package  months in advance'
+- 'Compare Kenya safari package prices'
+- 'Kenya safari package including park fees cost'
+- 'Samburu safari operator quote'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

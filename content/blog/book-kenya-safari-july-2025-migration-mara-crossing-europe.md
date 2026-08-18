@@ -1,14 +1,14 @@
 ---
 title: 'Book Kenya Safari July 2025 Migration Mara Crossing Europe: Complete Guide'
-description: Kenya safari guide covering book kenya safari july 2025 migration mara crossing europe, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book kenya safari july 2025 migration mara crossing europe, including what is included, pricing, and booking advice.'
 slug: book-kenya-safari-july-2025-migration-mara-crossing-europe
-primary_keyword: Book Kenya safari July 2025 migration Mara crossing Europe
+primary_keyword: 'Book Kenya safari July 2025 migration Mara crossing Europe'
 secondary_keywords:
-- Kenya wildlife safari
-- Safari Masai Mara
-- Lake Naivasha safari
-- Premium Kenya safari
-- Wildebeest migration safari Kenya
+- 'Kenya wildlife safari'
+- 'Safari Masai Mara'
+- 'Lake Naivasha safari'
+- 'Premium Kenya safari'
+- 'Wildebeest migration safari Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi Kenya to Dallas Texas: Complete Guide'
-description: Everything you need to know about flights from nairobi kenya to dallas texas, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi kenya to dallas texas, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-kenya-to-dallas-texas
-primary_keyword: flights from nairobi kenya to dallas texas
+primary_keyword: 'flights from nairobi kenya to dallas texas'
 secondary_keywords:
-- flights nairobi to wajir
-- flights nairobi to zambia
-- ba flight to nairobi 2000
-- cheap flights nairobi
-- when will emirates resume flights from adelaide
+- 'flights nairobi to wajir'
+- 'flights nairobi to zambia'
+- 'ba flight to nairobi 2000'
+- 'cheap flights nairobi'
+- 'when will emirates resume flights from adelaide'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Phone Signal Kenya Safari: Complete Guide'
-description: Kenya safari guide covering phone signal kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering phone signal kenya safari, including what is included, pricing, and booking advice.'
 slug: phone-signal-kenya-safari
-primary_keyword: Phone signal Kenya safari
+primary_keyword: 'Phone signal Kenya safari'
 secondary_keywords:
-- Kenya safari and Victoria Falls package quote
-- Secure peak season Kenya safari package
-- Kenya safari package purchase
-- Add-ons for Kenya safari package purchase
-- (Adding 'buy', 'book', 'package', 'cost', 'quote', 'deal', 'reserve', 'operator' to core terms)
+- 'Kenya safari and Victoria Falls package quote'
+- 'Secure peak season Kenya safari package'
+- 'Kenya safari package purchase'
+- 'Add-ons for Kenya safari package purchase'
+- '(Adding ''buy'', ''book'', ''package'', ''cost'', ''quote'', ''deal'', ''reserve'', ''operator'' to core terms)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

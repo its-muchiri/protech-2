@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Kilimanjaro Airport: Complete Guide'
-description: Everything you need to know about flights nairobi to kilimanjaro airport, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to kilimanjaro airport, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-kilimanjaro-airport
-primary_keyword: flights nairobi to kilimanjaro airport
+primary_keyword: 'flights nairobi to kilimanjaro airport'
 secondary_keywords:
-- cheap flights from nairobi to cape town
-- ethiopian airlines nairobi kenya
-- ethiopian airlines from doha to nairobi price one way
-- ethiopian airlines flight 319
-- flights nairobi to arusha tanzania
+- 'cheap flights from nairobi to cape town'
+- 'ethiopian airlines nairobi kenya'
+- 'ethiopian airlines from doha to nairobi price one way'
+- 'ethiopian airlines flight 319'
+- 'flights nairobi to arusha tanzania'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

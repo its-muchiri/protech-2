@@ -1,14 +1,14 @@
 ---
 title: 'Purchase Kenya Safari Packing List Consultation Service UK Expert Advice Online Booking: Complete Guide'
-description: Kenya safari guide covering purchase kenya safari packing list consultation service uk expert advice online booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase kenya safari packing list consultation service uk expert advice online booking, including what is included, pricing, and booking advice.'
 slug: purchase-kenya-safari-packing-list-consultation-service-uk-expert-advice-online-booking
-primary_keyword: Purchase Kenya safari packing list consultation service UK expert advice online booking
+primary_keyword: 'Purchase Kenya safari packing list consultation service UK expert advice online booking'
 secondary_keywords:
-- Reserve Kenya holiday safari booking
-- Book Ol Pejeta Conservancy safari package
-- Reserve Kenya coast safari fly-in package
-- Book long Kenya safari package (10+ days)
-- Buy 10 day budget Kenya Tanzania camping safari booking
+- 'Reserve Kenya holiday safari booking'
+- 'Book Ol Pejeta Conservancy safari package'
+- 'Reserve Kenya coast safari fly-in package'
+- 'Book long Kenya safari package (10+ days)'
+- 'Buy 10 day budget Kenya Tanzania camping safari booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

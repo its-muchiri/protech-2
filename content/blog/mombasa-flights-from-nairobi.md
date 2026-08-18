@@ -1,14 +1,14 @@
 ---
 title: 'Mombasa Flights from Nairobi: Complete Guide'
-description: Everything you need to know about mombasa flights from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about mombasa flights from nairobi, including routes, airlines, booking tips, and fares.'
 slug: mombasa-flights-from-nairobi
-primary_keyword: mombasa flights from nairobi
+primary_keyword: 'mombasa flights from nairobi'
 secondary_keywords:
-- flights from kolkata to dubai by emirates
-- emirates flights from melbourne today
-- emirates flights from orlando
-- emirates flights from perth to dubai
-- emirates flight quality
+- 'flights from kolkata to dubai by emirates'
+- 'emirates flights from melbourne today'
+- 'emirates flights from orlando'
+- 'emirates flights from perth to dubai'
+- 'emirates flight quality'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'BiPAP Machine Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to bipap machine price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to bipap machine price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: bipap-machine-price-in-kenya
-primary_keyword: BiPAP machine price in Kenya
+primary_keyword: 'BiPAP machine price in Kenya'
 secondary_keywords:
-- portable oxygen concentrator Kenya
-- pediatric medical equipment Kenya
-- refurbished medical equipment Kenya
-- telemedicine solutions Kenya
-- personal protective equipment Kenya
+- 'portable oxygen concentrator Kenya'
+- 'pediatric medical equipment Kenya'
+- 'refurbished medical equipment Kenya'
+- 'telemedicine solutions Kenya'
+- 'personal protective equipment Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Digital Microscope with Camera for Sale: 2026 Price Guide'
-description: Kenya buying guide to digital microscope with camera for sale. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to digital microscope with camera for sale. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: digital-microscope-with-camera-for-sale
-primary_keyword: Digital microscope with camera for sale
+primary_keyword: 'Digital microscope with camera for sale'
 secondary_keywords:
-- Tympanometer for middle ear analysis
-- HIV test kits suppliers in Kenya
-- Littmann stethoscope for sale in Nairobi
-- Sharps containers suppliers in Kenya
-- Biomedical technician jobs in Kenya
+- 'Tympanometer for middle ear analysis'
+- 'HIV test kits suppliers in Kenya'
+- 'Littmann stethoscope for sale in Nairobi'
+- 'Sharps containers suppliers in Kenya'
+- 'Biomedical technician jobs in Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

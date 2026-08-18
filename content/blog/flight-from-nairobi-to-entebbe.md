@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Entebbe: Complete Guide'
-description: Everything you need to know about flight from nairobi to entebbe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to entebbe, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-entebbe
-primary_keyword: flight from nairobi to entebbe
+primary_keyword: 'flight from nairobi to entebbe'
 secondary_keywords:
-- flights from kenya to dar es salaam
-- flight from kenya to estonia
-- flights from san francisco to nairobi kenya
-- guangzhou to kenya flight
-- flight from kenya to haiti
+- 'flights from kenya to dar es salaam'
+- 'flight from kenya to estonia'
+- 'flights from san francisco to nairobi kenya'
+- 'guangzhou to kenya flight'
+- 'flight from kenya to haiti'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

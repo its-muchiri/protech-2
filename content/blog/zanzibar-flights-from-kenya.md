@@ -1,14 +1,14 @@
 ---
 title: 'Zanzibar Flights from Kenya: Complete Guide'
-description: Everything you need to know about zanzibar flights from kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about zanzibar flights from kenya, including routes, airlines, booking tips, and fares.'
 slug: zanzibar-flights-from-kenya
-primary_keyword: zanzibar flights from kenya
+primary_keyword: 'zanzibar flights from kenya'
 secondary_keywords:
-- kq flights from lusaka to nairobi
-- kq flights to mombasa timetable
-- kq flights to paris
-- kq flights from nairobi to kigali
-- kq flights to usa
+- 'kq flights from lusaka to nairobi'
+- 'kq flights to mombasa timetable'
+- 'kq flights to paris'
+- 'kq flights from nairobi to kigali'
+- 'kq flights to usa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

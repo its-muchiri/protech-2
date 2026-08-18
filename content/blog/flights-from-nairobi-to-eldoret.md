@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Eldoret: Complete Guide'
-description: Everything you need to know about flights from nairobi to eldoret, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to eldoret, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-eldoret
-primary_keyword: flights from nairobi to eldoret
+primary_keyword: 'flights from nairobi to eldoret'
 secondary_keywords:
-- kq kisumu flight schedule
-- kq flights from london to nairobi today
-- kq flights nairobi to london
-- kq flight radar
-- kq flight schedule kisumu to nairobi
+- 'kq kisumu flight schedule'
+- 'kq flights from london to nairobi today'
+- 'kq flights nairobi to london'
+- 'kq flight radar'
+- 'kq flight schedule kisumu to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

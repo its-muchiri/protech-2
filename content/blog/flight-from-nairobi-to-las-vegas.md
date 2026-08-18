@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Las Vegas: Complete Guide'
-description: Everything you need to know about flight from nairobi to las vegas, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to las vegas, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-las-vegas
-primary_keyword: flight from nairobi to las vegas
+primary_keyword: 'flight from nairobi to las vegas'
 secondary_keywords:
-- qatar flights to nairobi
-- flights kenya to london
-- flights to voi
-- kenya 3
-- flight from kenya to amsterdam
+- 'qatar flights to nairobi'
+- 'flights kenya to london'
+- 'flights to voi'
+- 'kenya 3'
+- 'flight from kenya to amsterdam'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

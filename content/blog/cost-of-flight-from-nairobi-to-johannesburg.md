@@ -1,14 +1,14 @@
 ---
 title: 'Cost of Flight from Nairobi to Johannesburg: Complete Guide'
-description: Everything you need to know about cost of flight from nairobi to johannesburg, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cost of flight from nairobi to johannesburg, including routes, airlines, booking tips, and fares.'
 slug: cost-of-flight-from-nairobi-to-johannesburg
-primary_keyword: cost of flight from nairobi to johannesburg
+primary_keyword: 'cost of flight from nairobi to johannesburg'
 secondary_keywords:
-- flights from kenya to manchester
-- kenya airways flights from nairobi to south africa
-- flights from ottawa to nairobi kenya
-- flights to kenya from perth
-- qatar flights from kenya
+- 'flights from kenya to manchester'
+- 'kenya airways flights from nairobi to south africa'
+- 'flights from ottawa to nairobi kenya'
+- 'flights to kenya from perth'
+- 'qatar flights from kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

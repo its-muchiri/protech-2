@@ -1,14 +1,14 @@
 ---
 title: 'Fly Emirates Nairobi Office: Complete Guide'
-description: Everything you need to know about fly emirates nairobi office, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about fly emirates nairobi office, including routes, airlines, booking tips, and fares.'
 slug: fly-emirates-nairobi-office
-primary_keyword: fly emirates nairobi office
+primary_keyword: 'fly emirates nairobi office'
 secondary_keywords:
-- jambojet flights nairobi to eldoret
-- kenya airways flights nairobi to johannesburg
-- nairobi to kuala lumpur flights
-- flights nairobi to nyc
-- ottawa to nairobi flights
+- 'jambojet flights nairobi to eldoret'
+- 'kenya airways flights nairobi to johannesburg'
+- 'nairobi to kuala lumpur flights'
+- 'flights nairobi to nyc'
+- 'ottawa to nairobi flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

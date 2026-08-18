@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Ticket from Dubai to Kenya: Complete Guide'
-description: Everything you need to know about emirates ticket from dubai to kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates ticket from dubai to kenya, including routes, airlines, booking tips, and fares.'
 slug: emirates-ticket-from-dubai-to-kenya
-primary_keyword: emirates ticket from dubai to kenya
+primary_keyword: 'emirates ticket from dubai to kenya'
 secondary_keywords:
-- flight from kenya to south korea price
-- flights from kenya to lebanon
-- flights from kenya to morocco
-- flights from kenya to nigeria
-- cheap flights from oman to kenya
+- 'flight from kenya to south korea price'
+- 'flights from kenya to lebanon'
+- 'flights from kenya to morocco'
+- 'flights from kenya to nigeria'
+- 'cheap flights from oman to kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

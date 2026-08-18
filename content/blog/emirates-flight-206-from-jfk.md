@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 206 from Jfk: Complete Guide'
-description: Everything you need to know about emirates flight 206 from jfk, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 206 from jfk, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-206-from-jfk
-primary_keyword: emirates flight 206 from jfk
+primary_keyword: 'emirates flight 206 from jfk'
 secondary_keywords:
-- flight from nairobi to oman
-- flight from nairobi to prague
-- flight from nairobi to rabat
-- flight from nairobi to sydney
-- the cost of flight from nairobi to mombasa
+- 'flight from nairobi to oman'
+- 'flight from nairobi to prague'
+- 'flight from nairobi to rabat'
+- 'flight from nairobi to sydney'
+- 'the cost of flight from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

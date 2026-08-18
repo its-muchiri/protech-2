@@ -1,14 +1,14 @@
 ---
 title: 'Stationary Exercise Bike for Rehabilitation: 2026 Price Guide'
-description: Kenya buying guide to stationary exercise bike for rehabilitation. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to stationary exercise bike for rehabilitation. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: stationary-exercise-bike-for-rehabilitation
-primary_keyword: Stationary exercise bike for rehabilitation
+primary_keyword: 'Stationary exercise bike for rehabilitation'
 secondary_keywords:
-- oxygen supply solutions Kenya
-- affordable hospital beds Kenya
-- hospital equipment repair Kenya
-- certified medical equipment Kenya
-- point of care testing devices Kenya
+- 'oxygen supply solutions Kenya'
+- 'affordable hospital beds Kenya'
+- 'hospital equipment repair Kenya'
+- 'certified medical equipment Kenya'
+- 'point of care testing devices Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

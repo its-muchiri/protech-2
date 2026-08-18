@@ -1,14 +1,14 @@
 ---
 title: 'Is It Safe to Visit Mombasa: Complete Guide'
-description: Everything you need to know about is it safe to visit mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about is it safe to visit mombasa, including routes, airlines, booking tips, and fares.'
 slug: is-it-safe-to-visit-mombasa
-primary_keyword: is it safe to visit mombasa
+primary_keyword: 'is it safe to visit mombasa'
 secondary_keywords:
-- flights from nairobi to paris
-- flight from nairobi to qatar price
-- rwandair flights from nairobi to kigali
-- flights from nairobi to stockholm
-- flights from nairobi to uae
+- 'flights from nairobi to paris'
+- 'flight from nairobi to qatar price'
+- 'rwandair flights from nairobi to kigali'
+- 'flights from nairobi to stockholm'
+- 'flights from nairobi to uae'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Cairo to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from cairo to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from cairo to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-cairo-to-dubai
-primary_keyword: emirates flights from cairo to dubai
+primary_keyword: 'emirates flights from cairo to dubai'
 secondary_keywords:
-- morning flights from mombasa to nairobi
-- flight from kisumu to mombasa price
-- flights from riyadh to mombasa
-- charter flights to mombasa from uk
-- how much is flight from mombasa to nairobi
+- 'morning flights from mombasa to nairobi'
+- 'flight from kisumu to mombasa price'
+- 'flights from riyadh to mombasa'
+- 'charter flights to mombasa from uk'
+- 'how much is flight from mombasa to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

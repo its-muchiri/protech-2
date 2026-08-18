@@ -1,14 +1,14 @@
 ---
 title: 'Family Kenya Safari: Complete Guide'
-description: Kenya safari guide covering family kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering family kenya safari, including what is included, pricing, and booking advice.'
 slug: family-kenya-safari
-primary_keyword: Family Kenya safari
+primary_keyword: 'Family Kenya safari'
 secondary_keywords:
-- Reserve school holiday family safari package Kenya cost
-- Secure 8 day romantic honeymoon package Mara North Conservancy private booking
-- Compare Kenyan tour operators prices and packages
-- Best time for Great Wildebeest Migration Masai Mara 2025/2026
-- Tsavo safari including SGR train Madaraka Express package
+- 'Reserve school holiday family safari package Kenya cost'
+- 'Secure 8 day romantic honeymoon package Mara North Conservancy private booking'
+- 'Compare Kenyan tour operators prices and packages'
+- 'Best time for Great Wildebeest Migration Masai Mara 2025/2026'
+- 'Tsavo safari including SGR train Madaraka Express package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

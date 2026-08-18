@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari in September (Migration): Complete Guide'
-description: Kenya safari guide covering kenya safari in september (migration), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari in september (migration), including what is included, pricing, and booking advice.'
 slug: kenya-safari-in-september-migration
-primary_keyword: Kenya safari in September (Migration)
+primary_keyword: 'Kenya safari in September (Migration)'
 secondary_keywords:
-- Get quote 9 day Northern Kenya special species package
-- Reserve 8 day Kenya honeymoon special offer package
-- Book 10 day luxury tented camps exclusive package Kenya
-- Buy all-inclusive 9 day Kenya Tanzania combo tour
-- Get best offer 9 day Kenya mid-range circuit tour
+- 'Get quote 9 day Northern Kenya special species package'
+- 'Reserve 8 day Kenya honeymoon special offer package'
+- 'Book 10 day luxury tented camps exclusive package Kenya'
+- 'Buy all-inclusive 9 day Kenya Tanzania combo tour'
+- 'Get best offer 9 day Kenya mid-range circuit tour'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

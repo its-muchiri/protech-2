@@ -1,14 +1,14 @@
 ---
 title: 'Buy Multi-country East Africa Safari Kenya Tanzania Rwanda Gorilla Trek USA Operator Package Cost: Complete Guide'
-description: Kenya safari guide covering buy multi-country east africa safari kenya tanzania rwanda gorilla trek usa operator package cost, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy multi-country east africa safari kenya tanzania rwanda gorilla trek usa operator package cost, including what is included, pricing, and booking advice.'
 slug: buy-multi-country-east-africa-safari-kenya-tanzania-rwanda-gorilla-trek-usa-operator-package-cost
-primary_keyword: Buy multi-country East Africa safari Kenya Tanzania Rwanda gorilla trek USA operator package cost
+primary_keyword: 'Buy multi-country East Africa safari Kenya Tanzania Rwanda gorilla trek USA operator package cost'
 secondary_keywords:
-- Governors Camp Masai Mara package booking
-- Book Kenya honeymoon safari package
-- Kenya safari package offers
-- Kenya Uganda gorilla safari package cost
-- Budget Kenya Uganda combo tour deal
+- 'Governors Camp Masai Mara package booking'
+- 'Book Kenya honeymoon safari package'
+- 'Kenya safari package offers'
+- 'Kenya Uganda gorilla safari package cost'
+- 'Budget Kenya Uganda combo tour deal'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

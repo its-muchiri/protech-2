@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is a Flight from Nairobi to Germany: Complete Guide'
-description: Everything you need to know about how much is a flight from nairobi to germany, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is a flight from nairobi to germany, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-a-flight-from-nairobi-to-germany
-primary_keyword: how much is a flight from nairobi to germany
+primary_keyword: 'how much is a flight from nairobi to germany'
 secondary_keywords:
-- flight duration from nairobi to new york
-- book flight from nairobi to mombasa
-- flight 540 nairobi to eldoret
-- b6 6 flight status
-- turkish airlines routes
+- 'flight duration from nairobi to new york'
+- 'book flight from nairobi to mombasa'
+- 'flight 540 nairobi to eldoret'
+- 'b6 6 flight status'
+- 'turkish airlines routes'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

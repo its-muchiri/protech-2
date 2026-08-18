@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight from Riyadh to Nairobi Today: Complete Guide'
-description: Everything you need to know about emirates flight from riyadh to nairobi today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight from riyadh to nairobi today, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-from-riyadh-to-nairobi-today
-primary_keyword: emirates flight from riyadh to nairobi today
+primary_keyword: 'emirates flight from riyadh to nairobi today'
 secondary_keywords:
-- flights from nairobi to cape town
-- cheap flights from nairobi to usa
-- flights from nairobi to entebbe today
-- flights for nairobi
-- flights from nairobi to goma
+- 'flights from nairobi to cape town'
+- 'cheap flights from nairobi to usa'
+- 'flights from nairobi to entebbe today'
+- 'flights for nairobi'
+- 'flights from nairobi to goma'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

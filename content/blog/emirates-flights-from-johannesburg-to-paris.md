@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Johannesburg to Paris: Complete Guide'
-description: Everything you need to know about emirates flights from johannesburg to paris, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from johannesburg to paris, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-johannesburg-to-paris
-primary_keyword: emirates flights from johannesburg to paris
+primary_keyword: 'emirates flights from johannesburg to paris'
 secondary_keywords:
-- ethiopian airlines ticket price from addis ababa to nairobi today
-- turkish airlines office nairobi airport
-- turkey flight from kenya
-- flight ticket from kenya to china
-- flight booking mombasa to nairobi
+- 'ethiopian airlines ticket price from addis ababa to nairobi today'
+- 'turkish airlines office nairobi airport'
+- 'turkey flight from kenya'
+- 'flight ticket from kenya to china'
+- 'flight booking mombasa to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

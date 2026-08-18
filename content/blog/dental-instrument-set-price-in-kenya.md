@@ -1,14 +1,14 @@
 ---
 title: 'Dental Instrument Set Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to dental instrument set price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to dental instrument set price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: dental-instrument-set-price-in-kenya
-primary_keyword: Dental instrument set price in Kenya
+primary_keyword: 'Dental instrument set price in Kenya'
 secondary_keywords:
-- Laser hair removal machine for clinic price
-- Crutches for sale near me in Thika
-- Digital pathology scanner price
-- orthodontic supplies wholesale Kenya
-- lead aprons for radiology staff price
+- 'Laser hair removal machine for clinic price'
+- 'Crutches for sale near me in Thika'
+- 'Digital pathology scanner price'
+- 'orthodontic supplies wholesale Kenya'
+- 'lead aprons for radiology staff price'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

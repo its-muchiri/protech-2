@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Nairobi to Mombasa Jambojet: Complete Guide'
-description: Everything you need to know about cheap flights from nairobi to mombasa jambojet, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from nairobi to mombasa jambojet, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-nairobi-to-mombasa-jambojet
-primary_keyword: cheap flights from nairobi to mombasa jambojet
+primary_keyword: 'cheap flights from nairobi to mombasa jambojet'
 secondary_keywords:
-- turkish airlines to nairobi
-- ethiopian airlines offices in nairobi
-- ethiopian airlines nairobi to johannesburg price
-- ethiopian airlines customer service nairobi
-- where does turkish airlines fly direct
+- 'turkish airlines to nairobi'
+- 'ethiopian airlines offices in nairobi'
+- 'ethiopian airlines nairobi to johannesburg price'
+- 'ethiopian airlines customer service nairobi'
+- 'where does turkish airlines fly direct'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

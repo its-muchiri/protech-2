@@ -1,14 +1,14 @@
 ---
 title: 'Flight Ticket from Kenya to Canada: Complete Guide'
-description: Everything you need to know about flight ticket from kenya to canada, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight ticket from kenya to canada, including routes, airlines, booking tips, and fares.'
 slug: flight-ticket-from-kenya-to-canada
-primary_keyword: flight ticket from kenya to canada
+primary_keyword: 'flight ticket from kenya to canada'
 secondary_keywords:
-- 3 bedroom houses for rent in nairobi
-- emirates flights from australia
-- emirates flights from bangalore to dubai
-- emirates flights from cairo to dubai
-- emirates flights from dubai to manchester today
+- '3 bedroom houses for rent in nairobi'
+- 'emirates flights from australia'
+- 'emirates flights from bangalore to dubai'
+- 'emirates flights from cairo to dubai'
+- 'emirates flights from dubai to manchester today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

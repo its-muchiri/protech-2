@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Jinja Uganda: Complete Guide'
-description: Everything you need to know about flights from nairobi to jinja uganda, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to jinja uganda, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-jinja-uganda
-primary_keyword: flights from nairobi to jinja uganda
+primary_keyword: 'flights from nairobi to jinja uganda'
 secondary_keywords:
-- emirates flights from new york
-- emirates will resume flights from dubai to adelaide in october
-- emirates flights from qatar
-- does emirates fly to qatar
-- emirates flights from stansted to dubai today
+- 'emirates flights from new york'
+- 'emirates will resume flights from dubai to adelaide in october'
+- 'emirates flights from qatar'
+- 'does emirates fly to qatar'
+- 'emirates flights from stansted to dubai today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

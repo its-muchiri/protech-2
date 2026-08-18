@@ -1,14 +1,14 @@
 ---
 title: 'Family Friendly Kenya Safari Tour Rates: Complete Guide'
-description: Kenya safari guide covering family friendly kenya safari tour rates, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering family friendly kenya safari tour rates, including what is included, pricing, and booking advice.'
 slug: family-friendly-kenya-safari-tour-rates
-primary_keyword: Family friendly Kenya safari tour rates
+primary_keyword: 'Family friendly Kenya safari tour rates'
 secondary_keywords:
-- Quality/Trust Based (Best, Top, Luxury, Reliable, Recommended, Reviews)
-- Top Kenya photographic safari guides booking USA portfolio
-- Buy top rated Kenya Big Five lodge safari package UK online secure booking
-- Book short 3-day Amboseli fly-in safari from Nairobi UK price includes flights
-- Purchase off-the-beaten-path Northern Kenya safari tour UK Turkana expedition cost
+- 'Quality/Trust Based (Best, Top, Luxury, Reliable, Recommended, Reviews)'
+- 'Top Kenya photographic safari guides booking USA portfolio'
+- 'Buy top rated Kenya Big Five lodge safari package UK online secure booking'
+- 'Book short 3-day Amboseli fly-in safari from Nairobi UK price includes flights'
+- 'Purchase off-the-beaten-path Northern Kenya safari tour UK Turkana expedition cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

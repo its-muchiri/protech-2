@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Lagos: Complete Guide'
-description: Everything you need to know about kq flights to lagos, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to lagos, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-lagos
-primary_keyword: kq flights to lagos
+primary_keyword: 'kq flights to lagos'
 secondary_keywords:
-- kq flights from nairobi to dar es salaam
-- flights from nairobi to masai mara
-- flights from nairobi to namibia
-- flights from nairobi to oman
-- flights from nairobi to philippines
+- 'kq flights from nairobi to dar es salaam'
+- 'flights from nairobi to masai mara'
+- 'flights from nairobi to namibia'
+- 'flights from nairobi to oman'
+- 'flights from nairobi to philippines'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

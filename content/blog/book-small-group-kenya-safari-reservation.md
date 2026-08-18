@@ -1,14 +1,14 @@
 ---
 title: 'Book Small Group Kenya Safari Reservation: Complete Guide'
-description: Kenya safari guide covering book small group kenya safari reservation, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book small group kenya safari reservation, including what is included, pricing, and booking advice.'
 slug: book-small-group-kenya-safari-reservation
-primary_keyword: Book small group Kenya safari reservation
+primary_keyword: 'Book small group Kenya safari reservation'
 secondary_keywords:
-- Quote for 4 day Elsa''s Kopje Meru package booking
-- Book scientific research participation safari package (niche)
-- Sustainable tour operators Kenya
-- Samburu National Reserve tour packages
-- Meru National Park safari companies
+- 'Quote for 4 day Elsa''''s Kopje Meru package booking'
+- 'Book scientific research participation safari package (niche)'
+- 'Sustainable tour operators Kenya'
+- 'Samburu National Reserve tour packages'
+- 'Meru National Park safari companies'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

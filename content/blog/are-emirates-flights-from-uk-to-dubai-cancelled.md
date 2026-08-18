@@ -1,14 +1,14 @@
 ---
 title: 'Are Emirates Flights from Uk to Dubai Cancelled: Complete Guide'
-description: Everything you need to know about are emirates flights from uk to dubai cancelled, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about are emirates flights from uk to dubai cancelled, including routes, airlines, booking tips, and fares.'
 slug: are-emirates-flights-from-uk-to-dubai-cancelled
-primary_keyword: are emirates flights from uk to dubai cancelled
+primary_keyword: 'are emirates flights from uk to dubai cancelled'
 secondary_keywords:
-- flights from johannesburg to nairobi kenya
-- kq flights from uganda to kenya today
-- flights from nairobi to london kenya airways
-- malaysia flights from kenya
-- flights from kenya to oman
+- 'flights from johannesburg to nairobi kenya'
+- 'kq flights from uganda to kenya today'
+- 'flights from nairobi to london kenya airways'
+- 'malaysia flights from kenya'
+- 'flights from kenya to oman'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

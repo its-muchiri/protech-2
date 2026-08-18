@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Nairobi Office Contacts Whatsapp Number: Complete Guide'
-description: Everything you need to know about ethiopian airlines nairobi office contacts whatsapp number, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines nairobi office contacts whatsapp number, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-nairobi-office-contacts-whatsapp-number
-primary_keyword: ethiopian airlines nairobi office contacts whatsapp number
+primary_keyword: 'ethiopian airlines nairobi office contacts whatsapp number'
 secondary_keywords:
-- flight from zurich to nairobi
-- fly 48
-- 540 flight from nairobi to lodwar today
-- turkish airlines from nairobi to istanbul
-- turkish airlines nairobi contact number
+- 'flight from zurich to nairobi'
+- 'fly 48'
+- '540 flight from nairobi to lodwar today'
+- 'turkish airlines from nairobi to istanbul'
+- 'turkish airlines nairobi contact number'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

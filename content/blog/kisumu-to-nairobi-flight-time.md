@@ -1,14 +1,14 @@
 ---
 title: 'Kisumu to Nairobi Flight Time: Complete Guide'
-description: Everything you need to know about kisumu to nairobi flight time, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kisumu to nairobi flight time, including routes, airlines, booking tips, and fares.'
 slug: kisumu-to-nairobi-flight-time
-primary_keyword: kisumu to nairobi flight time
+primary_keyword: 'kisumu to nairobi flight time'
 secondary_keywords:
-- kq flight details
-- kq flights from entebbe to nairobi
-- kq flights today
-- kq flights to juba
-- kq flights from lusaka to nairobi
+- 'kq flight details'
+- 'kq flights from entebbe to nairobi'
+- 'kq flights today'
+- 'kq flights to juba'
+- 'kq flights from lusaka to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

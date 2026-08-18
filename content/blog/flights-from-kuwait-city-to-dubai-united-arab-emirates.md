@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kuwait City to Dubai United Arab Emirates: Complete Guide'
-description: Everything you need to know about flights from kuwait city to dubai united arab emirates, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kuwait city to dubai united arab emirates, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kuwait-city-to-dubai-united-arab-emirates
-primary_keyword: flights from kuwait city to dubai united arab emirates
+primary_keyword: 'flights from kuwait city to dubai united arab emirates'
 secondary_keywords:
-- how much is a flight from nairobi to dubai emirates
-- emirates flights nairobi to london
-- emirates from nairobi to dubai price
-- emirates ek 720
-- how much is kenya airways to dubai
+- 'how much is a flight from nairobi to dubai emirates'
+- 'emirates flights nairobi to london'
+- 'emirates from nairobi to dubai price'
+- 'emirates ek 720'
+- 'how much is kenya airways to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

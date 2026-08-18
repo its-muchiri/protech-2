@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Mumbai to Nairobi Flight Status: Complete Guide'
-description: Everything you need to know about kenya airways mumbai to nairobi flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways mumbai to nairobi flight status, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-mumbai-to-nairobi-flight-status
-primary_keyword: kenya airways mumbai to nairobi flight status
+primary_keyword: 'kenya airways mumbai to nairobi flight status'
 secondary_keywords:
-- kq flights to south africa
-- book kq flights
-- kq flight cape town to nairobi
-- kq flight details
-- kq flights from entebbe to nairobi
+- 'kq flights to south africa'
+- 'book kq flights'
+- 'kq flight cape town to nairobi'
+- 'kq flight details'
+- 'kq flights from entebbe to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

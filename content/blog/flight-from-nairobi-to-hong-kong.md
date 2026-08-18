@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Hong Kong: Complete Guide'
-description: Everything you need to know about flight from nairobi to hong kong, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to hong kong, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-hong-kong
-primary_keyword: flight from nairobi to hong kong
+primary_keyword: 'flight from nairobi to hong kong'
 secondary_keywords:
-- emirates flights from perth to nairobi
-- emirates flight from nairobi to dubai tomorrow
-- emirates flight schedule nairobi to dubai
-- emirates nairobi airport terminal
-- emirates departure nairobi
+- 'emirates flights from perth to nairobi'
+- 'emirates flight from nairobi to dubai tomorrow'
+- 'emirates flight schedule nairobi to dubai'
+- 'emirates nairobi airport terminal'
+- 'emirates departure nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

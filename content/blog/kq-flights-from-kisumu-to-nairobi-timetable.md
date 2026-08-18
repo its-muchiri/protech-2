@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from Kisumu to Nairobi Timetable: Complete Guide'
-description: Everything you need to know about kq flights from kisumu to nairobi timetable, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from kisumu to nairobi timetable, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-kisumu-to-nairobi-timetable
-primary_keyword: kq flights from kisumu to nairobi timetable
+primary_keyword: 'kq flights from kisumu to nairobi timetable'
 secondary_keywords:
-- flights from tampa florida to nairobi kenya
-- kenya airways flights from gaborone to nairobi
-- cheap flights to kenya from heathrow
-- flights from nairobi kenya to dublin ireland
-- flights to kenya from jfk
+- 'flights from tampa florida to nairobi kenya'
+- 'kenya airways flights from gaborone to nairobi'
+- 'cheap flights to kenya from heathrow'
+- 'flights from nairobi kenya to dublin ireland'
+- 'flights to kenya from jfk'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

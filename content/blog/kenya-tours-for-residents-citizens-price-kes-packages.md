@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Tours for Residents / Citizens Price KES Packages: Complete Guide'
-description: Kenya safari guide covering kenya tours for residents / citizens price kes packages, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya tours for residents / citizens price kes packages, including what is included, pricing, and booking advice.'
 slug: kenya-tours-for-residents-citizens-price-kes-packages
-primary_keyword: Kenya tours for residents / citizens price KES packages
+primary_keyword: 'Kenya tours for residents / citizens price KES packages'
 secondary_keywords:
-- Meru wildlife trip itinerary book
-- Purchase tour from Kenya safari specialist operator
-- Purchase all-inclusive fly-in safari package Kenya cost
-- Choose best value Kenya budget safari operator package
-- Book Kenya safari departing  quote needed
+- 'Meru wildlife trip itinerary book'
+- 'Purchase tour from Kenya safari specialist operator'
+- 'Purchase all-inclusive fly-in safari package Kenya cost'
+- 'Choose best value Kenya budget safari operator package'
+- 'Book Kenya safari departing  quote needed'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

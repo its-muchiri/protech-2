@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Nairobi Telephone Number: Complete Guide'
-description: Everything you need to know about ethiopian airlines nairobi telephone number, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines nairobi telephone number, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-nairobi-telephone-number
-primary_keyword: ethiopian airlines nairobi telephone number
+primary_keyword: 'ethiopian airlines nairobi telephone number'
 secondary_keywords:
-- how much is flight from nairobi to nigeria
-- cheap flights nairobi to kampala
-- emirates flights from auckland to india
-- emirates flights from brisbane today
-- emirates flights from christchurch
+- 'how much is flight from nairobi to nigeria'
+- 'cheap flights nairobi to kampala'
+- 'emirates flights from auckland to india'
+- 'emirates flights from brisbane today'
+- 'emirates flights from christchurch'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Fourteen Falls Thika Day Trip Guide / Cost: Complete Guide'
-description: Kenya safari guide covering fourteen falls thika day trip guide / cost, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering fourteen falls thika day trip guide / cost, including what is included, pricing, and booking advice.'
 slug: fourteen-falls-thika-day-trip-guide-cost
-primary_keyword: Fourteen Falls Thika day trip guide / cost
+primary_keyword: 'Fourteen Falls Thika day trip guide / cost'
 secondary_keywords:
-- High altitude safari Kenya (Aberdares, Mt Kenya)
-- Malaria precautions Kenya safari
-- Kenya safari vs Tanzania safari
-- Family safari lodge with kids club Kenya
-- Birding specialist guide Kenya Aberdares
+- 'High altitude safari Kenya (Aberdares, Mt Kenya)'
+- 'Malaria precautions Kenya safari'
+- 'Kenya safari vs Tanzania safari'
+- 'Family safari lodge with kids club Kenya'
+- 'Birding specialist guide Kenya Aberdares'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Does Emirates Have Domestic Flights: Complete Guide'
-description: Everything you need to know about does emirates have domestic flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about does emirates have domestic flights, including routes, airlines, booking tips, and fares.'
 slug: does-emirates-have-domestic-flights
-primary_keyword: does emirates have domestic flights
+primary_keyword: 'does emirates have domestic flights'
 secondary_keywords:
-- cheap flights to kenya from usa
-- flights from burlington vt to nairobi kenya
-- flights from kenya to new york
-- cheap flights from new york to kenya
-- how much is flight from kenya to south africa
+- 'cheap flights to kenya from usa'
+- 'flights from burlington vt to nairobi kenya'
+- 'flights from kenya to new york'
+- 'cheap flights from new york to kenya'
+- 'how much is flight from kenya to south africa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

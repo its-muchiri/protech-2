@@ -1,14 +1,14 @@
 ---
 title: 'Visit Masai Village Near Masai Mara Authentic Experience Tour: Complete Guide'
-description: Kenya safari guide covering visit masai village near masai mara authentic experience tour, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering visit masai village near masai mara authentic experience tour, including what is included, pricing, and booking advice.'
 slug: visit-masai-village-near-masai-mara-authentic-experience-tour
-primary_keyword: Visit Masai village near Masai Mara authentic experience tour
+primary_keyword: 'Visit Masai village near Masai Mara authentic experience tour'
 secondary_keywords:
-- Book Ol Pejeta Conservancy safari package
-- Reserve Kenya coast safari fly-in package
-- Book long Kenya safari package (10+ days)
-- Buy 10 day budget Kenya Tanzania camping safari booking
-- Masai Mara safari package cost estimate
+- 'Book Ol Pejeta Conservancy safari package'
+- 'Reserve Kenya coast safari fly-in package'
+- 'Book long Kenya safari package (10+ days)'
+- 'Buy 10 day budget Kenya Tanzania camping safari booking'
+- 'Masai Mara safari package cost estimate'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

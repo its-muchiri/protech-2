@@ -1,14 +1,14 @@
 ---
 title: 'Tour Guide Qualifications Kenya KPSGA Certification: Complete Guide'
-description: Kenya safari guide covering tour guide qualifications kenya kpsga certification, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering tour guide qualifications kenya kpsga certification, including what is included, pricing, and booking advice.'
 slug: tour-guide-qualifications-kenya-kpsga-certification
-primary_keyword: Tour guide qualifications Kenya KPSGA certification
+primary_keyword: 'Tour guide qualifications Kenya KPSGA certification'
 secondary_keywords:
-- Ethical Maasai village tour operator near Mara
-- Student group educational tour operator Kenya
-- Book tailor-made Kenya safari itinerary
-- Secure Shimba Hills coastal safari package
-- Buy 8 day Kenya discovery package online
+- 'Ethical Maasai village tour operator near Mara'
+- 'Student group educational tour operator Kenya'
+- 'Book tailor-made Kenya safari itinerary'
+- 'Secure Shimba Hills coastal safari package'
+- 'Buy 8 day Kenya discovery package online'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight Reschedule: Complete Guide'
-description: Everything you need to know about kq flight reschedule, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight reschedule, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-reschedule
-primary_keyword: kq flight reschedule
+primary_keyword: 'kq flight reschedule'
 secondary_keywords:
-- flights from kenya to swaziland
-- flights from kenya to uk
-- flights from nairobi to vienna
-- flights from washington dc to nairobi kenya
-- flights from nbo to yow
+- 'flights from kenya to swaziland'
+- 'flights from kenya to uk'
+- 'flights from nairobi to vienna'
+- 'flights from washington dc to nairobi kenya'
+- 'flights from nbo to yow'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

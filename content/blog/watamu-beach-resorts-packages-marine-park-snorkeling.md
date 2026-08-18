@@ -1,14 +1,14 @@
 ---
 title: 'Watamu Beach Resorts Packages Marine Park Snorkeling: Complete Guide'
-description: Kenya safari guide covering watamu beach resorts packages marine park snorkeling, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering watamu beach resorts packages marine park snorkeling, including what is included, pricing, and booking advice.'
 slug: watamu-beach-resorts-packages-marine-park-snorkeling
-primary_keyword: Watamu beach resorts packages marine park snorkeling
+primary_keyword: 'Watamu beach resorts packages marine park snorkeling'
 secondary_keywords:
-- Fly-in Masai Mara trip package reserve
-- Buy Kenya tour package park fees included cost
-- Purchase small group photography safari package Kenya booking
-- Secure Easter holiday Kenya tour package booking
-- Book 4 day Tsavo East West express lodge safari Mombasa start discount
+- 'Fly-in Masai Mara trip package reserve'
+- 'Buy Kenya tour package park fees included cost'
+- 'Purchase small group photography safari package Kenya booking'
+- 'Secure Easter holiday Kenya tour package booking'
+- 'Book 4 day Tsavo East West express lodge safari Mombasa start discount'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

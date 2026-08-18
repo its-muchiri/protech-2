@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Contacts in Nairobi: Complete Guide'
-description: Everything you need to know about emirates contacts in nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates contacts in nairobi, including routes, airlines, booking tips, and fares.'
 slug: emirates-contacts-in-nairobi
-primary_keyword: emirates contacts in nairobi
+primary_keyword: 'emirates contacts in nairobi'
 secondary_keywords:
-- emirates flights from delhi to new york
-- emirates flight 001
-- emirates flight 209 from athens to new york
-- emirates flight 335
-- emirates flight 408
+- 'emirates flights from delhi to new york'
+- 'emirates flight 001'
+- 'emirates flight 209 from athens to new york'
+- 'emirates flight 335'
+- 'emirates flight 408'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

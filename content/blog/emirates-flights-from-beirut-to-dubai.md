@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Beirut to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from beirut to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from beirut to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-beirut-to-dubai
-primary_keyword: emirates flights from beirut to dubai
+primary_keyword: 'emirates flights from beirut to dubai'
 secondary_keywords:
-- air india flight from nairobi to ahmedabad
-- flight from nairobi to brazil
-- flight from nairobi to congo
-- flight from nairobi to doha today
-- emirates flight from nairobi
+- 'air india flight from nairobi to ahmedabad'
+- 'flight from nairobi to brazil'
+- 'flight from nairobi to congo'
+- 'flight from nairobi to doha today'
+- 'emirates flight from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

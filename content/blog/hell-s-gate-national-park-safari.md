@@ -1,14 +1,14 @@
 ---
-title: 'Hell's Gate National Park Safari: Complete Guide'
-description: Kenya safari guide covering hells gate national park safari, including what is included, pricing, and booking advice.
+title: 'Hell''s Gate National Park Safari: Complete Guide'
+description: 'Kenya safari guide covering hells gate national park safari, including what is included, pricing, and booking advice.'
 slug: hell-s-gate-national-park-safari
-primary_keyword: Hell's Gate National Park safari
+primary_keyword: 'Hell''s Gate National Park safari'
 secondary_keywords:
-- Book Kenya Tanzania safari package
-- Luxury Kenya Zanzibar package booking
-- Early bird booking Kenya safari package
-- Best Kenya safari package deals online
-- Book fly-in Kenya safari package all inclusive
+- 'Book Kenya Tanzania safari package'
+- 'Luxury Kenya Zanzibar package booking'
+- 'Early bird booking Kenya safari package'
+- 'Best Kenya safari package deals online'
+- 'Book fly-in Kenya safari package all inclusive'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

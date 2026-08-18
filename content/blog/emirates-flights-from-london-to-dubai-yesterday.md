@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from London to Dubai Yesterday: Complete Guide'
-description: Everything you need to know about emirates flights from london to dubai yesterday, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from london to dubai yesterday, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-london-to-dubai-yesterday
-primary_keyword: emirates flights from london to dubai yesterday
+primary_keyword: 'emirates flights from london to dubai yesterday'
 secondary_keywords:
-- nairobi to turkey flight time
-- flight booking agents in nairobi
-- flight duration from kenya to usa
-- kenya to dubai flight cost
-- ticket from kenya to egypt
+- 'nairobi to turkey flight time'
+- 'flight booking agents in nairobi'
+- 'flight duration from kenya to usa'
+- 'kenya to dubai flight cost'
+- 'ticket from kenya to egypt'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

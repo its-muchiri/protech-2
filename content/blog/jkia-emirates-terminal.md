@@ -1,14 +1,14 @@
 ---
 title: 'Jkia Emirates Terminal: Complete Guide'
-description: Everything you need to know about jkia emirates terminal, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about jkia emirates terminal, including routes, airlines, booking tips, and fares.'
 slug: jkia-emirates-terminal
-primary_keyword: jkia emirates terminal
+primary_keyword: 'jkia emirates terminal'
 secondary_keywords:
-- emirates flight 87
-- emirates flight 923
-- qatar airways flight ticket from doha to nairobi
-- qatar airways flight schedule from nairobi to doha today
-- does qatar airways fly to hong kong
+- 'emirates flight 87'
+- 'emirates flight 923'
+- 'qatar airways flight ticket from doha to nairobi'
+- 'qatar airways flight schedule from nairobi to doha today'
+- 'does qatar airways fly to hong kong'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

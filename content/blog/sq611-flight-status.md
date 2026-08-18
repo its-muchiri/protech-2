@@ -1,14 +1,14 @@
 ---
 title: 'Sq611 Flight Status: Complete Guide'
-description: Everything you need to know about sq611 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about sq611 flight status, including routes, airlines, booking tips, and fares.'
 slug: sq611-flight-status
-primary_keyword: sq611 flight status
+primary_keyword: 'sq611 flight status'
 secondary_keywords:
-- flights from washington dc to kenya
-- kenya airways flights from new york to nairobi
-- flights to kenya from new zealand
-- kenya flights
-- safarilink flights from nairobi to mombasa
+- 'flights from washington dc to kenya'
+- 'kenya airways flights from new york to nairobi'
+- 'flights to kenya from new zealand'
+- 'kenya flights'
+- 'safarilink flights from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

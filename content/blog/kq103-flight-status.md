@@ -1,14 +1,14 @@
 ---
 title: 'Kq103 Flight Status: Complete Guide'
-description: Everything you need to know about kq103 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq103 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq103-flight-status
-primary_keyword: kq103 flight status
+primary_keyword: 'kq103 flight status'
 secondary_keywords:
-- flights from nairobi wilson to malindi
-- flights from nairobi to yyz
-- cheap flights from nairobi to lagos
-- flights from nairobi to kenya
-- flights from mombasa to kisumu
+- 'flights from nairobi wilson to malindi'
+- 'flights from nairobi to yyz'
+- 'cheap flights from nairobi to lagos'
+- 'flights from nairobi to kenya'
+- 'flights from mombasa to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

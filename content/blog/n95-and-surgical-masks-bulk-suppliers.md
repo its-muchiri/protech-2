@@ -1,14 +1,14 @@
 ---
 title: 'N95 and Surgical Masks Bulk Suppliers: 2026 Price Guide'
-description: Kenya buying guide to n95 and surgical masks bulk suppliers. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to n95 and surgical masks bulk suppliers. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: n95-and-surgical-masks-bulk-suppliers
-primary_keyword: N95 and surgical masks bulk suppliers
+primary_keyword: 'N95 and surgical masks bulk suppliers'
 secondary_keywords:
-- chromatography equipment Kenya
-- biomedical waste management equipment Kenya
-- hospital oxygen piping Kenya
-- multi-parameter patient monitor Kenya
-- newborn unit equipment Kenya
+- 'chromatography equipment Kenya'
+- 'biomedical waste management equipment Kenya'
+- 'hospital oxygen piping Kenya'
+- 'multi-parameter patient monitor Kenya'
+- 'newborn unit equipment Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

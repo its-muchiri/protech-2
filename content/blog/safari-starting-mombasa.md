@@ -1,14 +1,14 @@
 ---
 title: 'Safari Starting Mombasa: Complete Guide'
-description: Kenya safari guide covering safari starting mombasa, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering safari starting mombasa, including what is included, pricing, and booking advice.'
 slug: safari-starting-mombasa
-primary_keyword: Safari starting Mombasa
+primary_keyword: 'Safari starting Mombasa'
 secondary_keywords:
-- Price for 4 day Samburu Ashnil luxury package deal
-- Buy 7 day Kenya budget adventure group package tour
-- Quote needed 4 day Samburu luxury lodge package
-- Buy 3 get 1 free Kenya safari package deal (hypothetical offer search)
-- Purchase upgrade Kenya safari package private jeep
+- 'Price for 4 day Samburu Ashnil luxury package deal'
+- 'Buy 7 day Kenya budget adventure group package tour'
+- 'Quote needed 4 day Samburu luxury lodge package'
+- 'Buy 3 get 1 free Kenya safari package deal (hypothetical offer search)'
+- 'Purchase upgrade Kenya safari package private jeep'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

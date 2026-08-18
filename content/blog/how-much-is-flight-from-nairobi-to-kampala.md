@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is Flight from Nairobi to Kampala: Complete Guide'
-description: Everything you need to know about how much is flight from nairobi to kampala, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is flight from nairobi to kampala, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-flight-from-nairobi-to-kampala
-primary_keyword: how much is flight from nairobi to kampala
+primary_keyword: 'how much is flight from nairobi to kampala'
 secondary_keywords:
-- flight from nairobi to mombasa how many hours
-- international flights from mombasa
-- flights from mombasa kenya to lamu kenya
-- flights to mombasa from lusaka
-- flights from mombasa to migori
+- 'flight from nairobi to mombasa how many hours'
+- 'international flights from mombasa'
+- 'flights from mombasa kenya to lamu kenya'
+- 'flights to mombasa from lusaka'
+- 'flights from mombasa to migori'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flight Nairobi to Pemba Island: Complete Guide'
-description: Everything you need to know about flight nairobi to pemba island, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight nairobi to pemba island, including routes, airlines, booking tips, and fares.'
 slug: flight-nairobi-to-pemba-island
-primary_keyword: flight nairobi to pemba island
+primary_keyword: 'flight nairobi to pemba island'
 secondary_keywords:
-- ethiopian airlines flight from nairobi to addis ababa today
-- ethiopian airlines from nairobi to doha price
-- ethiopian airlines office nairobi location
-- price of flight from nairobi to dubai
-- cheap flights nairobi to london
+- 'ethiopian airlines flight from nairobi to addis ababa today'
+- 'ethiopian airlines from nairobi to doha price'
+- 'ethiopian airlines office nairobi location'
+- 'price of flight from nairobi to dubai'
+- 'cheap flights nairobi to london'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

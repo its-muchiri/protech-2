@@ -1,14 +1,14 @@
 ---
 title: 'Vein Finder Device for Sale: 2026 Price Guide'
-description: Kenya buying guide to vein finder device for sale. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to vein finder device for sale. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: vein-finder-device-for-sale
-primary_keyword: Vein finder device for sale
+primary_keyword: 'Vein finder device for sale'
 secondary_keywords:
-- N95 and surgical masks bulk suppliers in Kenya
-- Second hand dialysis machine for sale in Kenya
-- Autopsy table and instruments for sale
-- PPB approved list of medical devices
-- Phlebotomy chair for blood collection
+- 'N95 and surgical masks bulk suppliers in Kenya'
+- 'Second hand dialysis machine for sale in Kenya'
+- 'Autopsy table and instruments for sale'
+- 'PPB approved list of medical devices'
+- 'Phlebotomy chair for blood collection'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

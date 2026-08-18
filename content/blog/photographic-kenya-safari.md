@@ -1,14 +1,14 @@
 ---
 title: 'Photographic Kenya Safari: Complete Guide'
-description: Kenya safari guide covering photographic kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering photographic kenya safari, including what is included, pricing, and booking advice.'
 slug: photographic-kenya-safari
-primary_keyword: Photographic Kenya safari
+primary_keyword: 'Photographic Kenya safari'
 secondary_keywords:
-- Secure package with hot air balloon Masai Mara booking
-- Quote for accessible wheelchair friendly Kenya safari package
-- Book peak season Kenya safari package availability check
-- Reserve 9 day custom accessible Laikipia conservancy safari package quote
-- Quote 6 day Aberdares The Ark Treetops unique package price
+- 'Secure package with hot air balloon Masai Mara booking'
+- 'Quote for accessible wheelchair friendly Kenya safari package'
+- 'Book peak season Kenya safari package availability check'
+- 'Reserve 9 day custom accessible Laikipia conservancy safari package quote'
+- 'Quote 6 day Aberdares The Ark Treetops unique package price'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

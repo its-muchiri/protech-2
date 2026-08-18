@@ -1,14 +1,14 @@
 ---
 title: 'Rwandair Flights from Nairobi to Johannesburg: Complete Guide'
-description: Everything you need to know about rwandair flights from nairobi to johannesburg, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about rwandair flights from nairobi to johannesburg, including routes, airlines, booking tips, and fares.'
 slug: rwandair-flights-from-nairobi-to-johannesburg
-primary_keyword: rwandair flights from nairobi to johannesburg
+primary_keyword: 'rwandair flights from nairobi to johannesburg'
 secondary_keywords:
-- domestic flight from nairobi to mombasa
-- lufthansa flight from nairobi to frankfurt
-- flight from nairobi to geneva
-- flight from nairobi to heathrow today
-- indigo flight from nairobi to ahmedabad
+- 'domestic flight from nairobi to mombasa'
+- 'lufthansa flight from nairobi to frankfurt'
+- 'flight from nairobi to geneva'
+- 'flight from nairobi to heathrow today'
+- 'indigo flight from nairobi to ahmedabad'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

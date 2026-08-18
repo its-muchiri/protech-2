@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Nairobi to Saudi Arabia: Complete Guide'
-description: Everything you need to know about cheap flights from nairobi to saudi arabia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from nairobi to saudi arabia, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-nairobi-to-saudi-arabia
-primary_keyword: cheap flights from nairobi to saudi arabia
+primary_keyword: 'cheap flights from nairobi to saudi arabia'
 secondary_keywords:
-- flights to mombasa from nairobi prices
-- flights from kisumu to homa bay
-- flight rates from kisumu to nairobi
-- flights to kisumu from jkia
-- kisumu flights
+- 'flights to mombasa from nairobi prices'
+- 'flights from kisumu to homa bay'
+- 'flight rates from kisumu to nairobi'
+- 'flights to kisumu from jkia'
+- 'kisumu flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

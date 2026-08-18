@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Tel Aviv: Complete Guide'
-description: Everything you need to know about flights nairobi to tel aviv, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to tel aviv, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-tel-aviv
-primary_keyword: flights nairobi to tel aviv
+primary_keyword: 'flights nairobi to tel aviv'
 secondary_keywords:
-- 748 flights to mombasa
-- are there direct flights from kenya to usa
-- flights from kenya to brazil
-- flights from kenya to cambodia
-- flights from kenya to doha
+- '748 flights to mombasa'
+- 'are there direct flights from kenya to usa'
+- 'flights from kenya to brazil'
+- 'flights from kenya to cambodia'
+- 'flights from kenya to doha'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight Lhr to Nbo: Complete Guide'
-description: Everything you need to know about kq flight lhr to nbo, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight lhr to nbo, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-lhr-to-nbo
-primary_keyword: kq flight lhr to nbo
+primary_keyword: 'kq flight lhr to nbo'
 secondary_keywords:
-- kq flights to arusha
-- kq flights to bujumbura
-- kq flight crash
-- kq flight delays today
-- kq flights to ethiopia
+- 'kq flights to arusha'
+- 'kq flights to bujumbura'
+- 'kq flight crash'
+- 'kq flight delays today'
+- 'kq flights to ethiopia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

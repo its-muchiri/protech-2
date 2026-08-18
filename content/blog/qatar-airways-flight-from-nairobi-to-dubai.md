@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways Flight from Nairobi to Dubai: Complete Guide'
-description: Everything you need to know about qatar airways flight from nairobi to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways flight from nairobi to dubai, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-flight-from-nairobi-to-dubai
-primary_keyword: qatar airways flight from nairobi to dubai
+primary_keyword: 'qatar airways flight from nairobi to dubai'
 secondary_keywords:
-- flights from mombasa to cape town
-- flights from mombasa to dubai
-- cheap flights from entebbe to mombasa
-- flights from gatwick to mombasa
-- flights from mombasa to milan italy
+- 'flights from mombasa to cape town'
+- 'flights from mombasa to dubai'
+- 'cheap flights from entebbe to mombasa'
+- 'flights from gatwick to mombasa'
+- 'flights from mombasa to milan italy'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

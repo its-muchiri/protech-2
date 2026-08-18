@@ -1,14 +1,14 @@
 ---
 title: 'Dubai Flights from Kenya: Complete Guide'
-description: Everything you need to know about dubai flights from kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about dubai flights from kenya, including routes, airlines, booking tips, and fares.'
 slug: dubai-flights-from-kenya
-primary_keyword: dubai flights from kenya
+primary_keyword: 'dubai flights from kenya'
 secondary_keywords:
-- ethiopian airlines contact nairobi telephone number
-- jambojet flight from nairobi to kisumu
-- ethiopian airlines from doha to nairobi price two way ticket
-- kenya to ethiopia flight time
-- flights nairobi to accra
+- 'ethiopian airlines contact nairobi telephone number'
+- 'jambojet flight from nairobi to kisumu'
+- 'ethiopian airlines from doha to nairobi price two way ticket'
+- 'kenya to ethiopia flight time'
+- 'flights nairobi to accra'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

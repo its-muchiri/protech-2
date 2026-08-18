@@ -1,14 +1,14 @@
 ---
 title: '4-channel TENS Machine for Clinic Use: 2026 Price Guide'
-description: Kenya buying guide to 4-channel tens machine for clinic use. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to 4-channel tens machine for clinic use. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: 4-channel-tens-machine-for-clinic-use
-primary_keyword: 4-channel TENS machine for clinic use
+primary_keyword: '4-channel TENS machine for clinic use'
 secondary_keywords:
-- Autopsy table suppliers in Mombasa
-- Vaccine carrier box and cold chain equipment
-- List of medical equipment suppliers in Nairobi
-- Medical equipment spare parts in Nairobi
-- Location-Specific Variations
+- 'Autopsy table suppliers in Mombasa'
+- 'Vaccine carrier box and cold chain equipment'
+- 'List of medical equipment suppliers in Nairobi'
+- 'Medical equipment spare parts in Nairobi'
+- 'Location-Specific Variations'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

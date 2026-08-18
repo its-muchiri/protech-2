@@ -1,14 +1,14 @@
 ---
 title: 'Shimba Hills National Reserve Safari: Complete Guide'
-description: Kenya safari guide covering shimba hills national reserve safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering shimba hills national reserve safari, including what is included, pricing, and booking advice.'
 slug: shimba-hills-national-reserve-safari
-primary_keyword: Shimba Hills National Reserve safari
+primary_keyword: 'Shimba Hills National Reserve safari'
 secondary_keywords:
-- Great Migration Kenya safari
-- Eco safari Kenya
-- 5 day Kenya safari
-- Kenya safari price
-- Value Kenya safari
+- 'Great Migration Kenya safari'
+- 'Eco safari Kenya'
+- '5 day Kenya safari'
+- 'Kenya safari price'
+- 'Value Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Vacation Safari: Complete Guide'
-description: Kenya safari guide covering kenya vacation safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya vacation safari, including what is included, pricing, and booking advice.'
 slug: kenya-vacation-safari
-primary_keyword: Kenya vacation safari
+primary_keyword: 'Kenya vacation safari'
 secondary_keywords:
-- Kenya safari price quote
-- Kenya safari booking confirmation details
-- Bush meals included Kenya safari package price
-- Reserve private safari vehicle package
-- Cost of 7 day Samburu Laikipia luxury package
+- 'Kenya safari price quote'
+- 'Kenya safari booking confirmation details'
+- 'Bush meals included Kenya safari package price'
+- 'Reserve private safari vehicle package'
+- 'Cost of 7 day Samburu Laikipia luxury package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

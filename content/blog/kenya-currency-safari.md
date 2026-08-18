@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Currency Safari: Complete Guide'
-description: Kenya safari guide covering kenya currency safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya currency safari, including what is included, pricing, and booking advice.'
 slug: kenya-currency-safari
-primary_keyword: Kenya currency safari
+primary_keyword: 'Kenya currency safari'
 secondary_keywords:
-- Tsavo lodges
-- Birding tours Kenya
-- Rhino safari Kenya
-- Safari starting Nairobi
-- Kenya safari from Australia
+- 'Tsavo lodges'
+- 'Birding tours Kenya'
+- 'Rhino safari Kenya'
+- 'Safari starting Nairobi'
+- 'Kenya safari from Australia'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

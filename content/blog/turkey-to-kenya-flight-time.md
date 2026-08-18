@@ -1,14 +1,14 @@
 ---
 title: 'Turkey to Kenya Flight Time: Complete Guide'
-description: Everything you need to know about turkey to kenya flight time, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkey to kenya flight time, including routes, airlines, booking tips, and fares.'
 slug: turkey-to-kenya-flight-time
-primary_keyword: turkey to kenya flight time
+primary_keyword: 'turkey to kenya flight time'
 secondary_keywords:
-- kenya airways flight from nairobi to new delhi
-- how much is kq flight from nairobi to eldoret
-- kenya airways flight from nairobi to lagos today
-- kenya airways flight status
-- kenya airways flight from nairobi to mombasa
+- 'kenya airways flight from nairobi to new delhi'
+- 'how much is kq flight from nairobi to eldoret'
+- 'kenya airways flight from nairobi to lagos today'
+- 'kenya airways flight status'
+- 'kenya airways flight from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

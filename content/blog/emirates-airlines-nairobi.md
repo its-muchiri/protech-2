@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Airlines Nairobi: Complete Guide'
-description: Everything you need to know about emirates airlines nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates airlines nairobi, including routes, airlines, booking tips, and fares.'
 slug: emirates-airlines-nairobi
-primary_keyword: emirates airlines nairobi
+primary_keyword: 'emirates airlines nairobi'
 secondary_keywords:
-- emirates nairobi flights
-- emirates nairobi office telephone number kenya
-- emirates nairobi to new york
-- emirates airline kenya reviews
-- emirates kenya email address nairobi
+- 'emirates nairobi flights'
+- 'emirates nairobi office telephone number kenya'
+- 'emirates nairobi to new york'
+- 'emirates airline kenya reviews'
+- 'emirates kenya email address nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

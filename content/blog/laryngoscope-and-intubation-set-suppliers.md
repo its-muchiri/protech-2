@@ -1,14 +1,14 @@
 ---
 title: 'Laryngoscope and Intubation Set Suppliers: 2026 Price Guide'
-description: Kenya buying guide to laryngoscope and intubation set suppliers. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to laryngoscope and intubation set suppliers. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: laryngoscope-and-intubation-set-suppliers
-primary_keyword: Laryngoscope and intubation set suppliers
+primary_keyword: 'Laryngoscope and intubation set suppliers'
 secondary_keywords:
-- Infrared non-contact thermometer for sale
-- Medical equipment tenders and procurement in Kenya 2025
-- Siemens Healthineers contact Kenya
-- NGO medical equipment procurement in Kenya
-- Diagnostic lab setup cost in Eldoret
+- 'Infrared non-contact thermometer for sale'
+- 'Medical equipment tenders and procurement in Kenya 2025'
+- 'Siemens Healthineers contact Kenya'
+- 'NGO medical equipment procurement in Kenya'
+- 'Diagnostic lab setup cost in Eldoret'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Domestic Flight Booking in Kenya: Complete Guide'
-description: Everything you need to know about domestic flight booking in kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about domestic flight booking in kenya, including routes, airlines, booking tips, and fares.'
 slug: domestic-flight-booking-in-kenya
-primary_keyword: domestic flight booking in kenya
+primary_keyword: 'domestic flight booking in kenya'
 secondary_keywords:
-- ethiopian airlines from doha to nairobi price one way ticket
-- 1 ethiopian birr to kenyan shillings
-- flights nairobi to abu dhabi
-- flights nairobi to bujumbura
-- berlin to nairobi flights
+- 'ethiopian airlines from doha to nairobi price one way ticket'
+- '1 ethiopian birr to kenyan shillings'
+- 'flights nairobi to abu dhabi'
+- 'flights nairobi to bujumbura'
+- 'berlin to nairobi flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

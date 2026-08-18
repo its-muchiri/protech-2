@@ -1,14 +1,14 @@
 ---
 title: 'Pediatric Hospital Bed Suppliers in Kisumu: 2026 Price Guide'
-description: Kenya buying guide to pediatric hospital bed suppliers in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to pediatric hospital bed suppliers in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: pediatric-hospital-bed-suppliers-in-kisumu
-primary_keyword: Pediatric hospital bed suppliers in Kisumu
+primary_keyword: 'Pediatric hospital bed suppliers in Kisumu'
 secondary_keywords:
-- Central monitoring station for ICU cost
-- Transport ventilator for ambulance
-- Laser therapy machine for pain relief in Nairobi
-- Posture mirror for clinic
-- Dental X-ray film and developer suppliers
+- 'Central monitoring station for ICU cost'
+- 'Transport ventilator for ambulance'
+- 'Laser therapy machine for pain relief in Nairobi'
+- 'Posture mirror for clinic'
+- 'Dental X-ray film and developer suppliers'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

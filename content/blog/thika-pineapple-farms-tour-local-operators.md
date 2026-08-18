@@ -1,14 +1,14 @@
 ---
 title: 'Thika Pineapple Farms Tour Local Operators: Complete Guide'
-description: Kenya safari guide covering thika pineapple farms tour local operators, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering thika pineapple farms tour local operators, including what is included, pricing, and booking advice.'
 slug: thika-pineapple-farms-tour-local-operators
-primary_keyword: Thika pineapple farms tour local operators
+primary_keyword: 'Thika pineapple farms tour local operators'
 secondary_keywords:
-- SGR train packages Mombasa beach holiday
-- Mount Elgon climbing Kenya side tour operators
-- Karen Blixen Museum tour Nairobi price
-- Jocky Tours and Safaris price budget group tours
-- Book Kenya safari online comparison sites (SafariBookings, TourRadar)
+- 'SGR train packages Mombasa beach holiday'
+- 'Mount Elgon climbing Kenya side tour operators'
+- 'Karen Blixen Museum tour Nairobi price'
+- 'Jocky Tours and Safaris price budget group tours'
+- 'Book Kenya safari online comparison sites (SafariBookings, TourRadar)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

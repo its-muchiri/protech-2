@@ -1,14 +1,14 @@
 ---
 title: 'Folding Stretcher Price: 2026 Price Guide'
-description: Kenya buying guide to folding stretcher price. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to folding stretcher price. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: folding-stretcher-price
-primary_keyword: Folding stretcher price
+primary_keyword: 'Folding stretcher price'
 secondary_keywords:
-- hospital disinfectants Kenya
-- oxygen masks Kenya adult
-- Chlorhexidine solution Kenya
-- protective eyewear medical Kenya
-- pregnancy test kit Kenya price
+- 'hospital disinfectants Kenya'
+- 'oxygen masks Kenya adult'
+- 'Chlorhexidine solution Kenya'
+- 'protective eyewear medical Kenya'
+- 'pregnancy test kit Kenya price'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

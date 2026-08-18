@@ -1,14 +1,14 @@
 ---
 title: 'Digital Blood Pressure Monitor Wholesale: 2026 Price Guide'
-description: Kenya buying guide to digital blood pressure monitor wholesale. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to digital blood pressure monitor wholesale. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: digital-blood-pressure-monitor-wholesale
-primary_keyword: Digital blood pressure monitor wholesale
+primary_keyword: 'Digital blood pressure monitor wholesale'
 secondary_keywords:
-- Neurosurgery instruments cost in Kenya
-- Double dome surgical light price
-- Autoclave validation and testing services in Nairobi
-- Hospital bed rental services in Nairobi
-- Doctor''s stool and chair suppliers in Mombasa
+- 'Neurosurgery instruments cost in Kenya'
+- 'Double dome surgical light price'
+- 'Autoclave validation and testing services in Nairobi'
+- 'Hospital bed rental services in Nairobi'
+- 'Doctor''''s stool and chair suppliers in Mombasa'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

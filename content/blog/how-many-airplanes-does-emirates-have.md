@@ -1,14 +1,14 @@
 ---
 title: 'How Many Airplanes Does Emirates Have: Complete Guide'
-description: Everything you need to know about how many airplanes does emirates have, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how many airplanes does emirates have, including routes, airlines, booking tips, and fares.'
 slug: how-many-airplanes-does-emirates-have
-primary_keyword: how many airplanes does emirates have
+primary_keyword: 'how many airplanes does emirates have'
 secondary_keywords:
-- flights from kisumu to uganda
-- cheap flights from wilson airport to eldoret
-- flight to eldoret price
-- flights from eldoret to malindi
-- flights from eldoret to ukunda
+- 'flights from kisumu to uganda'
+- 'cheap flights from wilson airport to eldoret'
+- 'flight to eldoret price'
+- 'flights from eldoret to malindi'
+- 'flights from eldoret to ukunda'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

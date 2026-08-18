@@ -1,14 +1,14 @@
 ---
 title: 'Purchase 12 Day East Africa Highlights Booking: Complete Guide'
-description: Kenya safari guide covering purchase 12 day east africa highlights booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase 12 day east africa highlights booking, including what is included, pricing, and booking advice.'
 slug: purchase-12-day-east-africa-highlights-booking
-primary_keyword: Purchase 12 day East Africa highlights booking
+primary_keyword: 'Purchase 12 day East Africa highlights booking'
 secondary_keywords:
-- Purchase Kenya safari packing list consultation service UK expert advice online booking
-- Kenya safari experience
-- Safari Samburu
-- Giraffe Centre Nairobi visit
-- Bird watching Kenya safari
+- 'Purchase Kenya safari packing list consultation service UK expert advice online booking'
+- 'Kenya safari experience'
+- 'Safari Samburu'
+- 'Giraffe Centre Nairobi visit'
+- 'Bird watching Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

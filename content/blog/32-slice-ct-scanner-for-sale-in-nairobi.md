@@ -1,14 +1,14 @@
 ---
 title: '32-slice CT Scanner for Sale in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to 32-slice ct scanner for sale in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to 32-slice ct scanner for sale in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: 32-slice-ct-scanner-for-sale-in-nairobi
-primary_keyword: 32-slice CT scanner for sale in Nairobi
+primary_keyword: '32-slice CT scanner for sale in Nairobi'
 secondary_keywords:
-- shipping medical equipment to Kenya from UK
-- patient care products Kenya
-- new medical technologies Kenya
-- medical equipment showrooms Kenya
-- wound dressings Kenya price
+- 'shipping medical equipment to Kenya from UK'
+- 'patient care products Kenya'
+- 'new medical technologies Kenya'
+- 'medical equipment showrooms Kenya'
+- 'wound dressings Kenya price'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

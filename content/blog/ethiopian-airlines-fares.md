@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Fares: Complete Guide'
-description: Everything you need to know about ethiopian airlines fares, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines fares, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-fares
-primary_keyword: ethiopian airlines fares
+primary_keyword: 'ethiopian airlines fares'
 secondary_keywords:
-- flight 540 nairobi to malindi
-- flight from nairobi to abuja
-- turkish airlines nairobi email address
-- kenya to turkey flight price
-- turkish airlines terminal in nairobi
+- 'flight 540 nairobi to malindi'
+- 'flight from nairobi to abuja'
+- 'turkish airlines nairobi email address'
+- 'kenya to turkey flight price'
+- 'turkish airlines terminal in nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

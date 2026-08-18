@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Fly-in Safari Packages Price Comparison UK: Complete Guide'
-description: Kenya safari guide covering kenya fly-in safari packages price comparison uk, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya fly-in safari packages price comparison uk, including what is included, pricing, and booking advice.'
 slug: kenya-fly-in-safari-packages-price-comparison-uk
-primary_keyword: Kenya fly-in safari packages price comparison UK
+primary_keyword: 'Kenya fly-in safari packages price comparison UK'
 secondary_keywords:
-- Secure accessible luxury safari package Kenya operator
-- Local tour companies Thika Kenya
-- Tsavo East budget safari company Diani
-- Malindi travel agency beach holidays
-- Private guided tours Kenya
+- 'Secure accessible luxury safari package Kenya operator'
+- 'Local tour companies Thika Kenya'
+- 'Tsavo East budget safari company Diani'
+- 'Malindi travel agency beach holidays'
+- 'Private guided tours Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

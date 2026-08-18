@@ -1,14 +1,14 @@
 ---
 title: 'Does Emirates Fly to Nairobi: Complete Guide'
-description: Everything you need to know about does emirates fly to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about does emirates fly to nairobi, including routes, airlines, booking tips, and fares.'
 slug: does-emirates-fly-to-nairobi
-primary_keyword: does emirates fly to nairobi
+primary_keyword: 'does emirates fly to nairobi'
 secondary_keywords:
-- kq flights from london to nairobi today
-- kq flights nairobi to london
-- kq flight radar
-- kq flight schedule kisumu to nairobi
-- kq flight new york to nairobi
+- 'kq flights from london to nairobi today'
+- 'kq flights nairobi to london'
+- 'kq flight radar'
+- 'kq flight schedule kisumu to nairobi'
+- 'kq flight new york to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

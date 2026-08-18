@@ -1,14 +1,14 @@
 ---
 title: 'Purchase Overland Truck Safari Kenya Booking: Complete Guide'
-description: Kenya safari guide covering purchase overland truck safari kenya booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase overland truck safari kenya booking, including what is included, pricing, and booking advice.'
 slug: purchase-overland-truck-safari-kenya-booking
-primary_keyword: Purchase overland truck safari Kenya booking
+primary_keyword: 'Purchase overland truck safari Kenya booking'
 secondary_keywords:
-- Kenya safari guide training
-- 5 day Tsavo East West safari from Mombasa
-- What to wear on Kenya safari June
-- Great Rift Valley safari Kenya
-- Kenia safari precios (Spanish)
+- 'Kenya safari guide training'
+- '5 day Tsavo East West safari from Mombasa'
+- 'What to wear on Kenya safari June'
+- 'Great Rift Valley safari Kenya'
+- 'Kenia safari precios (Spanish)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

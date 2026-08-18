@@ -1,14 +1,14 @@
 ---
 title: 'All-inclusive Kenya Safari: Complete Guide'
-description: Kenya safari guide covering all-inclusive kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering all-inclusive kenya safari, including what is included, pricing, and booking advice.'
 slug: all-inclusive-kenya-safari
-primary_keyword: All-inclusive Kenya safari
+primary_keyword: 'All-inclusive Kenya safari'
 secondary_keywords:
-- UK travel advice Kenya safari booking safe operators
-- Top rated Kenya safari specialists UK experts
-- Reserve Kenya safari Easter 2026 UK family package availability
-- Luxury all-inclusive Kenya safari reviews Forbes Travel Guide
-- Reserve private Samburu & Laikipia safari tour online UK quote
+- 'UK travel advice Kenya safari booking safe operators'
+- 'Top rated Kenya safari specialists UK experts'
+- 'Reserve Kenya safari Easter 2026 UK family package availability'
+- 'Luxury all-inclusive Kenya safari reviews Forbes Travel Guide'
+- 'Reserve private Samburu & Laikipia safari tour online UK quote'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from London to Kenya Nairobi: Complete Guide'
-description: Everything you need to know about flights from london to kenya nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from london to kenya nairobi, including routes, airlines, booking tips, and fares.'
 slug: flights-from-london-to-kenya-nairobi
-primary_keyword: flights from london to kenya nairobi
+primary_keyword: 'flights from london to kenya nairobi'
 secondary_keywords:
-- flight from nairobi to singapore
-- the cheapest flight from nairobi to dubai
-- flight time from nairobi to usa
-- what time is the last flight from nairobi to kisumu
-- flight duration from nairobi to new york
+- 'flight from nairobi to singapore'
+- 'the cheapest flight from nairobi to dubai'
+- 'flight time from nairobi to usa'
+- 'what time is the last flight from nairobi to kisumu'
+- 'flight duration from nairobi to new york'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Brazil: Complete Guide'
-description: Everything you need to know about flights from kenya to brazil, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to brazil, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-brazil
-primary_keyword: flights from kenya to brazil
+primary_keyword: 'flights from kenya to brazil'
 secondary_keywords:
-- emirates flights from manila
-- emirates flights from orlando to india
-- emirates flights from pakistan to uk
-- emirates flight query
-- emirates flights from rome to dubai today
+- 'emirates flights from manila'
+- 'emirates flights from orlando to india'
+- 'emirates flights from pakistan to uk'
+- 'emirates flight query'
+- 'emirates flights from rome to dubai today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

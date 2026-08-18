@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Seychelles Direct: Complete Guide'
-description: Everything you need to know about flights from nairobi to seychelles direct, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to seychelles direct, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-seychelles-direct
-primary_keyword: flights from nairobi to seychelles direct
+primary_keyword: 'flights from nairobi to seychelles direct'
 secondary_keywords:
-- flights from nairobi wilson to malindi
-- flights from nairobi to yyz
-- cheap flights from nairobi to lagos
-- kenya airways flight schedule from nairobi to entebbe
-- flights from mombasa to zanzibar
+- 'flights from nairobi wilson to malindi'
+- 'flights from nairobi to yyz'
+- 'cheap flights from nairobi to lagos'
+- 'kenya airways flight schedule from nairobi to entebbe'
+- 'flights from mombasa to zanzibar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

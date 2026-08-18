@@ -1,14 +1,14 @@
 ---
 title: 'Camping Sites Kenya Parks: Complete Guide'
-description: Kenya safari guide covering camping sites kenya parks, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering camping sites kenya parks, including what is included, pricing, and booking advice.'
 slug: camping-sites-kenya-parks
-primary_keyword: Camping sites Kenya parks
+primary_keyword: 'Camping sites Kenya parks'
 secondary_keywords:
-- Two week Kenya safari tour cost
-- Book Masai Mara conservancy safari package
-- Luxury fly-in Kenya safari quote
-- Child friendly safari lodge package Kenya booking
-- Budget Kenya safari package book
+- 'Two week Kenya safari tour cost'
+- 'Book Masai Mara conservancy safari package'
+- 'Luxury fly-in Kenya safari quote'
+- 'Child friendly safari lodge package Kenya booking'
+- 'Budget Kenya safari package book'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

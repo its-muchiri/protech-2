@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines from Nairobi: Complete Guide'
-description: Everything you need to know about ethiopian airlines from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines from nairobi, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-from-nairobi
-primary_keyword: ethiopian airlines from nairobi
+primary_keyword: 'ethiopian airlines from nairobi'
 secondary_keywords:
-- emirates flights 1st class
-- emirates flights 202
-- emirates flight 368
-- emirates flight 413
-- emirates flight 606
+- 'emirates flights 1st class'
+- 'emirates flights 202'
+- 'emirates flight 368'
+- 'emirates flight 413'
+- 'emirates flight 606'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Uganda: Complete Guide'
-description: Everything you need to know about flights from mombasa to uganda, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to uganda, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-uganda
-primary_keyword: flights from mombasa to uganda
+primary_keyword: 'flights from mombasa to uganda'
 secondary_keywords:
-- nairobi to uganda flights
-- flights nairobi to watamu
-- yyz to nairobi flights
-- 1 bedroom nairobi west
-- 8 flights
+- 'nairobi to uganda flights'
+- 'flights nairobi to watamu'
+- 'yyz to nairobi flights'
+- '1 bedroom nairobi west'
+- '8 flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways Nairobi Office Contacts: Complete Guide'
-description: Everything you need to know about qatar airways nairobi office contacts, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways nairobi office contacts, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-nairobi-office-contacts
-primary_keyword: qatar airways nairobi office contacts
+primary_keyword: 'qatar airways nairobi office contacts'
 secondary_keywords:
-- emirates flight from yyz to dxb
-- emirates flights from zimbabwe to uk price today
-- emirates flight 005
-- emirates flights 203
-- emirates flight 373
+- 'emirates flight from yyz to dxb'
+- 'emirates flights from zimbabwe to uk price today'
+- 'emirates flight 005'
+- 'emirates flights 203'
+- 'emirates flight 373'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Long Duration Kenya Safari: Complete Guide'
-description: Kenya safari guide covering long duration kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering long duration kenya safari, including what is included, pricing, and booking advice.'
 slug: long-duration-kenya-safari
-primary_keyword: Long duration Kenya safari
+primary_keyword: 'Long duration Kenya safari'
 secondary_keywords:
-- Kenya holiday safari
-- Safari Amboseli
-- Shimba Hills National Reserve safari
-- Kenya safari with kids
-- Custom Kenya safari
+- 'Kenya holiday safari'
+- 'Safari Amboseli'
+- 'Shimba Hills National Reserve safari'
+- 'Kenya safari with kids'
+- 'Custom Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

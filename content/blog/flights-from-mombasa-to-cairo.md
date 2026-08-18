@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Cairo: Complete Guide'
-description: Everything you need to know about flights from mombasa to cairo, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to cairo, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-cairo
-primary_keyword: flights from mombasa to cairo
+primary_keyword: 'flights from mombasa to cairo'
 secondary_keywords:
-- kq flight accra to nairobi
-- kq flying blue
-- kq flight code
-- kq flight delays
-- kq flights to entebbe today
+- 'kq flight accra to nairobi'
+- 'kq flying blue'
+- 'kq flight code'
+- 'kq flight delays'
+- 'kq flights to entebbe today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

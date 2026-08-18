@@ -1,14 +1,14 @@
 ---
 title: 'I-fly Air Kenya: Complete Guide'
-description: Everything you need to know about i-fly air kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about i-fly air kenya, including routes, airlines, booking tips, and fares.'
 slug: i-fly-air-kenya
-primary_keyword: i-fly air kenya
+primary_keyword: 'i-fly air kenya'
 secondary_keywords:
-- flights for kenya
-- flights from kenya to germany today
-- flights from kenya to houston
-- flights from hyderabad to nairobi kenya
-- flights from kenya to jamaica
+- 'flights for kenya'
+- 'flights from kenya to germany today'
+- 'flights from kenya to houston'
+- 'flights from hyderabad to nairobi kenya'
+- 'flights from kenya to jamaica'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

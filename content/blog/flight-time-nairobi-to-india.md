@@ -1,14 +1,14 @@
 ---
 title: 'Flight Time Nairobi to India: Complete Guide'
-description: Everything you need to know about flight time nairobi to india, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight time nairobi to india, including routes, airlines, booking tips, and fares.'
 slug: flight-time-nairobi-to-india
-primary_keyword: flight time nairobi to india
+primary_keyword: 'flight time nairobi to india'
 secondary_keywords:
-- flight from kenya to venezuela
-- flight from kenya to washington
-- flights from nairobi to yaounde
-- flight from kenya to zimbabwe price
-- flights to kenya 2024
+- 'flight from kenya to venezuela'
+- 'flight from kenya to washington'
+- 'flights from nairobi to yaounde'
+- 'flight from kenya to zimbabwe price'
+- 'flights to kenya 2024'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

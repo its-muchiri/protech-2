@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Mumbai to Nairobi Today: Complete Guide'
-description: Everything you need to know about kq flight from mumbai to nairobi today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from mumbai to nairobi today, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-mumbai-to-nairobi-today
-primary_keyword: kq flight from mumbai to nairobi today
+primary_keyword: 'kq flight from mumbai to nairobi today'
 secondary_keywords:
-- flights from mombasa to ukunda
-- flights zurich mombasa
-- flights from kisumu to wilson airport
-- flights from kisumu to diani
-- flights in kisumu
+- 'flights from mombasa to ukunda'
+- 'flights zurich mombasa'
+- 'flights from kisumu to wilson airport'
+- 'flights from kisumu to diani'
+- 'flights in kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

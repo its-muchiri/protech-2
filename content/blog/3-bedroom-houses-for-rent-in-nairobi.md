@@ -1,14 +1,14 @@
 ---
 title: '3 Bedroom Houses for Rent in Nairobi: Complete Guide'
-description: Everything you need to know about 3 bedroom houses for rent in nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about 3 bedroom houses for rent in nairobi, including routes, airlines, booking tips, and fares.'
 slug: 3-bedroom-houses-for-rent-in-nairobi
-primary_keyword: 3 bedroom houses for rent in nairobi
+primary_keyword: '3 bedroom houses for rent in nairobi'
 secondary_keywords:
-- emirates flight from zimbabwe to dubai
-- emirates flights 19 august
-- emirates flights 2023
-- emirates flight 3
-- emirates flight 435
+- 'emirates flight from zimbabwe to dubai'
+- 'emirates flights 19 august'
+- 'emirates flights 2023'
+- 'emirates flight 3'
+- 'emirates flight 435'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

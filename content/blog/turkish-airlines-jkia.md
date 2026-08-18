@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Jkia: Complete Guide'
-description: Everything you need to know about turkish airlines jkia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines jkia, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-jkia
-primary_keyword: turkish airlines jkia
+primary_keyword: 'turkish airlines jkia'
 secondary_keywords:
-- flights from nairobi to paris today
-- cheap flights from nairobi to qatar
-- renegade flights from nairobi to kisumu
-- seychelles flights from nairobi
-- flights from nairobi to usa today
+- 'flights from nairobi to paris today'
+- 'cheap flights from nairobi to qatar'
+- 'renegade flights from nairobi to kisumu'
+- 'seychelles flights from nairobi'
+- 'flights from nairobi to usa today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

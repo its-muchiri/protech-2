@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight Status Jfk to Nbo: Complete Guide'
-description: Everything you need to know about kq flight status jfk to nbo, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight status jfk to nbo, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-status-jfk-to-nbo
-primary_keyword: kq flight status jfk to nbo
+primary_keyword: 'kq flight status jfk to nbo'
 secondary_keywords:
-- flights from nairobi to seychelles direct
-- flights from nairobi to south korea
-- flights from mombasa to wilson airport
-- airlines that fly to mombasa
-- cheap flights from mombasa to zanzibar
+- 'flights from nairobi to seychelles direct'
+- 'flights from nairobi to south korea'
+- 'flights from mombasa to wilson airport'
+- 'airlines that fly to mombasa'
+- 'cheap flights from mombasa to zanzibar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Watamu: Complete Guide'
-description: Everything you need to know about flights nairobi to watamu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to watamu, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-watamu
-primary_keyword: flights nairobi to watamu
+primary_keyword: 'flights nairobi to watamu'
 secondary_keywords:
-- fly nairobi to victoria falls
-- nairobi to washington dc flights
-- nairobi to zanzibar flights
-- 2 bedroom apartments in nairobi for sale
-- emirates flights from auckland
+- 'fly nairobi to victoria falls'
+- 'nairobi to washington dc flights'
+- 'nairobi to zanzibar flights'
+- '2 bedroom apartments in nairobi for sale'
+- 'emirates flights from auckland'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

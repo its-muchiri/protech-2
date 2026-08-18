@@ -1,14 +1,14 @@
 ---
 title: 'Maldives Flights from Kenya: Complete Guide'
-description: Everything you need to know about maldives flights from kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about maldives flights from kenya, including routes, airlines, booking tips, and fares.'
 slug: maldives-flights-from-kenya
-primary_keyword: maldives flights from kenya
+primary_keyword: 'maldives flights from kenya'
 secondary_keywords:
-- flight zagreb nairobi
-- cost of flight from nairobi to usa
-- 540 flight from nairobi to mombasa
-- how much is the flight 748 from nairobi to kisumu
-- turkish airlines nairobi airport
+- 'flight zagreb nairobi'
+- 'cost of flight from nairobi to usa'
+- '540 flight from nairobi to mombasa'
+- 'how much is the flight 748 from nairobi to kisumu'
+- 'turkish airlines nairobi airport'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

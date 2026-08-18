@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flight from Nairobi to Zanzibar: Complete Guide'
-description: Everything you need to know about cheap flight from nairobi to zanzibar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flight from nairobi to zanzibar, including routes, airlines, booking tips, and fares.'
 slug: cheap-flight-from-nairobi-to-zanzibar
-primary_keyword: cheap flight from nairobi to zanzibar
+primary_keyword: 'cheap flight from nairobi to zanzibar'
 secondary_keywords:
-- flights from kenya to bali
-- flights from beirut to kenya
-- cheap flights from kenya to uk
-- flights from kenya to edmonton
-- kenya airways flights from freetown to accra
+- 'flights from kenya to bali'
+- 'flights from beirut to kenya'
+- 'cheap flights from kenya to uk'
+- 'flights from kenya to edmonton'
+- 'kenya airways flights from freetown to accra'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

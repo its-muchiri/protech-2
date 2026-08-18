@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Family Safari Deals Europe Based Operators: Complete Guide'
-description: Kenya safari guide covering kenya family safari deals europe based operators, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya family safari deals europe based operators, including what is included, pricing, and booking advice.'
 slug: kenya-family-safari-deals-europe-based-operators
-primary_keyword: Kenya family safari deals Europe based operators
+primary_keyword: 'Kenya family safari deals Europe based operators'
 secondary_keywords:
-- Private safari cost Kenya couple
-- Specific Needs & Logistics Searches
-- Kenya self-drive tour planning companies
-- Tsavo East 2 day safari from Watamu price comparison
-- Thika based contact for arranging Fourteen Falls trip
+- 'Private safari cost Kenya couple'
+- 'Specific Needs & Logistics Searches'
+- 'Kenya self-drive tour planning companies'
+- 'Tsavo East 2 day safari from Watamu price comparison'
+- 'Thika based contact for arranging Fourteen Falls trip'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

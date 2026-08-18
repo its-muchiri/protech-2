@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Manchester Today: Complete Guide'
-description: Everything you need to know about emirates flights from manchester today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from manchester today, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-manchester-today
-primary_keyword: emirates flights from manchester today
+primary_keyword: 'emirates flights from manchester today'
 secondary_keywords:
-- flight from nairobi to london heathrow
-- flight from nairobi to mauritius
-- flight ticket from nigeria to nairobi
-- flight from nairobi to portugal
-- flight from nairobi to romania
+- 'flight from nairobi to london heathrow'
+- 'flight from nairobi to mauritius'
+- 'flight ticket from nigeria to nairobi'
+- 'flight from nairobi to portugal'
+- 'flight from nairobi to romania'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

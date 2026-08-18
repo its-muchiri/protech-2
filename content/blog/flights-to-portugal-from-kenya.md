@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Portugal from Kenya: Complete Guide'
-description: Everything you need to know about flights to portugal from kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to portugal from kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-to-portugal-from-kenya
-primary_keyword: flights to portugal from kenya
+primary_keyword: 'flights to portugal from kenya'
 secondary_keywords:
-- how much is a flight from nairobi to south africa
-- flight from nairobi to japan
-- flight from nairobi to lagos today
-- flight from nairobi to migori
-- flight time from nairobi to new delhi
+- 'how much is a flight from nairobi to south africa'
+- 'flight from nairobi to japan'
+- 'flight from nairobi to lagos today'
+- 'flight from nairobi to migori'
+- 'flight time from nairobi to new delhi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

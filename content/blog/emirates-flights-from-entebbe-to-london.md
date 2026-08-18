@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Entebbe to London: Complete Guide'
-description: Everything you need to know about emirates flights from entebbe to london, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from entebbe to london, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-entebbe-to-london
-primary_keyword: emirates flights from entebbe to london
+primary_keyword: 'emirates flights from entebbe to london'
 secondary_keywords:
-- flights from kenya to cuba
-- flights from kenya to djibouti
-- emirates flights from kenya to australia ticket price
-- flights to fiji from kenya
-- flights to greece from kenya
+- 'flights from kenya to cuba'
+- 'flights from kenya to djibouti'
+- 'emirates flights from kenya to australia ticket price'
+- 'flights to fiji from kenya'
+- 'flights to greece from kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

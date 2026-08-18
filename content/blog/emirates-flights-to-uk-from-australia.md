@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights to Uk from Australia: Complete Guide'
-description: Everything you need to know about emirates flights to uk from australia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights to uk from australia, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-to-uk-from-australia
-primary_keyword: emirates flights to uk from australia
+primary_keyword: 'emirates flights to uk from australia'
 secondary_keywords:
-- kq flight crash
-- kq flight delays today
-- kq flights to ethiopia
-- kq flight to heathrow diverted today
-- kq flights from johannesburg to nairobi
+- 'kq flight crash'
+- 'kq flight delays today'
+- 'kq flights to ethiopia'
+- 'kq flight to heathrow diverted today'
+- 'kq flights from johannesburg to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

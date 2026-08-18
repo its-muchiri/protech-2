@@ -1,14 +1,14 @@
 ---
 title: 'Cost of Flight from Nairobi to Kitale: Complete Guide'
-description: Everything you need to know about cost of flight from nairobi to kitale, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cost of flight from nairobi to kitale, including routes, airlines, booking tips, and fares.'
 slug: cost-of-flight-from-nairobi-to-kitale
-primary_keyword: cost of flight from nairobi to kitale
+primary_keyword: 'cost of flight from nairobi to kitale'
 secondary_keywords:
-- cheap flights from nairobi to europe
-- which airlines fly from nairobi to malindi
-- flights from mombasa to nairobi
-- are there flights from mombasa to malindi
-- does ba fly to botswana
+- 'cheap flights from nairobi to europe'
+- 'which airlines fly from nairobi to malindi'
+- 'flights from mombasa to nairobi'
+- 'are there flights from mombasa to malindi'
+- 'does ba fly to botswana'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

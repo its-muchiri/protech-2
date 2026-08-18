@@ -1,14 +1,14 @@
 ---
 title: 'Last Minute Safari Deals Kenya Companies: Complete Guide'
-description: Kenya safari guide covering last minute safari deals kenya companies, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering last minute safari deals kenya companies, including what is included, pricing, and booking advice.'
 slug: last-minute-safari-deals-kenya-companies
-primary_keyword: Last minute safari deals Kenya companies
+primary_keyword: 'Last minute safari deals Kenya companies'
 secondary_keywords:
-- Two week Kenya safari
-- Kenya safari price per day
-- Tsavo lodges
-- Birding tours Kenya
-- Rhino safari Kenya
+- 'Two week Kenya safari'
+- 'Kenya safari price per day'
+- 'Tsavo lodges'
+- 'Birding tours Kenya'
+- 'Rhino safari Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

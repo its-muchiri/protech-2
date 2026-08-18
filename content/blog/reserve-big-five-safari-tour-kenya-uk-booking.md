@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Big Five Safari Tour Kenya UK Booking: Complete Guide'
-description: Kenya safari guide covering reserve big five safari tour kenya uk booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve big five safari tour kenya uk booking, including what is included, pricing, and booking advice.'
 slug: reserve-big-five-safari-tour-kenya-uk-booking
-primary_keyword: Reserve Big Five safari tour Kenya UK booking
+primary_keyword: 'Reserve Big Five safari tour Kenya UK booking'
 secondary_keywords:
-- Avoid tourist traps Kenya safari
-- Kenia reisen safari (German)
-- Open top jeep safari Kenya
-- Book Kenya safari tour
-- Contact Kenya safari operator for booking
+- 'Avoid tourist traps Kenya safari'
+- 'Kenia reisen safari (German)'
+- 'Open top jeep safari Kenya'
+- 'Book Kenya safari tour'
+- 'Contact Kenya safari operator for booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

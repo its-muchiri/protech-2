@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Voi: Complete Guide'
-description: Everything you need to know about flights from nairobi to voi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to voi, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-voi
-primary_keyword: flights from nairobi to voi
+primary_keyword: 'flights from nairobi to voi'
 secondary_keywords:
-- how many emirates flights from manchester to dubai
-- emirates flights from south africa to india
-- emirates flights from johannesburg to china
-- emirates flights from london
-- emirates flights from melbourne to dubai
+- 'how many emirates flights from manchester to dubai'
+- 'emirates flights from south africa to india'
+- 'emirates flights from johannesburg to china'
+- 'emirates flights from london'
+- 'emirates flights from melbourne to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

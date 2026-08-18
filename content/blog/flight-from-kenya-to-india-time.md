@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kenya to India Time: Complete Guide'
-description: Everything you need to know about flight from kenya to india time, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kenya to india time, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kenya-to-india-time
-primary_keyword: flight from kenya to india time
+primary_keyword: 'flight from kenya to india time'
 secondary_keywords:
-- flight kq
-- i-fly air booking
-- kq flights to kenya
-- kq flights mombasa
-- kq flight nairobi to new york
+- 'flight kq'
+- 'i-fly air booking'
+- 'kq flights to kenya'
+- 'kq flights mombasa'
+- 'kq flight nairobi to new york'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

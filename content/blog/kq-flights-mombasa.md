@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights Mombasa: Complete Guide'
-description: Everything you need to know about kq flights mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights mombasa, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-mombasa
-primary_keyword: kq flights mombasa
+primary_keyword: 'kq flights mombasa'
 secondary_keywords:
-- emirates flight 163
-- emirates flight destinations list
-- emirates ek 3
-- emirates flight 500
-- emirates flight 764
+- 'emirates flight 163'
+- 'emirates flight destinations list'
+- 'emirates ek 3'
+- 'emirates flight 500'
+- 'emirates flight 764'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

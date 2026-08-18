@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Zurich: Complete Guide'
-description: Everything you need to know about flight from nairobi to zurich, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to zurich, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-zurich
-primary_keyword: flight from nairobi to zurich
+primary_keyword: 'flight from nairobi to zurich'
 secondary_keywords:
-- kq 533
-- kenya airways flight from nairobi to cape town
-- kenya airways jfk to nairobi schedule
-- kenya airways flight from nairobi to johannesburg
-- kq flight from nairobi to mombasa price
+- 'kq 533'
+- 'kenya airways flight from nairobi to cape town'
+- 'kenya airways jfk to nairobi schedule'
+- 'kenya airways flight from nairobi to johannesburg'
+- 'kq flight from nairobi to mombasa price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

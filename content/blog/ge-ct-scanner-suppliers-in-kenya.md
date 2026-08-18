@@ -1,14 +1,14 @@
 ---
 title: 'GE CT Scanner Suppliers in Kenya: 2026 Price Guide'
-description: Kenya buying guide to ge ct scanner suppliers in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to ge ct scanner suppliers in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: ge-ct-scanner-suppliers-in-kenya
-primary_keyword: GE CT scanner suppliers in Kenya
+primary_keyword: 'GE CT scanner suppliers in Kenya'
 secondary_keywords:
-- Reclining wheelchair price in Kenya
-- Hospital ward screens and partitions
-- ECG machine price in Kenya
-- Biphasic defibrillator with paddles
-- Treadmill for physiotherapy clinic price
+- 'Reclining wheelchair price in Kenya'
+- 'Hospital ward screens and partitions'
+- 'ECG machine price in Kenya'
+- 'Biphasic defibrillator with paddles'
+- 'Treadmill for physiotherapy clinic price'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

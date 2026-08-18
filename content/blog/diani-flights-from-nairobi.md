@@ -1,14 +1,14 @@
 ---
 title: 'Diani Flights from Nairobi: Complete Guide'
-description: Everything you need to know about diani flights from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about diani flights from nairobi, including routes, airlines, booking tips, and fares.'
 slug: diani-flights-from-nairobi
-primary_keyword: diani flights from nairobi
+primary_keyword: 'diani flights from nairobi'
 secondary_keywords:
-- kq flight from amsterdam to nairobi
-- kq flights from dubai to nairobi
-- kenya airways flights from heathrow
-- kq flight from mumbai to nairobi
-- kq to zanzibar
+- 'kq flight from amsterdam to nairobi'
+- 'kq flights from dubai to nairobi'
+- 'kenya airways flights from heathrow'
+- 'kq flight from mumbai to nairobi'
+- 'kq to zanzibar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

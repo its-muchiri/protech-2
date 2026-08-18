@@ -1,14 +1,14 @@
 ---
 title: 'Semi-automated Chemistry Analyzer Price in Eldoret: 2026 Price Guide'
-description: Kenya buying guide to semi-automated chemistry analyzer price in eldoret. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to semi-automated chemistry analyzer price in eldoret. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: semi-automated-chemistry-analyzer-price-in-eldoret
-primary_keyword: Semi-automated chemistry analyzer price in Eldoret
+primary_keyword: 'Semi-automated chemistry analyzer price in Eldoret'
 secondary_keywords:
-- biofeedback equipment for therapy
-- clinic equipment Kenya
-- medical equipment rental Kenya
-- medical shops in Nairobi
-- cotton wool Kenya large pack
+- 'biofeedback equipment for therapy'
+- 'clinic equipment Kenya'
+- 'medical equipment rental Kenya'
+- 'medical shops in Nairobi'
+- 'cotton wool Kenya large pack'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

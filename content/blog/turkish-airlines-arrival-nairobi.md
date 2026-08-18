@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Arrival Nairobi: Complete Guide'
-description: Everything you need to know about turkish airlines arrival nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines arrival nairobi, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-arrival-nairobi
-primary_keyword: turkish airlines arrival nairobi
+primary_keyword: 'turkish airlines arrival nairobi'
 secondary_keywords:
-- flights from kenya to maldives
-- kenya airways flights from addis ababa to nairobi
-- flights from or tambo to kenya
-- flights from philadelphia to nairobi kenya
-- cheap flights from qatar to kenya
+- 'flights from kenya to maldives'
+- 'kenya airways flights from addis ababa to nairobi'
+- 'flights from or tambo to kenya'
+- 'flights from philadelphia to nairobi kenya'
+- 'cheap flights from qatar to kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

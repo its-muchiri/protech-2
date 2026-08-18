@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Uae: Complete Guide'
-description: Everything you need to know about flights from nairobi to uae, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to uae, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-uae
-primary_keyword: flights from nairobi to uae
+primary_keyword: 'flights from nairobi to uae'
 secondary_keywords:
-- flights from mombasa to doha
-- flights to frankfurt from mombasa kenya
-- flight from nairobi to mombasa how much
-- flight from kisumu to mombasa is how much
-- mombasa flights from jkia
+- 'flights from mombasa to doha'
+- 'flights to frankfurt from mombasa kenya'
+- 'flight from nairobi to mombasa how much'
+- 'flight from kisumu to mombasa is how much'
+- 'mombasa flights from jkia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Jambojet Flights from Kisumu to Mombasa: Complete Guide'
-description: Everything you need to know about jambojet flights from kisumu to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about jambojet flights from kisumu to mombasa, including routes, airlines, booking tips, and fares.'
 slug: jambojet-flights-from-kisumu-to-mombasa
-primary_keyword: jambojet flights from kisumu to mombasa
+primary_keyword: 'jambojet flights from kisumu to mombasa'
 secondary_keywords:
-- kq flight new york to nairobi
-- kq nbo los
-- kq 256 flight status
-- flight kq 3
-- kq 509 flight status
+- 'kq flight new york to nairobi'
+- 'kq nbo los'
+- 'kq 256 flight status'
+- 'flight kq 3'
+- 'kq 509 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

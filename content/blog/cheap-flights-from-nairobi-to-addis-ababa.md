@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Nairobi to Addis Ababa: Complete Guide'
-description: Everything you need to know about cheap flights from nairobi to addis ababa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from nairobi to addis ababa, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-nairobi-to-addis-ababa
-primary_keyword: cheap flights from nairobi to addis ababa
+primary_keyword: 'cheap flights from nairobi to addis ababa'
 secondary_keywords:
-- emirates airlines mombasa office
-- ethiopian airlines ticket price from doha to nairobi
-- ethiopian airlines phone number nairobi
-- ethiopian airlines contact number kenya
-- turkish airlines flight schedule to nairobi
+- 'emirates airlines mombasa office'
+- 'ethiopian airlines ticket price from doha to nairobi'
+- 'ethiopian airlines phone number nairobi'
+- 'ethiopian airlines contact number kenya'
+- 'turkish airlines flight schedule to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

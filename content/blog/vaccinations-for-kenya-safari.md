@@ -1,14 +1,14 @@
 ---
 title: 'Vaccinations for Kenya Safari: Complete Guide'
-description: Kenya safari guide covering vaccinations for kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering vaccinations for kenya safari, including what is included, pricing, and booking advice.'
 slug: vaccinations-for-kenya-safari
-primary_keyword: Vaccinations for Kenya safari
+primary_keyword: 'Vaccinations for Kenya safari'
 secondary_keywords:
-- Internet access Kenya safari
-- Luxury family safari Kenya Christmas
-- Self drive 4x4 rental Kenya safari (risky, needs research)
-- Kenya safari hidden costs
-- Voyage safari Kenya (French)
+- 'Internet access Kenya safari'
+- 'Luxury family safari Kenya Christmas'
+- 'Self drive 4x4 rental Kenya safari (risky, needs research)'
+- 'Kenya safari hidden costs'
+- 'Voyage safari Kenya (French)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

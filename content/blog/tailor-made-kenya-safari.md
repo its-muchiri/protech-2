@@ -1,14 +1,14 @@
 ---
 title: 'Tailor-made Kenya Safari: Complete Guide'
-description: Kenya safari guide covering tailor-made kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering tailor-made kenya safari, including what is included, pricing, and booking advice.'
 slug: tailor-made-kenya-safari
-primary_keyword: Tailor-made Kenya safari
+primary_keyword: 'Tailor-made Kenya safari'
 secondary_keywords:
-- Mara river crossing safari
-- Kenya safari from Nairobi
-- Kenya safari from Canada
-- Kenya safari in April
-- Best Kenya tour operators
+- 'Mara river crossing safari'
+- 'Kenya safari from Nairobi'
+- 'Kenya safari from Canada'
+- 'Kenya safari in April'
+- 'Best Kenya tour operators'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

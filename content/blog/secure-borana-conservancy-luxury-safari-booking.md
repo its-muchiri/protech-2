@@ -1,14 +1,14 @@
 ---
 title: 'Secure Borana Conservancy Luxury Safari Booking: Complete Guide'
-description: Kenya safari guide covering secure borana conservancy luxury safari booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering secure borana conservancy luxury safari booking, including what is included, pricing, and booking advice.'
 slug: secure-borana-conservancy-luxury-safari-booking
-primary_keyword: Secure Borana Conservancy luxury safari booking
+primary_keyword: 'Secure Borana Conservancy luxury safari booking'
 secondary_keywords:
-- Book 4 day Mount Kenya Safari Club package deal
-- Confirm availability 5 day budget safari Kenya August
-- Immediate quote Kenya custom safari package 14 days
-- Buy 4 day Amboseli Kilimanjaro view package deal
-- Secure 12 day premium family safari package Sarova lodges
+- 'Book 4 day Mount Kenya Safari Club package deal'
+- 'Confirm availability 5 day budget safari Kenya August'
+- 'Immediate quote Kenya custom safari package 14 days'
+- 'Buy 4 day Amboseli Kilimanjaro view package deal'
+- 'Secure 12 day premium family safari package Sarova lodges'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

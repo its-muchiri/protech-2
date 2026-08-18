@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways Contacts Nairobi Phone Number: Complete Guide'
-description: Everything you need to know about qatar airways contacts nairobi phone number, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways contacts nairobi phone number, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-contacts-nairobi-phone-number
-primary_keyword: qatar airways contacts nairobi phone number
+primary_keyword: 'qatar airways contacts nairobi phone number'
 secondary_keywords:
-- kq flights from mombasa to eldoret
-- flights to mombasa from gatwick
-- flights from mombasa to india
-- cheap flights from mombasa to jeddah
-- kq flights from mombasa to kisumu
+- 'kq flights from mombasa to eldoret'
+- 'flights to mombasa from gatwick'
+- 'flights from mombasa to india'
+- 'cheap flights from mombasa to jeddah'
+- 'kq flights from mombasa to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

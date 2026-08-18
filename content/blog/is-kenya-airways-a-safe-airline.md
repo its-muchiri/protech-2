@@ -1,14 +1,14 @@
 ---
 title: 'Is Kenya Airways a Safe Airline: Complete Guide'
-description: Everything you need to know about is kenya airways a safe airline, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about is kenya airways a safe airline, including routes, airlines, booking tips, and fares.'
 slug: is-kenya-airways-a-safe-airline
-primary_keyword: is kenya airways a safe airline
+primary_keyword: 'is kenya airways a safe airline'
 secondary_keywords:
-- cheap flights from kisumu to nairobi today
-- how much is flight from kisumu to mombasa
-- kq flights from kisumu to nairobi timetable
-- airfare from kisumu to nairobi
-- flights from wilson to kisumu
+- 'cheap flights from kisumu to nairobi today'
+- 'how much is flight from kisumu to mombasa'
+- 'kq flights from kisumu to nairobi timetable'
+- 'airfare from kisumu to nairobi'
+- 'flights from wilson to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

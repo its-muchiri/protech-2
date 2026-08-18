@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari in February: Complete Guide'
-description: Kenya safari guide covering kenya safari in february, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari in february, including what is included, pricing, and booking advice.'
 slug: kenya-safari-in-february
-primary_keyword: Kenya safari in February
+primary_keyword: 'Kenya safari in February'
 secondary_keywords:
-- Book rock climbing Hell''s Gate safari add-on Kenya UK adventure gear included cost
-- Purchase Kenya coffee plantation tour Kiambu safari add-on Europe farm stay booking
-- African safari Kenya
-- Amboseli National Park safari
-- Chyulu Hills safari
+- 'Book rock climbing Hell''''s Gate safari add-on Kenya UK adventure gear included cost'
+- 'Purchase Kenya coffee plantation tour Kiambu safari add-on Europe farm stay booking'
+- 'African safari Kenya'
+- 'Amboseli National Park safari'
+- 'Chyulu Hills safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kq 257 Flight Status: Complete Guide'
-description: Everything you need to know about kq 257 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 257 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq-257-flight-status
-primary_keyword: kq 257 flight status
+primary_keyword: 'kq 257 flight status'
 secondary_keywords:
-- kq flights to ethiopia
-- kq flight to heathrow diverted today
-- kq flights from johannesburg to nairobi
-- kq local flights
-- kq manage flight
+- 'kq flights to ethiopia'
+- 'kq flight to heathrow diverted today'
+- 'kq flights from johannesburg to nairobi'
+- 'kq local flights'
+- 'kq manage flight'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

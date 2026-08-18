@@ -1,14 +1,14 @@
 ---
 title: 'Book Kenya Safari Peak Season 2025 USA Limited Spots: Complete Guide'
-description: Kenya safari guide covering book kenya safari peak season 2025 usa limited spots, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book kenya safari peak season 2025 usa limited spots, including what is included, pricing, and booking advice.'
 slug: book-kenya-safari-peak-season-2025-usa-limited-spots
-primary_keyword: Book Kenya safari peak season 2025 USA limited spots
+primary_keyword: 'Book Kenya safari peak season 2025 USA limited spots'
 secondary_keywords:
-- Buy guided Kenya safari tour
-- Purchase Nairobi National Park day tour booking
-- Reserve 5 day Amboseli Tsavo combo package
-- Buy budget Kenya camping safari booking
-- Book 6 day group joining Nakuru Mara safari reservation
+- 'Buy guided Kenya safari tour'
+- 'Purchase Nairobi National Park day tour booking'
+- 'Reserve 5 day Amboseli Tsavo combo package'
+- 'Buy budget Kenya camping safari booking'
+- 'Book 6 day group joining Nakuru Mara safari reservation'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

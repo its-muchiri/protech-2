@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Singapore to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from singapore to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from singapore to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-singapore-to-dubai
-primary_keyword: emirates flights from singapore to dubai
+primary_keyword: 'emirates flights from singapore to dubai'
 secondary_keywords:
-- how much is it from nairobi to mombasa by flight
-- emirates flights from amsterdam to dubai
-- emirates flights from bangkok
-- emirates flights from cyprus
-- emirates flights from johannesburg to dubai
+- 'how much is it from nairobi to mombasa by flight'
+- 'emirates flights from amsterdam to dubai'
+- 'emirates flights from bangkok'
+- 'emirates flights from cyprus'
+- 'emirates flights from johannesburg to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Masai Mara Tour Cost: Complete Guide'
-description: Kenya safari guide covering  masai mara tour cost, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering  masai mara tour cost, including what is included, pricing, and booking advice.'
 slug: operator-name-masai-mara-tour-cost
-primary_keyword: Masai Mara tour cost
+primary_keyword: 'Masai Mara tour cost'
 secondary_keywords:
-- Archaeological tours Kenya Koobi Fora / Olorgesailie
-- Buy Kenya safari package from USA
-- Reserve Big Five safari tour Kenya UK booking
-- Budget Kenya safari tour prices UK comparison
-- Book luxury Kenya safari lodge UK exclusive
+- 'Archaeological tours Kenya Koobi Fora / Olorgesailie'
+- 'Buy Kenya safari package from USA'
+- 'Reserve Big Five safari tour Kenya UK booking'
+- 'Budget Kenya safari tour prices UK comparison'
+- 'Book luxury Kenya safari lodge UK exclusive'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

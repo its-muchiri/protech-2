@@ -1,14 +1,14 @@
 ---
 title: 'Cost of Flight from Eldoret to Mombasa: Complete Guide'
-description: Everything you need to know about cost of flight from eldoret to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cost of flight from eldoret to mombasa, including routes, airlines, booking tips, and fares.'
 slug: cost-of-flight-from-eldoret-to-mombasa
-primary_keyword: cost of flight from eldoret to mombasa
+primary_keyword: 'cost of flight from eldoret to mombasa'
 secondary_keywords:
-- kenya airways mumbai to nairobi flight status
-- kq flight from london to nairobi
-- kq flight schedule nairobi to mombasa
-- kenya airways flight from nairobi to kisumu
-- kenya airways flights from nairobi to bangkok
+- 'kenya airways mumbai to nairobi flight status'
+- 'kq flight from london to nairobi'
+- 'kq flight schedule nairobi to mombasa'
+- 'kenya airways flight from nairobi to kisumu'
+- 'kenya airways flights from nairobi to bangkok'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

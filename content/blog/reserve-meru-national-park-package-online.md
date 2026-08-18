@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Meru National Park Package Online: Complete Guide'
-description: Kenya safari guide covering reserve meru national park package online, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve meru national park package online, including what is included, pricing, and booking advice.'
 slug: reserve-meru-national-park-package-online
-primary_keyword: Reserve Meru National Park package online
+primary_keyword: 'Reserve Meru National Park package online'
 secondary_keywords:
-- Aberdares lodge safari package bundle offer
-- Direct booking Kenya safari lodge  package
-- Book luxury package private chef included Kenya (niche)
-- Select Kenya Tanzania combo package itinerary quote
-- Buy package for Kenya public holiday weekend deal
+- 'Aberdares lodge safari package bundle offer'
+- 'Direct booking Kenya safari lodge  package'
+- 'Book luxury package private chef included Kenya (niche)'
+- 'Select Kenya Tanzania combo package itinerary quote'
+- 'Buy package for Kenya public holiday weekend deal'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

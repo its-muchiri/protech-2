@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi Kenya to New York Ny: Complete Guide'
-description: Everything you need to know about flights from nairobi kenya to new york ny, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi kenya to new york ny, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-kenya-to-new-york-ny
-primary_keyword: flights from nairobi kenya to new york ny
+primary_keyword: 'flights from nairobi kenya to new york ny'
 secondary_keywords:
-- emirates flights from islamabad to dubai
-- emirates flights from jfk today
-- emirates flights from dubai to kochi today
-- emirates flights from mumbai to dubai
-- emirates flights to thailand from newcastle
+- 'emirates flights from islamabad to dubai'
+- 'emirates flights from jfk today'
+- 'emirates flights from dubai to kochi today'
+- 'emirates flights from mumbai to dubai'
+- 'emirates flights to thailand from newcastle'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

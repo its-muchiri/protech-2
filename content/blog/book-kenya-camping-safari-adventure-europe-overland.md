@@ -1,14 +1,14 @@
 ---
 title: 'Book Kenya Camping Safari Adventure Europe Overland: Complete Guide'
-description: Kenya safari guide covering book kenya camping safari adventure europe overland, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book kenya camping safari adventure europe overland, including what is included, pricing, and booking advice.'
 slug: book-kenya-camping-safari-adventure-europe-overland
-primary_keyword: Book Kenya camping safari adventure Europe overland
+primary_keyword: 'Book Kenya camping safari adventure Europe overland'
 secondary_keywords:
-- Explorer Kenya Safaris reviews luxury / mid-range
-- Gracepatt Safaris review
-- Yellow fever vaccination certificate Kenya requirement
-- Compare specific tour operators Bonfire vs Bountiful Kenya
-- Safari tours starting from Nairobi Jomo Kenyatta Airport (NBO)
+- 'Explorer Kenya Safaris reviews luxury / mid-range'
+- 'Gracepatt Safaris review'
+- 'Yellow fever vaccination certificate Kenya requirement'
+- 'Compare specific tour operators Bonfire vs Bountiful Kenya'
+- 'Safari tours starting from Nairobi Jomo Kenyatta Airport (NBO)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

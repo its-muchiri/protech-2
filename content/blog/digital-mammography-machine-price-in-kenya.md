@@ -1,14 +1,14 @@
 ---
 title: 'Digital Mammography Machine Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to digital mammography machine price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to digital mammography machine price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: digital-mammography-machine-price-in-kenya
-primary_keyword: Digital mammography machine price in Kenya
+primary_keyword: 'Digital mammography machine price in Kenya'
 secondary_keywords:
-- Blood bank refrigerator in Eldoret
-- Patient monitor spare parts in Kenya
-- Hologic Selenia mammography system price
-- Mobile X-ray machine for ward use for sale in Eldoret
-- Reagent rental agreement for hematology analyzers in Kenya
+- 'Blood bank refrigerator in Eldoret'
+- 'Patient monitor spare parts in Kenya'
+- 'Hologic Selenia mammography system price'
+- 'Mobile X-ray machine for ward use for sale in Eldoret'
+- 'Reagent rental agreement for hematology analyzers in Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

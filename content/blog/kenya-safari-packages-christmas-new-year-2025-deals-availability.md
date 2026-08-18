@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Packages Christmas/New Year 2025 Deals Availability: Complete Guide'
-description: Kenya safari guide covering kenya safari packages christmas/new year 2025 deals availability, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari packages christmas/new year 2025 deals availability, including what is included, pricing, and booking advice.'
 slug: kenya-safari-packages-christmas-new-year-2025-deals-availability
-primary_keyword: Kenya safari packages Christmas/New Year 2025 deals availability
+primary_keyword: 'Kenya safari packages Christmas/New Year 2025 deals availability'
 secondary_keywords:
-- Paleontology tour Lake Turkana (very niche)
-- Kenia safari reis (Dutch)
-- Books about Kenya safari
-- Kenya safari package price quote
-- Book last minute Kenya safari deal
+- 'Paleontology tour Lake Turkana (very niche)'
+- 'Kenia safari reis (Dutch)'
+- 'Books about Kenya safari'
+- 'Kenya safari package price quote'
+- 'Book last minute Kenya safari deal'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

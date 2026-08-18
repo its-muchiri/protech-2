@@ -1,14 +1,14 @@
 ---
 title: 'Safari Packages from Nanyuki Mount Kenya / Ol Pejeta: Complete Guide'
-description: Kenya safari guide covering safari packages from nanyuki mount kenya / ol pejeta, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering safari packages from nanyuki mount kenya / ol pejeta, including what is included, pricing, and booking advice.'
 slug: safari-packages-from-nanyuki-mount-kenya-ol-pejeta
-primary_keyword: Safari packages from Nanyuki Mount Kenya / Ol Pejeta
+primary_keyword: 'Safari packages from Nanyuki Mount Kenya / Ol Pejeta'
 secondary_keywords:
-- Reserve 8 day Tortilis Camp Amboseli luxury package
-- Book 7 day Singita Grumeti link Kenya package (linking concepts)
-- Reserve corporate retreat safari package Kenya luxury
-- Compare Kenya safari company prices
-- Lake Nakuru day trip tour company from Thika
+- 'Reserve 8 day Tortilis Camp Amboseli luxury package'
+- 'Book 7 day Singita Grumeti link Kenya package (linking concepts)'
+- 'Reserve corporate retreat safari package Kenya luxury'
+- 'Compare Kenya safari company prices'
+- 'Lake Nakuru day trip tour company from Thika'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

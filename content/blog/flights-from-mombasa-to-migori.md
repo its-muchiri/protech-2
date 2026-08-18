@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Migori: Complete Guide'
-description: Everything you need to know about flights from mombasa to migori, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to migori, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-migori
-primary_keyword: flights from mombasa to migori
+primary_keyword: 'flights from mombasa to migori'
 secondary_keywords:
-- cost of flight from nairobi to south africa
-- 540 flight from nairobi to lodwar
-- how many hours flight from nairobi to johannesburg
-- turkish airlines flights to nairobi
-- turkish airlines reference number
+- 'cost of flight from nairobi to south africa'
+- '540 flight from nairobi to lodwar'
+- 'how many hours flight from nairobi to johannesburg'
+- 'turkish airlines flights to nairobi'
+- 'turkish airlines reference number'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

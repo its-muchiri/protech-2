@@ -1,14 +1,14 @@
 ---
 title: 'Fishing Safari Kenya (e.g., Lake Turkana): Complete Guide'
-description: Kenya safari guide covering fishing safari kenya (e.g., lake turkana), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering fishing safari kenya (e.g., lake turkana), including what is included, pricing, and booking advice.'
 slug: fishing-safari-kenya-e-g-lake-turkana
-primary_keyword: Fishing safari Kenya (e.g., Lake Turkana)
+primary_keyword: 'Fishing safari Kenya (e.g., Lake Turkana)'
 secondary_keywords:
-- Samburu safari bundle deal quote
-- Quote from  Kenya safari
-- Book Kenya safari and beach extension package deal
-- Buy multi-generational family safari package Kenya cost
-- Reserve green season Kenya photographic safari package price
+- 'Samburu safari bundle deal quote'
+- 'Quote from  Kenya safari'
+- 'Book Kenya safari and beach extension package deal'
+- 'Buy multi-generational family safari package Kenya cost'
+- 'Reserve green season Kenya photographic safari package price'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

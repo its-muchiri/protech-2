@@ -1,14 +1,14 @@
 ---
 title: 'Masai Mara Balloon Safari: Complete Guide'
-description: Kenya safari guide covering masai mara balloon safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering masai mara balloon safari, including what is included, pricing, and booking advice.'
 slug: masai-mara-balloon-safari
-primary_keyword: Masai Mara balloon safari
+primary_keyword: 'Masai Mara balloon safari'
 secondary_keywords:
-- All-inclusive Kenya safari from UK cost July 2025
-- UK travel advice Kenya safari booking safe operators
-- Top rated Kenya safari specialists UK experts
-- Reserve Kenya safari Easter 2026 UK family package availability
-- Luxury all-inclusive Kenya safari reviews Forbes Travel Guide
+- 'All-inclusive Kenya safari from UK cost July 2025'
+- 'UK travel advice Kenya safari booking safe operators'
+- 'Top rated Kenya safari specialists UK experts'
+- 'Reserve Kenya safari Easter 2026 UK family package availability'
+- 'Luxury all-inclusive Kenya safari reviews Forbes Travel Guide'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

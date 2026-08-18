@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight 507: Complete Guide'
-description: Everything you need to know about kq flight 507, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight 507, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-507
-primary_keyword: kq flight 507
+primary_keyword: 'kq flight 507'
 secondary_keywords:
-- emirates from kenya to dubai
-- emirates kenya careers
-- emirates holidays kenya
-- emirates plane
-- emirates kenya to dubai
+- 'emirates from kenya to dubai'
+- 'emirates kenya careers'
+- 'emirates holidays kenya'
+- 'emirates plane'
+- 'emirates kenya to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

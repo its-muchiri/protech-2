@@ -1,14 +1,14 @@
 ---
 title: 'Veterinary X-ray Equipment Suppliers in Thika: 2026 Price Guide'
-description: Kenya buying guide to veterinary x-ray equipment suppliers in thika. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to veterinary x-ray equipment suppliers in thika. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: veterinary-x-ray-equipment-suppliers-in-thika
-primary_keyword: Veterinary X-ray equipment suppliers in Thika
+primary_keyword: 'Veterinary X-ray equipment suppliers in Thika'
 secondary_keywords:
-- Auto refractometer cost in Kenya
-- Catheters and urine bags suppliers in Kisumu
-- 3-body mortuary cabinet for sale
-- Thermometer price in Kenya
-- How to import medical equipment into Kenya
+- 'Auto refractometer cost in Kenya'
+- 'Catheters and urine bags suppliers in Kisumu'
+- '3-body mortuary cabinet for sale'
+- 'Thermometer price in Kenya'
+- 'How to import medical equipment into Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

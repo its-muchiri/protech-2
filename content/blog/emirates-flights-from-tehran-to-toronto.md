@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Tehran to Toronto: Complete Guide'
-description: Everything you need to know about emirates flights from tehran to toronto, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from tehran to toronto, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-tehran-to-toronto
-primary_keyword: emirates flights from tehran to toronto
+primary_keyword: 'emirates flights from tehran to toronto'
 secondary_keywords:
-- emirates nairobi terminal
-- emirates airline kenya photos
-- emirates flight time from dubai to kenya
-- emirates kenya jobs
-- distance from kenya to united kingdom
+- 'emirates nairobi terminal'
+- 'emirates airline kenya photos'
+- 'emirates flight time from dubai to kenya'
+- 'emirates kenya jobs'
+- 'distance from kenya to united kingdom'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

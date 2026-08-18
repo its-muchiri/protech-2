@@ -1,14 +1,14 @@
 ---
 title: 'How Do I Contact Emirates Airlines: Complete Guide'
-description: Everything you need to know about how do i contact emirates airlines, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how do i contact emirates airlines, including routes, airlines, booking tips, and fares.'
 slug: how-do-i-contact-emirates-airlines
-primary_keyword: how do i contact emirates airlines
+primary_keyword: 'how do i contact emirates airlines'
 secondary_keywords:
-- flights from nairobi to london heathrow
-- cheap flights from istanbul to nairobi
-- flights from nairobi kenya to santorini greece
-- flights from nairobi to lagos
-- flights from nairobi to minneapolis
+- 'flights from nairobi to london heathrow'
+- 'cheap flights from istanbul to nairobi'
+- 'flights from nairobi kenya to santorini greece'
+- 'flights from nairobi to lagos'
+- 'flights from nairobi to minneapolis'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

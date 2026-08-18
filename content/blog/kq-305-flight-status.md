@@ -1,14 +1,14 @@
 ---
 title: 'Kq 305 Flight Status: Complete Guide'
-description: Everything you need to know about kq 305 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 305 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq-305-flight-status
-primary_keyword: kq 305 flight status
+primary_keyword: 'kq 305 flight status'
 secondary_keywords:
-- flights from nairobi to atlanta
-- flights from nairobi to bali
-- flights from beirut to nairobi
-- cheap flights from nairobi to johannesburg
-- flights from nairobi to eldoret today
+- 'flights from nairobi to atlanta'
+- 'flights from nairobi to bali'
+- 'flights from beirut to nairobi'
+- 'cheap flights from nairobi to johannesburg'
+- 'flights from nairobi to eldoret today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

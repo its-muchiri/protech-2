@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Dubai to Glasgow Today: Complete Guide'
-description: Everything you need to know about emirates flights from dubai to glasgow today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from dubai to glasgow today, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-dubai-to-glasgow-today
-primary_keyword: emirates flights from dubai to glasgow today
+primary_keyword: 'emirates flights from dubai to glasgow today'
 secondary_keywords:
-- emirates flight from nairobi to dubai today timetable
-- emirates offices nairobi location
-- emirates vs
-- emirates kenya address
-- emirates flights from dubai to kenya today
+- 'emirates flight from nairobi to dubai today timetable'
+- 'emirates offices nairobi location'
+- 'emirates vs'
+- 'emirates kenya address'
+- 'emirates flights from dubai to kenya today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

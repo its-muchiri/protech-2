@@ -1,14 +1,14 @@
 ---
 title: 'Direct Flights London to Nairobi + Kenya Safari Package UK: Complete Guide'
-description: Kenya safari guide covering direct flights london to nairobi + kenya safari package uk, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering direct flights london to nairobi + kenya safari package uk, including what is included, pricing, and booking advice.'
 slug: direct-flights-london-to-nairobi-kenya-safari-package-uk
-primary_keyword: Direct flights London to Nairobi + Kenya safari package UK
+primary_keyword: 'Direct flights London to Nairobi + Kenya safari package UK'
 secondary_keywords:
-- Masai Mara lodges
-- Cultural tours Kenya safari
-- Wildebeest migration Kenya timing
-- Wild dog safari Kenya (rare)
-- Kenya safari from USA
+- 'Masai Mara lodges'
+- 'Cultural tours Kenya safari'
+- 'Wildebeest migration Kenya timing'
+- 'Wild dog safari Kenya (rare)'
+- 'Kenya safari from USA'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

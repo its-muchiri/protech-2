@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari for Singles: Complete Guide'
-description: Kenya safari guide covering kenya safari for singles, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari for singles, including what is included, pricing, and booking advice.'
 slug: kenya-safari-for-singles
-primary_keyword: Kenya safari for singles
+primary_keyword: 'Kenya safari for singles'
 secondary_keywords:
-- Best luxury Kenya safari packages reviews Conde Nast UK
-- Reputable Kenya camping safari providers UK reviews
-- Cost comparison budget Kenya group safari tours USA local vs international agents
-- Purchase 12-day ultimate Kenya luxury safari cost USA includes internal flights lodges
-- Book Kenya conservation focused safari Ol Pejeta rhino tracking Europe donation included
+- 'Best luxury Kenya safari packages reviews Conde Nast UK'
+- 'Reputable Kenya camping safari providers UK reviews'
+- 'Cost comparison budget Kenya group safari tours USA local vs international agents'
+- 'Purchase 12-day ultimate Kenya luxury safari cost USA includes internal flights lodges'
+- 'Book Kenya conservation focused safari Ol Pejeta rhino tracking Europe donation included'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

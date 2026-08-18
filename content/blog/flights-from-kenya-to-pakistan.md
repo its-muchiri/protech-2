@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Pakistan: Complete Guide'
-description: Everything you need to know about flights from kenya to pakistan, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to pakistan, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-pakistan
-primary_keyword: flights from kenya to pakistan
+primary_keyword: 'flights from kenya to pakistan'
 secondary_keywords:
-- kq 202 flight status
-- kq307 flight status
-- kq 511 flight status
-- kq 625 flight status
-- emirates flight from nairobi to ahmedabad
+- 'kq 202 flight status'
+- 'kq307 flight status'
+- 'kq 511 flight status'
+- 'kq 625 flight status'
+- 'emirates flight from nairobi to ahmedabad'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

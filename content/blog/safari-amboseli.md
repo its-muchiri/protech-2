@@ -1,14 +1,14 @@
 ---
 title: 'Safari Amboseli: Complete Guide'
-description: Kenya safari guide covering safari amboseli, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering safari amboseli, including what is included, pricing, and booking advice.'
 slug: safari-amboseli
-primary_keyword: Safari Amboseli
+primary_keyword: 'Safari Amboseli'
 secondary_keywords:
-- Select Kenya safari package option
-- Kenya safari package with hot air balloon price
-- Honeymoon package Kenya cost
-- Buy 4 day fly-in Samburu package deal
-- Buy package 7 day Kenya walking safari guided tour
+- 'Select Kenya safari package option'
+- 'Kenya safari package with hot air balloon price'
+- 'Honeymoon package Kenya cost'
+- 'Buy 4 day fly-in Samburu package deal'
+- 'Buy package 7 day Kenya walking safari guided tour'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

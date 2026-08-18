@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from India to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from india to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from india to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-india-to-dubai
-primary_keyword: emirates flights from india to dubai
+primary_keyword: 'emirates flights from india to dubai'
 secondary_keywords:
-- cheap flights to kenya from perth
-- flights from qatar to kenya today
-- flights from raleigh to kenya
-- turkey flights from kenya
-- flights from kenya to cape verde
+- 'cheap flights to kenya from perth'
+- 'flights from qatar to kenya today'
+- 'flights from raleigh to kenya'
+- 'turkey flights from kenya'
+- 'flights from kenya to cape verde'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

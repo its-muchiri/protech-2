@@ -1,13 +1,13 @@
 ---
 title: 'Reserve Tour  Kenya Branch: Complete Guide'
-description: Kenya safari guide covering reserve tour  kenya branch, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve tour  kenya branch, including what is included, pricing, and booking advice.'
 slug: reserve-tour-international-operator-name-kenya-branch
-primary_keyword: Reserve tour  Kenya branch
+primary_keyword: 'Reserve tour  Kenya branch'
 secondary_keywords:
-- Easter Kenya safari
-- Compare Kenya safari tours
-- Vaccinations for Kenya safari
-- Kenya safari for first-timers
+- 'Easter Kenya safari'
+- 'Compare Kenya safari tours'
+- 'Vaccinations for Kenya safari'
+- 'Kenya safari for first-timers'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kq 882 Flight Status: Complete Guide'
-description: Everything you need to know about kq 882 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 882 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq-882-flight-status
-primary_keyword: kq 882 flight status
+primary_keyword: 'kq 882 flight status'
 secondary_keywords:
-- cheap flights from eldoret to nairobi
-- flight from eldoret to entebbe
-- kq flights from eldoret to nairobi
-- kq flights from nairobi to eldoret price tomorrow
-- kq flights to kisumu
+- 'cheap flights from eldoret to nairobi'
+- 'flight from eldoret to entebbe'
+- 'kq flights from eldoret to nairobi'
+- 'kq flights from nairobi to eldoret price tomorrow'
+- 'kq flights to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

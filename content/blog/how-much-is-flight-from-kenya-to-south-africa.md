@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is Flight from Kenya to South Africa: Complete Guide'
-description: Everything you need to know about how much is flight from kenya to south africa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is flight from kenya to south africa, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-flight-from-kenya-to-south-africa
-primary_keyword: how much is flight from kenya to south africa
+primary_keyword: 'how much is flight from kenya to south africa'
 secondary_keywords:
-- flights from eldoret to lodwar
-- flight from eldoret to lodwar price
-- kq flights schedule to eldoret from nairobi
-- kq flight attendant salary
-- kq flight booking contacts
+- 'flights from eldoret to lodwar'
+- 'flight from eldoret to lodwar price'
+- 'kq flights schedule to eldoret from nairobi'
+- 'kq flight attendant salary'
+- 'kq flight booking contacts'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

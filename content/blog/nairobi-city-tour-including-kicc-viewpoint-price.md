@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi City Tour Including KICC Viewpoint Price: Complete Guide'
-description: Kenya safari guide covering nairobi city tour including kicc viewpoint price, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering nairobi city tour including kicc viewpoint price, including what is included, pricing, and booking advice.'
 slug: nairobi-city-tour-including-kicc-viewpoint-price
-primary_keyword: Nairobi city tour including KICC viewpoint price
+primary_keyword: 'Nairobi city tour including KICC viewpoint price'
 secondary_keywords:
-- Best tour companies in Kenya reviews TripAdvisor
-- Travel agents Thika booking Kenya tours
-- Tsavo East National Park safari from Mombasa 3 days price
-- Aberdare National Park lodges (The Ark, Treetops) booking
-- Mobile camping safari Kenya private setup
+- 'Best tour companies in Kenya reviews TripAdvisor'
+- 'Travel agents Thika booking Kenya tours'
+- 'Tsavo East National Park safari from Mombasa 3 days price'
+- 'Aberdare National Park lodges (The Ark, Treetops) booking'
+- 'Mobile camping safari Kenya private setup'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

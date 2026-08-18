@@ -1,14 +1,14 @@
 ---
 title: 'Best Price All-inclusive Kenya Family Safari USA Christmas Week Booking: Complete Guide'
-description: Kenya safari guide covering best price all-inclusive kenya family safari usa christmas week booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering best price all-inclusive kenya family safari usa christmas week booking, including what is included, pricing, and booking advice.'
 slug: best-price-all-inclusive-kenya-family-safari-usa-christmas-week-booking
-primary_keyword: Best price all-inclusive Kenya family safari USA Christmas week booking
+primary_keyword: 'Best price all-inclusive Kenya family safari USA Christmas week booking'
 secondary_keywords:
-- Taita Hills Sanctuary night game drive operators
-- Reserve bespoke Kenya safari experience
-- Book Mara North Conservancy package
-- Secure 10 day Kenya Tanzania combined tour
-- Reserve luxury tented camp safari booking
+- 'Taita Hills Sanctuary night game drive operators'
+- 'Reserve bespoke Kenya safari experience'
+- 'Book Mara North Conservancy package'
+- 'Secure 10 day Kenya Tanzania combined tour'
+- 'Reserve luxury tented camp safari booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

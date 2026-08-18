@@ -1,14 +1,14 @@
 ---
 title: 'Book Responsible Eco-safari Tour Basecamp Masai Mara Kenya Europe Sustainable Travel Award: Complete Guide'
-description: Kenya safari guide covering book responsible eco-safari tour basecamp masai mara kenya europe sustainable travel award, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book responsible eco-safari tour basecamp masai mara kenya europe sustainable travel award, including what is included, pricing, and booking advice.'
 slug: book-responsible-eco-safari-tour-basecamp-masai-mara-kenya-europe-sustainable-travel-award
-primary_keyword: Book responsible eco-safari tour Basecamp Masai Mara Kenya Europe sustainable travel award
+primary_keyword: 'Book responsible eco-safari tour Basecamp Masai Mara Kenya Europe sustainable travel award'
 secondary_keywords:
-- Kenya safari package with hot air balloon price
-- Honeymoon package Kenya cost
-- Buy 4 day fly-in Samburu package deal
-- Buy package 7 day Kenya walking safari guided tour
-- Book 4 day Hell''s Gate Naivasha adventure package
+- 'Kenya safari package with hot air balloon price'
+- 'Honeymoon package Kenya cost'
+- 'Buy 4 day fly-in Samburu package deal'
+- 'Buy package 7 day Kenya walking safari guided tour'
+- 'Book 4 day Hell''''s Gate Naivasha adventure package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

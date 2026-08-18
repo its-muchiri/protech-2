@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Bahamas: Complete Guide'
-description: Everything you need to know about flight from nairobi to bahamas, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to bahamas, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-bahamas
-primary_keyword: flight from nairobi to bahamas
+primary_keyword: 'flight from nairobi to bahamas'
 secondary_keywords:
-- how much is flight from kenya to ethiopia
-- flights nairobi to london
-- uganda airlines flights to nairobi
-- nairobi to bujumbura flights
-- cheap flights nairobi to johannesburg
+- 'how much is flight from kenya to ethiopia'
+- 'flights nairobi to london'
+- 'uganda airlines flights to nairobi'
+- 'nairobi to bujumbura flights'
+- 'cheap flights nairobi to johannesburg'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

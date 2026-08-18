@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Heathrow Today: Complete Guide'
-description: Everything you need to know about flight from nairobi to heathrow today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to heathrow today, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-heathrow-today
-primary_keyword: flight from nairobi to heathrow today
+primary_keyword: 'flight from nairobi to heathrow today'
 secondary_keywords:
-- how many destinations does emirates airlines fly to
-- emirates flight schedule from dubai to nairobi
-- emirates flight 587
-- emirates flight 764 accident
-- emirates flight 835
+- 'how many destinations does emirates airlines fly to'
+- 'emirates flight schedule from dubai to nairobi'
+- 'emirates flight 587'
+- 'emirates flight 764 accident'
+- 'emirates flight 835'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Yyz: Complete Guide'
-description: Everything you need to know about emirates flights from yyz, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from yyz, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-yyz
-primary_keyword: emirates flights from yyz
+primary_keyword: 'emirates flights from yyz'
 secondary_keywords:
-- flights from mombasa to masai mara
-- flight from mombasa to new york
-- flights from mombasa to qatar
-- flights from south africa to mombasa
-- cheap flights from mombasa
+- 'flights from mombasa to masai mara'
+- 'flight from mombasa to new york'
+- 'flights from mombasa to qatar'
+- 'flights from south africa to mombasa'
+- 'cheap flights from mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

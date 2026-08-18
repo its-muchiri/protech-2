@@ -1,14 +1,14 @@
 ---
 title: 'Flights Rome Mombasa: Complete Guide'
-description: Everything you need to know about flights rome mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights rome mombasa, including routes, airlines, booking tips, and fares.'
 slug: flights-rome-mombasa
-primary_keyword: flights rome mombasa
+primary_keyword: 'flights rome mombasa'
 secondary_keywords:
-- cheap flights to kenya from manchester
-- flights to kenya from ottawa
-- flights from kenya to philippines
-- flight from kenya to qatar time
-- flights to kenya from rdu
+- 'cheap flights to kenya from manchester'
+- 'flights to kenya from ottawa'
+- 'flights from kenya to philippines'
+- 'flight from kenya to qatar time'
+- 'flights to kenya from rdu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

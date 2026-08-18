@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Harare to Nairobi: Complete Guide'
-description: Everything you need to know about flights from harare to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from harare to nairobi, including routes, airlines, booking tips, and fares.'
 slug: flights-from-harare-to-nairobi
-primary_keyword: flights from harare to nairobi
+primary_keyword: 'flights from harare to nairobi'
 secondary_keywords:
-- ethiopian airlines in nairobi
-- ethiopian airlines nairobi office contacts whatsapp number
-- how much is flight from kenya to ethiopia
-- flights nairobi to london
-- uganda airlines flights to nairobi
+- 'ethiopian airlines in nairobi'
+- 'ethiopian airlines nairobi office contacts whatsapp number'
+- 'how much is flight from kenya to ethiopia'
+- 'flights nairobi to london'
+- 'uganda airlines flights to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

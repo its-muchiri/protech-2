@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Jfk: Complete Guide'
-description: Everything you need to know about kq flight from jfk, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from jfk, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-jfk
-primary_keyword: kq flight from jfk
+primary_keyword: 'kq flight from jfk'
 secondary_keywords:
-- flight price from nairobi to ethiopia
-- cheap flights nairobi to mombasa
-- flights nairobi to addis
-- flights nairobi to bali
-- flights nairobi to calgary
+- 'flight price from nairobi to ethiopia'
+- 'cheap flights nairobi to mombasa'
+- 'flights nairobi to addis'
+- 'flights nairobi to bali'
+- 'flights nairobi to calgary'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

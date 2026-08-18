@@ -1,14 +1,14 @@
 ---
 title: 'General Surgery Instrument Set Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to general surgery instrument set price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to general surgery instrument set price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: general-surgery-instrument-set-price-in-kenya
-primary_keyword: General surgery instrument set price in Kenya
+primary_keyword: 'General surgery instrument set price in Kenya'
 secondary_keywords:
-- Cost of an MRI machine for a diagnostic center in Eldoret
-- Tenders for radiology equipment in Kenya 2025
-- Urine sediment analyzer for sale
-- CO2 incubator for cell culture price
-- ENT instrument set for a clinic in Kisumu
+- 'Cost of an MRI machine for a diagnostic center in Eldoret'
+- 'Tenders for radiology equipment in Kenya 2025'
+- 'Urine sediment analyzer for sale'
+- 'CO2 incubator for cell culture price'
+- 'ENT instrument set for a clinic in Kisumu'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

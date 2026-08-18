@@ -1,14 +1,14 @@
 ---
 title: 'Reserve 15 Day Grand Kenya Overland Truck Budget Group Package Booking: Complete Guide'
-description: Kenya safari guide covering reserve 15 day grand kenya overland truck budget group package booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve 15 day grand kenya overland truck budget group package booking, including what is included, pricing, and booking advice.'
 slug: reserve-15-day-grand-kenya-overland-truck-budget-group-package-booking
-primary_keyword: Reserve 15 day grand Kenya overland truck budget group package booking
+primary_keyword: 'Reserve 15 day grand Kenya overland truck budget group package booking'
 secondary_keywords:
-- Kenya safari travel restrictions (Historically important)
-- Conservation fees Kenya parks
-- Enquire Kenya safari package rates
-- Confirm Kenya safari reservation
-- Short Kenya safari package (3-5 days) booking
+- 'Kenya safari travel restrictions (Historically important)'
+- 'Conservation fees Kenya parks'
+- 'Enquire Kenya safari package rates'
+- 'Confirm Kenya safari reservation'
+- 'Short Kenya safari package (3-5 days) booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

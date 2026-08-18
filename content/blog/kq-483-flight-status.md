@@ -1,14 +1,14 @@
 ---
 title: 'Kq 483 Flight Status: Complete Guide'
-description: Everything you need to know about kq 483 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 483 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq-483-flight-status
-primary_keyword: kq 483 flight status
+primary_keyword: 'kq 483 flight status'
 secondary_keywords:
-- cheapest flights from eldoret to mombasa
-- flight from nairobi to eldoret jambojet price today
-- flight from eldoret to nairobi time
-- flights from eldoret to uganda
-- kq flight accra to nairobi
+- 'cheapest flights from eldoret to mombasa'
+- 'flight from nairobi to eldoret jambojet price today'
+- 'flight from eldoret to nairobi time'
+- 'flights from eldoret to uganda'
+- 'kq flight accra to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

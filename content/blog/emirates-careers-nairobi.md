@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Careers Nairobi: Complete Guide'
-description: Everything you need to know about emirates careers nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates careers nairobi, including routes, airlines, booking tips, and fares.'
 slug: emirates-careers-nairobi
-primary_keyword: emirates careers nairobi
+primary_keyword: 'emirates careers nairobi'
 secondary_keywords:
-- flights from nairobi to mumbai
-- flights from nairobi to nakuru
-- flights from nairobi to orlando
-- flights from nairobi to phuket
-- flights from nairobi to rome
+- 'flights from nairobi to mumbai'
+- 'flights from nairobi to nakuru'
+- 'flights from nairobi to orlando'
+- 'flights from nairobi to phuket'
+- 'flights from nairobi to rome'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

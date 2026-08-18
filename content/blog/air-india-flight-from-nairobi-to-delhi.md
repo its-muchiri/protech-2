@@ -1,14 +1,14 @@
 ---
 title: 'Air India Flight from Nairobi to Delhi: Complete Guide'
-description: Everything you need to know about air india flight from nairobi to delhi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about air india flight from nairobi to delhi, including routes, airlines, booking tips, and fares.'
 slug: air-india-flight-from-nairobi-to-delhi
-primary_keyword: air india flight from nairobi to delhi
+primary_keyword: 'air india flight from nairobi to delhi'
 secondary_keywords:
-- kq306 flight status
-- kq 521 flight status
-- sq612 flight status
-- emirates flight cancellations nairobi airport
-- emirates flight from nairobi to dubai price economy class
+- 'kq306 flight status'
+- 'kq 521 flight status'
+- 'sq612 flight status'
+- 'emirates flight cancellations nairobi airport'
+- 'emirates flight from nairobi to dubai price economy class'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

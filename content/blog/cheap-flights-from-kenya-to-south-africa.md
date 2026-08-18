@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Kenya to South Africa: Complete Guide'
-description: Everything you need to know about cheap flights from kenya to south africa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from kenya to south africa, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-kenya-to-south-africa
-primary_keyword: cheap flights from kenya to south africa
+primary_keyword: 'cheap flights from kenya to south africa'
 secondary_keywords:
-- air india flight from delhi to nairobi status
-- flight from nairobi to uk cost
-- flight from nairobi to washington dc
-- flight yaounde to nairobi
-- flight from zurich to nairobi
+- 'air india flight from delhi to nairobi status'
+- 'flight from nairobi to uk cost'
+- 'flight from nairobi to washington dc'
+- 'flight yaounde to nairobi'
+- 'flight from zurich to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

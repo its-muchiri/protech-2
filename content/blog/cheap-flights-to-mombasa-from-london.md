@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights to Mombasa from London: Complete Guide'
-description: Everything you need to know about cheap flights to mombasa from london, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights to mombasa from london, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-to-mombasa-from-london
-primary_keyword: cheap flights to mombasa from london
+primary_keyword: 'cheap flights to mombasa from london'
 secondary_keywords:
-- flight from nairobi to bahamas
-- flight 540 nairobi to diani
-- how much flight from kenya to usa
-- turkish airlines nairobi office phone number
-- turkish airlines departures nairobi
+- 'flight from nairobi to bahamas'
+- 'flight 540 nairobi to diani'
+- 'how much flight from kenya to usa'
+- 'turkish airlines nairobi office phone number'
+- 'turkish airlines departures nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Open-roof Safari Vehicle Tour Operators Kenya: Complete Guide'
-description: Kenya safari guide covering open-roof safari vehicle tour operators kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering open-roof safari vehicle tour operators kenya, including what is included, pricing, and booking advice.'
 slug: open-roof-safari-vehicle-tour-operators-kenya
-primary_keyword: Open-roof safari vehicle tour operators Kenya
+primary_keyword: 'Open-roof safari vehicle tour operators Kenya'
 secondary_keywords:
-- Reserve 11 day Kenya safari and beach Zanzibar package
-- Book 10 day safari package with hot air balloon included cost
-- Buy 3 day Amboseli fly-in package from Nairobi cost
-- Get itinerary and cost 8 day Kenya private safari
-- Secure place 6 day small group Kenya photo safari
+- 'Reserve 11 day Kenya safari and beach Zanzibar package'
+- 'Book 10 day safari package with hot air balloon included cost'
+- 'Buy 3 day Amboseli fly-in package from Nairobi cost'
+- 'Get itinerary and cost 8 day Kenya private safari'
+- 'Secure place 6 day small group Kenya photo safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

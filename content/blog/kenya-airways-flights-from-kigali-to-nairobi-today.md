@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights from Kigali to Nairobi Today: Complete Guide'
-description: Everything you need to know about kenya airways flights from kigali to nairobi today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights from kigali to nairobi today, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-from-kigali-to-nairobi-today
-primary_keyword: kenya airways flights from kigali to nairobi today
+primary_keyword: 'kenya airways flights from kigali to nairobi today'
 secondary_keywords:
-- flights from kenya to maldives
-- kenya airways flights from addis ababa to nairobi
-- flights from or tambo to kenya
-- flights from philadelphia to nairobi kenya
-- cheap flights from qatar to kenya
+- 'flights from kenya to maldives'
+- 'kenya airways flights from addis ababa to nairobi'
+- 'flights from or tambo to kenya'
+- 'flights from philadelphia to nairobi kenya'
+- 'cheap flights from qatar to kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

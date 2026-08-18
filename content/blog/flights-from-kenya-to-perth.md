@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Perth: Complete Guide'
-description: Everything you need to know about flights from kenya to perth, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to perth, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-perth
-primary_keyword: flights from kenya to perth
+primary_keyword: 'flights from kenya to perth'
 secondary_keywords:
-- flights from kenya to china
-- are there direct flights from kenya to germany
-- flights to kenya from birmingham
-- cheap flights from kenya to ghana
-- flights from kenya to eswatini
+- 'flights from kenya to china'
+- 'are there direct flights from kenya to germany'
+- 'flights to kenya from birmingham'
+- 'cheap flights from kenya to ghana'
+- 'flights from kenya to eswatini'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

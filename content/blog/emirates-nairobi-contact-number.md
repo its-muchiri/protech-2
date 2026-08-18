@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Nairobi Contact Number: Complete Guide'
-description: Everything you need to know about emirates nairobi contact number, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates nairobi contact number, including routes, airlines, booking tips, and fares.'
 slug: emirates-nairobi-contact-number
-primary_keyword: emirates nairobi contact number
+primary_keyword: 'emirates nairobi contact number'
 secondary_keywords:
-- flights to nairobi from heathrow
-- google flights nairobi to johannesburg
-- flights nairobi to italy
-- flights to nairobi jambojet
-- kenya airways flights nairobi to entebbe price
+- 'flights to nairobi from heathrow'
+- 'google flights nairobi to johannesburg'
+- 'flights nairobi to italy'
+- 'flights to nairobi jambojet'
+- 'kenya airways flights nairobi to entebbe price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

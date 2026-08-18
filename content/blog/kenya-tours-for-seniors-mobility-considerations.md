@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Tours for Seniors Mobility Considerations: Complete Guide'
-description: Kenya safari guide covering kenya tours for seniors mobility considerations, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya tours for seniors mobility considerations, including what is included, pricing, and booking advice.'
 slug: kenya-tours-for-seniors-mobility-considerations
-primary_keyword: Kenya tours for seniors mobility considerations
+primary_keyword: 'Kenya tours for seniors mobility considerations'
 secondary_keywords:
-- Finalize deal 6 day fly-in Masai Mara package
-- Book package tour Kenya including flights option
-- Book guaranteed departure Kenya group safari package
-- Buy 11 day Intrepids camps family adventure package
-- Price 5 day Angama Mara fly-in package deal
+- 'Finalize deal 6 day fly-in Masai Mara package'
+- 'Book package tour Kenya including flights option'
+- 'Book guaranteed departure Kenya group safari package'
+- 'Buy 11 day Intrepids camps family adventure package'
+- 'Price 5 day Angama Mara fly-in package deal'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

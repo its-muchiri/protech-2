@@ -1,14 +1,14 @@
 ---
 title: 'Meru National Park Package Discount Booking: Complete Guide'
-description: Kenya safari guide covering meru national park package discount booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering meru national park package discount booking, including what is included, pricing, and booking advice.'
 slug: meru-national-park-package-discount-booking
-primary_keyword: Meru National Park package discount booking
+primary_keyword: 'Meru National Park package discount booking'
 secondary_keywords:
-- Group Kenya safari
-- Short Kenya safari
-- 9 day Kenya safari
-- Discount Kenya safari
-- Luxury tented camps Kenya
+- 'Group Kenya safari'
+- 'Short Kenya safari'
+- '9 day Kenya safari'
+- 'Discount Kenya safari'
+- 'Luxury tented camps Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

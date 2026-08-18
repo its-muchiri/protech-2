@@ -1,14 +1,14 @@
 ---
-title: 'Doctor's Stool and Chair Suppliers in Mombasa: 2026 Price Guide'
-description: Kenya buying guide to doctors stool and chair suppliers in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+title: 'Doctor''s Stool and Chair Suppliers in Mombasa: 2026 Price Guide'
+description: 'Kenya buying guide to doctors stool and chair suppliers in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: doctor-s-stool-and-chair-suppliers-in-mombasa
-primary_keyword: Doctor's stool and chair suppliers in Mombasa
+primary_keyword: 'Doctor''s stool and chair suppliers in Mombasa'
 secondary_keywords:
-- custom branded lab coats suppliers
-- geriatric care equipment suppliers
-- solar power solutions for rural clinics
-- biofeedback equipment for therapy
-- clinic equipment Kenya
+- 'custom branded lab coats suppliers'
+- 'geriatric care equipment suppliers'
+- 'solar power solutions for rural clinics'
+- 'biofeedback equipment for therapy'
+- 'clinic equipment Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Budget Beach Hotels Mombasa North Coast Backpacker Options: Complete Guide'
-description: Kenya safari guide covering budget beach hotels mombasa north coast backpacker options, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering budget beach hotels mombasa north coast backpacker options, including what is included, pricing, and booking advice.'
 slug: budget-beach-hotels-mombasa-north-coast-backpacker-options
-primary_keyword: Budget beach hotels Mombasa North Coast backpacker options
+primary_keyword: 'Budget beach hotels Mombasa North Coast backpacker options'
 secondary_keywords:
-- Digital detox safari Kenya
-- Using credit cards Kenya safari
-- Affordable 7 day Masai Mara Amboseli safari
-- Best time hot air balloon Masai Mara
-- Avoid tourist traps Kenya safari
+- 'Digital detox safari Kenya'
+- 'Using credit cards Kenya safari'
+- 'Affordable 7 day Masai Mara Amboseli safari'
+- 'Best time hot air balloon Masai Mara'
+- 'Avoid tourist traps Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

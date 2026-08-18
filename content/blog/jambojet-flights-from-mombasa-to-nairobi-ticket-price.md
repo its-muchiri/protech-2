@@ -1,14 +1,14 @@
 ---
 title: 'Jambojet Flights from Mombasa to Nairobi Ticket Price: Complete Guide'
-description: Everything you need to know about jambojet flights from mombasa to nairobi ticket price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about jambojet flights from mombasa to nairobi ticket price, including routes, airlines, booking tips, and fares.'
 slug: jambojet-flights-from-mombasa-to-nairobi-ticket-price
-primary_keyword: jambojet flights from mombasa to nairobi ticket price
+primary_keyword: 'jambojet flights from mombasa to nairobi ticket price'
 secondary_keywords:
-- kq 2 flight
-- kq 487 flight status
-- kq 584 flight status
-- kq886 flight status
-- how many airlines fly to dubai
+- 'kq 2 flight'
+- 'kq 487 flight status'
+- 'kq 584 flight status'
+- 'kq886 flight status'
+- 'how many airlines fly to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

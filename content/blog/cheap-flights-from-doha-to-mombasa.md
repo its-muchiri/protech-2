@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Doha to Mombasa: Complete Guide'
-description: Everything you need to know about cheap flights from doha to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from doha to mombasa, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-doha-to-mombasa
-primary_keyword: cheap flights from doha to mombasa
+primary_keyword: 'cheap flights from doha to mombasa'
 secondary_keywords:
-- flights from nairobi to kenya
-- flights from mombasa to kisumu
-- are there flights from mombasa to diani
-- does british airways fly to africa
-- flights from mombasa to dar es salaam
+- 'flights from nairobi to kenya'
+- 'flights from mombasa to kisumu'
+- 'are there flights from mombasa to diani'
+- 'does british airways fly to africa'
+- 'flights from mombasa to dar es salaam'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

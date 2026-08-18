@@ -1,14 +1,14 @@
 ---
 title: '7 Day Classic Kenya Safari Package Price List: Complete Guide'
-description: Kenya safari guide covering 7 day classic kenya safari package price list, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering 7 day classic kenya safari package price list, including what is included, pricing, and booking advice.'
 slug: 7-day-classic-kenya-safari-package-price-list
-primary_keyword: 7 day classic Kenya safari package price list
+primary_keyword: '7 day classic Kenya safari package price list'
 secondary_keywords:
-- Kenya safari in June
-- International Kenya safari operators
-- Wheelchair friendly Kenya safari
-- Yoga safari Kenya
-- Phone signal Kenya safari
+- 'Kenya safari in June'
+- 'International Kenya safari operators'
+- 'Wheelchair friendly Kenya safari'
+- 'Yoga safari Kenya'
+- 'Phone signal Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

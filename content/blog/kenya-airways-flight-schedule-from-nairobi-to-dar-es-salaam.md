@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight Schedule from Nairobi to Dar Es Salaam: Complete Guide'
-description: Everything you need to know about kenya airways flight schedule from nairobi to dar es salaam, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight schedule from nairobi to dar es salaam, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-schedule-from-nairobi-to-dar-es-salaam
-primary_keyword: kenya airways flight schedule from nairobi to dar es salaam
+primary_keyword: 'kenya airways flight schedule from nairobi to dar es salaam'
 secondary_keywords:
-- flights from kisumu to diani
-- flights in kisumu
-- flights from kisumu to lodwar
-- flights to kisumu prices
-- who flies to zambia
+- 'flights from kisumu to diani'
+- 'flights in kisumu'
+- 'flights from kisumu to lodwar'
+- 'flights to kisumu prices'
+- 'who flies to zambia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

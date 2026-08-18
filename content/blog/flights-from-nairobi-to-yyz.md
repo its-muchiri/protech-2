@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Yyz: Complete Guide'
-description: Everything you need to know about flights from nairobi to yyz, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to yyz, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-yyz
-primary_keyword: flights from nairobi to yyz
+primary_keyword: 'flights from nairobi to yyz'
 secondary_keywords:
-- distance from kenya to united kingdom
-- ethiopia to nairobi flight time
-- ethiopian airlines nairobi contact number whatsapp number
-- ethiopian airlines flight to nairobi today
-- ethiopian airlines nairobi photos
+- 'distance from kenya to united kingdom'
+- 'ethiopia to nairobi flight time'
+- 'ethiopian airlines nairobi contact number whatsapp number'
+- 'ethiopian airlines flight to nairobi today'
+- 'ethiopian airlines nairobi photos'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

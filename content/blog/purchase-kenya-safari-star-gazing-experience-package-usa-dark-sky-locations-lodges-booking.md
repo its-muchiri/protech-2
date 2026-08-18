@@ -1,14 +1,14 @@
 ---
 title: 'Purchase Kenya Safari Star Gazing Experience Package USA Dark Sky Locations Lodges Booking: Complete Guide'
-description: Kenya safari guide covering purchase kenya safari star gazing experience package usa dark sky locations lodges booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase kenya safari star gazing experience package usa dark sky locations lodges booking, including what is included, pricing, and booking advice.'
 slug: purchase-kenya-safari-star-gazing-experience-package-usa-dark-sky-locations-lodges-booking
-primary_keyword: Purchase Kenya safari star gazing experience package USA dark sky locations lodges booking
+primary_keyword: 'Purchase Kenya safari star gazing experience package USA dark sky locations lodges booking'
 secondary_keywords:
-- Secure 10 day Kenya Tanzania combined tour
-- Reserve luxury tented camp safari booking
-- Price for Kenya wildlife safari package
-- Cost of 4 day Masai Mara express tour
-- Quote for 7 day luxury Masai Mara package
+- 'Secure 10 day Kenya Tanzania combined tour'
+- 'Reserve luxury tented camp safari booking'
+- 'Price for Kenya wildlife safari package'
+- 'Cost of 4 day Masai Mara express tour'
+- 'Quote for 7 day luxury Masai Mara package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

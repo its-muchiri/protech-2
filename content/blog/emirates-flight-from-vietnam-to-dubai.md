@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight from Vietnam to Dubai: Complete Guide'
-description: Everything you need to know about emirates flight from vietnam to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight from vietnam to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-from-vietnam-to-dubai
-primary_keyword: emirates flight from vietnam to dubai
+primary_keyword: 'emirates flight from vietnam to dubai'
 secondary_keywords:
-- kenya airways flight schedule to mauritius from nairobi
-- kenya airways flights from nairobi to cape town
-- flight from nairobi to australia
-- flight from nairobi to bangkok
-- ba flight from nairobi
+- 'kenya airways flight schedule to mauritius from nairobi'
+- 'kenya airways flights from nairobi to cape town'
+- 'flight from nairobi to australia'
+- 'flight from nairobi to bangkok'
+- 'ba flight from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

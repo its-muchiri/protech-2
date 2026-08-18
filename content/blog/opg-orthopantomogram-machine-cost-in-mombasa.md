@@ -1,14 +1,14 @@
 ---
 title: 'OPG (orthopantomogram) Machine Cost in Mombasa: 2026 Price Guide'
-description: Kenya buying guide to opg (orthopantomogram) machine cost in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to opg (orthopantomogram) machine cost in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: opg-orthopantomogram-machine-cost-in-mombasa
-primary_keyword: OPG (orthopantomogram) machine cost in Mombasa
+primary_keyword: 'OPG (orthopantomogram) machine cost in Mombasa'
 secondary_keywords:
-- Chison EBit 60 price in Kenya
-- 3-part hematology analyzer for a small lab
-- Laboratory centrifuge (8-tube) for a clinic
-- C-arm compatible operating table for sale
-- Caesarean section (C/S) surgical kit
+- 'Chison EBit 60 price in Kenya'
+- '3-part hematology analyzer for a small lab'
+- 'Laboratory centrifuge (8-tube) for a clinic'
+- 'C-arm compatible operating table for sale'
+- 'Caesarean section (C/S) surgical kit'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

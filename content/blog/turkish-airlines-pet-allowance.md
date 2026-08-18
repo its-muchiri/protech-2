@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Pet Allowance: Complete Guide'
-description: Everything you need to know about turkish airlines pet allowance, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines pet allowance, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-pet-allowance
-primary_keyword: turkish airlines pet allowance
+primary_keyword: 'turkish airlines pet allowance'
 secondary_keywords:
-- flight ticket from kenya to germany
-- flight booking apps in kenya
-- ticket from kenya to turkey
-- booking flights in kenya
-- flights to kenya british airways
+- 'flight ticket from kenya to germany'
+- 'flight booking apps in kenya'
+- 'ticket from kenya to turkey'
+- 'booking flights in kenya'
+- 'flights to kenya british airways'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

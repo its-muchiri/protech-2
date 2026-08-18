@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Eldoret Is How Much: Complete Guide'
-description: Everything you need to know about flight from nairobi to eldoret is how much, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to eldoret is how much, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-eldoret-is-how-much
-primary_keyword: flight from nairobi to eldoret is how much
+primary_keyword: 'flight from nairobi to eldoret is how much'
 secondary_keywords:
-- flights from eldoret to nairobi
-- flights from nairobi to vancouver
-- flights from nairobi to washington dc
-- flights from nairobi kenya to seiyun yemen
-- how much is flight from nairobi to usa
+- 'flights from eldoret to nairobi'
+- 'flights from nairobi to vancouver'
+- 'flights from nairobi to washington dc'
+- 'flights from nairobi kenya to seiyun yemen'
+- 'how much is flight from nairobi to usa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

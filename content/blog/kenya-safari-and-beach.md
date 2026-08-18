@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari and Beach: Complete Guide'
-description: Kenya safari guide covering kenya safari and beach, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari and beach, including what is included, pricing, and booking advice.'
 slug: kenya-safari-and-beach
-primary_keyword: Kenya safari and beach
+primary_keyword: 'Kenya safari and beach'
 secondary_keywords:
-- Private Kenya safari quote UK couple honeymoon
-- Reliable Kenya safari company USA booking BBB rating
-- Kenya safari operator safety record check USA
-- Confirm Kenya safari lodge availability and reserve online
-- Reliable migration safari booking Kenya operator reviews Europe
+- 'Private Kenya safari quote UK couple honeymoon'
+- 'Reliable Kenya safari company USA booking BBB rating'
+- 'Kenya safari operator safety record check USA'
+- 'Confirm Kenya safari lodge availability and reserve online'
+- 'Reliable migration safari booking Kenya operator reviews Europe'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

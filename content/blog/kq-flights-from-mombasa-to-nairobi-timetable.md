@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from Mombasa to Nairobi Timetable: Complete Guide'
-description: Everything you need to know about kq flights from mombasa to nairobi timetable, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from mombasa to nairobi timetable, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-mombasa-to-nairobi-timetable
-primary_keyword: kq flights from mombasa to nairobi timetable
+primary_keyword: 'kq flights from mombasa to nairobi timetable'
 secondary_keywords:
-- flights from kenya to ecuador
-- flights from kenya to fiji
-- flight from kenya to ghana today
-- flights from kenya to hawaii
-- flight from kenya to italy
+- 'flights from kenya to ecuador'
+- 'flights from kenya to fiji'
+- 'flight from kenya to ghana today'
+- 'flights from kenya to hawaii'
+- 'flight from kenya to italy'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

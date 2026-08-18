@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Entebbe to Nairobi: Complete Guide'
-description: Everything you need to know about cheap flights from entebbe to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from entebbe to nairobi, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-entebbe-to-nairobi
-primary_keyword: cheap flights from entebbe to nairobi
+primary_keyword: 'cheap flights from entebbe to nairobi'
 secondary_keywords:
-- virgin flights to nairobi
-- flights yvr to nairobi
-- how much is flight from kenya to america
-- how much is flight ticket to nairobi
-- emirates flights from amman to dubai
+- 'virgin flights to nairobi'
+- 'flights yvr to nairobi'
+- 'how much is flight from kenya to america'
+- 'how much is flight ticket to nairobi'
+- 'emirates flights from amman to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

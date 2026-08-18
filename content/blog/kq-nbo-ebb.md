@@ -1,14 +1,14 @@
 ---
 title: 'Kq Nbo Ebb: Complete Guide'
-description: Everything you need to know about kq nbo ebb, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq nbo ebb, including routes, airlines, booking tips, and fares.'
 slug: kq-nbo-ebb
-primary_keyword: kq nbo ebb
+primary_keyword: 'kq nbo ebb'
 secondary_keywords:
-- which flights operate from nairobi to mombasa
-- flight from mombasa to rwanda
-- flights from mombasa to uganda
-- cheapest flights from mombasa to zanzibar
-- flights from kisumu to south africa
+- 'which flights operate from nairobi to mombasa'
+- 'flight from mombasa to rwanda'
+- 'flights from mombasa to uganda'
+- 'cheapest flights from mombasa to zanzibar'
+- 'flights from kisumu to south africa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

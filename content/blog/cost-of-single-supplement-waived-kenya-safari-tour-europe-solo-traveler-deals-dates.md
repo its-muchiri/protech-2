@@ -1,14 +1,14 @@
 ---
 title: 'Cost of Single Supplement Waived Kenya Safari Tour Europe Solo Traveler Deals Dates: Complete Guide'
-description: Kenya safari guide covering cost of single supplement waived kenya safari tour europe solo traveler deals dates, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering cost of single supplement waived kenya safari tour europe solo traveler deals dates, including what is included, pricing, and booking advice.'
 slug: cost-of-single-supplement-waived-kenya-safari-tour-europe-solo-traveler-deals-dates
-primary_keyword: Cost of single supplement waived Kenya safari tour Europe solo traveler deals dates
+primary_keyword: 'Cost of single supplement waived Kenya safari tour Europe solo traveler deals dates'
 secondary_keywords:
-- Reserve express fly-in safari package (2-3 days)
-- Secure 14 day honeymoon Kenya beach safari booking
-- Tsavo East West safari rates request
-- Budget Kenya camping safari cost estimate
-- Kenya safari package deals
+- 'Reserve express fly-in safari package (2-3 days)'
+- 'Secure 14 day honeymoon Kenya beach safari booking'
+- 'Tsavo East West safari rates request'
+- 'Budget Kenya camping safari cost estimate'
+- 'Kenya safari package deals'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

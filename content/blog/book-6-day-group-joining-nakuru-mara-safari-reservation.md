@@ -1,14 +1,14 @@
 ---
 title: 'Book 6 Day Group Joining Nakuru Mara Safari Reservation: Complete Guide'
-description: Kenya safari guide covering book 6 day group joining nakuru mara safari reservation, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book 6 day group joining nakuru mara safari reservation, including what is included, pricing, and booking advice.'
 slug: book-6-day-group-joining-nakuru-mara-safari-reservation
-primary_keyword: Book 6 day group joining Nakuru Mara safari reservation
+primary_keyword: 'Book 6 day group joining Nakuru Mara safari reservation'
 secondary_keywords:
-- Guided walking tours Nairobi companies
-- Bird watching specialized guide company Kakamega Forest
-- Buy Kenya wildlife safari package
-- Purchase Lake Nakuru safari tour reservation
-- Buy Diani beach and safari package booking
+- 'Guided walking tours Nairobi companies'
+- 'Bird watching specialized guide company Kakamega Forest'
+- 'Buy Kenya wildlife safari package'
+- 'Purchase Lake Nakuru safari tour reservation'
+- 'Buy Diani beach and safari package booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Lamu Island Cultural Holiday Packages UNESCO Site Tours: Complete Guide'
-description: Kenya safari guide covering lamu island cultural holiday packages unesco site tours, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering lamu island cultural holiday packages unesco site tours, including what is included, pricing, and booking advice.'
 slug: lamu-island-cultural-holiday-packages-unesco-site-tours
-primary_keyword: Lamu Island cultural holiday packages UNESCO site tours
+primary_keyword: 'Lamu Island cultural holiday packages UNESCO site tours'
 secondary_keywords:
-- Book 14 day grand Kenya safari package
-- Purchase overland truck safari Kenya booking
-- Estimate for Kenya adventure safari trip
-- Estimate for 6 day Samburu Nakuru safari
-- Price enquiry 5 day family fly-in Amboseli package
+- 'Book 14 day grand Kenya safari package'
+- 'Purchase overland truck safari Kenya booking'
+- 'Estimate for Kenya adventure safari trip'
+- 'Estimate for 6 day Samburu Nakuru safari'
+- 'Price enquiry 5 day family fly-in Amboseli package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Washington Dc: Complete Guide'
-description: Everything you need to know about emirates flights from washington dc, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from washington dc, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-washington-dc
-primary_keyword: emirates flights from washington dc
+primary_keyword: 'emirates flights from washington dc'
 secondary_keywords:
-- cost of flight from eldoret to mombasa
-- flights to eldoret kenya
-- flights from nairobi to eldoret price
-- kq flights to mombasa
-- kq flights to south africa
+- 'cost of flight from eldoret to mombasa'
+- 'flights to eldoret kenya'
+- 'flights from nairobi to eldoret price'
+- 'kq flights to mombasa'
+- 'kq flights to south africa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

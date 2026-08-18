@@ -1,14 +1,14 @@
 ---
 title: 'Does British Airways Fly to Africa: Complete Guide'
-description: Everything you need to know about does british airways fly to africa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about does british airways fly to africa, including routes, airlines, booking tips, and fares.'
 slug: does-british-airways-fly-to-africa
-primary_keyword: does british airways fly to africa
+primary_keyword: 'does british airways fly to africa'
 secondary_keywords:
-- flights from cape town to new york emirates
-- emirates flight 0210
-- emirates flight 142
-- how many destinations does emirates airlines fly to
-- emirates flight schedule from dubai to nairobi
+- 'flights from cape town to new york emirates'
+- 'emirates flight 0210'
+- 'emirates flight 142'
+- 'how many destinations does emirates airlines fly to'
+- 'emirates flight schedule from dubai to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

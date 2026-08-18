@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights to Uk from South Africa: Complete Guide'
-description: Everything you need to know about emirates flights to uk from south africa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights to uk from south africa, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-to-uk-from-south-africa
-primary_keyword: emirates flights to uk from south africa
+primary_keyword: 'emirates flights to uk from south africa'
 secondary_keywords:
-- how much is it from nairobi to mombasa by flight
-- emirates flights from amsterdam to dubai
-- emirates flights from barcelona
-- emirates flights from chicago to dubai
-- flights from islamabad to dubai united arab emirates
+- 'how much is it from nairobi to mombasa by flight'
+- 'emirates flights from amsterdam to dubai'
+- 'emirates flights from barcelona'
+- 'emirates flights from chicago to dubai'
+- 'flights from islamabad to dubai united arab emirates'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

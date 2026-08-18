@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Cultural Immersion Tour Companies: Complete Guide'
-description: Kenya safari guide covering kenya cultural immersion tour companies, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya cultural immersion tour companies, including what is included, pricing, and booking advice.'
 slug: kenya-cultural-immersion-tour-companies
-primary_keyword: Kenya cultural immersion tour companies
+primary_keyword: 'Kenya cultural immersion tour companies'
 secondary_keywords:
-- Avoid safari scams Kenya warning signs
-- Fishing safari Lake Turkana / Lake Victoria Nile Perch
-- Book Kenya safari tour online UK
-- Buy luxury lodge safari Kenya USA reviews
-- Kenya family safari holiday cost estimate 2025
+- 'Avoid safari scams Kenya warning signs'
+- 'Fishing safari Lake Turkana / Lake Victoria Nile Perch'
+- 'Book Kenya safari tour online UK'
+- 'Buy luxury lodge safari Kenya USA reviews'
+- 'Kenya family safari holiday cost estimate 2025'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

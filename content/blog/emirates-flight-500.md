@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 500: Complete Guide'
-description: Everything you need to know about emirates flight 500, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 500, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-500
-primary_keyword: emirates flight 500
+primary_keyword: 'emirates flight 500'
 secondary_keywords:
-- emirates flights from heathrow to dubai
-- how many emirates flights from london to dubai a week
-- emirates flights from jfk
-- emirates flights from kolkata to dubai
-- emirates flights from larnaca
+- 'emirates flights from heathrow to dubai'
+- 'how many emirates flights from london to dubai a week'
+- 'emirates flights from jfk'
+- 'emirates flights from kolkata to dubai'
+- 'emirates flights from larnaca'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

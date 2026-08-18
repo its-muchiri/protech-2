@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Entebbe Today Timetable: Complete Guide'
-description: Everything you need to know about kq flights to entebbe today timetable, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to entebbe today timetable, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-entebbe-today-timetable
-primary_keyword: kq flights to entebbe today timetable
+primary_keyword: 'kq flights to entebbe today timetable'
 secondary_keywords:
-- flights to kenya january 2025
-- flights mombasa kenya to cairo egypt
-- flights paris kenya
-- is kenya airport open now
-- does united airlines fly to kenya
+- 'flights to kenya january 2025'
+- 'flights mombasa kenya to cairo egypt'
+- 'flights paris kenya'
+- 'is kenya airport open now'
+- 'does united airlines fly to kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

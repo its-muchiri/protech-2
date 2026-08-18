@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 953: Complete Guide'
-description: Everything you need to know about emirates flight 953, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 953, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-953
-primary_keyword: emirates flight 953
+primary_keyword: 'emirates flight 953'
 secondary_keywords:
-- emirates airline passenger information
-- emirates flights from london to new york
-- emirates flight 0406
-- emirates flight 206 from jfk
-- emirates flight 332
+- 'emirates airline passenger information'
+- 'emirates flights from london to new york'
+- 'emirates flight 0406'
+- 'emirates flight 206 from jfk'
+- 'emirates flight 332'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

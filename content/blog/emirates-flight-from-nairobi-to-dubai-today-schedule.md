@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight from Nairobi to Dubai Today Schedule: Complete Guide'
-description: Everything you need to know about emirates flight from nairobi to dubai today schedule, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight from nairobi to dubai today schedule, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-from-nairobi-to-dubai-today-schedule
-primary_keyword: emirates flight from nairobi to dubai today schedule
+primary_keyword: 'emirates flight from nairobi to dubai today schedule'
 secondary_keywords:
-- flights from mombasa to gatwick london
-- flights from london heathrow to mombasa kenya
-- flights from nairobi to mombasa jambojet
-- flights from mombasa to kilimanjaro
-- cheap flights to mombasa from london
+- 'flights from mombasa to gatwick london'
+- 'flights from london heathrow to mombasa kenya'
+- 'flights from nairobi to mombasa jambojet'
+- 'flights from mombasa to kilimanjaro'
+- 'cheap flights to mombasa from london'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

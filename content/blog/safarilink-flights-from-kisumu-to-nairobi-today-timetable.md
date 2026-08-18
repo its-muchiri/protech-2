@@ -1,14 +1,14 @@
 ---
 title: 'Safarilink Flights from Kisumu to Nairobi Today Timetable: Complete Guide'
-description: Everything you need to know about safarilink flights from kisumu to nairobi today timetable, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about safarilink flights from kisumu to nairobi today timetable, including routes, airlines, booking tips, and fares.'
 slug: safarilink-flights-from-kisumu-to-nairobi-today-timetable
-primary_keyword: safarilink flights from kisumu to nairobi today timetable
+primary_keyword: 'safarilink flights from kisumu to nairobi today timetable'
 secondary_keywords:
-- local flight booking in kenya
-- ticket from kenya to dubai
-- cheap local flights in kenya
-- how much does a flight to kenya cost
-- cheapest local flights in kenya
+- 'local flight booking in kenya'
+- 'ticket from kenya to dubai'
+- 'cheap local flights in kenya'
+- 'how much does a flight to kenya cost'
+- 'cheapest local flights in kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from Eldoret to Nairobi: Complete Guide'
-description: Everything you need to know about kq flights from eldoret to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from eldoret to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-eldoret-to-nairobi
-primary_keyword: kq flights from eldoret to nairobi
+primary_keyword: 'kq flights from eldoret to nairobi'
 secondary_keywords:
-- emirates flights from glasgow to abu dhabi
-- how many emirates flights from toronto to dubai
-- emirates flights from italy to dubai
-- emirates flights from dubai to johannesburg today
-- flights from kozhikode to dubai united arab emirates
+- 'emirates flights from glasgow to abu dhabi'
+- 'how many emirates flights from toronto to dubai'
+- 'emirates flights from italy to dubai'
+- 'emirates flights from dubai to johannesburg today'
+- 'flights from kozhikode to dubai united arab emirates'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

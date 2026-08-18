@@ -1,14 +1,14 @@
 ---
 title: 'Zebra Migration Kenya: Complete Guide'
-description: Kenya safari guide covering zebra migration kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering zebra migration kenya, including what is included, pricing, and booking advice.'
 slug: zebra-migration-kenya
-primary_keyword: Zebra migration Kenya
+primary_keyword: 'Zebra migration Kenya'
 secondary_keywords:
-- Shared safari Kenya package booking
-- Best East Africa combined safari packages
-- December holiday family safari package Kenya book
-- Check availability  Kenya safari
-- All-inclusive Kenya safari package deals
+- 'Shared safari Kenya package booking'
+- 'Best East Africa combined safari packages'
+- 'December holiday family safari package Kenya book'
+- 'Check availability  Kenya safari'
+- 'All-inclusive Kenya safari package deals'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

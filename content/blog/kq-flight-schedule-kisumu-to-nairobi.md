@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight Schedule Kisumu to Nairobi: Complete Guide'
-description: Everything you need to know about kq flight schedule kisumu to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight schedule kisumu to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-schedule-kisumu-to-nairobi
-primary_keyword: kq flight schedule kisumu to nairobi
+primary_keyword: 'kq flight schedule kisumu to nairobi'
 secondary_keywords:
-- kq flight status lhr to nbo
-- kq world
-- kq lagos to nairobi
-- kq 271 flight status
-- kq 353 flight status today
+- 'kq flight status lhr to nbo'
+- 'kq world'
+- 'kq lagos to nairobi'
+- 'kq 271 flight status'
+- 'kq 353 flight status today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

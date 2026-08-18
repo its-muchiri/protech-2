@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Sydney: Complete Guide'
-description: Everything you need to know about flight from nairobi to sydney, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to sydney, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-sydney
-primary_keyword: flight from nairobi to sydney
+primary_keyword: 'flight from nairobi to sydney'
 secondary_keywords:
-- flights from cape town to new york emirates
-- emirates flight 0210
-- emirates flight 142
-- how many destinations does emirates airlines fly to
-- emirates flight schedule from dubai to nairobi
+- 'flights from cape town to new york emirates'
+- 'emirates flight 0210'
+- 'emirates flight 142'
+- 'how many destinations does emirates airlines fly to'
+- 'emirates flight schedule from dubai to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

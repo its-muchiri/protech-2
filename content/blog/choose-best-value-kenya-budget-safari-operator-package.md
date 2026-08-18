@@ -1,14 +1,14 @@
 ---
 title: 'Choose Best Value Kenya Budget Safari Operator Package: Complete Guide'
-description: Kenya safari guide covering choose best value kenya budget safari operator package, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering choose best value kenya budget safari operator package, including what is included, pricing, and booking advice.'
 slug: choose-best-value-kenya-budget-safari-operator-package
-primary_keyword: Choose best value Kenya budget safari operator package
+primary_keyword: 'Choose best value Kenya budget safari operator package'
 secondary_keywords:
-- Affordable 7 day Masai Mara Amboseli safari
-- Best time hot air balloon Masai Mara
-- Avoid tourist traps Kenya safari
-- Kenia reisen safari (German)
-- Open top jeep safari Kenya
+- 'Affordable 7 day Masai Mara Amboseli safari'
+- 'Best time hot air balloon Masai Mara'
+- 'Avoid tourist traps Kenya safari'
+- 'Kenia reisen safari (German)'
+- 'Open top jeep safari Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

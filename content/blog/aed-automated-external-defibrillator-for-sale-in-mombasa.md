@@ -1,14 +1,14 @@
 ---
 title: 'AED (Automated External Defibrillator) for Sale in Mombasa: 2026 Price Guide'
-description: Kenya buying guide to aed (automated external defibrillator) for sale in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to aed (automated external defibrillator) for sale in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: aed-automated-external-defibrillator-for-sale-in-mombasa
-primary_keyword: AED (Automated External Defibrillator) for sale in Mombasa
+primary_keyword: 'AED (Automated External Defibrillator) for sale in Mombasa'
 secondary_keywords:
-- Emergency ventilator price in Kenya
-- ENT endoscope for sale in Mombasa
-- Medical cotton wool and gauze wholesale
-- Funeral home equipment suppliers in Kenya
-- Tourniquet for blood collection
+- 'Emergency ventilator price in Kenya'
+- 'ENT endoscope for sale in Mombasa'
+- 'Medical cotton wool and gauze wholesale'
+- 'Funeral home equipment suppliers in Kenya'
+- 'Tourniquet for blood collection'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

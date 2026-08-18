@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Kenya Office: Complete Guide'
-description: Everything you need to know about emirates kenya office, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates kenya office, including routes, airlines, booking tips, and fares.'
 slug: emirates-kenya-office
-primary_keyword: emirates kenya office
+primary_keyword: 'emirates kenya office'
 secondary_keywords:
-- flight from eldoret to nairobi cost
-- flights to eldoret from wilson
-- kq flight attendant job application
-- kenya airways flights bujumbura nairobi
-- kq flight cost from nairobi to mombasa
+- 'flight from eldoret to nairobi cost'
+- 'flights to eldoret from wilson'
+- 'kq flight attendant job application'
+- 'kenya airways flights bujumbura nairobi'
+- 'kq flight cost from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Fare from Nairobi to Dubai: Complete Guide'
-description: Everything you need to know about emirates fare from nairobi to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates fare from nairobi to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-fare-from-nairobi-to-dubai
-primary_keyword: emirates fare from nairobi to dubai
+primary_keyword: 'emirates fare from nairobi to dubai'
 secondary_keywords:
-- flights from kenya to barbados
-- flights from kenya to cape town
-- flights from kenya to dar es salaam
-- flight from kenya to estonia
-- flights from san francisco to nairobi kenya
+- 'flights from kenya to barbados'
+- 'flights from kenya to cape town'
+- 'flights from kenya to dar es salaam'
+- 'flight from kenya to estonia'
+- 'flights from san francisco to nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

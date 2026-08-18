@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from Nairobi to Lagos: Complete Guide'
-description: Everything you need to know about kenya airways flight from nairobi to lagos, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from nairobi to lagos, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-nairobi-to-lagos
-primary_keyword: kenya airways flight from nairobi to lagos
+primary_keyword: 'kenya airways flight from nairobi to lagos'
 secondary_keywords:
-- flights nairobi to diani beach
-- etihad flights nairobi to abu dhabi
-- flights nairobi to ghana
-- flights nairobi to hong kong
-- nairobi to italy flights
+- 'flights nairobi to diani beach'
+- 'etihad flights nairobi to abu dhabi'
+- 'flights nairobi to ghana'
+- 'flights nairobi to hong kong'
+- 'nairobi to italy flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

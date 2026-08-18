@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Cairo: Complete Guide'
-description: Everything you need to know about flight from nairobi to cairo, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to cairo, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-cairo
-primary_keyword: flight from nairobi to cairo
+primary_keyword: 'flight from nairobi to cairo'
 secondary_keywords:
-- flights from mombasa to arusha tanzania
-- flights brussels mombasa
-- flights to mombasa cheap
-- flights from mombasa to doha
-- flights to frankfurt from mombasa kenya
+- 'flights from mombasa to arusha tanzania'
+- 'flights brussels mombasa'
+- 'flights to mombasa cheap'
+- 'flights from mombasa to doha'
+- 'flights to frankfurt from mombasa kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

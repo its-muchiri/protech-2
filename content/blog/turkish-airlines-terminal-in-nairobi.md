@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Terminal in Nairobi: Complete Guide'
-description: Everything you need to know about turkish airlines terminal in nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines terminal in nairobi, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-terminal-in-nairobi
-primary_keyword: turkish airlines terminal in nairobi
+primary_keyword: 'turkish airlines terminal in nairobi'
 secondary_keywords:
-- emirates flights from rome to melbourne
-- emirates flights from singapore to dubai
-- emirates flights from uk to zimbabwe
-- flights from vancouver to dubai emirates
-- emirates flights from heathrow to dubai which terminal
+- 'emirates flights from rome to melbourne'
+- 'emirates flights from singapore to dubai'
+- 'emirates flights from uk to zimbabwe'
+- 'flights from vancouver to dubai emirates'
+- 'emirates flights from heathrow to dubai which terminal'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

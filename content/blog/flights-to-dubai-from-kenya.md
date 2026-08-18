@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Dubai from Kenya: Complete Guide'
-description: Everything you need to know about flights to dubai from kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to dubai from kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-to-dubai-from-kenya
-primary_keyword: flights to dubai from kenya
+primary_keyword: 'flights to dubai from kenya'
 secondary_keywords:
-- safarilink flights from kisumu to nairobi
-- flights to nairobi from usa
-- flights from nairobi to watamu
-- flights from nairobi to new york usa
-- one way flight from nairobi to mombasa
+- 'safarilink flights from kisumu to nairobi'
+- 'flights to nairobi from usa'
+- 'flights from nairobi to watamu'
+- 'flights from nairobi to new york usa'
+- 'one way flight from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

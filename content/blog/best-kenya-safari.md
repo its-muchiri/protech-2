@@ -1,14 +1,14 @@
 ---
 title: 'Best Kenya Safari: Complete Guide'
-description: Kenya safari guide covering best kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering best kenya safari, including what is included, pricing, and booking advice.'
 slug: best-kenya-safari
-primary_keyword: Best Kenya safari
+primary_keyword: 'Best Kenya safari'
 secondary_keywords:
-- Reserve tour  Kenya branch
-- Buy full board Kenya lodge safari package online
-- Compare 7 day Kenya safari package prices
-- Secure dry season Kenya wildlife viewing package booking
-- Purchase 7 day all-inclusive Governors Camp package deal Masai Mara
+- 'Reserve tour  Kenya branch'
+- 'Buy full board Kenya lodge safari package online'
+- 'Compare 7 day Kenya safari package prices'
+- 'Secure dry season Kenya wildlife viewing package booking'
+- 'Purchase 7 day all-inclusive Governors Camp package deal Masai Mara'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

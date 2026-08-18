@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Flight from Doha to Nairobi: Complete Guide'
-description: Everything you need to know about qatar flight from doha to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar flight from doha to nairobi, including routes, airlines, booking tips, and fares.'
 slug: qatar-flight-from-doha-to-nairobi
-primary_keyword: qatar flight from doha to nairobi
+primary_keyword: 'qatar flight from doha to nairobi'
 secondary_keywords:
-- qatar airways nairobi jobs
-- cost of flight from nairobi to qatar
-- kq flight from addis to nairobi
-- kq flights from dubai
-- kq flight from nairobi to heathrow
+- 'qatar airways nairobi jobs'
+- 'cost of flight from nairobi to qatar'
+- 'kq flight from addis to nairobi'
+- 'kq flights from dubai'
+- 'kq flight from nairobi to heathrow'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

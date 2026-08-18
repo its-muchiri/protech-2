@@ -1,14 +1,14 @@
 ---
 title: 'Fly Direct from USA to Kenya Safari Booking 2025: Complete Guide'
-description: Kenya safari guide covering fly direct from usa to kenya safari booking 2025, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering fly direct from usa to kenya safari booking 2025, including what is included, pricing, and booking advice.'
 slug: fly-direct-from-usa-to-kenya-safari-booking-2025
-primary_keyword: Fly direct from USA to Kenya safari booking 2025
+primary_keyword: 'Fly direct from USA to Kenya safari booking 2025'
 secondary_keywords:
-- Lion safari Kenya
-- Kenya coastal safari
-- Kenya safari from South Africa
-- Kenya safari in September (Migration)
-- Kenya safari itinerary
+- 'Lion safari Kenya'
+- 'Kenya coastal safari'
+- 'Kenya safari from South Africa'
+- 'Kenya safari in September (Migration)'
+- 'Kenya safari itinerary'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

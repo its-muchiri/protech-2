@@ -1,14 +1,14 @@
 ---
 title: 'Are Emirates Flights Cancelled: Complete Guide'
-description: Everything you need to know about are emirates flights cancelled, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about are emirates flights cancelled, including routes, airlines, booking tips, and fares.'
 slug: are-emirates-flights-cancelled
-primary_keyword: are emirates flights cancelled
+primary_keyword: 'are emirates flights cancelled'
 secondary_keywords:
-- does kenya airways fly to australia
-- kenya airways flight schedule from lilongwe to nairobi
-- kenya airways flight from new york to nairobi today
-- flight from nairobi
-- flight from nairobi to addis ababa time
+- 'does kenya airways fly to australia'
+- 'kenya airways flight schedule from lilongwe to nairobi'
+- 'kenya airways flight from new york to nairobi today'
+- 'flight from nairobi'
+- 'flight from nairobi to addis ababa time'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

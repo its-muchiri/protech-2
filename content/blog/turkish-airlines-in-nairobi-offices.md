@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines in Nairobi Offices: Complete Guide'
-description: Everything you need to know about turkish airlines in nairobi offices, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines in nairobi offices, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-in-nairobi-offices
-primary_keyword: turkish airlines in nairobi offices
+primary_keyword: 'turkish airlines in nairobi offices'
 secondary_keywords:
-- map of emirates flights from dubai
-- emirates flights from orlando to hyderabad india
-- emirates flights from prague
-- qantas points from emirates flights
-- are emirates flights from uk to dubai cancelled
+- 'map of emirates flights from dubai'
+- 'emirates flights from orlando to hyderabad india'
+- 'emirates flights from prague'
+- 'qantas points from emirates flights'
+- 'are emirates flights from uk to dubai cancelled'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

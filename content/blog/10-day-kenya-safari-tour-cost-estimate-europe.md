@@ -1,14 +1,14 @@
 ---
 title: '10-day Kenya Safari Tour Cost Estimate Europe: Complete Guide'
-description: Kenya safari guide covering 10-day kenya safari tour cost estimate europe, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering 10-day kenya safari tour cost estimate europe, including what is included, pricing, and booking advice.'
 slug: 10-day-kenya-safari-tour-cost-estimate-europe
-primary_keyword: 10-day Kenya safari tour cost estimate Europe
+primary_keyword: '10-day Kenya safari tour cost estimate Europe'
 secondary_keywords:
-- Get itinerary and cost 8 day Kenya private safari
-- Secure place 6 day small group Kenya photo safari
-- Reserve spot 7 day photographic workshop package Kenya
-- Get deal on 8 day Kicheche Camps luxury package Mara conservancy
-- Buy 9 day Cottar''s 1920s Safari Camp luxury package
+- 'Get itinerary and cost 8 day Kenya private safari'
+- 'Secure place 6 day small group Kenya photo safari'
+- 'Reserve spot 7 day photographic workshop package Kenya'
+- 'Get deal on 8 day Kicheche Camps luxury package Mara conservancy'
+- 'Buy 9 day Cottar''''s 1920s Safari Camp luxury package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

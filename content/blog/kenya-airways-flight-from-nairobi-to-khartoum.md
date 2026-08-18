@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from Nairobi to Khartoum: Complete Guide'
-description: Everything you need to know about kenya airways flight from nairobi to khartoum, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from nairobi to khartoum, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-nairobi-to-khartoum
-primary_keyword: kenya airways flight from nairobi to khartoum
+primary_keyword: 'kenya airways flight from nairobi to khartoum'
 secondary_keywords:
-- kenya airways flights from durban to mumbai
-- kq flight from juba to nairobi today
-- kq airline routes
-- kq 533
-- kenya airways flight from nairobi to cape town
+- 'kenya airways flights from durban to mumbai'
+- 'kq flight from juba to nairobi today'
+- 'kq airline routes'
+- 'kq 533'
+- 'kenya airways flight from nairobi to cape town'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

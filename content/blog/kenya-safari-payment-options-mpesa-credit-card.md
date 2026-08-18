@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Payment Options Mpesa Credit Card: Complete Guide'
-description: Kenya safari guide covering kenya safari payment options mpesa credit card, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari payment options mpesa credit card, including what is included, pricing, and booking advice.'
 slug: kenya-safari-payment-options-mpesa-credit-card
-primary_keyword: Kenya safari payment options Mpesa credit card
+primary_keyword: 'Kenya safari payment options Mpesa credit card'
 secondary_keywords:
-- Price and book 6 day Ashnil Samburu Mara package
-- Reserve 7 day Richard''s River Camp private conservancy package
-- Secure booking ultra-luxury Kenya tented suite package
-- Top 10 safari operators Kenya
-- Last minute safari deals Kenya companies
+- 'Price and book 6 day Ashnil Samburu Mara package'
+- 'Reserve 7 day Richard''''s River Camp private conservancy package'
+- 'Secure booking ultra-luxury Kenya tented suite package'
+- 'Top 10 safari operators Kenya'
+- 'Last minute safari deals Kenya companies'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

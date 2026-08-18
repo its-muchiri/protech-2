@@ -1,14 +1,14 @@
 ---
 title: 'Kq Airline Prefix: Complete Guide'
-description: Everything you need to know about kq airline prefix, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq airline prefix, including routes, airlines, booking tips, and fares.'
 slug: kq-airline-prefix
-primary_keyword: kq airline prefix
+primary_keyword: 'kq airline prefix'
 secondary_keywords:
-- rwandair flight from nairobi to kigali
-- safarilink flight from nairobi to kisumu
-- flight from nairobi to ukunda
-- flights from nairobi to vipingo ridge
-- flight from nairobi to dallas
+- 'rwandair flight from nairobi to kigali'
+- 'safarilink flight from nairobi to kisumu'
+- 'flight from nairobi to ukunda'
+- 'flights from nairobi to vipingo ridge'
+- 'flight from nairobi to dallas'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

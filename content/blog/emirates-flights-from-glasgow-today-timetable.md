@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Glasgow Today Timetable: Complete Guide'
-description: Everything you need to know about emirates flights from glasgow today timetable, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from glasgow today timetable, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-glasgow-today-timetable
-primary_keyword: emirates flights from glasgow today timetable
+primary_keyword: 'emirates flights from glasgow today timetable'
 secondary_keywords:
-- kq flight from london to nairobi
-- kq flight schedule nairobi to mombasa
-- kenya airways flight from nairobi to kisumu
-- kenya airways flights from nairobi to bangkok
-- kenya airways flight schedule to freetown from nairobi
+- 'kq flight from london to nairobi'
+- 'kq flight schedule nairobi to mombasa'
+- 'kenya airways flight from nairobi to kisumu'
+- 'kenya airways flights from nairobi to bangkok'
+- 'kenya airways flight schedule to freetown from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

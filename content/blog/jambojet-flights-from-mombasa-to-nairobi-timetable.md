@@ -1,14 +1,14 @@
 ---
 title: 'Jambojet Flights from Mombasa to Nairobi Timetable: Complete Guide'
-description: Everything you need to know about jambojet flights from mombasa to nairobi timetable, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about jambojet flights from mombasa to nairobi timetable, including routes, airlines, booking tips, and fares.'
 slug: jambojet-flights-from-mombasa-to-nairobi-timetable
-primary_keyword: jambojet flights from mombasa to nairobi timetable
+primary_keyword: 'jambojet flights from mombasa to nairobi timetable'
 secondary_keywords:
-- emirates flights from johannesburg to dubai price
-- when will emirates resume flights to qatar from dubai
-- emirates flights to rome from melbourne
-- emirates flights from toronto to delhi
-- emirates flights from vancouver
+- 'emirates flights from johannesburg to dubai price'
+- 'when will emirates resume flights to qatar from dubai'
+- 'emirates flights to rome from melbourne'
+- 'emirates flights from toronto to delhi'
+- 'emirates flights from vancouver'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

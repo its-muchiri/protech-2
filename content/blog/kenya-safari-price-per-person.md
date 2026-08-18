@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Price Per Person: Complete Guide'
-description: Kenya safari guide covering kenya safari price per person, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari price per person, including what is included, pricing, and booking advice.'
 slug: kenya-safari-price-per-person
-primary_keyword: Kenya safari price per person
+primary_keyword: 'Kenya safari price per person'
 secondary_keywords:
-- 7 day family safari beach combo company
-- Student discount safari Kenya
-- Fourteen Falls tour guide Thika
-- Halal safari tour operators Kenya
-- Diani beach holiday all inclusive package wheelchair accessible company
+- '7 day family safari beach combo company'
+- 'Student discount safari Kenya'
+- 'Fourteen Falls tour guide Thika'
+- 'Halal safari tour operators Kenya'
+- 'Diani beach holiday all inclusive package wheelchair accessible company'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

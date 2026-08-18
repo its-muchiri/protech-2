@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights to Uk from Perth: Complete Guide'
-description: Everything you need to know about emirates flights to uk from perth, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights to uk from perth, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-to-uk-from-perth
-primary_keyword: emirates flights to uk from perth
+primary_keyword: 'emirates flights to uk from perth'
 secondary_keywords:
-- emirates flights to new zealand from manchester
-- emirates flight 1
-- when will emirates resume flights to bali from auckland 2023
-- emirates flights to dubai from heathrow terminal 3
-- emirates flight 521
+- 'emirates flights to new zealand from manchester'
+- 'emirates flight 1'
+- 'when will emirates resume flights to bali from auckland 2023'
+- 'emirates flights to dubai from heathrow terminal 3'
+- 'emirates flight 521'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

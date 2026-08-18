@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Eldoret Jambojet Price Today: Complete Guide'
-description: Everything you need to know about flight from nairobi to eldoret jambojet price today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to eldoret jambojet price today, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-eldoret-jambojet-price-today
-primary_keyword: flight from nairobi to eldoret jambojet price today
+primary_keyword: 'flight from nairobi to eldoret jambojet price today'
 secondary_keywords:
-- flight from nairobi to mumbai
-- flight to namibia from nairobi
-- flight from nairobi to poland
-- flight from nairobi to rome
-- flight from nairobi to singapore
+- 'flight from nairobi to mumbai'
+- 'flight to namibia from nairobi'
+- 'flight from nairobi to poland'
+- 'flight from nairobi to rome'
+- 'flight from nairobi to singapore'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

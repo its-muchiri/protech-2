@@ -1,14 +1,14 @@
 ---
 title: 'Sterilization Indicator Strips and Tape: 2026 Price Guide'
-description: Kenya buying guide to sterilization indicator strips and tape. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to sterilization indicator strips and tape. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: sterilization-indicator-strips-and-tape
-primary_keyword: Sterilization indicator strips and tape
+primary_keyword: 'Sterilization indicator strips and tape'
 secondary_keywords:
-- surgical spirit Kenya price
-- microscope slides Kenya price
-- tongue depressors Kenya box
-- spirit swabs Kenya
-- temperature loggers medical Kenya
+- 'surgical spirit Kenya price'
+- 'microscope slides Kenya price'
+- 'tongue depressors Kenya box'
+- 'spirit swabs Kenya'
+- 'temperature loggers medical Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

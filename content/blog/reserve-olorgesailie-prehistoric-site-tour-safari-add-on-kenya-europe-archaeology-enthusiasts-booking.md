@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Olorgesailie Prehistoric Site Tour Safari Add-on Kenya Europe Archaeology Enthusiasts Booking: Complete Guide'
-description: Kenya safari guide covering reserve olorgesailie prehistoric site tour safari add-on kenya europe archaeology enthusiasts booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve olorgesailie prehistoric site tour safari add-on kenya europe archaeology enthusiasts booking, including what is included, pricing, and booking advice.'
 slug: reserve-olorgesailie-prehistoric-site-tour-safari-add-on-kenya-europe-archaeology-enthusiasts-booking
-primary_keyword: Reserve Olorgesailie Prehistoric Site tour safari add-on Kenya Europe archaeology enthusiasts booking
+primary_keyword: 'Reserve Olorgesailie Prehistoric Site tour safari add-on Kenya Europe archaeology enthusiasts booking'
 secondary_keywords:
-- Kenya safari tour operator reviews Tripadvisor
-- 4 day Samburu reserve safari package deal
-- Butterfly safari Kenya (Arabuko Sokoke)
-- Kenya safari COVID requirements (Historically important)
-- How are safari guides trained Kenya
+- 'Kenya safari tour operator reviews Tripadvisor'
+- '4 day Samburu reserve safari package deal'
+- 'Butterfly safari Kenya (Arabuko Sokoke)'
+- 'Kenya safari COVID requirements (Historically important)'
+- 'How are safari guides trained Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

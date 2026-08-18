@@ -1,14 +1,14 @@
 ---
 title: 'Purchase 8 Day Private Photographic Samburu Tour: Complete Guide'
-description: Kenya safari guide covering purchase 8 day private photographic samburu tour, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase 8 day private photographic samburu tour, including what is included, pricing, and booking advice.'
 slug: purchase-8-day-private-photographic-samburu-tour
-primary_keyword: Purchase 8 day private photographic Samburu tour
+primary_keyword: 'Purchase 8 day private photographic Samburu tour'
 secondary_keywords:
-- All inclusive Kenya safari packages definition / what''s included
-- Kenya shillings exchange rate USD / EUR / GBP
-- Service level agreement Kenya tour operator contract terms
-- Travel agents in Thika town booking safaris Elisa Travel Agency
-- Purchase budget Kenya safari tour Europe best price
+- 'All inclusive Kenya safari packages definition / what''''s included'
+- 'Kenya shillings exchange rate USD / EUR / GBP'
+- 'Service level agreement Kenya tour operator contract terms'
+- 'Travel agents in Thika town booking safaris Elisa Travel Agency'
+- 'Purchase budget Kenya safari tour Europe best price'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

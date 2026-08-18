@@ -1,14 +1,14 @@
 ---
 title: 'Jambojet Flights from Eldoret to Mombasa: Complete Guide'
-description: Everything you need to know about jambojet flights from eldoret to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about jambojet flights from eldoret to mombasa, including routes, airlines, booking tips, and fares.'
 slug: jambojet-flights-from-eldoret-to-mombasa
-primary_keyword: jambojet flights from eldoret to mombasa
+primary_keyword: 'jambojet flights from eldoret to mombasa'
 secondary_keywords:
-- emirates nairobi flight cancellation
-- emirates nairobi office
-- emirates flight from nairobi to delhi
-- emirates airline kenya tickets
-- emirates kenya email address
+- 'emirates nairobi flight cancellation'
+- 'emirates nairobi office'
+- 'emirates flight from nairobi to delhi'
+- 'emirates airline kenya tickets'
+- 'emirates kenya email address'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

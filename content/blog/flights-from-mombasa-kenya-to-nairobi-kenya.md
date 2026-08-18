@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa Kenya to Nairobi Kenya: Complete Guide'
-description: Everything you need to know about flights from mombasa kenya to nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa kenya to nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-kenya-to-nairobi-kenya
-primary_keyword: flights from mombasa kenya to nairobi kenya
+primary_keyword: 'flights from mombasa kenya to nairobi kenya'
 secondary_keywords:
-- flights nairobi to morocco
-- tickets to nairobi national park
-- flights nairobi to perth
-- flight cost from nairobi to qatar
-- flights to nairobi round trip
+- 'flights nairobi to morocco'
+- 'tickets to nairobi national park'
+- 'flights nairobi to perth'
+- 'flight cost from nairobi to qatar'
+- 'flights to nairobi round trip'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

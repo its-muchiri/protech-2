@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Toronto to India: Complete Guide'
-description: Everything you need to know about emirates flights from toronto to india, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from toronto to india, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-toronto-to-india
-primary_keyword: emirates flights from toronto to india
+primary_keyword: 'emirates flights from toronto to india'
 secondary_keywords:
-- how much is a flight from nairobi to ukunda
-- emirates flights from
-- emirates flights to uk from south africa
-- emirates flights to bali from south africa
-- emirates flights from lusaka to china
+- 'how much is a flight from nairobi to ukunda'
+- 'emirates flights from'
+- 'emirates flights to uk from south africa'
+- 'emirates flights to bali from south africa'
+- 'emirates flights from lusaka to china'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

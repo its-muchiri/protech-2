@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from Dubai to Nairobi: Complete Guide'
-description: Everything you need to know about kq flights from dubai to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from dubai to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-dubai-to-nairobi
-primary_keyword: kq flights from dubai to nairobi
+primary_keyword: 'kq flights from dubai to nairobi'
 secondary_keywords:
-- flights from kenya to portugal
-- flights to poland from kenya
-- flights from kenya to rome
-- flights from kenya to swaziland
-- flights from kenya to uk
+- 'flights from kenya to portugal'
+- 'flights to poland from kenya'
+- 'flights from kenya to rome'
+- 'flights from kenya to swaziland'
+- 'flights from kenya to uk'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

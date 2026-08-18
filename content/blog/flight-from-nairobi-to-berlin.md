@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Berlin: Complete Guide'
-description: Everything you need to know about flight from nairobi to berlin, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to berlin, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-berlin
-primary_keyword: flight from nairobi to berlin
+primary_keyword: 'flight from nairobi to berlin'
 secondary_keywords:
-- kq flights from dubai to nairobi price
-- kq flights to germany
-- kq international flights
-- kenya airways jfk flights
-- kq flights to lagos
+- 'kq flights from dubai to nairobi price'
+- 'kq flights to germany'
+- 'kq international flights'
+- 'kenya airways jfk flights'
+- 'kq flights to lagos'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

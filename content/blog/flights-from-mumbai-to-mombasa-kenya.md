@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mumbai to Mombasa Kenya: Complete Guide'
-description: Everything you need to know about flights from mumbai to mombasa kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mumbai to mombasa kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mumbai-to-mombasa-kenya
-primary_keyword: flights from mumbai to mombasa kenya
+primary_keyword: 'flights from mumbai to mombasa kenya'
 secondary_keywords:
-- flight time nairobi to zanzibar
-- 2 bedroom nairobi west
-- emirates flights from sydney
-- flights to australia from dublin emirates
-- emirates flights from cape town to dubai today
+- 'flight time nairobi to zanzibar'
+- '2 bedroom nairobi west'
+- 'emirates flights from sydney'
+- 'flights to australia from dublin emirates'
+- 'emirates flights from cape town to dubai today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Posture Mirror for Clinic: 2026 Price Guide'
-description: Kenya buying guide to posture mirror for clinic. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to posture mirror for clinic. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: posture-mirror-for-clinic
-primary_keyword: Posture mirror for clinic
+primary_keyword: 'Posture mirror for clinic'
 secondary_keywords:
-- Oxygen analyzer for medical gas pipeline
-- Hospital PSA oxygen plant 50 Nm3/h cost
-- Sleep study (polysomnography) equipment
-- Glucometer strips wholesale price in Kenya
-- Teleradiology solutions in Kenya
+- 'Oxygen analyzer for medical gas pipeline'
+- 'Hospital PSA oxygen plant 50 Nm3/h cost'
+- 'Sleep study (polysomnography) equipment'
+- 'Glucometer strips wholesale price in Kenya'
+- 'Teleradiology solutions in Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

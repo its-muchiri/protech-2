@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights 777: Complete Guide'
-description: Everything you need to know about emirates flights 777, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights 777, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-777
-primary_keyword: emirates flights 777
+primary_keyword: 'emirates flights 777'
 secondary_keywords:
-- kq 511 flight status
-- kq 625 flight status
-- emirates flight from nairobi to ahmedabad
-- emirates flight from nairobi to dubai price
-- emirates flight from kenya to usa
+- 'kq 511 flight status'
+- 'kq 625 flight status'
+- 'emirates flight from nairobi to ahmedabad'
+- 'emirates flight from nairobi to dubai price'
+- 'emirates flight from kenya to usa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

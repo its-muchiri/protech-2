@@ -1,14 +1,14 @@
 ---
 title: 'C-arm Machine for Surgery Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to c-arm machine for surgery price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to c-arm machine for surgery price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: c-arm-machine-for-surgery-price-in-kenya
-primary_keyword: C-arm machine for surgery price in Kenya
+primary_keyword: 'C-arm machine for surgery price in Kenya'
 secondary_keywords:
-- Affordable clinic setup package in Kenya
-- Bone densitometer (DEXA scan) suppliers in Kenya
-- Floor-mounted X-ray machine suppliers in Mombasa
-- Semi-automated clinical chemistry analyzer for a startup lab
-- Laboratory incubator suppliers in Eldoret
+- 'Affordable clinic setup package in Kenya'
+- 'Bone densitometer (DEXA scan) suppliers in Kenya'
+- 'Floor-mounted X-ray machine suppliers in Mombasa'
+- 'Semi-automated clinical chemistry analyzer for a startup lab'
+- 'Laboratory incubator suppliers in Eldoret'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

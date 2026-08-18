@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Vienna: Complete Guide'
-description: Everything you need to know about flights nairobi to vienna, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to vienna, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-vienna
-primary_keyword: flights nairobi to vienna
+primary_keyword: 'flights nairobi to vienna'
 secondary_keywords:
-- emirates flight 603
-- emirates flight 763
-- emirates flight 9
-- qatar airways nairobi address
-- qatar airways nairobi careers
+- 'emirates flight 603'
+- 'emirates flight 763'
+- 'emirates flight 9'
+- 'qatar airways nairobi address'
+- 'qatar airways nairobi careers'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

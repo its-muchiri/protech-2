@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Packages Price: Complete Guide'
-description: Kenya safari guide covering kenya safari packages price, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari packages price, including what is included, pricing, and booking advice.'
 slug: kenya-safari-packages-price
-primary_keyword: Kenya safari packages price
+primary_keyword: 'Kenya safari packages price'
 secondary_keywords:
-- Kenya safari package itinerary 7 days
-- Fly-in Masai Mara trip package reserve
-- Buy Kenya tour package park fees included cost
-- Purchase small group photography safari package Kenya booking
-- Secure Easter holiday Kenya tour package booking
+- 'Kenya safari package itinerary 7 days'
+- 'Fly-in Masai Mara trip package reserve'
+- 'Buy Kenya tour package park fees included cost'
+- 'Purchase small group photography safari package Kenya booking'
+- 'Secure Easter holiday Kenya tour package booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

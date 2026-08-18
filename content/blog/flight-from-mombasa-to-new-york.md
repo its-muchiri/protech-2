@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Mombasa to New York: Complete Guide'
-description: Everything you need to know about flight from mombasa to new york, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from mombasa to new york, including routes, airlines, booking tips, and fares.'
 slug: flight-from-mombasa-to-new-york
-primary_keyword: flight from mombasa to new york
+primary_keyword: 'flight from mombasa to new york'
 secondary_keywords:
-- flights from nairobi to vancouver
-- flights from nairobi to washington dc
-- flights from nairobi kenya to seiyun yemen
-- how much is flight from nairobi to usa
-- flights from nairobi to amman jordan
+- 'flights from nairobi to vancouver'
+- 'flights from nairobi to washington dc'
+- 'flights from nairobi kenya to seiyun yemen'
+- 'how much is flight from nairobi to usa'
+- 'flights from nairobi to amman jordan'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

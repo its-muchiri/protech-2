@@ -1,14 +1,14 @@
 ---
 title: 'Hargeisa to Nairobi Flights: Complete Guide'
-description: Everything you need to know about hargeisa to nairobi flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about hargeisa to nairobi flights, including routes, airlines, booking tips, and fares.'
 slug: hargeisa-to-nairobi-flights
-primary_keyword: hargeisa to nairobi flights
+primary_keyword: 'hargeisa to nairobi flights'
 secondary_keywords:
-- emirates flight from kenya to usa
-- emirates airways nairobi
-- emirates nairobi flight cancellation
-- emirates nairobi office
-- emirates flight from nairobi to delhi
+- 'emirates flight from kenya to usa'
+- 'emirates airways nairobi'
+- 'emirates nairobi flight cancellation'
+- 'emirates nairobi office'
+- 'emirates flight from nairobi to delhi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

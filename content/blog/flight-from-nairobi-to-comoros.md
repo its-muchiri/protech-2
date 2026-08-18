@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Comoros: Complete Guide'
-description: Everything you need to know about flight from nairobi to comoros, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to comoros, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-comoros
-primary_keyword: flight from nairobi to comoros
+primary_keyword: 'flight from nairobi to comoros'
 secondary_keywords:
-- flights from nairobi to perth australia
-- airfare from nairobi to qatar
-- rwandair flights from nairobi to johannesburg
-- super metro flights from nairobi to mombasa
-- flights from nairobi to uk today
+- 'flights from nairobi to perth australia'
+- 'airfare from nairobi to qatar'
+- 'rwandair flights from nairobi to johannesburg'
+- 'super metro flights from nairobi to mombasa'
+- 'flights from nairobi to uk today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

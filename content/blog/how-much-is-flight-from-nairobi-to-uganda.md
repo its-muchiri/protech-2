@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is Flight from Nairobi to Uganda: Complete Guide'
-description: Everything you need to know about how much is flight from nairobi to uganda, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is flight from nairobi to uganda, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-flight-from-nairobi-to-uganda
-primary_keyword: how much is flight from nairobi to uganda
+primary_keyword: 'how much is flight from nairobi to uganda'
 secondary_keywords:
-- flights from kenya to atlanta
-- flights from kenya to bali
-- flights from beirut to kenya
-- cheap flights from kenya to uk
-- flights from kenya to edmonton
+- 'flights from kenya to atlanta'
+- 'flights from kenya to bali'
+- 'flights from beirut to kenya'
+- 'cheap flights from kenya to uk'
+- 'flights from kenya to edmonton'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

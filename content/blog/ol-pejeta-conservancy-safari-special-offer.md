@@ -1,14 +1,14 @@
 ---
 title: 'Ol Pejeta Conservancy Safari Special Offer: Complete Guide'
-description: Kenya safari guide covering ol pejeta conservancy safari special offer, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering ol pejeta conservancy safari special offer, including what is included, pricing, and booking advice.'
 slug: ol-pejeta-conservancy-safari-special-offer
-primary_keyword: Ol Pejeta Conservancy safari special offer
+primary_keyword: 'Ol Pejeta Conservancy safari special offer'
 secondary_keywords:
-- Reserve wheelchair accessible Kenya safari vehicle & lodge USA custom tour planning service
-- Find Halal certified meals Kenya safari tour package UK Muslim friendly lodges operators list
-- Book camel trekking safari northern Kenya Samburu Europe traditional experience cost
-- Buy Mount Longonot hike safari day trip package USA Rift Valley views cost
-- Safari Kenya
+- 'Reserve wheelchair accessible Kenya safari vehicle & lodge USA custom tour planning service'
+- 'Find Halal certified meals Kenya safari tour package UK Muslim friendly lodges operators list'
+- 'Book camel trekking safari northern Kenya Samburu Europe traditional experience cost'
+- 'Buy Mount Longonot hike safari day trip package USA Rift Valley views cost'
+- 'Safari Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Find Last Minute Deals on Luxury Kenya Safari Lodges Mara Triangle UK Operator Direct: Complete Guide'
-description: Kenya safari guide covering find last minute deals on luxury kenya safari lodges mara triangle uk operator direct, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering find last minute deals on luxury kenya safari lodges mara triangle uk operator direct, including what is included, pricing, and booking advice.'
 slug: find-last-minute-deals-on-luxury-kenya-safari-lodges-mara-triangle-uk-operator-direct
-primary_keyword: Find last minute deals on luxury Kenya safari lodges Mara Triangle UK operator direct
+primary_keyword: 'Find last minute deals on luxury Kenya safari lodges Mara Triangle UK operator direct'
 secondary_keywords:
-- Availability check Kenya fly-in safari Governors Camp Masai Mara UK July 2025
-- Get quote for multi-generational family safari Kenya wheelchair accessible lodge UK
-- Find best Kenya safari tour operator for senior citizens Europe accessibility comfort reviews
-- Buy adventure Kenya safari white water rafting Tana River add-on UK operator booking
-- Reserve Lake Turkana fishing safari expedition Kenya Europe remote adventure booking logistics
+- 'Availability check Kenya fly-in safari Governors Camp Masai Mara UK July 2025'
+- 'Get quote for multi-generational family safari Kenya wheelchair accessible lodge UK'
+- 'Find best Kenya safari tour operator for senior citizens Europe accessibility comfort reviews'
+- 'Buy adventure Kenya safari white water rafting Tana River add-on UK operator booking'
+- 'Reserve Lake Turkana fishing safari expedition Kenya Europe remote adventure booking logistics'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

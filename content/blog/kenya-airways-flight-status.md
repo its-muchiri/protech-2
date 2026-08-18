@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight Status: Complete Guide'
-description: Everything you need to know about kenya airways flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight status, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-status
-primary_keyword: kenya airways flight status
+primary_keyword: 'kenya airways flight status'
 secondary_keywords:
-- cheapest flights from mombasa to nairobi
-- cheap flights from kisumu to mombasa
-- cheap flights from kisumu to nairobi today
-- how much is flight from kisumu to mombasa
-- kq flights from kisumu to nairobi timetable
+- 'cheapest flights from mombasa to nairobi'
+- 'cheap flights from kisumu to mombasa'
+- 'cheap flights from kisumu to nairobi today'
+- 'how much is flight from kisumu to mombasa'
+- 'kq flights from kisumu to nairobi timetable'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

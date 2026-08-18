@@ -1,14 +1,14 @@
 ---
 title: 'Jambojet Flights from Kisumu to Nairobi Timetable: Complete Guide'
-description: Everything you need to know about jambojet flights from kisumu to nairobi timetable, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about jambojet flights from kisumu to nairobi timetable, including routes, airlines, booking tips, and fares.'
 slug: jambojet-flights-from-kisumu-to-nairobi-timetable
-primary_keyword: jambojet flights from kisumu to nairobi timetable
+primary_keyword: 'jambojet flights from kisumu to nairobi timetable'
 secondary_keywords:
-- flights nairobi to samburu
-- flights from nairobi to toronto canada
-- flights nairobi to venice
-- flights nairobi wilson to lamu
-- flights nairobi to zimbabwe
+- 'flights nairobi to samburu'
+- 'flights from nairobi to toronto canada'
+- 'flights nairobi to venice'
+- 'flights nairobi wilson to lamu'
+- 'flights nairobi to zimbabwe'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

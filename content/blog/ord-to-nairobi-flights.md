@@ -1,14 +1,14 @@
 ---
 title: 'Ord to Nairobi Flights: Complete Guide'
-description: Everything you need to know about ord to nairobi flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ord to nairobi flights, including routes, airlines, booking tips, and fares.'
 slug: ord-to-nairobi-flights
-primary_keyword: ord to nairobi flights
+primary_keyword: 'ord to nairobi flights'
 secondary_keywords:
-- what destinations do emirates fly to
-- emirates flights from delhi to new york
-- emirates flight 001
-- emirates flight 209 from athens to new york
-- emirates flight 335
+- 'what destinations do emirates fly to'
+- 'emirates flights from delhi to new york'
+- 'emirates flight 001'
+- 'emirates flight 209 from athens to new york'
+- 'emirates flight 335'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

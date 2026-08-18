@@ -1,14 +1,14 @@
 ---
 title: 'Fly Emirates Contacts: Complete Guide'
-description: Everything you need to know about fly emirates contacts, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about fly emirates contacts, including routes, airlines, booking tips, and fares.'
 slug: fly-emirates-contacts
-primary_keyword: fly emirates contacts
+primary_keyword: 'fly emirates contacts'
 secondary_keywords:
-- cheap flights from nairobi to turkey
-- turkish airlines office in nairobi kenya
-- turkish airlines nairobi number
-- turkish airlines nairobi to toronto
-- emirates airline nairobi
+- 'cheap flights from nairobi to turkey'
+- 'turkish airlines office in nairobi kenya'
+- 'turkish airlines nairobi number'
+- 'turkish airlines nairobi to toronto'
+- 'emirates airline nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

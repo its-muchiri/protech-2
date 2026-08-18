@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Lounge Nairobi Kenya: Complete Guide'
-description: Everything you need to know about turkish airlines lounge nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines lounge nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-lounge-nairobi-kenya
-primary_keyword: turkish airlines lounge nairobi kenya
+primary_keyword: 'turkish airlines lounge nairobi kenya'
 secondary_keywords:
-- kenya airways booking nairobi to mombasa
-- airplanes in kenya
-- does british airways fly to uganda
-- do i need a passport for domestic flights in kenya
-- flights to kenya from toronto
+- 'kenya airways booking nairobi to mombasa'
+- 'airplanes in kenya'
+- 'does british airways fly to uganda'
+- 'do i need a passport for domestic flights in kenya'
+- 'flights to kenya from toronto'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

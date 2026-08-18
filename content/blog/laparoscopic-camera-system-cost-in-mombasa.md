@@ -1,14 +1,14 @@
 ---
 title: 'Laparoscopic Camera System Cost in Mombasa: 2026 Price Guide'
-description: Kenya buying guide to laparoscopic camera system cost in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to laparoscopic camera system cost in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: laparoscopic-camera-system-cost-in-mombasa
-primary_keyword: Laparoscopic camera system cost in Mombasa
+primary_keyword: 'Laparoscopic camera system cost in Mombasa'
 secondary_keywords:
-- laboratory glassware Kenya
-- prosthetic limbs Kenya
-- ophthalmoscope price Kenya
-- emergency crash cart Kenya
-- dental handpieces Kenya
+- 'laboratory glassware Kenya'
+- 'prosthetic limbs Kenya'
+- 'ophthalmoscope price Kenya'
+- 'emergency crash cart Kenya'
+- 'dental handpieces Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

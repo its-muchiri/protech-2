@@ -1,14 +1,14 @@
 ---
 title: 'Jambojet Flights Nairobi to Eldoret: Complete Guide'
-description: Everything you need to know about jambojet flights nairobi to eldoret, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about jambojet flights nairobi to eldoret, including routes, airlines, booking tips, and fares.'
 slug: jambojet-flights-nairobi-to-eldoret
-primary_keyword: jambojet flights nairobi to eldoret
+primary_keyword: 'jambojet flights nairobi to eldoret'
 secondary_keywords:
-- kenya airways flights from nairobi to south africa price
-- flight from nairobi to zanzibar
-- air india flight from nairobi to delhi status
-- ba flight from nairobi to london
-- flight from nairobi to comoros
+- 'kenya airways flights from nairobi to south africa price'
+- 'flight from nairobi to zanzibar'
+- 'air india flight from nairobi to delhi status'
+- 'ba flight from nairobi to london'
+- 'flight from nairobi to comoros'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Ghana: Complete Guide'
-description: Everything you need to know about flights from kenya to ghana, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to ghana, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-ghana
-primary_keyword: flights from kenya to ghana
+primary_keyword: 'flights from kenya to ghana'
 secondary_keywords:
-- cheapest flight from nairobi to usa
-- what time is the last flight from nairobi to mombasa
-- cheapest flight from nairobi to new york
-- flight from nairobi to kisumu price
-- flight 540 nairobi to mombasa
+- 'cheapest flight from nairobi to usa'
+- 'what time is the last flight from nairobi to mombasa'
+- 'cheapest flight from nairobi to new york'
+- 'flight from nairobi to kisumu price'
+- 'flight 540 nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

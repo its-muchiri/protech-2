@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights from Kinshasa to Nairobi: Complete Guide'
-description: Everything you need to know about kenya airways flights from kinshasa to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights from kinshasa to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-from-kinshasa-to-nairobi
-primary_keyword: kenya airways flights from kinshasa to nairobi
+primary_keyword: 'kenya airways flights from kinshasa to nairobi'
 secondary_keywords:
-- 1 dubai currency to kenyan shillings
-- ethiopian airlines nairobi airport
-- cheap flights from nairobi to cairo
-- kenya to ethiopia flight price
-- flight price from nairobi to ethiopia
+- '1 dubai currency to kenyan shillings'
+- 'ethiopian airlines nairobi airport'
+- 'cheap flights from nairobi to cairo'
+- 'kenya to ethiopia flight price'
+- 'flight price from nairobi to ethiopia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

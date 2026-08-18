@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Kenya to Ghana: Complete Guide'
-description: Everything you need to know about cheap flights from kenya to ghana, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from kenya to ghana, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-kenya-to-ghana
-primary_keyword: cheap flights from kenya to ghana
+primary_keyword: 'cheap flights from kenya to ghana'
 secondary_keywords:
-- emirates flight from nairobi to dubai
-- emirates nairobi contact number
-- emirates nairobi flights
-- emirates nairobi office telephone number kenya
-- emirates nairobi to new york
+- 'emirates flight from nairobi to dubai'
+- 'emirates nairobi contact number'
+- 'emirates nairobi flights'
+- 'emirates nairobi office telephone number kenya'
+- 'emirates nairobi to new york'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

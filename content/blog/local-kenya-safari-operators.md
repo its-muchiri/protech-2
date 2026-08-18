@@ -1,14 +1,14 @@
 ---
 title: 'Local Kenya Safari Operators: Complete Guide'
-description: Kenya safari guide covering local kenya safari operators, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering local kenya safari operators, including what is included, pricing, and booking advice.'
 slug: local-kenya-safari-operators
-primary_keyword: Local Kenya safari operators
+primary_keyword: 'Local Kenya safari operators'
 secondary_keywords:
-- Buy guided Kenya safari tour
-- Purchase Nairobi National Park day tour booking
-- Reserve 5 day Amboseli Tsavo combo package
-- Buy budget Kenya camping safari booking
-- Book 6 day group joining Nakuru Mara safari reservation
+- 'Buy guided Kenya safari tour'
+- 'Purchase Nairobi National Park day tour booking'
+- 'Reserve 5 day Amboseli Tsavo combo package'
+- 'Buy budget Kenya camping safari booking'
+- 'Book 6 day group joining Nakuru Mara safari reservation'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

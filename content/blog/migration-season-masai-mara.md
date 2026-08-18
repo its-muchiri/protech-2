@@ -1,14 +1,14 @@
 ---
 title: 'Migration Season Masai Mara: Complete Guide'
-description: Kenya safari guide covering migration season masai mara, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering migration season masai mara, including what is included, pricing, and booking advice.'
 slug: migration-season-masai-mara
-primary_keyword: Migration season Masai Mara
+primary_keyword: 'Migration season Masai Mara'
 secondary_keywords:
-- Women-only safari tours Kenya
-- Nairobi Railway Museum tour guide
-- Short notice safari booking Kenya
-- No hidden fees Kenya tour operators
-- Wilson Airport charter flight safari companies
+- 'Women-only safari tours Kenya'
+- 'Nairobi Railway Museum tour guide'
+- 'Short notice safari booking Kenya'
+- 'No hidden fees Kenya tour operators'
+- 'Wilson Airport charter flight safari companies'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

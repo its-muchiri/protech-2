@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Rabat: Complete Guide'
-description: Everything you need to know about flight from nairobi to rabat, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to rabat, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-rabat
-primary_keyword: flight from nairobi to rabat
+primary_keyword: 'flight from nairobi to rabat'
 secondary_keywords:
-- flight from mombasa to nairobi time
-- kq flights to mombasa prices from nairobi
-- skyward flights from mombasa to nairobi ticket price
-- mombasa flights from wilson
-- kq flights from kisumu to nairobi today
+- 'flight from mombasa to nairobi time'
+- 'kq flights to mombasa prices from nairobi'
+- 'skyward flights from mombasa to nairobi ticket price'
+- 'mombasa flights from wilson'
+- 'kq flights from kisumu to nairobi today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Immunology Analyzer for Sale in Kenya: 2026 Price Guide'
-description: Kenya buying guide to immunology analyzer for sale in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to immunology analyzer for sale in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: immunology-analyzer-for-sale-in-kenya
-primary_keyword: Immunology analyzer for sale in Kenya
+primary_keyword: 'Immunology analyzer for sale in Kenya'
 secondary_keywords:
-- How to start a medical equipment supply business in Kenya
-- Affordable medical equipment in Eastleigh, Nairobi
-- Lab reagents suppliers in Eldoret
-- Anesthesia machine repair in Mombasa
-- Affordable clinic setup package in Kenya
+- 'How to start a medical equipment supply business in Kenya'
+- 'Affordable medical equipment in Eastleigh, Nairobi'
+- 'Lab reagents suppliers in Eldoret'
+- 'Anesthesia machine repair in Mombasa'
+- 'Affordable clinic setup package in Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

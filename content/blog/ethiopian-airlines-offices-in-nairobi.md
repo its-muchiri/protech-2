@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Offices in Nairobi: Complete Guide'
-description: Everything you need to know about ethiopian airlines offices in nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines offices in nairobi, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-offices-in-nairobi
-primary_keyword: ethiopian airlines offices in nairobi
+primary_keyword: 'ethiopian airlines offices in nairobi'
 secondary_keywords:
-- today''s flights from eldoret to nairobi
-- kq flight amsterdam to nairobi
-- kenya airways flights bookings
-- kq flights cancelled
-- kq flight disruptions jkia fuel
+- 'today''''s flights from eldoret to nairobi'
+- 'kq flight amsterdam to nairobi'
+- 'kenya airways flights bookings'
+- 'kq flights cancelled'
+- 'kq flight disruptions jkia fuel'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

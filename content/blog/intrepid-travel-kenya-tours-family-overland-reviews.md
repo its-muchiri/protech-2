@@ -1,14 +1,14 @@
 ---
 title: 'Intrepid Travel Kenya Tours Family / Overland Reviews: Complete Guide'
-description: Kenya safari guide covering intrepid travel kenya tours family / overland reviews, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering intrepid travel kenya tours family / overland reviews, including what is included, pricing, and booking advice.'
 slug: intrepid-travel-kenya-tours-family-overland-reviews
-primary_keyword: Intrepid Travel Kenya tours family / overland reviews
+primary_keyword: 'Intrepid Travel Kenya tours family / overland reviews'
 secondary_keywords:
-- Professional wildlife photography safari Kenya custom vehicles / tutors
-- Pick up from Thika for Masai Mara safari tour company options
-- Buy all-inclusive Kenya safari deal USA 2025
-- Kenya safari packages cost from UK 2025
-- Get quote for custom Kenya safari UK specialist
+- 'Professional wildlife photography safari Kenya custom vehicles / tutors'
+- 'Pick up from Thika for Masai Mara safari tour company options'
+- 'Buy all-inclusive Kenya safari deal USA 2025'
+- 'Kenya safari packages cost from UK 2025'
+- 'Get quote for custom Kenya safari UK specialist'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

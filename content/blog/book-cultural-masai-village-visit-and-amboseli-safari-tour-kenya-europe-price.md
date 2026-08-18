@@ -1,14 +1,14 @@
 ---
 title: 'Book Cultural Masai Village Visit & Amboseli Safari Tour Kenya Europe Price: Complete Guide'
-description: Kenya safari guide covering book cultural masai village visit & amboseli safari tour kenya europe price, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book cultural masai village visit & amboseli safari tour kenya europe price, including what is included, pricing, and booking advice.'
 slug: book-cultural-masai-village-visit-and-amboseli-safari-tour-kenya-europe-price
-primary_keyword: Book cultural Masai village visit & Amboseli safari tour Kenya Europe price
+primary_keyword: 'Book cultural Masai village visit & Amboseli safari tour Kenya Europe price'
 secondary_keywords:
-- Fly-in safari cost vs driving safari Kenya time saving
-- KATO certified tour operators benefits code of conduct
-- Horse riding safari Kenya Chyulu Hills / Laikipia ranches
-- Cross border safari Kenya and Tanzania Serengeti / Ngorongoro combined tour operators
-- Purchase fly-in safari Kenya Masai Mara online USA
+- 'Fly-in safari cost vs driving safari Kenya time saving'
+- 'KATO certified tour operators benefits code of conduct'
+- 'Horse riding safari Kenya Chyulu Hills / Laikipia ranches'
+- 'Cross border safari Kenya and Tanzania Serengeti / Ngorongoro combined tour operators'
+- 'Purchase fly-in safari Kenya Masai Mara online USA'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

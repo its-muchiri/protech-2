@@ -1,14 +1,14 @@
 ---
 title: 'Kinesiology Tape Suppliers in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to kinesiology tape suppliers in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to kinesiology tape suppliers in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: kinesiology-tape-suppliers-in-nairobi
-primary_keyword: Kinesiology tape suppliers in Nairobi
+primary_keyword: 'Kinesiology tape suppliers in Nairobi'
 secondary_keywords:
-- povidone iodine surgical scrub Kenya
-- pathology supplies Kenya
-- automatic BP machine Kenya
-- manual hospital bed Kenya
-- AED machine Kenya
+- 'povidone iodine surgical scrub Kenya'
+- 'pathology supplies Kenya'
+- 'automatic BP machine Kenya'
+- 'manual hospital bed Kenya'
+- 'AED machine Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

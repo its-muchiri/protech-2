@@ -1,14 +1,14 @@
 ---
 title: 'Absorbable Sutures Price List: 2026 Price Guide'
-description: Kenya buying guide to absorbable sutures price list. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to absorbable sutures price list. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: absorbable-sutures-price-list
-primary_keyword: Absorbable sutures price list
+primary_keyword: 'Absorbable sutures price list'
 secondary_keywords:
-- Medical gas pipeline system installers
-- Physiotherapy & Rehabilitation Equipment
-- Portable veterinary X-ray machine for sale
-- Foley catheter and urine bags suppliers
-- Refurbished C-arm machine price
+- 'Medical gas pipeline system installers'
+- 'Physiotherapy & Rehabilitation Equipment'
+- 'Portable veterinary X-ray machine for sale'
+- 'Foley catheter and urine bags suppliers'
+- 'Refurbished C-arm machine price'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

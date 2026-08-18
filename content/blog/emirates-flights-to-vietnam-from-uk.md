@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights to Vietnam from Uk: Complete Guide'
-description: Everything you need to know about emirates flights to vietnam from uk, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights to vietnam from uk, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-to-vietnam-from-uk
-primary_keyword: emirates flights to vietnam from uk
+primary_keyword: 'emirates flights to vietnam from uk'
 secondary_keywords:
-- do i need a passport for domestic flights in kenya
-- flights to kenya from toronto
-- international airlines in kenya
-- low cost flights in kenya
-- nairobi to india flights price in kenya shillings
+- 'do i need a passport for domestic flights in kenya'
+- 'flights to kenya from toronto'
+- 'international airlines in kenya'
+- 'low cost flights in kenya'
+- 'nairobi to india flights price in kenya shillings'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

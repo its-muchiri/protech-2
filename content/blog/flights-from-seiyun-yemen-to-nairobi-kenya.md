@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Seiyun Yemen to Nairobi Kenya: Complete Guide'
-description: Everything you need to know about flights from seiyun yemen to nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from seiyun yemen to nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-seiyun-yemen-to-nairobi-kenya
-primary_keyword: flights from seiyun yemen to nairobi kenya
+primary_keyword: 'flights from seiyun yemen to nairobi kenya'
 secondary_keywords:
-- kq flights from nairobi to cape town
-- kq flights eldoret to nairobi
-- kq flight status
-- kq airlines contact number
-- kq kisumu flight schedule
+- 'kq flights from nairobi to cape town'
+- 'kq flights eldoret to nairobi'
+- 'kq flight status'
+- 'kq airlines contact number'
+- 'kq kisumu flight schedule'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

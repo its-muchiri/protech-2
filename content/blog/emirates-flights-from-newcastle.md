@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Newcastle: Complete Guide'
-description: Everything you need to know about emirates flights from newcastle, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from newcastle, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-newcastle
-primary_keyword: emirates flights from newcastle
+primary_keyword: 'emirates flights from newcastle'
 secondary_keywords:
-- how much is a flight from nairobi to qatar
-- qatar airways nairobi office working hours
-- 1 qatar riyal to ksh
-- kenya airways cargo flight schedule
-- kq flight from nairobi to paris
+- 'how much is a flight from nairobi to qatar'
+- 'qatar airways nairobi office working hours'
+- '1 qatar riyal to ksh'
+- 'kenya airways cargo flight schedule'
+- 'kq flight from nairobi to paris'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

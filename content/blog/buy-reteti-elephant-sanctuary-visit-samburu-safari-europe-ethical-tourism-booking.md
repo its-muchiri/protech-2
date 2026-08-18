@@ -1,14 +1,14 @@
 ---
 title: 'Buy Reteti Elephant Sanctuary Visit Samburu Safari Europe Ethical Tourism Booking: Complete Guide'
-description: Kenya safari guide covering buy reteti elephant sanctuary visit samburu safari europe ethical tourism booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy reteti elephant sanctuary visit samburu safari europe ethical tourism booking, including what is included, pricing, and booking advice.'
 slug: buy-reteti-elephant-sanctuary-visit-samburu-safari-europe-ethical-tourism-booking
-primary_keyword: Buy Reteti Elephant Sanctuary visit Samburu safari Europe ethical tourism booking
+primary_keyword: 'Buy Reteti Elephant Sanctuary visit Samburu safari Europe ethical tourism booking'
 secondary_keywords:
-- Kenya bird watching safari tours USA specialist booking
-- Book Masai Mara safari online UK migration season
-- Lake Naivasha boat safari booking Hell''s Gate tour USA
-- European travel agency Kenya safari booking reliable
-- Compare Kenya tour operator packages UK cost & inclusions
+- 'Kenya bird watching safari tours USA specialist booking'
+- 'Book Masai Mara safari online UK migration season'
+- 'Lake Naivasha boat safari booking Hell''''s Gate tour USA'
+- 'European travel agency Kenya safari booking reliable'
+- 'Compare Kenya tour operator packages UK cost & inclusions'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Aberdare National Park Safari: Complete Guide'
-description: Kenya safari guide covering aberdare national park safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering aberdare national park safari, including what is included, pricing, and booking advice.'
 slug: aberdare-national-park-safari
-primary_keyword: Aberdare National Park safari
+primary_keyword: 'Aberdare National Park safari'
 secondary_keywords:
-- Buy 3 day budget Amboseli fly-in package last minute deal Nairobi
-- Reserve 8 day Kenya budget group joining safari guarantee departure
-- Tour company accreditation Kenya TRA license
-- Elephant photography safari Amboseli tour operators
-- Hell''s Gate National Park cycling and gorge walk tour from Naivasha / Thika
+- 'Buy 3 day budget Amboseli fly-in package last minute deal Nairobi'
+- 'Reserve 8 day Kenya budget group joining safari guarantee departure'
+- 'Tour company accreditation Kenya TRA license'
+- 'Elephant photography safari Amboseli tour operators'
+- 'Hell''''s Gate National Park cycling and gorge walk tour from Naivasha / Thika'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

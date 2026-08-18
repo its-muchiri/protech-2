@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways Flights to Nairobi Today: Complete Guide'
-description: Everything you need to know about qatar airways flights to nairobi today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways flights to nairobi today, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-flights-to-nairobi-today
-primary_keyword: qatar airways flights to nairobi today
+primary_keyword: 'qatar airways flights to nairobi today'
 secondary_keywords:
-- flights from nairobi to vancouver
-- flights from nairobi to washington dc
-- flights from nairobi kenya to seiyun yemen
-- how much is flight from nairobi to usa
-- flights from nairobi to amman jordan
+- 'flights from nairobi to vancouver'
+- 'flights from nairobi to washington dc'
+- 'flights from nairobi kenya to seiyun yemen'
+- 'how much is flight from nairobi to usa'
+- 'flights from nairobi to amman jordan'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

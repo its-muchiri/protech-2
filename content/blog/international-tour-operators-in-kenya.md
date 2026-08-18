@@ -1,14 +1,14 @@
 ---
 title: 'International Tour Operators in Kenya: Complete Guide'
-description: Kenya safari guide covering international tour operators in kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering international tour operators in kenya, including what is included, pricing, and booking advice.'
 slug: international-tour-operators-in-kenya
-primary_keyword: International tour operators in Kenya
+primary_keyword: 'International tour operators in Kenya'
 secondary_keywords:
-- Affordable Kenya safari packages USA budget friendly
-- Kenya safari package quote request form
-- Cultural safari tours Kenya booking Europe Maasai village
-- Laikipia conservancy luxury safari booking UK private ranch
-- Kenya safari tours for USA citizens cost visa info
+- 'Affordable Kenya safari packages USA budget friendly'
+- 'Kenya safari package quote request form'
+- 'Cultural safari tours Kenya booking Europe Maasai village'
+- 'Laikipia conservancy luxury safari booking UK private ranch'
+- 'Kenya safari tours for USA citizens cost visa info'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

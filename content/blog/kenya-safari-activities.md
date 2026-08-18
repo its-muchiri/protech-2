@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Activities: Complete Guide'
-description: Kenya safari guide covering kenya safari activities, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari activities, including what is included, pricing, and booking advice.'
 slug: kenya-safari-activities
-primary_keyword: Kenya safari activities
+primary_keyword: 'Kenya safari activities'
 secondary_keywords:
-- WiFi availability safari lodges Kenya cost / speed
-- Professional wildlife photography safari Kenya custom vehicles / tutors
-- Pick up from Thika for Masai Mara safari tour company options
-- Buy all-inclusive Kenya safari deal USA 2025
-- Kenya safari packages cost from UK 2025
+- 'WiFi availability safari lodges Kenya cost / speed'
+- 'Professional wildlife photography safari Kenya custom vehicles / tutors'
+- 'Pick up from Thika for Masai Mara safari tour company options'
+- 'Buy all-inclusive Kenya safari deal USA 2025'
+- 'Kenya safari packages cost from UK 2025'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

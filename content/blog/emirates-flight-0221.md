@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 0221: Complete Guide'
-description: Everything you need to know about emirates flight 0221, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 0221, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-0221
-primary_keyword: emirates flight 0221
+primary_keyword: 'emirates flight 0221'
 secondary_keywords:
-- kq flight from nairobi to lusaka
-- kenya airways flight from nairobi to mombasa today
-- kenya airways flight from nairobi to zanzibar
-- kenya airways flight from accra to nairobi
-- kenya airways flight schedule from nairobi to dar es salaam
+- 'kq flight from nairobi to lusaka'
+- 'kenya airways flight from nairobi to mombasa today'
+- 'kenya airways flight from nairobi to zanzibar'
+- 'kenya airways flight from accra to nairobi'
+- 'kenya airways flight schedule from nairobi to dar es salaam'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

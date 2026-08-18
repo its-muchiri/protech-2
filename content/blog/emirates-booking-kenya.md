@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Booking Kenya: Complete Guide'
-description: Everything you need to know about emirates booking kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates booking kenya, including routes, airlines, booking tips, and fares.'
 slug: emirates-booking-kenya
-primary_keyword: emirates booking kenya
+primary_keyword: 'emirates booking kenya'
 secondary_keywords:
-- flights from cape town to nairobi kenya
-- flights from okc to nairobi kenya
-- flights to dubai from kenya price
-- does kenya airways fly to canada
-- flights from kenya to seychelles
+- 'flights from cape town to nairobi kenya'
+- 'flights from okc to nairobi kenya'
+- 'flights to dubai from kenya price'
+- 'does kenya airways fly to canada'
+- 'flights from kenya to seychelles'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

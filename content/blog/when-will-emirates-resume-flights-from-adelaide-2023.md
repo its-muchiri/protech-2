@@ -1,14 +1,14 @@
 ---
 title: 'When Will Emirates Resume Flights from Adelaide 2023: Complete Guide'
-description: Everything you need to know about when will emirates resume flights from adelaide 2023, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about when will emirates resume flights from adelaide 2023, including routes, airlines, booking tips, and fares.'
 slug: when-will-emirates-resume-flights-from-adelaide-2023
-primary_keyword: when will emirates resume flights from adelaide 2023
+primary_keyword: 'when will emirates resume flights from adelaide 2023'
 secondary_keywords:
-- air arabia flight from nairobi to sharjah price
-- return flight from nairobi to dubai price
-- air india flight from delhi to nairobi status
-- flight from nairobi to uk cost
-- flight from nairobi to washington dc
+- 'air arabia flight from nairobi to sharjah price'
+- 'return flight from nairobi to dubai price'
+- 'air india flight from delhi to nairobi status'
+- 'flight from nairobi to uk cost'
+- 'flight from nairobi to washington dc'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

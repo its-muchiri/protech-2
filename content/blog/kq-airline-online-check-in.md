@@ -1,14 +1,14 @@
 ---
 title: 'Kq Airline Online Check in: Complete Guide'
-description: Everything you need to know about kq airline online check in, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq airline online check in, including routes, airlines, booking tips, and fares.'
 slug: kq-airline-online-check-in
-primary_keyword: kq airline online check in
+primary_keyword: 'kq airline online check in'
 secondary_keywords:
-- kq flights from nairobi to mombasa
-- airlink flights from nairobi to johannesburg
-- flights from nairobi to brussels
-- flights from nairobi to columbus ohio
-- flights from nairobi to doha
+- 'kq flights from nairobi to mombasa'
+- 'airlink flights from nairobi to johannesburg'
+- 'flights from nairobi to brussels'
+- 'flights from nairobi to columbus ohio'
+- 'flights from nairobi to doha'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

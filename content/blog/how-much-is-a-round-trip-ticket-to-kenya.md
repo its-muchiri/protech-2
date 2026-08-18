@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is a Round Trip Ticket to Kenya: Complete Guide'
-description: Everything you need to know about how much is a round trip ticket to kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is a round trip ticket to kenya, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-a-round-trip-ticket-to-kenya
-primary_keyword: how much is a round trip ticket to kenya
+primary_keyword: 'how much is a round trip ticket to kenya'
 secondary_keywords:
-- flights nairobi to cape town
-- flights from addis ababa to nairobi today
-- nairobi to bangalore flights
-- cheap flights nairobi to dar es salaam
-- flights nairobi to edmonton
+- 'flights nairobi to cape town'
+- 'flights from addis ababa to nairobi today'
+- 'nairobi to bangalore flights'
+- 'cheap flights nairobi to dar es salaam'
+- 'flights nairobi to edmonton'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

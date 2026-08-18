@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Philadelphia: Complete Guide'
-description: Everything you need to know about flights from nairobi to philadelphia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to philadelphia, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-philadelphia
-primary_keyword: flights from nairobi to philadelphia
+primary_keyword: 'flights from nairobi to philadelphia'
 secondary_keywords:
-- flights from mombasa to cairo
-- flights from mombasa to diani
-- flights from dar es salaam to mombasa kenya
-- which flights go to mombasa from nairobi
-- flights in mombasa
+- 'flights from mombasa to cairo'
+- 'flights from mombasa to diani'
+- 'flights from dar es salaam to mombasa kenya'
+- 'which flights go to mombasa from nairobi'
+- 'flights in mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Kisumu from Jkia: Complete Guide'
-description: Everything you need to know about flights to kisumu from jkia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to kisumu from jkia, including routes, airlines, booking tips, and fares.'
 slug: flights-to-kisumu-from-jkia
-primary_keyword: flights to kisumu from jkia
+primary_keyword: 'flights to kisumu from jkia'
 secondary_keywords:
-- flights from london to kisumu kenya
-- flight from kisumu to maasai mara
-- skyward flights from kisumu to nairobi
-- kq flights from eldoret to nairobi price
-- flights in eldoret
+- 'flights from london to kisumu kenya'
+- 'flight from kisumu to maasai mara'
+- 'skyward flights from kisumu to nairobi'
+- 'kq flights from eldoret to nairobi price'
+- 'flights in eldoret'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

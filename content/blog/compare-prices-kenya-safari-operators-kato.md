@@ -1,14 +1,14 @@
 ---
 title: 'Compare Prices Kenya Safari Operators KATO: Complete Guide'
-description: Kenya safari guide covering compare prices kenya safari operators kato, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering compare prices kenya safari operators kato, including what is included, pricing, and booking advice.'
 slug: compare-prices-kenya-safari-operators-kato
-primary_keyword: Compare prices Kenya safari operators KATO
+primary_keyword: 'Compare prices Kenya safari operators KATO'
 secondary_keywords:
-- Buy last minute cancellation deal Kenya luxury safari package
-- Kenya tour company ratings
-- Ol Pejeta conservancy tour operators Nanyuki
-- Ruma National Park tour companies Kisumu
-- Bird watching specialized tour operators Kenya
+- 'Buy last minute cancellation deal Kenya luxury safari package'
+- 'Kenya tour company ratings'
+- 'Ol Pejeta conservancy tour operators Nanyuki'
+- 'Ruma National Park tour companies Kisumu'
+- 'Bird watching specialized tour operators Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

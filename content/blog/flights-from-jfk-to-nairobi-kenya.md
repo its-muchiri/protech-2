@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Jfk to Nairobi Kenya: Complete Guide'
-description: Everything you need to know about flights from jfk to nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from jfk to nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-jfk-to-nairobi-kenya
-primary_keyword: flights from jfk to nairobi kenya
+primary_keyword: 'flights from jfk to nairobi kenya'
 secondary_keywords:
-- emirates flight 980
-- qatar airways lounge nairobi airport
-- cheap flight from nairobi to qatar
-- qatar flight from doha to nairobi
-- cost of flight from nairobi to qatar
+- 'emirates flight 980'
+- 'qatar airways lounge nairobi airport'
+- 'cheap flight from nairobi to qatar'
+- 'qatar flight from doha to nairobi'
+- 'cost of flight from nairobi to qatar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

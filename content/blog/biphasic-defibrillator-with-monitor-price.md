@@ -1,14 +1,14 @@
 ---
 title: 'Biphasic Defibrillator with Monitor Price: 2026 Price Guide'
-description: Kenya buying guide to biphasic defibrillator with monitor price. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to biphasic defibrillator with monitor price. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: biphasic-defibrillator-with-monitor-price
-primary_keyword: Biphasic defibrillator with monitor price
+primary_keyword: 'Biphasic defibrillator with monitor price'
 secondary_keywords:
-- medical equipment repair Kenya
-- best medical suppliers Kenya
-- gauze pads Kenya sterile
-- wound care kits Kenya
-- laboratory reagents Kenya suppliers
+- 'medical equipment repair Kenya'
+- 'best medical suppliers Kenya'
+- 'gauze pads Kenya sterile'
+- 'wound care kits Kenya'
+- 'laboratory reagents Kenya suppliers'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

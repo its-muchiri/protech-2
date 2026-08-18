@@ -1,14 +1,14 @@
 ---
 title: 'Return Flight from Nairobi to Zanzibar: Complete Guide'
-description: Everything you need to know about return flight from nairobi to zanzibar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about return flight from nairobi to zanzibar, including routes, airlines, booking tips, and fares.'
 slug: return-flight-from-nairobi-to-zanzibar
-primary_keyword: return flight from nairobi to zanzibar
+primary_keyword: 'return flight from nairobi to zanzibar'
 secondary_keywords:
-- flights from kenya to peru
-- flights to kenya qatar airways
-- rwanda flights from kenya
-- south africa flights from kenya price
-- uganda flights from kenya
+- 'flights from kenya to peru'
+- 'flights to kenya qatar airways'
+- 'rwanda flights from kenya'
+- 'south africa flights from kenya price'
+- 'uganda flights from kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Price Quote 10 Day Kenya Tanzania Combined Tour: Complete Guide'
-description: Kenya safari guide covering price quote 10 day kenya tanzania combined tour, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering price quote 10 day kenya tanzania combined tour, including what is included, pricing, and booking advice.'
 slug: price-quote-10-day-kenya-tanzania-combined-tour
-primary_keyword: Price quote 10 day Kenya Tanzania combined tour
+primary_keyword: 'Price quote 10 day Kenya Tanzania combined tour'
 secondary_keywords:
-- Tour operator coordinating hiking Aberdares and safari Nakuru
-- Purchase full board Kenya safari tour
-- Reserve Lewa Wildlife Conservancy package booking
-- Book 14 day grand Kenya safari package
-- Purchase overland truck safari Kenya booking
+- 'Tour operator coordinating hiking Aberdares and safari Nakuru'
+- 'Purchase full board Kenya safari tour'
+- 'Reserve Lewa Wildlife Conservancy package booking'
+- 'Book 14 day grand Kenya safari package'
+- 'Purchase overland truck safari Kenya booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

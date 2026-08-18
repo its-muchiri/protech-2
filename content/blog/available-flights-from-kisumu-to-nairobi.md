@@ -1,14 +1,14 @@
 ---
 title: 'Available Flights from Kisumu to Nairobi: Complete Guide'
-description: Everything you need to know about available flights from kisumu to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about available flights from kisumu to nairobi, including routes, airlines, booking tips, and fares.'
 slug: available-flights-from-kisumu-to-nairobi
-primary_keyword: available flights from kisumu to nairobi
+primary_keyword: 'available flights from kisumu to nairobi'
 secondary_keywords:
-- flight from nairobi to paris
-- flight price from nairobi to turkey
-- return flight from nairobi to cape town
-- time taken by flight from nairobi to mombasa
-- safarilink flight from ukunda to nairobi
+- 'flight from nairobi to paris'
+- 'flight price from nairobi to turkey'
+- 'return flight from nairobi to cape town'
+- 'time taken by flight from nairobi to mombasa'
+- 'safarilink flight from ukunda to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Ticket from Kenya to Egypt: Complete Guide'
-description: Everything you need to know about ticket from kenya to egypt, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ticket from kenya to egypt, including routes, airlines, booking tips, and fares.'
 slug: ticket-from-kenya-to-egypt
-primary_keyword: ticket from kenya to egypt
+primary_keyword: 'ticket from kenya to egypt'
 secondary_keywords:
-- what destinations do emirates fly to
-- emirates flights from delhi to new york
-- emirates flight 001
-- emirates flight 209 from athens to new york
-- emirates flight 335
+- 'what destinations do emirates fly to'
+- 'emirates flights from delhi to new york'
+- 'emirates flight 001'
+- 'emirates flight 209 from athens to new york'
+- 'emirates flight 335'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

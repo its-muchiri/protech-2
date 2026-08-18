@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Cape Town to Nairobi Today: Complete Guide'
-description: Everything you need to know about kq flight from cape town to nairobi today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from cape town to nairobi today, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-cape-town-to-nairobi-today
-primary_keyword: kq flight from cape town to nairobi today
+primary_keyword: 'kq flight from cape town to nairobi today'
 secondary_keywords:
-- flights nairobi to london
-- uganda airlines flights to nairobi
-- nairobi to bujumbura flights
-- cheap flights nairobi to johannesburg
-- flights nairobi to egypt
+- 'flights nairobi to london'
+- 'uganda airlines flights to nairobi'
+- 'nairobi to bujumbura flights'
+- 'cheap flights nairobi to johannesburg'
+- 'flights nairobi to egypt'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Arusha: Complete Guide'
-description: Everything you need to know about flights from mombasa to arusha, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to arusha, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-arusha
-primary_keyword: flights from mombasa to arusha
+primary_keyword: 'flights from mombasa to arusha'
 secondary_keywords:
-- flights from nairobi to thailand
-- emirates flights arriving from dubai today
-- emirates flights from birmingham today
-- cheapest emirates flights from india
-- emirates flights from ewr
+- 'flights from nairobi to thailand'
+- 'emirates flights arriving from dubai today'
+- 'emirates flights from birmingham today'
+- 'cheapest emirates flights from india'
+- 'emirates flights from ewr'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

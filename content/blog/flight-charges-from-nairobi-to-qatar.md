@@ -1,14 +1,14 @@
 ---
 title: 'Flight Charges from Nairobi to Qatar: Complete Guide'
-description: Everything you need to know about flight charges from nairobi to qatar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight charges from nairobi to qatar, including routes, airlines, booking tips, and fares.'
 slug: flight-charges-from-nairobi-to-qatar
-primary_keyword: flight charges from nairobi to qatar
+primary_keyword: 'flight charges from nairobi to qatar'
 secondary_keywords:
-- flights to kenya google
-- flights to kenya in july
-- flights to kenya in may
-- flights to kenya one way
-- flight attendant courses in kenya requirements
+- 'flights to kenya google'
+- 'flights to kenya in july'
+- 'flights to kenya in may'
+- 'flights to kenya one way'
+- 'flight attendant courses in kenya requirements'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

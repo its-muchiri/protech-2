@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways Booking Nairobi: Complete Guide'
-description: Everything you need to know about qatar airways booking nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways booking nairobi, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-booking-nairobi
-primary_keyword: qatar airways booking nairobi
+primary_keyword: 'qatar airways booking nairobi'
 secondary_keywords:
-- kenya airways flight schedule nairobi to mumbai
-- kenya airways flights from nairobi to amsterdam
-- kenya airways flying blue contacts nairobi
-- is kenya airways safe
-- kenya airways flights from kigali to nairobi price
+- 'kenya airways flight schedule nairobi to mumbai'
+- 'kenya airways flights from nairobi to amsterdam'
+- 'kenya airways flying blue contacts nairobi'
+- 'is kenya airways safe'
+- 'kenya airways flights from kigali to nairobi price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

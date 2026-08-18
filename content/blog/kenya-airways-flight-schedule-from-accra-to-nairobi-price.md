@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight Schedule from Accra to Nairobi Price: Complete Guide'
-description: Everything you need to know about kenya airways flight schedule from accra to nairobi price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight schedule from accra to nairobi price, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-schedule-from-accra-to-nairobi-price
-primary_keyword: kenya airways flight schedule from accra to nairobi price
+primary_keyword: 'kenya airways flight schedule from accra to nairobi price'
 secondary_keywords:
-- cheap flights from riyadh to kenya
-- flights from south africa to nairobi kenya
-- flight from kenya to venezuela
-- flight from kenya to washington
-- flights from nairobi to yaounde
+- 'cheap flights from riyadh to kenya'
+- 'flights from south africa to nairobi kenya'
+- 'flight from kenya to venezuela'
+- 'flight from kenya to washington'
+- 'flights from nairobi to yaounde'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

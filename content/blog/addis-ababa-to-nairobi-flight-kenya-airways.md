@@ -1,14 +1,14 @@
 ---
 title: 'Addis Ababa to Nairobi Flight Kenya Airways: Complete Guide'
-description: Everything you need to know about addis ababa to nairobi flight kenya airways, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about addis ababa to nairobi flight kenya airways, including routes, airlines, booking tips, and fares.'
 slug: addis-ababa-to-nairobi-flight-kenya-airways
-primary_keyword: addis ababa to nairobi flight kenya airways
+primary_keyword: 'addis ababa to nairobi flight kenya airways'
 secondary_keywords:
-- are there flights from eldoret to kisumu
-- flights to kisumu kenya airways
-- flights from kisumu to nairobi price
-- flights from kisumu to ukunda
-- flights from wilson airport to eldoret
+- 'are there flights from eldoret to kisumu'
+- 'flights to kisumu kenya airways'
+- 'flights from kisumu to nairobi price'
+- 'flights from kisumu to ukunda'
+- 'flights from wilson airport to eldoret'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

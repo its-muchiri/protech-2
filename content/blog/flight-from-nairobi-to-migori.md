@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Migori: Complete Guide'
-description: Everything you need to know about flight from nairobi to migori, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to migori, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-migori
-primary_keyword: flight from nairobi to migori
+primary_keyword: 'flight from nairobi to migori'
 secondary_keywords:
-- emirates airlines from which country
-- emirates flights from new york to mumbai
-- emirates flights to new zealand from manchester
-- emirates flight 1
-- when will emirates resume flights to bali from auckland 2023
+- 'emirates airlines from which country'
+- 'emirates flights from new york to mumbai'
+- 'emirates flights to new zealand from manchester'
+- 'emirates flight 1'
+- 'when will emirates resume flights to bali from auckland 2023'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

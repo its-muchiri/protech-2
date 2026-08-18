@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi to Turkey Flight Time: Complete Guide'
-description: Everything you need to know about nairobi to turkey flight time, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about nairobi to turkey flight time, including routes, airlines, booking tips, and fares.'
 slug: nairobi-to-turkey-flight-time
-primary_keyword: nairobi to turkey flight time
+primary_keyword: 'nairobi to turkey flight time'
 secondary_keywords:
-- flight from england to nairobi
-- flight fare from nairobi to kisumu
-- flight cost from nairobi to germany
-- how much is a flight from nairobi to south africa
-- flight from nairobi to japan
+- 'flight from england to nairobi'
+- 'flight fare from nairobi to kisumu'
+- 'flight cost from nairobi to germany'
+- 'how much is a flight from nairobi to south africa'
+- 'flight from nairobi to japan'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

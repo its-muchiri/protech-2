@@ -1,14 +1,14 @@
 ---
 title: 'Masai Mara Conservancy Safari (e.g., Mara North, Olare Motorogi) Benefits: Complete Guide'
-description: Kenya safari guide covering masai mara conservancy safari (e.g., mara north, olare motorogi) benefits, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering masai mara conservancy safari (e.g., mara north, olare motorogi) benefits, including what is included, pricing, and booking advice.'
 slug: masai-mara-conservancy-safari-e-g-mara-north-olare-motorogi-benefits
-primary_keyword: Masai Mara conservancy safari (e.g., Mara North, Olare Motorogi) benefits
+primary_keyword: 'Masai Mara conservancy safari (e.g., Mara North, Olare Motorogi) benefits'
 secondary_keywords:
-- Compare Kenya tour operator packages UK cost & inclusions
-- Last minute Kenya safari deals UK departing next week
-- Check Kenya safari tour availability calendar Europe
-- Safe Kenya safari tours booking certified guides USA
-- Availability check Kenya fly-in safari Governors Camp Masai Mara UK July 2025
+- 'Compare Kenya tour operator packages UK cost & inclusions'
+- 'Last minute Kenya safari deals UK departing next week'
+- 'Check Kenya safari tour availability calendar Europe'
+- 'Safe Kenya safari tours booking certified guides USA'
+- 'Availability check Kenya fly-in safari Governors Camp Masai Mara UK July 2025'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

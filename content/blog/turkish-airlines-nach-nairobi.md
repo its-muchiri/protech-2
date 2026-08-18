@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Nach Nairobi: Complete Guide'
-description: Everything you need to know about turkish airlines nach nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines nach nairobi, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-nach-nairobi
-primary_keyword: turkish airlines nach nairobi
+primary_keyword: 'turkish airlines nach nairobi'
 secondary_keywords:
-- how do i confirm my flight with turkish airlines
-- turkish airlines pet allowance
-- 1 turkish lira to kenyan shillings
-- ethiopian airlines nairobi to addis ababa price
-- ethiopian airline office in nairobi telephone number
+- 'how do i confirm my flight with turkish airlines'
+- 'turkish airlines pet allowance'
+- '1 turkish lira to kenyan shillings'
+- 'ethiopian airlines nairobi to addis ababa price'
+- 'ethiopian airline office in nairobi telephone number'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Gatwick Terminal: Complete Guide'
-description: Everything you need to know about emirates flights from gatwick terminal, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from gatwick terminal, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-gatwick-terminal
-primary_keyword: emirates flights from gatwick terminal
+primary_keyword: 'emirates flights from gatwick terminal'
 secondary_keywords:
-- emirates flights from harare to london
-- emirates flights from istanbul to dubai
-- emirates flights from johannesburg to auckland
-- flights from karachi to dubai united arab emirates
-- emirates flights from melbourne
+- 'emirates flights from harare to london'
+- 'emirates flights from istanbul to dubai'
+- 'emirates flights from johannesburg to auckland'
+- 'flights from karachi to dubai united arab emirates'
+- 'emirates flights from melbourne'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Johannesburg to Nairobi Kenya: Complete Guide'
-description: Everything you need to know about cheap flights from johannesburg to nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from johannesburg to nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-johannesburg-to-nairobi-kenya
-primary_keyword: cheap flights from johannesburg to nairobi kenya
+primary_keyword: 'cheap flights from johannesburg to nairobi kenya'
 secondary_keywords:
-- flights nairobi to italy
-- flights to nairobi jambojet
-- kenya airways flights nairobi to entebbe price
-- nairobi to lodwar flights
-- flights nairobi to nanyuki
+- 'flights nairobi to italy'
+- 'flights to nairobi jambojet'
+- 'kenya airways flights nairobi to entebbe price'
+- 'nairobi to lodwar flights'
+- 'flights nairobi to nanyuki'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

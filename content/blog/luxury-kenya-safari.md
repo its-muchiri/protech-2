@@ -1,14 +1,14 @@
 ---
 title: 'Luxury Kenya Safari: Complete Guide'
-description: Kenya safari guide covering luxury kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering luxury kenya safari, including what is included, pricing, and booking advice.'
 slug: luxury-kenya-safari
-primary_keyword: Luxury Kenya safari
+primary_keyword: 'Luxury Kenya safari'
 secondary_keywords:
-- Kenya Association of Tour Operators (KATO) members
-- Gluten-free safari Kenya
-- What to pack for Kenya safari
-- Can I drink tap water Kenya safari
-- Wheelchair accessible Amboseli safari tour
+- 'Kenya Association of Tour Operators (KATO) members'
+- 'Gluten-free safari Kenya'
+- 'What to pack for Kenya safari'
+- 'Can I drink tap water Kenya safari'
+- 'Wheelchair accessible Amboseli safari tour'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Return Ticket to India from Kenya: Complete Guide'
-description: Everything you need to know about return ticket to india from kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about return ticket to india from kenya, including routes, airlines, booking tips, and fares.'
 slug: return-ticket-to-india-from-kenya
-primary_keyword: return ticket to india from kenya
+primary_keyword: 'return ticket to india from kenya'
 secondary_keywords:
-- ethiopian airlines nairobi airport
-- cheap flights from nairobi to cairo
-- kenya to ethiopia flight price
-- flight price from nairobi to ethiopia
-- cheap flights nairobi to mombasa
+- 'ethiopian airlines nairobi airport'
+- 'cheap flights from nairobi to cairo'
+- 'kenya to ethiopia flight price'
+- 'flight price from nairobi to ethiopia'
+- 'cheap flights nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Flight 319: Complete Guide'
-description: Everything you need to know about ethiopian airlines flight 319, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines flight 319, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-flight-319
-primary_keyword: ethiopian airlines flight 319
+primary_keyword: 'ethiopian airlines flight 319'
 secondary_keywords:
-- flight ticket to kenya price
-- flight ticket to kenya from ghana
-- how much is a round trip ticket to kenya
-- kenya airways book with miles
-- who flies to kenya
+- 'flight ticket to kenya price'
+- 'flight ticket to kenya from ghana'
+- 'how much is a round trip ticket to kenya'
+- 'kenya airways book with miles'
+- 'who flies to kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

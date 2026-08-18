@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is Emirates from Kenya to Dubai: Complete Guide'
-description: Everything you need to know about how much is emirates from kenya to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is emirates from kenya to dubai, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-emirates-from-kenya-to-dubai
-primary_keyword: how much is emirates from kenya to dubai
+primary_keyword: 'how much is emirates from kenya to dubai'
 secondary_keywords:
-- how do i contact turkish airlines
-- does turkish airlines allow pets in business class
-- turkish airlines in nairobi
-- turkish airlines nairobi to london
-- turkish airlines flight status nairobi to istanbul
+- 'how do i contact turkish airlines'
+- 'does turkish airlines allow pets in business class'
+- 'turkish airlines in nairobi'
+- 'turkish airlines nairobi to london'
+- 'turkish airlines flight status nairobi to istanbul'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

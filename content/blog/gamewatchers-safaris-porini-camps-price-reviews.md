@@ -1,14 +1,14 @@
 ---
 title: 'Gamewatchers Safaris Porini Camps Price / Reviews: Complete Guide'
-description: Kenya safari guide covering gamewatchers safaris porini camps price / reviews, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering gamewatchers safaris porini camps price / reviews, including what is included, pricing, and booking advice.'
 slug: gamewatchers-safaris-porini-camps-price-reviews
-primary_keyword: Gamewatchers Safaris Porini Camps price / reviews
+primary_keyword: 'Gamewatchers Safaris Porini Camps price / reviews'
 secondary_keywords:
-- Kenya safari experience
-- Safari Samburu
-- Giraffe Centre Nairobi visit
-- Bird watching Kenya safari
-- Kenya hiking safari
+- 'Kenya safari experience'
+- 'Safari Samburu'
+- 'Giraffe Centre Nairobi visit'
+- 'Bird watching Kenya safari'
+- 'Kenya hiking safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

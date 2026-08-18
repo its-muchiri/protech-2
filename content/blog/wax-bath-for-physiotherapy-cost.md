@@ -1,14 +1,14 @@
 ---
 title: 'Wax Bath for Physiotherapy Cost: 2026 Price Guide'
-description: Kenya buying guide to wax bath for physiotherapy cost. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to wax bath for physiotherapy cost. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: wax-bath-for-physiotherapy-cost
-primary_keyword: Wax bath for physiotherapy cost
+primary_keyword: 'Wax bath for physiotherapy cost'
 secondary_keywords:
-- Fingertip pulse oximeter for sale
-- TENS machine price in Kenya
-- CP walker for children with special needs price
-- Intraoral dental X-ray machine price in Kenya
-- Dental handpiece (high-speed and low-speed) suppliers
+- 'Fingertip pulse oximeter for sale'
+- 'TENS machine price in Kenya'
+- 'CP walker for children with special needs price'
+- 'Intraoral dental X-ray machine price in Kenya'
+- 'Dental handpiece (high-speed and low-speed) suppliers'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

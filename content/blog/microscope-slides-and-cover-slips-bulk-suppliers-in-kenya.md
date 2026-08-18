@@ -1,14 +1,14 @@
 ---
 title: 'Microscope Slides and Cover Slips Bulk Suppliers in Kenya: 2026 Price Guide'
-description: Kenya buying guide to microscope slides and cover slips bulk suppliers in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to microscope slides and cover slips bulk suppliers in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: microscope-slides-and-cover-slips-bulk-suppliers-in-kenya
-primary_keyword: Microscope slides and cover slips bulk suppliers in Kenya
+primary_keyword: 'Microscope slides and cover slips bulk suppliers in Kenya'
 secondary_keywords:
-- Cholesterol testing machine for pharmacy
-- 3D printer for dental models
-- anti-fatigue mats for operating theatre
-- bariatric patient handling equipment
-- backup generator for hospital price
+- 'Cholesterol testing machine for pharmacy'
+- '3D printer for dental models'
+- 'anti-fatigue mats for operating theatre'
+- 'bariatric patient handling equipment'
+- 'backup generator for hospital price'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Average Cost Kenya Safari: Complete Guide'
-description: Kenya safari guide covering average cost kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering average cost kenya safari, including what is included, pricing, and booking advice.'
 slug: average-cost-kenya-safari
-primary_keyword: Average cost Kenya safari
+primary_keyword: 'Average cost Kenya safari'
 secondary_keywords:
-- Direct booking Kenya safari lodge  package
-- Book luxury package private chef included Kenya (niche)
-- Select Kenya Tanzania combo package itinerary quote
-- Buy package for Kenya public holiday weekend deal
-- Buy 4 day Lake Nakuru Sopa Lodge birding package deal online
+- 'Direct booking Kenya safari lodge  package'
+- 'Book luxury package private chef included Kenya (niche)'
+- 'Select Kenya Tanzania combo package itinerary quote'
+- 'Buy package for Kenya public holiday weekend deal'
+- 'Buy 4 day Lake Nakuru Sopa Lodge birding package deal online'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

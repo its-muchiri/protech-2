@@ -1,14 +1,14 @@
 ---
 title: 'Mobile Operating Light for Minor Surgery: 2026 Price Guide'
-description: Kenya buying guide to mobile operating light for minor surgery. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to mobile operating light for minor surgery. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: mobile-operating-light-for-minor-surgery
-primary_keyword: Mobile operating light for minor surgery
+primary_keyword: 'Mobile operating light for minor surgery'
 secondary_keywords:
-- essential medical supplies Kenya
-- nebulizers Kenya price
-- infusion pumps Kenya price
-- vaccine fridge Kenya
-- IV stands Kenya price
+- 'essential medical supplies Kenya'
+- 'nebulizers Kenya price'
+- 'infusion pumps Kenya price'
+- 'vaccine fridge Kenya'
+- 'IV stands Kenya price'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

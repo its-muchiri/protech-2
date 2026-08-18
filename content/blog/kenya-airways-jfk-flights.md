@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Jfk Flights: Complete Guide'
-description: Everything you need to know about kenya airways jfk flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways jfk flights, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-jfk-flights
-primary_keyword: kenya airways jfk flights
+primary_keyword: 'kenya airways jfk flights'
 secondary_keywords:
-- flights from kenya to south korea
-- uk flights from kenya
-- flight attendant jobs in kenya 2023
-- flight from kenya to addis ababa
-- flights from kenya to barbados
+- 'flights from kenya to south korea'
+- 'uk flights from kenya'
+- 'flight attendant jobs in kenya 2023'
+- 'flight from kenya to addis ababa'
+- 'flights from kenya to barbados'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

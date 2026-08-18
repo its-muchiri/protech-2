@@ -1,14 +1,14 @@
 ---
 title: 'Book Kenya Safari Tour Online UK: Complete Guide'
-description: Kenya safari guide covering book kenya safari tour online uk, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book kenya safari tour online uk, including what is included, pricing, and booking advice.'
 slug: book-kenya-safari-tour-online-uk
-primary_keyword: Book Kenya safari tour online UK
+primary_keyword: 'Book Kenya safari tour online UK'
 secondary_keywords:
-- Great Rift Valley lakes safari package Kenya book
-- Book Christmas Kenya safari package
-- KATO registered tour operator packages buy
-- Reviews of Kenya safari packages to buy
-- Tented camp all-inclusive package Kenya cost
+- 'Great Rift Valley lakes safari package Kenya book'
+- 'Book Christmas Kenya safari package'
+- 'KATO registered tour operator packages buy'
+- 'Reviews of Kenya safari packages to buy'
+- 'Tented camp all-inclusive package Kenya cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

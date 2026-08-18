@@ -1,14 +1,14 @@
 ---
 title: 'Family Friendly Safari Lodges Masai Mara Kids Activities: Complete Guide'
-description: Kenya safari guide covering family friendly safari lodges masai mara kids activities, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering family friendly safari lodges masai mara kids activities, including what is included, pricing, and booking advice.'
 slug: family-friendly-safari-lodges-masai-mara-kids-activities
-primary_keyword: Family friendly safari lodges Masai Mara kids activities
+primary_keyword: 'Family friendly safari lodges Masai Mara kids activities'
 secondary_keywords:
-- Secure all-inclusive luxury safari Kenya purchase
-- Kenya safari cost per person quote
-- 9 day migration special safari rates request
-- Cost quote 4 day Tsavo lodge safari package from Mombasa
-- Laikipia luxury safari deals online
+- 'Secure all-inclusive luxury safari Kenya purchase'
+- 'Kenya safari cost per person quote'
+- '9 day migration special safari rates request'
+- 'Cost quote 4 day Tsavo lodge safari package from Mombasa'
+- 'Laikipia luxury safari deals online'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Cardiothoracic Surgery Instruments Suppliers in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to cardiothoracic surgery instruments suppliers in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to cardiothoracic surgery instruments suppliers in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: cardiothoracic-surgery-instruments-suppliers-in-nairobi
-primary_keyword: Cardiothoracic surgery instruments suppliers in Nairobi
+primary_keyword: 'Cardiothoracic surgery instruments suppliers in Nairobi'
 secondary_keywords:
-- vaccine carriers Kenya price
-- plaster of Paris bandages Kenya
-- medical filter paper Kenya
-- infusion sets Kenya price
-- fingertip pulse oximeter Kenya
+- 'vaccine carriers Kenya price'
+- 'plaster of Paris bandages Kenya'
+- 'medical filter paper Kenya'
+- 'infusion sets Kenya price'
+- 'fingertip pulse oximeter Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

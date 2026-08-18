@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Somalia: Complete Guide'
-description: Everything you need to know about flight from nairobi to somalia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to somalia, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-somalia
-primary_keyword: flight from nairobi to somalia
+primary_keyword: 'flight from nairobi to somalia'
 secondary_keywords:
-- kq flight from kinshasa to nairobi
-- kenya airways flights from usa to nairobi today
-- kq flight from nairobi
-- kq flight from cape town to nairobi
-- kenya airways to nairobi today
+- 'kq flight from kinshasa to nairobi'
+- 'kenya airways flights from usa to nairobi today'
+- 'kq flight from nairobi'
+- 'kq flight from cape town to nairobi'
+- 'kenya airways to nairobi today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

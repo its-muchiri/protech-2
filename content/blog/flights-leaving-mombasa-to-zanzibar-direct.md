@@ -1,14 +1,14 @@
 ---
 title: 'Flights Leaving Mombasa to Zanzibar Direct: Complete Guide'
-description: Everything you need to know about flights leaving mombasa to zanzibar direct, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights leaving mombasa to zanzibar direct, including routes, airlines, booking tips, and fares.'
 slug: flights-leaving-mombasa-to-zanzibar-direct
-primary_keyword: flights leaving mombasa to zanzibar direct
+primary_keyword: 'flights leaving mombasa to zanzibar direct'
 secondary_keywords:
-- kenya airways in kenya
-- local flights in kenya today
-- flights to kenya november 2025
-- qatar airways in nairobi
-- flights kenya to south africa
+- 'kenya airways in kenya'
+- 'local flights in kenya today'
+- 'flights to kenya november 2025'
+- 'qatar airways in nairobi'
+- 'flights kenya to south africa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Future of Safari Tourism Kenya: Complete Guide'
-description: Kenya safari guide covering future of safari tourism kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering future of safari tourism kenya, including what is included, pricing, and booking advice.'
 slug: future-of-safari-tourism-kenya
-primary_keyword: Future of safari tourism Kenya
+primary_keyword: 'Future of safari tourism Kenya'
 secondary_keywords:
-- Kenya film crew logistics support tour operators
-- Purchase Masai Mara safari trip online Europe
-- Book safari tour Kenya online payment
-- Private Kenya safari tour cost calculator
-- Best Kenya family safari packages Europe child friendly
+- 'Kenya film crew logistics support tour operators'
+- 'Purchase Masai Mara safari trip online Europe'
+- 'Book safari tour Kenya online payment'
+- 'Private Kenya safari tour cost calculator'
+- 'Best Kenya family safari packages Europe child friendly'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

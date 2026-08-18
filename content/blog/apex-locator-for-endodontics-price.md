@@ -1,14 +1,14 @@
 ---
 title: 'Apex Locator for Endodontics Price: 2026 Price Guide'
-description: Kenya buying guide to apex locator for endodontics price. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to apex locator for endodontics price. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: apex-locator-for-endodontics-price
-primary_keyword: Apex locator for endodontics price
+primary_keyword: 'Apex locator for endodontics price'
 secondary_keywords:
-- Echocardiography machine price in Kenya
-- Affordable DR panel for X-ray upgrade in Mombasa
-- Ophthalmic imaging equipment suppliers in Kisumu
-- Semi-automated chemistry analyzer price in Eldoret
-- Microscope slides and cover slips bulk suppliers in Kenya
+- 'Echocardiography machine price in Kenya'
+- 'Affordable DR panel for X-ray upgrade in Mombasa'
+- 'Ophthalmic imaging equipment suppliers in Kisumu'
+- 'Semi-automated chemistry analyzer price in Eldoret'
+- 'Microscope slides and cover slips bulk suppliers in Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

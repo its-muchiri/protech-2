@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari with Private Guide: Complete Guide'
-description: Kenya safari guide covering kenya safari with private guide, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari with private guide, including what is included, pricing, and booking advice.'
 slug: kenya-safari-with-private-guide
-primary_keyword: Kenya safari with private guide
+primary_keyword: 'Kenya safari with private guide'
 secondary_keywords:
-- Secluded honeymoon lodge Kenya package
-- Cheap 3 day Masai Mara package deal
-- Samburu Mount Kenya safari package price
-- New Year Kenya safari tour booking
-- ATOL protected Kenya safari package book
+- 'Secluded honeymoon lodge Kenya package'
+- 'Cheap 3 day Masai Mara package deal'
+- 'Samburu Mount Kenya safari package price'
+- 'New Year Kenya safari tour booking'
+- 'ATOL protected Kenya safari package book'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

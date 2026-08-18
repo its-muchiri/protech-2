@@ -1,14 +1,14 @@
 ---
 title: 'Quote for 7 Day Luxury Masai Mara Package: Complete Guide'
-description: Kenya safari guide covering quote for 7 day luxury masai mara package, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering quote for 7 day luxury masai mara package, including what is included, pricing, and booking advice.'
 slug: quote-for-7-day-luxury-masai-mara-package
-primary_keyword: Quote for 7 day luxury Masai Mara package
+primary_keyword: 'Quote for 7 day luxury Masai Mara package'
 secondary_keywords:
-- Christmas safari deal buy
-- Book 9 day mid-range Kenya classic circuit package
-- Get quote 9 day Northern Kenya special species package
-- Reserve 8 day Kenya honeymoon special offer package
-- Book 10 day luxury tented camps exclusive package Kenya
+- 'Christmas safari deal buy'
+- 'Book 9 day mid-range Kenya classic circuit package'
+- 'Get quote 9 day Northern Kenya special species package'
+- 'Reserve 8 day Kenya honeymoon special offer package'
+- 'Book 10 day luxury tented camps exclusive package Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

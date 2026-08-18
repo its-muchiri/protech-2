@@ -1,14 +1,14 @@
 ---
 title: 'Quote 12 Day Ultimate Luxury Kenya Private Jet Safari Package Exclusive Use: Complete Guide'
-description: Kenya safari guide covering quote 12 day ultimate luxury kenya private jet safari package exclusive use, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering quote 12 day ultimate luxury kenya private jet safari package exclusive use, including what is included, pricing, and booking advice.'
 slug: quote-12-day-ultimate-luxury-kenya-private-jet-safari-package-exclusive-use
-primary_keyword: Quote 12 day ultimate luxury Kenya private jet safari package exclusive use
+primary_keyword: 'Quote 12 day ultimate luxury Kenya private jet safari package exclusive use'
 secondary_keywords:
-- Price for all-inclusive honeymoon package Kenya coast safari
-- Book 4 day Ol Pejeta chimpanzee safari package deal
-- Buy 5 day Amboseli Serena lodge package
-- Book 4 day Mount Kenya Safari Club package deal
-- Confirm availability 5 day budget safari Kenya August
+- 'Price for all-inclusive honeymoon package Kenya coast safari'
+- 'Book 4 day Ol Pejeta chimpanzee safari package deal'
+- 'Buy 5 day Amboseli Serena lodge package'
+- 'Book 4 day Mount Kenya Safari Club package deal'
+- 'Confirm availability 5 day budget safari Kenya August'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

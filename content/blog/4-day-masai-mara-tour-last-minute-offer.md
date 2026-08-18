@@ -1,14 +1,14 @@
 ---
 title: '4 Day Masai Mara Tour Last Minute Offer: Complete Guide'
-description: Kenya safari guide covering 4 day masai mara tour last minute offer, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering 4 day masai mara tour last minute offer, including what is included, pricing, and booking advice.'
 slug: 4-day-masai-mara-tour-last-minute-offer
-primary_keyword: 4 day Masai Mara tour last minute offer
+primary_keyword: '4 day Masai Mara tour last minute offer'
 secondary_keywords:
-- Lock in rate for 10 day Kenya premium package
-- Get quote 5 day Kenya budget camping joining safari
-- Buy value package 10 day multi-park Kenya safari
-- Price 14 day Elewana Collection SkySafari Kenya package
-- Reserve 9 day Joy''s Camp Shaba Samburu package deal
+- 'Lock in rate for 10 day Kenya premium package'
+- 'Get quote 5 day Kenya budget camping joining safari'
+- 'Buy value package 10 day multi-park Kenya safari'
+- 'Price 14 day Elewana Collection SkySafari Kenya package'
+- 'Reserve 9 day Joy''''s Camp Shaba Samburu package deal'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

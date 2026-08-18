@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Sydney to Nairobi: Complete Guide'
-description: Everything you need to know about emirates flights from sydney to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from sydney to nairobi, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-sydney-to-nairobi
-primary_keyword: emirates flights from sydney to nairobi
+primary_keyword: 'emirates flights from sydney to nairobi'
 secondary_keywords:
-- i-fly air kenya
-- kq flights to kinshasa
-- kq flights meaning
-- kq flight nairobi to eldoret
-- kq flight reservation
+- 'i-fly air kenya'
+- 'kq flights to kinshasa'
+- 'kq flights meaning'
+- 'kq flight nairobi to eldoret'
+- 'kq flight reservation'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

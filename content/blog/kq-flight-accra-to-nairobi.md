@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight Accra to Nairobi: Complete Guide'
-description: Everything you need to know about kq flight accra to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight accra to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-accra-to-nairobi
-primary_keyword: kq flight accra to nairobi
+primary_keyword: 'kq flight accra to nairobi'
 secondary_keywords:
-- ethiopia to kenya flight time
-- ethiopian airlines flight from nairobi to addis ababa price
-- ethiopian airlines flight 302 videos
-- flights nairobi to atlanta
-- flights nairobi to barcelona
+- 'ethiopia to kenya flight time'
+- 'ethiopian airlines flight from nairobi to addis ababa price'
+- 'ethiopian airlines flight 302 videos'
+- 'flights nairobi to atlanta'
+- 'flights nairobi to barcelona'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Victoria Falls: Complete Guide'
-description: Everything you need to know about flights from nairobi to victoria falls, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to victoria falls, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-victoria-falls
-primary_keyword: flights from nairobi to victoria falls
+primary_keyword: 'flights from nairobi to victoria falls'
 secondary_keywords:
-- emirates flight 373
-- emirates flight 434
-- emirates flight 612 status
-- emirates flight 7
-- emirates flight 904
+- 'emirates flight 373'
+- 'emirates flight 434'
+- 'emirates flight 612 status'
+- 'emirates flight 7'
+- 'emirates flight 904'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Quote 10 Day Best Value Family Safari Kenya Itinerary Park Fees Included: Complete Guide'
-description: Kenya safari guide covering quote 10 day best value family safari kenya itinerary park fees included, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering quote 10 day best value family safari kenya itinerary park fees included, including what is included, pricing, and booking advice.'
 slug: quote-10-day-best-value-family-safari-kenya-itinerary-park-fees-included
-primary_keyword: Quote 10 day best value family safari Kenya itinerary park fees included
+primary_keyword: 'Quote 10 day best value family safari Kenya itinerary park fees included'
 secondary_keywords:
-- Secure 10 day Kenya Tanzania combined tour
-- Reserve luxury tented camp safari booking
-- Price for Kenya wildlife safari package
-- Cost of 4 day Masai Mara express tour
-- Quote for 7 day luxury Masai Mara package
+- 'Secure 10 day Kenya Tanzania combined tour'
+- 'Reserve luxury tented camp safari booking'
+- 'Price for Kenya wildlife safari package'
+- 'Cost of 4 day Masai Mara express tour'
+- 'Quote for 7 day luxury Masai Mara package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

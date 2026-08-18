@@ -1,14 +1,14 @@
 ---
 title: 'Indigo Flight from Nairobi: Complete Guide'
-description: Everything you need to know about indigo flight from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about indigo flight from nairobi, including routes, airlines, booking tips, and fares.'
 slug: indigo-flight-from-nairobi
-primary_keyword: indigo flight from nairobi
+primary_keyword: 'indigo flight from nairobi'
 secondary_keywords:
-- flights from nairobi to gaborone
-- flights from nairobi to hargeisa
-- flights from nairobi to kilimanjaro international airport
-- flights from nairobi to jro
-- kq flights from nairobi to eldoret
+- 'flights from nairobi to gaborone'
+- 'flights from nairobi to hargeisa'
+- 'flights from nairobi to kilimanjaro international airport'
+- 'flights from nairobi to jro'
+- 'kq flights from nairobi to eldoret'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

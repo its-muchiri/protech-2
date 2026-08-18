@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights from Eldoret to Nairobi Today: Complete Guide'
-description: Everything you need to know about kenya airways flights from eldoret to nairobi today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights from eldoret to nairobi today, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-from-eldoret-to-nairobi-today
-primary_keyword: kenya airways flights from eldoret to nairobi today
+primary_keyword: 'kenya airways flights from eldoret to nairobi today'
 secondary_keywords:
-- cheap flights from istanbul to nairobi
-- flights from nairobi kenya to santorini greece
-- flights from nairobi to lagos
-- flights from nairobi to minneapolis
-- flights from nairobi to nyc
+- 'cheap flights from istanbul to nairobi'
+- 'flights from nairobi kenya to santorini greece'
+- 'flights from nairobi to lagos'
+- 'flights from nairobi to minneapolis'
+- 'flights from nairobi to nyc'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

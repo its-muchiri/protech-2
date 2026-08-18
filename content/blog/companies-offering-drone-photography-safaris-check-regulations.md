@@ -1,14 +1,14 @@
 ---
 title: 'Companies Offering Drone Photography Safaris (check Regulations): Complete Guide'
-description: Kenya safari guide covering companies offering drone photography safaris (check regulations), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering companies offering drone photography safaris (check regulations), including what is included, pricing, and booking advice.'
 slug: companies-offering-drone-photography-safaris-check-regulations
-primary_keyword: Companies offering drone photography safaris (check regulations)
+primary_keyword: 'Companies offering drone photography safaris (check regulations)'
 secondary_keywords:
-- Purchase 7 day classic Kenya safari package
-- Secure honeymoon Kenya safari package online
-- Reserve 12 day luxury tented camp migration safari booking
-- Laikipia luxury safari quote online
-- Small group Kenya safari package price list
+- 'Purchase 7 day classic Kenya safari package'
+- 'Secure honeymoon Kenya safari package online'
+- 'Reserve 12 day luxury tented camp migration safari booking'
+- 'Laikipia luxury safari quote online'
+- 'Small group Kenya safari package price list'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

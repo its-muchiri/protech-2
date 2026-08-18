@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Ewr: Complete Guide'
-description: Everything you need to know about emirates flights from ewr, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from ewr, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-ewr
-primary_keyword: emirates flights from ewr
+primary_keyword: 'emirates flights from ewr'
 secondary_keywords:
-- cheap flights to nairobi from london
-- flights from nairobi to new york
-- flights from nairobi to abuja nigeria
-- flights from nairobi to philadelphia
-- qatar airways flights from nairobi
+- 'cheap flights to nairobi from london'
+- 'flights from nairobi to new york'
+- 'flights from nairobi to abuja nigeria'
+- 'flights from nairobi to philadelphia'
+- 'qatar airways flights from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

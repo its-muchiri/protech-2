@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from New York to Athens: Complete Guide'
-description: Everything you need to know about emirates flights from new york to athens, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from new york to athens, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-new-york-to-athens
-primary_keyword: emirates flights from new york to athens
+primary_keyword: 'emirates flights from new york to athens'
 secondary_keywords:
-- jkia turkish airlines terminal
-- turkish airlines jobs in kenya
-- turkish airlines 607
-- ethiopian airlines nairobi to addis ababa schedule
-- ethiopian airline terminal in nairobi
+- 'jkia turkish airlines terminal'
+- 'turkish airlines jobs in kenya'
+- 'turkish airlines 607'
+- 'ethiopian airlines nairobi to addis ababa schedule'
+- 'ethiopian airline terminal in nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

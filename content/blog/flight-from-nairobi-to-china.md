@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to China: Complete Guide'
-description: Everything you need to know about flight from nairobi to china, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to china, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-china
-primary_keyword: flight from nairobi to china
+primary_keyword: 'flight from nairobi to china'
 secondary_keywords:
-- which flights operate from nairobi to mombasa
-- flight from mombasa to rwanda
-- flights from mombasa to uganda
-- cheapest flights from mombasa to zanzibar
-- flights from kisumu to south africa
+- 'which flights operate from nairobi to mombasa'
+- 'flight from mombasa to rwanda'
+- 'flights from mombasa to uganda'
+- 'cheapest flights from mombasa to zanzibar'
+- 'flights from kisumu to south africa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

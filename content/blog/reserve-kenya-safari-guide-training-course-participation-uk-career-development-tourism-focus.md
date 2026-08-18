@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Kenya Safari Guide Training Course Participation UK Career Development Tourism Focus: Complete Guide'
-description: Kenya safari guide covering reserve kenya safari guide training course participation uk career development tourism focus, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve kenya safari guide training course participation uk career development tourism focus, including what is included, pricing, and booking advice.'
 slug: reserve-kenya-safari-guide-training-course-participation-uk-career-development-tourism-focus
-primary_keyword: Reserve Kenya safari guide training course participation UK career development tourism focus
+primary_keyword: 'Reserve Kenya safari guide training course participation UK career development tourism focus'
 secondary_keywords:
-- Compare Kenya safari package prices
-- Kenya safari package including park fees cost
-- Samburu safari operator quote
-- (Continue generating variations by combining elements like Duration + Location + Type + Intent Word)
-- Reserve 8 day Kenya birding package specialist guide
+- 'Compare Kenya safari package prices'
+- 'Kenya safari package including park fees cost'
+- 'Samburu safari operator quote'
+- '(Continue generating variations by combining elements like Duration + Location + Type + Intent Word)'
+- 'Reserve 8 day Kenya birding package specialist guide'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

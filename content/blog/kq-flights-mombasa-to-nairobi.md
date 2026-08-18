@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights Mombasa to Nairobi: Complete Guide'
-description: Everything you need to know about kq flights mombasa to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights mombasa to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-mombasa-to-nairobi
-primary_keyword: kq flights mombasa to nairobi
+primary_keyword: 'kq flights mombasa to nairobi'
 secondary_keywords:
-- flight from nairobi to india
-- jambojet flight from nairobi to eldoret
-- flight from nairobi to london heathrow
-- flight from nairobi to mauritius
-- flight ticket from nigeria to nairobi
+- 'flight from nairobi to india'
+- 'jambojet flight from nairobi to eldoret'
+- 'flight from nairobi to london heathrow'
+- 'flight from nairobi to mauritius'
+- 'flight ticket from nigeria to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

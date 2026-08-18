@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Offices Nairobi Location: Complete Guide'
-description: Everything you need to know about emirates offices nairobi location, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates offices nairobi location, including routes, airlines, booking tips, and fares.'
 slug: emirates-offices-nairobi-location
-primary_keyword: emirates offices nairobi location
+primary_keyword: 'emirates offices nairobi location'
 secondary_keywords:
-- emirates flights from germany
-- how many emirates flights from london to dubai
-- emirates flights from israel
-- emirates flights from johannesburg
-- emirates flights from dublin to kochi
+- 'emirates flights from germany'
+- 'how many emirates flights from london to dubai'
+- 'emirates flights from israel'
+- 'emirates flights from johannesburg'
+- 'emirates flights from dublin to kochi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

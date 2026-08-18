@@ -1,14 +1,14 @@
 ---
 title: 'Volunteer Tourism Programs Kenya Wildlife / Community Projects: Complete Guide'
-description: Kenya safari guide covering volunteer tourism programs kenya wildlife / community projects, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering volunteer tourism programs kenya wildlife / community projects, including what is included, pricing, and booking advice.'
 slug: volunteer-tourism-programs-kenya-wildlife-community-projects
-primary_keyword: Volunteer tourism programs Kenya wildlife / community projects
+primary_keyword: 'Volunteer tourism programs Kenya wildlife / community projects'
 secondary_keywords:
-- Eco lodges Kenya safari
-- Masai Mara balloon safari
-- Big Five safari Kenya
-- Rare animals Kenya safari
-- Drive Nairobi to Amboseli safari
+- 'Eco lodges Kenya safari'
+- 'Masai Mara balloon safari'
+- 'Big Five safari Kenya'
+- 'Rare animals Kenya safari'
+- 'Drive Nairobi to Amboseli safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

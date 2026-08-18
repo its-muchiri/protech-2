@@ -1,14 +1,14 @@
 ---
 title: 'What Planes Do Emirates Use: Complete Guide'
-description: Everything you need to know about what planes do emirates use, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about what planes do emirates use, including routes, airlines, booking tips, and fares.'
 slug: what-planes-do-emirates-use
-primary_keyword: what planes do emirates use
+primary_keyword: 'what planes do emirates use'
 secondary_keywords:
-- flights from nairobi to islamabad
-- flights from nairobi to jamaica
-- kq flights from nairobi to eldoret price
-- local flights from nairobi to mombasa
-- mauritius flights from nairobi
+- 'flights from nairobi to islamabad'
+- 'flights from nairobi to jamaica'
+- 'kq flights from nairobi to eldoret price'
+- 'local flights from nairobi to mombasa'
+- 'mauritius flights from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

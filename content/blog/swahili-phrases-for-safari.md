@@ -1,14 +1,14 @@
 ---
 title: 'Swahili Phrases for Safari: Complete Guide'
-description: Kenya safari guide covering swahili phrases for safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering swahili phrases for safari, including what is included, pricing, and booking advice.'
 slug: swahili-phrases-for-safari
-primary_keyword: Swahili phrases for safari
+primary_keyword: 'Swahili phrases for safari'
 secondary_keywords:
-- Book Kenya Tanzania safari package
-- Luxury Kenya Zanzibar package booking
-- Early bird booking Kenya safari package
-- Best Kenya safari package deals online
-- Book fly-in Kenya safari package all inclusive
+- 'Book Kenya Tanzania safari package'
+- 'Luxury Kenya Zanzibar package booking'
+- 'Early bird booking Kenya safari package'
+- 'Best Kenya safari package deals online'
+- 'Book fly-in Kenya safari package all inclusive'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Kenya Safari: Complete Guide'
-description: Kenya safari guide covering cheap kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering cheap kenya safari, including what is included, pricing, and booking advice.'
 slug: cheap-kenya-safari
-primary_keyword: Cheap Kenya safari
+primary_keyword: 'Cheap Kenya safari'
 secondary_keywords:
-- Cycling safari Kenya
-- Zebra migration Kenya
-- Kenya Tanzania safari combo
-- Best month for Kenya safari
-- Christmas Kenya safari
+- 'Cycling safari Kenya'
+- 'Zebra migration Kenya'
+- 'Kenya Tanzania safari combo'
+- 'Best month for Kenya safari'
+- 'Christmas Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

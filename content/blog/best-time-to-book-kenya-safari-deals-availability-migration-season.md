@@ -1,14 +1,14 @@
 ---
 title: 'Best Time to Book Kenya Safari Deals / Availability Migration Season: Complete Guide'
-description: Kenya safari guide covering best time to book kenya safari deals / availability migration season, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering best time to book kenya safari deals / availability migration season, including what is included, pricing, and booking advice.'
 slug: best-time-to-book-kenya-safari-deals-availability-migration-season
-primary_keyword: Best time to book Kenya safari deals / availability migration season
+primary_keyword: 'Best time to book Kenya safari deals / availability migration season'
 secondary_keywords:
-- Compare specific tour operators Bonfire vs Bountiful Kenya
-- Safari tours starting from Nairobi Jomo Kenyatta Airport (NBO)
-- Buy Tsavo National Park safari online now
-- Reserve Kenya safari slot for July 2025 USA
-- Last minute Kenya safari deals UK direct operator
+- 'Compare specific tour operators Bonfire vs Bountiful Kenya'
+- 'Safari tours starting from Nairobi Jomo Kenyatta Airport (NBO)'
+- 'Buy Tsavo National Park safari online now'
+- 'Reserve Kenya safari slot for July 2025 USA'
+- 'Last minute Kenya safari deals UK direct operator'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

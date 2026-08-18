@@ -1,14 +1,14 @@
 ---
-title: 'Giraffe Safari Kenya (Rothschild's, Reticulated): Complete Guide'
-description: Kenya safari guide covering giraffe safari kenya (rothschilds, reticulated), including what is included, pricing, and booking advice.
+title: 'Giraffe Safari Kenya (Rothschild''s, Reticulated): Complete Guide'
+description: 'Kenya safari guide covering giraffe safari kenya (rothschilds, reticulated), including what is included, pricing, and booking advice.'
 slug: giraffe-safari-kenya-rothschild-s-reticulated
-primary_keyword: Giraffe safari Kenya (Rothschild's, Reticulated)
+primary_keyword: 'Giraffe safari Kenya (Rothschild''s, Reticulated)'
 secondary_keywords:
-- Reserve Kenya wildlife tour package UK cost
-- Amboseli National Park safari deals UK family
-- Low season Kenya safari price Europe (April/May)
-- Kenya Big Five safari holiday deals USA guaranteed sightings
-- Lake Nakuru flamingo safari price USA rhino sanctuary
+- 'Reserve Kenya wildlife tour package UK cost'
+- 'Amboseli National Park safari deals UK family'
+- 'Low season Kenya safari price Europe (April/May)'
+- 'Kenya Big Five safari holiday deals USA guaranteed sightings'
+- 'Lake Nakuru flamingo safari price USA rhino sanctuary'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

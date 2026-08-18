@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Coastal Safari: Complete Guide'
-description: Kenya safari guide covering kenya coastal safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya coastal safari, including what is included, pricing, and booking advice.'
 slug: kenya-coastal-safari
-primary_keyword: Kenya coastal safari
+primary_keyword: 'Kenya coastal safari'
 secondary_keywords:
-- Book Menengai Crater hike safari day trip Nakuru Kenya Europe geology focus cost
-- Explore Kenya safari
-- Tsavo West safari
-- Masai Mara conservancy safari
-- Honeymoon Kenya safari
+- 'Book Menengai Crater hike safari day trip Nakuru Kenya Europe geology focus cost'
+- 'Explore Kenya safari'
+- 'Tsavo West safari'
+- 'Masai Mara conservancy safari'
+- 'Honeymoon Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Cargo Flight Schedule: Complete Guide'
-description: Everything you need to know about kenya airways cargo flight schedule, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways cargo flight schedule, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-cargo-flight-schedule
-primary_keyword: kenya airways cargo flight schedule
+primary_keyword: 'kenya airways cargo flight schedule'
 secondary_keywords:
-- flight duration from nairobi to qatar
-- riyadh to nairobi flights
-- flights nairobi to toronto
-- nairobi to ukunda flights
-- virgin flights to nairobi
+- 'flight duration from nairobi to qatar'
+- 'riyadh to nairobi flights'
+- 'flights nairobi to toronto'
+- 'nairobi to ukunda flights'
+- 'virgin flights to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

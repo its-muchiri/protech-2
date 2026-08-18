@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi Airport: Complete Guide'
-description: Everything you need to know about flights from nairobi airport, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi airport, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-airport
-primary_keyword: flights from nairobi airport
+primary_keyword: 'flights from nairobi airport'
 secondary_keywords:
-- kq flights cancelled
-- kq flight disruptions jkia fuel
-- kq eldoret flights
-- flight kq
-- i-fly air booking
+- 'kq flights cancelled'
+- 'kq flight disruptions jkia fuel'
+- 'kq eldoret flights'
+- 'flight kq'
+- 'i-fly air booking'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

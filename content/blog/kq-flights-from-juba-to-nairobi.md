@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from Juba to Nairobi: Complete Guide'
-description: Everything you need to know about kq flights from juba to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from juba to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-juba-to-nairobi
-primary_keyword: kq flights from juba to nairobi
+primary_keyword: 'kq flights from juba to nairobi'
 secondary_keywords:
-- flights from kenya to swaziland
-- flights from kenya to uk
-- flights from nairobi to vienna
-- flights from washington dc to nairobi kenya
-- flights from nbo to yow
+- 'flights from kenya to swaziland'
+- 'flights from kenya to uk'
+- 'flights from nairobi to vienna'
+- 'flights from washington dc to nairobi kenya'
+- 'flights from nbo to yow'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

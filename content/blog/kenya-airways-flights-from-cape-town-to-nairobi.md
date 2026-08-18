@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights from Cape Town to Nairobi: Complete Guide'
-description: Everything you need to know about kenya airways flights from cape town to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights from cape town to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-from-cape-town-to-nairobi
-primary_keyword: kenya airways flights from cape town to nairobi
+primary_keyword: 'kenya airways flights from cape town to nairobi'
 secondary_keywords:
-- kenya airways flight from nairobi to jfk
-- kenya airways flight schedule from lagos to nairobi
-- kenya airways flight from new york to nairobi
-- flight from nairobi to mombasa
-- flight from nairobi to amsterdam time
+- 'kenya airways flight from nairobi to jfk'
+- 'kenya airways flight schedule from lagos to nairobi'
+- 'kenya airways flight from new york to nairobi'
+- 'flight from nairobi to mombasa'
+- 'flight from nairobi to amsterdam time'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

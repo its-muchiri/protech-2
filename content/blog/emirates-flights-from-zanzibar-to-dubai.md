@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Zanzibar to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from zanzibar to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from zanzibar to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-zanzibar-to-dubai
-primary_keyword: emirates flights from zanzibar to dubai
+primary_keyword: 'emirates flights from zanzibar to dubai'
 secondary_keywords:
-- flights nairobi to masai mara
-- nairobi to nanyuki flights
-- flights nairobi to prague
-- flight duration from nairobi to qatar
-- riyadh to nairobi flights
+- 'flights nairobi to masai mara'
+- 'nairobi to nanyuki flights'
+- 'flights nairobi to prague'
+- 'flight duration from nairobi to qatar'
+- 'riyadh to nairobi flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

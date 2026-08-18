@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kisumu to Nairobi Tomorrow: Complete Guide'
-description: Everything you need to know about flights from kisumu to nairobi tomorrow, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kisumu to nairobi tomorrow, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kisumu-to-nairobi-tomorrow
-primary_keyword: flights from kisumu to nairobi tomorrow
+primary_keyword: 'flights from kisumu to nairobi tomorrow'
 secondary_keywords:
-- flights from eldoret to nairobi today
-- flight from eldoret to nairobi how much
-- kenya airways flights from eldoret to nairobi today
-- who flies to penticton
-- kq flights to eldoret
+- 'flights from eldoret to nairobi today'
+- 'flight from eldoret to nairobi how much'
+- 'kenya airways flights from eldoret to nairobi today'
+- 'who flies to penticton'
+- 'kq flights to eldoret'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

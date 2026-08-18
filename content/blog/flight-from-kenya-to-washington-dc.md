@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kenya to Washington Dc: Complete Guide'
-description: Everything you need to know about flight from kenya to washington dc, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kenya to washington dc, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kenya-to-washington-dc
-primary_keyword: flight from kenya to washington dc
+primary_keyword: 'flight from kenya to washington dc'
 secondary_keywords:
-- emirates flight from nairobi
-- flight from nairobi to germany
-- flight from nairobi to homa bay
-- how much is flight from nairobi to kampala
-- jambojet flight from nairobi to mombasa
+- 'emirates flight from nairobi'
+- 'flight from nairobi to germany'
+- 'flight from nairobi to homa bay'
+- 'how much is flight from nairobi to kampala'
+- 'jambojet flight from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

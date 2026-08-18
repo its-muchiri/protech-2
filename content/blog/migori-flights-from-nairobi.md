@@ -1,14 +1,14 @@
 ---
 title: 'Migori Flights from Nairobi: Complete Guide'
-description: Everything you need to know about migori flights from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about migori flights from nairobi, including routes, airlines, booking tips, and fares.'
 slug: migori-flights-from-nairobi
-primary_keyword: migori flights from nairobi
+primary_keyword: 'migori flights from nairobi'
 secondary_keywords:
-- air india flights from nairobi to mumbai
-- british airways flights from nairobi today
-- flights from nairobi to copenhagen
-- flights from nairobi to dublin
-- eldoret flights from nairobi
+- 'air india flights from nairobi to mumbai'
+- 'british airways flights from nairobi today'
+- 'flights from nairobi to copenhagen'
+- 'flights from nairobi to dublin'
+- 'eldoret flights from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

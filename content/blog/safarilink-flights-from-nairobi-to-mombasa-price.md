@@ -1,14 +1,14 @@
 ---
 title: 'Safarilink Flights from Nairobi to Mombasa Price: Complete Guide'
-description: Everything you need to know about safarilink flights from nairobi to mombasa price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about safarilink flights from nairobi to mombasa price, including routes, airlines, booking tips, and fares.'
 slug: safarilink-flights-from-nairobi-to-mombasa-price
-primary_keyword: safarilink flights from nairobi to mombasa price
+primary_keyword: 'safarilink flights from nairobi to mombasa price'
 secondary_keywords:
-- flight from nairobi to mauritius
-- flight ticket from nigeria to nairobi
-- flight from nairobi to portugal
-- flight from nairobi to romania
-- flight from nairobi to seattle
+- 'flight from nairobi to mauritius'
+- 'flight ticket from nigeria to nairobi'
+- 'flight from nairobi to portugal'
+- 'flight from nairobi to romania'
+- 'flight from nairobi to seattle'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

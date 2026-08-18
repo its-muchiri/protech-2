@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Dublin: Complete Guide'
-description: Everything you need to know about emirates flights from dublin, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from dublin, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-dublin
-primary_keyword: emirates flights from dublin
+primary_keyword: 'emirates flights from dublin'
 secondary_keywords:
-- cheap flights from nairobi to london
-- diani flights from nairobi
-- emirates flights from nairobi
-- flights from nairobi to garissa
-- flights from nairobi to harare
+- 'cheap flights from nairobi to london'
+- 'diani flights from nairobi'
+- 'emirates flights from nairobi'
+- 'flights from nairobi to garissa'
+- 'flights from nairobi to harare'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

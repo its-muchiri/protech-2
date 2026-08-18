@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Heathrow Terminal: Complete Guide'
-description: Everything you need to know about emirates flights from heathrow terminal, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from heathrow terminal, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-heathrow-terminal
-primary_keyword: emirates flights from heathrow terminal
+primary_keyword: 'emirates flights from heathrow terminal'
 secondary_keywords:
-- flights from nairobi to diani
-- flights from nairobi to edmonton
-- who flies to nairobi
-- flights from nairobi to garowe
-- how much are flights from nairobi to mombasa
+- 'flights from nairobi to diani'
+- 'flights from nairobi to edmonton'
+- 'who flies to nairobi'
+- 'flights from nairobi to garowe'
+- 'how much are flights from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

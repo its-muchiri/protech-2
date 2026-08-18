@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Uganda: Complete Guide'
-description: Everything you need to know about flights from nairobi to uganda, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to uganda, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-uganda
-primary_keyword: flights from nairobi to uganda
+primary_keyword: 'flights from nairobi to uganda'
 secondary_keywords:
-- emirates flights from dubai to nairobi
-- emirates flights from europe
-- emirates flights for pakistan
-- emirates flights from glasgow to abu dhabi
-- how many emirates flights from toronto to dubai
+- 'emirates flights from dubai to nairobi'
+- 'emirates flights from europe'
+- 'emirates flights for pakistan'
+- 'emirates flights from glasgow to abu dhabi'
+- 'how many emirates flights from toronto to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

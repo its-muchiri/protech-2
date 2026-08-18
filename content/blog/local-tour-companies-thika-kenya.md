@@ -1,14 +1,14 @@
 ---
 title: 'Local Tour Companies Thika Kenya: Complete Guide'
-description: Kenya safari guide covering local tour companies thika kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering local tour companies thika kenya, including what is included, pricing, and booking advice.'
 slug: local-tour-companies-thika-kenya
-primary_keyword: Local tour companies Thika Kenya
+primary_keyword: 'Local tour companies Thika Kenya'
 secondary_keywords:
-- Birding specialist guide package Kenya book
-- Kenya Tanzania package quote
-- Buy 12 day luxury Kenya Uganda gorilla package
-- Reserve 11 day Kenya safari and beach Zanzibar package
-- Book 10 day safari package with hot air balloon included cost
+- 'Birding specialist guide package Kenya book'
+- 'Kenya Tanzania package quote'
+- 'Buy 12 day luxury Kenya Uganda gorilla package'
+- 'Reserve 11 day Kenya safari and beach Zanzibar package'
+- 'Book 10 day safari package with hot air balloon included cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

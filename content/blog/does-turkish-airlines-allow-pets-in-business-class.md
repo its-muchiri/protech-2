@@ -1,14 +1,14 @@
 ---
 title: 'Does Turkish Airlines Allow Pets in Business Class: Complete Guide'
-description: Everything you need to know about does turkish airlines allow pets in business class, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about does turkish airlines allow pets in business class, including routes, airlines, booking tips, and fares.'
 slug: does-turkish-airlines-allow-pets-in-business-class
-primary_keyword: does turkish airlines allow pets in business class
+primary_keyword: 'does turkish airlines allow pets in business class'
 secondary_keywords:
-- kq flights to ghana
-- how many flights does kq have
-- kq flights to johannesburg today timetable
-- kq flights to lamu
-- kq flights to malindi from nairobi
+- 'kq flights to ghana'
+- 'how many flights does kq have'
+- 'kq flights to johannesburg today timetable'
+- 'kq flights to lamu'
+- 'kq flights to malindi from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Cost: Complete Guide'
-description: Kenya safari guide covering kenya safari cost, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari cost, including what is included, pricing, and booking advice.'
 slug: kenya-safari-cost
-primary_keyword: Kenya safari cost
+primary_keyword: 'Kenya safari cost'
 secondary_keywords:
-- Buy accessible Kenya safari tour package modified vehicle Europe booking assistance
-- Reserve Kenya safari with child-friendly malaria-free area lodges USA Laikipia deals
-- Check Kenya eVisa requirements for European Union citizens booking safari online
-- Find LGBTQ+ welcoming Kenya safari tour operator USA safe travel recommendations reviews
-- Book Amboseli cultural manyatta stay safari package Europe immersive experience booking
+- 'Buy accessible Kenya safari tour package modified vehicle Europe booking assistance'
+- 'Reserve Kenya safari with child-friendly malaria-free area lodges USA Laikipia deals'
+- 'Check Kenya eVisa requirements for European Union citizens booking safari online'
+- 'Find LGBTQ+ welcoming Kenya safari tour operator USA safe travel recommendations reviews'
+- 'Book Amboseli cultural manyatta stay safari package Europe immersive experience booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

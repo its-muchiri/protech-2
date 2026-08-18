@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines from Beirut to Nairobi: Complete Guide'
-description: Everything you need to know about ethiopian airlines from beirut to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines from beirut to nairobi, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-from-beirut-to-nairobi
-primary_keyword: ethiopian airlines from beirut to nairobi
+primary_keyword: 'ethiopian airlines from beirut to nairobi'
 secondary_keywords:
-- turkish airlines flight from nairobi to istanbul price
-- return flight from nairobi to kisumu price
-- the cheapest flight from nairobi to mombasa
-- flight from nairobi to uk price
-- flight from nairobi to wajir
+- 'turkish airlines flight from nairobi to istanbul price'
+- 'return flight from nairobi to kisumu price'
+- 'the cheapest flight from nairobi to mombasa'
+- 'flight from nairobi to uk price'
+- 'flight from nairobi to wajir'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

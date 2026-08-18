@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Jkia: Complete Guide'
-description: Everything you need to know about flights from jkia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from jkia, including routes, airlines, booking tips, and fares.'
 slug: flights-from-jkia
-primary_keyword: flights from jkia
+primary_keyword: 'flights from jkia'
 secondary_keywords:
-- cheapest flight from nairobi to china
-- domestic flight from nairobi to kisumu
-- flight time from nairobi to frankfurt
-- flight from nairobi to greece
-- flight from nairobi to hanoi
+- 'cheapest flight from nairobi to china'
+- 'domestic flight from nairobi to kisumu'
+- 'flight time from nairobi to frankfurt'
+- 'flight from nairobi to greece'
+- 'flight from nairobi to hanoi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

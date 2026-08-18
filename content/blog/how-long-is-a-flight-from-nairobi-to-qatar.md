@@ -1,14 +1,14 @@
 ---
 title: 'How Long Is a Flight from Nairobi to Qatar: Complete Guide'
-description: Everything you need to know about how long is a flight from nairobi to qatar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how long is a flight from nairobi to qatar, including routes, airlines, booking tips, and fares.'
 slug: how-long-is-a-flight-from-nairobi-to-qatar
-primary_keyword: how long is a flight from nairobi to qatar
+primary_keyword: 'how long is a flight from nairobi to qatar'
 secondary_keywords:
-- emirates flights from israel
-- emirates flights from johannesburg
-- emirates flights from dublin to kochi
-- emirates flights from miami
-- emirates flights from orlando to dubai
+- 'emirates flights from israel'
+- 'emirates flights from johannesburg'
+- 'emirates flights from dublin to kochi'
+- 'emirates flights from miami'
+- 'emirates flights from orlando to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

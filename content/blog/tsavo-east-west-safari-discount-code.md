@@ -1,14 +1,14 @@
 ---
 title: 'Tsavo East West Safari Discount Code: Complete Guide'
-description: Kenya safari guide covering tsavo east west safari discount code, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering tsavo east west safari discount code, including what is included, pricing, and booking advice.'
 slug: tsavo-east-west-safari-discount-code
-primary_keyword: Tsavo East West safari discount code
+primary_keyword: 'Tsavo East West safari discount code'
 secondary_keywords:
-- Find deals Kenya safari green season (Apr-May) Europe discounts luxury lodges availability
-- Buy multi-country East Africa safari Kenya Tanzania Rwanda gorilla trek USA operator package cost
-- Find Kenya safari lodge with private plunge pool booking USA luxury honeymoon deals
-- Book tea plantation tour Limuru safari add-on Kenya Europe agricultural tourism booking
-- Kenya safari
+- 'Find deals Kenya safari green season (Apr-May) Europe discounts luxury lodges availability'
+- 'Buy multi-country East Africa safari Kenya Tanzania Rwanda gorilla trek USA operator package cost'
+- 'Find Kenya safari lodge with private plunge pool booking USA luxury honeymoon deals'
+- 'Book tea plantation tour Limuru safari add-on Kenya Europe agricultural tourism booking'
+- 'Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

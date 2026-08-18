@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Philippines: Complete Guide'
-description: Everything you need to know about flights from kenya to philippines, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to philippines, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-philippines
-primary_keyword: flights from kenya to philippines
+primary_keyword: 'flights from kenya to philippines'
 secondary_keywords:
-- return flight from nairobi to cape town
-- time taken by flight from nairobi to mombasa
-- safarilink flight from ukunda to nairobi
-- flight from nairobi to windhoek
-- flight distance from nairobi to new york
+- 'return flight from nairobi to cape town'
+- 'time taken by flight from nairobi to mombasa'
+- 'safarilink flight from ukunda to nairobi'
+- 'flight from nairobi to windhoek'
+- 'flight distance from nairobi to new york'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

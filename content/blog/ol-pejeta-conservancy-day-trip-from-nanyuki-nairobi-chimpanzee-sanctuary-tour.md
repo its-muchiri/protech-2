@@ -1,14 +1,14 @@
 ---
 title: 'Ol Pejeta Conservancy Day Trip from Nanyuki / Nairobi Chimpanzee Sanctuary Tour: Complete Guide'
-description: Kenya safari guide covering ol pejeta conservancy day trip from nanyuki / nairobi chimpanzee sanctuary tour, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering ol pejeta conservancy day trip from nanyuki / nairobi chimpanzee sanctuary tour, including what is included, pricing, and booking advice.'
 slug: ol-pejeta-conservancy-day-trip-from-nanyuki-nairobi-chimpanzee-sanctuary-tour
-primary_keyword: Ol Pejeta Conservancy day trip from Nanyuki / Nairobi chimpanzee sanctuary tour
+primary_keyword: 'Ol Pejeta Conservancy day trip from Nanyuki / Nairobi chimpanzee sanctuary tour'
 secondary_keywords:
-- Buy luxury Kenya safari
-- Cost of 10 day family Kenya Tanzania safari package
-- Book 3 day Nairobi National Park Amboseli express package
-- Buy 8 day romantic getaway safari package Laikipia
-- Book 5 day Great Rift Valley lakes birding package
+- 'Buy luxury Kenya safari'
+- 'Cost of 10 day family Kenya Tanzania safari package'
+- 'Book 3 day Nairobi National Park Amboseli express package'
+- 'Buy 8 day romantic getaway safari package Laikipia'
+- 'Book 5 day Great Rift Valley lakes birding package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

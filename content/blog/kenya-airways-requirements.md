@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Requirements: Complete Guide'
-description: Everything you need to know about kenya airways requirements, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways requirements, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-requirements
-primary_keyword: kenya airways requirements
+primary_keyword: 'kenya airways requirements'
 secondary_keywords:
-- flights to kenya length
-- flights to kenya now
-- kq flights prices
-- flights kenya to zanzibar
-- flights to vipingo
+- 'flights to kenya length'
+- 'flights to kenya now'
+- 'kq flights prices'
+- 'flights kenya to zanzibar'
+- 'flights to vipingo'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Super Metro Flights from Nairobi to Mombasa: Complete Guide'
-description: Everything you need to know about super metro flights from nairobi to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about super metro flights from nairobi to mombasa, including routes, airlines, booking tips, and fares.'
 slug: super-metro-flights-from-nairobi-to-mombasa
-primary_keyword: super metro flights from nairobi to mombasa
+primary_keyword: 'super metro flights from nairobi to mombasa'
 secondary_keywords:
-- emirates airlines kenya contacts
-- emirates jkia nairobi
-- emirates shoes nairobi
-- emirates flights to kenya from london
-- emirates flight from kenya to dubai price tomorrow
+- 'emirates airlines kenya contacts'
+- 'emirates jkia nairobi'
+- 'emirates shoes nairobi'
+- 'emirates flights to kenya from london'
+- 'emirates flight from kenya to dubai price tomorrow'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

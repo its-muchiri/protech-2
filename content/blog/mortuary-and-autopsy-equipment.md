@@ -1,14 +1,14 @@
 ---
 title: 'Mortuary and Autopsy Equipment: 2026 Price Guide'
-description: Kenya buying guide to mortuary and autopsy equipment. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to mortuary and autopsy equipment. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: mortuary-and-autopsy-equipment
-primary_keyword: Mortuary and Autopsy Equipment
+primary_keyword: 'Mortuary and Autopsy Equipment'
 secondary_keywords:
-- Examination couch price in Kenya
-- 3-parameter vital signs monitor for sale
-- Double channel infusion pump cost
-- Therapeutic ultrasound machine for physiotherapy
-- Quadriceps exercise table for sale
+- 'Examination couch price in Kenya'
+- '3-parameter vital signs monitor for sale'
+- 'Double channel infusion pump cost'
+- 'Therapeutic ultrasound machine for physiotherapy'
+- 'Quadriceps exercise table for sale'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

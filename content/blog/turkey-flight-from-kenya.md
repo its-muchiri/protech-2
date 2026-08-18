@@ -1,14 +1,14 @@
 ---
 title: 'Turkey Flight from Kenya: Complete Guide'
-description: Everything you need to know about turkey flight from kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkey flight from kenya, including routes, airlines, booking tips, and fares.'
 slug: turkey-flight-from-kenya
-primary_keyword: turkey flight from kenya
+primary_keyword: 'turkey flight from kenya'
 secondary_keywords:
-- flight from nairobi to brazil
-- flight from nairobi to congo
-- flight from nairobi to doha today
-- emirates flight from nairobi
-- flight from nairobi to germany
+- 'flight from nairobi to brazil'
+- 'flight from nairobi to congo'
+- 'flight from nairobi to doha today'
+- 'emirates flight from nairobi'
+- 'flight from nairobi to germany'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

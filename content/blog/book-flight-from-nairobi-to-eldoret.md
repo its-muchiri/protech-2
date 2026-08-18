@@ -1,14 +1,14 @@
 ---
 title: 'Book Flight from Nairobi to Eldoret: Complete Guide'
-description: Everything you need to know about book flight from nairobi to eldoret, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about book flight from nairobi to eldoret, including routes, airlines, booking tips, and fares.'
 slug: book-flight-from-nairobi-to-eldoret
-primary_keyword: book flight from nairobi to eldoret
+primary_keyword: 'book flight from nairobi to eldoret'
 secondary_keywords:
-- flights from nairobi kenya to london united kingdom
-- flights from nairobi to livingstone zambia
-- mombasa flights from nairobi
-- nonstop flights from nairobi
-- flights from orlando to nairobi
+- 'flights from nairobi kenya to london united kingdom'
+- 'flights from nairobi to livingstone zambia'
+- 'mombasa flights from nairobi'
+- 'nonstop flights from nairobi'
+- 'flights from orlando to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

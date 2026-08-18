@@ -1,14 +1,14 @@
 ---
 title: 'Ukunda Flights from Nairobi: Complete Guide'
-description: Everything you need to know about ukunda flights from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ukunda flights from nairobi, including routes, airlines, booking tips, and fares.'
 slug: ukunda-flights-from-nairobi
-primary_keyword: ukunda flights from nairobi
+primary_keyword: 'ukunda flights from nairobi'
 secondary_keywords:
-- kq flights to kenya
-- kq flights mombasa
-- kq flight nairobi to new york
-- kq flight rates
-- kq flights to senegal
+- 'kq flights to kenya'
+- 'kq flights mombasa'
+- 'kq flight nairobi to new york'
+- 'kq flight rates'
+- 'kq flights to senegal'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

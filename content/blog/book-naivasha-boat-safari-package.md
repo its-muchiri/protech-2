@@ -1,14 +1,14 @@
 ---
 title: 'Book Naivasha Boat Safari Package: Complete Guide'
-description: Kenya safari guide covering book naivasha boat safari package, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book naivasha boat safari package, including what is included, pricing, and booking advice.'
 slug: book-naivasha-boat-safari-package
-primary_keyword: Book Naivasha boat safari package
+primary_keyword: 'Book Naivasha boat safari package'
 secondary_keywords:
-- Book group joining 6 day budget camping package Kenya
-- Buy 8 day accessible Kenya safari package quote
-- Quote for 9 day Kenya small group safari package tour
-- Get deal 12 day Kenya Tanzania migration combo package booking
-- Purchase voucher Kenya family safari package
+- 'Book group joining 6 day budget camping package Kenya'
+- 'Buy 8 day accessible Kenya safari package quote'
+- 'Quote for 9 day Kenya small group safari package tour'
+- 'Get deal 12 day Kenya Tanzania migration combo package booking'
+- 'Purchase voucher Kenya family safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

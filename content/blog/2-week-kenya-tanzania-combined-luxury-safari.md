@@ -1,14 +1,14 @@
 ---
 title: '2 Week Kenya Tanzania Combined Luxury Safari: Complete Guide'
-description: Kenya safari guide covering 2 week kenya tanzania combined luxury safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering 2 week kenya tanzania combined luxury safari, including what is included, pricing, and booking advice.'
 slug: 2-week-kenya-tanzania-combined-luxury-safari
-primary_keyword: 2 week Kenya Tanzania combined luxury safari
+primary_keyword: '2 week Kenya Tanzania combined luxury safari'
 secondary_keywords:
-- Find luxury train safari Rovos Rail style Kenya (limited options) booking agent USA
-- Top Kenya safari
-- Safari Lake Nakuru flamingos
-- Sweetwaters Chimpanzee Sanctuary visit
-- Photographic Kenya safari
+- 'Find luxury train safari Rovos Rail style Kenya (limited options) booking agent USA'
+- 'Top Kenya safari'
+- 'Safari Lake Nakuru flamingos'
+- 'Sweetwaters Chimpanzee Sanctuary visit'
+- 'Photographic Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

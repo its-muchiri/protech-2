@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Dubai Which Terminal: Complete Guide'
-description: Everything you need to know about emirates flights from dubai which terminal, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from dubai which terminal, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-dubai-which-terminal
-primary_keyword: emirates flights from dubai which terminal
+primary_keyword: 'emirates flights from dubai which terminal'
 secondary_keywords:
-- kq flight confirmation
-- kq flight departures
-- kq flights schedule to eldoret
-- kq history
-- kq flights to johannesburg today
+- 'kq flight confirmation'
+- 'kq flight departures'
+- 'kq flights schedule to eldoret'
+- 'kq history'
+- 'kq flights to johannesburg today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

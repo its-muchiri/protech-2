@@ -1,14 +1,14 @@
 ---
 title: 'Wilson Airport Nairobi Safari Flights: Complete Guide'
-description: Kenya safari guide covering wilson airport nairobi safari flights, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering wilson airport nairobi safari flights, including what is included, pricing, and booking advice.'
 slug: wilson-airport-nairobi-safari-flights
-primary_keyword: Wilson Airport Nairobi safari flights
+primary_keyword: 'Wilson Airport Nairobi safari flights'
 secondary_keywords:
-- Cost 7-day family camping safari Kenya Amboseli from USA budget
-- Check deals Kenya safari and Diani beach all-inclusive package Europe flights
-- Buy all-inclusive fly-in safari package Lewa Conservancy Kenya Europe price list 2025
-- Purchase women-only small group Kenya safari tour UK female guide operator deals
-- Cost of single supplement waived Kenya safari tour Europe solo traveler deals dates
+- 'Cost 7-day family camping safari Kenya Amboseli from USA budget'
+- 'Check deals Kenya safari and Diani beach all-inclusive package Europe flights'
+- 'Buy all-inclusive fly-in safari package Lewa Conservancy Kenya Europe price list 2025'
+- 'Purchase women-only small group Kenya safari tour UK female guide operator deals'
+- 'Cost of single supplement waived Kenya safari tour Europe solo traveler deals dates'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

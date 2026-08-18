@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Surat to Dubai United Arab Emirates: Complete Guide'
-description: Everything you need to know about flights from surat to dubai united arab emirates, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from surat to dubai united arab emirates, including routes, airlines, booking tips, and fares.'
 slug: flights-from-surat-to-dubai-united-arab-emirates
-primary_keyword: flights from surat to dubai united arab emirates
+primary_keyword: 'flights from surat to dubai united arab emirates'
 secondary_keywords:
-- flights from kenya to dc
-- kenya airways flights from eldoret to nairobi
-- flights from victoria falls zimbabwe to nairobi kenya
-- flights from gaborone to kenya
-- cheap flights from heathrow to nairobi kenya
+- 'flights from kenya to dc'
+- 'kenya airways flights from eldoret to nairobi'
+- 'flights from victoria falls zimbabwe to nairobi kenya'
+- 'flights from gaborone to kenya'
+- 'cheap flights from heathrow to nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

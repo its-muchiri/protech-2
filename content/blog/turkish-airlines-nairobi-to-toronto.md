@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Nairobi to Toronto: Complete Guide'
-description: Everything you need to know about turkish airlines nairobi to toronto, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines nairobi to toronto, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-nairobi-to-toronto
-primary_keyword: turkish airlines nairobi to toronto
+primary_keyword: 'turkish airlines nairobi to toronto'
 secondary_keywords:
-- flights nairobi to jro
-- flights nairobi to kilimanjaro
-- flights nairobi to lewa
-- mogadishu to nairobi flights
-- new delhi to nairobi flights
+- 'flights nairobi to jro'
+- 'flights nairobi to kilimanjaro'
+- 'flights nairobi to lewa'
+- 'mogadishu to nairobi flights'
+- 'new delhi to nairobi flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

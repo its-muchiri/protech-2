@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Nairobi to Addis Ababa Price: Complete Guide'
-description: Everything you need to know about ethiopian airlines nairobi to addis ababa price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines nairobi to addis ababa price, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-nairobi-to-addis-ababa-price
-primary_keyword: ethiopian airlines nairobi to addis ababa price
+primary_keyword: 'ethiopian airlines nairobi to addis ababa price'
 secondary_keywords:
-- qatar airways nairobi office contacts whatsapp number
-- kq flight from amsterdam to nairobi
-- kq flights from dubai to nairobi
-- kenya airways flights from heathrow
-- kq flight from mumbai to nairobi
+- 'qatar airways nairobi office contacts whatsapp number'
+- 'kq flight from amsterdam to nairobi'
+- 'kq flights from dubai to nairobi'
+- 'kenya airways flights from heathrow'
+- 'kq flight from mumbai to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

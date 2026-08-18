@@ -1,14 +1,14 @@
 ---
 title: 'Compare Kenyan Tour Operators Prices and Packages: Complete Guide'
-description: Kenya safari guide covering compare kenyan tour operators prices and packages, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering compare kenyan tour operators prices and packages, including what is included, pricing, and booking advice.'
 slug: compare-kenyan-tour-operators-prices-and-packages
-primary_keyword: Compare Kenyan tour operators prices and packages
+primary_keyword: 'Compare Kenyan tour operators prices and packages'
 secondary_keywords:
-- Urgent Kenya safari booking online UK instant confirmation
-- Best luxury Kenya safari packages reviews Conde Nast UK
-- Reputable Kenya camping safari providers UK reviews
-- Cost comparison budget Kenya group safari tours USA local vs international agents
-- Purchase 12-day ultimate Kenya luxury safari cost USA includes internal flights lodges
+- 'Urgent Kenya safari booking online UK instant confirmation'
+- 'Best luxury Kenya safari packages reviews Conde Nast UK'
+- 'Reputable Kenya camping safari providers UK reviews'
+- 'Cost comparison budget Kenya group safari tours USA local vs international agents'
+- 'Purchase 12-day ultimate Kenya luxury safari cost USA includes internal flights lodges'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

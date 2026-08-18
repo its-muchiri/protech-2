@@ -1,14 +1,14 @@
 ---
 title: 'Day Trip Nairobi National Park Tour Company Price: Complete Guide'
-description: Kenya safari guide covering day trip nairobi national park tour company price, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering day trip nairobi national park tour company price, including what is included, pricing, and booking advice.'
 slug: day-trip-nairobi-national-park-tour-company-price
-primary_keyword: Day trip Nairobi National Park tour company price
+primary_keyword: 'Day trip Nairobi National Park tour company price'
 secondary_keywords:
-- Wilson Airport charter flight safari companies
-- Travel insurance recommendations Kenya safari companies
-- Honeymoon package Kenya safari and Zanzibar beach reviews
-- Safari company specializing in big cat sightings Kenya
-- Secure all-inclusive Kenya safari package
+- 'Wilson Airport charter flight safari companies'
+- 'Travel insurance recommendations Kenya safari companies'
+- 'Honeymoon package Kenya safari and Zanzibar beach reviews'
+- 'Safari company specializing in big cat sightings Kenya'
+- 'Secure all-inclusive Kenya safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

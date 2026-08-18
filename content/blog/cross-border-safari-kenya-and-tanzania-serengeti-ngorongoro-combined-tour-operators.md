@@ -1,14 +1,14 @@
 ---
 title: 'Cross Border Safari Kenya and Tanzania Serengeti / Ngorongoro Combined Tour Operators: Complete Guide'
-description: Kenya safari guide covering cross border safari kenya and tanzania serengeti / ngorongoro combined tour operators, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering cross border safari kenya and tanzania serengeti / ngorongoro combined tour operators, including what is included, pricing, and booking advice.'
 slug: cross-border-safari-kenya-and-tanzania-serengeti-ngorongoro-combined-tour-operators
-primary_keyword: Cross border safari Kenya and Tanzania Serengeti / Ngorongoro combined tour operators
+primary_keyword: 'Cross border safari Kenya and Tanzania Serengeti / Ngorongoro combined tour operators'
 secondary_keywords:
-- Kenya Tanzania package quote
-- Buy 12 day luxury Kenya Uganda gorilla package
-- Reserve 11 day Kenya safari and beach Zanzibar package
-- Book 10 day safari package with hot air balloon included cost
-- Buy 3 day Amboseli fly-in package from Nairobi cost
+- 'Kenya Tanzania package quote'
+- 'Buy 12 day luxury Kenya Uganda gorilla package'
+- 'Reserve 11 day Kenya safari and beach Zanzibar package'
+- 'Book 10 day safari package with hot air balloon included cost'
+- 'Buy 3 day Amboseli fly-in package from Nairobi cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

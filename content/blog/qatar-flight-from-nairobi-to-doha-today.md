@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Flight from Nairobi to Doha Today: Complete Guide'
-description: Everything you need to know about qatar flight from nairobi to doha today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar flight from nairobi to doha today, including routes, airlines, booking tips, and fares.'
 slug: qatar-flight-from-nairobi-to-doha-today
-primary_keyword: qatar flight from nairobi to doha today
+primary_keyword: 'qatar flight from nairobi to doha today'
 secondary_keywords:
-- flights to wajir
-- flights from kenya
-- are there direct flights from kenya to bahamas
-- flights from kenya to brisbane
-- flights from kenya to cameroon
+- 'flights to wajir'
+- 'flights from kenya'
+- 'are there direct flights from kenya to bahamas'
+- 'flights from kenya to brisbane'
+- 'flights from kenya to cameroon'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

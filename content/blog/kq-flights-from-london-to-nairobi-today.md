@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from London to Nairobi Today: Complete Guide'
-description: Everything you need to know about kq flights from london to nairobi today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from london to nairobi today, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-london-to-nairobi-today
-primary_keyword: kq flights from london to nairobi today
+primary_keyword: 'kq flights from london to nairobi today'
 secondary_keywords:
-- emirates flights kenya
-- emirates kenya office
-- 1 uae dirham to kenyan shillings
-- ethiopian airlines nairobi airport office
-- cheap flights from nairobi to egypt
+- 'emirates flights kenya'
+- 'emirates kenya office'
+- '1 uae dirham to kenyan shillings'
+- 'ethiopian airlines nairobi airport office'
+- 'cheap flights from nairobi to egypt'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

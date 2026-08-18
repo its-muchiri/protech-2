@@ -1,14 +1,14 @@
 ---
 title: 'Flight Nairobi to Isiolo: Complete Guide'
-description: Everything you need to know about flight nairobi to isiolo, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight nairobi to isiolo, including routes, airlines, booking tips, and fares.'
 slug: flight-nairobi-to-isiolo
-primary_keyword: flight nairobi to isiolo
+primary_keyword: 'flight nairobi to isiolo'
 secondary_keywords:
-- flights nairobi to lagos
-- flights nairobi to maldives
-- flight time nairobi to nyc
-- flights nairobi to paris
-- flight hours from nairobi to qatar
+- 'flights nairobi to lagos'
+- 'flights nairobi to maldives'
+- 'flight time nairobi to nyc'
+- 'flights nairobi to paris'
+- 'flight hours from nairobi to qatar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

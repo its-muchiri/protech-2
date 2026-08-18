@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Departure Nairobi: Complete Guide'
-description: Everything you need to know about emirates departure nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates departure nairobi, including routes, airlines, booking tips, and fares.'
 slug: emirates-departure-nairobi
-primary_keyword: emirates departure nairobi
+primary_keyword: 'emirates departure nairobi'
 secondary_keywords:
-- flight from nairobi to nigeria
-- cost of flight from nairobi to homa bay
-- price of flight from nairobi to usa
-- return flight from nairobi to mombasa price
-- singapore flight from nairobi
+- 'flight from nairobi to nigeria'
+- 'cost of flight from nairobi to homa bay'
+- 'price of flight from nairobi to usa'
+- 'return flight from nairobi to mombasa price'
+- 'singapore flight from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

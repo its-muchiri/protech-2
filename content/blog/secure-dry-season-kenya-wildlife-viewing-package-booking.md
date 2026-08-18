@@ -1,14 +1,14 @@
 ---
 title: 'Secure Dry Season Kenya Wildlife Viewing Package Booking: Complete Guide'
-description: Kenya safari guide covering secure dry season kenya wildlife viewing package booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering secure dry season kenya wildlife viewing package booking, including what is included, pricing, and booking advice.'
 slug: secure-dry-season-kenya-wildlife-viewing-package-booking
-primary_keyword: Secure dry season Kenya wildlife viewing package booking
+primary_keyword: 'Secure dry season Kenya wildlife viewing package booking'
 secondary_keywords:
-- Wild dog safari Kenya (rare)
-- Kenya safari from USA
-- Kenya safari in March
-- Kenya safari companies
-- Kenya safari specialist
+- 'Wild dog safari Kenya (rare)'
+- 'Kenya safari from USA'
+- 'Kenya safari in March'
+- 'Kenya safari companies'
+- 'Kenya safari specialist'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

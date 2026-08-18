@@ -1,14 +1,14 @@
 ---
 title: 'Tour Operators Specializing in Bird Photography Kenya: Complete Guide'
-description: Kenya safari guide covering tour operators specializing in bird photography kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering tour operators specializing in bird photography kenya, including what is included, pricing, and booking advice.'
 slug: tour-operators-specializing-in-bird-photography-kenya
-primary_keyword: Tour operators specializing in bird photography Kenya
+primary_keyword: 'Tour operators specializing in bird photography Kenya'
 secondary_keywords:
-- Reserve Lake Magadi lesser flamingoes safari tour Kenya Europe unique landscape photography booking
-- Find Kenya safari wedding planning services package UK destination wedding venue lodges
-- Safari tours Kenya
-- Masai Mara safari
-- Hell''s Gate National Park safari
+- 'Reserve Lake Magadi lesser flamingoes safari tour Kenya Europe unique landscape photography booking'
+- 'Find Kenya safari wedding planning services package UK destination wedding venue lodges'
+- 'Safari tours Kenya'
+- 'Masai Mara safari'
+- 'Hell''''s Gate National Park safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

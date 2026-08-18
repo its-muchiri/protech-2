@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight Schedule from Nairobi to Accra Today: Complete Guide'
-description: Everything you need to know about kenya airways flight schedule from nairobi to accra today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight schedule from nairobi to accra today, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-schedule-from-nairobi-to-accra-today
-primary_keyword: kenya airways flight schedule from nairobi to accra today
+primary_keyword: 'kenya airways flight schedule from nairobi to accra today'
 secondary_keywords:
-- cheapest flights from riyadh to nairobi
-- short flights from nairobi
-- uganda airlines flights from nairobi to entebbe price
-- flights from nairobi wilson to malindi
-- flights from nairobi to yyz
+- 'cheapest flights from riyadh to nairobi'
+- 'short flights from nairobi'
+- 'uganda airlines flights from nairobi to entebbe price'
+- 'flights from nairobi wilson to malindi'
+- 'flights from nairobi to yyz'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

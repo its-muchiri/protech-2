@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Amman Jordan: Complete Guide'
-description: Everything you need to know about flights from nairobi to amman jordan, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to amman jordan, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-amman-jordan
-primary_keyword: flights from nairobi to amman jordan
+primary_keyword: 'flights from nairobi to amman jordan'
 secondary_keywords:
-- flight from nairobi to elwak
-- flight from frankfurt to nairobi
-- flight from garissa to nairobi
-- how much is a flight from nairobi to kisumu
-- flight from nairobi to jamaica
+- 'flight from nairobi to elwak'
+- 'flight from frankfurt to nairobi'
+- 'flight from garissa to nairobi'
+- 'how much is a flight from nairobi to kisumu'
+- 'flight from nairobi to jamaica'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

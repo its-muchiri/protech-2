@@ -1,14 +1,14 @@
 ---
 title: 'Boston to Nairobi Flights: Complete Guide'
-description: Everything you need to know about boston to nairobi flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about boston to nairobi flights, including routes, airlines, booking tips, and fares.'
 slug: boston-to-nairobi-flights
-primary_keyword: boston to nairobi flights
+primary_keyword: 'boston to nairobi flights'
 secondary_keywords:
-- cheap flights from nairobi to johannesburg
-- flights from nairobi to eldoret today
-- flights from nairobi to freetown
-- flights from nairobi to geneva
-- flights from nairobi to hamburg
+- 'cheap flights from nairobi to johannesburg'
+- 'flights from nairobi to eldoret today'
+- 'flights from nairobi to freetown'
+- 'flights from nairobi to geneva'
+- 'flights from nairobi to hamburg'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

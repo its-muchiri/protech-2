@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa Kenya to Kigali Rwanda: Complete Guide'
-description: Everything you need to know about flights from mombasa kenya to kigali rwanda, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa kenya to kigali rwanda, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-kenya-to-kigali-rwanda
-primary_keyword: flights from mombasa kenya to kigali rwanda
+primary_keyword: 'flights from mombasa kenya to kigali rwanda'
 secondary_keywords:
-- flight from nairobi to china
-- flight from nairobi to diani
-- flight from nairobi to edmonton
-- how long is a flight from frankfurt to nairobi
-- how many hours flight from nairobi to germany
+- 'flight from nairobi to china'
+- 'flight from nairobi to diani'
+- 'flight from nairobi to edmonton'
+- 'how long is a flight from frankfurt to nairobi'
+- 'how many hours flight from nairobi to germany'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

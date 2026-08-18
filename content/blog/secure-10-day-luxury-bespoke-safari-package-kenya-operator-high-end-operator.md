@@ -1,14 +1,14 @@
 ---
 title: 'Secure 10 Day Luxury Bespoke Safari Package Kenya Operator : Complete Guide'
-description: Kenya safari guide covering secure 10 day luxury bespoke safari package kenya operator , including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering secure 10 day luxury bespoke safari package kenya operator , including what is included, pricing, and booking advice.'
 slug: secure-10-day-luxury-bespoke-safari-package-kenya-operator-high-end-operator
-primary_keyword: Secure 10 day luxury bespoke safari package Kenya operator
+primary_keyword: 'Secure 10 day luxury bespoke safari package Kenya operator'
 secondary_keywords:
-- Book voluntourism placement Kenya wildlife conservation project safari included USA program fees cost
-- Purchase vintage car safari tour Kenya experience USA classic vehicle booking price
-- Reserve Elsamere Conservation Centre visit Lake Naivasha safari UK Joy Adamson history booking
-- Kenya holiday safari
-- Safari Amboseli
+- 'Book voluntourism placement Kenya wildlife conservation project safari included USA program fees cost'
+- 'Purchase vintage car safari tour Kenya experience USA classic vehicle booking price'
+- 'Reserve Elsamere Conservation Centre visit Lake Naivasha safari UK Joy Adamson history booking'
+- 'Kenya holiday safari'
+- 'Safari Amboseli'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

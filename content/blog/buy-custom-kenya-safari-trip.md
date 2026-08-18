@@ -1,14 +1,14 @@
 ---
 title: 'Buy Custom Kenya Safari Trip: Complete Guide'
-description: Kenya safari guide covering buy custom kenya safari trip, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy custom kenya safari trip, including what is included, pricing, and booking advice.'
 slug: buy-custom-kenya-safari-trip
-primary_keyword: Buy custom Kenya safari trip
+primary_keyword: 'Buy custom Kenya safari trip'
 secondary_keywords:
-- Amboseli package cost
-- Last minute deal Kenya safari buy
-- Quote for solo traveler 10 day Kenya budget package
-- Reserve 14 day luxury fly-camping safari package Kenya
-- Price for 4 day Samburu Ashnil luxury package deal
+- 'Amboseli package cost'
+- 'Last minute deal Kenya safari buy'
+- 'Quote for solo traveler 10 day Kenya budget package'
+- 'Reserve 14 day luxury fly-camping safari package Kenya'
+- 'Price for 4 day Samburu Ashnil luxury package deal'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

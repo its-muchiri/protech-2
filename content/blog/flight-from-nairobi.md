@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi: Complete Guide'
-description: Everything you need to know about flight from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi
-primary_keyword: flight from nairobi
+primary_keyword: 'flight from nairobi'
 secondary_keywords:
-- flight from eldoret to kisumu price
-- flights to kisumu from mombasa
-- flights from eldoret to diani
-- flights to eldoret from jkia
-- flight from eldoret to nanyuki
+- 'flight from eldoret to kisumu price'
+- 'flights to kisumu from mombasa'
+- 'flights from eldoret to diani'
+- 'flights to eldoret from jkia'
+- 'flight from eldoret to nanyuki'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

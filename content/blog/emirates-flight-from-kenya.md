@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight from Kenya: Complete Guide'
-description: Everything you need to know about emirates flight from kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight from kenya, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-from-kenya
-primary_keyword: emirates flight from kenya
+primary_keyword: 'emirates flight from kenya'
 secondary_keywords:
-- emirates kenya contact number
-- emirates flights kenya
-- emirates kenya office
-- 1 uae dirham to kenyan shillings
-- ethiopian airlines nairobi airport office
+- 'emirates kenya contact number'
+- 'emirates flights kenya'
+- 'emirates kenya office'
+- '1 uae dirham to kenyan shillings'
+- 'ethiopian airlines nairobi airport office'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

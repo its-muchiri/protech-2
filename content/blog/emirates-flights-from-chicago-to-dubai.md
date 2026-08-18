@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Chicago to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from chicago to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from chicago to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-chicago-to-dubai
-primary_keyword: emirates flights from chicago to dubai
+primary_keyword: 'emirates flights from chicago to dubai'
 secondary_keywords:
-- voi flights from nairobi
-- flights from mombasa to nairobi wilson airport
-- flights from nairobi to new zealand
-- flights from nairobi to mombasa today
-- how long is a flight from nairobi to usa
+- 'voi flights from nairobi'
+- 'flights from mombasa to nairobi wilson airport'
+- 'flights from nairobi to new zealand'
+- 'flights from nairobi to mombasa today'
+- 'how long is a flight from nairobi to usa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

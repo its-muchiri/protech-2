@@ -1,14 +1,14 @@
 ---
 title: 'Explorer Kenya Safaris Reviews Luxury / Mid-range: Complete Guide'
-description: Kenya safari guide covering explorer kenya safaris reviews luxury / mid-range, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering explorer kenya safaris reviews luxury / mid-range, including what is included, pricing, and booking advice.'
 slug: explorer-kenya-safaris-reviews-luxury-mid-range
-primary_keyword: Explorer Kenya Safaris reviews luxury / mid-range
+primary_keyword: 'Explorer Kenya Safaris reviews luxury / mid-range'
 secondary_keywords:
-- Bush breakfast Kenya safari
-- Bird species Kenya safari
-- Kenya Uganda Rwanda safari
-- Kenya safari dry season
-- Easter Kenya safari
+- 'Bush breakfast Kenya safari'
+- 'Bird species Kenya safari'
+- 'Kenya Uganda Rwanda safari'
+- 'Kenya safari dry season'
+- 'Easter Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

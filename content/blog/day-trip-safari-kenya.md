@@ -1,14 +1,14 @@
 ---
 title: 'Day Trip Safari Kenya: Complete Guide'
-description: Kenya safari guide covering day trip safari kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering day trip safari kenya, including what is included, pricing, and booking advice.'
 slug: day-trip-safari-kenya
-primary_keyword: Day trip safari Kenya
+primary_keyword: 'Day trip safari Kenya'
 secondary_keywords:
-- Great Migration Kenya safari
-- Eco safari Kenya
-- 6 day Kenya safari
-- Kenya safari packages price
-- Kenya safari lodges
+- 'Great Migration Kenya safari'
+- 'Eco safari Kenya'
+- '6 day Kenya safari'
+- 'Kenya safari packages price'
+- 'Kenya safari lodges'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

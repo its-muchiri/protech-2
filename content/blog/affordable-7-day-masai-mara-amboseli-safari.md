@@ -1,14 +1,14 @@
 ---
 title: 'Affordable 7 Day Masai Mara Amboseli Safari: Complete Guide'
-description: Kenya safari guide covering affordable 7 day masai mara amboseli safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering affordable 7 day masai mara amboseli safari, including what is included, pricing, and booking advice.'
 slug: affordable-7-day-masai-mara-amboseli-safari
-primary_keyword: Affordable 7 day Masai Mara Amboseli safari
+primary_keyword: 'Affordable 7 day Masai Mara Amboseli safari'
 secondary_keywords:
-- Senior citizen Kenya safari
-- 15 day Kenya safari
-- Affordable luxury safari Kenya
-- Samburu lodges
-- Rhino sanctuary Kenya visit
+- 'Senior citizen Kenya safari'
+- '15 day Kenya safari'
+- 'Affordable luxury safari Kenya'
+- 'Samburu lodges'
+- 'Rhino sanctuary Kenya visit'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

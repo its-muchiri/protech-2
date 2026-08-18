@@ -1,14 +1,14 @@
 ---
 title: '3 Day Kenya Safari: Complete Guide'
-description: Kenya safari guide covering 3 day kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering 3 day kenya safari, including what is included, pricing, and booking advice.'
 slug: 3-day-kenya-safari
-primary_keyword: 3 day Kenya safari
+primary_keyword: '3 day Kenya safari'
 secondary_keywords:
-- Safari tour van hire Nairobi price per day 7 seater
-- Reliable tour operator Kenya forum recommendations (Lonely Planet, Fodor''s)
-- Kenya yoga retreat safari lodges offering wellness programs
-- East African residents safari deals Kenya / Tanzania / Uganda
-- Reserve Kenya wildlife tour package UK cost
+- 'Safari tour van hire Nairobi price per day 7 seater'
+- 'Reliable tour operator Kenya forum recommendations (Lonely Planet, Fodor''''s)'
+- 'Kenya yoga retreat safari lodges offering wellness programs'
+- 'East African residents safari deals Kenya / Tanzania / Uganda'
+- 'Reserve Kenya wildlife tour package UK cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

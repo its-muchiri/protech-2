@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Samburu: Complete Guide'
-description: Everything you need to know about flights nairobi to samburu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to samburu, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-samburu
-primary_keyword: flights nairobi to samburu
+primary_keyword: 'flights nairobi to samburu'
 secondary_keywords:
-- flight ticket to kenya from uk
-- ticketing courses in kenya
-- kenya airways booking nairobi to mombasa
-- airplanes in kenya
-- does british airways fly to uganda
+- 'flight ticket to kenya from uk'
+- 'ticketing courses in kenya'
+- 'kenya airways booking nairobi to mombasa'
+- 'airplanes in kenya'
+- 'does british airways fly to uganda'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

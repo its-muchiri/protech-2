@@ -1,14 +1,14 @@
 ---
 title: 'AED (Automated External Defibrillator) Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to aed (automated external defibrillator) price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to aed (automated external defibrillator) price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: aed-automated-external-defibrillator-price-in-kenya
-primary_keyword: AED (Automated External Defibrillator) price in Kenya
+primary_keyword: 'AED (Automated External Defibrillator) price in Kenya'
 secondary_keywords:
-- Sleep study (polysomnography) equipment
-- Glucometer strips wholesale price in Kenya
-- Teleradiology solutions in Kenya
-- dental casting machine price
-- universities offering biomedical engineering in Kenya
+- 'Sleep study (polysomnography) equipment'
+- 'Glucometer strips wholesale price in Kenya'
+- 'Teleradiology solutions in Kenya'
+- 'dental casting machine price'
+- 'universities offering biomedical engineering in Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

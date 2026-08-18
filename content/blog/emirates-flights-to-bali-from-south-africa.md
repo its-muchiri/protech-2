@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights to Bali from South Africa: Complete Guide'
-description: Everything you need to know about emirates flights to bali from south africa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights to bali from south africa, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-to-bali-from-south-africa
-primary_keyword: emirates flights to bali from south africa
+primary_keyword: 'emirates flights to bali from south africa'
 secondary_keywords:
-- flights from istanbul to mombasa
-- flights from mombasa to kampala
-- lamu flights from mombasa
-- flights from masai mara to mombasa
-- flight from eldoret to mombasa price
+- 'flights from istanbul to mombasa'
+- 'flights from mombasa to kampala'
+- 'lamu flights from mombasa'
+- 'flights from masai mara to mombasa'
+- 'flight from eldoret to mombasa price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

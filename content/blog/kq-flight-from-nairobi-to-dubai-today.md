@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Nairobi to Dubai Today: Complete Guide'
-description: Everything you need to know about kq flight from nairobi to dubai today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from nairobi to dubai today, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-nairobi-to-dubai-today
-primary_keyword: kq flight from nairobi to dubai today
+primary_keyword: 'kq flight from nairobi to dubai today'
 secondary_keywords:
-- kenya to hargeisa flight
-- flight from kenya to india time
-- flights from kenya to jhb
-- flight from kenya to hong kong
-- flights from kenya to lusaka
+- 'kenya to hargeisa flight'
+- 'flight from kenya to india time'
+- 'flights from kenya to jhb'
+- 'flight from kenya to hong kong'
+- 'flights from kenya to lusaka'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flight 540 Nairobi to Mombasa Price: Complete Guide'
-description: Everything you need to know about flight 540 nairobi to mombasa price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight 540 nairobi to mombasa price, including routes, airlines, booking tips, and fares.'
 slug: flight-540-nairobi-to-mombasa-price
-primary_keyword: flight 540 nairobi to mombasa price
+primary_keyword: 'flight 540 nairobi to mombasa price'
 secondary_keywords:
-- flights from nairobi kenya to lusaka zambia
-- how much is flight from kenya to uganda
-- uganda airlines flights from nairobi to entebbe
-- flights from nairobi to abu dhabi
-- flights from nairobi to brisbane australia
+- 'flights from nairobi kenya to lusaka zambia'
+- 'how much is flight from kenya to uganda'
+- 'uganda airlines flights from nairobi to entebbe'
+- 'flights from nairobi to abu dhabi'
+- 'flights from nairobi to brisbane australia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

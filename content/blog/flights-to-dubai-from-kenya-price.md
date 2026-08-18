@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Dubai from Kenya Price: Complete Guide'
-description: Everything you need to know about flights to dubai from kenya price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to dubai from kenya price, including routes, airlines, booking tips, and fares.'
 slug: flights-to-dubai-from-kenya-price
-primary_keyword: flights to dubai from kenya price
+primary_keyword: 'flights to dubai from kenya price'
 secondary_keywords:
-- cheap flights from nairobi to johannesburg
-- flights from nairobi to eldoret today
-- flights from nairobi to freetown
-- flights from nairobi to geneva
-- flights from nairobi to hamburg
+- 'cheap flights from nairobi to johannesburg'
+- 'flights from nairobi to eldoret today'
+- 'flights from nairobi to freetown'
+- 'flights from nairobi to geneva'
+- 'flights from nairobi to hamburg'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

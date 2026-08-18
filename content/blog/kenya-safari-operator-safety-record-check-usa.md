@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Operator Safety Record Check USA: Complete Guide'
-description: Kenya safari guide covering kenya safari operator safety record check usa, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari operator safety record check usa, including what is included, pricing, and booking advice.'
 slug: kenya-safari-operator-safety-record-check-usa
-primary_keyword: Kenya safari operator safety record check USA
+primary_keyword: 'Kenya safari operator safety record check USA'
 secondary_keywords:
-- Wheelchair accessible safari vans Kenya
-- Combined & Complex Queries
-- Mid-range 10 day Kenya highlights tour itinerary company
-- Secure Kenya safari trip reservation
-- Buy Laikipia luxury safari booking
+- 'Wheelchair accessible safari vans Kenya'
+- 'Combined & Complex Queries'
+- 'Mid-range 10 day Kenya highlights tour itinerary company'
+- 'Secure Kenya safari trip reservation'
+- 'Buy Laikipia luxury safari booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

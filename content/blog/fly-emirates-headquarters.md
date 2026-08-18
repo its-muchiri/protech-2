@@ -1,14 +1,14 @@
 ---
 title: 'Fly Emirates Headquarters: Complete Guide'
-description: Everything you need to know about fly emirates headquarters, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about fly emirates headquarters, including routes, airlines, booking tips, and fares.'
 slug: fly-emirates-headquarters
-primary_keyword: fly emirates headquarters
+primary_keyword: 'fly emirates headquarters'
 secondary_keywords:
-- flights nairobi to heathrow
-- flight time nairobi to india
-- jambojet flights nairobi to kisumu
-- kenya airways flights nairobi to lamu
-- flights nairobi to melbourne
+- 'flights nairobi to heathrow'
+- 'flight time nairobi to india'
+- 'jambojet flights nairobi to kisumu'
+- 'kenya airways flights nairobi to lamu'
+- 'flights nairobi to melbourne'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

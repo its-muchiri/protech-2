@@ -1,14 +1,14 @@
 ---
 title: 'Find Vegan Meal Options Kenya Safari Lodge Booking Europe Dietary Requirements Communication Needed: Complete Guide'
-description: Kenya safari guide covering find vegan meal options kenya safari lodge booking europe dietary requirements communication needed, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering find vegan meal options kenya safari lodge booking europe dietary requirements communication needed, including what is included, pricing, and booking advice.'
 slug: find-vegan-meal-options-kenya-safari-lodge-booking-europe-dietary-requirements-communication-needed
-primary_keyword: Find vegan meal options Kenya safari lodge booking Europe dietary requirements communication needed
+primary_keyword: 'Find vegan meal options Kenya safari lodge booking Europe dietary requirements communication needed'
 secondary_keywords:
-- Kenya safari availability August 2025 USA booking confirmation
-- Need fast quote Kenya safari booking UK urgent
-- Guaranteed Big Five sightings Kenya safari buy tour package
-- Best price all-inclusive Kenya family safari USA Christmas week booking
-- Reserve solo traveler Kenya safari package single supplement cost USA safe operators
+- 'Kenya safari availability August 2025 USA booking confirmation'
+- 'Need fast quote Kenya safari booking UK urgent'
+- 'Guaranteed Big Five sightings Kenya safari buy tour package'
+- 'Best price all-inclusive Kenya family safari USA Christmas week booking'
+- 'Reserve solo traveler Kenya safari package single supplement cost USA safe operators'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

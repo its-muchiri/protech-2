@@ -1,14 +1,14 @@
 ---
 title: 'Flight to Kenya Time: Complete Guide'
-description: Everything you need to know about flight to kenya time, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight to kenya time, including routes, airlines, booking tips, and fares.'
 slug: flight-to-kenya-time
-primary_keyword: flight to kenya time
+primary_keyword: 'flight to kenya time'
 secondary_keywords:
-- kq flight from nairobi to cape town
-- kenya airways flight from nairobi to entebbe
-- kenya airways flight from nairobi to johannesburg
-- kq flight from nairobi to mombasa price
-- kenya airways flight schedule nairobi to mumbai
+- 'kq flight from nairobi to cape town'
+- 'kenya airways flight from nairobi to entebbe'
+- 'kenya airways flight from nairobi to johannesburg'
+- 'kq flight from nairobi to mombasa price'
+- 'kenya airways flight schedule nairobi to mumbai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

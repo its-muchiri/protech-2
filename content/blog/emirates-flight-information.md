@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight Information: Complete Guide'
-description: Everything you need to know about emirates flight information, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight information, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-information
-primary_keyword: emirates flight information
+primary_keyword: 'emirates flight information'
 secondary_keywords:
-- emirates holidays nairobi
-- emirates recruitment nairobi
-- fly emirates from kenya to dubai
-- emirates kenya contacts
-- emirates flight from kenya to uk
+- 'emirates holidays nairobi'
+- 'emirates recruitment nairobi'
+- 'fly emirates from kenya to dubai'
+- 'emirates kenya contacts'
+- 'emirates flight from kenya to uk'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

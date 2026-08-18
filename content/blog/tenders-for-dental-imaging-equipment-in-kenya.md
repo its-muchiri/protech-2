@@ -1,14 +1,14 @@
 ---
 title: 'Tenders for Dental Imaging Equipment in Kenya: 2026 Price Guide'
-description: Kenya buying guide to tenders for dental imaging equipment in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to tenders for dental imaging equipment in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: tenders-for-dental-imaging-equipment-in-kenya
-primary_keyword: Tenders for dental imaging equipment in Kenya
+primary_keyword: 'Tenders for dental imaging equipment in Kenya'
 secondary_keywords:
-- incontinence products Kenya
-- umbilical cord clamps Kenya
-- body bags Kenya supplier
-- blood sugar strips Kenya
-- clinical waste bags Kenya
+- 'incontinence products Kenya'
+- 'umbilical cord clamps Kenya'
+- 'body bags Kenya supplier'
+- 'blood sugar strips Kenya'
+- 'clinical waste bags Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

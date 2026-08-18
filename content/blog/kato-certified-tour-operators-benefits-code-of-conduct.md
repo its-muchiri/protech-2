@@ -1,14 +1,14 @@
 ---
 title: 'KATO Certified Tour Operators Benefits Code of Conduct: Complete Guide'
-description: Kenya safari guide covering kato certified tour operators benefits code of conduct, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kato certified tour operators benefits code of conduct, including what is included, pricing, and booking advice.'
 slug: kato-certified-tour-operators-benefits-code-of-conduct
-primary_keyword: KATO certified tour operators benefits code of conduct
+primary_keyword: 'KATO certified tour operators benefits code of conduct'
 secondary_keywords:
-- Kenya e-Visa application official website / cost 2025
-- Avoid safari scams Kenya warning signs
-- Fishing safari Lake Turkana / Lake Victoria Nile Perch
-- Book Kenya safari tour online UK
-- Buy luxury lodge safari Kenya USA reviews
+- 'Kenya e-Visa application official website / cost 2025'
+- 'Avoid safari scams Kenya warning signs'
+- 'Fishing safari Lake Turkana / Lake Victoria Nile Perch'
+- 'Book Kenya safari tour online UK'
+- 'Buy luxury lodge safari Kenya USA reviews'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

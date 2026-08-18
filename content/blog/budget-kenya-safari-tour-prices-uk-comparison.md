@@ -1,14 +1,14 @@
 ---
 title: 'Budget Kenya Safari Tour Prices UK Comparison: Complete Guide'
-description: Kenya safari guide covering budget kenya safari tour prices uk comparison, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering budget kenya safari tour prices uk comparison, including what is included, pricing, and booking advice.'
 slug: budget-kenya-safari-tour-prices-uk-comparison
-primary_keyword: Budget Kenya safari tour prices UK comparison
+primary_keyword: 'Budget Kenya safari tour prices UK comparison'
 secondary_keywords:
-- Get quote for luxury mobile camping safari Serengeti & Mara migration USA private setup cost
-- Reserve luxury fly-camping safari private conservancy Kenya USA exclusive remote experience booking
-- Reserve archaeological site tour Koobi Fora safari Kenya Europe paleontology focus booking
-- Find kosher meal options Kenya safari booking Europe Jewish travel specialist agent
-- Book Saiwa Swamp National Park sitatunga antelope safari Kenya Europe rare species focus cost
+- 'Get quote for luxury mobile camping safari Serengeti & Mara migration USA private setup cost'
+- 'Reserve luxury fly-camping safari private conservancy Kenya USA exclusive remote experience booking'
+- 'Reserve archaeological site tour Koobi Fora safari Kenya Europe paleontology focus booking'
+- 'Find kosher meal options Kenya safari booking Europe Jewish travel specialist agent'
+- 'Book Saiwa Swamp National Park sitatunga antelope safari Kenya Europe rare species focus cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

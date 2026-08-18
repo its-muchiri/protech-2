@@ -1,14 +1,14 @@
 ---
 title: 'Last Minute Kenya Safari Deals UK Direct Operator: Complete Guide'
-description: Kenya safari guide covering last minute kenya safari deals uk direct operator, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering last minute kenya safari deals uk direct operator, including what is included, pricing, and booking advice.'
 slug: last-minute-kenya-safari-deals-uk-direct-operator
-primary_keyword: Last minute Kenya safari deals UK direct operator
+primary_keyword: 'Last minute Kenya safari deals UK direct operator'
 secondary_keywords:
-- Family friendly Kenya safari operators recommendations USA
-- Kenya safari packages Christmas/New Year 2025 deals availability
-- Quality/Trust Based (Best, Top, Luxury, Reliable, Recommended, Reviews)
-- Top Kenya photographic safari guides booking USA portfolio
-- Buy top rated Kenya Big Five lodge safari package UK online secure booking
+- 'Family friendly Kenya safari operators recommendations USA'
+- 'Kenya safari packages Christmas/New Year 2025 deals availability'
+- 'Quality/Trust Based (Best, Top, Luxury, Reliable, Recommended, Reviews)'
+- 'Top Kenya photographic safari guides booking USA portfolio'
+- 'Buy top rated Kenya Big Five lodge safari package UK online secure booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Anesthesia Workstation with Ventilator Price: 2026 Price Guide'
-description: Kenya buying guide to anesthesia workstation with ventilator price. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to anesthesia workstation with ventilator price. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: anesthesia-workstation-with-ventilator-price
-primary_keyword: Anesthesia workstation with ventilator price
+primary_keyword: 'Anesthesia workstation with ventilator price'
 secondary_keywords:
-- Rollator walker with seat for elderly
-- Verifying legitimate medical suppliers in Kenya
-- 3M Littmann stethoscope dealers in Nairobi
-- Syringe-destroyer machine price
-- Laser hair removal machine for clinic price
+- 'Rollator walker with seat for elderly'
+- 'Verifying legitimate medical suppliers in Kenya'
+- '3M Littmann stethoscope dealers in Nairobi'
+- 'Syringe-destroyer machine price'
+- 'Laser hair removal machine for clinic price'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

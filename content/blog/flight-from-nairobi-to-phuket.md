@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Phuket: Complete Guide'
-description: Everything you need to know about flight from nairobi to phuket, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to phuket, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-phuket
-primary_keyword: flight from nairobi to phuket
+primary_keyword: 'flight from nairobi to phuket'
 secondary_keywords:
-- available flights from eldoret to nairobi
-- flights from eldoret to isiolo
-- kq flights from eldoret
-- which flights go to eldoret
-- kq flights to rwanda
+- 'available flights from eldoret to nairobi'
+- 'flights from eldoret to isiolo'
+- 'kq flights from eldoret'
+- 'which flights go to eldoret'
+- 'kq flights to rwanda'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

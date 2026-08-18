@@ -1,14 +1,14 @@
 ---
 title: 'Elephant Safari Kenya: Complete Guide'
-description: Kenya safari guide covering elephant safari kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering elephant safari kenya, including what is included, pricing, and booking advice.'
 slug: elephant-safari-kenya
-primary_keyword: Elephant safari Kenya
+primary_keyword: 'Elephant safari Kenya'
 secondary_keywords:
-- Mount Kenya National Park hiking tours Sirimon route lodges
-- Solo traveler safari Kenya group joining options cost
-- Fly 540 / Jambojet flights to Diani / Malindi price
-- Aberdare Ranges hiking tours Satima Peak
-- Giraffe Centre Nairobi tour Kiss a Giraffe experience cost
+- 'Mount Kenya National Park hiking tours Sirimon route lodges'
+- 'Solo traveler safari Kenya group joining options cost'
+- 'Fly 540 / Jambojet flights to Diani / Malindi price'
+- 'Aberdare Ranges hiking tours Satima Peak'
+- 'Giraffe Centre Nairobi tour Kiss a Giraffe experience cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

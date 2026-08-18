@@ -1,14 +1,14 @@
 ---
 title: 'Luxury Lodge Safari Kenya with Balloon Ride Included Operator: Complete Guide'
-description: Kenya safari guide covering luxury lodge safari kenya with balloon ride included operator, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering luxury lodge safari kenya with balloon ride included operator, including what is included, pricing, and booking advice.'
 slug: luxury-lodge-safari-kenya-with-balloon-ride-included-operator
-primary_keyword: Luxury lodge safari Kenya with balloon ride included operator
+primary_keyword: 'Luxury lodge safari Kenya with balloon ride included operator'
 secondary_keywords:
-- Laikipia conservancy luxury safari booking UK private ranch
-- Kenya safari tours for USA citizens cost visa info
-- Kenya safari tour price from Los Angeles USA packages
-- Kenya safari booking agency online UK secure payment
-- Check availability Kenya luxury safari lodge Masai Mara USA dates
+- 'Laikipia conservancy luxury safari booking UK private ranch'
+- 'Kenya safari tours for USA citizens cost visa info'
+- 'Kenya safari tour price from Los Angeles USA packages'
+- 'Kenya safari booking agency online UK secure payment'
+- 'Check availability Kenya luxury safari lodge Masai Mara USA dates'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

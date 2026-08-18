@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Kenya to Australia: Complete Guide'
-description: Everything you need to know about emirates flights from kenya to australia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from kenya to australia, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-kenya-to-australia
-primary_keyword: emirates flights from kenya to australia
+primary_keyword: 'emirates flights from kenya to australia'
 secondary_keywords:
-- flights to nairobi jambojet
-- kenya airways flights nairobi to entebbe price
-- nairobi to lodwar flights
-- flights nairobi to nanyuki
-- cheap tickets nairobi to oslo
+- 'flights to nairobi jambojet'
+- 'kenya airways flights nairobi to entebbe price'
+- 'nairobi to lodwar flights'
+- 'flights nairobi to nanyuki'
+- 'cheap tickets nairobi to oslo'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

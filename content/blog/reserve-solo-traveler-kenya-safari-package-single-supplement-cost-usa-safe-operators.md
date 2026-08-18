@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Solo Traveler Kenya Safari Package Single Supplement Cost USA Safe Operators: Complete Guide'
-description: Kenya safari guide covering reserve solo traveler kenya safari package single supplement cost usa safe operators, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve solo traveler kenya safari package single supplement cost usa safe operators, including what is included, pricing, and booking advice.'
 slug: reserve-solo-traveler-kenya-safari-package-single-supplement-cost-usa-safe-operators
-primary_keyword: Reserve solo traveler Kenya safari package single supplement cost USA safe operators
+primary_keyword: 'Reserve solo traveler Kenya safari package single supplement cost USA safe operators'
 secondary_keywords:
-- Find French-speaking driver-guide Kenya safari package booking Europe reliable operator needed
-- Book Kenya safari with horse riding Chyulu Hills package UK experienced riders only lodge booking
-- Buy Kenya safari filming permit assistance and logistics support UK production company rates
-- Reserve Nairobi Railway Museum visit safari add-on UK history transport enthusiasts booking
-- Best Kenya safari
+- 'Find French-speaking driver-guide Kenya safari package booking Europe reliable operator needed'
+- 'Book Kenya safari with horse riding Chyulu Hills package UK experienced riders only lodge booking'
+- 'Buy Kenya safari filming permit assistance and logistics support UK production company rates'
+- 'Reserve Nairobi Railway Museum visit safari add-on UK history transport enthusiasts booking'
+- 'Best Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

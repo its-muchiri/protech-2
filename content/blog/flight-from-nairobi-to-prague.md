@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Prague: Complete Guide'
-description: Everything you need to know about flight from nairobi to prague, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to prague, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-prague
-primary_keyword: flight from nairobi to prague
+primary_keyword: 'flight from nairobi to prague'
 secondary_keywords:
-- kq flights to harare
-- kenya airways flights johannesburg to nairobi
-- kq flights london to nairobi
-- kenya airways flights mombasa to nairobi
-- kq flight online booking
+- 'kq flights to harare'
+- 'kenya airways flights johannesburg to nairobi'
+- 'kq flights london to nairobi'
+- 'kenya airways flights mombasa to nairobi'
+- 'kq flight online booking'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

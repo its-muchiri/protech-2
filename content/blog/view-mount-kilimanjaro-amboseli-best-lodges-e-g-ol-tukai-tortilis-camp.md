@@ -1,14 +1,14 @@
 ---
 title: 'View Mount Kilimanjaro Amboseli Best Lodges (e.g., Ol Tukai, Tortilis Camp): Complete Guide'
-description: Kenya safari guide covering view mount kilimanjaro amboseli best lodges (e.g., ol tukai, tortilis camp), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering view mount kilimanjaro amboseli best lodges (e.g., ol tukai, tortilis camp), including what is included, pricing, and booking advice.'
 slug: view-mount-kilimanjaro-amboseli-best-lodges-e-g-ol-tukai-tortilis-camp
-primary_keyword: View Mount Kilimanjaro Amboseli best lodges (e.g., Ol Tukai, Tortilis Camp)
+primary_keyword: 'View Mount Kilimanjaro Amboseli best lodges (e.g., Ol Tukai, Tortilis Camp)'
 secondary_keywords:
-- Safari tours Kenya
-- Masai Mara safari
-- Hell''s Gate National Park safari
-- High-end Kenya safari
-- Great Migration Kenya safari
+- 'Safari tours Kenya'
+- 'Masai Mara safari'
+- 'Hell''''s Gate National Park safari'
+- 'High-end Kenya safari'
+- 'Great Migration Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

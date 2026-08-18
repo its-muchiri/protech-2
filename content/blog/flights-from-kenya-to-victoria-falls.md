@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Victoria Falls: Complete Guide'
-description: Everything you need to know about flights from kenya to victoria falls, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to victoria falls, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-victoria-falls
-primary_keyword: flights from kenya to victoria falls
+primary_keyword: 'flights from kenya to victoria falls'
 secondary_keywords:
-- flights from nairobi to uae
-- flights to vipingo from nairobi
-- cheap flights from nairobi to washington dc
-- cheapest flights from nairobi to zanzibar
-- cheapest flights from nairobi to usa
+- 'flights from nairobi to uae'
+- 'flights to vipingo from nairobi'
+- 'cheap flights from nairobi to washington dc'
+- 'cheapest flights from nairobi to zanzibar'
+- 'cheapest flights from nairobi to usa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

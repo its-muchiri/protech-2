@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to California: Complete Guide'
-description: Everything you need to know about flight from nairobi to california, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to california, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-california
-primary_keyword: flight from nairobi to california
+primary_keyword: 'flight from nairobi to california'
 secondary_keywords:
-- emirates flights from usa to dubai
-- emirates flight from vietnam to dubai
-- emirates flights from hyderabad to washington dc
-- emirates direct flights from new york
-- emirates flights to new zealand from sydney
+- 'emirates flights from usa to dubai'
+- 'emirates flight from vietnam to dubai'
+- 'emirates flights from hyderabad to washington dc'
+- 'emirates direct flights from new york'
+- 'emirates flights to new zealand from sydney'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

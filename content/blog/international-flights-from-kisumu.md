@@ -1,14 +1,14 @@
 ---
 title: 'International Flights from Kisumu: Complete Guide'
-description: Everything you need to know about international flights from kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about international flights from kisumu, including routes, airlines, booking tips, and fares.'
 slug: international-flights-from-kisumu
-primary_keyword: international flights from kisumu
+primary_keyword: 'international flights from kisumu'
 secondary_keywords:
-- kq flight from juba to nairobi today
-- kq airline routes
-- kq 533
-- kenya airways flight from nairobi to cape town
-- kenya airways jfk to nairobi schedule
+- 'kq flight from juba to nairobi today'
+- 'kq airline routes'
+- 'kq 533'
+- 'kenya airways flight from nairobi to cape town'
+- 'kenya airways jfk to nairobi schedule'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

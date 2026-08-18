@@ -1,14 +1,14 @@
 ---
 title: 'Hospital Management Software in Kenya: 2026 Price Guide'
-description: Kenya buying guide to hospital management software in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to hospital management software in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: hospital-management-software-in-kenya
-primary_keyword: Hospital management software in Kenya
+primary_keyword: 'Hospital management software in Kenya'
 secondary_keywords:
-- Bone densitometer (DEXA scan) suppliers in Kenya
-- Floor-mounted X-ray machine suppliers in Mombasa
-- Semi-automated clinical chemistry analyzer for a startup lab
-- Laboratory incubator suppliers in Eldoret
-- Dräger anesthesia workstation for sale in Mombasa
+- 'Bone densitometer (DEXA scan) suppliers in Kenya'
+- 'Floor-mounted X-ray machine suppliers in Mombasa'
+- 'Semi-automated clinical chemistry analyzer for a startup lab'
+- 'Laboratory incubator suppliers in Eldoret'
+- 'Dräger anesthesia workstation for sale in Mombasa'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

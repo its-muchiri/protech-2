@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Nairobi to Cape Town: Complete Guide'
-description: Everything you need to know about cheap flights from nairobi to cape town, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from nairobi to cape town, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-nairobi-to-cape-town
-primary_keyword: cheap flights from nairobi to cape town
+primary_keyword: 'cheap flights from nairobi to cape town'
 secondary_keywords:
-- flights from nairobi to kisumu jambojet
-- safari link flights from nairobi to kisumu
-- jambojet flights from kisumu to nairobi ticket price
-- kisumu flight schedule
-- which airlines fly to eldoret
+- 'flights from nairobi to kisumu jambojet'
+- 'safari link flights from nairobi to kisumu'
+- 'jambojet flights from kisumu to nairobi ticket price'
+- 'kisumu flight schedule'
+- 'which airlines fly to eldoret'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

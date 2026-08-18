@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Kenya from Brisbane: Complete Guide'
-description: Everything you need to know about flights to kenya from brisbane, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to kenya from brisbane, including routes, airlines, booking tips, and fares.'
 slug: flights-to-kenya-from-brisbane
-primary_keyword: flights to kenya from brisbane
+primary_keyword: 'flights to kenya from brisbane'
 secondary_keywords:
-- kq886 flight status
-- how many airlines fly to dubai
-- emirates airline kenya nairobi photos
-- emirates 9 west
-- emirates contacts in nairobi
+- 'kq886 flight status'
+- 'how many airlines fly to dubai'
+- 'emirates airline kenya nairobi photos'
+- 'emirates 9 west'
+- 'emirates contacts in nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

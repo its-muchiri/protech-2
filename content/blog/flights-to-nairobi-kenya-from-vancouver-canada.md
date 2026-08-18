@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Nairobi Kenya from Vancouver Canada: Complete Guide'
-description: Everything you need to know about flights to nairobi kenya from vancouver canada, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to nairobi kenya from vancouver canada, including routes, airlines, booking tips, and fares.'
 slug: flights-to-nairobi-kenya-from-vancouver-canada
-primary_keyword: flights to nairobi kenya from vancouver canada
+primary_keyword: 'flights to nairobi kenya from vancouver canada'
 secondary_keywords:
-- turkish airlines flight from nairobi to istanbul price
-- return flight from nairobi to kisumu price
-- the cheapest flight from nairobi to mombasa
-- flight from nairobi to uk price
-- flight from nairobi to wajir
+- 'turkish airlines flight from nairobi to istanbul price'
+- 'return flight from nairobi to kisumu price'
+- 'the cheapest flight from nairobi to mombasa'
+- 'flight from nairobi to uk price'
+- 'flight from nairobi to wajir'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

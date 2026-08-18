@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Flights: Complete Guide'
-description: Everything you need to know about kenya flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya flights, including routes, airlines, booking tips, and fares.'
 slug: kenya-flights
-primary_keyword: kenya flights
+primary_keyword: 'kenya flights'
 secondary_keywords:
-- flight nairobi to jakarta
-- flights nairobi to kinshasa
-- lusaka to nairobi flights
-- flights nairobi to new york
-- flights to nairobi in october
+- 'flight nairobi to jakarta'
+- 'flights nairobi to kinshasa'
+- 'lusaka to nairobi flights'
+- 'flights nairobi to new york'
+- 'flights to nairobi in october'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

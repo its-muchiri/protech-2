@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Johannesburg Today Timetable: Complete Guide'
-description: Everything you need to know about kq flights to johannesburg today timetable, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to johannesburg today timetable, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-johannesburg-today-timetable
-primary_keyword: kq flights to johannesburg today timetable
+primary_keyword: 'kq flights to johannesburg today timetable'
 secondary_keywords:
-- emirates flights from heathrow terminal
-- emirates flights from iad today
-- emirates flights from johannesburg to delhi
-- flights from kuwait city to dubai united arab emirates
-- emirates flights from manchester
+- 'emirates flights from heathrow terminal'
+- 'emirates flights from iad today'
+- 'emirates flights from johannesburg to delhi'
+- 'flights from kuwait city to dubai united arab emirates'
+- 'emirates flights from manchester'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

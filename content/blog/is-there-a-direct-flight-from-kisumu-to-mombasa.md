@@ -1,14 +1,14 @@
 ---
 title: 'Is There a Direct Flight from Kisumu to Mombasa: Complete Guide'
-description: Everything you need to know about is there a direct flight from kisumu to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about is there a direct flight from kisumu to mombasa, including routes, airlines, booking tips, and fares.'
 slug: is-there-a-direct-flight-from-kisumu-to-mombasa
-primary_keyword: is there a direct flight from kisumu to mombasa
+primary_keyword: 'is there a direct flight from kisumu to mombasa'
 secondary_keywords:
-- flight from nairobi to japan
-- flight from nairobi to lagos today
-- flight from nairobi to migori
-- flight time from nairobi to new delhi
-- flight from nairobi to paris
+- 'flight from nairobi to japan'
+- 'flight from nairobi to lagos today'
+- 'flight from nairobi to migori'
+- 'flight time from nairobi to new delhi'
+- 'flight from nairobi to paris'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

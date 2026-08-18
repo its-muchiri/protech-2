@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight 507: Complete Guide'
-description: Everything you need to know about kenya airways flight 507, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight 507, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-507
-primary_keyword: kenya airways flight 507
+primary_keyword: 'kenya airways flight 507'
 secondary_keywords:
-- flights from kenya to victoria falls
-- flight from kenya to washington dc
-- flights from nbo to yto
-- flights from kenya to zimbabwe
-- how much is flight from kenya to usa
+- 'flights from kenya to victoria falls'
+- 'flight from kenya to washington dc'
+- 'flights from nbo to yto'
+- 'flights from kenya to zimbabwe'
+- 'how much is flight from kenya to usa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

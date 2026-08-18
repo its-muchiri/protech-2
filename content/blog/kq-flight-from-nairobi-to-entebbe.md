@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Nairobi to Entebbe: Complete Guide'
-description: Everything you need to know about kq flight from nairobi to entebbe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from nairobi to entebbe, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-nairobi-to-entebbe
-primary_keyword: kq flight from nairobi to entebbe
+primary_keyword: 'kq flight from nairobi to entebbe'
 secondary_keywords:
-- kq 02 flight status
-- kq112 flight status
-- kq flight 311
-- kq 485 flight status
-- jq607 flight status
+- 'kq 02 flight status'
+- 'kq112 flight status'
+- 'kq flight 311'
+- 'kq 485 flight status'
+- 'jq607 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

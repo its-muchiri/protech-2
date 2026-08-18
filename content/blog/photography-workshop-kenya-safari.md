@@ -1,14 +1,14 @@
 ---
 title: 'Photography Workshop Kenya Safari: Complete Guide'
-description: Kenya safari guide covering photography workshop kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering photography workshop kenya safari, including what is included, pricing, and booking advice.'
 slug: photography-workshop-kenya-safari
-primary_keyword: Photography workshop Kenya safari
+primary_keyword: 'Photography workshop Kenya safari'
 secondary_keywords:
-- Recommended Kenya safari
-- Samburu National Reserve safari
-- David Sheldrick Wildlife Trust visit
-- Kenya photo safari tour
-- Walking safari Kenya
+- 'Recommended Kenya safari'
+- 'Samburu National Reserve safari'
+- 'David Sheldrick Wildlife Trust visit'
+- 'Kenya photo safari tour'
+- 'Walking safari Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

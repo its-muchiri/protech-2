@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Jfk: Complete Guide'
-description: Everything you need to know about flights from nairobi to jfk, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to jfk, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-jfk
-primary_keyword: flights from nairobi to jfk
+primary_keyword: 'flights from nairobi to jfk'
 secondary_keywords:
-- flights nairobi to bali
-- flights nairobi to calgary
-- flights nairobi to durban
-- eldoret to nairobi flights
-- flights nairobi to goma
+- 'flights nairobi to bali'
+- 'flights nairobi to calgary'
+- 'flights nairobi to durban'
+- 'eldoret to nairobi flights'
+- 'flights nairobi to goma'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

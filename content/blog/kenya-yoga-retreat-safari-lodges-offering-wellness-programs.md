@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Yoga Retreat Safari Lodges Offering Wellness Programs: Complete Guide'
-description: Kenya safari guide covering kenya yoga retreat safari lodges offering wellness programs, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya yoga retreat safari lodges offering wellness programs, including what is included, pricing, and booking advice.'
 slug: kenya-yoga-retreat-safari-lodges-offering-wellness-programs
-primary_keyword: Kenya yoga retreat safari lodges offering wellness programs
+primary_keyword: 'Kenya yoga retreat safari lodges offering wellness programs'
 secondary_keywords:
-- Luxury honeymoon suite Masai Mara private conservancy
-- Speleology safari Kenya (Chyulu Hills caves)
-- Kenya safe travel safari (General health)
-- Future of safari tourism Kenya
-- Masai Mara safari online booking
+- 'Luxury honeymoon suite Masai Mara private conservancy'
+- 'Speleology safari Kenya (Chyulu Hills caves)'
+- 'Kenya safe travel safari (General health)'
+- 'Future of safari tourism Kenya'
+- 'Masai Mara safari online booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

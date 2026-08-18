@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Easter Package Offers USA: Complete Guide'
-description: Kenya safari guide covering kenya safari easter package offers usa, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari easter package offers usa, including what is included, pricing, and booking advice.'
 slug: kenya-safari-easter-package-offers-usa
-primary_keyword: Kenya safari Easter package offers USA
+primary_keyword: 'Kenya safari Easter package offers USA'
 secondary_keywords:
-- Laikipia luxury safari package booking
-- Exclusive Kenya safari experience booking
-- Kenya safari package for family with kids
-- Honeymoon deals Kenya safari resorts
-- Budget fly-in safari Kenya options book
+- 'Laikipia luxury safari package booking'
+- 'Exclusive Kenya safari experience booking'
+- 'Kenya safari package for family with kids'
+- 'Honeymoon deals Kenya safari resorts'
+- 'Budget fly-in safari Kenya options book'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

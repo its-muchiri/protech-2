@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Dubai to Manchester Today: Complete Guide'
-description: Everything you need to know about emirates flights from dubai to manchester today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from dubai to manchester today, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-dubai-to-manchester-today
-primary_keyword: emirates flights from dubai to manchester today
+primary_keyword: 'emirates flights from dubai to manchester today'
 secondary_keywords:
-- lufthansa flights from nairobi today
-- migori flights from nairobi
-- flights to netherlands from nairobi
-- flights from nairobi to perth australia
-- airfare from nairobi to qatar
+- 'lufthansa flights from nairobi today'
+- 'migori flights from nairobi'
+- 'flights to netherlands from nairobi'
+- 'flights from nairobi to perth australia'
+- 'airfare from nairobi to qatar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

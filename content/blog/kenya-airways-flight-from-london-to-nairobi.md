@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from London to Nairobi: Complete Guide'
-description: Everything you need to know about kenya airways flight from london to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from london to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-london-to-nairobi
-primary_keyword: kenya airways flight from london to nairobi
+primary_keyword: 'kenya airways flight from london to nairobi'
 secondary_keywords:
-- flight from kenya to italy
-- flights from kenya to jfk
-- flight from kenya to kampala
-- flights from kenya to lagos
-- flights from kenya to mauritius
+- 'flight from kenya to italy'
+- 'flights from kenya to jfk'
+- 'flight from kenya to kampala'
+- 'flights from kenya to lagos'
+- 'flights from kenya to mauritius'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Diani Beach Holiday Package Companies: Complete Guide'
-description: Kenya safari guide covering diani beach holiday package companies, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering diani beach holiday package companies, including what is included, pricing, and booking advice.'
 slug: diani-beach-holiday-package-companies
-primary_keyword: Diani Beach holiday package companies
+primary_keyword: 'Diani Beach holiday package companies'
 secondary_keywords:
-- What is the best Kenya safari
-- Travel insurance for Kenya safari
-- Budget camping safari Kenya solo traveler
-- 2 week Kenya Tanzania combined luxury safari
-- Kenya safari cancellation policy
+- 'What is the best Kenya safari'
+- 'Travel insurance for Kenya safari'
+- 'Budget camping safari Kenya solo traveler'
+- '2 week Kenya Tanzania combined luxury safari'
+- 'Kenya safari cancellation policy'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

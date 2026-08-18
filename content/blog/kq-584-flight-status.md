@@ -1,14 +1,14 @@
 ---
 title: 'Kq 584 Flight Status: Complete Guide'
-description: Everything you need to know about kq 584 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 584 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq-584-flight-status
-primary_keyword: kq 584 flight status
+primary_keyword: 'kq 584 flight status'
 secondary_keywords:
-- flights to nairobi from manchester
-- google flights nairobi to new york
-- cheap flights nairobi to istanbul
-- jambojet flights nairobi to malindi
-- kenya airways flights nairobi to dar es salaam
+- 'flights to nairobi from manchester'
+- 'google flights nairobi to new york'
+- 'cheap flights nairobi to istanbul'
+- 'jambojet flights nairobi to malindi'
+- 'kenya airways flights nairobi to dar es salaam'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

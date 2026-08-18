@@ -1,14 +1,14 @@
 ---
 title: 'Glucometer and Blood Pressure Monitor Wholesale Price: 2026 Price Guide'
-description: Kenya buying guide to glucometer and blood pressure monitor wholesale price. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to glucometer and blood pressure monitor wholesale price. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: glucometer-and-blood-pressure-monitor-wholesale-price
-primary_keyword: Glucometer and blood pressure monitor wholesale price
+primary_keyword: 'Glucometer and blood pressure monitor wholesale price'
 secondary_keywords:
-- oxygen supply solutions Kenya
-- affordable hospital beds Kenya
-- hospital equipment repair Kenya
-- certified medical equipment Kenya
-- point of care testing devices Kenya
+- 'oxygen supply solutions Kenya'
+- 'affordable hospital beds Kenya'
+- 'hospital equipment repair Kenya'
+- 'certified medical equipment Kenya'
+- 'point of care testing devices Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

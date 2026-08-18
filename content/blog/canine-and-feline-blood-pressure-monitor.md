@@ -1,14 +1,14 @@
 ---
 title: 'Canine and Feline Blood Pressure Monitor: 2026 Price Guide'
-description: Kenya buying guide to canine and feline blood pressure monitor. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to canine and feline blood pressure monitor. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: canine-and-feline-blood-pressure-monitor
-primary_keyword: Canine and feline blood pressure monitor
+primary_keyword: 'Canine and feline blood pressure monitor'
 secondary_keywords:
-- OPG (dental panoramic X-ray) machine cost in Kenya
-- DR panel for X-ray machine price and compatibility
-- Electrolyte analyzer price in Kisumu
-- Analytical balance and weighing scale for lab use
-- Electrosurgical unit (diathermy machine) price
+- 'OPG (dental panoramic X-ray) machine cost in Kenya'
+- 'DR panel for X-ray machine price and compatibility'
+- 'Electrolyte analyzer price in Kisumu'
+- 'Analytical balance and weighing scale for lab use'
+- 'Electrosurgical unit (diathermy machine) price'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

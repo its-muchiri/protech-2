@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Mombasa to Johannesburg: Complete Guide'
-description: Everything you need to know about cheap flights from mombasa to johannesburg, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from mombasa to johannesburg, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-mombasa-to-johannesburg
-primary_keyword: cheap flights from mombasa to johannesburg
+primary_keyword: 'cheap flights from mombasa to johannesburg'
 secondary_keywords:
-- is kenya airways a good airline
-- kenya airways flight schedule nairobi to harare today
-- kenya airways flight price from nairobi to kisumu
-- kenya airways flight from mauritius to nairobi
-- flights from nairobi to ukunda kenya
+- 'is kenya airways a good airline'
+- 'kenya airways flight schedule nairobi to harare today'
+- 'kenya airways flight price from nairobi to kisumu'
+- 'kenya airways flight from mauritius to nairobi'
+- 'flights from nairobi to ukunda kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

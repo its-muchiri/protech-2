@@ -1,14 +1,14 @@
 ---
 title: 'Purchase Nairobi National Park Day Tour Booking: Complete Guide'
-description: Kenya safari guide covering purchase nairobi national park day tour booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase nairobi national park day tour booking, including what is included, pricing, and booking advice.'
 slug: purchase-nairobi-national-park-day-tour-booking
-primary_keyword: Purchase Nairobi National Park day tour booking
+primary_keyword: 'Purchase Nairobi National Park day tour booking'
 secondary_keywords:
-- 4 day Masai Mara tour last minute offer
-- Deal 7 day luxury Masai Mara package
-- Laikipia luxury holiday package reserve
-- Secure booking with best rated Kenya safari company
-- Secure Kenya tour package airport transfers included quote
+- '4 day Masai Mara tour last minute offer'
+- 'Deal 7 day luxury Masai Mara package'
+- 'Laikipia luxury holiday package reserve'
+- 'Secure booking with best rated Kenya safari company'
+- 'Secure Kenya tour package airport transfers included quote'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

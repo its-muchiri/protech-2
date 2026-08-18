@@ -1,14 +1,14 @@
 ---
 title: 'Jambojet Flights from Nairobi to Ukunda: Complete Guide'
-description: Everything you need to know about jambojet flights from nairobi to ukunda, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about jambojet flights from nairobi to ukunda, including routes, airlines, booking tips, and fares.'
 slug: jambojet-flights-from-nairobi-to-ukunda
-primary_keyword: jambojet flights from nairobi to ukunda
+primary_keyword: 'jambojet flights from nairobi to ukunda'
 secondary_keywords:
-- cheapest flights to mombasa from london heathrow
-- flights from mombasa to nanyuki
-- cheap flights from nairobi to mombasa price
-- flights from nairobi to mombasa south coast
-- flights from mombasa to watamu
+- 'cheapest flights to mombasa from london heathrow'
+- 'flights from mombasa to nanyuki'
+- 'cheap flights from nairobi to mombasa price'
+- 'flights from nairobi to mombasa south coast'
+- 'flights from mombasa to watamu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

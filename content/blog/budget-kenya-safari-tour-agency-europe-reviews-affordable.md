@@ -1,14 +1,14 @@
 ---
 title: 'Budget Kenya Safari Tour Agency Europe Reviews Affordable: Complete Guide'
-description: Kenya safari guide covering budget kenya safari tour agency europe reviews affordable, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering budget kenya safari tour agency europe reviews affordable, including what is included, pricing, and booking advice.'
 slug: budget-kenya-safari-tour-agency-europe-reviews-affordable
-primary_keyword: Budget Kenya safari tour agency Europe reviews affordable
+primary_keyword: 'Budget Kenya safari tour agency Europe reviews affordable'
 secondary_keywords:
-- Secure all-inclusive luxury safari Kenya purchase
-- Kenya safari cost per person quote
-- 9 day migration special safari rates request
-- Cost quote 4 day Tsavo lodge safari package from Mombasa
-- Laikipia luxury safari deals online
+- 'Secure all-inclusive luxury safari Kenya purchase'
+- 'Kenya safari cost per person quote'
+- '9 day migration special safari rates request'
+- 'Cost quote 4 day Tsavo lodge safari package from Mombasa'
+- 'Laikipia luxury safari deals online'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: '540 Flight from Nairobi to Eldoret Today: Complete Guide'
-description: Everything you need to know about 540 flight from nairobi to eldoret today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about 540 flight from nairobi to eldoret today, including routes, airlines, booking tips, and fares.'
 slug: 540-flight-from-nairobi-to-eldoret-today
-primary_keyword: 540 flight from nairobi to eldoret today
+primary_keyword: '540 flight from nairobi to eldoret today'
 secondary_keywords:
-- flights nairobi to greece
-- flights nairobi to hargeisa
-- nairobi to india flights price
-- juba to nairobi flights
-- flights nairobi to lamu
+- 'flights nairobi to greece'
+- 'flights nairobi to hargeisa'
+- 'nairobi to india flights price'
+- 'juba to nairobi flights'
+- 'flights nairobi to lamu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

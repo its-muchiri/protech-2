@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Archaeological Site Tour Koobi Fora Safari Kenya Europe Paleontology Focus Booking: Complete Guide'
-description: Kenya safari guide covering reserve archaeological site tour koobi fora safari kenya europe paleontology focus booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve archaeological site tour koobi fora safari kenya europe paleontology focus booking, including what is included, pricing, and booking advice.'
 slug: reserve-archaeological-site-tour-koobi-fora-safari-kenya-europe-paleontology-focus-booking
-primary_keyword: Reserve archaeological site tour Koobi Fora safari Kenya Europe paleontology focus booking
+primary_keyword: 'Reserve archaeological site tour Koobi Fora safari Kenya Europe paleontology focus booking'
 secondary_keywords:
-- Book small group Kenya safari reservation
-- Kenya safari package quote request
-- Aberdares treetop lodge package rates
-- Luxury tented camp safari cost estimate
-- Early bird booking Kenya safari discount
+- 'Book small group Kenya safari reservation'
+- 'Kenya safari package quote request'
+- 'Aberdares treetop lodge package rates'
+- 'Luxury tented camp safari cost estimate'
+- 'Early bird booking Kenya safari discount'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

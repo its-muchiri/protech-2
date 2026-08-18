@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Travel Consultants Nairobi: Complete Guide'
-description: Kenya safari guide covering kenya travel consultants nairobi, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya travel consultants nairobi, including what is included, pricing, and booking advice.'
 slug: kenya-travel-consultants-nairobi
-primary_keyword: Kenya travel consultants Nairobi
+primary_keyword: 'Kenya travel consultants Nairobi'
 secondary_keywords:
-- Tsavo budget camping safari package buy
-- Angama Mara safari package cost
-- Romantic Kenya safari package deals
-- Discounted Kenya safari tours purchase
-- Kenya Zanzibar beach safari package deal
+- 'Tsavo budget camping safari package buy'
+- 'Angama Mara safari package cost'
+- 'Romantic Kenya safari package deals'
+- 'Discounted Kenya safari tours purchase'
+- 'Kenya Zanzibar beach safari package deal'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

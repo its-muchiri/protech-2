@@ -1,14 +1,14 @@
 ---
 title: 'Tour Operators Specializing in East Africa (Kenya, Tanzania, Uganda): Complete Guide'
-description: Kenya safari guide covering tour operators specializing in east africa (kenya, tanzania, uganda), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering tour operators specializing in east africa (kenya, tanzania, uganda), including what is included, pricing, and booking advice.'
 slug: tour-operators-specializing-in-east-africa-kenya-tanzania-uganda
-primary_keyword: Tour operators specializing in East Africa (Kenya, Tanzania, Uganda)
+primary_keyword: 'Tour operators specializing in East Africa (Kenya, Tanzania, Uganda)'
 secondary_keywords:
-- Giraffe Centre Nairobi visit
-- Bird watching Kenya safari
-- Kenya hiking safari
-- Conservation safari Kenya
-- Two week Kenya safari
+- 'Giraffe Centre Nairobi visit'
+- 'Bird watching Kenya safari'
+- 'Kenya hiking safari'
+- 'Conservation safari Kenya'
+- 'Two week Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

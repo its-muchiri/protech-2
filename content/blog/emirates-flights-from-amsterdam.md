@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Amsterdam: Complete Guide'
-description: Everything you need to know about emirates flights from amsterdam, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from amsterdam, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-amsterdam
-primary_keyword: emirates flights from amsterdam
+primary_keyword: 'emirates flights from amsterdam'
 secondary_keywords:
-- turkish airlines mombasa
-- turkish airlines nairobi terminal
-- emirates airlines mombasa office
-- ethiopian airlines ticket price from doha to nairobi
-- ethiopian airlines phone number nairobi
+- 'turkish airlines mombasa'
+- 'turkish airlines nairobi terminal'
+- 'emirates airlines mombasa office'
+- 'ethiopian airlines ticket price from doha to nairobi'
+- 'ethiopian airlines phone number nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

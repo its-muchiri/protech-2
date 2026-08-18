@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight Schedule Nairobi to Johannesburg: Complete Guide'
-description: Everything you need to know about kenya airways flight schedule nairobi to johannesburg, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight schedule nairobi to johannesburg, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-schedule-nairobi-to-johannesburg
-primary_keyword: kenya airways flight schedule nairobi to johannesburg
+primary_keyword: 'kenya airways flight schedule nairobi to johannesburg'
 secondary_keywords:
-- kq 001
-- kq 203 flight status today
-- kq306 flight status
-- kq 521 flight status
-- sq612 flight status
+- 'kq 001'
+- 'kq 203 flight status today'
+- 'kq306 flight status'
+- 'kq 521 flight status'
+- 'sq612 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

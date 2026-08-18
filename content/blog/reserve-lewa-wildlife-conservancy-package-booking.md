@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Lewa Wildlife Conservancy Package Booking: Complete Guide'
-description: Kenya safari guide covering reserve lewa wildlife conservancy package booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve lewa wildlife conservancy package booking, including what is included, pricing, and booking advice.'
 slug: reserve-lewa-wildlife-conservancy-package-booking
-primary_keyword: Reserve Lewa Wildlife Conservancy package booking
+primary_keyword: 'Reserve Lewa Wildlife Conservancy package booking'
 secondary_keywords:
-- Ol Pejeta Conservancy day trip from Nairobi cost / travel time
-- African Sermon Safaris itinerary examples
-- Hire 4x4 Land Cruiser with driver guide Kenya daily rate
-- Kenya safari company reviews SafariBookings verified reviews
-- Cultural immersion tours Kenya long stay village programs
+- 'Ol Pejeta Conservancy day trip from Nairobi cost / travel time'
+- 'African Sermon Safaris itinerary examples'
+- 'Hire 4x4 Land Cruiser with driver guide Kenya daily rate'
+- 'Kenya safari company reviews SafariBookings verified reviews'
+- 'Cultural immersion tours Kenya long stay village programs'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Purchase Full Board Kenya Safari Tour: Complete Guide'
-description: Kenya safari guide covering purchase full board kenya safari tour, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase full board kenya safari tour, including what is included, pricing, and booking advice.'
 slug: purchase-full-board-kenya-safari-tour
-primary_keyword: Purchase full board Kenya safari tour
+primary_keyword: 'Purchase full board Kenya safari tour'
 secondary_keywords:
-- Safari tours Kenya
-- Masai Mara safari
-- Hell''s Gate National Park safari
-- High-end Kenya safari
-- Great Migration Kenya safari
+- 'Safari tours Kenya'
+- 'Masai Mara safari'
+- 'Hell''''s Gate National Park safari'
+- 'High-end Kenya safari'
+- 'Great Migration Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

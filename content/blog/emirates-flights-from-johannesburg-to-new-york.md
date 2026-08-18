@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Johannesburg to New York: Complete Guide'
-description: Everything you need to know about emirates flights from johannesburg to new york, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from johannesburg to new york, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-johannesburg-to-new-york
-primary_keyword: emirates flights from johannesburg to new york
+primary_keyword: 'emirates flights from johannesburg to new york'
 secondary_keywords:
-- flights to nigeria from nairobi
-- flights from nairobi to paris
-- flight from nairobi to qatar price
-- rwandair flights from nairobi to kigali
-- flights from nairobi to stockholm
+- 'flights to nigeria from nairobi'
+- 'flights from nairobi to paris'
+- 'flight from nairobi to qatar price'
+- 'rwandair flights from nairobi to kigali'
+- 'flights from nairobi to stockholm'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

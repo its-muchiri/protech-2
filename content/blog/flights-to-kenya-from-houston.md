@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Kenya from Houston: Complete Guide'
-description: Everything you need to know about flights to kenya from houston, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to kenya from houston, including routes, airlines, booking tips, and fares.'
 slug: flights-to-kenya-from-houston
-primary_keyword: flights to kenya from houston
+primary_keyword: 'flights to kenya from houston'
 secondary_keywords:
-- air arabia flight from nairobi to sharjah price
-- return flight from nairobi to dubai price
-- air india flight from delhi to nairobi status
-- flight from nairobi to uk cost
-- flight from nairobi to washington dc
+- 'air arabia flight from nairobi to sharjah price'
+- 'return flight from nairobi to dubai price'
+- 'air india flight from delhi to nairobi status'
+- 'flight from nairobi to uk cost'
+- 'flight from nairobi to washington dc'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

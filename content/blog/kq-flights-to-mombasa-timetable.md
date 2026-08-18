@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Mombasa Timetable: Complete Guide'
-description: Everything you need to know about kq flights to mombasa timetable, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to mombasa timetable, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-mombasa-timetable
-primary_keyword: kq flights to mombasa timetable
+primary_keyword: 'kq flights to mombasa timetable'
 secondary_keywords:
-- emirates flight 412
-- emirates flight 513
-- emirates flight 789
-- emirates flight 98
-- qatar airways nairobi airport office
+- 'emirates flight 412'
+- 'emirates flight 513'
+- 'emirates flight 789'
+- 'emirates flight 98'
+- 'qatar airways nairobi airport office'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

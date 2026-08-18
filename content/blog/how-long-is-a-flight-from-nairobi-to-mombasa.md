@@ -1,14 +1,14 @@
 ---
 title: 'How Long Is a Flight from Nairobi to Mombasa: Complete Guide'
-description: Everything you need to know about how long is a flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how long is a flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.'
 slug: how-long-is-a-flight-from-nairobi-to-mombasa
-primary_keyword: how long is a flight from nairobi to mombasa
+primary_keyword: 'how long is a flight from nairobi to mombasa'
 secondary_keywords:
-- ethiopian airlines flight schedule from nairobi
-- ethiopian airlines from nairobi to cape town
-- ethiopian airlines from nairobi to johannesburg
-- ethiopian airlines nairobi office working hours near
-- ethiopian airlines flight schedule from addis ababa to nairobi
+- 'ethiopian airlines flight schedule from nairobi'
+- 'ethiopian airlines from nairobi to cape town'
+- 'ethiopian airlines from nairobi to johannesburg'
+- 'ethiopian airlines nairobi office working hours near'
+- 'ethiopian airlines flight schedule from addis ababa to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

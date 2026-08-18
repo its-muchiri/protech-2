@@ -1,14 +1,14 @@
 ---
 title: 'Direct Booking/Purchase Intent (Book, Buy, Purchase, Reserve): Complete Guide'
-description: Kenya safari guide covering direct booking/purchase intent (book, buy, purchase, reserve), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering direct booking/purchase intent (book, buy, purchase, reserve), including what is included, pricing, and booking advice.'
 slug: direct-booking-purchase-intent-book-buy-purchase-reserve
-primary_keyword: Direct Booking/Purchase Intent (Book, Buy, Purchase, Reserve)
+primary_keyword: 'Direct Booking/Purchase Intent (Book, Buy, Purchase, Reserve)'
 secondary_keywords:
-- Activity-Specific Searches
-- Rock climbing tours Hell''s Gate
-- Long stay Kenya vacation planners
-- Group joining safari price Kenya
-- Karen Nairobi based tour operators
+- 'Activity-Specific Searches'
+- 'Rock climbing tours Hell''''s Gate'
+- 'Long stay Kenya vacation planners'
+- 'Group joining safari price Kenya'
+- 'Karen Nairobi based tour operators'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

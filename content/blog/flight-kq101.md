@@ -1,14 +1,14 @@
 ---
 title: 'Flight Kq101: Complete Guide'
-description: Everything you need to know about flight kq101, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight kq101, including routes, airlines, booking tips, and fares.'
 slug: flight-kq101
-primary_keyword: flight kq101
+primary_keyword: 'flight kq101'
 secondary_keywords:
-- kenya airways flights from eldoret to nairobi today
-- who flies to penticton
-- kq flights to eldoret
-- kq flights to accra
-- tanzania bans kq flights
+- 'kenya airways flights from eldoret to nairobi today'
+- 'who flies to penticton'
+- 'kq flights to eldoret'
+- 'kq flights to accra'
+- 'tanzania bans kq flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Johannesburg Today: Complete Guide'
-description: Everything you need to know about kq flights to johannesburg today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to johannesburg today, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-johannesburg-today
-primary_keyword: kq flights to johannesburg today
+primary_keyword: 'kq flights to johannesburg today'
 secondary_keywords:
-- flights from kenya to poland
-- flight from kenya to qatar price
-- flight from kenya to rwanda time
-- south africa flights from kenya
-- flights from kenya to uae
+- 'flights from kenya to poland'
+- 'flight from kenya to qatar price'
+- 'flight from kenya to rwanda time'
+- 'south africa flights from kenya'
+- 'flights from kenya to uae'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

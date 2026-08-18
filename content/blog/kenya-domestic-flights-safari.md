@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Domestic Flights Safari: Complete Guide'
-description: Kenya safari guide covering kenya domestic flights safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya domestic flights safari, including what is included, pricing, and booking advice.'
 slug: kenya-domestic-flights-safari
-primary_keyword: Kenya domestic flights safari
+primary_keyword: 'Kenya domestic flights safari'
 secondary_keywords:
-- Book cultural Masai village visit & Amboseli safari tour Kenya Europe price
-- Check availability budget camping safari Tsavo & Amboseli circuit Europe group joining dates
-- Get quote for luxury mobile camping safari Serengeti & Mara migration USA private setup cost
-- Reserve luxury fly-camping safari private conservancy Kenya USA exclusive remote experience booking
-- Reserve archaeological site tour Koobi Fora safari Kenya Europe paleontology focus booking
+- 'Book cultural Masai village visit & Amboseli safari tour Kenya Europe price'
+- 'Check availability budget camping safari Tsavo & Amboseli circuit Europe group joining dates'
+- 'Get quote for luxury mobile camping safari Serengeti & Mara migration USA private setup cost'
+- 'Reserve luxury fly-camping safari private conservancy Kenya USA exclusive remote experience booking'
+- 'Reserve archaeological site tour Koobi Fora safari Kenya Europe paleontology focus booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

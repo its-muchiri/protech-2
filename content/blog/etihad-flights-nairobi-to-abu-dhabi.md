@@ -1,14 +1,14 @@
 ---
 title: 'Etihad Flights Nairobi to Abu Dhabi: Complete Guide'
-description: Everything you need to know about etihad flights nairobi to abu dhabi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about etihad flights nairobi to abu dhabi, including routes, airlines, booking tips, and fares.'
 slug: etihad-flights-nairobi-to-abu-dhabi
-primary_keyword: etihad flights nairobi to abu dhabi
+primary_keyword: 'etihad flights nairobi to abu dhabi'
 secondary_keywords:
-- flight from nairobi to garissa
-- flight from nairobi to harare
-- flight from nairobi to istanbul
-- jkia flight from nairobi to mombasa
-- flight from nairobi to london today
+- 'flight from nairobi to garissa'
+- 'flight from nairobi to harare'
+- 'flight from nairobi to istanbul'
+- 'jkia flight from nairobi to mombasa'
+- 'flight from nairobi to london today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

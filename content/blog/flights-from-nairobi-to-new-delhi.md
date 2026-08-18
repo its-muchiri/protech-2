@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to New Delhi: Complete Guide'
-description: Everything you need to know about flights from nairobi to new delhi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to new delhi, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-new-delhi
-primary_keyword: flights from nairobi to new delhi
+primary_keyword: 'flights from nairobi to new delhi'
 secondary_keywords:
-- flights from nairobi to hong kong
-- flights in nairobi
-- flights from nairobi to jinja uganda
-- kenya airways flights from nairobi to addis ababa prices
-- flights to nairobi from london
+- 'flights from nairobi to hong kong'
+- 'flights in nairobi'
+- 'flights from nairobi to jinja uganda'
+- 'kenya airways flights from nairobi to addis ababa prices'
+- 'flights to nairobi from london'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

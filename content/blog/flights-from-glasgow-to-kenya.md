@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Glasgow to Kenya: Complete Guide'
-description: Everything you need to know about flights from glasgow to kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from glasgow to kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-glasgow-to-kenya
-primary_keyword: flights from glasgow to kenya
+primary_keyword: 'flights from glasgow to kenya'
 secondary_keywords:
-- emirates flights from nairobi to boston
-- flights from nairobi to kisumu from wilson airport
-- flights from nairobi to heathrow
-- flights from nairobi to italy
-- flights from nairobi to jfk
+- 'emirates flights from nairobi to boston'
+- 'flights from nairobi to kisumu from wilson airport'
+- 'flights from nairobi to heathrow'
+- 'flights from nairobi to italy'
+- 'flights from nairobi to jfk'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Entebbe to Eldoret: Complete Guide'
-description: Everything you need to know about flights from entebbe to eldoret, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from entebbe to eldoret, including routes, airlines, booking tips, and fares.'
 slug: flights-from-entebbe-to-eldoret
-primary_keyword: flights from entebbe to eldoret
+primary_keyword: 'flights from entebbe to eldoret'
 secondary_keywords:
-- flights to mombasa kenya from zanzibar
-- are there flights from kisumu to eldoret
-- does emirates fly to kinshasa
-- flights from kisumu to jkia
-- flights to kisumu from london
+- 'flights to mombasa kenya from zanzibar'
+- 'are there flights from kisumu to eldoret'
+- 'does emirates fly to kinshasa'
+- 'flights from kisumu to jkia'
+- 'flights to kisumu from london'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

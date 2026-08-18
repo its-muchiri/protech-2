@@ -1,14 +1,14 @@
 ---
 title: 'Impact of Climate Change Kenya Safari: Complete Guide'
-description: Kenya safari guide covering impact of climate change kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering impact of climate change kenya safari, including what is included, pricing, and booking advice.'
 slug: impact-of-climate-change-kenya-safari
-primary_keyword: Impact of climate change Kenya safari
+primary_keyword: 'Impact of climate change Kenya safari'
 secondary_keywords:
-- Cost quote 4 day Tsavo lodge safari package from Mombasa
-- Laikipia luxury safari deals online
-- Small group Kenya safari package special offers
-- Tsavo safari trip plan purchase
-- Masai Mara package cost
+- 'Cost quote 4 day Tsavo lodge safari package from Mombasa'
+- 'Laikipia luxury safari deals online'
+- 'Small group Kenya safari package special offers'
+- 'Tsavo safari trip plan purchase'
+- 'Masai Mara package cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

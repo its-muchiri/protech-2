@@ -1,14 +1,14 @@
 ---
 title: 'Flight Nairobi from London: Complete Guide'
-description: Everything you need to know about flight nairobi from london, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight nairobi from london, including routes, airlines, booking tips, and fares.'
 slug: flight-nairobi-from-london
-primary_keyword: flight nairobi from london
+primary_keyword: 'flight nairobi from london'
 secondary_keywords:
-- flights nairobi to tanzania
-- flights nairobi to vipingo
-- flights nairobi to washington dc
-- yvr to nairobi flights
-- 1 naira to kenya shillings
+- 'flights nairobi to tanzania'
+- 'flights nairobi to vipingo'
+- 'flights nairobi to washington dc'
+- 'yvr to nairobi flights'
+- '1 naira to kenya shillings'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

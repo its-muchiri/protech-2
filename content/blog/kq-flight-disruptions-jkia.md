@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight Disruptions Jkia: Complete Guide'
-description: Everything you need to know about kq flight disruptions jkia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight disruptions jkia, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-disruptions-jkia
-primary_keyword: kq flight disruptions jkia
+primary_keyword: 'kq flight disruptions jkia'
 secondary_keywords:
-- flights from mombasa to watamu
-- jambojet flights from kisumu to nairobi
-- british airways boarding rules
-- flights to kisumu from entebbe uganda
-- flight from kisumu to kigali
+- 'flights from mombasa to watamu'
+- 'jambojet flights from kisumu to nairobi'
+- 'british airways boarding rules'
+- 'flights to kisumu from entebbe uganda'
+- 'flight from kisumu to kigali'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

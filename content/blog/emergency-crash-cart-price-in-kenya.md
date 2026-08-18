@@ -1,14 +1,14 @@
 ---
 title: 'Emergency Crash Cart Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to emergency crash cart price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to emergency crash cart price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: emergency-crash-cart-price-in-kenya
-primary_keyword: Emergency crash cart price in Kenya
+primary_keyword: 'Emergency crash cart price in Kenya'
 secondary_keywords:
-- Caesarean section (C/S) surgical kit
-- Hospital ward screen (4-fold) suppliers
-- Medical waste bin (color-coded) for sale
-- AED (Automated External Defibrillator) for public spaces
-- Dental consumables and materials wholesale
+- 'Caesarean section (C/S) surgical kit'
+- 'Hospital ward screen (4-fold) suppliers'
+- 'Medical waste bin (color-coded) for sale'
+- 'AED (Automated External Defibrillator) for public spaces'
+- 'Dental consumables and materials wholesale'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

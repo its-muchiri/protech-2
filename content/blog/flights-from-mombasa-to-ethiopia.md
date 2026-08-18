@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Ethiopia: Complete Guide'
-description: Everything you need to know about flights from mombasa to ethiopia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to ethiopia, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-ethiopia
-primary_keyword: flights from mombasa to ethiopia
+primary_keyword: 'flights from mombasa to ethiopia'
 secondary_keywords:
-- kq 0101 flight status
-- kq 113 flight status
-- kq flight 3
-- kq 483 flight status
-- sq611 flight status
+- 'kq 0101 flight status'
+- 'kq 113 flight status'
+- 'kq flight 3'
+- 'kq 483 flight status'
+- 'sq611 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

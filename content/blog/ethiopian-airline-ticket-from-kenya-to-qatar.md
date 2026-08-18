@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airline Ticket from Kenya to Qatar: Complete Guide'
-description: Everything you need to know about ethiopian airline ticket from kenya to qatar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airline ticket from kenya to qatar, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airline-ticket-from-kenya-to-qatar
-primary_keyword: ethiopian airline ticket from kenya to qatar
+primary_keyword: 'ethiopian airline ticket from kenya to qatar'
 secondary_keywords:
-- flights from nairobi to zimbabwe
-- kenya airways flights to south africa
-- china flights from kenya
-- flights from nairobi to amsterdam
-- flights from nairobi to bangkok
+- 'flights from nairobi to zimbabwe'
+- 'kenya airways flights to south africa'
+- 'china flights from kenya'
+- 'flights from nairobi to amsterdam'
+- 'flights from nairobi to bangkok'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

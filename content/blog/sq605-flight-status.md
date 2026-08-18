@@ -1,14 +1,14 @@
 ---
 title: 'Sq605 Flight Status: Complete Guide'
-description: Everything you need to know about sq605 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about sq605 flight status, including routes, airlines, booking tips, and fares.'
 slug: sq605-flight-status
-primary_keyword: sq605 flight status
+primary_keyword: 'sq605 flight status'
 secondary_keywords:
-- flights from nairobi to mombasa prices today
-- cheap flights from riyadh to mombasa
-- flights from nairobi to ukunda mombasa
-- which airlines fly to malindi
-- available flights from kisumu to nairobi
+- 'flights from nairobi to mombasa prices today'
+- 'cheap flights from riyadh to mombasa'
+- 'flights from nairobi to ukunda mombasa'
+- 'which airlines fly to malindi'
+- 'available flights from kisumu to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

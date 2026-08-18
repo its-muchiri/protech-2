@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Nairobi Office Address: Complete Guide'
-description: Everything you need to know about ethiopian airlines nairobi office address, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines nairobi office address, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-nairobi-office-address
-primary_keyword: ethiopian airlines nairobi office address
+primary_keyword: 'ethiopian airlines nairobi office address'
 secondary_keywords:
-- booking flights online in kenya
-- flights to kenya direct
-- flights from kenya to usa today
-- how much is a flight to kenya
-- flights to kenya length
+- 'booking flights online in kenya'
+- 'flights to kenya direct'
+- 'flights from kenya to usa today'
+- 'how much is a flight to kenya'
+- 'flights to kenya length'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Buy 4 Day Lake Nakuru Sopa Lodge Birding Package Deal Online: Complete Guide'
-description: Kenya safari guide covering buy 4 day lake nakuru sopa lodge birding package deal online, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy 4 day lake nakuru sopa lodge birding package deal online, including what is included, pricing, and booking advice.'
 slug: buy-4-day-lake-nakuru-sopa-lodge-birding-package-deal-online
-primary_keyword: Buy 4 day Lake Nakuru Sopa Lodge birding package deal online
+primary_keyword: 'Buy 4 day Lake Nakuru Sopa Lodge birding package deal online'
 secondary_keywords:
-- Direct booking Kenya safari
-- Secure best price Kenya safari tour
-- Birding specialist guide package Kenya book
-- Kenya Tanzania package quote
-- Buy 12 day luxury Kenya Uganda gorilla package
+- 'Direct booking Kenya safari'
+- 'Secure best price Kenya safari tour'
+- 'Birding specialist guide package Kenya book'
+- 'Kenya Tanzania package quote'
+- 'Buy 12 day luxury Kenya Uganda gorilla package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

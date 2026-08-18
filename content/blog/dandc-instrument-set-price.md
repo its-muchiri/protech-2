@@ -1,14 +1,14 @@
 ---
 title: 'D&C Instrument Set Price: 2026 Price Guide'
-description: Kenya buying guide to d&c instrument set price. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to d&c instrument set price. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: dandc-instrument-set-price
-primary_keyword: D&C instrument set price
+primary_keyword: 'D&C instrument set price'
 secondary_keywords:
-- Used hospital beds for sale in Kenya
-- Gynecological examination chair for sale in Nairobi
-- 5-parameter patient monitor (ECG, NIBP, SpO2, Resp, Temp)
-- Feeding pump for enteral nutrition
-- Shortwave diathermy unit price in Eldoret
+- 'Used hospital beds for sale in Kenya'
+- 'Gynecological examination chair for sale in Nairobi'
+- '5-parameter patient monitor (ECG, NIBP, SpO2, Resp, Temp)'
+- 'Feeding pump for enteral nutrition'
+- 'Shortwave diathermy unit price in Eldoret'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

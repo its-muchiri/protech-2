@@ -1,14 +1,14 @@
 ---
 title: 'Cheapest Flights from Nairobi to Addis Ababa: Complete Guide'
-description: Everything you need to know about cheapest flights from nairobi to addis ababa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheapest flights from nairobi to addis ababa, including routes, airlines, booking tips, and fares.'
 slug: cheapest-flights-from-nairobi-to-addis-ababa
-primary_keyword: cheapest flights from nairobi to addis ababa
+primary_keyword: 'cheapest flights from nairobi to addis ababa'
 secondary_keywords:
-- flights from kenya to saudi arabia
-- flights from kenya to uganda
-- flights from nairobi to vipingo
-- flights from winnipeg to nairobi kenya
-- flights from new york to kenya
+- 'flights from kenya to saudi arabia'
+- 'flights from kenya to uganda'
+- 'flights from nairobi to vipingo'
+- 'flights from winnipeg to nairobi kenya'
+- 'flights from new york to kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

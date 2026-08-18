@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Vancouver: Complete Guide'
-description: Everything you need to know about emirates flights from vancouver, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from vancouver, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-vancouver
-primary_keyword: emirates flights from vancouver
+primary_keyword: 'emirates flights from vancouver'
 secondary_keywords:
-- kq flights to malindi from nairobi
-- kq flights to mombasa prices
-- kq flights schedule
-- kq flights from uganda to kenya today timetable
-- kq 0117 flight status
+- 'kq flights to malindi from nairobi'
+- 'kq flights to mombasa prices'
+- 'kq flights schedule'
+- 'kq flights from uganda to kenya today timetable'
+- 'kq 0117 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

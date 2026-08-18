@@ -1,14 +1,14 @@
 ---
 title: '1 Dubai Currency to Kenyan Shillings: Complete Guide'
-description: Everything you need to know about 1 dubai currency to kenyan shillings, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about 1 dubai currency to kenyan shillings, including routes, airlines, booking tips, and fares.'
 slug: 1-dubai-currency-to-kenyan-shillings
-primary_keyword: 1 dubai currency to kenyan shillings
+primary_keyword: '1 dubai currency to kenyan shillings'
 secondary_keywords:
-- mombasa flights
-- does ba fly to bordeaux
-- how much is flight from kisumu to nairobi
-- flights from kisumu kenya to nairobi kenya
-- flights from kisumu to malindi
+- 'mombasa flights'
+- 'does ba fly to bordeaux'
+- 'how much is flight from kisumu to nairobi'
+- 'flights from kisumu kenya to nairobi kenya'
+- 'flights from kisumu to malindi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

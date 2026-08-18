@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Rwanda: Complete Guide'
-description: Everything you need to know about flight from nairobi to rwanda, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to rwanda, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-rwanda
-primary_keyword: flight from nairobi to rwanda
+primary_keyword: 'flight from nairobi to rwanda'
 secondary_keywords:
-- kq flying blue miles
-- kq flight charges
-- kq flight diverted
-- kq flights to entebbe today timetable
-- kq flight from harare to nairobi
+- 'kq flying blue miles'
+- 'kq flight charges'
+- 'kq flight diverted'
+- 'kq flights to entebbe today timetable'
+- 'kq flight from harare to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

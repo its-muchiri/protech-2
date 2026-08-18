@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Direct Flights from Usa to Europe: Complete Guide'
-description: Everything you need to know about emirates direct flights from usa to europe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates direct flights from usa to europe, including routes, airlines, booking tips, and fares.'
 slug: emirates-direct-flights-from-usa-to-europe
-primary_keyword: emirates direct flights from usa to europe
+primary_keyword: 'emirates direct flights from usa to europe'
 secondary_keywords:
-- flights from nairobi kenya to seiyun yemen
-- how much is flight from nairobi to usa
-- flights from nairobi to amman jordan
-- flights from mombasa airport
-- flights to mombasa from birmingham
+- 'flights from nairobi kenya to seiyun yemen'
+- 'how much is flight from nairobi to usa'
+- 'flights from nairobi to amman jordan'
+- 'flights from mombasa airport'
+- 'flights to mombasa from birmingham'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

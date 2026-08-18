@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Doha Qatar to Dubai United Arab Emirates: Complete Guide'
-description: Everything you need to know about flights from doha qatar to dubai united arab emirates, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from doha qatar to dubai united arab emirates, including routes, airlines, booking tips, and fares.'
 slug: flights-from-doha-qatar-to-dubai-united-arab-emirates
-primary_keyword: flights from doha qatar to dubai united arab emirates
+primary_keyword: 'flights from doha qatar to dubai united arab emirates'
 secondary_keywords:
-- does british airways fly to uganda
-- do i need a passport for domestic flights in kenya
-- flights to kenya from toronto
-- international airlines in kenya
-- low cost flights in kenya
+- 'does british airways fly to uganda'
+- 'do i need a passport for domestic flights in kenya'
+- 'flights to kenya from toronto'
+- 'international airlines in kenya'
+- 'low cost flights in kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

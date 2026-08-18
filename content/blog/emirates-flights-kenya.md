@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights Kenya: Complete Guide'
-description: Everything you need to know about emirates flights kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights kenya, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-kenya
-primary_keyword: emirates flights kenya
+primary_keyword: 'emirates flights kenya'
 secondary_keywords:
-- kenya airways flights schedule
-- flights from nairobi to mombasa
-- air france flights from nairobi to paris
-- flights from nairobi to botswana
-- flights from nairobi to cayman islands
+- 'kenya airways flights schedule'
+- 'flights from nairobi to mombasa'
+- 'air france flights from nairobi to paris'
+- 'flights from nairobi to botswana'
+- 'flights from nairobi to cayman islands'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

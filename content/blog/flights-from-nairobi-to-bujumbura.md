@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Bujumbura: Complete Guide'
-description: Everything you need to know about flights from nairobi to bujumbura, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to bujumbura, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-bujumbura
-primary_keyword: flights from nairobi to bujumbura
+primary_keyword: 'flights from nairobi to bujumbura'
 secondary_keywords:
-- nairobi to zanzibar flights
-- 2 bedroom apartments in nairobi for sale
-- emirates flights from auckland
-- emirates flights from birmingham to dubai
-- emirates flights from chicago
+- 'nairobi to zanzibar flights'
+- '2 bedroom apartments in nairobi for sale'
+- 'emirates flights from auckland'
+- 'emirates flights from birmingham to dubai'
+- 'emirates flights from chicago'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

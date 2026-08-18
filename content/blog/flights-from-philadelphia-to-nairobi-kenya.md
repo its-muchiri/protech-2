@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Philadelphia to Nairobi Kenya: Complete Guide'
-description: Everything you need to know about flights from philadelphia to nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from philadelphia to nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-philadelphia-to-nairobi-kenya
-primary_keyword: flights from philadelphia to nairobi kenya
+primary_keyword: 'flights from philadelphia to nairobi kenya'
 secondary_keywords:
-- qatar airways from nairobi to london
-- qatar airways nairobi recruitment
-- kq airline baggage allowance
-- kenya airways flights from durban to mumbai
-- kq flight from juba to nairobi today
+- 'qatar airways from nairobi to london'
+- 'qatar airways nairobi recruitment'
+- 'kq airline baggage allowance'
+- 'kenya airways flights from durban to mumbai'
+- 'kq flight from juba to nairobi today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

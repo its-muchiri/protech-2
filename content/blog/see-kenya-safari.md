@@ -1,14 +1,14 @@
 ---
 title: 'See Kenya Safari: Complete Guide'
-description: Kenya safari guide covering see kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering see kenya safari, including what is included, pricing, and booking advice.'
 slug: see-kenya-safari
-primary_keyword: See Kenya safari
+primary_keyword: 'See Kenya safari'
 secondary_keywords:
-- Budget overland truck safari Nairobi start
-- Crowds during migration Kenya
-- Safari en Kenia (Spanish)
-- Kenya safari blog
-- Purchase Kenya safari tour
+- 'Budget overland truck safari Nairobi start'
+- 'Crowds during migration Kenya'
+- 'Safari en Kenia (Spanish)'
+- 'Kenya safari blog'
+- 'Purchase Kenya safari tour'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

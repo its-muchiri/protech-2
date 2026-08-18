@@ -1,14 +1,14 @@
 ---
 title: 'Naro Moru Route Mount Kenya Climb Technical Sections: Complete Guide'
-description: Kenya safari guide covering naro moru route mount kenya climb technical sections, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering naro moru route mount kenya climb technical sections, including what is included, pricing, and booking advice.'
 slug: naro-moru-route-mount-kenya-climb-technical-sections
-primary_keyword: Naro Moru route Mount Kenya climb technical sections
+primary_keyword: 'Naro Moru route Mount Kenya climb technical sections'
 secondary_keywords:
-- Thika based contact for arranging Fourteen Falls trip
-- Reserve Tsavo East West safari booking
-- Purchase Nairobi start Kenya safari package
-- Reserve 15 day Kenya ultimate safari booking
-- Buy bird watching Kenya safari package
+- 'Thika based contact for arranging Fourteen Falls trip'
+- 'Reserve Tsavo East West safari booking'
+- 'Purchase Nairobi start Kenya safari package'
+- 'Reserve 15 day Kenya ultimate safari booking'
+- 'Buy bird watching Kenya safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

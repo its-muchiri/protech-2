@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Juba to Nairobi: Complete Guide'
-description: Everything you need to know about kq flight from juba to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from juba to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-juba-to-nairobi
-primary_keyword: kq flight from juba to nairobi
+primary_keyword: 'kq flight from juba to nairobi'
 secondary_keywords:
-- flights from uganda to mombasa
-- how much is a flight from mombasa to nairobi
-- does british airways fly to kazakhstan
-- flight prices from kisumu to nairobi
-- flights from kisumu to kitale
+- 'flights from uganda to mombasa'
+- 'how much is a flight from mombasa to nairobi'
+- 'does british airways fly to kazakhstan'
+- 'flight prices from kisumu to nairobi'
+- 'flights from kisumu to kitale'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Watamu Deep Sea Fishing Charter Companies: Complete Guide'
-description: Kenya safari guide covering watamu deep sea fishing charter companies, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering watamu deep sea fishing charter companies, including what is included, pricing, and booking advice.'
 slug: watamu-deep-sea-fishing-charter-companies
-primary_keyword: Watamu deep sea fishing charter companies
+primary_keyword: 'Watamu deep sea fishing charter companies'
 secondary_keywords:
-- Buy Kenya safari package
-- Kenya safari availability check and book
-- 10 day Kenya safari adventure package deal
-- Ol Pejeta Conservancy safari package quote
-- High-end Kenya safari tour cost
+- 'Buy Kenya safari package'
+- 'Kenya safari availability check and book'
+- '10 day Kenya safari adventure package deal'
+- 'Ol Pejeta Conservancy safari package quote'
+- 'High-end Kenya safari tour cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

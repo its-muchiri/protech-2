@@ -1,14 +1,14 @@
 ---
 title: 'Specific Needs & Logistics Searches: Complete Guide'
-description: Kenya safari guide covering specific needs & logistics searches, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering specific needs & logistics searches, including what is included, pricing, and booking advice.'
 slug: specific-needs-and-logistics-searches
-primary_keyword: Specific Needs & Logistics Searches
+primary_keyword: 'Specific Needs & Logistics Searches'
 secondary_keywords:
-- Student discount safari Kenya
-- Fourteen Falls tour guide Thika
-- Vegan/vegetarian meal options safari companies Kenya
-- Ethical Maasai village tour operator near Mara
-- Student group educational tour operator Kenya
+- 'Student discount safari Kenya'
+- 'Fourteen Falls tour guide Thika'
+- 'Vegan/vegetarian meal options safari companies Kenya'
+- 'Ethical Maasai village tour operator near Mara'
+- 'Student group educational tour operator Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

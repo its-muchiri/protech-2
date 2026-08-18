@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Zimbabwe to Uk Price: Complete Guide'
-description: Everything you need to know about emirates flights from zimbabwe to uk price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from zimbabwe to uk price, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-zimbabwe-to-uk-price
-primary_keyword: emirates flights from zimbabwe to uk price
+primary_keyword: 'emirates flights from zimbabwe to uk price'
 secondary_keywords:
-- flights from nairobi to masai mara game reserve
-- flights from harare to nairobi
-- flights from nairobi to johannesburg today
-- flights from nairobi kenya to maputo mozambique
-- flights from nairobi to lusaka
+- 'flights from nairobi to masai mara game reserve'
+- 'flights from harare to nairobi'
+- 'flights from nairobi to johannesburg today'
+- 'flights from nairobi kenya to maputo mozambique'
+- 'flights from nairobi to lusaka'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

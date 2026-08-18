@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Washington Dc to Nairobi Kenya: Complete Guide'
-description: Everything you need to know about cheap flights from washington dc to nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from washington dc to nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-washington-dc-to-nairobi-kenya
-primary_keyword: cheap flights from washington dc to nairobi kenya
+primary_keyword: 'cheap flights from washington dc to nairobi kenya'
 secondary_keywords:
-- qatar airways in kenya
-- flights kenya to johannesburg
-- flights from kenya to vietnam
-- holidays in kenya 2023
-- flight from kenya to america
+- 'qatar airways in kenya'
+- 'flights kenya to johannesburg'
+- 'flights from kenya to vietnam'
+- 'holidays in kenya 2023'
+- 'flight from kenya to america'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

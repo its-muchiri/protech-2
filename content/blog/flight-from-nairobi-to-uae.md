@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Uae: Complete Guide'
-description: Everything you need to know about flight from nairobi to uae, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to uae, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-uae
-primary_keyword: flight from nairobi to uae
+primary_keyword: 'flight from nairobi to uae'
 secondary_keywords:
-- emirates flights from heathrow today
-- how many emirates flights from london to dubai per day
-- emirates flights to italy from us
-- emirates flights from karachi to dubai
-- emirates flights from lusaka to dubai
+- 'emirates flights from heathrow today'
+- 'how many emirates flights from london to dubai per day'
+- 'emirates flights to italy from us'
+- 'emirates flights from karachi to dubai'
+- 'emirates flights from lusaka to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

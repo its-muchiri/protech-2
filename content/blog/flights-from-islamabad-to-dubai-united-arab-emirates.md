@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Islamabad to Dubai United Arab Emirates: Complete Guide'
-description: Everything you need to know about flights from islamabad to dubai united arab emirates, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from islamabad to dubai united arab emirates, including routes, airlines, booking tips, and fares.'
 slug: flights-from-islamabad-to-dubai-united-arab-emirates
-primary_keyword: flights from islamabad to dubai united arab emirates
+primary_keyword: 'flights from islamabad to dubai united arab emirates'
 secondary_keywords:
-- turkish airlines nairobi istanbul
-- flight tickets in kenya
-- flight times to kenya
-- flight booking to kenya
-- buupass online booking kenya to nairobi
+- 'turkish airlines nairobi istanbul'
+- 'flight tickets in kenya'
+- 'flight times to kenya'
+- 'flight booking to kenya'
+- 'buupass online booking kenya to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

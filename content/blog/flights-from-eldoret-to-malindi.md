@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Eldoret to Malindi: Complete Guide'
-description: Everything you need to know about flights from eldoret to malindi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from eldoret to malindi, including routes, airlines, booking tips, and fares.'
 slug: flights-from-eldoret-to-malindi
-primary_keyword: flights from eldoret to malindi
+primary_keyword: 'flights from eldoret to malindi'
 secondary_keywords:
-- how much is the flight from nairobi to kisumu
-- flight from nairobi to voi
-- flight to watamu from nairobi
-- flying from zanzibar to nairobi
-- how much flight from nairobi to dubai
+- 'how much is the flight from nairobi to kisumu'
+- 'flight from nairobi to voi'
+- 'flight to watamu from nairobi'
+- 'flying from zanzibar to nairobi'
+- 'how much flight from nairobi to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

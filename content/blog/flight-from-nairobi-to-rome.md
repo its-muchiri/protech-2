@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Rome: Complete Guide'
-description: Everything you need to know about flight from nairobi to rome, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to rome, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-rome
-primary_keyword: flight from nairobi to rome
+primary_keyword: 'flight from nairobi to rome'
 secondary_keywords:
-- flights from nairobi to south korea
-- flights from mombasa to wilson airport
-- airlines that fly to mombasa
-- cheap flights from mombasa to zanzibar
-- flights from mombasa to eldoret
+- 'flights from nairobi to south korea'
+- 'flights from mombasa to wilson airport'
+- 'airlines that fly to mombasa'
+- 'cheap flights from mombasa to zanzibar'
+- 'flights from mombasa to eldoret'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

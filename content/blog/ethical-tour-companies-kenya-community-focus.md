@@ -1,14 +1,14 @@
 ---
 title: 'Ethical Tour Companies Kenya Community Focus: Complete Guide'
-description: Kenya safari guide covering ethical tour companies kenya community focus, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering ethical tour companies kenya community focus, including what is included, pricing, and booking advice.'
 slug: ethical-tour-companies-kenya-community-focus
-primary_keyword: Ethical tour companies Kenya community focus
+primary_keyword: 'Ethical tour companies Kenya community focus'
 secondary_keywords:
-- All-inclusive Kenya safari from UK cost July 2025
-- UK travel advice Kenya safari booking safe operators
-- Top rated Kenya safari specialists UK experts
-- Reserve Kenya safari Easter 2026 UK family package availability
-- Luxury all-inclusive Kenya safari reviews Forbes Travel Guide
+- 'All-inclusive Kenya safari from UK cost July 2025'
+- 'UK travel advice Kenya safari booking safe operators'
+- 'Top rated Kenya safari specialists UK experts'
+- 'Reserve Kenya safari Easter 2026 UK family package availability'
+- 'Luxury all-inclusive Kenya safari reviews Forbes Travel Guide'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Jkia Nairobi: Complete Guide'
-description: Everything you need to know about emirates jkia nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates jkia nairobi, including routes, airlines, booking tips, and fares.'
 slug: emirates-jkia-nairobi
-primary_keyword: emirates jkia nairobi
+primary_keyword: 'emirates jkia nairobi'
 secondary_keywords:
-- how much is the flight ticket to kenya
-- usa flights from kenya
-- flight attendant jobs in kenya 2025
-- flights from kenya to accra
-- flights from kenya to bahamas
+- 'how much is the flight ticket to kenya'
+- 'usa flights from kenya'
+- 'flight attendant jobs in kenya 2025'
+- 'flights from kenya to accra'
+- 'flights from kenya to bahamas'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

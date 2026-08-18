@@ -1,14 +1,14 @@
 ---
 title: 'African Safari Kenya: Complete Guide'
-description: Kenya safari guide covering african safari kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering african safari kenya, including what is included, pricing, and booking advice.'
 slug: african-safari-kenya
-primary_keyword: African safari Kenya
+primary_keyword: 'African safari Kenya'
 secondary_keywords:
-- Safari operators Kiambu County
-- Kenya tours for seniors mobility considerations
-- Community project volunteer tour organizers Kenya
-- Adventure tour company Hell''s Gate cycling and Naivasha boat ride
-- Reserve Kenya holiday safari booking
+- 'Safari operators Kiambu County'
+- 'Kenya tours for seniors mobility considerations'
+- 'Community project volunteer tour organizers Kenya'
+- 'Adventure tour company Hell''''s Gate cycling and Naivasha boat ride'
+- 'Reserve Kenya holiday safari booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

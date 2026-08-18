@@ -1,14 +1,14 @@
 ---
 title: 'Shortwave Diathermy Unit Price in Eldoret: 2026 Price Guide'
-description: Kenya buying guide to shortwave diathermy unit price in eldoret. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to shortwave diathermy unit price in eldoret. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: shortwave-diathermy-unit-price-in-eldoret
-primary_keyword: Shortwave diathermy unit price in Eldoret
+primary_keyword: 'Shortwave diathermy unit price in Eldoret'
 secondary_keywords:
-- CT scanner service contracts and maintenance in Kenya
-- Ultrasound probe repair and replacement in Nairobi
-- Bronchoscopy tower for pulmonology unit
-- Binocular laboratory microscope price in Kenya
-- Surgical, Theatre & CSSD Equipment
+- 'CT scanner service contracts and maintenance in Kenya'
+- 'Ultrasound probe repair and replacement in Nairobi'
+- 'Bronchoscopy tower for pulmonology unit'
+- 'Binocular laboratory microscope price in Kenya'
+- 'Surgical, Theatre & CSSD Equipment'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

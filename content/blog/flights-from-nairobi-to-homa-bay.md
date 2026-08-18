@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Homa Bay: Complete Guide'
-description: Everything you need to know about flights from nairobi to homa bay, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to homa bay, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-homa-bay
-primary_keyword: flights from nairobi to homa bay
+primary_keyword: 'flights from nairobi to homa bay'
 secondary_keywords:
-- emirates flights from dubai
-- emirates flights from entebbe to london
-- flights from faisalabad to dubai united arab emirates
-- emirates flights from dubai to glasgow today
-- how many emirates flights from heathrow
+- 'emirates flights from dubai'
+- 'emirates flights from entebbe to london'
+- 'flights from faisalabad to dubai united arab emirates'
+- 'emirates flights from dubai to glasgow today'
+- 'how many emirates flights from heathrow'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Istanbul to Nairobi Today: Complete Guide'
-description: Everything you need to know about turkish airlines istanbul to nairobi today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines istanbul to nairobi today, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-istanbul-to-nairobi-today
-primary_keyword: turkish airlines istanbul to nairobi today
+primary_keyword: 'turkish airlines istanbul to nairobi today'
 secondary_keywords:
-- flights from cape town to nairobi kenya
-- flights from okc to nairobi kenya
-- flights to dubai from kenya price
-- does kenya airways fly to canada
-- flights from kenya to seychelles
+- 'flights from cape town to nairobi kenya'
+- 'flights from okc to nairobi kenya'
+- 'flights to dubai from kenya price'
+- 'does kenya airways fly to canada'
+- 'flights from kenya to seychelles'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

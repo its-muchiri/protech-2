@@ -1,14 +1,14 @@
 ---
 title: 'Fly Nairobi to Masai Mara Safari: Complete Guide'
-description: Kenya safari guide covering fly nairobi to masai mara safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering fly nairobi to masai mara safari, including what is included, pricing, and booking advice.'
 slug: fly-nairobi-to-masai-mara-safari
-primary_keyword: Fly Nairobi to Masai Mara safari
+primary_keyword: 'Fly Nairobi to Masai Mara safari'
 secondary_keywords:
-- Trusted Kenya safari specialists association members Europe (e.g., KATO)
-- Best budget overland truck safari Kenya deals for European backpackers
-- Buy guaranteed departure small group Kenya camping safari USA tour company reviews
-- Reserve private vehicle & guide safari Kenya price quote per day USA flexible itinerary
-- Find deals Kenya safari green season (Apr-May) Europe discounts luxury lodges availability
+- 'Trusted Kenya safari specialists association members Europe (e.g., KATO)'
+- 'Best budget overland truck safari Kenya deals for European backpackers'
+- 'Buy guaranteed departure small group Kenya camping safari USA tour company reviews'
+- 'Reserve private vehicle & guide safari Kenya price quote per day USA flexible itinerary'
+- 'Find deals Kenya safari green season (Apr-May) Europe discounts luxury lodges availability'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

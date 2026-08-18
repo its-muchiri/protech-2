@@ -1,14 +1,14 @@
 ---
 title: '740 Flight: Complete Guide'
-description: Everything you need to know about 740 flight, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about 740 flight, including routes, airlines, booking tips, and fares.'
 slug: 740-flight
-primary_keyword: 740 flight
+primary_keyword: '740 flight'
 secondary_keywords:
-- emirates flights from new york to europe
-- emirates flight from zimbabwe to dubai
-- emirates flights 19 august
-- emirates flights 2023
-- emirates flight 3
+- 'emirates flights from new york to europe'
+- 'emirates flight from zimbabwe to dubai'
+- 'emirates flights 19 august'
+- 'emirates flights 2023'
+- 'emirates flight 3'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

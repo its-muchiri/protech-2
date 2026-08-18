@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Frankfurt to Mombasa: Complete Guide'
-description: Everything you need to know about flights from frankfurt to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from frankfurt to mombasa, including routes, airlines, booking tips, and fares.'
 slug: flights-from-frankfurt-to-mombasa
-primary_keyword: flights from frankfurt to mombasa
+primary_keyword: 'flights from frankfurt to mombasa'
 secondary_keywords:
-- kq direct flight from nairobi to new york ticket price
-- how much is kq flight from nairobi to dubai
-- kenya airways flight from nairobi to lagos
-- kenya airways flight from nairobi to paris
-- kq flight schedule from nairobi to mombasa
+- 'kq direct flight from nairobi to new york ticket price'
+- 'how much is kq flight from nairobi to dubai'
+- 'kenya airways flight from nairobi to lagos'
+- 'kenya airways flight from nairobi to paris'
+- 'kq flight schedule from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

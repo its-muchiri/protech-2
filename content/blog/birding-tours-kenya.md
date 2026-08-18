@@ -1,14 +1,14 @@
 ---
 title: 'Birding Tours Kenya: Complete Guide'
-description: Kenya safari guide covering birding tours kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering birding tours kenya, including what is included, pricing, and booking advice.'
 slug: birding-tours-kenya
-primary_keyword: Birding tours Kenya
+primary_keyword: 'Birding tours Kenya'
 secondary_keywords:
-- Kenya safari in June
-- International Kenya safari operators
-- Wheelchair friendly Kenya safari
-- Yoga safari Kenya
-- Phone signal Kenya safari
+- 'Kenya safari in June'
+- 'International Kenya safari operators'
+- 'Wheelchair friendly Kenya safari'
+- 'Yoga safari Kenya'
+- 'Phone signal Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

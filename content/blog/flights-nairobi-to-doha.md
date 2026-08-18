@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Doha: Complete Guide'
-description: Everything you need to know about flights nairobi to doha, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to doha, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-doha
-primary_keyword: flights nairobi to doha
+primary_keyword: 'flights nairobi to doha'
 secondary_keywords:
-- emirates flight from nairobi to dubai time
-- emirates flight status nairobi to dubai
-- emirates nairobi airport
-- emirates dubai nairobi flight status
-- jkia emirates terminal
+- 'emirates flight from nairobi to dubai time'
+- 'emirates flight status nairobi to dubai'
+- 'emirates nairobi airport'
+- 'emirates dubai nairobi flight status'
+- 'jkia emirates terminal'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

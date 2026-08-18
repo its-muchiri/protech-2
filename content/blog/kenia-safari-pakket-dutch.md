@@ -1,14 +1,14 @@
 ---
 title: 'Kenia Safari Pakket (Dutch): Complete Guide'
-description: Kenya safari guide covering kenia safari pakket (dutch), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenia safari pakket (dutch), including what is included, pricing, and booking advice.'
 slug: kenia-safari-pakket-dutch
-primary_keyword: Kenia safari pakket (Dutch)
+primary_keyword: 'Kenia safari pakket (Dutch)'
 secondary_keywords:
-- Luxury lodges Masai Mara (e.g., Angama Mara, Mara Serena, Governors Camp) price
-- Rhino sanctuary Lake Nakuru best viewing times
-- Luxury tented camp safari Kenya price comparison
-- Short Kenya safari 2 day / 3 day options from Nairobi
-- Mount Kenya Chogoria route trek difficulty / best time
+- 'Luxury lodges Masai Mara (e.g., Angama Mara, Mara Serena, Governors Camp) price'
+- 'Rhino sanctuary Lake Nakuru best viewing times'
+- 'Luxury tented camp safari Kenya price comparison'
+- 'Short Kenya safari 2 day / 3 day options from Nairobi'
+- 'Mount Kenya Chogoria route trek difficulty / best time'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

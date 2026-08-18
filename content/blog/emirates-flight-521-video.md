@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 521 Video: Complete Guide'
-description: Everything you need to know about emirates flight 521 video, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 521 video, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-521-video
-primary_keyword: emirates flight 521 video
+primary_keyword: 'emirates flight 521 video'
 secondary_keywords:
-- kq flight from kenya to canada
-- flights from ukunda
-- how much is kq flight from nairobi to kisumu
-- kq flight from nairobi to dar es salaam
-- kenya airways jfk to nairobi review
+- 'kq flight from kenya to canada'
+- 'flights from ukunda'
+- 'how much is kq flight from nairobi to kisumu'
+- 'kq flight from nairobi to dar es salaam'
+- 'kenya airways jfk to nairobi review'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

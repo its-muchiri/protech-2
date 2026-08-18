@@ -1,14 +1,14 @@
 ---
 title: 'Find Kenya Safari Tour with Professional Wildlife Artist Workshop UK Creative Travel Booking: Complete Guide'
-description: Kenya safari guide covering find kenya safari tour with professional wildlife artist workshop uk creative travel booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering find kenya safari tour with professional wildlife artist workshop uk creative travel booking, including what is included, pricing, and booking advice.'
 slug: find-kenya-safari-tour-with-professional-wildlife-artist-workshop-uk-creative-travel-booking
-primary_keyword: Find Kenya safari tour with professional wildlife artist workshop UK creative travel booking
+primary_keyword: 'Find Kenya safari tour with professional wildlife artist workshop UK creative travel booking'
 secondary_keywords:
-- Masai Mara safari package deals
-- Fly-in Masai Mara safari package book
-- Finch Hattons Tsavo luxury package quote
-- Private Kenya honeymoon safari quote
-- Overland truck safari Kenya package price
+- 'Masai Mara safari package deals'
+- 'Fly-in Masai Mara safari package book'
+- 'Finch Hattons Tsavo luxury package quote'
+- 'Private Kenya honeymoon safari quote'
+- 'Overland truck safari Kenya package price'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

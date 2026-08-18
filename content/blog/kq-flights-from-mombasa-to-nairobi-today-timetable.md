@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from Mombasa to Nairobi Today Timetable: Complete Guide'
-description: Everything you need to know about kq flights from mombasa to nairobi today timetable, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from mombasa to nairobi today timetable, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-mombasa-to-nairobi-today-timetable
-primary_keyword: kq flights from mombasa to nairobi today timetable
+primary_keyword: 'kq flights from mombasa to nairobi today timetable'
 secondary_keywords:
-- qatar airways nairobi recruitment
-- kq airline baggage allowance
-- kenya airways flights from durban to mumbai
-- kq flight from juba to nairobi today
-- kq airline routes
+- 'qatar airways nairobi recruitment'
+- 'kq airline baggage allowance'
+- 'kenya airways flights from durban to mumbai'
+- 'kq flight from juba to nairobi today'
+- 'kq airline routes'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

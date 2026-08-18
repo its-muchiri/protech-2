@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is a Flight from Nairobi to Ukunda: Complete Guide'
-description: Everything you need to know about how much is a flight from nairobi to ukunda, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is a flight from nairobi to ukunda, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-a-flight-from-nairobi-to-ukunda
-primary_keyword: how much is a flight from nairobi to ukunda
+primary_keyword: 'how much is a flight from nairobi to ukunda'
 secondary_keywords:
-- kq eldoret flights
-- flight kq
-- i-fly air booking
-- kq flights to kenya
-- kq flights mombasa
+- 'kq eldoret flights'
+- 'flight kq'
+- 'i-fly air booking'
+- 'kq flights to kenya'
+- 'kq flights mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

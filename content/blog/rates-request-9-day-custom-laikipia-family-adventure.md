@@ -1,14 +1,14 @@
 ---
 title: 'Rates Request 9 Day Custom Laikipia Family Adventure: Complete Guide'
-description: Kenya safari guide covering rates request 9 day custom laikipia family adventure, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering rates request 9 day custom laikipia family adventure, including what is included, pricing, and booking advice.'
 slug: rates-request-9-day-custom-laikipia-family-adventure
-primary_keyword: Rates request 9 day custom Laikipia family adventure
+primary_keyword: 'Rates request 9 day custom Laikipia family adventure'
 secondary_keywords:
-- Why choose Kenya for safari
-- Romantic tented camp Laikipia Kenya
-- Bad Kenya safari reviews
-- Aardvark safari Kenya (very difficult sighting)
-- Kenya domestic flights safari
+- 'Why choose Kenya for safari'
+- 'Romantic tented camp Laikipia Kenya'
+- 'Bad Kenya safari reviews'
+- 'Aardvark safari Kenya (very difficult sighting)'
+- 'Kenya domestic flights safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

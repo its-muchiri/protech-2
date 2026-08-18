@@ -1,14 +1,14 @@
 ---
 title: '3 Day Kenya Safari Package Price Quote: Complete Guide'
-description: Kenya safari guide covering 3 day kenya safari package price quote, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering 3 day kenya safari package price quote, including what is included, pricing, and booking advice.'
 slug: 3-day-kenya-safari-package-price-quote
-primary_keyword: 3 day Kenya safari package price quote
+primary_keyword: '3 day Kenya safari package price quote'
 secondary_keywords:
-- Book celebrity style Kenya luxury safari package price
-- Best tour companies Kenya reviews
-- Online travel agency Kenya safari
-- Hell''s Gate National Park cycling tour company
-- Tour Type & Style Specific Searches
+- 'Book celebrity style Kenya luxury safari package price'
+- 'Best tour companies Kenya reviews'
+- 'Online travel agency Kenya safari'
+- 'Hell''''s Gate National Park cycling tour company'
+- 'Tour Type & Style Specific Searches'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

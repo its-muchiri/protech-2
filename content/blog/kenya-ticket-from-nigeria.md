@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Ticket from Nigeria: Complete Guide'
-description: Everything you need to know about kenya ticket from nigeria, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya ticket from nigeria, including routes, airlines, booking tips, and fares.'
 slug: kenya-ticket-from-nigeria
-primary_keyword: kenya ticket from nigeria
+primary_keyword: 'kenya ticket from nigeria'
 secondary_keywords:
-- flight from nairobi to california
-- flight from nairobi to diani beach
-- egypt air flight from nairobi to cairo
-- flight fare from dar es salaam to nairobi
-- flight from goma to nairobi
+- 'flight from nairobi to california'
+- 'flight from nairobi to diani beach'
+- 'egypt air flight from nairobi to cairo'
+- 'flight fare from dar es salaam to nairobi'
+- 'flight from goma to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

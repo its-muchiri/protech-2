@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Green Season: Complete Guide'
-description: Kenya safari guide covering kenya safari green season, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari green season, including what is included, pricing, and booking advice.'
 slug: kenya-safari-green-season
-primary_keyword: Kenya safari green season
+primary_keyword: 'Kenya safari green season'
 secondary_keywords:
-- All-inclusive Kenya safari package deals
-- Book Tsavo tour deal
-- Quote tailor-made Kenya package
-- Buy 6 day fly-in Masai Mara honeymoon package luxury camp
-- Book 3 day express Masai Mara fly-in package deal
+- 'All-inclusive Kenya safari package deals'
+- 'Book Tsavo tour deal'
+- 'Quote tailor-made Kenya package'
+- 'Buy 6 day fly-in Masai Mara honeymoon package luxury camp'
+- 'Book 3 day express Masai Mara fly-in package deal'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

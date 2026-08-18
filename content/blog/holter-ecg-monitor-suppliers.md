@@ -1,14 +1,14 @@
 ---
 title: 'Holter ECG Monitor Suppliers: 2026 Price Guide'
-description: Kenya buying guide to holter ecg monitor suppliers. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to holter ecg monitor suppliers. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: holter-ecg-monitor-suppliers
-primary_keyword: Holter ECG monitor suppliers
+primary_keyword: 'Holter ECG monitor suppliers'
 secondary_keywords:
-- mobile X-ray machine Kenya
-- urine analyzers Kenya
-- slit lamp Kenya price
-- CT scanners Kenya price
-- spectrophotometers Kenya
+- 'mobile X-ray machine Kenya'
+- 'urine analyzers Kenya'
+- 'slit lamp Kenya price'
+- 'CT scanners Kenya price'
+- 'spectrophotometers Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

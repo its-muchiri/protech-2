@@ -1,14 +1,14 @@
 ---
 title: 'Hospital Ward Screens and Partitions: 2026 Price Guide'
-description: Kenya buying guide to hospital ward screens and partitions. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to hospital ward screens and partitions. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: hospital-ward-screens-and-partitions
-primary_keyword: Hospital ward screens and partitions
+primary_keyword: 'Hospital ward screens and partitions'
 secondary_keywords:
-- medical gas alarm system for hospitals
-- braille machine price in Kenya
-- hospital waste management plan
-- medical equipment for correctional facilities
-- diagnostic equipment Kenya
+- 'medical gas alarm system for hospitals'
+- 'braille machine price in Kenya'
+- 'hospital waste management plan'
+- 'medical equipment for correctional facilities'
+- 'diagnostic equipment Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

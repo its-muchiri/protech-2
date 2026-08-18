@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Italy: Complete Guide'
-description: Everything you need to know about flights from nairobi to italy, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to italy, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-italy
-primary_keyword: flights from nairobi to italy
+primary_keyword: 'flights from nairobi to italy'
 secondary_keywords:
-- kenya airways flight schedule from johannesburg to nairobi today
-- kenya airways flight from lagos to nairobi
-- kenya airways flight from nairobi to eldoret ticket price
-- flight from nairobi to kisumu
-- air india flight from nairobi to delhi price
+- 'kenya airways flight schedule from johannesburg to nairobi today'
+- 'kenya airways flight from lagos to nairobi'
+- 'kenya airways flight from nairobi to eldoret ticket price'
+- 'flight from nairobi to kisumu'
+- 'air india flight from nairobi to delhi price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

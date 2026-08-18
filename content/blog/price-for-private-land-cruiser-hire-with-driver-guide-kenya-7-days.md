@@ -1,14 +1,14 @@
 ---
 title: 'Price for Private Land Cruiser Hire with Driver Guide Kenya 7 Days: Complete Guide'
-description: Kenya safari guide covering price for private land cruiser hire with driver guide kenya 7 days, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering price for private land cruiser hire with driver guide kenya 7 days, including what is included, pricing, and booking advice.'
 slug: price-for-private-land-cruiser-hire-with-driver-guide-kenya-7-days
-primary_keyword: Price for private Land Cruiser hire with driver guide Kenya 7 days
+primary_keyword: 'Price for private Land Cruiser hire with driver guide Kenya 7 days'
 secondary_keywords:
-- Mount Longonot hike day trip from Nairobi / Thika price / guide
-- Day trip Nairobi National Park tour company price
-- Pollman''s Tours & Safaris Kenya contact / services
-- Perfect Wilderness Tours Kenya reviews
-- Tipping guide for safari driver / lodge staff Kenya
+- 'Mount Longonot hike day trip from Nairobi / Thika price / guide'
+- 'Day trip Nairobi National Park tour company price'
+- 'Pollman''''s Tours & Safaris Kenya contact / services'
+- 'Perfect Wilderness Tours Kenya reviews'
+- 'Tipping guide for safari driver / lodge staff Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

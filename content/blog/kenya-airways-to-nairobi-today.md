@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways to Nairobi Today: Complete Guide'
-description: Everything you need to know about kenya airways to nairobi today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways to nairobi today, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-to-nairobi-today
-primary_keyword: kenya airways to nairobi today
+primary_keyword: 'kenya airways to nairobi today'
 secondary_keywords:
-- emirates flights from miami
-- emirates flights from orlando to dubai
-- emirates flights from pakistan to london
-- emirates flight questions
-- emirates flights from rome to melbourne
+- 'emirates flights from miami'
+- 'emirates flights from orlando to dubai'
+- 'emirates flights from pakistan to london'
+- 'emirates flight questions'
+- 'emirates flights from rome to melbourne'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

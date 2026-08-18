@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari and Beach Holiday: Complete Guide'
-description: Kenya safari guide covering kenya safari and beach holiday, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari and beach holiday, including what is included, pricing, and booking advice.'
 slug: kenya-safari-and-beach-holiday
-primary_keyword: Kenya safari and beach holiday
+primary_keyword: 'Kenya safari and beach holiday'
 secondary_keywords:
-- Compare fly-in vs overland Kenya safari package cost buy
-- Reserve 5 day family lodge Amboseli package Christmas  deal
-- Quote 7 day Kicheche Camps migration special package July booking
-- Ethical tour companies Kenya community focus
-- Fly-in safari Masai Mara Wilson Airport cost
+- 'Compare fly-in vs overland Kenya safari package cost buy'
+- 'Reserve 5 day family lodge Amboseli package Christmas  deal'
+- 'Quote 7 day Kicheche Camps migration special package July booking'
+- 'Ethical tour companies Kenya community focus'
+- 'Fly-in safari Masai Mara Wilson Airport cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

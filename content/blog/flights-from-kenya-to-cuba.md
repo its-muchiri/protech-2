@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Cuba: Complete Guide'
-description: Everything you need to know about flights from kenya to cuba, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to cuba, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-cuba
-primary_keyword: flights from kenya to cuba
+primary_keyword: 'flights from kenya to cuba'
 secondary_keywords:
-- available flights from nairobi to mombasa
-- flights from nairobi to barcelona
-- flights from nairobi to chicago
-- flights from nairobi to diani beach
-- flights from nairobi to eldoret kenya
+- 'available flights from nairobi to mombasa'
+- 'flights from nairobi to barcelona'
+- 'flights from nairobi to chicago'
+- 'flights from nairobi to diani beach'
+- 'flights from nairobi to eldoret kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

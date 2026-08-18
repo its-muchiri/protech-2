@@ -1,14 +1,14 @@
 ---
 title: 'All-inclusive Kenya Safari from UK Cost July 2025: Complete Guide'
-description: Kenya safari guide covering all-inclusive kenya safari from uk cost july 2025, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering all-inclusive kenya safari from uk cost july 2025, including what is included, pricing, and booking advice.'
 slug: all-inclusive-kenya-safari-from-uk-cost-july-2025
-primary_keyword: All-inclusive Kenya safari from UK cost July 2025
+primary_keyword: 'All-inclusive Kenya safari from UK cost July 2025'
 secondary_keywords:
-- Book 4 day Sopa Lodges Masai Mara package deal
-- Quote & Book 12 day Asilia Africa Kenya highlights package
-- Book celebrity style Kenya luxury safari package price
-- Best tour companies Kenya reviews
-- Online travel agency Kenya safari
+- 'Book 4 day Sopa Lodges Masai Mara package deal'
+- 'Quote & Book 12 day Asilia Africa Kenya highlights package'
+- 'Book celebrity style Kenya luxury safari package price'
+- 'Best tour companies Kenya reviews'
+- 'Online travel agency Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

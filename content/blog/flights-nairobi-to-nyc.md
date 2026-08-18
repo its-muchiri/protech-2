@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Nyc: Complete Guide'
-description: Everything you need to know about flights nairobi to nyc, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to nyc, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-nyc
-primary_keyword: flights nairobi to nyc
+primary_keyword: 'flights nairobi to nyc'
 secondary_keywords:
-- jambojet flight from nairobi to kisumu
-- ethiopian airlines from doha to nairobi price two way ticket
-- kenya to ethiopia flight time
-- flights nairobi to accra
-- flights nairobi to boston
+- 'jambojet flight from nairobi to kisumu'
+- 'ethiopian airlines from doha to nairobi price two way ticket'
+- 'kenya to ethiopia flight time'
+- 'flights nairobi to accra'
+- 'flights nairobi to boston'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

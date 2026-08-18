@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Family Friendly Kenya Safari Tour: Complete Guide'
-description: Kenya safari guide covering reserve family friendly kenya safari tour, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve family friendly kenya safari tour, including what is included, pricing, and booking advice.'
 slug: reserve-family-friendly-kenya-safari-tour
-primary_keyword: Reserve family friendly Kenya safari tour
+primary_keyword: 'Reserve family friendly Kenya safari tour'
 secondary_keywords:
-- Kenya safari cancellation policy
-- Viaggio safari Kenia (Italian)
-- Swahili phrases for safari
-- Buy Kenya safari package
-- Kenya safari availability check and book
+- 'Kenya safari cancellation policy'
+- 'Viaggio safari Kenia (Italian)'
+- 'Swahili phrases for safari'
+- 'Buy Kenya safari package'
+- 'Kenya safari availability check and book'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

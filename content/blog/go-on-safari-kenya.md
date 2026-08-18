@@ -1,14 +1,14 @@
 ---
 title: 'Go on Safari Kenya: Complete Guide'
-description: Kenya safari guide covering go on safari kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering go on safari kenya, including what is included, pricing, and booking advice.'
 slug: go-on-safari-kenya
-primary_keyword: Go on safari Kenya
+primary_keyword: 'Go on safari Kenya'
 secondary_keywords:
-- Family Kenya safari
-- Private Kenya safari
-- Community based safari Kenya
-- 7 day Kenya safari
-- Average cost Kenya safari
+- 'Family Kenya safari'
+- 'Private Kenya safari'
+- 'Community based safari Kenya'
+- '7 day Kenya safari'
+- 'Average cost Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

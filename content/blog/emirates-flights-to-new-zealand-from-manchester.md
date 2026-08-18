@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights to New Zealand from Manchester: Complete Guide'
-description: Everything you need to know about emirates flights to new zealand from manchester, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights to new zealand from manchester, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-to-new-zealand-from-manchester
-primary_keyword: emirates flights to new zealand from manchester
+primary_keyword: 'emirates flights to new zealand from manchester'
 secondary_keywords:
-- emirates flights from auckland to india
-- emirates flights from brisbane today
-- emirates flights from christchurch
-- emirates flights from dubai to uk today
-- emirates flights from florida
+- 'emirates flights from auckland to india'
+- 'emirates flights from brisbane today'
+- 'emirates flights from christchurch'
+- 'emirates flights from dubai to uk today'
+- 'emirates flights from florida'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

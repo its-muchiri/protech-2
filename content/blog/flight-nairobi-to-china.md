@@ -1,14 +1,14 @@
 ---
 title: 'Flight Nairobi to China: Complete Guide'
-description: Everything you need to know about flight nairobi to china, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight nairobi to china, including routes, airlines, booking tips, and fares.'
 slug: flight-nairobi-to-china
-primary_keyword: flight nairobi to china
+primary_keyword: 'flight nairobi to china'
 secondary_keywords:
-- kenya airways flight from nairobi to london today live
-- kq flight schedule nairobi to kisumu
-- kenya airways flight from nairobi to eldoret
-- kenya airways flight schedule from accra to nairobi price
-- kenya airways flight from entebbe to nairobi
+- 'kenya airways flight from nairobi to london today live'
+- 'kq flight schedule nairobi to kisumu'
+- 'kenya airways flight from nairobi to eldoret'
+- 'kenya airways flight schedule from accra to nairobi price'
+- 'kenya airways flight from entebbe to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

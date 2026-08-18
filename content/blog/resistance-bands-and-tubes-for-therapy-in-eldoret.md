@@ -1,14 +1,14 @@
 ---
 title: 'Resistance Bands and Tubes for Therapy in Eldoret: 2026 Price Guide'
-description: Kenya buying guide to resistance bands and tubes for therapy in eldoret. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to resistance bands and tubes for therapy in eldoret. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: resistance-bands-and-tubes-for-therapy-in-eldoret
-primary_keyword: Resistance bands and tubes for therapy in Eldoret
+primary_keyword: 'Resistance bands and tubes for therapy in Eldoret'
 secondary_keywords:
-- poultry debeaking machine price
-- emergency birthing kit for ambulances
-- remote patient monitoring devices
-- medical supplies Kenya
-- medical supply stores Kenya
+- 'poultry debeaking machine price'
+- 'emergency birthing kit for ambulances'
+- 'remote patient monitoring devices'
+- 'medical supplies Kenya'
+- 'medical supply stores Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

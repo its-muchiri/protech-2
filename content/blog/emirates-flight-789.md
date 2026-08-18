@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 789: Complete Guide'
-description: Everything you need to know about emirates flight 789, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 789, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-789
-primary_keyword: emirates flight 789
+primary_keyword: 'emirates flight 789'
 secondary_keywords:
-- flights from or tambo to nairobi
-- cheap flights from nairobi to poland
-- flights from nairobi to rdu
-- flights from nairobi to singapore
-- flights from nairobi to uganda
+- 'flights from or tambo to nairobi'
+- 'cheap flights from nairobi to poland'
+- 'flights from nairobi to rdu'
+- 'flights from nairobi to singapore'
+- 'flights from nairobi to uganda'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

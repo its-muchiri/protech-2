@@ -1,14 +1,14 @@
 ---
 title: 'Orthopedic Surgery Instruments for Sale in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to orthopedic surgery instruments for sale in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to orthopedic surgery instruments for sale in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: orthopedic-surgery-instruments-for-sale-in-nairobi
-primary_keyword: Orthopedic surgery instruments for sale in Nairobi
+primary_keyword: 'Orthopedic surgery instruments for sale in Nairobi'
 secondary_keywords:
-- best medical suppliers Kenya
-- gauze pads Kenya sterile
-- wound care kits Kenya
-- laboratory reagents Kenya suppliers
-- plasters medical Kenya
+- 'best medical suppliers Kenya'
+- 'gauze pads Kenya sterile'
+- 'wound care kits Kenya'
+- 'laboratory reagents Kenya suppliers'
+- 'plasters medical Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Wildlife Viewing: Complete Guide'
-description: Kenya safari guide covering kenya wildlife viewing, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya wildlife viewing, including what is included, pricing, and booking advice.'
 slug: kenya-wildlife-viewing
-primary_keyword: Kenya wildlife viewing
+primary_keyword: 'Kenya wildlife viewing'
 secondary_keywords:
-- Kenya safari payment terms deposit / balance due date
-- Luggage restrictions fly-in safari Kenya soft bags required
-- Kenya conservation safari tours rhino tracking / lion monitoring
-- Safari packages from Nanyuki Mount Kenya / Ol Pejeta
-- Reserve small group safari tour Kenya USA operator
+- 'Kenya safari payment terms deposit / balance due date'
+- 'Luggage restrictions fly-in safari Kenya soft bags required'
+- 'Kenya conservation safari tours rhino tracking / lion monitoring'
+- 'Safari packages from Nanyuki Mount Kenya / Ol Pejeta'
+- 'Reserve small group safari tour Kenya USA operator'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Riyadh: Complete Guide'
-description: Everything you need to know about flight from nairobi to riyadh, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to riyadh, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-riyadh
-primary_keyword: flight from nairobi to riyadh
+primary_keyword: 'flight from nairobi to riyadh'
 secondary_keywords:
-- flight from nairobi to seoul
-- how much is the flight from nairobi to kisumu
-- flight from nairobi to voi
-- flight to watamu from nairobi
-- flying from zanzibar to nairobi
+- 'flight from nairobi to seoul'
+- 'how much is the flight from nairobi to kisumu'
+- 'flight from nairobi to voi'
+- 'flight to watamu from nairobi'
+- 'flying from zanzibar to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

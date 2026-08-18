@@ -1,14 +1,14 @@
 ---
 title: 'Cheapest Emirates Flights from London: Complete Guide'
-description: Everything you need to know about cheapest emirates flights from london, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheapest emirates flights from london, including routes, airlines, booking tips, and fares.'
 slug: cheapest-emirates-flights-from-london
-primary_keyword: cheapest emirates flights from london
+primary_keyword: 'cheapest emirates flights from london'
 secondary_keywords:
-- kenya airways flight from nairobi to london today live
-- kq flight schedule nairobi to kisumu
-- kenya airways flight from nairobi to eldoret
-- kenya airways flight schedule from accra to nairobi price
-- kenya airways flight from entebbe to nairobi
+- 'kenya airways flight from nairobi to london today live'
+- 'kq flight schedule nairobi to kisumu'
+- 'kenya airways flight from nairobi to eldoret'
+- 'kenya airways flight schedule from accra to nairobi price'
+- 'kenya airways flight from entebbe to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

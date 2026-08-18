@@ -1,14 +1,14 @@
 ---
 title: 'Rhino Safari Kenya: Complete Guide'
-description: Kenya safari guide covering rhino safari kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering rhino safari kenya, including what is included, pricing, and booking advice.'
 slug: rhino-safari-kenya
-primary_keyword: Rhino safari Kenya
+primary_keyword: 'Rhino safari Kenya'
 secondary_keywords:
-- Price for 4 day Samburu Ashnil luxury package deal
-- Buy 7 day Kenya budget adventure group package tour
-- Quote needed 4 day Samburu luxury lodge package
-- Buy 3 get 1 free Kenya safari package deal (hypothetical offer search)
-- Purchase upgrade Kenya safari package private jeep
+- 'Price for 4 day Samburu Ashnil luxury package deal'
+- 'Buy 7 day Kenya budget adventure group package tour'
+- 'Quote needed 4 day Samburu luxury lodge package'
+- 'Buy 3 get 1 free Kenya safari package deal (hypothetical offer search)'
+- 'Purchase upgrade Kenya safari package private jeep'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Who Flies to Nairobi: Complete Guide'
-description: Everything you need to know about who flies to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about who flies to nairobi, including routes, airlines, booking tips, and fares.'
 slug: who-flies-to-nairobi
-primary_keyword: who flies to nairobi
+primary_keyword: 'who flies to nairobi'
 secondary_keywords:
-- 540 flight from nairobi to malindi
-- cheap flights from mombasa to nairobi
-- available flights from mombasa to nairobi
-- does british airways fly to mombasa
-- cheap flights from mombasa to entebbe
+- '540 flight from nairobi to malindi'
+- 'cheap flights from mombasa to nairobi'
+- 'available flights from mombasa to nairobi'
+- 'does british airways fly to mombasa'
+- 'cheap flights from mombasa to entebbe'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

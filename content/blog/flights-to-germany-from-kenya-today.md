@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Germany from Kenya Today: Complete Guide'
-description: Everything you need to know about flights to germany from kenya today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to germany from kenya today, including routes, airlines, booking tips, and fares.'
 slug: flights-to-germany-from-kenya-today
-primary_keyword: flights to germany from kenya today
+primary_keyword: 'flights to germany from kenya today'
 secondary_keywords:
-- are airlines flying to turkey
-- kenya airways phone number
-- turkish airlines lounge nairobi reviews
-- emirates airlines nairobi
-- ethiopian airlines nairobi to bujumbura
+- 'are airlines flying to turkey'
+- 'kenya airways phone number'
+- 'turkish airlines lounge nairobi reviews'
+- 'emirates airlines nairobi'
+- 'ethiopian airlines nairobi to bujumbura'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

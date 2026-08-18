@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Nairobi Office Working Hours: Complete Guide'
-description: Everything you need to know about ethiopian airlines nairobi office working hours, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines nairobi office working hours, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-nairobi-office-working-hours
-primary_keyword: ethiopian airlines nairobi office working hours
+primary_keyword: 'ethiopian airlines nairobi office working hours'
 secondary_keywords:
-- flight to kenya time
-- kq flight from nairobi to london today
-- kq flight from mombasa to nairobi today
-- how much is kq flight from mombasa to nairobi
-- kenya airways flight schedule from nairobi to addis ababa
+- 'flight to kenya time'
+- 'kq flight from nairobi to london today'
+- 'kq flight from mombasa to nairobi today'
+- 'how much is kq flight from mombasa to nairobi'
+- 'kenya airways flight schedule from nairobi to addis ababa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

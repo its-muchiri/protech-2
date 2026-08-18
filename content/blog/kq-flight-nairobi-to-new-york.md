@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight Nairobi to New York: Complete Guide'
-description: Everything you need to know about kq flight nairobi to new york, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight nairobi to new york, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-nairobi-to-new-york
-primary_keyword: kq flight nairobi to new york
+primary_keyword: 'kq flight nairobi to new york'
 secondary_keywords:
-- flight from nairobi to victoria falls
-- what is the cost of flight from nairobi to mombasa
-- flight from nairobi to zimbabwe
-- flight from nairobi to bahamas
-- flight 540 nairobi to diani
+- 'flight from nairobi to victoria falls'
+- 'what is the cost of flight from nairobi to mombasa'
+- 'flight from nairobi to zimbabwe'
+- 'flight from nairobi to bahamas'
+- 'flight 540 nairobi to diani'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

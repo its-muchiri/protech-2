@@ -1,14 +1,14 @@
 ---
 title: 'Skyward Flights from Mombasa to Nairobi Ticket Price: Complete Guide'
-description: Everything you need to know about skyward flights from mombasa to nairobi ticket price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about skyward flights from mombasa to nairobi ticket price, including routes, airlines, booking tips, and fares.'
 slug: skyward-flights-from-mombasa-to-nairobi-ticket-price
-primary_keyword: skyward flights from mombasa to nairobi ticket price
+primary_keyword: 'skyward flights from mombasa to nairobi ticket price'
 secondary_keywords:
-- kq flight 310
-- kq 486 flight status
-- sq605 flight status
-- kq nbo bom
-- emirates flight from nairobi to dubai today schedule
+- 'kq flight 310'
+- 'kq 486 flight status'
+- 'sq605 flight status'
+- 'kq nbo bom'
+- 'emirates flight from nairobi to dubai today schedule'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

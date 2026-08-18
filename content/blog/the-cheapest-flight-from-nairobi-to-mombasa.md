@@ -1,14 +1,14 @@
 ---
 title: 'The Cheapest Flight from Nairobi to Mombasa: Complete Guide'
-description: Everything you need to know about the cheapest flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about the cheapest flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.'
 slug: the-cheapest-flight-from-nairobi-to-mombasa
-primary_keyword: the cheapest flight from nairobi to mombasa
+primary_keyword: 'the cheapest flight from nairobi to mombasa'
 secondary_keywords:
-- flight from nairobi to mogadishu
-- flight from nairobi to oslo
-- flight from nairobi to pakistan
-- flight from nairobi to costa rica
-- flight from nairobi to seoul
+- 'flight from nairobi to mogadishu'
+- 'flight from nairobi to oslo'
+- 'flight from nairobi to pakistan'
+- 'flight from nairobi to costa rica'
+- 'flight from nairobi to seoul'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Cost Estimate 10 Day Budget Kenya Tanzania Camping Safari: Complete Guide'
-description: Kenya safari guide covering cost estimate 10 day budget kenya tanzania camping safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering cost estimate 10 day budget kenya tanzania camping safari, including what is included, pricing, and booking advice.'
 slug: cost-estimate-10-day-budget-kenya-tanzania-camping-safari
-primary_keyword: Cost estimate 10 day budget Kenya Tanzania camping safari
+primary_keyword: 'Cost estimate 10 day budget Kenya Tanzania camping safari'
 secondary_keywords:
-- Price quote 10 day Kenya Tanzania combined tour
-- Rates request 9 day custom Laikipia family adventure
-- Aberdares treetop lodge package sale price
-- Luxury tented camp safari discount booking
-- Lake Nakuru tour package cost 4 days
+- 'Price quote 10 day Kenya Tanzania combined tour'
+- 'Rates request 9 day custom Laikipia family adventure'
+- 'Aberdares treetop lodge package sale price'
+- 'Luxury tented camp safari discount booking'
+- 'Lake Nakuru tour package cost 4 days'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

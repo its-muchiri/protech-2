@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Kisumu How Much: Complete Guide'
-description: Everything you need to know about flight from nairobi to kisumu how much, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to kisumu how much, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-kisumu-how-much
-primary_keyword: flight from nairobi to kisumu how much
+primary_keyword: 'flight from nairobi to kisumu how much'
 secondary_keywords:
-- emirates flight 500
-- emirates flight 764
-- emirates flight 803
-- flight time from nairobi to qatar
-- does qatar airways fly to dubai
+- 'emirates flight 500'
+- 'emirates flight 764'
+- 'emirates flight 803'
+- 'flight time from nairobi to qatar'
+- 'does qatar airways fly to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

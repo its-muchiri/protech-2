@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Ndola: Complete Guide'
-description: Everything you need to know about flights from nairobi to ndola, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to ndola, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-ndola
-primary_keyword: flights from nairobi to ndola
+primary_keyword: 'flights from nairobi to ndola'
 secondary_keywords:
-- ethiopian airlines flight 319
-- flights nairobi to arusha tanzania
-- flights nairobi to baku
-- flights nairobi to casablanca
-- flights nairobi to dubai
+- 'ethiopian airlines flight 319'
+- 'flights nairobi to arusha tanzania'
+- 'flights nairobi to baku'
+- 'flights nairobi to casablanca'
+- 'flights nairobi to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

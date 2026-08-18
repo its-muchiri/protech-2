@@ -1,14 +1,14 @@
 ---
 title: 'Available Flights from Eldoret to Nairobi: Complete Guide'
-description: Everything you need to know about available flights from eldoret to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about available flights from eldoret to nairobi, including routes, airlines, booking tips, and fares.'
 slug: available-flights-from-eldoret-to-nairobi
-primary_keyword: available flights from eldoret to nairobi
+primary_keyword: 'available flights from eldoret to nairobi'
 secondary_keywords:
-- flight to eldoret price
-- flights from eldoret to malindi
-- flights from eldoret to ukunda
-- kq flight attendants
-- kq flight booking price
+- 'flight to eldoret price'
+- 'flights from eldoret to malindi'
+- 'flights from eldoret to ukunda'
+- 'kq flight attendants'
+- 'kq flight booking price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

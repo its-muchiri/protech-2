@@ -1,14 +1,14 @@
 ---
 title: 'Affordable 7 Day Camping Safari Kenya Tanzania Migration Season: Complete Guide'
-description: Kenya safari guide covering affordable 7 day camping safari kenya tanzania migration season, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering affordable 7 day camping safari kenya tanzania migration season, including what is included, pricing, and booking advice.'
 slug: affordable-7-day-camping-safari-kenya-tanzania-migration-season
-primary_keyword: Affordable 7 day camping safari Kenya Tanzania migration season
+primary_keyword: 'Affordable 7 day camping safari Kenya Tanzania migration season'
 secondary_keywords:
-- Purchase short Kenya safari package (3-5 days)
-- Secure all-inclusive luxury safari Kenya purchase
-- Kenya safari cost per person quote
-- 9 day migration special safari rates request
-- Cost quote 4 day Tsavo lodge safari package from Mombasa
+- 'Purchase short Kenya safari package (3-5 days)'
+- 'Secure all-inclusive luxury safari Kenya purchase'
+- 'Kenya safari cost per person quote'
+- '9 day migration special safari rates request'
+- 'Cost quote 4 day Tsavo lodge safari package from Mombasa'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

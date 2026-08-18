@@ -1,14 +1,14 @@
 ---
 title: 'Purchase Kenya Safari Cultural Visit Included Package: Complete Guide'
-description: Kenya safari guide covering purchase kenya safari cultural visit included package, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase kenya safari cultural visit included package, including what is included, pricing, and booking advice.'
 slug: purchase-kenya-safari-cultural-visit-included-package
-primary_keyword: Purchase Kenya safari cultural visit included package
+primary_keyword: 'Purchase Kenya safari cultural visit included package'
 secondary_keywords:
-- All-inclusive Kenya honeymoon package price USA luxury lodges Mara
-- Reserve specialist bird watching tour package Lake Baringo Kenya USA expert guide hire
-- Book Samburu special five photography safari package Europe expert guide availability
-- Book budget overland truck safari Nairobi to Cape Town including Kenya section UK price duration
-- Book Kenya safari focused on western Kenya rainforest Kakamega primate tracking Europe birding tours
+- 'All-inclusive Kenya honeymoon package price USA luxury lodges Mara'
+- 'Reserve specialist bird watching tour package Lake Baringo Kenya USA expert guide hire'
+- 'Book Samburu special five photography safari package Europe expert guide availability'
+- 'Book budget overland truck safari Nairobi to Cape Town including Kenya section UK price duration'
+- 'Book Kenya safari focused on western Kenya rainforest Kakamega primate tracking Europe birding tours'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

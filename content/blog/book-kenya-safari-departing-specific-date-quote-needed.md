@@ -1,14 +1,14 @@
 ---
 title: 'Book Kenya Safari Departing  Quote Needed: Complete Guide'
-description: Kenya safari guide covering book kenya safari departing  quote needed, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book kenya safari departing  quote needed, including what is included, pricing, and booking advice.'
 slug: book-kenya-safari-departing-specific-date-quote-needed
-primary_keyword: Book Kenya safari departing  quote needed
+primary_keyword: 'Book Kenya safari departing  quote needed'
 secondary_keywords:
-- Book Kenya conservation safari experience USA rhino focus
-- Book safari near Nairobi National Park day trip price
-- Masai Mara safari booking from USA dates & availability
-- Kenya travel agents specializing in safaris Europe based
-- Independent travel agent Kenya safari booking Europe
+- 'Book Kenya conservation safari experience USA rhino focus'
+- 'Book safari near Nairobi National Park day trip price'
+- 'Masai Mara safari booking from USA dates & availability'
+- 'Kenya travel agents specializing in safaris Europe based'
+- 'Independent travel agent Kenya safari booking Europe'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

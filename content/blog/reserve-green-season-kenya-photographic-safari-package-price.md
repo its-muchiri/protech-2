@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Green Season Kenya Photographic Safari Package Price: Complete Guide'
-description: Kenya safari guide covering reserve green season kenya photographic safari package price, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve green season kenya photographic safari package price, including what is included, pricing, and booking advice.'
 slug: reserve-green-season-kenya-photographic-safari-package-price
-primary_keyword: Reserve green season Kenya photographic safari package price
+primary_keyword: 'Reserve green season Kenya photographic safari package price'
 secondary_keywords:
-- Kenya safari from Germany
-- Kenya safari in June
-- International Kenya safari operators
-- Wheelchair friendly Kenya safari
-- Yoga safari Kenya
+- 'Kenya safari from Germany'
+- 'Kenya safari in June'
+- 'International Kenya safari operators'
+- 'Wheelchair friendly Kenya safari'
+- 'Yoga safari Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

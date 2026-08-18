@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Chyulu Hills Exclusive Safari Booking: Complete Guide'
-description: Kenya safari guide covering reserve chyulu hills exclusive safari booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve chyulu hills exclusive safari booking, including what is included, pricing, and booking advice.'
 slug: reserve-chyulu-hills-exclusive-safari-booking
-primary_keyword: Reserve Chyulu Hills exclusive safari booking
+primary_keyword: 'Reserve Chyulu Hills exclusive safari booking'
 secondary_keywords:
-- Kenya safari package with international flights book
-- Amboseli package cost
-- Last minute deal Kenya safari buy
-- Quote for solo traveler 10 day Kenya budget package
-- Reserve 14 day luxury fly-camping safari package Kenya
+- 'Kenya safari package with international flights book'
+- 'Amboseli package cost'
+- 'Last minute deal Kenya safari buy'
+- 'Quote for solo traveler 10 day Kenya budget package'
+- 'Reserve 14 day luxury fly-camping safari package Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

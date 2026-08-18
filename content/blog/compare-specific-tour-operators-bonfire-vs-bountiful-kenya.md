@@ -1,14 +1,14 @@
 ---
 title: 'Compare Specific Tour Operators Bonfire Vs Bountiful Kenya: Complete Guide'
-description: Kenya safari guide covering compare specific tour operators bonfire vs bountiful kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering compare specific tour operators bonfire vs bountiful kenya, including what is included, pricing, and booking advice.'
 slug: compare-specific-tour-operators-bonfire-vs-bountiful-kenya
-primary_keyword: Compare specific tour operators Bonfire vs Bountiful Kenya
+primary_keyword: 'Compare specific tour operators Bonfire vs Bountiful Kenya'
 secondary_keywords:
-- Crowds during migration Kenya
-- Safari en Kenia (Spanish)
-- Kenya safari blog
-- Purchase Kenya safari tour
-- Pay for Kenya safari tour
+- 'Crowds during migration Kenya'
+- 'Safari en Kenia (Spanish)'
+- 'Kenya safari blog'
+- 'Purchase Kenya safari tour'
+- 'Pay for Kenya safari tour'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

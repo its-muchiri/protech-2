@@ -1,14 +1,14 @@
 ---
 title: 'Unethical Kenya Safari Operators: Complete Guide'
-description: Kenya safari guide covering unethical kenya safari operators, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering unethical kenya safari operators, including what is included, pricing, and booking advice.'
 slug: unethical-kenya-safari-operators
-primary_keyword: Unethical Kenya safari operators
+primary_keyword: 'Unethical Kenya safari operators'
 secondary_keywords:
-- Overland Kenya safari
-- Kenya safari and beach holiday
-- 2 day Kenya safari
-- Long duration Kenya safari
-- Tipping guide Kenya safari
+- 'Overland Kenya safari'
+- 'Kenya safari and beach holiday'
+- '2 day Kenya safari'
+- 'Long duration Kenya safari'
+- 'Tipping guide Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Transport Ventilator for Ambulance: 2026 Price Guide'
-description: Kenya buying guide to transport ventilator for ambulance. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to transport ventilator for ambulance. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: transport-ventilator-for-ambulance
-primary_keyword: Transport ventilator for ambulance
+primary_keyword: 'Transport ventilator for ambulance'
 secondary_keywords:
-- Patient hoist for sale in Nakuru
-- Fetal doppler price in Nakuru
-- Financing for an MRI machine purchase in Kenya
-- How much is a pregnancy scan machine in Kenya
-- 5-part hematology analyzer for sale in Nairobi
+- 'Patient hoist for sale in Nakuru'
+- 'Fetal doppler price in Nakuru'
+- 'Financing for an MRI machine purchase in Kenya'
+- 'How much is a pregnancy scan machine in Kenya'
+- '5-part hematology analyzer for sale in Nairobi'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emergency Medical Training and Equipment in Kenya: 2026 Price Guide'
-description: Kenya buying guide to emergency medical training and equipment in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to emergency medical training and equipment in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: emergency-medical-training-and-equipment-in-kenya
-primary_keyword: Emergency medical training and equipment in Kenya
+primary_keyword: 'Emergency medical training and equipment in Kenya'
 secondary_keywords:
-- General surgery instrument set price list
-- Pediatric hospital bed with side rails
-- Delivery bed / Obstetric table price in Kenya
-- Portable oxygen concentrator for home use
-- Apex locator and endomotor for root canal
+- 'General surgery instrument set price list'
+- 'Pediatric hospital bed with side rails'
+- 'Delivery bed / Obstetric table price in Kenya'
+- 'Portable oxygen concentrator for home use'
+- 'Apex locator and endomotor for root canal'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways Flight Ticket from Doha to Nairobi: Complete Guide'
-description: Everything you need to know about qatar airways flight ticket from doha to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways flight ticket from doha to nairobi, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-flight-ticket-from-doha-to-nairobi
-primary_keyword: qatar airways flight ticket from doha to nairobi
+primary_keyword: 'qatar airways flight ticket from doha to nairobi'
 secondary_keywords:
-- flights from italy to mombasa
-- flights from mombasa to kigali
-- fly from mombasa to lamu
-- morning flights from mombasa to nairobi
-- flight from kisumu to mombasa price
+- 'flights from italy to mombasa'
+- 'flights from mombasa to kigali'
+- 'fly from mombasa to lamu'
+- 'morning flights from mombasa to nairobi'
+- 'flight from kisumu to mombasa price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

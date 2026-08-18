@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is a Flight from Kenya to Ethiopia: Complete Guide'
-description: Everything you need to know about how much is a flight from kenya to ethiopia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is a flight from kenya to ethiopia, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-a-flight-from-kenya-to-ethiopia
-primary_keyword: how much is a flight from kenya to ethiopia
+primary_keyword: 'how much is a flight from kenya to ethiopia'
 secondary_keywords:
-- flights from nairobi to uganda
-- flights from nairobi to valencia
-- watamu flights from nairobi
-- flights from nairobi to zanzibar today
-- flights to nairobi 2025
+- 'flights from nairobi to uganda'
+- 'flights from nairobi to valencia'
+- 'watamu flights from nairobi'
+- 'flights from nairobi to zanzibar today'
+- 'flights to nairobi 2025'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

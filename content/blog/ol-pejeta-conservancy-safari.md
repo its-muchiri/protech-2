@@ -1,14 +1,14 @@
 ---
 title: 'Ol Pejeta Conservancy Safari: Complete Guide'
-description: Kenya safari guide covering ol pejeta conservancy safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering ol pejeta conservancy safari, including what is included, pricing, and booking advice.'
 slug: ol-pejeta-conservancy-safari
-primary_keyword: Ol Pejeta Conservancy safari
+primary_keyword: 'Ol Pejeta Conservancy safari'
 secondary_keywords:
-- What is the best Kenya safari
-- Travel insurance for Kenya safari
-- Budget camping safari Kenya solo traveler
-- 2 week Kenya Tanzania combined luxury safari
-- Kenya safari cancellation policy
+- 'What is the best Kenya safari'
+- 'Travel insurance for Kenya safari'
+- 'Budget camping safari Kenya solo traveler'
+- '2 week Kenya Tanzania combined luxury safari'
+- 'Kenya safari cancellation policy'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

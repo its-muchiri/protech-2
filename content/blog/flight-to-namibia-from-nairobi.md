@@ -1,14 +1,14 @@
 ---
 title: 'Flight to Namibia from Nairobi: Complete Guide'
-description: Everything you need to know about flight to namibia from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight to namibia from nairobi, including routes, airlines, booking tips, and fares.'
 slug: flight-to-namibia-from-nairobi
-primary_keyword: flight to namibia from nairobi
+primary_keyword: 'flight to namibia from nairobi'
 secondary_keywords:
-- flight from nairobi to guangzhou
-- flight from nairobi to houston tx
-- indigo flight from nairobi to mumbai
-- jambojet flight from nairobi to lamu
-- last flight from nairobi to mombasa
+- 'flight from nairobi to guangzhou'
+- 'flight from nairobi to houston tx'
+- 'indigo flight from nairobi to mumbai'
+- 'jambojet flight from nairobi to lamu'
+- 'last flight from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

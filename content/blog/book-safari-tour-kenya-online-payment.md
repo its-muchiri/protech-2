@@ -1,14 +1,14 @@
 ---
 title: 'Book Safari Tour Kenya Online Payment: Complete Guide'
-description: Kenya safari guide covering book safari tour kenya online payment, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book safari tour kenya online payment, including what is included, pricing, and booking advice.'
 slug: book-safari-tour-kenya-online-payment
-primary_keyword: Book safari tour Kenya online payment
+primary_keyword: 'Book safari tour Kenya online payment'
 secondary_keywords:
-- Tsavo safari including SGR train Madaraka Express package
-- Kenya budget camping safari reviews
-- Senior citizen safari tours Kenya comfortable pace
-- Quiet beaches near Mombasa Tiwi Beach / Galu Beach
-- El Molo village tour Lake Turkana operators
+- 'Tsavo safari including SGR train Madaraka Express package'
+- 'Kenya budget camping safari reviews'
+- 'Senior citizen safari tours Kenya comfortable pace'
+- 'Quiet beaches near Mombasa Tiwi Beach / Galu Beach'
+- 'El Molo village tour Lake Turkana operators'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

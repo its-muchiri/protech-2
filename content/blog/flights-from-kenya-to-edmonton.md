@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Edmonton: Complete Guide'
-description: Everything you need to know about flights from kenya to edmonton, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to edmonton, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-edmonton
-primary_keyword: flights from kenya to edmonton
+primary_keyword: 'flights from kenya to edmonton'
 secondary_keywords:
-- emirates flights from
-- emirates flights to uk from south africa
-- emirates flights to bali from south africa
-- emirates flights from lusaka to china
-- emirates flights from europe to dubai
+- 'emirates flights from'
+- 'emirates flights to uk from south africa'
+- 'emirates flights to bali from south africa'
+- 'emirates flights from lusaka to china'
+- 'emirates flights from europe to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

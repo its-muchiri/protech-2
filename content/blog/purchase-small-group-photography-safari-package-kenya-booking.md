@@ -1,14 +1,14 @@
 ---
 title: 'Purchase Small Group Photography Safari Package Kenya Booking: Complete Guide'
-description: Kenya safari guide covering purchase small group photography safari package kenya booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase small group photography safari package kenya booking, including what is included, pricing, and booking advice.'
 slug: purchase-small-group-photography-safari-package-kenya-booking
-primary_keyword: Purchase small group photography safari package Kenya booking
+primary_keyword: 'Purchase small group photography safari package Kenya booking'
 secondary_keywords:
-- Samburu National Reserve safari packages price Samburu Intrepids
-- Kenya fly-in safari packages Masai Mara / Samburu cost
-- Mombasa North Coast hotels packages (Nyali, Bamburi)
-- Climb Point Lenana Mount Kenya guided tour cost
-- Community based tourism projects Kenya support local initiatives
+- 'Samburu National Reserve safari packages price Samburu Intrepids'
+- 'Kenya fly-in safari packages Masai Mara / Samburu cost'
+- 'Mombasa North Coast hotels packages (Nyali, Bamburi)'
+- 'Climb Point Lenana Mount Kenya guided tour cost'
+- 'Community based tourism projects Kenya support local initiatives'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

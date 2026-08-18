@@ -1,14 +1,14 @@
 ---
 title: 'Digital X-ray Machine Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to digital x-ray machine price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to digital x-ray machine price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: digital-x-ray-machine-price-in-kenya
-primary_keyword: Digital X-ray machine price in Kenya
+primary_keyword: 'Digital X-ray machine price in Kenya'
 secondary_keywords:
-- medical equipment showrooms Kenya
-- wound dressings Kenya price
-- surgical spirit Kenya price
-- microscope slides Kenya price
-- tongue depressors Kenya box
+- 'medical equipment showrooms Kenya'
+- 'wound dressings Kenya price'
+- 'surgical spirit Kenya price'
+- 'microscope slides Kenya price'
+- 'tongue depressors Kenya box'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

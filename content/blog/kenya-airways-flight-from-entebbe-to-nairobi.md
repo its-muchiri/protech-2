@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from Entebbe to Nairobi: Complete Guide'
-description: Everything you need to know about kenya airways flight from entebbe to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from entebbe to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-entebbe-to-nairobi
-primary_keyword: kenya airways flight from entebbe to nairobi
+primary_keyword: 'kenya airways flight from entebbe to nairobi'
 secondary_keywords:
-- flights from nairobi to oklahoma
-- flights from nairobi to port louis
-- flights from nairobi to riyadh
-- flights from nairobi to seychelles
-- safarilink flights from kisumu to nairobi
+- 'flights from nairobi to oklahoma'
+- 'flights from nairobi to port louis'
+- 'flights from nairobi to riyadh'
+- 'flights from nairobi to seychelles'
+- 'safarilink flights from kisumu to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

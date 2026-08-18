@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Wilson to Eldoret: Complete Guide'
-description: Everything you need to know about flights from wilson to eldoret, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from wilson to eldoret, including routes, airlines, booking tips, and fares.'
 slug: flights-from-wilson-to-eldoret
-primary_keyword: flights from wilson to eldoret
+primary_keyword: 'flights from wilson to eldoret'
 secondary_keywords:
-- kenya airways flight schedule nairobi to johannesburg
-- kenya airways flights from nairobi to abuja
-- kenya airways flights from nairobi to cape town today
-- how much is kenya airways flight from nairobi to mombasa
-- kenya airways flights from kigali to nairobi today
+- 'kenya airways flight schedule nairobi to johannesburg'
+- 'kenya airways flights from nairobi to abuja'
+- 'kenya airways flights from nairobi to cape town today'
+- 'how much is kenya airways flight from nairobi to mombasa'
+- 'kenya airways flights from kigali to nairobi today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Are There Direct Flights from Kenya to China: Complete Guide'
-description: Everything you need to know about are there direct flights from kenya to china, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about are there direct flights from kenya to china, including routes, airlines, booking tips, and fares.'
 slug: are-there-direct-flights-from-kenya-to-china
-primary_keyword: are there direct flights from kenya to china
+primary_keyword: 'are there direct flights from kenya to china'
 secondary_keywords:
-- kenya airways flight from nairobi to dubai
-- is kenya airways a good airline
-- kenya airways flight schedule nairobi to harare today
-- kenya airways flight price from nairobi to kisumu
-- kenya airways flight from mauritius to nairobi
+- 'kenya airways flight from nairobi to dubai'
+- 'is kenya airways a good airline'
+- 'kenya airways flight schedule nairobi to harare today'
+- 'kenya airways flight price from nairobi to kisumu'
+- 'kenya airways flight from mauritius to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

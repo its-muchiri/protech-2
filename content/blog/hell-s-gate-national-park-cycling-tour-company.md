@@ -1,14 +1,14 @@
 ---
-title: 'Hell's Gate National Park Cycling Tour Company: Complete Guide'
-description: Kenya safari guide covering hells gate national park cycling tour company, including what is included, pricing, and booking advice.
+title: 'Hell''s Gate National Park Cycling Tour Company: Complete Guide'
+description: 'Kenya safari guide covering hells gate national park cycling tour company, including what is included, pricing, and booking advice.'
 slug: hell-s-gate-national-park-cycling-tour-company
-primary_keyword: Hell's Gate National Park cycling tour company
+primary_keyword: 'Hell''s Gate National Park cycling tour company'
 secondary_keywords:
-- Offer 10 day budget Kenya Tanzania camping safari last minute
-- Meru wildlife trip itinerary book
-- Purchase tour from Kenya safari specialist operator
-- Purchase all-inclusive fly-in safari package Kenya cost
-- Choose best value Kenya budget safari operator package
+- 'Offer 10 day budget Kenya Tanzania camping safari last minute'
+- 'Meru wildlife trip itinerary book'
+- 'Purchase tour from Kenya safari specialist operator'
+- 'Purchase all-inclusive fly-in safari package Kenya cost'
+- 'Choose best value Kenya budget safari operator package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Livingstone Zambia to Nairobi Kenya: Complete Guide'
-description: Everything you need to know about flights from livingstone zambia to nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from livingstone zambia to nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-livingstone-zambia-to-nairobi-kenya
-primary_keyword: flights from livingstone zambia to nairobi kenya
+primary_keyword: 'flights from livingstone zambia to nairobi kenya'
 secondary_keywords:
-- flights nairobi to frankfurt
-- google flights nairobi to entebbe
-- houston to nairobi flights
-- flights nairobi to jfk
-- flights nairobi to kilifi
+- 'flights nairobi to frankfurt'
+- 'google flights nairobi to entebbe'
+- 'houston to nairobi flights'
+- 'flights nairobi to jfk'
+- 'flights nairobi to kilifi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

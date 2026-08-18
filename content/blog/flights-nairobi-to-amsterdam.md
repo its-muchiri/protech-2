@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Amsterdam: Complete Guide'
-description: Everything you need to know about flights nairobi to amsterdam, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to amsterdam, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-amsterdam
-primary_keyword: flights nairobi to amsterdam
+primary_keyword: 'flights nairobi to amsterdam'
 secondary_keywords:
-- flight from kenya to abuja
-- flights from kenya to birmingham
-- flights from kenya to chicago
-- flights from kenya to dublin
-- emirates flights from kenya to dubai
+- 'flight from kenya to abuja'
+- 'flights from kenya to birmingham'
+- 'flights from kenya to chicago'
+- 'flights from kenya to dublin'
+- 'emirates flights from kenya to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

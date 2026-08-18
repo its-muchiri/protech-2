@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights Nairobi to London: Complete Guide'
-description: Everything you need to know about emirates flights nairobi to london, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights nairobi to london, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-nairobi-to-london
-primary_keyword: emirates flights nairobi to london
+primary_keyword: 'emirates flights nairobi to london'
 secondary_keywords:
-- turkish airlines flights to nairobi
-- turkish airlines reference number
-- jkia turkish airlines terminal
-- turkish airlines jobs in kenya
-- turkish airlines 607
+- 'turkish airlines flights to nairobi'
+- 'turkish airlines reference number'
+- 'jkia turkish airlines terminal'
+- 'turkish airlines jobs in kenya'
+- 'turkish airlines 607'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

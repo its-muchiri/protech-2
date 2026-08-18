@@ -1,14 +1,14 @@
 ---
 title: 'Single Supplement Cost Kenya Safari Solo Travelers: Complete Guide'
-description: Kenya safari guide covering single supplement cost kenya safari solo travelers, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering single supplement cost kenya safari solo travelers, including what is included, pricing, and booking advice.'
 slug: single-supplement-cost-kenya-safari-solo-travelers
-primary_keyword: Single supplement cost Kenya safari solo travelers
+primary_keyword: 'Single supplement cost Kenya safari solo travelers'
 secondary_keywords:
-- Reviews of Kenya safari packages to buy
-- Tented camp all-inclusive package Kenya cost
-- Book 10 day package operator
-- Price for all-inclusive honeymoon package Kenya coast safari
-- Book 4 day Ol Pejeta chimpanzee safari package deal
+- 'Reviews of Kenya safari packages to buy'
+- 'Tented camp all-inclusive package Kenya cost'
+- 'Book 10 day package operator'
+- 'Price for all-inclusive honeymoon package Kenya coast safari'
+- 'Book 4 day Ol Pejeta chimpanzee safari package deal'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Gorilla Trekking Tours from Kenya Combined Uganda / Rwanda Trip: Complete Guide'
-description: Kenya safari guide covering gorilla trekking tours from kenya combined uganda / rwanda trip, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering gorilla trekking tours from kenya combined uganda / rwanda trip, including what is included, pricing, and booking advice.'
 slug: gorilla-trekking-tours-from-kenya-combined-uganda-rwanda-trip
-primary_keyword: Gorilla trekking tours from Kenya combined Uganda / Rwanda trip
+primary_keyword: 'Gorilla trekking tours from Kenya combined Uganda / Rwanda trip'
 secondary_keywords:
-- Kenya safari companies
-- Kenya safari specialist
-- Adventure camping Kenya safari
-- Kenya currency safari
-- When is the wildebeest migration in Kenya
+- 'Kenya safari companies'
+- 'Kenya safari specialist'
+- 'Adventure camping Kenya safari'
+- 'Kenya currency safari'
+- 'When is the wildebeest migration in Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

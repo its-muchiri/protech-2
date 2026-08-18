@@ -1,14 +1,14 @@
 ---
 title: 'Meektrails Safaris Kenya Reviews / Price: Complete Guide'
-description: Kenya safari guide covering meektrails safaris kenya reviews / price, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering meektrails safaris kenya reviews / price, including what is included, pricing, and booking advice.'
 slug: meektrails-safaris-kenya-reviews-price
-primary_keyword: Meektrails Safaris Kenya reviews / price
+primary_keyword: 'Meektrails Safaris Kenya reviews / price'
 secondary_keywords:
-- Best Kenya safari tour deals online
-- 10 day Kenya Tanzania tour sale
-- Last minute 12 day luxury tented camp migration safari offer
-- Private Kenya safari tour bundle buy online
-- ATOL protected Kenya safari package booking UK operator
+- 'Best Kenya safari tour deals online'
+- '10 day Kenya Tanzania tour sale'
+- 'Last minute 12 day luxury tented camp migration safari offer'
+- 'Private Kenya safari tour bundle buy online'
+- 'ATOL protected Kenya safari package booking UK operator'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

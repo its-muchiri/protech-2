@@ -1,14 +1,14 @@
 ---
 title: 'How Long Is a Flight from Kenya to Tanzania: Complete Guide'
-description: Everything you need to know about how long is a flight from kenya to tanzania, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how long is a flight from kenya to tanzania, including routes, airlines, booking tips, and fares.'
 slug: how-long-is-a-flight-from-kenya-to-tanzania
-primary_keyword: how long is a flight from kenya to tanzania
+primary_keyword: 'how long is a flight from kenya to tanzania'
 secondary_keywords:
-- flight from nairobi to dubai price
-- air france flight from nairobi to paris
-- booking flight from nairobi to mombasa
-- flight from nairobi to calgary
-- flight from nairobi to dubai time
+- 'flight from nairobi to dubai price'
+- 'air france flight from nairobi to paris'
+- 'booking flight from nairobi to mombasa'
+- 'flight from nairobi to calgary'
+- 'flight from nairobi to dubai time'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flight from England to Nairobi: Complete Guide'
-description: Everything you need to know about flight from england to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from england to nairobi, including routes, airlines, booking tips, and fares.'
 slug: flight-from-england-to-nairobi
-primary_keyword: flight from england to nairobi
+primary_keyword: 'flight from england to nairobi'
 secondary_keywords:
-- ethiopian airlines from nairobi to doha price
-- ethiopian airlines office nairobi location
-- price of flight from nairobi to dubai
-- cheap flights nairobi to london
-- flights nairobi to abuja
+- 'ethiopian airlines from nairobi to doha price'
+- 'ethiopian airlines office nairobi location'
+- 'price of flight from nairobi to dubai'
+- 'cheap flights nairobi to london'
+- 'flights nairobi to abuja'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

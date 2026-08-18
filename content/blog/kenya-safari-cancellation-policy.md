@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Cancellation Policy: Complete Guide'
-description: Kenya safari guide covering kenya safari cancellation policy, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari cancellation policy, including what is included, pricing, and booking advice.'
 slug: kenya-safari-cancellation-policy
-primary_keyword: Kenya safari cancellation policy
+primary_keyword: 'Kenya safari cancellation policy'
 secondary_keywords:
-- Confirmed itinerary cost 7 day Masai Mara booking
-- Reserve accessible safari package Kenya quote needed
-- Buy 6 day Mara Engai Wilderness Lodge package deal
-- Secure 10 day luxury bespoke safari package Kenya operator
-- Buy wellness and yoga safari retreat package Kenya book
+- 'Confirmed itinerary cost 7 day Masai Mara booking'
+- 'Reserve accessible safari package Kenya quote needed'
+- 'Buy 6 day Mara Engai Wilderness Lodge package deal'
+- 'Secure 10 day luxury bespoke safari package Kenya operator'
+- 'Buy wellness and yoga safari retreat package Kenya book'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

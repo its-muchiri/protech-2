@@ -1,14 +1,14 @@
 ---
 title: 'Extended Kenya Safari (14-day+) Cost Europe Itinerary: Complete Guide'
-description: Kenya safari guide covering extended kenya safari (14-day+) cost europe itinerary, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering extended kenya safari (14-day+) cost europe itinerary, including what is included, pricing, and booking advice.'
 slug: extended-kenya-safari-14-day-cost-europe-itinerary
-primary_keyword: Extended Kenya safari (14-day+) cost Europe itinerary
+primary_keyword: 'Extended Kenya safari (14-day+) cost Europe itinerary'
 secondary_keywords:
-- Final check price 14 day Kenya discovery package tour
-- Quote for 10 day Cheli & Peacock premier safari package
-- Reserve 11 day Wilderness Safaris Bisate link Kenya package (linking concepts)
-- Secure accessible luxury safari package Kenya operator
-- Local tour companies Thika Kenya
+- 'Final check price 14 day Kenya discovery package tour'
+- 'Quote for 10 day Cheli & Peacock premier safari package'
+- 'Reserve 11 day Wilderness Safaris Bisate link Kenya package (linking concepts)'
+- 'Secure accessible luxury safari package Kenya operator'
+- 'Local tour companies Thika Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

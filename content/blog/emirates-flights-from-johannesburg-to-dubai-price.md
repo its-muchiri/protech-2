@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Johannesburg to Dubai Price: Complete Guide'
-description: Everything you need to know about emirates flights from johannesburg to dubai price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from johannesburg to dubai price, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-johannesburg-to-dubai-price
-primary_keyword: emirates flights from johannesburg to dubai price
+primary_keyword: 'emirates flights from johannesburg to dubai price'
 secondary_keywords:
-- flights from kisumu to ukunda
-- flights from wilson airport to eldoret
-- flights from eldoret to lodwar
-- flight from eldoret to lodwar price
-- kq flights schedule to eldoret from nairobi
+- 'flights from kisumu to ukunda'
+- 'flights from wilson airport to eldoret'
+- 'flights from eldoret to lodwar'
+- 'flight from eldoret to lodwar price'
+- 'kq flights schedule to eldoret from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

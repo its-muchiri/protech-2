@@ -1,14 +1,14 @@
 ---
 title: 'Patient Monitor for Operating Theatre Cost: 2026 Price Guide'
-description: Kenya buying guide to patient monitor for operating theatre cost. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to patient monitor for operating theatre cost. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: patient-monitor-for-operating-theatre-cost
-primary_keyword: Patient monitor for operating theatre cost
+primary_keyword: 'Patient monitor for operating theatre cost'
 secondary_keywords:
-- specimen containers Kenya
-- cotton applicators Kenya
-- alcohol wipes Kenya bulk
-- diagnostic kits Kenya price
-- medical adhesive removers Kenya
+- 'specimen containers Kenya'
+- 'cotton applicators Kenya'
+- 'alcohol wipes Kenya bulk'
+- 'diagnostic kits Kenya price'
+- 'medical adhesive removers Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

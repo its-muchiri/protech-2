@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Perth: Complete Guide'
-description: Everything you need to know about flight from nairobi to perth, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to perth, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-perth
-primary_keyword: flight from nairobi to perth
+primary_keyword: 'flight from nairobi to perth'
 secondary_keywords:
-- flight from kenya to washington
-- flights from nairobi to yaounde
-- flight from kenya to zimbabwe price
-- flights to kenya 2024
-- how long is a flight from kenya to tanzania
+- 'flight from kenya to washington'
+- 'flights from nairobi to yaounde'
+- 'flight from kenya to zimbabwe price'
+- 'flights to kenya 2024'
+- 'how long is a flight from kenya to tanzania'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

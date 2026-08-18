@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight Online Booking: Complete Guide'
-description: Everything you need to know about kq flight online booking, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight online booking, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-online-booking
-primary_keyword: kq flight online booking
+primary_keyword: 'kq flight online booking'
 secondary_keywords:
-- how many hours flight from nairobi to qatar
-- qatar airways nairobi office riverside
-- 1 qatar to ksh
-- flight from kc to chicago
-- kenya airways flights from harare to london
+- 'how many hours flight from nairobi to qatar'
+- 'qatar airways nairobi office riverside'
+- '1 qatar to ksh'
+- 'flight from kc to chicago'
+- 'kenya airways flights from harare to london'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

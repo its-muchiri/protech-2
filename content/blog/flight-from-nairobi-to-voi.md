@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Voi: Complete Guide'
-description: Everything you need to know about flight from nairobi to voi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to voi, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-voi
-primary_keyword: flight from nairobi to voi
+primary_keyword: 'flight from nairobi to voi'
 secondary_keywords:
-- how many airlines are in kenya
-- flight kenya london
-- flights to kenya in november
-- qatar airways in kenya
-- flights kenya to johannesburg
+- 'how many airlines are in kenya'
+- 'flight kenya london'
+- 'flights to kenya in november'
+- 'qatar airways in kenya'
+- 'flights kenya to johannesburg'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

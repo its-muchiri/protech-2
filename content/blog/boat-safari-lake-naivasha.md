@@ -1,14 +1,14 @@
 ---
 title: 'Boat Safari Lake Naivasha: Complete Guide'
-description: Kenya safari guide covering boat safari lake naivasha, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering boat safari lake naivasha, including what is included, pricing, and booking advice.'
 slug: boat-safari-lake-naivasha
-primary_keyword: Boat safari Lake Naivasha
+primary_keyword: 'Boat safari Lake Naivasha'
 secondary_keywords:
-- Nairobi day trip safari
-- Best time for Kenya safari
-- Kenya safari in December
-- Kenya Association of Tour Operators (KATO) members
-- Gluten-free safari Kenya
+- 'Nairobi day trip safari'
+- 'Best time for Kenya safari'
+- 'Kenya safari in December'
+- 'Kenya Association of Tour Operators (KATO) members'
+- 'Gluten-free safari Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

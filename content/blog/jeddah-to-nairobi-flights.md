@@ -1,14 +1,14 @@
 ---
 title: 'Jeddah to Nairobi Flights: Complete Guide'
-description: Everything you need to know about jeddah to nairobi flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about jeddah to nairobi flights, including routes, airlines, booking tips, and fares.'
 slug: jeddah-to-nairobi-flights
-primary_keyword: jeddah to nairobi flights
+primary_keyword: 'jeddah to nairobi flights'
 secondary_keywords:
-- emirates flight 803
-- flight time from nairobi to qatar
-- does qatar airways fly to dubai
-- flight from nairobi to qatar
-- qatar airways nairobi office
+- 'emirates flight 803'
+- 'flight time from nairobi to qatar'
+- 'does qatar airways fly to dubai'
+- 'flight from nairobi to qatar'
+- 'qatar airways nairobi office'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

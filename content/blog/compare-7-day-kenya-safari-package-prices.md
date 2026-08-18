@@ -1,14 +1,14 @@
 ---
 title: 'Compare 7 Day Kenya Safari Package Prices: Complete Guide'
-description: Kenya safari guide covering compare 7 day kenya safari package prices, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering compare 7 day kenya safari package prices, including what is included, pricing, and booking advice.'
 slug: compare-7-day-kenya-safari-package-prices
-primary_keyword: Compare 7 day Kenya safari package prices
+primary_keyword: 'Compare 7 day Kenya safari package prices'
 secondary_keywords:
-- 2 week Kenya Tanzania combined luxury safari
-- Kenya safari cancellation policy
-- Viaggio safari Kenia (Italian)
-- Swahili phrases for safari
-- Buy Kenya safari package
+- '2 week Kenya Tanzania combined luxury safari'
+- 'Kenya safari cancellation policy'
+- 'Viaggio safari Kenia (Italian)'
+- 'Swahili phrases for safari'
+- 'Buy Kenya safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

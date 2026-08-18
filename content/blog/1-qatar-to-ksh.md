@@ -1,14 +1,14 @@
 ---
 title: '1 Qatar to Ksh: Complete Guide'
-description: Everything you need to know about 1 qatar to ksh, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about 1 qatar to ksh, including routes, airlines, booking tips, and fares.'
 slug: 1-qatar-to-ksh
-primary_keyword: 1 qatar to ksh
+primary_keyword: '1 qatar to ksh'
 secondary_keywords:
-- flights from nairobi to yyz
-- cheap flights from nairobi to lagos
-- flights from nairobi to kenya
-- flights from mombasa to kisumu
-- are there flights from mombasa to diani
+- 'flights from nairobi to yyz'
+- 'cheap flights from nairobi to lagos'
+- 'flights from nairobi to kenya'
+- 'flights from mombasa to kisumu'
+- 'are there flights from mombasa to diani'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

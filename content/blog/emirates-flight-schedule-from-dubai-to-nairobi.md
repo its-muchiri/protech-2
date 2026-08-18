@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight Schedule from Dubai to Nairobi: Complete Guide'
-description: Everything you need to know about emirates flight schedule from dubai to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight schedule from dubai to nairobi, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-schedule-from-dubai-to-nairobi
-primary_keyword: emirates flight schedule from dubai to nairobi
+primary_keyword: 'emirates flight schedule from dubai to nairobi'
 secondary_keywords:
-- qatar airways nairobi email address
-- qatar airways nairobi lounge
-- qatar airways recruitment nairobi 2024
-- kq flights from nairobi to kisumu
-- kq flight from nbo to dxb
+- 'qatar airways nairobi email address'
+- 'qatar airways nairobi lounge'
+- 'qatar airways recruitment nairobi 2024'
+- 'kq flights from nairobi to kisumu'
+- 'kq flight from nbo to dxb'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

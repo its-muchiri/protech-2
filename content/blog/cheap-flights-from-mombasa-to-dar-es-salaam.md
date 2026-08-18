@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Mombasa to Dar Es Salaam: Complete Guide'
-description: Everything you need to know about cheap flights from mombasa to dar es salaam, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from mombasa to dar es salaam, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-mombasa-to-dar-es-salaam
-primary_keyword: cheap flights from mombasa to dar es salaam
+primary_keyword: 'cheap flights from mombasa to dar es salaam'
 secondary_keywords:
-- does emirates fly to kenya
-- emirates flight from dubai to nairobi tomorrow
-- emirates nairobi dubai schedule
-- emirates jkia
-- emirates dubai nairobi schedule
+- 'does emirates fly to kenya'
+- 'emirates flight from dubai to nairobi tomorrow'
+- 'emirates nairobi dubai schedule'
+- 'emirates jkia'
+- 'emirates dubai nairobi schedule'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Secure Shimba Hills Coastal Safari Package: Complete Guide'
-description: Kenya safari guide covering secure shimba hills coastal safari package, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering secure shimba hills coastal safari package, including what is included, pricing, and booking advice.'
 slug: secure-shimba-hills-coastal-safari-package
-primary_keyword: Secure Shimba Hills coastal safari package
+primary_keyword: 'Secure Shimba Hills coastal safari package'
 secondary_keywords:
-- Safari company specializing in big cat sightings Kenya
-- Secure all-inclusive Kenya safari package
-- Reserve Lewa Wildlife Conservancy package booking
-- Book 14 day grand Kenya safari package
-- Purchase overland truck safari Kenya booking
+- 'Safari company specializing in big cat sightings Kenya'
+- 'Secure all-inclusive Kenya safari package'
+- 'Reserve Lewa Wildlife Conservancy package booking'
+- 'Book 14 day grand Kenya safari package'
+- 'Purchase overland truck safari Kenya booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

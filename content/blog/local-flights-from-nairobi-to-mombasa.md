@@ -1,14 +1,14 @@
 ---
 title: 'Local Flights from Nairobi to Mombasa: Complete Guide'
-description: Everything you need to know about local flights from nairobi to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about local flights from nairobi to mombasa, including routes, airlines, booking tips, and fares.'
 slug: local-flights-from-nairobi-to-mombasa
-primary_keyword: local flights from nairobi to mombasa
+primary_keyword: 'local flights from nairobi to mombasa'
 secondary_keywords:
-- flights from windhoek to kenya
-- flights from nbo to yyz
-- flights from nairobi to zimbabwe
-- kenya airways flights to south africa
-- china flights from kenya
+- 'flights from windhoek to kenya'
+- 'flights from nbo to yyz'
+- 'flights from nairobi to zimbabwe'
+- 'kenya airways flights to south africa'
+- 'china flights from kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

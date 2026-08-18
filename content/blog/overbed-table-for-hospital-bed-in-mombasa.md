@@ -1,14 +1,14 @@
 ---
 title: 'Overbed Table for Hospital Bed in Mombasa: 2026 Price Guide'
-description: Kenya buying guide to overbed table for hospital bed in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to overbed table for hospital bed in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: overbed-table-for-hospital-bed-in-mombasa
-primary_keyword: Overbed table for hospital bed in Mombasa
+primary_keyword: 'Overbed table for hospital bed in Mombasa'
 secondary_keywords:
-- pulse oximeters Kenya price
-- vital signs monitor Kenya
-- laboratory microscopes Kenya price
-- operating tables Kenya price
-- laparoscopy equipment Kenya
+- 'pulse oximeters Kenya price'
+- 'vital signs monitor Kenya'
+- 'laboratory microscopes Kenya price'
+- 'operating tables Kenya price'
+- 'laparoscopy equipment Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

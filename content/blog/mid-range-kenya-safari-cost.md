@@ -1,14 +1,14 @@
 ---
 title: 'Mid-range Kenya Safari Cost: Complete Guide'
-description: Kenya safari guide covering mid-range kenya safari cost, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering mid-range kenya safari cost, including what is included, pricing, and booking advice.'
 slug: mid-range-kenya-safari-cost
-primary_keyword: Mid-range Kenya safari cost
+primary_keyword: 'Mid-range Kenya safari cost'
 secondary_keywords:
-- Reserve 9 day migration special safari booking
-- Buy lodge safari package Kenya
-- Cost of Kenya safari tour
-- 3 day Kenya safari package price quote
-- Fly-in Kenya safari package price quote
+- 'Reserve 9 day migration special safari booking'
+- 'Buy lodge safari package Kenya'
+- 'Cost of Kenya safari tour'
+- '3 day Kenya safari package price quote'
+- 'Fly-in Kenya safari package price quote'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

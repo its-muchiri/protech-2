@@ -1,14 +1,14 @@
 ---
 title: 'Kq Mayfly Flight Schedule: Complete Guide'
-description: Everything you need to know about kq mayfly flight schedule, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq mayfly flight schedule, including routes, airlines, booking tips, and fares.'
 slug: kq-mayfly-flight-schedule
-primary_keyword: kq mayfly flight schedule
+primary_keyword: 'kq mayfly flight schedule'
 secondary_keywords:
-- how much is flight from nairobi to usa
-- flights from nairobi to amman jordan
-- flights from mombasa airport
-- flights to mombasa from birmingham
-- flight from mombasa to canada
+- 'how much is flight from nairobi to usa'
+- 'flights from nairobi to amman jordan'
+- 'flights from mombasa airport'
+- 'flights to mombasa from birmingham'
+- 'flight from mombasa to canada'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Entebbe: Complete Guide'
-description: Everything you need to know about flights from kenya to entebbe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to entebbe, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-entebbe
-primary_keyword: flights from kenya to entebbe
+primary_keyword: 'flights from kenya to entebbe'
 secondary_keywords:
-- flights from omaha to kenya
-- flights to portugal from kenya
-- flights from kenya to russia
-- flights from kenya to singapore
-- flights to dubai from kenya
+- 'flights from omaha to kenya'
+- 'flights to portugal from kenya'
+- 'flights from kenya to russia'
+- 'flights from kenya to singapore'
+- 'flights to dubai from kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

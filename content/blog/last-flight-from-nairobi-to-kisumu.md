@@ -1,14 +1,14 @@
 ---
 title: 'Last Flight from Nairobi to Kisumu: Complete Guide'
-description: Everything you need to know about last flight from nairobi to kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about last flight from nairobi to kisumu, including routes, airlines, booking tips, and fares.'
 slug: last-flight-from-nairobi-to-kisumu
-primary_keyword: last flight from nairobi to kisumu
+primary_keyword: 'last flight from nairobi to kisumu'
 secondary_keywords:
-- nairobi to india flights price air india
-- flights nairobi to kampala
-- flights nairobi to lodwar
-- flights nairobi to masai mara
-- nairobi to nanyuki flights
+- 'nairobi to india flights price air india'
+- 'flights nairobi to kampala'
+- 'flights nairobi to lodwar'
+- 'flights nairobi to masai mara'
+- 'nairobi to nanyuki flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

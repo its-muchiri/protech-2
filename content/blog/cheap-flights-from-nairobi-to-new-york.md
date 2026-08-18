@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Nairobi to New York: Complete Guide'
-description: Everything you need to know about cheap flights from nairobi to new york, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from nairobi to new york, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-nairobi-to-new-york
-primary_keyword: cheap flights from nairobi to new york
+primary_keyword: 'cheap flights from nairobi to new york'
 secondary_keywords:
-- emirates flight from nairobi to dubai price
-- emirates flight from kenya to usa
-- emirates airways nairobi
-- emirates nairobi flight cancellation
-- emirates nairobi office
+- 'emirates flight from nairobi to dubai price'
+- 'emirates flight from kenya to usa'
+- 'emirates airways nairobi'
+- 'emirates nairobi flight cancellation'
+- 'emirates nairobi office'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

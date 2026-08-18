@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Nairobi to Addis Ababa Schedule: Complete Guide'
-description: Everything you need to know about ethiopian airlines nairobi to addis ababa schedule, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines nairobi to addis ababa schedule, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-nairobi-to-addis-ababa-schedule
-primary_keyword: ethiopian airlines nairobi to addis ababa schedule
+primary_keyword: 'ethiopian airlines nairobi to addis ababa schedule'
 secondary_keywords:
-- emirates flights from london to dubai today
-- emirates flights from newcastle to dubai
-- flights from ottawa to dubai emirates
-- emirates flights from cape town to dubai prices
-- fly emirates contact number
+- 'emirates flights from london to dubai today'
+- 'emirates flights from newcastle to dubai'
+- 'flights from ottawa to dubai emirates'
+- 'emirates flights from cape town to dubai prices'
+- 'fly emirates contact number'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

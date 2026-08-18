@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to India: Complete Guide'
-description: Everything you need to know about flights nairobi to india, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to india, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-india
-primary_keyword: flights nairobi to india
+primary_keyword: 'flights nairobi to india'
 secondary_keywords:
-- flights from kenya to panama
-- flight from kenya to qatar hours
-- flights from kenya to costa rica
-- seychelles flights from kenya
-- flight from kenya to usa how many hours
+- 'flights from kenya to panama'
+- 'flight from kenya to qatar hours'
+- 'flights from kenya to costa rica'
+- 'seychelles flights from kenya'
+- 'flight from kenya to usa how many hours'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

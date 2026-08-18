@@ -1,14 +1,14 @@
 ---
 title: 'Luxury Tented Camp Safari Kenya Price Comparison: Complete Guide'
-description: Kenya safari guide covering luxury tented camp safari kenya price comparison, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering luxury tented camp safari kenya price comparison, including what is included, pricing, and booking advice.'
 slug: luxury-tented-camp-safari-kenya-price-comparison
-primary_keyword: Luxury tented camp safari Kenya price comparison
+primary_keyword: 'Luxury tented camp safari Kenya price comparison'
 secondary_keywords:
-- KATO certified tour operators benefits code of conduct
-- Horse riding safari Kenya Chyulu Hills / Laikipia ranches
-- Cross border safari Kenya and Tanzania Serengeti / Ngorongoro combined tour operators
-- Purchase fly-in safari Kenya Masai Mara online USA
-- Affordable Kenya safari packages USA budget friendly
+- 'KATO certified tour operators benefits code of conduct'
+- 'Horse riding safari Kenya Chyulu Hills / Laikipia ranches'
+- 'Cross border safari Kenya and Tanzania Serengeti / Ngorongoro combined tour operators'
+- 'Purchase fly-in safari Kenya Masai Mara online USA'
+- 'Affordable Kenya safari packages USA budget friendly'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

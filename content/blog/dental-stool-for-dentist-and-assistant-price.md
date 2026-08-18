@@ -1,14 +1,14 @@
 ---
 title: 'Dental Stool for Dentist and Assistant Price: 2026 Price Guide'
-description: Kenya buying guide to dental stool for dentist and assistant price. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to dental stool for dentist and assistant price. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: dental-stool-for-dentist-and-assistant-price
-primary_keyword: Dental stool for dentist and assistant price
+primary_keyword: 'Dental stool for dentist and assistant price'
 secondary_keywords:
-- Hospital information system (HIS) providers
-- water quality testing kits suppliers
-- biomedical engineer salary in Kenya
-- horse stocks and examination equipment
-- chest seal for penetrating trauma
+- 'Hospital information system (HIS) providers'
+- 'water quality testing kits suppliers'
+- 'biomedical engineer salary in Kenya'
+- 'horse stocks and examination equipment'
+- 'chest seal for penetrating trauma'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

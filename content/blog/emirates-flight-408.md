@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 408: Complete Guide'
-description: Everything you need to know about emirates flight 408, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 408, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-408
-primary_keyword: emirates flight 408
+primary_keyword: 'emirates flight 408'
 secondary_keywords:
-- kq flight from guangzhou to nairobi
-- kq flights to india
-- kq flights nairobi to juba price
-- kq flights from london to nairobi
-- kq flights nairobi to entebbe
+- 'kq flight from guangzhou to nairobi'
+- 'kq flights to india'
+- 'kq flights nairobi to juba price'
+- 'kq flights from london to nairobi'
+- 'kq flights nairobi to entebbe'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

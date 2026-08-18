@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Malindi: Complete Guide'
-description: Everything you need to know about kq flights to malindi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to malindi, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-malindi
-primary_keyword: kq flights to malindi
+primary_keyword: 'kq flights to malindi'
 secondary_keywords:
-- does emirates fly to kinshasa
-- flights from kisumu to jkia
-- flights to kisumu from london
-- safarilink flights from kisumu to nairobi price
-- cost of flight from kisumu to nairobi
+- 'does emirates fly to kinshasa'
+- 'flights from kisumu to jkia'
+- 'flights to kisumu from london'
+- 'safarilink flights from kisumu to nairobi price'
+- 'cost of flight from kisumu to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

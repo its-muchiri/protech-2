@@ -1,14 +1,14 @@
 ---
 title: 'How Many Hours from Nairobi to Usa Flight: Complete Guide'
-description: Everything you need to know about how many hours from nairobi to usa flight, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how many hours from nairobi to usa flight, including routes, airlines, booking tips, and fares.'
 slug: how-many-hours-from-nairobi-to-usa-flight
-primary_keyword: how many hours from nairobi to usa flight
+primary_keyword: 'how many hours from nairobi to usa flight'
 secondary_keywords:
-- flights from florida to kenya
-- flights from glasgow to kenya
-- flights to kenya from houston
-- cheap flights from kenya to ireland
-- flights from johannesburg to nairobi kenya
+- 'flights from florida to kenya'
+- 'flights from glasgow to kenya'
+- 'flights to kenya from houston'
+- 'cheap flights from kenya to ireland'
+- 'flights from johannesburg to nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

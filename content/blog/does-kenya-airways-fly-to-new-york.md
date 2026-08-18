@@ -1,14 +1,14 @@
 ---
 title: 'Does Kenya Airways Fly to New York: Complete Guide'
-description: Everything you need to know about does kenya airways fly to new york, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about does kenya airways fly to new york, including routes, airlines, booking tips, and fares.'
 slug: does-kenya-airways-fly-to-new-york
-primary_keyword: does kenya airways fly to new york
+primary_keyword: 'does kenya airways fly to new york'
 secondary_keywords:
-- qatar flight from doha to nairobi
-- cost of flight from nairobi to qatar
-- kq flight from addis to nairobi
-- kq flights from dubai
-- kq flight from nairobi to heathrow
+- 'qatar flight from doha to nairobi'
+- 'cost of flight from nairobi to qatar'
+- 'kq flight from addis to nairobi'
+- 'kq flights from dubai'
+- 'kq flight from nairobi to heathrow'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

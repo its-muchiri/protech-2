@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Dubai to Birmingham Today: Complete Guide'
-description: Everything you need to know about emirates flights from dubai to birmingham today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from dubai to birmingham today, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-dubai-to-birmingham-today
-primary_keyword: emirates flights from dubai to birmingham today
+primary_keyword: 'emirates flights from dubai to birmingham today'
 secondary_keywords:
-- emirates flight 15
-- emirates flights to dubai from nairobi
-- emirates flight 407
-- emirates flight 515
-- emirates flight 777 300er seating
+- 'emirates flight 15'
+- 'emirates flights to dubai from nairobi'
+- 'emirates flight 407'
+- 'emirates flight 515'
+- 'emirates flight 777 300er seating'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

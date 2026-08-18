@@ -1,14 +1,14 @@
 ---
 title: 'ELISA Reader and Washer Cost in Mombasa: 2026 Price Guide'
-description: Kenya buying guide to elisa reader and washer cost in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to elisa reader and washer cost in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: elisa-reader-and-washer-cost-in-mombasa
-primary_keyword: ELISA reader and washer cost in Mombasa
+primary_keyword: 'ELISA reader and washer cost in Mombasa'
 secondary_keywords:
-- medical cleaning supplies Kenya
-- hospital bed rental Nairobi
-- medical supply chain Kenya challenges
-- urban hospital medical equipment Kenya
-- wound care management Kenya
+- 'medical cleaning supplies Kenya'
+- 'hospital bed rental Nairobi'
+- 'medical supply chain Kenya challenges'
+- 'urban hospital medical equipment Kenya'
+- 'wound care management Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

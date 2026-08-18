@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Jfk Today: Complete Guide'
-description: Everything you need to know about flights from kenya to jfk today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to jfk today, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-jfk-today
-primary_keyword: flights from kenya to jfk today
+primary_keyword: 'flights from kenya to jfk today'
 secondary_keywords:
-- kenya airways flights from nairobi to addis ababa prices today
-- kenya airways customer care
-- is kenya airways reliable
-- kenya airways flight from nairobi to london today ticket price
-- kenya airways flight schedule to mauritius from nairobi
+- 'kenya airways flights from nairobi to addis ababa prices today'
+- 'kenya airways customer care'
+- 'is kenya airways reliable'
+- 'kenya airways flight from nairobi to london today ticket price'
+- 'kenya airways flight schedule to mauritius from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

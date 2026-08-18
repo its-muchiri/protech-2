@@ -1,14 +1,14 @@
 ---
 title: 'Ol Pejeta Conservancy Day Trip from Nairobi Cost / Travel Time: Complete Guide'
-description: Kenya safari guide covering ol pejeta conservancy day trip from nairobi cost / travel time, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering ol pejeta conservancy day trip from nairobi cost / travel time, including what is included, pricing, and booking advice.'
 slug: ol-pejeta-conservancy-day-trip-from-nairobi-cost-travel-time
-primary_keyword: Ol Pejeta Conservancy day trip from Nairobi cost / travel time
+primary_keyword: 'Ol Pejeta Conservancy day trip from Nairobi cost / travel time'
 secondary_keywords:
-- Compare Kenya tour operator packages UK cost & inclusions
-- Last minute Kenya safari deals UK departing next week
-- Check Kenya safari tour availability calendar Europe
-- Safe Kenya safari tours booking certified guides USA
-- Availability check Kenya fly-in safari Governors Camp Masai Mara UK July 2025
+- 'Compare Kenya tour operator packages UK cost & inclusions'
+- 'Last minute Kenya safari deals UK departing next week'
+- 'Check Kenya safari tour availability calendar Europe'
+- 'Safe Kenya safari tours booking certified guides USA'
+- 'Availability check Kenya fly-in safari Governors Camp Masai Mara UK July 2025'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

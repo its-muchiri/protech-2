@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Harare to London: Complete Guide'
-description: Everything you need to know about emirates flights from harare to london, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from harare to london, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-harare-to-london
-primary_keyword: emirates flights from harare to london
+primary_keyword: 'emirates flights from harare to london'
 secondary_keywords:
-- how many flights does kq have
-- kq flights to johannesburg today timetable
-- kq flights to lamu
-- kq flights to malindi from nairobi
-- kq flights to mombasa prices
+- 'how many flights does kq have'
+- 'kq flights to johannesburg today timetable'
+- 'kq flights to lamu'
+- 'kq flights to malindi from nairobi'
+- 'kq flights to mombasa prices'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

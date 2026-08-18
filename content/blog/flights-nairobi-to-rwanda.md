@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Rwanda: Complete Guide'
-description: Everything you need to know about flights nairobi to rwanda, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to rwanda, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-rwanda
-primary_keyword: flights nairobi to rwanda
+primary_keyword: 'flights nairobi to rwanda'
 secondary_keywords:
-- emirates flights from houston
-- emirates flights from iran
-- emirates flights from johannesburg to london
-- emirates flights from kochi
-- emirates flights from london to dubai today
+- 'emirates flights from houston'
+- 'emirates flights from iran'
+- 'emirates flights from johannesburg to london'
+- 'emirates flights from kochi'
+- 'emirates flights from london to dubai today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

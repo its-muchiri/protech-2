@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from Nairobi to Cape Town: Complete Guide'
-description: Everything you need to know about kq flights from nairobi to cape town, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from nairobi to cape town, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-nairobi-to-cape-town
-primary_keyword: kq flights from nairobi to cape town
+primary_keyword: 'kq flights from nairobi to cape town'
 secondary_keywords:
-- addis to nairobi flights
-- nairobi to diani beach flights
-- cheap flights nairobi to cape town
-- flights nairobi to europe
-- flights to nairobi from heathrow
+- 'addis to nairobi flights'
+- 'nairobi to diani beach flights'
+- 'cheap flights nairobi to cape town'
+- 'flights nairobi to europe'
+- 'flights to nairobi from heathrow'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

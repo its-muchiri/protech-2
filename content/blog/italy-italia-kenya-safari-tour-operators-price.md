@@ -1,14 +1,14 @@
 ---
 title: 'Italy (Italia) Kenya Safari Tour Operators Price: Complete Guide'
-description: Kenya safari guide covering italy (italia) kenya safari tour operators price, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering italy (italia) kenya safari tour operators price, including what is included, pricing, and booking advice.'
 slug: italy-italia-kenya-safari-tour-operators-price
-primary_keyword: Italy (Italia) Kenya safari tour operators price
+primary_keyword: 'Italy (Italia) Kenya safari tour operators price'
 secondary_keywords:
-- Kenya Zanzibar beach safari package deal
-- Book Northern circuit Kenya safari package
-- Masai Mara tour cost
-- Finalize Kenya safari itinerary booking
-- Guided photo safari package Kenya book
+- 'Kenya Zanzibar beach safari package deal'
+- 'Book Northern circuit Kenya safari package'
+- 'Masai Mara tour cost'
+- 'Finalize Kenya safari itinerary booking'
+- 'Guided photo safari package Kenya book'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

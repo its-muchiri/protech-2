@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Mumbai: Complete Guide'
-description: Everything you need to know about flights nairobi to mumbai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to mumbai, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-mumbai
-primary_keyword: flights nairobi to mumbai
+primary_keyword: 'flights nairobi to mumbai'
 secondary_keywords:
-- kq flight confirmation
-- kq flight departures
-- kq flights schedule to eldoret
-- kq history
-- kq flights to johannesburg today
+- 'kq flight confirmation'
+- 'kq flight departures'
+- 'kq flights schedule to eldoret'
+- 'kq history'
+- 'kq flights to johannesburg today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

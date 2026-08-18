@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Best in Africa: Complete Guide'
-description: Everything you need to know about ethiopian airlines best in africa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines best in africa, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-best-in-africa
-primary_keyword: ethiopian airlines best in africa
+primary_keyword: 'ethiopian airlines best in africa'
 secondary_keywords:
-- flights nairobi to nanyuki
-- cheap tickets nairobi to oslo
-- perth to nairobi flights
-- does etihad fly to kenya
-- flights nairobi to seattle
+- 'flights nairobi to nanyuki'
+- 'cheap tickets nairobi to oslo'
+- 'perth to nairobi flights'
+- 'does etihad fly to kenya'
+- 'flights nairobi to seattle'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

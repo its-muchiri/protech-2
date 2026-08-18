@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kisumu to Mombasa Is How Much: Complete Guide'
-description: Everything you need to know about flight from kisumu to mombasa is how much, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kisumu to mombasa is how much, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kisumu-to-mombasa-is-how-much
-primary_keyword: flight from kisumu to mombasa is how much
+primary_keyword: 'flight from kisumu to mombasa is how much'
 secondary_keywords:
-- kenya airways flights from eldoret to nairobi
-- flights from victoria falls zimbabwe to nairobi kenya
-- flights from gaborone to kenya
-- cheap flights from heathrow to nairobi kenya
-- flights from kenya to italy
+- 'kenya airways flights from eldoret to nairobi'
+- 'flights from victoria falls zimbabwe to nairobi kenya'
+- 'flights from gaborone to kenya'
+- 'cheap flights from heathrow to nairobi kenya'
+- 'flights from kenya to italy'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

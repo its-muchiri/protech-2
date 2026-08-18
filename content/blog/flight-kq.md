@@ -1,14 +1,14 @@
 ---
 title: 'Flight Kq: Complete Guide'
-description: Everything you need to know about flight kq, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight kq, including routes, airlines, booking tips, and fares.'
 slug: flight-kq
-primary_keyword: flight kq
+primary_keyword: 'flight kq'
 secondary_keywords:
-- kenya airways flight from nairobi
-- kenya airways flight schedule from nairobi to accra today
-- does kenya airways fly from nairobi to malindi
-- kenya airways flight schedule from johannesburg to nairobi
-- kenya airways flight tracker live today from nairobi to
+- 'kenya airways flight from nairobi'
+- 'kenya airways flight schedule from nairobi to accra today'
+- 'does kenya airways fly from nairobi to malindi'
+- 'kenya airways flight schedule from johannesburg to nairobi'
+- 'kenya airways flight tracker live today from nairobi to'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

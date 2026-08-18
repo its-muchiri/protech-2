@@ -1,14 +1,14 @@
 ---
 title: 'ECG Gel and Paper Suppliers: 2026 Price Guide'
-description: Kenya buying guide to ecg gel and paper suppliers. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to ecg gel and paper suppliers. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: ecg-gel-and-paper-suppliers
-primary_keyword: ECG gel and paper suppliers
+primary_keyword: 'ECG gel and paper suppliers'
 secondary_keywords:
-- blood bank fridge Kenya
-- operation theatre lights Kenya
-- endoscopy equipment Kenya
-- water baths lab Kenya
-- ambulance equipment Kenya
+- 'blood bank fridge Kenya'
+- 'operation theatre lights Kenya'
+- 'endoscopy equipment Kenya'
+- 'water baths lab Kenya'
+- 'ambulance equipment Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

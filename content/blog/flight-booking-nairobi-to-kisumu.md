@@ -1,14 +1,14 @@
 ---
 title: 'Flight Booking Nairobi to Kisumu: Complete Guide'
-description: Everything you need to know about flight booking nairobi to kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight booking nairobi to kisumu, including routes, airlines, booking tips, and fares.'
 slug: flight-booking-nairobi-to-kisumu
-primary_keyword: flight booking nairobi to kisumu
+primary_keyword: 'flight booking nairobi to kisumu'
 secondary_keywords:
-- emirates flights from india to dubai
-- emirates flights from jfk to dubai
-- flights from kolkata to dubai by emirates
-- emirates flights from melbourne today
-- emirates flights from orlando
+- 'emirates flights from india to dubai'
+- 'emirates flights from jfk to dubai'
+- 'flights from kolkata to dubai by emirates'
+- 'emirates flights from melbourne today'
+- 'emirates flights from orlando'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

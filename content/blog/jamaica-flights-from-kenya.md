@@ -1,14 +1,14 @@
 ---
 title: 'Jamaica Flights from Kenya: Complete Guide'
-description: Everything you need to know about jamaica flights from kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about jamaica flights from kenya, including routes, airlines, booking tips, and fares.'
 slug: jamaica-flights-from-kenya
-primary_keyword: jamaica flights from kenya
+primary_keyword: 'jamaica flights from kenya'
 secondary_keywords:
-- flight from nairobi to uk cost
-- flight from nairobi to washington dc
-- flight yaounde to nairobi
-- flight from zurich to nairobi
-- fly 48
+- 'flight from nairobi to uk cost'
+- 'flight from nairobi to washington dc'
+- 'flight yaounde to nairobi'
+- 'flight from zurich to nairobi'
+- 'fly 48'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

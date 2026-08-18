@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways from Nairobi to London: Complete Guide'
-description: Everything you need to know about qatar airways from nairobi to london, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways from nairobi to london, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-from-nairobi-to-london
-primary_keyword: qatar airways from nairobi to london
+primary_keyword: 'qatar airways from nairobi to london'
 secondary_keywords:
-- cost of flight from nairobi to johannesburg
-- 540 flight from nairobi to kisumu
-- how long is a flight from nairobi to new york
-- air ticket from nairobi to turkey
-- turkish airlines frankfurt nairobi
+- 'cost of flight from nairobi to johannesburg'
+- '540 flight from nairobi to kisumu'
+- 'how long is a flight from nairobi to new york'
+- 'air ticket from nairobi to turkey'
+- 'turkish airlines frankfurt nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

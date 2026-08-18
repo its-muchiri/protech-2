@@ -1,14 +1,14 @@
 ---
 title: 'Promotion 8 Day Private Photographic Samburu Tour Operator Deal: Complete Guide'
-description: Kenya safari guide covering promotion 8 day private photographic samburu tour operator deal, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering promotion 8 day private photographic samburu tour operator deal, including what is included, pricing, and booking advice.'
 slug: promotion-8-day-private-photographic-samburu-tour-operator-deal
-primary_keyword: Promotion 8 day private photographic Samburu tour operator deal
+primary_keyword: 'Promotion 8 day private photographic Samburu tour operator deal'
 secondary_keywords:
-- Family safari package Kenya book
-- Quote for 5 day budget Amboseli Tsavo package
-- Get deal on 5 day Meru National Park secluded package
-- Reserve 10 day Kenya conservation volunteer safari package
-- Cost of 8 day prime migration viewing package Masai Mara book
+- 'Family safari package Kenya book'
+- 'Quote for 5 day budget Amboseli Tsavo package'
+- 'Get deal on 5 day Meru National Park secluded package'
+- 'Reserve 10 day Kenya conservation volunteer safari package'
+- 'Cost of 8 day prime migration viewing package Masai Mara book'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

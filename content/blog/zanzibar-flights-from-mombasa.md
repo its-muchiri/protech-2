@@ -1,14 +1,14 @@
 ---
 title: 'Zanzibar Flights from Mombasa: Complete Guide'
-description: Everything you need to know about zanzibar flights from mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about zanzibar flights from mombasa, including routes, airlines, booking tips, and fares.'
 slug: zanzibar-flights-from-mombasa
-primary_keyword: zanzibar flights from mombasa
+primary_keyword: 'zanzibar flights from mombasa'
 secondary_keywords:
-- how much is flight from nairobi to uganda
-- turkish airlines kenya contact number
-- cheap flights from nairobi to turkey
-- turkish airlines office in nairobi kenya
-- turkish airlines nairobi number
+- 'how much is flight from nairobi to uganda'
+- 'turkish airlines kenya contact number'
+- 'cheap flights from nairobi to turkey'
+- 'turkish airlines office in nairobi kenya'
+- 'turkish airlines nairobi number'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

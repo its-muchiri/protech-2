@@ -1,14 +1,14 @@
 ---
 title: 'Reserve 9 Day Migration Special Safari Booking: Complete Guide'
-description: Kenya safari guide covering reserve 9 day migration special safari booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve 9 day migration special safari booking, including what is included, pricing, and booking advice.'
 slug: reserve-9-day-migration-special-safari-booking
-primary_keyword: Reserve 9 day migration special safari booking
+primary_keyword: 'Reserve 9 day migration special safari booking'
 secondary_keywords:
-- Top Kenya photographic safari guides booking USA portfolio
-- Buy top rated Kenya Big Five lodge safari package UK online secure booking
-- Book short 3-day Amboseli fly-in safari from Nairobi UK price includes flights
-- Purchase off-the-beaten-path Northern Kenya safari tour UK Turkana expedition cost
-- Find French-speaking driver-guide Kenya safari package booking Europe reliable operator needed
+- 'Top Kenya photographic safari guides booking USA portfolio'
+- 'Buy top rated Kenya Big Five lodge safari package UK online secure booking'
+- 'Book short 3-day Amboseli fly-in safari from Nairobi UK price includes flights'
+- 'Purchase off-the-beaten-path Northern Kenya safari tour UK Turkana expedition cost'
+- 'Find French-speaking driver-guide Kenya safari package booking Europe reliable operator needed'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Nairobi Jambojet: Complete Guide'
-description: Everything you need to know about flights to nairobi jambojet, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to nairobi jambojet, including routes, airlines, booking tips, and fares.'
 slug: flights-to-nairobi-jambojet
-primary_keyword: flights to nairobi jambojet
+primary_keyword: 'flights to nairobi jambojet'
 secondary_keywords:
-- emirates flights from new york to dubai
-- emirates flights from zimbabwe
-- emirates flight 0409
-- emirates flights 2026
-- emirates flight 39
+- 'emirates flights from new york to dubai'
+- 'emirates flights from zimbabwe'
+- 'emirates flight 0409'
+- 'emirates flights 2026'
+- 'emirates flight 39'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Are There Flights from Qatar to Kenya: Complete Guide'
-description: Everything you need to know about are there flights from qatar to kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about are there flights from qatar to kenya, including routes, airlines, booking tips, and fares.'
 slug: are-there-flights-from-qatar-to-kenya
-primary_keyword: are there flights from qatar to kenya
+primary_keyword: 'are there flights from qatar to kenya'
 secondary_keywords:
-- flights from nairobi to geneva
-- flights from nairobi to hamburg
-- flight from nairobi to kisumu is how much
-- jambojet flights from nairobi to eldoret
-- kenya airways flights from nairobi to entebbe
+- 'flights from nairobi to geneva'
+- 'flights from nairobi to hamburg'
+- 'flight from nairobi to kisumu is how much'
+- 'jambojet flights from nairobi to eldoret'
+- 'kenya airways flights from nairobi to entebbe'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

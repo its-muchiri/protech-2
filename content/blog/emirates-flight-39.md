@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 39: Complete Guide'
-description: Everything you need to know about emirates flight 39, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 39, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-39
-primary_keyword: emirates flight 39
+primary_keyword: 'emirates flight 39'
 secondary_keywords:
-- flights from nairobi to mombasa south coast
-- flights from mombasa to watamu
-- jambojet flights from kisumu to nairobi
-- british airways boarding rules
-- flights to kisumu from entebbe uganda
+- 'flights from nairobi to mombasa south coast'
+- 'flights from mombasa to watamu'
+- 'jambojet flights from kisumu to nairobi'
+- 'british airways boarding rules'
+- 'flights to kisumu from entebbe uganda'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

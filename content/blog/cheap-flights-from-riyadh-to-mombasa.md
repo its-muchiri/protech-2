@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Riyadh to Mombasa: Complete Guide'
-description: Everything you need to know about cheap flights from riyadh to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from riyadh to mombasa, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-riyadh-to-mombasa
-primary_keyword: cheap flights from riyadh to mombasa
+primary_keyword: 'cheap flights from riyadh to mombasa'
 secondary_keywords:
-- ethiopian airlines offices in nairobi
-- ethiopian airlines nairobi to johannesburg price
-- ethiopian airlines customer service nairobi
-- where does turkish airlines fly direct
-- flight ticket kenya to nigeria
+- 'ethiopian airlines offices in nairobi'
+- 'ethiopian airlines nairobi to johannesburg price'
+- 'ethiopian airlines customer service nairobi'
+- 'where does turkish airlines fly direct'
+- 'flight ticket kenya to nigeria'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

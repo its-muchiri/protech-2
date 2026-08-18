@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 368: Complete Guide'
-description: Everything you need to know about emirates flight 368, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 368, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-368
-primary_keyword: emirates flight 368
+primary_keyword: 'emirates flight 368'
 secondary_keywords:
-- cheap flights from nairobi to guangzhou
-- cheap flights from nairobi to london heathrow
-- flights from nairobi to johannesburg
-- flights from nairobi kenya to brazzaville congo
-- flights from nairobi to lodwar
+- 'cheap flights from nairobi to guangzhou'
+- 'cheap flights from nairobi to london heathrow'
+- 'flights from nairobi to johannesburg'
+- 'flights from nairobi kenya to brazzaville congo'
+- 'flights from nairobi to lodwar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

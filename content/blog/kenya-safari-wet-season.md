@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Wet Season: Complete Guide'
-description: Kenya safari guide covering kenya safari wet season, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari wet season, including what is included, pricing, and booking advice.'
 slug: kenya-safari-wet-season
-primary_keyword: Kenya safari wet season
+primary_keyword: 'Kenya safari wet season'
 secondary_keywords:
-- Secure all-inclusive Kenya safari package
-- Buy Olare Motorogi Conservancy safari reservation
-- Purchase 12 day East Africa highlights booking
-- Secure fly-in Kenya safari package purchase
-- Kenya safari holiday rates enquiry
+- 'Secure all-inclusive Kenya safari package'
+- 'Buy Olare Motorogi Conservancy safari reservation'
+- 'Purchase 12 day East Africa highlights booking'
+- 'Secure fly-in Kenya safari package purchase'
+- 'Kenya safari holiday rates enquiry'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

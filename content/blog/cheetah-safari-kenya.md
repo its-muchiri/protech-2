@@ -1,14 +1,14 @@
 ---
 title: 'Cheetah Safari Kenya: Complete Guide'
-description: Kenya safari guide covering cheetah safari kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering cheetah safari kenya, including what is included, pricing, and booking advice.'
 slug: cheetah-safari-kenya
-primary_keyword: Cheetah safari Kenya
+primary_keyword: 'Cheetah safari Kenya'
 secondary_keywords:
-- When is the wildebeest migration in Kenya
-- Cultural visit Maasai village Amboseli safari
-- Problems with Kenya safari booking
-- Safari Kenia (German/Spanish/etc.)
-- Safari vehicle types Kenya
+- 'When is the wildebeest migration in Kenya'
+- 'Cultural visit Maasai village Amboseli safari'
+- 'Problems with Kenya safari booking'
+- 'Safari Kenia (German/Spanish/etc.)'
+- 'Safari vehicle types Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

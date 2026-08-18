@@ -1,14 +1,14 @@
 ---
 title: 'Meru National Park Package Price Estimate: Complete Guide'
-description: Kenya safari guide covering meru national park package price estimate, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering meru national park package price estimate, including what is included, pricing, and booking advice.'
 slug: meru-national-park-package-price-estimate
-primary_keyword: Meru National Park package price estimate
+primary_keyword: 'Meru National Park package price estimate'
 secondary_keywords:
-- Purchase Kenya safari cultural visit included package
-- Reserve VIP exclusive Kenya safari package private jet option
-- Buy off-season Kenya safari discount package April
-- Buy 3 day budget Amboseli fly-in package last minute deal Nairobi
-- Reserve 8 day Kenya budget group joining safari guarantee departure
+- 'Purchase Kenya safari cultural visit included package'
+- 'Reserve VIP exclusive Kenya safari package private jet option'
+- 'Buy off-season Kenya safari discount package April'
+- 'Buy 3 day budget Amboseli fly-in package last minute deal Nairobi'
+- 'Reserve 8 day Kenya budget group joining safari guarantee departure'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

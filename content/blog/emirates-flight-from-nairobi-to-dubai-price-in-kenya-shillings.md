@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight from Nairobi to Dubai Price in Kenya Shillings: Complete Guide'
-description: Everything you need to know about emirates flight from nairobi to dubai price in kenya shillings, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight from nairobi to dubai price in kenya shillings, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-from-nairobi-to-dubai-price-in-kenya-shillings
-primary_keyword: emirates flight from nairobi to dubai price in kenya shillings
+primary_keyword: 'emirates flight from nairobi to dubai price in kenya shillings'
 secondary_keywords:
-- flights from nairobi to jro
-- kq flights from nairobi to eldoret
-- local flights from nairobi to kisumu
-- kq flights from mombasa to nairobi
-- cheap flights from nairobi to new york
+- 'flights from nairobi to jro'
+- 'kq flights from nairobi to eldoret'
+- 'local flights from nairobi to kisumu'
+- 'kq flights from mombasa to nairobi'
+- 'cheap flights from nairobi to new york'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

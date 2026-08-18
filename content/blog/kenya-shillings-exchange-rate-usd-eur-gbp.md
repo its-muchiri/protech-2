@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Shillings Exchange Rate USD / EUR / GBP: Complete Guide'
-description: Kenya safari guide covering kenya shillings exchange rate usd / eur / gbp, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya shillings exchange rate usd / eur / gbp, including what is included, pricing, and booking advice.'
 slug: kenya-shillings-exchange-rate-usd-eur-gbp
-primary_keyword: Kenya shillings exchange rate USD / EUR / GBP
+primary_keyword: 'Kenya shillings exchange rate USD / EUR / GBP'
 secondary_keywords:
-- Group Kenya safari
-- Short Kenya safari
-- 9 day Kenya safari
-- Discount Kenya safari
-- Luxury tented camps Kenya
+- 'Group Kenya safari'
+- 'Short Kenya safari'
+- '9 day Kenya safari'
+- 'Discount Kenya safari'
+- 'Luxury tented camps Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

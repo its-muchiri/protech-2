@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi to Ukunda Flights: Complete Guide'
-description: Everything you need to know about nairobi to ukunda flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about nairobi to ukunda flights, including routes, airlines, booking tips, and fares.'
 slug: nairobi-to-ukunda-flights
-primary_keyword: nairobi to ukunda flights
+primary_keyword: 'nairobi to ukunda flights'
 secondary_keywords:
-- kq flights to arusha
-- kq flights to bujumbura
-- kq flight crash
-- kq flight delays today
-- kq flights to ethiopia
+- 'kq flights to arusha'
+- 'kq flights to bujumbura'
+- 'kq flight crash'
+- 'kq flight delays today'
+- 'kq flights to ethiopia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

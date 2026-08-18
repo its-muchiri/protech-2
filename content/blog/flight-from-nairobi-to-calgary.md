@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Calgary: Complete Guide'
-description: Everything you need to know about flight from nairobi to calgary, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to calgary, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-calgary
-primary_keyword: flight from nairobi to calgary
+primary_keyword: 'flight from nairobi to calgary'
 secondary_keywords:
-- flights from nairobi to venice
-- wilson airport flights from nairobi
-- non stop flights from new york to nairobi
-- first class flight from nairobi to mombasa
-- flights from nairobi to bangkok thailand
+- 'flights from nairobi to venice'
+- 'wilson airport flights from nairobi'
+- 'non stop flights from new york to nairobi'
+- 'first class flight from nairobi to mombasa'
+- 'flights from nairobi to bangkok thailand'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to China: Complete Guide'
-description: Everything you need to know about kq flights to china, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to china, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-china
-primary_keyword: kq flights to china
+primary_keyword: 'kq flights to china'
 secondary_keywords:
-- kq flights from lusaka to nairobi today
-- kq flights nairobi to kisumu
-- kq flights from mombasa to nairobi price
-- kq flight schedule from mombasa to nairobi
-- flight kq 115
+- 'kq flights from lusaka to nairobi today'
+- 'kq flights nairobi to kisumu'
+- 'kq flights from mombasa to nairobi price'
+- 'kq flight schedule from mombasa to nairobi'
+- 'flight kq 115'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

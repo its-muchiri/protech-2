@@ -1,14 +1,14 @@
 ---
 title: 'Kq 887 Flight Status: Complete Guide'
-description: Everything you need to know about kq 887 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 887 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq-887-flight-status
-primary_keyword: kq 887 flight status
+primary_keyword: 'kq 887 flight status'
 secondary_keywords:
-- air uganda flights from nairobi to entebbe
-- ba flights from nairobi to heathrow today timetable
-- cheap flights from nairobi to mombasa jambojet
-- flights from nairobi to dulles
-- emirates flights from nairobi to boston
+- 'air uganda flights from nairobi to entebbe'
+- 'ba flights from nairobi to heathrow today timetable'
+- 'cheap flights from nairobi to mombasa jambojet'
+- 'flights from nairobi to dulles'
+- 'emirates flights from nairobi to boston'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

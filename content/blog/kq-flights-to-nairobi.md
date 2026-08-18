@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Nairobi: Complete Guide'
-description: Everything you need to know about kq flights to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-nairobi
-primary_keyword: kq flights to nairobi
+primary_keyword: 'kq flights to nairobi'
 secondary_keywords:
-- flights from heathrow to nairobi
-- cheap flights from nairobi to italy
-- jetlink flights from nairobi to mombasa
-- flights from nairobi to lamu
-- flights from nairobi to migori
+- 'flights from heathrow to nairobi'
+- 'cheap flights from nairobi to italy'
+- 'jetlink flights from nairobi to mombasa'
+- 'flights from nairobi to lamu'
+- 'flights from nairobi to migori'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Zanzibar from Nairobi Precision Air: Complete Guide'
-description: Everything you need to know about flights to zanzibar from nairobi precision air, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to zanzibar from nairobi precision air, including routes, airlines, booking tips, and fares.'
 slug: flights-to-zanzibar-from-nairobi-precision-air
-primary_keyword: flights to zanzibar from nairobi precision air
+primary_keyword: 'flights to zanzibar from nairobi precision air'
 secondary_keywords:
-- flights from nairobi to zanzibar tanzania
-- kenya airways flights to south africa price
-- international flights from kisumu
-- flights from nairobi to atlanta
-- flights from nairobi to bali
+- 'flights from nairobi to zanzibar tanzania'
+- 'kenya airways flights to south africa price'
+- 'international flights from kisumu'
+- 'flights from nairobi to atlanta'
+- 'flights from nairobi to bali'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

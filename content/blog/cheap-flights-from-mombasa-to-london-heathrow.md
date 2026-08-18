@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Mombasa to London Heathrow: Complete Guide'
-description: Everything you need to know about cheap flights from mombasa to london heathrow, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from mombasa to london heathrow, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-mombasa-to-london-heathrow
-primary_keyword: cheap flights from mombasa to london heathrow
+primary_keyword: 'cheap flights from mombasa to london heathrow'
 secondary_keywords:
-- flights from mombasa to zanzibar
-- kenya airways flights from entebbe to mombasa
-- flights from mombasa to cape town
-- flights from mombasa to diani
-- flights from dar es salaam to mombasa kenya
+- 'flights from mombasa to zanzibar'
+- 'kenya airways flights from entebbe to mombasa'
+- 'flights from mombasa to cape town'
+- 'flights from mombasa to diani'
+- 'flights from dar es salaam to mombasa kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

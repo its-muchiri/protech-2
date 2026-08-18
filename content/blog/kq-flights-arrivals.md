@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights Arrivals: Complete Guide'
-description: Everything you need to know about kq flights arrivals, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights arrivals, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-arrivals
-primary_keyword: kq flights arrivals
+primary_keyword: 'kq flights arrivals'
 secondary_keywords:
-- cheapest flights from nairobi to zanzibar
-- cheapest flights from nairobi to usa
-- flights from nairobi to juba
-- flights from mombasa to south africa
-- how much is a flight to mombasa
+- 'cheapest flights from nairobi to zanzibar'
+- 'cheapest flights from nairobi to usa'
+- 'flights from nairobi to juba'
+- 'flights from mombasa to south africa'
+- 'how much is a flight to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

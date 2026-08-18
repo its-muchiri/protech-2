@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from Nairobi to Mombasa: Complete Guide'
-description: Everything you need to know about kenya airways flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-nairobi-to-mombasa
-primary_keyword: kenya airways flight from nairobi to mombasa
+primary_keyword: 'kenya airways flight from nairobi to mombasa'
 secondary_keywords:
-- international flights from kisumu
-- flights from nairobi to atlanta
-- flights from nairobi to bali
-- flights from beirut to nairobi
-- cheap flights from nairobi to johannesburg
+- 'international flights from kisumu'
+- 'flights from nairobi to atlanta'
+- 'flights from nairobi to bali'
+- 'flights from beirut to nairobi'
+- 'cheap flights from nairobi to johannesburg'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

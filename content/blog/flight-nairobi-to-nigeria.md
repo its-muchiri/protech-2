@@ -1,14 +1,14 @@
 ---
 title: 'Flight Nairobi to Nigeria: Complete Guide'
-description: Everything you need to know about flight nairobi to nigeria, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight nairobi to nigeria, including routes, airlines, booking tips, and fares.'
 slug: flight-nairobi-to-nigeria
-primary_keyword: flight nairobi to nigeria
+primary_keyword: 'flight nairobi to nigeria'
 secondary_keywords:
-- flight from kenya to israel
-- flights from kenya to jordan
-- flight from kenya to south korea price
-- flights from kenya to lebanon
-- flights from kenya to morocco
+- 'flight from kenya to israel'
+- 'flights from kenya to jordan'
+- 'flight from kenya to south korea price'
+- 'flights from kenya to lebanon'
+- 'flights from kenya to morocco'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

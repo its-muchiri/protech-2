@@ -1,14 +1,14 @@
 ---
 title: '15 Day Kenya Safari: Complete Guide'
-description: Kenya safari guide covering 15 day kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering 15 day kenya safari, including what is included, pricing, and booking advice.'
 slug: 15-day-kenya-safari
-primary_keyword: 15 day Kenya safari
+primary_keyword: '15 day Kenya safari'
 secondary_keywords:
-- Tour Type & Style Specific Searches
-- Kenya student tour operators budget
-- Coffee plantation tours Kiambu companies
-- 14 day Kenya Tanzania combined safari operators
-- Best value Kenya tour operators
+- 'Tour Type & Style Specific Searches'
+- 'Kenya student tour operators budget'
+- 'Coffee plantation tours Kiambu companies'
+- '14 day Kenya Tanzania combined safari operators'
+- 'Best value Kenya tour operators'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

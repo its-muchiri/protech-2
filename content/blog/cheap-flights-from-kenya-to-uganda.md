@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Kenya to Uganda: Complete Guide'
-description: Everything you need to know about cheap flights from kenya to uganda, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from kenya to uganda, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-kenya-to-uganda
-primary_keyword: cheap flights from kenya to uganda
+primary_keyword: 'cheap flights from kenya to uganda'
 secondary_keywords:
-- silverstone flights from mombasa to kisumu
-- wilson airport flights from mombasa
-- kq flights from kisumu to mombasa
-- flight from nairobi to kisumu cost
-- flights from eldoret to kisumu
+- 'silverstone flights from mombasa to kisumu'
+- 'wilson airport flights from mombasa'
+- 'kq flights from kisumu to mombasa'
+- 'flight from nairobi to kisumu cost'
+- 'flights from eldoret to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

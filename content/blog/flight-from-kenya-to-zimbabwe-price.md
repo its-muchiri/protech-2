@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kenya to Zimbabwe Price: Complete Guide'
-description: Everything you need to know about flight from kenya to zimbabwe price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kenya to zimbabwe price, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kenya-to-zimbabwe-price
-primary_keyword: flight from kenya to zimbabwe price
+primary_keyword: 'flight from kenya to zimbabwe price'
 secondary_keywords:
-- turkish airlines lounge in nairobi
-- nairobi to istanbul flight status
-- turkish airline from turkey to nairobi
-- emirates number kenya
-- ethiopian airlines nairobi to hargeisa
+- 'turkish airlines lounge in nairobi'
+- 'nairobi to istanbul flight status'
+- 'turkish airline from turkey to nairobi'
+- 'emirates number kenya'
+- 'ethiopian airlines nairobi to hargeisa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

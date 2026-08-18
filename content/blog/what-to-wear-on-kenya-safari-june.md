@@ -1,14 +1,14 @@
 ---
 title: 'What to Wear on Kenya Safari June: Complete Guide'
-description: Kenya safari guide covering what to wear on kenya safari june, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering what to wear on kenya safari june, including what is included, pricing, and booking advice.'
 slug: what-to-wear-on-kenya-safari-june
-primary_keyword: What to wear on Kenya safari June
+primary_keyword: 'What to wear on Kenya safari June'
 secondary_keywords:
-- Great Migration Kenya safari
-- Eco safari Kenya
-- 5 day Kenya safari
-- Kenya safari price
-- Value Kenya safari
+- 'Great Migration Kenya safari'
+- 'Eco safari Kenya'
+- '5 day Kenya safari'
+- 'Kenya safari price'
+- 'Value Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

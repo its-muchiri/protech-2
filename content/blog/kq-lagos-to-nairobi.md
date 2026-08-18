@@ -1,14 +1,14 @@
 ---
 title: 'Kq Lagos to Nairobi: Complete Guide'
-description: Everything you need to know about kq lagos to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq lagos to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kq-lagos-to-nairobi
-primary_keyword: kq lagos to nairobi
+primary_keyword: 'kq lagos to nairobi'
 secondary_keywords:
-- emirates airlines kenya
-- ethiopian airlines payment methods
-- ethiopian airlines nairobi to lagos
-- ethiopian airlines customer care
-- does turkish airlines fly to morocco
+- 'emirates airlines kenya'
+- 'ethiopian airlines payment methods'
+- 'ethiopian airlines nairobi to lagos'
+- 'ethiopian airlines customer care'
+- 'does turkish airlines fly to morocco'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

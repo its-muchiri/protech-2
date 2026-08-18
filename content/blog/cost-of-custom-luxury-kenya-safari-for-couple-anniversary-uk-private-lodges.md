@@ -1,14 +1,14 @@
 ---
 title: 'Cost of Custom Luxury Kenya Safari for Couple Anniversary UK Private Lodges: Complete Guide'
-description: Kenya safari guide covering cost of custom luxury kenya safari for couple anniversary uk private lodges, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering cost of custom luxury kenya safari for couple anniversary uk private lodges, including what is included, pricing, and booking advice.'
 slug: cost-of-custom-luxury-kenya-safari-for-couple-anniversary-uk-private-lodges
-primary_keyword: Cost of custom luxury Kenya safari for couple anniversary UK private lodges
+primary_keyword: 'Cost of custom luxury Kenya safari for couple anniversary UK private lodges'
 secondary_keywords:
-- Get quote for luxury mobile camping safari Serengeti & Mara migration USA private setup cost
-- Reserve luxury fly-camping safari private conservancy Kenya USA exclusive remote experience booking
-- Reserve archaeological site tour Koobi Fora safari Kenya Europe paleontology focus booking
-- Find kosher meal options Kenya safari booking Europe Jewish travel specialist agent
-- Book Saiwa Swamp National Park sitatunga antelope safari Kenya Europe rare species focus cost
+- 'Get quote for luxury mobile camping safari Serengeti & Mara migration USA private setup cost'
+- 'Reserve luxury fly-camping safari private conservancy Kenya USA exclusive remote experience booking'
+- 'Reserve archaeological site tour Koobi Fora safari Kenya Europe paleontology focus booking'
+- 'Find kosher meal options Kenya safari booking Europe Jewish travel specialist agent'
+- 'Book Saiwa Swamp National Park sitatunga antelope safari Kenya Europe rare species focus cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Air France Flights from Nairobi to Paris: Complete Guide'
-description: Everything you need to know about air france flights from nairobi to paris, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about air france flights from nairobi to paris, including routes, airlines, booking tips, and fares.'
 slug: air-france-flights-from-nairobi-to-paris
-primary_keyword: air france flights from nairobi to paris
+primary_keyword: 'air france flights from nairobi to paris'
 secondary_keywords:
-- kq flights from mombasa to nairobi today timetable
-- flights from mombasa to malindi
-- flight from mombasa to nairobi time
-- kq flights to mombasa prices from nairobi
-- skyward flights from mombasa to nairobi ticket price
+- 'kq flights from mombasa to nairobi today timetable'
+- 'flights from mombasa to malindi'
+- 'flight from mombasa to nairobi time'
+- 'kq flights to mombasa prices from nairobi'
+- 'skyward flights from mombasa to nairobi ticket price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

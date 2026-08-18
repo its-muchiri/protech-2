@@ -1,14 +1,14 @@
 ---
 title: 'Private Guided Tours Kenya: Complete Guide'
-description: Kenya safari guide covering private guided tours kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering private guided tours kenya, including what is included, pricing, and booking advice.'
 slug: private-guided-tours-kenya
-primary_keyword: Private guided tours Kenya
+primary_keyword: 'Private guided tours Kenya'
 secondary_keywords:
-- Emergency evacuation plan Kenya tour operators
-- Solo female traveler safe group tour Kenya operator
-- Tour operator coordinating hiking Aberdares and safari Nakuru
-- Purchase full board Kenya safari tour
-- Reserve Lewa Wildlife Conservancy package booking
+- 'Emergency evacuation plan Kenya tour operators'
+- 'Solo female traveler safe group tour Kenya operator'
+- 'Tour operator coordinating hiking Aberdares and safari Nakuru'
+- 'Purchase full board Kenya safari tour'
+- 'Reserve Lewa Wildlife Conservancy package booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Twiga Tours Kenya Reviews: Complete Guide'
-description: Kenya safari guide covering twiga tours kenya reviews, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering twiga tours kenya reviews, including what is included, pricing, and booking advice.'
 slug: twiga-tours-kenya-reviews
-primary_keyword: Twiga Tours Kenya reviews
+primary_keyword: 'Twiga Tours Kenya reviews'
 secondary_keywords:
-- Last minute Kenya safari deals UK departing next week
-- Check Kenya safari tour availability calendar Europe
-- Safe Kenya safari tours booking certified guides USA
-- Availability check Kenya fly-in safari Governors Camp Masai Mara UK July 2025
-- Get quote for multi-generational family safari Kenya wheelchair accessible lodge UK
+- 'Last minute Kenya safari deals UK departing next week'
+- 'Check Kenya safari tour availability calendar Europe'
+- 'Safe Kenya safari tours booking certified guides USA'
+- 'Availability check Kenya fly-in safari Governors Camp Masai Mara UK July 2025'
+- 'Get quote for multi-generational family safari Kenya wheelchair accessible lodge UK'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

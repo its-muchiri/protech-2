@@ -1,14 +1,14 @@
 ---
 title: 'Flight Kq 115: Complete Guide'
-description: Everything you need to know about flight kq 115, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight kq 115, including routes, airlines, booking tips, and fares.'
 slug: flight-kq-115
-primary_keyword: flight kq 115
+primary_keyword: 'flight kq 115'
 secondary_keywords:
-- emirates flights to new zealand from manchester
-- emirates flight 1
-- when will emirates resume flights to bali from auckland 2023
-- emirates flights to dubai from heathrow terminal 3
-- emirates flight 521
+- 'emirates flights to new zealand from manchester'
+- 'emirates flight 1'
+- 'when will emirates resume flights to bali from auckland 2023'
+- 'emirates flights to dubai from heathrow terminal 3'
+- 'emirates flight 521'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

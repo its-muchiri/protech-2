@@ -1,14 +1,14 @@
 ---
 title: 'Tour Companies in Thika Town: Complete Guide'
-description: Kenya safari guide covering tour companies in thika town, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering tour companies in thika town, including what is included, pricing, and booking advice.'
 slug: tour-companies-in-thika-town
-primary_keyword: Tour companies in Thika town
+primary_keyword: 'Tour companies in Thika town'
 secondary_keywords:
-- Get final cost 7 day Masai Mara fly-in package August booking
-- Reserve guaranteed window seat safari vehicle package Kenya
-- International tour operators in Kenya
-- Ol Pejeta chimpanzee sanctuary tours
-- Kakamega Forest bird watching tour operators
+- 'Get final cost 7 day Masai Mara fly-in package August booking'
+- 'Reserve guaranteed window seat safari vehicle package Kenya'
+- 'International tour operators in Kenya'
+- 'Ol Pejeta chimpanzee sanctuary tours'
+- 'Kakamega Forest bird watching tour operators'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

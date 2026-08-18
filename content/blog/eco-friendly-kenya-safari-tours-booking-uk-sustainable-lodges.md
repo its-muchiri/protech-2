@@ -1,14 +1,14 @@
 ---
 title: 'Eco-friendly Kenya Safari Tours Booking UK Sustainable Lodges: Complete Guide'
-description: Kenya safari guide covering eco-friendly kenya safari tours booking uk sustainable lodges, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering eco-friendly kenya safari tours booking uk sustainable lodges, including what is included, pricing, and booking advice.'
 slug: eco-friendly-kenya-safari-tours-booking-uk-sustainable-lodges
-primary_keyword: Eco-friendly Kenya safari tours booking UK sustainable lodges
+primary_keyword: 'Eco-friendly Kenya safari tours booking UK sustainable lodges'
 secondary_keywords:
-- Reserve Kenya coast safari fly-in package
-- Book long Kenya safari package (10+ days)
-- Buy 10 day budget Kenya Tanzania camping safari booking
-- Masai Mara safari package cost estimate
-- Price quote 10 day Kenya Tanzania combined tour
+- 'Reserve Kenya coast safari fly-in package'
+- 'Book long Kenya safari package (10+ days)'
+- 'Buy 10 day budget Kenya Tanzania camping safari booking'
+- 'Masai Mara safari package cost estimate'
+- 'Price quote 10 day Kenya Tanzania combined tour'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

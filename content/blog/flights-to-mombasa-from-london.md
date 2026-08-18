@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Mombasa from London: Complete Guide'
-description: Everything you need to know about flights to mombasa from london, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to mombasa from london, including routes, airlines, booking tips, and fares.'
 slug: flights-to-mombasa-from-london
-primary_keyword: flights to mombasa from london
+primary_keyword: 'flights to mombasa from london'
 secondary_keywords:
-- emirates flights from birmingham today
-- cheapest emirates flights from india
-- emirates flights from ewr
-- emirates flights for dubai
-- emirates flights from geneva to dubai
+- 'emirates flights from birmingham today'
+- 'cheapest emirates flights from india'
+- 'emirates flights from ewr'
+- 'emirates flights for dubai'
+- 'emirates flights from geneva to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

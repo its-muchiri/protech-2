@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights from South Africa: Complete Guide'
-description: Everything you need to know about kenya airways flights from south africa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights from south africa, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-from-south-africa
-primary_keyword: kenya airways flights from south africa
+primary_keyword: 'kenya airways flights from south africa'
 secondary_keywords:
-- flight from nairobi to mogadishu
-- flight from nairobi to oslo
-- flight from nairobi to pakistan
-- flight from nairobi to costa rica
-- flight from nairobi to seoul
+- 'flight from nairobi to mogadishu'
+- 'flight from nairobi to oslo'
+- 'flight from nairobi to pakistan'
+- 'flight from nairobi to costa rica'
+- 'flight from nairobi to seoul'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

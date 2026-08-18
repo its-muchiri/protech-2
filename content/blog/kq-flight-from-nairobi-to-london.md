@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Nairobi to London: Complete Guide'
-description: Everything you need to know about kq flight from nairobi to london, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from nairobi to london, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-nairobi-to-london
-primary_keyword: kq flight from nairobi to london
+primary_keyword: 'kq flight from nairobi to london'
 secondary_keywords:
-- cheap flights from mombasa to zanzibar
-- flights from mombasa to eldoret
-- flights to mombasa kenya from paris france
-- flights from harare to mombasa
-- flights from istanbul to mombasa
+- 'cheap flights from mombasa to zanzibar'
+- 'flights from mombasa to eldoret'
+- 'flights to mombasa kenya from paris france'
+- 'flights from harare to mombasa'
+- 'flights from istanbul to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Reliable Company for Lake Nakuru Day Trip from Thika Town: Complete Guide'
-description: Kenya safari guide covering reliable company for lake nakuru day trip from thika town, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reliable company for lake nakuru day trip from thika town, including what is included, pricing, and booking advice.'
 slug: reliable-company-for-lake-nakuru-day-trip-from-thika-town
-primary_keyword: Reliable company for Lake Nakuru day trip from Thika town
+primary_keyword: 'Reliable company for Lake Nakuru day trip from Thika town'
 secondary_keywords:
-- Cultural visit Maasai village Amboseli safari
-- Problems with Kenya safari booking
-- Safari Kenia (German/Spanish/etc.)
-- Safari vehicle types Kenya
-- Duty free allowances Kenya safari
+- 'Cultural visit Maasai village Amboseli safari'
+- 'Problems with Kenya safari booking'
+- 'Safari Kenia (German/Spanish/etc.)'
+- 'Safari vehicle types Kenya'
+- 'Duty free allowances Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

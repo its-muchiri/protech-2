@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Accra to Nairobi: Complete Guide'
-description: Everything you need to know about kq flight from accra to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from accra to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-accra-to-nairobi
-primary_keyword: kq flight from accra to nairobi
+primary_keyword: 'kq flight from accra to nairobi'
 secondary_keywords:
-- does kenya airways fly to new york
-- flights nairobi to samburu
-- flights from nairobi to toronto canada
-- flights nairobi to venice
-- flights nairobi wilson to lamu
+- 'does kenya airways fly to new york'
+- 'flights nairobi to samburu'
+- 'flights from nairobi to toronto canada'
+- 'flights nairobi to venice'
+- 'flights nairobi wilson to lamu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

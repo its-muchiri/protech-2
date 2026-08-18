@@ -1,14 +1,14 @@
 ---
 title: 'How to Choose a Reputable Tour Company in Kenya: Complete Guide'
-description: Kenya safari guide covering how to choose a reputable tour company in kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering how to choose a reputable tour company in kenya, including what is included, pricing, and booking advice.'
 slug: how-to-choose-a-reputable-tour-company-in-kenya
-primary_keyword: How to choose a reputable tour company in Kenya
+primary_keyword: 'How to choose a reputable tour company in Kenya'
 secondary_keywords:
-- Masai Mara safari
-- Hell''s Gate National Park safari
-- High-end Kenya safari
-- Great Migration Kenya safari
-- Eco safari Kenya
+- 'Masai Mara safari'
+- 'Hell''''s Gate National Park safari'
+- 'High-end Kenya safari'
+- 'Great Migration Kenya safari'
+- 'Eco safari Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

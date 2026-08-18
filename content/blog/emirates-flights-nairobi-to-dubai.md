@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights Nairobi to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights nairobi to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights nairobi to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-nairobi-to-dubai
-primary_keyword: emirates flights nairobi to dubai
+primary_keyword: 'emirates flights nairobi to dubai'
 secondary_keywords:
-- how many airlines are in kenya
-- flight kenya london
-- flights to kenya in november
-- qatar airways in kenya
-- flights kenya to johannesburg
+- 'how many airlines are in kenya'
+- 'flight kenya london'
+- 'flights to kenya in november'
+- 'qatar airways in kenya'
+- 'flights kenya to johannesburg'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight Schedule Nairobi to Harare Today: Complete Guide'
-description: Everything you need to know about kenya airways flight schedule nairobi to harare today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight schedule nairobi to harare today, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-schedule-nairobi-to-harare-today
-primary_keyword: kenya airways flight schedule nairobi to harare today
+primary_keyword: 'kenya airways flight schedule nairobi to harare today'
 secondary_keywords:
-- flights from nairobi to yemen
-- flight from kenya to zambia price
-- cheapest flight from kenya to south africa
-- how much is a flight from kenya to nigeria
-- flights from nairobi to arusha
+- 'flights from nairobi to yemen'
+- 'flight from kenya to zambia price'
+- 'cheapest flight from kenya to south africa'
+- 'how much is a flight from kenya to nigeria'
+- 'flights from nairobi to arusha'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

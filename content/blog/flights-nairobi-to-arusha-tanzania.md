@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Arusha Tanzania: Complete Guide'
-description: Everything you need to know about flights nairobi to arusha tanzania, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to arusha tanzania, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-arusha-tanzania
-primary_keyword: flights nairobi to arusha tanzania
+primary_keyword: 'flights nairobi to arusha tanzania'
 secondary_keywords:
-- which flights operate from nairobi to mombasa
-- flight from mombasa to rwanda
-- flights from mombasa to uganda
-- cheapest flights from mombasa to zanzibar
-- flights from kisumu to south africa
+- 'which flights operate from nairobi to mombasa'
+- 'flight from mombasa to rwanda'
+- 'flights from mombasa to uganda'
+- 'cheapest flights from mombasa to zanzibar'
+- 'flights from kisumu to south africa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

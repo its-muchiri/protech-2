@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is a Flight from Nairobi to Eldoret: Complete Guide'
-description: Everything you need to know about how much is a flight from nairobi to eldoret, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is a flight from nairobi to eldoret, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-a-flight-from-nairobi-to-eldoret
-primary_keyword: how much is a flight from nairobi to eldoret
+primary_keyword: 'how much is a flight from nairobi to eldoret'
 secondary_keywords:
-- ethiopian airlines from nairobi to canada
-- ethiopian airlines in nairobi office
-- ethiopian airlines nairobi office telephone number near
-- ethiopian airlines flight status from nairobi to addis ababa
-- flights nairobi to cape town
+- 'ethiopian airlines from nairobi to canada'
+- 'ethiopian airlines in nairobi office'
+- 'ethiopian airlines nairobi office telephone number near'
+- 'ethiopian airlines flight status from nairobi to addis ababa'
+- 'flights nairobi to cape town'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

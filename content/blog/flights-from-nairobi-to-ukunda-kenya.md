@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Ukunda Kenya: Complete Guide'
-description: Everything you need to know about flights from nairobi to ukunda kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to ukunda kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-ukunda-kenya
-primary_keyword: flights from nairobi to ukunda kenya
+primary_keyword: 'flights from nairobi to ukunda kenya'
 secondary_keywords:
-- flight from nairobi to seychelles
-- turkish airlines flight from nairobi to istanbul
-- how many hours from nairobi to usa flight
-- which is the cheapest flight from nairobi to mombasa
-- flight route from nairobi to new york
+- 'flight from nairobi to seychelles'
+- 'turkish airlines flight from nairobi to istanbul'
+- 'how many hours from nairobi to usa flight'
+- 'which is the cheapest flight from nairobi to mombasa'
+- 'flight route from nairobi to new york'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

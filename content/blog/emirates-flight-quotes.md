@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight Quotes: Complete Guide'
-description: Everything you need to know about emirates flight quotes, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight quotes, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-quotes
-primary_keyword: emirates flight quotes
+primary_keyword: 'emirates flight quotes'
 secondary_keywords:
-- vienna to nairobi flights
-- flights nairobi to yaounde
-- how much is flight from nairobi to nigeria
-- cheap flights nairobi to kampala
-- emirates flights from auckland to india
+- 'vienna to nairobi flights'
+- 'flights nairobi to yaounde'
+- 'how much is flight from nairobi to nigeria'
+- 'cheap flights nairobi to kampala'
+- 'emirates flights from auckland to india'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Samburu Lodges: Complete Guide'
-description: Kenya safari guide covering samburu lodges, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering samburu lodges, including what is included, pricing, and booking advice.'
 slug: samburu-lodges
-primary_keyword: Samburu lodges
+primary_keyword: 'Samburu lodges'
 secondary_keywords:
-- 12 day Kenya safari
-- All-inclusive safari cost Kenya
-- Masai Mara lodges
-- Bush walk Kenya safari
-- Mara river crossing safari
+- '12 day Kenya safari'
+- 'All-inclusive safari cost Kenya'
+- 'Masai Mara lodges'
+- 'Bush walk Kenya safari'
+- 'Mara river crossing safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from New York to Johannesburg: Complete Guide'
-description: Everything you need to know about emirates flights from new york to johannesburg, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from new york to johannesburg, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-new-york-to-johannesburg
-primary_keyword: emirates flights from new york to johannesburg
+primary_keyword: 'emirates flights from new york to johannesburg'
 secondary_keywords:
-- turkish airlines nairobi
-- how do i confirm my flight with turkish airlines
-- turkish airlines nairobi phone number
-- turkish airlines nairobi contacts
-- ethiopian airlines nairobi office address
+- 'turkish airlines nairobi'
+- 'how do i confirm my flight with turkish airlines'
+- 'turkish airlines nairobi phone number'
+- 'turkish airlines nairobi contacts'
+- 'ethiopian airlines nairobi office address'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

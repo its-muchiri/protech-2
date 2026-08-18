@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from Nairobi to China Today: Complete Guide'
-description: Everything you need to know about kq flights from nairobi to china today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from nairobi to china today, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-nairobi-to-china-today
-primary_keyword: kq flights from nairobi to china today
+primary_keyword: 'kq flights from nairobi to china today'
 secondary_keywords:
-- flights from kenya to paris
-- flights from kenya to qatar today
-- flight from kenya to romania price
-- flights from kenya to switzerland
-- flights from kenya to uk tomorrow
+- 'flights from kenya to paris'
+- 'flights from kenya to qatar today'
+- 'flight from kenya to romania price'
+- 'flights from kenya to switzerland'
+- 'flights from kenya to uk tomorrow'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'How Long Is the Flight from Nairobi to Victoria Falls: Complete Guide'
-description: Everything you need to know about how long is the flight from nairobi to victoria falls, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how long is the flight from nairobi to victoria falls, including routes, airlines, booking tips, and fares.'
 slug: how-long-is-the-flight-from-nairobi-to-victoria-falls
-primary_keyword: how long is the flight from nairobi to victoria falls
+primary_keyword: 'how long is the flight from nairobi to victoria falls'
 secondary_keywords:
-- flights to nairobi from johannesburg
-- google flights nairobi to dubai
-- hargeisa to nairobi flights
-- flights nairobi to japan
-- flights nairobi to kisumu kenya
+- 'flights to nairobi from johannesburg'
+- 'google flights nairobi to dubai'
+- 'hargeisa to nairobi flights'
+- 'flights nairobi to japan'
+- 'flights nairobi to kisumu kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

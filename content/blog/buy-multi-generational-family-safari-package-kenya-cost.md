@@ -1,14 +1,14 @@
 ---
 title: 'Buy Multi-generational Family Safari Package Kenya Cost: Complete Guide'
-description: Kenya safari guide covering buy multi-generational family safari package kenya cost, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy multi-generational family safari package kenya cost, including what is included, pricing, and booking advice.'
 slug: buy-multi-generational-family-safari-package-kenya-cost
-primary_keyword: Buy multi-generational family safari package Kenya cost
+primary_keyword: 'Buy multi-generational family safari package Kenya cost'
 secondary_keywords:
-- Tour operators specializing in East Africa (Kenya, Tanzania, Uganda)
-- Book Masai Mara hot air balloon safari cost per person
-- Samburu Special Five animals tour guide Kenya
-- Kenya driving safari itinerary 7 days / 10 days
-- Watamu beach resorts packages marine park snorkeling
+- 'Tour operators specializing in East Africa (Kenya, Tanzania, Uganda)'
+- 'Book Masai Mara hot air balloon safari cost per person'
+- 'Samburu Special Five animals tour guide Kenya'
+- 'Kenya driving safari itinerary 7 days / 10 days'
+- 'Watamu beach resorts packages marine park snorkeling'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

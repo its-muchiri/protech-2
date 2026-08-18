@@ -1,14 +1,14 @@
 ---
 title: 'Flight Time Nairobi to Istanbul: Complete Guide'
-description: Everything you need to know about flight time nairobi to istanbul, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight time nairobi to istanbul, including routes, airlines, booking tips, and fares.'
 slug: flight-time-nairobi-to-istanbul
-primary_keyword: flight time nairobi to istanbul
+primary_keyword: 'flight time nairobi to istanbul'
 secondary_keywords:
-- what time is the last flight from nairobi to mombasa
-- cheapest flight from nairobi to new york
-- flight from nairobi to kisumu price
-- flight 540 nairobi to mombasa
-- has ba65 flight from london from nairobi departed
+- 'what time is the last flight from nairobi to mombasa'
+- 'cheapest flight from nairobi to new york'
+- 'flight from nairobi to kisumu price'
+- 'flight 540 nairobi to mombasa'
+- 'has ba65 flight from london from nairobi departed'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

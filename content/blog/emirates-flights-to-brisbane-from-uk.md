@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights to Brisbane from Uk: Complete Guide'
-description: Everything you need to know about emirates flights to brisbane from uk, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights to brisbane from uk, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-to-brisbane-from-uk
-primary_keyword: emirates flights to brisbane from uk
+primary_keyword: 'emirates flights to brisbane from uk'
 secondary_keywords:
-- emirates flights to india from dubai
-- emirates flights from kochi to dubai
-- emirates flights from lusaka to harare
-- emirates flights to australia from manchester
-- emirates flight from or tambo to dubai
+- 'emirates flights to india from dubai'
+- 'emirates flights from kochi to dubai'
+- 'emirates flights from lusaka to harare'
+- 'emirates flights to australia from manchester'
+- 'emirates flight from or tambo to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

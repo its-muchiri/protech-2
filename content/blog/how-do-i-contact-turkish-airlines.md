@@ -1,14 +1,14 @@
 ---
 title: 'How Do I Contact Turkish Airlines: Complete Guide'
-description: Everything you need to know about how do i contact turkish airlines, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how do i contact turkish airlines, including routes, airlines, booking tips, and fares.'
 slug: how-do-i-contact-turkish-airlines
-primary_keyword: how do i contact turkish airlines
+primary_keyword: 'how do i contact turkish airlines'
 secondary_keywords:
-- mombasa flights from nairobi
-- nonstop flights from nairobi
-- flights from orlando to nairobi
-- flights from paris to nairobi
-- flights from nairobi to reunion island
+- 'mombasa flights from nairobi'
+- 'nonstop flights from nairobi'
+- 'flights from orlando to nairobi'
+- 'flights from paris to nairobi'
+- 'flights from nairobi to reunion island'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

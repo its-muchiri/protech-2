@@ -1,14 +1,14 @@
 ---
 title: 'Tsavo Safari Trip Plan Purchase: Complete Guide'
-description: Kenya safari guide covering tsavo safari trip plan purchase, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering tsavo safari trip plan purchase, including what is included, pricing, and booking advice.'
 slug: tsavo-safari-trip-plan-purchase
-primary_keyword: Tsavo safari trip plan purchase
+primary_keyword: 'Tsavo safari trip plan purchase'
 secondary_keywords:
-- Book with local Kenya safari operator direct price
-- Time-Sensitive/Urgency (Last minute, Availability, Specific dates/months)
-- Book Kenya safari for specific dates  USA
-- Check Kenya tour operator license and reviews online UK
-- Book small group safari Lake Nakuru & Naivasha Kenya from Germany agency
+- 'Book with local Kenya safari operator direct price'
+- 'Time-Sensitive/Urgency (Last minute, Availability, Specific dates/months)'
+- 'Book Kenya safari for specific dates  USA'
+- 'Check Kenya tour operator license and reviews online UK'
+- 'Book small group safari Lake Nakuru & Naivasha Kenya from Germany agency'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

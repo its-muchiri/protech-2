@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways in Nairobi Office: Complete Guide'
-description: Everything you need to know about qatar airways in nairobi office, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways in nairobi office, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-in-nairobi-office
-primary_keyword: qatar airways in nairobi office
+primary_keyword: 'qatar airways in nairobi office'
 secondary_keywords:
-- turkish airlines nairobi terminal
-- emirates airlines mombasa office
-- ethiopian airlines ticket price from doha to nairobi
-- ethiopian airlines phone number nairobi
-- ethiopian airlines contact number kenya
+- 'turkish airlines nairobi terminal'
+- 'emirates airlines mombasa office'
+- 'ethiopian airlines ticket price from doha to nairobi'
+- 'ethiopian airlines phone number nairobi'
+- 'ethiopian airlines contact number kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

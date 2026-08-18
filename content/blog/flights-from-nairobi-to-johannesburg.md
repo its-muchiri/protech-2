@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Johannesburg: Complete Guide'
-description: Everything you need to know about flights from nairobi to johannesburg, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to johannesburg, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-johannesburg
-primary_keyword: flights from nairobi to johannesburg
+primary_keyword: 'flights from nairobi to johannesburg'
 secondary_keywords:
-- nairobi to lodwar flights
-- flights nairobi to nanyuki
-- cheap tickets nairobi to oslo
-- perth to nairobi flights
-- does etihad fly to kenya
+- 'nairobi to lodwar flights'
+- 'flights nairobi to nanyuki'
+- 'cheap tickets nairobi to oslo'
+- 'perth to nairobi flights'
+- 'does etihad fly to kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

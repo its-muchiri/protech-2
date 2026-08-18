@@ -1,14 +1,14 @@
 ---
 title: 'Kq 0203 Flight Status: Complete Guide'
-description: Everything you need to know about kq 0203 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 0203 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq-0203-flight-status
-primary_keyword: kq 0203 flight status
+primary_keyword: 'kq 0203 flight status'
 secondary_keywords:
-- flight from kc to chicago
-- kenya airways flights from harare to london
-- kq flight from lagos to nairobi today
-- kq flight from new york to nairobi today
-- kq flight from nairobi to juba
+- 'flight from kc to chicago'
+- 'kenya airways flights from harare to london'
+- 'kq flight from lagos to nairobi today'
+- 'kq flight from new york to nairobi today'
+- 'kq flight from nairobi to juba'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

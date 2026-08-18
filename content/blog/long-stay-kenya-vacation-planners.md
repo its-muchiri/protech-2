@@ -1,14 +1,14 @@
 ---
 title: 'Long Stay Kenya Vacation Planners: Complete Guide'
-description: Kenya safari guide covering long stay kenya vacation planners, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering long stay kenya vacation planners, including what is included, pricing, and booking advice.'
 slug: long-stay-kenya-vacation-planners
-primary_keyword: Long stay Kenya vacation planners
+primary_keyword: 'Long stay Kenya vacation planners'
 secondary_keywords:
-- Buy Masai Mara safari
-- Operator for Amboseli package book
-- Deal on 4 day Tsavo East family package from Mombasa book
-- Buy 10 day East Africa budget overland tour package
-- Book 11 day Kenya discovery self-drive package (assisted) quote
+- 'Buy Masai Mara safari'
+- 'Operator for Amboseli package book'
+- 'Deal on 4 day Tsavo East family package from Mombasa book'
+- 'Buy 10 day East Africa budget overland tour package'
+- 'Book 11 day Kenya discovery self-drive package (assisted) quote'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kisumu Flights from Nairobi: Complete Guide'
-description: Everything you need to know about kisumu flights from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kisumu flights from nairobi, including routes, airlines, booking tips, and fares.'
 slug: kisumu-flights-from-nairobi
-primary_keyword: kisumu flights from nairobi
+primary_keyword: 'kisumu flights from nairobi'
 secondary_keywords:
-- cheap flights from mombasa to london heathrow
-- flights from entebbe to mombasa
-- flights from gatwick to mombasa kenya
-- flights from mombasa to istanbul
-- jambojet flights from mombasa to nairobi timetable
+- 'cheap flights from mombasa to london heathrow'
+- 'flights from entebbe to mombasa'
+- 'flights from gatwick to mombasa kenya'
+- 'flights from mombasa to istanbul'
+- 'jambojet flights from mombasa to nairobi timetable'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

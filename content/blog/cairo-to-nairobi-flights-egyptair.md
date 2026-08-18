@@ -1,14 +1,14 @@
 ---
 title: 'Cairo to Nairobi Flights Egyptair: Complete Guide'
-description: Everything you need to know about cairo to nairobi flights egyptair, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cairo to nairobi flights egyptair, including routes, airlines, booking tips, and fares.'
 slug: cairo-to-nairobi-flights-egyptair
-primary_keyword: cairo to nairobi flights egyptair
+primary_keyword: 'cairo to nairobi flights egyptair'
 secondary_keywords:
-- flights from nairobi kenya to omaha ne
-- flights from kenya to peru
-- flights to kenya qatar airways
-- rwanda flights from kenya
-- south africa flights from kenya price
+- 'flights from nairobi kenya to omaha ne'
+- 'flights from kenya to peru'
+- 'flights to kenya qatar airways'
+- 'rwanda flights from kenya'
+- 'south africa flights from kenya price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

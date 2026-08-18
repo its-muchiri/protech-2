@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Delhi to New York: Complete Guide'
-description: Everything you need to know about emirates flights from delhi to new york, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from delhi to new york, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-delhi-to-new-york
-primary_keyword: emirates flights from delhi to new york
+primary_keyword: 'emirates flights from delhi to new york'
 secondary_keywords:
-- emirates airlines kenya
-- ethiopian airlines payment methods
-- ethiopian airlines nairobi to lagos
-- ethiopian airlines customer care
-- does turkish airlines fly to morocco
+- 'emirates airlines kenya'
+- 'ethiopian airlines payment methods'
+- 'ethiopian airlines nairobi to lagos'
+- 'ethiopian airlines customer care'
+- 'does turkish airlines fly to morocco'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

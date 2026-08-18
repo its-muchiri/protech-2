@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Rio De Janeiro: Complete Guide'
-description: Everything you need to know about flight from nairobi to rio de janeiro, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to rio de janeiro, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-rio-de-janeiro
-primary_keyword: flight from nairobi to rio de janeiro
+primary_keyword: 'flight from nairobi to rio de janeiro'
 secondary_keywords:
-- kq flight from kisumu to nairobi price
-- kenya airways flight from nairobi to malindi
-- kq flight from nairobi to zanzibar
-- kenya airways flight schedule from accra to nairobi
-- kenya airways flight from nairobi to dubai today
+- 'kq flight from kisumu to nairobi price'
+- 'kenya airways flight from nairobi to malindi'
+- 'kq flight from nairobi to zanzibar'
+- 'kenya airways flight schedule from accra to nairobi'
+- 'kenya airways flight from nairobi to dubai today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

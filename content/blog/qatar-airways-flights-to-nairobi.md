@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways Flights to Nairobi: Complete Guide'
-description: Everything you need to know about qatar airways flights to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways flights to nairobi, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-flights-to-nairobi
-primary_keyword: qatar airways flights to nairobi
+primary_keyword: 'qatar airways flights to nairobi'
 secondary_keywords:
-- does british airways fly to kazakhstan
-- flight prices from kisumu to nairobi
-- flights from kisumu to kitale
-- flights from kisumu to mwanza
-- is kisumu safe
+- 'does british airways fly to kazakhstan'
+- 'flight prices from kisumu to nairobi'
+- 'flights from kisumu to kitale'
+- 'flights from kisumu to mwanza'
+- 'is kisumu safe'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

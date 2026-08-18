@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Edinburgh Today: Complete Guide'
-description: Everything you need to know about emirates flights from edinburgh today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from edinburgh today, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-edinburgh-today
-primary_keyword: emirates flights from edinburgh today
+primary_keyword: 'emirates flights from edinburgh today'
 secondary_keywords:
-- ethiopian airlines nairobi reviews
-- flights nairobi to johannesburg
-- flights from saudi arabia to nairobi
-- ba flights nairobi to london today
-- cheap flights nairobi to dubai
+- 'ethiopian airlines nairobi reviews'
+- 'flights nairobi to johannesburg'
+- 'flights from saudi arabia to nairobi'
+- 'ba flights nairobi to london today'
+- 'cheap flights nairobi to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

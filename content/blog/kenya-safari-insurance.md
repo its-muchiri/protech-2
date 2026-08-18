@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Insurance: Complete Guide'
-description: Kenya safari guide covering kenya safari insurance, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari insurance, including what is included, pricing, and booking advice.'
 slug: kenya-safari-insurance
-primary_keyword: Kenya safari insurance
+primary_keyword: 'Kenya safari insurance'
 secondary_keywords:
-- Kenya safari tour price from Los Angeles USA packages
-- Kenya safari booking agency online UK secure payment
-- Check availability Kenya luxury safari lodge Masai Mara USA dates
-- Top rated Kenya safari tours for families TripAdvisor USA
-- Award-winning Kenya safari lodges booking Europe
+- 'Kenya safari tour price from Los Angeles USA packages'
+- 'Kenya safari booking agency online UK secure payment'
+- 'Check availability Kenya luxury safari lodge Masai Mara USA dates'
+- 'Top rated Kenya safari tours for families TripAdvisor USA'
+- 'Award-winning Kenya safari lodges booking Europe'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

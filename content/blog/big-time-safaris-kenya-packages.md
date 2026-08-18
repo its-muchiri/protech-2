@@ -1,14 +1,14 @@
 ---
 title: 'Big Time Safaris Kenya Packages: Complete Guide'
-description: Kenya safari guide covering big time safaris kenya packages, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering big time safaris kenya packages, including what is included, pricing, and booking advice.'
 slug: big-time-safaris-kenya-packages
-primary_keyword: Big Time Safaris Kenya packages
+primary_keyword: 'Big Time Safaris Kenya packages'
 secondary_keywords:
-- Best value Kenya safari packages money saving tips UK
-- All-inclusive Kenya honeymoon package price USA luxury lodges Mara
-- Reserve specialist bird watching tour package Lake Baringo Kenya USA expert guide hire
-- Book Samburu special five photography safari package Europe expert guide availability
-- Book budget overland truck safari Nairobi to Cape Town including Kenya section UK price duration
+- 'Best value Kenya safari packages money saving tips UK'
+- 'All-inclusive Kenya honeymoon package price USA luxury lodges Mara'
+- 'Reserve specialist bird watching tour package Lake Baringo Kenya USA expert guide hire'
+- 'Book Samburu special five photography safari package Europe expert guide availability'
+- 'Book budget overland truck safari Nairobi to Cape Town including Kenya section UK price duration'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

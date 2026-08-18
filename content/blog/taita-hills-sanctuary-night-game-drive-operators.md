@@ -1,14 +1,14 @@
 ---
 title: 'Taita Hills Sanctuary Night Game Drive Operators: Complete Guide'
-description: Kenya safari guide covering taita hills sanctuary night game drive operators, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering taita hills sanctuary night game drive operators, including what is included, pricing, and booking advice.'
 slug: taita-hills-sanctuary-night-game-drive-operators
-primary_keyword: Taita Hills Sanctuary night game drive operators
+primary_keyword: 'Taita Hills Sanctuary night game drive operators'
 secondary_keywords:
-- Tsavo East and West safari package cost
-- Mombasa start Tsavo safari package buy
-- Luxury tented camp safari Kenya book
-- Secluded honeymoon lodge Kenya package
-- Cheap 3 day Masai Mara package deal
+- 'Tsavo East and West safari package cost'
+- 'Mombasa start Tsavo safari package buy'
+- 'Luxury tented camp safari Kenya book'
+- 'Secluded honeymoon lodge Kenya package'
+- 'Cheap 3 day Masai Mara package deal'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

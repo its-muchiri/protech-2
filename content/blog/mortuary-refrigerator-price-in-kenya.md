@@ -1,14 +1,14 @@
 ---
 title: 'Mortuary Refrigerator Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to mortuary refrigerator price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to mortuary refrigerator price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: mortuary-refrigerator-price-in-kenya
-primary_keyword: Mortuary refrigerator price in Kenya
+primary_keyword: 'Mortuary refrigerator price in Kenya'
 secondary_keywords:
-- Medical gas cylinder suppliers in Mombasa
-- MRI and CT machine repair services in Kenya
-- Digital X-ray machine (DR system) price in Kenya
-- Sysmex XN-1000 hematology analyzer suppliers
-- Microhematocrit centrifuge suppliers
+- 'Medical gas cylinder suppliers in Mombasa'
+- 'MRI and CT machine repair services in Kenya'
+- 'Digital X-ray machine (DR system) price in Kenya'
+- 'Sysmex XN-1000 hematology analyzer suppliers'
+- 'Microhematocrit centrifuge suppliers'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

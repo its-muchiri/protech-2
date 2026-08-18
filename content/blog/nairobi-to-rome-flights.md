@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi to Rome Flights: Complete Guide'
-description: Everything you need to know about nairobi to rome flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about nairobi to rome flights, including routes, airlines, booking tips, and fares.'
 slug: nairobi-to-rome-flights
-primary_keyword: nairobi to rome flights
+primary_keyword: 'nairobi to rome flights'
 secondary_keywords:
-- international flights from eldoret
-- flights from lodwar kenya to eldoret kenya
-- safarilink flights from eldoret to nairobi
-- kq flight attendant jobs
-- kq flights booking
+- 'international flights from eldoret'
+- 'flights from lodwar kenya to eldoret kenya'
+- 'safarilink flights from eldoret to nairobi'
+- 'kq flight attendant jobs'
+- 'kq flights booking'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

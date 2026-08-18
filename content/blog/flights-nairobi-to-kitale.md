@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Kitale: Complete Guide'
-description: Everything you need to know about flights nairobi to kitale, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to kitale, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-kitale
-primary_keyword: flights nairobi to kitale
+primary_keyword: 'flights nairobi to kitale'
 secondary_keywords:
-- jambojet flights from kisumu to nairobi
-- british airways boarding rules
-- flights to kisumu from entebbe uganda
-- flight from kisumu to kigali
-- flights from kisumu to migori
+- 'jambojet flights from kisumu to nairobi'
+- 'british airways boarding rules'
+- 'flights to kisumu from entebbe uganda'
+- 'flight from kisumu to kigali'
+- 'flights from kisumu to migori'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

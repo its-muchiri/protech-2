@@ -1,14 +1,14 @@
 ---
 title: '3.0T MRI Machine Cost for a Hospital in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to 3.0t mri machine cost for a hospital in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to 3.0t mri machine cost for a hospital in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: 3-0t-mri-machine-cost-for-a-hospital-in-nairobi
-primary_keyword: 3.0T MRI machine cost for a hospital in Nairobi
+primary_keyword: '3.0T MRI machine cost for a hospital in Nairobi'
 secondary_keywords:
-- patient diapers Kenya adult
-- test strips Kenya blood glucose
-- medical cotton Kenya roll
-- disposable syringes Kenya
-- medical cotton balls Kenya
+- 'patient diapers Kenya adult'
+- 'test strips Kenya blood glucose'
+- 'medical cotton Kenya roll'
+- 'disposable syringes Kenya'
+- 'medical cotton balls Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

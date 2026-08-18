@@ -1,14 +1,14 @@
 ---
 title: 'Dental Consumables and Materials Suppliers in Kisumu: 2026 Price Guide'
-description: Kenya buying guide to dental consumables and materials suppliers in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to dental consumables and materials suppliers in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: dental-consumables-and-materials-suppliers-in-kisumu
-primary_keyword: Dental consumables and materials suppliers in Kisumu
+primary_keyword: 'Dental consumables and materials suppliers in Kisumu'
 secondary_keywords:
-- medical hygiene products Kenya
-- medical waste collection Kenya
-- medical equipment grants Kenya
-- rural clinic medical supplies Kenya
-- medical instrument sterilization solutions Kenya
+- 'medical hygiene products Kenya'
+- 'medical waste collection Kenya'
+- 'medical equipment grants Kenya'
+- 'rural clinic medical supplies Kenya'
+- 'medical instrument sterilization solutions Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

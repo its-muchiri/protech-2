@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Pakistan: Complete Guide'
-description: Everything you need to know about flight from nairobi to pakistan, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to pakistan, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-pakistan
-primary_keyword: flight from nairobi to pakistan
+primary_keyword: 'flight from nairobi to pakistan'
 secondary_keywords:
-- flights from las vegas to kenya
-- flights from wichita ks to nairobi kenya
-- flights from seiyun yemen to nairobi kenya
-- flights from nairobi kenya to lusaka zambia
-- how much is flight from kenya to uganda
+- 'flights from las vegas to kenya'
+- 'flights from wichita ks to nairobi kenya'
+- 'flights from seiyun yemen to nairobi kenya'
+- 'flights from nairobi kenya to lusaka zambia'
+- 'how much is flight from kenya to uganda'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

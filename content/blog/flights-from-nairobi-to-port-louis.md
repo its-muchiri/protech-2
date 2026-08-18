@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Port Louis: Complete Guide'
-description: Everything you need to know about flights from nairobi to port louis, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to port louis, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-port-louis
-primary_keyword: flights from nairobi to port louis
+primary_keyword: 'flights from nairobi to port louis'
 secondary_keywords:
-- flights from lagos to nairobi kenya
-- cheap flights from melbourne to nairobi kenya
-- flight from kenya to oman price
-- flights from kenya to paris
-- flights from kenya to qatar today
+- 'flights from lagos to nairobi kenya'
+- 'cheap flights from melbourne to nairobi kenya'
+- 'flight from kenya to oman price'
+- 'flights from kenya to paris'
+- 'flights from kenya to qatar today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

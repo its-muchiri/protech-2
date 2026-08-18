@@ -1,14 +1,14 @@
 ---
 title: 'Portable Oxygen Cylinder for Home Use: 2026 Price Guide'
-description: Kenya buying guide to portable oxygen cylinder for home use. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to portable oxygen cylinder for home use. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: portable-oxygen-cylinder-for-home-use
-primary_keyword: Portable oxygen cylinder for home use
+primary_keyword: 'Portable oxygen cylinder for home use'
 secondary_keywords:
-- Hospital laundry equipment suppliers
-- Tonometer repair and calibration
-- Thermal paper for ultrasound machine
-- Audiology booth installation cost
-- ICU bed rental per day in Nairobi
+- 'Hospital laundry equipment suppliers'
+- 'Tonometer repair and calibration'
+- 'Thermal paper for ultrasound machine'
+- 'Audiology booth installation cost'
+- 'ICU bed rental per day in Nairobi'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

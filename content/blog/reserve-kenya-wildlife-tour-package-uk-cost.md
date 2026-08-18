@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Kenya Wildlife Tour Package UK Cost: Complete Guide'
-description: Kenya safari guide covering reserve kenya wildlife tour package uk cost, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve kenya wildlife tour package uk cost, including what is included, pricing, and booking advice.'
 slug: reserve-kenya-wildlife-tour-package-uk-cost
-primary_keyword: Reserve Kenya wildlife tour package UK cost
+primary_keyword: 'Reserve Kenya wildlife tour package UK cost'
 secondary_keywords:
-- Kenya travel safari
-- Laikipia safari
-- Affordable Kenya safari
-- Fly-in Kenya safari
-- Mobile camping safari Kenya
+- 'Kenya travel safari'
+- 'Laikipia safari'
+- 'Affordable Kenya safari'
+- 'Fly-in Kenya safari'
+- 'Mobile camping safari Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

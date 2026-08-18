@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Honeymoon Safari Package Deals USA Luxury: Complete Guide'
-description: Kenya safari guide covering kenya honeymoon safari package deals usa luxury, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya honeymoon safari package deals usa luxury, including what is included, pricing, and booking advice.'
 slug: kenya-honeymoon-safari-package-deals-usa-luxury
-primary_keyword: Kenya honeymoon safari package deals USA luxury
+primary_keyword: 'Kenya honeymoon safari package deals USA luxury'
 secondary_keywords:
-- Safari Kenia (German/Spanish/etc.)
-- Safari vehicle types Kenya
-- Duty free allowances Kenya safari
-- Find Kenya safari tour provider
-- Buy 6 day Amboseli Tsavo safari package
+- 'Safari Kenia (German/Spanish/etc.)'
+- 'Safari vehicle types Kenya'
+- 'Duty free allowances Kenya safari'
+- 'Find Kenya safari tour provider'
+- 'Buy 6 day Amboseli Tsavo safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Nairobi to Frankfurt Germany: Complete Guide'
-description: Everything you need to know about cheap flights from nairobi to frankfurt germany, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from nairobi to frankfurt germany, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-nairobi-to-frankfurt-germany
-primary_keyword: cheap flights from nairobi to frankfurt germany
+primary_keyword: 'cheap flights from nairobi to frankfurt germany'
 secondary_keywords:
-- kq102 flight status
-- kq flight 310
-- kq 486 flight status
-- sq605 flight status
-- kq nbo bom
+- 'kq102 flight status'
+- 'kq flight 310'
+- 'kq 486 flight status'
+- 'sq605 flight status'
+- 'kq nbo bom'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Uk Tomorrow: Complete Guide'
-description: Everything you need to know about flights from kenya to uk tomorrow, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to uk tomorrow, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-uk-tomorrow
-primary_keyword: flights from kenya to uk tomorrow
+primary_keyword: 'flights from kenya to uk tomorrow'
 secondary_keywords:
-- can you fly direct to kenya
-- flights nairobi to entebbe
-- flights to kenya how long
-- flights to kenya july 2025
-- flights from kenya to malaysia
+- 'can you fly direct to kenya'
+- 'flights nairobi to entebbe'
+- 'flights to kenya how long'
+- 'flights to kenya july 2025'
+- 'flights from kenya to malaysia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

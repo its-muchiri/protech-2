@@ -1,14 +1,14 @@
 ---
 title: 'Air Uganda Flights from Nairobi to Entebbe: Complete Guide'
-description: Everything you need to know about air uganda flights from nairobi to entebbe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about air uganda flights from nairobi to entebbe, including routes, airlines, booking tips, and fares.'
 slug: air-uganda-flights-from-nairobi-to-entebbe
-primary_keyword: air uganda flights from nairobi to entebbe
+primary_keyword: 'air uganda flights from nairobi to entebbe'
 secondary_keywords:
-- are there flights from mombasa to malindi
-- does ba fly to botswana
-- cheapest flights from mombasa to eldoret
-- kq flights from mombasa to eldoret
-- flights to mombasa from gatwick
+- 'are there flights from mombasa to malindi'
+- 'does ba fly to botswana'
+- 'cheapest flights from mombasa to eldoret'
+- 'kq flights from mombasa to eldoret'
+- 'flights to mombasa from gatwick'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

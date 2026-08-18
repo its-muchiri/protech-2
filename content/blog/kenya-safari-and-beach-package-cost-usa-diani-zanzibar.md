@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari and Beach Package Cost USA Diani/Zanzibar: Complete Guide'
-description: Kenya safari guide covering kenya safari and beach package cost usa diani/zanzibar, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari and beach package cost usa diani/zanzibar, including what is included, pricing, and booking advice.'
 slug: kenya-safari-and-beach-package-cost-usa-diani-zanzibar
-primary_keyword: Kenya safari and beach package cost USA Diani/Zanzibar
+primary_keyword: 'Kenya safari and beach package cost USA Diani/Zanzibar'
 secondary_keywords:
-- Great Rift Valley lakes safari cost USA birding focus
-- Kenya safari packages from Germany (Deutschland) buchen online
-- Spain (España) Kenya safari holiday deals online
-- Small group Kenya safari company booking guaranteed departures
-- Book Kenya safari peak season 2025 USA limited spots
+- 'Great Rift Valley lakes safari cost USA birding focus'
+- 'Kenya safari packages from Germany (Deutschland) buchen online'
+- 'Spain (España) Kenya safari holiday deals online'
+- 'Small group Kenya safari company booking guaranteed departures'
+- 'Book Kenya safari peak season 2025 USA limited spots'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

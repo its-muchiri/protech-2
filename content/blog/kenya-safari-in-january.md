@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari in January: Complete Guide'
-description: Kenya safari guide covering kenya safari in january, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari in january, including what is included, pricing, and booking advice.'
 slug: kenya-safari-in-january
-primary_keyword: Kenya safari in January
+primary_keyword: 'Kenya safari in January'
 secondary_keywords:
-- Affordable luxury safari Kenya
-- Samburu lodges
-- Rhino sanctuary Kenya visit
-- See black rhino Kenya
-- Kenya safari from Mombasa
+- 'Affordable luxury safari Kenya'
+- 'Samburu lodges'
+- 'Rhino sanctuary Kenya visit'
+- 'See black rhino Kenya'
+- 'Kenya safari from Mombasa'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

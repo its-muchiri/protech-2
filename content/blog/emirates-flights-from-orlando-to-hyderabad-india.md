@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Orlando to Hyderabad India: Complete Guide'
-description: Everything you need to know about emirates flights from orlando to hyderabad india, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from orlando to hyderabad india, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-orlando-to-hyderabad-india
-primary_keyword: emirates flights from orlando to hyderabad india
+primary_keyword: 'emirates flights from orlando to hyderabad india'
 secondary_keywords:
-- jambojet flights nairobi to mombasa
-- kenya airways flights nairobi to mombasa
-- flights nairobi to mumbai
-- flights nairobi to namibia
-- nairobi to columbus oh flights
+- 'jambojet flights nairobi to mombasa'
+- 'kenya airways flights nairobi to mombasa'
+- 'flights nairobi to mumbai'
+- 'flights nairobi to namibia'
+- 'nairobi to columbus oh flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

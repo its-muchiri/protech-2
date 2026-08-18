@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi Departure Kenya Safari Packages Europe Start City: Complete Guide'
-description: Kenya safari guide covering nairobi departure kenya safari packages europe start city, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering nairobi departure kenya safari packages europe start city, including what is included, pricing, and booking advice.'
 slug: nairobi-departure-kenya-safari-packages-europe-start-city
-primary_keyword: Nairobi departure Kenya safari packages Europe start city
+primary_keyword: 'Nairobi departure Kenya safari packages Europe start city'
 secondary_keywords:
-- Wellness safari Kenya
-- Internet access Kenya safari
-- Luxury family safari Kenya Christmas
-- Self drive 4x4 rental Kenya safari (risky, needs research)
-- Kenya safari hidden costs
+- 'Wellness safari Kenya'
+- 'Internet access Kenya safari'
+- 'Luxury family safari Kenya Christmas'
+- 'Self drive 4x4 rental Kenya safari (risky, needs research)'
+- 'Kenya safari hidden costs'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

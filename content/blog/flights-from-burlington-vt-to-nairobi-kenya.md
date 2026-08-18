@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Burlington Vt to Nairobi Kenya: Complete Guide'
-description: Everything you need to know about flights from burlington vt to nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from burlington vt to nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-burlington-vt-to-nairobi-kenya
-primary_keyword: flights from burlington vt to nairobi kenya
+primary_keyword: 'flights from burlington vt to nairobi kenya'
 secondary_keywords:
-- flights from nairobi to stockholm
-- flights from nairobi to uae
-- flights to vipingo from nairobi
-- cheap flights from nairobi to washington dc
-- cheapest flights from nairobi to zanzibar
+- 'flights from nairobi to stockholm'
+- 'flights from nairobi to uae'
+- 'flights to vipingo from nairobi'
+- 'cheap flights from nairobi to washington dc'
+- 'cheapest flights from nairobi to zanzibar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

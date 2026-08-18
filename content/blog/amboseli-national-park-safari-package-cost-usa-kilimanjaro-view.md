@@ -1,14 +1,14 @@
 ---
 title: 'Amboseli National Park Safari Package Cost USA Kilimanjaro View: Complete Guide'
-description: Kenya safari guide covering amboseli national park safari package cost usa kilimanjaro view, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering amboseli national park safari package cost usa kilimanjaro view, including what is included, pricing, and booking advice.'
 slug: amboseli-national-park-safari-package-cost-usa-kilimanjaro-view
-primary_keyword: Amboseli National Park safari package cost USA Kilimanjaro view
+primary_keyword: 'Amboseli National Park safari package cost USA Kilimanjaro view'
 secondary_keywords:
-- 5 day Kenya highlights tour package cost
-- Get quote for 6 day Kenya family safari package
-- Lake Nakuru rhino safari package quote
-- Ol Jogi Conservancy luxury safari booking
-- Masai Mara honeymoon package booking
+- '5 day Kenya highlights tour package cost'
+- 'Get quote for 6 day Kenya family safari package'
+- 'Lake Nakuru rhino safari package quote'
+- 'Ol Jogi Conservancy luxury safari booking'
+- 'Masai Mara honeymoon package booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

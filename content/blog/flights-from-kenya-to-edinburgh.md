@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Edinburgh: Complete Guide'
-description: Everything you need to know about flights from kenya to edinburgh, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to edinburgh, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-edinburgh
-primary_keyword: flights from kenya to edinburgh
+primary_keyword: 'flights from kenya to edinburgh'
 secondary_keywords:
-- flights from mombasa to qatar
-- flights from south africa to mombasa
-- cheap flights from mombasa
-- jambojet flights from kisumu to mombasa
-- cheapest flights from kisumu to mombasa
+- 'flights from mombasa to qatar'
+- 'flights from south africa to mombasa'
+- 'cheap flights from mombasa'
+- 'jambojet flights from kisumu to mombasa'
+- 'cheapest flights from kisumu to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

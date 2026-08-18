@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights: Complete Guide'
-description: Everything you need to know about kq flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights, including routes, airlines, booking tips, and fares.'
 slug: kq-flights
-primary_keyword: kq flights
+primary_keyword: 'kq flights'
 secondary_keywords:
-- flight from mombasa to lagos
-- flights from mombasa to mauritius
-- cost of flights from nairobi to mombasa
-- flights rome mombasa
-- flights from mombasa to uk
+- 'flight from mombasa to lagos'
+- 'flights from mombasa to mauritius'
+- 'cost of flights from nairobi to mombasa'
+- 'flights rome mombasa'
+- 'flights from mombasa to uk'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

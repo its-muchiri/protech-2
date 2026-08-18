@@ -1,14 +1,14 @@
 ---
 title: 'Body Bags Wholesale Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to body bags wholesale price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to body bags wholesale price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: body-bags-wholesale-price-in-kenya
-primary_keyword: Body bags wholesale price in Kenya
+primary_keyword: 'Body bags wholesale price in Kenya'
 secondary_keywords:
-- Dental chair for sale in Eldoret
-- ECG machine suppliers in Meru
-- Lab equipment calibration in Eldoret
-- Ambulance fabrication companies in Nairobi
-- 1.5 Tesla MRI machine price in Kenya
+- 'Dental chair for sale in Eldoret'
+- 'ECG machine suppliers in Meru'
+- 'Lab equipment calibration in Eldoret'
+- 'Ambulance fabrication companies in Nairobi'
+- '1.5 Tesla MRI machine price in Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

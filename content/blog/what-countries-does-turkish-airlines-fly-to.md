@@ -1,14 +1,14 @@
 ---
 title: 'What Countries Does Turkish Airlines Fly to: Complete Guide'
-description: Everything you need to know about what countries does turkish airlines fly to, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about what countries does turkish airlines fly to, including routes, airlines, booking tips, and fares.'
 slug: what-countries-does-turkish-airlines-fly-to
-primary_keyword: what countries does turkish airlines fly to
+primary_keyword: 'what countries does turkish airlines fly to'
 secondary_keywords:
-- flights from nairobi to doha
-- ethiopian airlines flights from nairobi to dubai
-- flights from frankfurt to nairobi
-- cheap flights from nairobi to guangzhou
-- cheap flights from nairobi to london heathrow
+- 'flights from nairobi to doha'
+- 'ethiopian airlines flights from nairobi to dubai'
+- 'flights from frankfurt to nairobi'
+- 'cheap flights from nairobi to guangzhou'
+- 'cheap flights from nairobi to london heathrow'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

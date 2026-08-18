@@ -1,14 +1,14 @@
 ---
 title: 'Emirates from Nairobi to Dubai: Complete Guide'
-description: Everything you need to know about emirates from nairobi to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates from nairobi to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-from-nairobi-to-dubai
-primary_keyword: emirates from nairobi to dubai
+primary_keyword: 'emirates from nairobi to dubai'
 secondary_keywords:
-- kenya airways flight from nairobi to paris
-- kq flight schedule from nairobi to mombasa
-- kenya airways flight from accra to nairobi today
-- kenya airways flight status departures from nairobi to
-- kenya airways jobs
+- 'kenya airways flight from nairobi to paris'
+- 'kq flight schedule from nairobi to mombasa'
+- 'kenya airways flight from accra to nairobi today'
+- 'kenya airways flight status departures from nairobi to'
+- 'kenya airways jobs'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

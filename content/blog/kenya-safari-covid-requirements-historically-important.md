@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari COVID Requirements (Historically Important): Complete Guide'
-description: Kenya safari guide covering kenya safari covid requirements (historically important), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari covid requirements (historically important), including what is included, pricing, and booking advice.'
 slug: kenya-safari-covid-requirements-historically-important
-primary_keyword: Kenya safari COVID requirements (Historically important)
+primary_keyword: 'Kenya safari COVID requirements (Historically important)'
 secondary_keywords:
-- Book Kenya safari with anti-poaching K9 unit visit experience USA conservation donation required
-- Purchase Kenya safari night game drive included package Europe conservancy rules permit
-- Reserve marine safari Watamu snorkeling dolphin watching Kenya Europe boat tour price
-- Book helicopter safari scenic flight Mount Kenya package Europe luxury charter cost
-- Plan Kenya safari
+- 'Book Kenya safari with anti-poaching K9 unit visit experience USA conservation donation required'
+- 'Purchase Kenya safari night game drive included package Europe conservancy rules permit'
+- 'Reserve marine safari Watamu snorkeling dolphin watching Kenya Europe boat tour price'
+- 'Book helicopter safari scenic flight Mount Kenya package Europe luxury charter cost'
+- 'Plan Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

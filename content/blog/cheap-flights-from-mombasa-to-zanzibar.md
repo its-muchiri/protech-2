@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Mombasa to Zanzibar: Complete Guide'
-description: Everything you need to know about cheap flights from mombasa to zanzibar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from mombasa to zanzibar, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-mombasa-to-zanzibar
-primary_keyword: cheap flights from mombasa to zanzibar
+primary_keyword: 'cheap flights from mombasa to zanzibar'
 secondary_keywords:
-- emirates flights from phuket to dubai
-- emirates flight quetta to dubai
-- emirates flight from riyadh to chennai
-- emirates flights from toronto to dubai
-- emirates flights from uk to south africa
+- 'emirates flights from phuket to dubai'
+- 'emirates flight quetta to dubai'
+- 'emirates flight from riyadh to chennai'
+- 'emirates flights from toronto to dubai'
+- 'emirates flights from uk to south africa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

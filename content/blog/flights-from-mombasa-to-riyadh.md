@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Riyadh: Complete Guide'
-description: Everything you need to know about flights from mombasa to riyadh, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to riyadh, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-riyadh
-primary_keyword: flights from mombasa to riyadh
+primary_keyword: 'flights from mombasa to riyadh'
 secondary_keywords:
-- emirates ek 3
-- emirates flight 500
-- emirates flight 764
-- emirates flight 803
-- flight time from nairobi to qatar
+- 'emirates ek 3'
+- 'emirates flight 500'
+- 'emirates flight 764'
+- 'emirates flight 803'
+- 'flight time from nairobi to qatar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

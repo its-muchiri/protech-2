@@ -1,14 +1,14 @@
 ---
 title: 'Affordable Budget Kenya Safari Camping USA Tours: Complete Guide'
-description: Kenya safari guide covering affordable budget kenya safari camping usa tours, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering affordable budget kenya safari camping usa tours, including what is included, pricing, and booking advice.'
 slug: affordable-budget-kenya-safari-camping-usa-tours
-primary_keyword: Affordable budget Kenya safari camping USA tours
+primary_keyword: 'Affordable budget Kenya safari camping USA tours'
 secondary_keywords:
-- Purchase last minute Kenya safari online Europe
-- Kenya safari and beach package cost USA Diani/Zanzibar
-- Book Kenya camping safari adventure Europe overland
-- Kenya wellness safari retreat booking UK spa lodge
-- Meru National Park safari cost Europe Elsa''s Kopje booking
+- 'Purchase last minute Kenya safari online Europe'
+- 'Kenya safari and beach package cost USA Diani/Zanzibar'
+- 'Book Kenya camping safari adventure Europe overland'
+- 'Kenya wellness safari retreat booking UK spa lodge'
+- 'Meru National Park safari cost Europe Elsa''''s Kopje booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

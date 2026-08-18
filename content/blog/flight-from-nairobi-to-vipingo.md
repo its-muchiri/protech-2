@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Vipingo: Complete Guide'
-description: Everything you need to know about flight from nairobi to vipingo, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to vipingo, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-vipingo
-primary_keyword: flight from nairobi to vipingo
+primary_keyword: 'flight from nairobi to vipingo'
 secondary_keywords:
-- kq flights from nairobi to addis ababa
-- kq flights to bangkok
-- kq flight confirmation
-- kq flight departures
-- kq flights schedule to eldoret
+- 'kq flights from nairobi to addis ababa'
+- 'kq flights to bangkok'
+- 'kq flight confirmation'
+- 'kq flight departures'
+- 'kq flights schedule to eldoret'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

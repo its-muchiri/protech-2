@@ -1,14 +1,14 @@
 ---
 title: 'Physiotherapy and Rehabilitation Equipment: 2026 Price Guide'
-description: Kenya buying guide to physiotherapy and rehabilitation equipment. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to physiotherapy and rehabilitation equipment. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: physiotherapy-and-rehabilitation-equipment
-primary_keyword: Physiotherapy and Rehabilitation Equipment
+primary_keyword: 'Physiotherapy and Rehabilitation Equipment'
 secondary_keywords:
-- Operating theatre table price in Kenya
-- Biphasic defibrillator with monitor price
-- Bariatric hospital bed for sale in Eldoret
-- Rollator with seat for elderly in Nairobi
-- Mayo stand instrument trolley cost
+- 'Operating theatre table price in Kenya'
+- 'Biphasic defibrillator with monitor price'
+- 'Bariatric hospital bed for sale in Eldoret'
+- 'Rollator with seat for elderly in Nairobi'
+- 'Mayo stand instrument trolley cost'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

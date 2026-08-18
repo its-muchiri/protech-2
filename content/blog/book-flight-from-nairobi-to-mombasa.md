@@ -1,14 +1,14 @@
 ---
 title: 'Book Flight from Nairobi to Mombasa: Complete Guide'
-description: Everything you need to know about book flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about book flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.'
 slug: book-flight-from-nairobi-to-mombasa
-primary_keyword: book flight from nairobi to mombasa
+primary_keyword: 'book flight from nairobi to mombasa'
 secondary_keywords:
-- how much is flight from kenya to ethiopia
-- flights nairobi to london
-- uganda airlines flights to nairobi
-- nairobi to bujumbura flights
-- cheap flights nairobi to johannesburg
+- 'how much is flight from kenya to ethiopia'
+- 'flights nairobi to london'
+- 'uganda airlines flights to nairobi'
+- 'nairobi to bujumbura flights'
+- 'cheap flights nairobi to johannesburg'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

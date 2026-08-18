@@ -1,14 +1,14 @@
 ---
 title: 'Book Multi-day Walking Safari Northern Kenya Online Europe Experienced Hikers: Complete Guide'
-description: Kenya safari guide covering book multi-day walking safari northern kenya online europe experienced hikers, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book multi-day walking safari northern kenya online europe experienced hikers, including what is included, pricing, and booking advice.'
 slug: book-multi-day-walking-safari-northern-kenya-online-europe-experienced-hikers
-primary_keyword: Book multi-day walking safari northern Kenya online Europe experienced hikers
+primary_keyword: 'Book multi-day walking safari northern Kenya online Europe experienced hikers'
 secondary_keywords:
-- Purchase 12 day East Africa highlights booking
-- Secure fly-in Kenya safari package purchase
-- Kenya safari holiday rates enquiry
-- 5 day Amboseli Tsavo combo package rates
-- Cost estimate 10 day budget Kenya Tanzania camping safari
+- 'Purchase 12 day East Africa highlights booking'
+- 'Secure fly-in Kenya safari package purchase'
+- 'Kenya safari holiday rates enquiry'
+- '5 day Amboseli Tsavo combo package rates'
+- 'Cost estimate 10 day budget Kenya Tanzania camping safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

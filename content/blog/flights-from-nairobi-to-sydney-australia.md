@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Sydney Australia: Complete Guide'
-description: Everything you need to know about flights from nairobi to sydney australia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to sydney australia, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-sydney-australia
-primary_keyword: flights from nairobi to sydney australia
+primary_keyword: 'flights from nairobi to sydney australia'
 secondary_keywords:
-- kq flights from juba to nairobi
-- kq flights to lusaka
-- kq flights to mauritius
-- kq flights to malindi price
-- kq flights schedule today
+- 'kq flights from juba to nairobi'
+- 'kq flights to lusaka'
+- 'kq flights to mauritius'
+- 'kq flights to malindi price'
+- 'kq flights schedule today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

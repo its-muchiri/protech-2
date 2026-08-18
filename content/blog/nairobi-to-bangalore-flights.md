@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi to Bangalore Flights: Complete Guide'
-description: Everything you need to know about nairobi to bangalore flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about nairobi to bangalore flights, including routes, airlines, booking tips, and fares.'
 slug: nairobi-to-bangalore-flights
-primary_keyword: nairobi to bangalore flights
+primary_keyword: 'nairobi to bangalore flights'
 secondary_keywords:
-- kq307 flight status
-- kq 511 flight status
-- kq 625 flight status
-- emirates flight from nairobi to ahmedabad
-- emirates flight from nairobi to dubai price
+- 'kq307 flight status'
+- 'kq 511 flight status'
+- 'kq 625 flight status'
+- 'emirates flight from nairobi to ahmedabad'
+- 'emirates flight from nairobi to dubai price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

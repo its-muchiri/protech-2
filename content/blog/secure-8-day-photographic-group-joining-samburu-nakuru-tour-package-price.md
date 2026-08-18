@@ -1,14 +1,14 @@
 ---
 title: 'Secure 8 Day Photographic Group Joining Samburu Nakuru Tour Package Price: Complete Guide'
-description: Kenya safari guide covering secure 8 day photographic group joining samburu nakuru tour package price, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering secure 8 day photographic group joining samburu nakuru tour package price, including what is included, pricing, and booking advice.'
 slug: secure-8-day-photographic-group-joining-samburu-nakuru-tour-package-price
-primary_keyword: Secure 8 day photographic group joining Samburu Nakuru tour package price
+primary_keyword: 'Secure 8 day photographic group joining Samburu Nakuru tour package price'
 secondary_keywords:
-- Luxury tented camp safari Kenya book
-- Secluded honeymoon lodge Kenya package
-- Cheap 3 day Masai Mara package deal
-- Samburu Mount Kenya safari package price
-- New Year Kenya safari tour booking
+- 'Luxury tented camp safari Kenya book'
+- 'Secluded honeymoon lodge Kenya package'
+- 'Cheap 3 day Masai Mara package deal'
+- 'Samburu Mount Kenya safari package price'
+- 'New Year Kenya safari tour booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights to Dubai from Nairobi: Complete Guide'
-description: Everything you need to know about emirates flights to dubai from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights to dubai from nairobi, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-to-dubai-from-nairobi
-primary_keyword: emirates flights to dubai from nairobi
+primary_keyword: 'emirates flights to dubai from nairobi'
 secondary_keywords:
-- kq 117 flight status
-- kq 2 flight
-- kq 487 flight status
-- kq 584 flight status
-- kq886 flight status
+- 'kq 117 flight status'
+- 'kq 2 flight'
+- 'kq 487 flight status'
+- 'kq 584 flight status'
+- 'kq886 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

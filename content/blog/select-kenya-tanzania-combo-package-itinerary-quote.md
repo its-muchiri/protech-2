@@ -1,14 +1,14 @@
 ---
 title: 'Select Kenya Tanzania Combo Package Itinerary Quote: Complete Guide'
-description: Kenya safari guide covering select kenya tanzania combo package itinerary quote, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering select kenya tanzania combo package itinerary quote, including what is included, pricing, and booking advice.'
 slug: select-kenya-tanzania-combo-package-itinerary-quote
-primary_keyword: Select Kenya Tanzania combo package itinerary quote
+primary_keyword: 'Select Kenya Tanzania combo package itinerary quote'
 secondary_keywords:
-- Reserve 9 day Porini Camps eco-safari package Kenya
-- Book 10 day Kenya adventure package Abercrombie & Kent
-- Reserve Michelin star chef safari experience package (if available)
-- KATO registered tour operators list
-- Destination-Specific Searches
+- 'Reserve 9 day Porini Camps eco-safari package Kenya'
+- 'Book 10 day Kenya adventure package Abercrombie & Kent'
+- 'Reserve Michelin star chef safari experience package (if available)'
+- 'KATO registered tour operators list'
+- 'Destination-Specific Searches'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

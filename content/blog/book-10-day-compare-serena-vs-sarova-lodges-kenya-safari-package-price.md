@@ -1,14 +1,14 @@
 ---
 title: 'Book 10 Day Compare Serena Vs Sarova Lodges Kenya Safari Package Price: Complete Guide'
-description: Kenya safari guide covering book 10 day compare serena vs sarova lodges kenya safari package price, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book 10 day compare serena vs sarova lodges kenya safari package price, including what is included, pricing, and booking advice.'
 slug: book-10-day-compare-serena-vs-sarova-lodges-kenya-safari-package-price
-primary_keyword: Book 10 day compare Serena vs Sarova lodges Kenya safari package price
+primary_keyword: 'Book 10 day compare Serena vs Sarova lodges Kenya safari package price'
 secondary_keywords:
-- Ol Pejeta conservancy tour operators Nanyuki
-- Ruma National Park tour companies Kisumu
-- Bird watching specialized tour operators Kenya
-- Bomas of Kenya cultural show tours
-- 4 day Amboseli Lake Nakuru safari company
+- 'Ol Pejeta conservancy tour operators Nanyuki'
+- 'Ruma National Park tour companies Kisumu'
+- 'Bird watching specialized tour operators Kenya'
+- 'Bomas of Kenya cultural show tours'
+- '4 day Amboseli Lake Nakuru safari company'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

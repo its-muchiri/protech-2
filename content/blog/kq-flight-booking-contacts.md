@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight Booking Contacts: Complete Guide'
-description: Everything you need to know about kq flight booking contacts, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight booking contacts, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-booking-contacts
-primary_keyword: kq flight booking contacts
+primary_keyword: 'kq flight booking contacts'
 secondary_keywords:
-- flights from egypt to emirates
-- emirates flight information
-- emirates flights from heathrow to dubai
-- how many emirates flights from london to dubai a week
-- emirates flights from jfk
+- 'flights from egypt to emirates'
+- 'emirates flight information'
+- 'emirates flights from heathrow to dubai'
+- 'how many emirates flights from london to dubai a week'
+- 'emirates flights from jfk'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

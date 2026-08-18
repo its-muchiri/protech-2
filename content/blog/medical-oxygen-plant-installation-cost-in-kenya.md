@@ -1,14 +1,14 @@
 ---
 title: 'Medical Oxygen Plant Installation Cost in Kenya: 2026 Price Guide'
-description: Kenya buying guide to medical oxygen plant installation cost in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to medical oxygen plant installation cost in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: medical-oxygen-plant-installation-cost-in-kenya
-primary_keyword: Medical oxygen plant installation cost in Kenya
+primary_keyword: 'Medical oxygen plant installation cost in Kenya'
 secondary_keywords:
-- NSK dental handpiece price in Nairobi
-- Ophthalmoscope and retinoscope set (Welch Allyn)
-- N95 and surgical masks bulk suppliers in Kenya
-- Second hand dialysis machine for sale in Kenya
-- Autopsy table and instruments for sale
+- 'NSK dental handpiece price in Nairobi'
+- 'Ophthalmoscope and retinoscope set (Welch Allyn)'
+- 'N95 and surgical masks bulk suppliers in Kenya'
+- 'Second hand dialysis machine for sale in Kenya'
+- 'Autopsy table and instruments for sale'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

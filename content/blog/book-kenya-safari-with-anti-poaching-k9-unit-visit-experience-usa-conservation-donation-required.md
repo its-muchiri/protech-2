@@ -1,14 +1,14 @@
 ---
 title: 'Book Kenya Safari with Anti-poaching K9 Unit Visit Experience USA Conservation Donation Required: Complete Guide'
-description: Kenya safari guide covering book kenya safari with anti-poaching k9 unit visit experience usa conservation donation required, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book kenya safari with anti-poaching k9 unit visit experience usa conservation donation required, including what is included, pricing, and booking advice.'
 slug: book-kenya-safari-with-anti-poaching-k9-unit-visit-experience-usa-conservation-donation-required
-primary_keyword: Book Kenya safari with anti-poaching K9 unit visit experience USA conservation donation required
+primary_keyword: 'Book Kenya safari with anti-poaching K9 unit visit experience USA conservation donation required'
 secondary_keywords:
-- Best Kenya tour operator packages booking
-- Kenya safari package inclusions comparison
-- Kenya safari package with beach extension buy
-- Quote for 7 day Kenya safari
-- Book 3 day Masai Mara migration package (last minute)
+- 'Best Kenya tour operator packages booking'
+- 'Kenya safari package inclusions comparison'
+- 'Kenya safari package with beach extension buy'
+- 'Quote for 7 day Kenya safari'
+- 'Book 3 day Masai Mara migration package (last minute)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

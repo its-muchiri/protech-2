@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Lamu: Complete Guide'
-description: Everything you need to know about flights from mombasa to lamu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to lamu, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-lamu
-primary_keyword: flights from mombasa to lamu
+primary_keyword: 'flights from mombasa to lamu'
 secondary_keywords:
-- flights kenya zanzibar
-- cheap flights from kenya to london
-- are there direct flights from kenya to australia
-- ba flights from kenya to london
-- cheap flights from kenya to usa
+- 'flights kenya zanzibar'
+- 'cheap flights from kenya to london'
+- 'are there direct flights from kenya to australia'
+- 'ba flights from kenya to london'
+- 'cheap flights from kenya to usa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

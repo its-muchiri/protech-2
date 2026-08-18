@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights to New Zealand from South Africa: Complete Guide'
-description: Everything you need to know about emirates flights to new zealand from south africa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights to new zealand from south africa, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-to-new-zealand-from-south-africa
-primary_keyword: emirates flights to new zealand from south africa
+primary_keyword: 'emirates flights to new zealand from south africa'
 secondary_keywords:
-- jambojet flights nairobi to eldoret
-- kenya airways flights nairobi to johannesburg
-- nairobi to kuala lumpur flights
-- flights nairobi to nyc
-- ottawa to nairobi flights
+- 'jambojet flights nairobi to eldoret'
+- 'kenya airways flights nairobi to johannesburg'
+- 'nairobi to kuala lumpur flights'
+- 'flights nairobi to nyc'
+- 'ottawa to nairobi flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Purchase Vintage Car Safari Tour Kenya Experience USA Classic Vehicle Booking Price: Complete Guide'
-description: Kenya safari guide covering purchase vintage car safari tour kenya experience usa classic vehicle booking price, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase vintage car safari tour kenya experience usa classic vehicle booking price, including what is included, pricing, and booking advice.'
 slug: purchase-vintage-car-safari-tour-kenya-experience-usa-classic-vehicle-booking-price
-primary_keyword: Purchase vintage car safari tour Kenya experience USA classic vehicle booking price
+primary_keyword: 'Purchase vintage car safari tour Kenya experience USA classic vehicle booking price'
 secondary_keywords:
-- Sunworld Safaris Kenya reviews
-- Safari tour van hire Nairobi price per day 7 seater
-- Reliable tour operator Kenya forum recommendations (Lonely Planet, Fodor''s)
-- Kenya yoga retreat safari lodges offering wellness programs
-- East African residents safari deals Kenya / Tanzania / Uganda
+- 'Sunworld Safaris Kenya reviews'
+- 'Safari tour van hire Nairobi price per day 7 seater'
+- 'Reliable tour operator Kenya forum recommendations (Lonely Planet, Fodor''''s)'
+- 'Kenya yoga retreat safari lodges offering wellness programs'
+- 'East African residents safari deals Kenya / Tanzania / Uganda'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

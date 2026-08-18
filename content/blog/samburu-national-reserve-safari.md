@@ -1,14 +1,14 @@
 ---
 title: 'Samburu National Reserve Safari: Complete Guide'
-description: Kenya safari guide covering samburu national reserve safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering samburu national reserve safari, including what is included, pricing, and booking advice.'
 slug: samburu-national-reserve-safari
-primary_keyword: Samburu National Reserve safari
+primary_keyword: 'Samburu National Reserve safari'
 secondary_keywords:
-- Rare animals Kenya safari
-- Drive Nairobi to Amboseli safari
-- Kenya safari in January
-- Migration season Masai Mara
-- Travel agency Kenya safari
+- 'Rare animals Kenya safari'
+- 'Drive Nairobi to Amboseli safari'
+- 'Kenya safari in January'
+- 'Migration season Masai Mara'
+- 'Travel agency Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

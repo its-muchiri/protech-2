@@ -1,14 +1,14 @@
 ---
 title: 'Safarilink Flights from Eldoret to Nairobi: Complete Guide'
-description: Everything you need to know about safarilink flights from eldoret to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about safarilink flights from eldoret to nairobi, including routes, airlines, booking tips, and fares.'
 slug: safarilink-flights-from-eldoret-to-nairobi
-primary_keyword: safarilink flights from eldoret to nairobi
+primary_keyword: 'safarilink flights from eldoret to nairobi'
 secondary_keywords:
-- emirates flight 730
-- 8 emirates
-- qatar airways flight from nairobi to doha today
-- nairobi qatar flights
-- how much flight from nairobi to qatar
+- 'emirates flight 730'
+- '8 emirates'
+- 'qatar airways flight from nairobi to doha today'
+- 'nairobi qatar flights'
+- 'how much flight from nairobi to qatar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

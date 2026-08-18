@@ -1,14 +1,14 @@
 ---
 title: 'Kq to Zanzibar: Complete Guide'
-description: Everything you need to know about kq to zanzibar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq to zanzibar, including routes, airlines, booking tips, and fares.'
 slug: kq-to-zanzibar
-primary_keyword: kq to zanzibar
+primary_keyword: 'kq to zanzibar'
 secondary_keywords:
-- jambojet flights from mombasa to nairobi today timetable
-- flights from mombasa to london
-- flights from mombasa to malindi kenya
-- flights from muscat oman to mombasa kenya
-- flights from mombasa to riyadh
+- 'jambojet flights from mombasa to nairobi today timetable'
+- 'flights from mombasa to london'
+- 'flights from mombasa to malindi kenya'
+- 'flights from muscat oman to mombasa kenya'
+- 'flights from mombasa to riyadh'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

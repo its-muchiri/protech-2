@@ -1,14 +1,14 @@
 ---
 title: 'How Many Destinations Does Emirates Airlines Fly to: Complete Guide'
-description: Everything you need to know about how many destinations does emirates airlines fly to, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how many destinations does emirates airlines fly to, including routes, airlines, booking tips, and fares.'
 slug: how-many-destinations-does-emirates-airlines-fly-to
-primary_keyword: how many destinations does emirates airlines fly to
+primary_keyword: 'how many destinations does emirates airlines fly to'
 secondary_keywords:
-- emirates flight from nairobi to dubai price economy class
-- emirates flight from nairobi to dubai
-- emirates nairobi contact number
-- emirates nairobi flights
-- emirates nairobi office telephone number kenya
+- 'emirates flight from nairobi to dubai price economy class'
+- 'emirates flight from nairobi to dubai'
+- 'emirates nairobi contact number'
+- 'emirates nairobi flights'
+- 'emirates nairobi office telephone number kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flight Time from Nairobi to Johannesburg: Complete Guide'
-description: Everything you need to know about flight time from nairobi to johannesburg, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight time from nairobi to johannesburg, including routes, airlines, booking tips, and fares.'
 slug: flight-time-from-nairobi-to-johannesburg
-primary_keyword: flight time from nairobi to johannesburg
+primary_keyword: 'flight time from nairobi to johannesburg'
 secondary_keywords:
-- flights from kenya to cape verde
-- flight from kenya to warsaw
-- flights from nairobi to yemen
-- flight from kenya to zambia price
-- cheapest flight from kenya to south africa
+- 'flights from kenya to cape verde'
+- 'flight from kenya to warsaw'
+- 'flights from nairobi to yemen'
+- 'flight from kenya to zambia price'
+- 'cheapest flight from kenya to south africa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

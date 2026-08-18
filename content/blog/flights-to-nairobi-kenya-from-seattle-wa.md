@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Nairobi Kenya from Seattle Wa: Complete Guide'
-description: Everything you need to know about flights to nairobi kenya from seattle wa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to nairobi kenya from seattle wa, including routes, airlines, booking tips, and fares.'
 slug: flights-to-nairobi-kenya-from-seattle-wa
-primary_keyword: flights to nairobi kenya from seattle wa
+primary_keyword: 'flights to nairobi kenya from seattle wa'
 secondary_keywords:
-- ethiopian airline terminal in nairobi
-- ethiopian airlines nairobi flights suspension
-- flights to turkey from nairobi
-- flight ticket kenya to dubai
-- flight from kenya to dubai time
+- 'ethiopian airline terminal in nairobi'
+- 'ethiopian airlines nairobi flights suspension'
+- 'flights to turkey from nairobi'
+- 'flight ticket kenya to dubai'
+- 'flight from kenya to dubai time'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

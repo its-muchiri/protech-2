@@ -1,14 +1,14 @@
 ---
 title: 'Masai Mara Balloon Safari Booking Companies: Complete Guide'
-description: Kenya safari guide covering masai mara balloon safari booking companies, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering masai mara balloon safari booking companies, including what is included, pricing, and booking advice.'
 slug: masai-mara-balloon-safari-booking-companies
-primary_keyword: Masai Mara balloon safari booking companies
+primary_keyword: 'Masai Mara balloon safari booking companies'
 secondary_keywords:
-- Purchase last minute Kenya safari online Europe
-- Kenya safari and beach package cost USA Diani/Zanzibar
-- Kenya small group safari tours USA max 6 people
-- Buy Kenya primate tracking safari package USA
-- Safari Chyulu Hills booking USA luxury lodge (e.g., Ol Donyo)
+- 'Purchase last minute Kenya safari online Europe'
+- 'Kenya safari and beach package cost USA Diani/Zanzibar'
+- 'Kenya small group safari tours USA max 6 people'
+- 'Buy Kenya primate tracking safari package USA'
+- 'Safari Chyulu Hills booking USA luxury lodge (e.g., Ol Donyo)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

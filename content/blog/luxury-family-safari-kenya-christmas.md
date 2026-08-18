@@ -1,14 +1,14 @@
 ---
 title: 'Luxury Family Safari Kenya Christmas: Complete Guide'
-description: Kenya safari guide covering luxury family safari kenya christmas, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering luxury family safari kenya christmas, including what is included, pricing, and booking advice.'
 slug: luxury-family-safari-kenya-christmas
-primary_keyword: Luxury family safari Kenya Christmas
+primary_keyword: 'Luxury family safari Kenya Christmas'
 secondary_keywords:
-- Quote wedding safari package Kenya elopement
-- Kiambu based travel agents
-- Tsavo West luxury lodge tour operators
-- Mount Kenya climbing tour operators Chogoria route
-- Small group safari tours Kenya
+- 'Quote wedding safari package Kenya elopement'
+- 'Kiambu based travel agents'
+- 'Tsavo West luxury lodge tour operators'
+- 'Mount Kenya climbing tour operators Chogoria route'
+- 'Small group safari tours Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

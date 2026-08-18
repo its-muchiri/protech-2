@@ -1,14 +1,14 @@
 ---
 title: 'Unfenced Camp Kenya Safari: Complete Guide'
-description: Kenya safari guide covering unfenced camp kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering unfenced camp kenya safari, including what is included, pricing, and booking advice.'
 slug: unfenced-camp-kenya-safari
-primary_keyword: Unfenced camp Kenya safari
+primary_keyword: 'Unfenced camp Kenya safari'
 secondary_keywords:
-- Reserve 15 day grand Kenya overland truck budget group package booking
-- Reliable Kenya travel agencies near Thika
-- Private tour companies Kenya custom itineraries
-- Visit Mzima Springs Tsavo West tour package
-- Lake Naivasha boat ride hippo tour price
+- 'Reserve 15 day grand Kenya overland truck budget group package booking'
+- 'Reliable Kenya travel agencies near Thika'
+- 'Private tour companies Kenya custom itineraries'
+- 'Visit Mzima Springs Tsavo West tour package'
+- 'Lake Naivasha boat ride hippo tour price'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 513: Complete Guide'
-description: Everything you need to know about emirates flight 513, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 513, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-513
-primary_keyword: emirates flight 513
+primary_keyword: 'emirates flight 513'
 secondary_keywords:
-- emirates flights from jfk
-- emirates flights from kolkata to dubai
-- emirates flights from larnaca
-- emirates flights from newcastle
-- emirates flight from orlando to dubai today
+- 'emirates flights from jfk'
+- 'emirates flights from kolkata to dubai'
+- 'emirates flights from larnaca'
+- 'emirates flights from newcastle'
+- 'emirates flight from orlando to dubai today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

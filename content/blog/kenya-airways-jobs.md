@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Jobs: Complete Guide'
-description: Everything you need to know about kenya airways jobs, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways jobs, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-jobs
-primary_keyword: kenya airways jobs
+primary_keyword: 'kenya airways jobs'
 secondary_keywords:
-- emirates flights from kenya to dubai
-- flights from finland to kenya
-- flights to germany from kenya today
-- how many flights from kenya to qatar
-- india flights from kenya
+- 'emirates flights from kenya to dubai'
+- 'flights from finland to kenya'
+- 'flights to germany from kenya today'
+- 'how many flights from kenya to qatar'
+- 'india flights from kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Surgical Suction Machine Price in Kisumu: 2026 Price Guide'
-description: Kenya buying guide to surgical suction machine price in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to surgical suction machine price in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: surgical-suction-machine-price-in-kisumu
-primary_keyword: Surgical suction machine price in Kisumu
+primary_keyword: 'Surgical suction machine price in Kisumu'
 secondary_keywords:
-- Veterinary diagnostic test kits suppliers in Kenya
-- Home Care & Emergency Medical Equipment
-- Portable defibrillator for ambulance in Nairobi
-- Visual acuity chart / Snellen chart
-- Blood collection tubes (vacutainers) suppliers
+- 'Veterinary diagnostic test kits suppliers in Kenya'
+- 'Home Care & Emergency Medical Equipment'
+- 'Portable defibrillator for ambulance in Nairobi'
+- 'Visual acuity chart / Snellen chart'
+- 'Blood collection tubes (vacutainers) suppliers'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

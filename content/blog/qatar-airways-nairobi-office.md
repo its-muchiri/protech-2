@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways Nairobi Office: Complete Guide'
-description: Everything you need to know about qatar airways nairobi office, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways nairobi office, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-nairobi-office
-primary_keyword: qatar airways nairobi office
+primary_keyword: 'qatar airways nairobi office'
 secondary_keywords:
-- flights leaving mombasa to zanzibar direct
-- flights from mombasa to maasai mara
-- flights from nairobi to mombasa prices today
-- cheap flights from riyadh to mombasa
-- flights from nairobi to ukunda mombasa
+- 'flights leaving mombasa to zanzibar direct'
+- 'flights from mombasa to maasai mara'
+- 'flights from nairobi to mombasa prices today'
+- 'cheap flights from riyadh to mombasa'
+- 'flights from nairobi to ukunda mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

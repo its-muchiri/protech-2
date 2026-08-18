@@ -1,14 +1,14 @@
 ---
 title: 'Lake Nakuru National Park Day Trip from Nairobi Cost Flamingo Hill Camp: Complete Guide'
-description: Kenya safari guide covering lake nakuru national park day trip from nairobi cost flamingo hill camp, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering lake nakuru national park day trip from nairobi cost flamingo hill camp, including what is included, pricing, and booking advice.'
 slug: lake-nakuru-national-park-day-trip-from-nairobi-cost-flamingo-hill-camp
-primary_keyword: Lake Nakuru National Park day trip from Nairobi cost Flamingo Hill Camp
+primary_keyword: 'Lake Nakuru National Park day trip from Nairobi cost Flamingo Hill Camp'
 secondary_keywords:
-- Luxury tented camp safari discount booking
-- Lake Nakuru tour package cost 4 days
-- Reserve tour  Kenya branch
-- Buy full board Kenya lodge safari package online
-- Compare 7 day Kenya safari package prices
+- 'Luxury tented camp safari discount booking'
+- 'Lake Nakuru tour package cost 4 days'
+- 'Reserve tour  Kenya branch'
+- 'Buy full board Kenya lodge safari package online'
+- 'Compare 7 day Kenya safari package prices'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

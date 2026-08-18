@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Nairobi Terminal: Complete Guide'
-description: Everything you need to know about turkish airlines nairobi terminal, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines nairobi terminal, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-nairobi-terminal
-primary_keyword: turkish airlines nairobi terminal
+primary_keyword: 'turkish airlines nairobi terminal'
 secondary_keywords:
-- emirates flight time from dubai to kenya
-- emirates kenya jobs
-- distance from kenya to united kingdom
-- ethiopia to nairobi flight time
-- ethiopian airlines nairobi contact number whatsapp number
+- 'emirates flight time from dubai to kenya'
+- 'emirates kenya jobs'
+- 'distance from kenya to united kingdom'
+- 'ethiopia to nairobi flight time'
+- 'ethiopian airlines nairobi contact number whatsapp number'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

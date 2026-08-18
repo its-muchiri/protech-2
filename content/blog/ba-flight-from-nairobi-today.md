@@ -1,14 +1,14 @@
 ---
 title: 'Ba Flight from Nairobi Today: Complete Guide'
-description: Everything you need to know about ba flight from nairobi today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ba flight from nairobi today, including routes, airlines, booking tips, and fares.'
 slug: ba-flight-from-nairobi-today
-primary_keyword: ba flight from nairobi today
+primary_keyword: 'ba flight from nairobi today'
 secondary_keywords:
-- emirates flights from paris to dubai
-- emirates flight quotes
-- emirates flights from riyadh to dubai
-- emirates flights from singapore
-- emirates flights from uk to dubai
+- 'emirates flights from paris to dubai'
+- 'emirates flight quotes'
+- 'emirates flights from riyadh to dubai'
+- 'emirates flights from singapore'
+- 'emirates flights from uk to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

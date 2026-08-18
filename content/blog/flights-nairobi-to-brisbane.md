@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Brisbane: Complete Guide'
-description: Everything you need to know about flights nairobi to brisbane, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to brisbane, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-brisbane
-primary_keyword: flights nairobi to brisbane
+primary_keyword: 'flights nairobi to brisbane'
 secondary_keywords:
-- flight from nairobi to london heathrow
-- flight from nairobi to mauritius
-- flight ticket from nigeria to nairobi
-- flight from nairobi to portugal
-- flight from nairobi to romania
+- 'flight from nairobi to london heathrow'
+- 'flight from nairobi to mauritius'
+- 'flight ticket from nigeria to nairobi'
+- 'flight from nairobi to portugal'
+- 'flight from nairobi to romania'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

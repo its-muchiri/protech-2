@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Bespoke Kenya Safari Experience: Complete Guide'
-description: Kenya safari guide covering reserve bespoke kenya safari experience, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve bespoke kenya safari experience, including what is included, pricing, and booking advice.'
 slug: reserve-bespoke-kenya-safari-experience
-primary_keyword: Reserve bespoke Kenya safari experience
+primary_keyword: 'Reserve bespoke Kenya safari experience'
 secondary_keywords:
-- Book affordable 5-day Kenya highlights safari Nairobi departure UK direct operator
-- Book family safari Ol Kinyei Conservancy online UK child rates deals available
-- Book Kenya safari combined with Uganda gorilla trekking fly-in package USA cost permits included
-- Book Kenya safari with anti-poaching K9 unit visit experience USA conservation donation required
-- Purchase Kenya safari night game drive included package Europe conservancy rules permit
+- 'Book affordable 5-day Kenya highlights safari Nairobi departure UK direct operator'
+- 'Book family safari Ol Kinyei Conservancy online UK child rates deals available'
+- 'Book Kenya safari combined with Uganda gorilla trekking fly-in package USA cost permits included'
+- 'Book Kenya safari with anti-poaching K9 unit visit experience USA conservation donation required'
+- 'Purchase Kenya safari night game drive included package Europe conservancy rules permit'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

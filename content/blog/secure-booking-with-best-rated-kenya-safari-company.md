@@ -1,14 +1,14 @@
 ---
 title: 'Secure Booking with Best Rated Kenya Safari Company: Complete Guide'
-description: Kenya safari guide covering secure booking with best rated kenya safari company, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering secure booking with best rated kenya safari company, including what is included, pricing, and booking advice.'
 slug: secure-booking-with-best-rated-kenya-safari-company
-primary_keyword: Secure booking with best rated Kenya safari company
+primary_keyword: 'Secure booking with best rated Kenya safari company'
 secondary_keywords:
-- Top Kenya photographic safari guides booking USA portfolio
-- Buy top rated Kenya Big Five lodge safari package UK online secure booking
-- Book short 3-day Amboseli fly-in safari from Nairobi UK price includes flights
-- Purchase off-the-beaten-path Northern Kenya safari tour UK Turkana expedition cost
-- Find French-speaking driver-guide Kenya safari package booking Europe reliable operator needed
+- 'Top Kenya photographic safari guides booking USA portfolio'
+- 'Buy top rated Kenya Big Five lodge safari package UK online secure booking'
+- 'Book short 3-day Amboseli fly-in safari from Nairobi UK price includes flights'
+- 'Purchase off-the-beaten-path Northern Kenya safari tour UK Turkana expedition cost'
+- 'Find French-speaking driver-guide Kenya safari package booking Europe reliable operator needed'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

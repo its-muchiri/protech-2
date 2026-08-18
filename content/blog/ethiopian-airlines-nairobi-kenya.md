@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Nairobi Kenya: Complete Guide'
-description: Everything you need to know about ethiopian airlines nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-nairobi-kenya
-primary_keyword: ethiopian airlines nairobi kenya
+primary_keyword: 'ethiopian airlines nairobi kenya'
 secondary_keywords:
-- emirates flights from johannesburg to china
-- emirates flights from london
-- emirates flights from melbourne to dubai
-- emirates flights from ord
-- emirates flights from phuket to dubai
+- 'emirates flights from johannesburg to china'
+- 'emirates flights from london'
+- 'emirates flights from melbourne to dubai'
+- 'emirates flights from ord'
+- 'emirates flights from phuket to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

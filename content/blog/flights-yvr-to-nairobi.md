@@ -1,14 +1,14 @@
 ---
 title: 'Flights Yvr to Nairobi: Complete Guide'
-description: Everything you need to know about flights yvr to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights yvr to nairobi, including routes, airlines, booking tips, and fares.'
 slug: flights-yvr-to-nairobi
-primary_keyword: flights yvr to nairobi
+primary_keyword: 'flights yvr to nairobi'
 secondary_keywords:
-- air india flight from nairobi to delhi status
-- ba flight from nairobi to london
-- flight from nairobi to comoros
-- flight from nairobi to dublin
-- flight from nairobi to frankfurt
+- 'air india flight from nairobi to delhi status'
+- 'ba flight from nairobi to london'
+- 'flight from nairobi to comoros'
+- 'flight from nairobi to dublin'
+- 'flight from nairobi to frankfurt'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

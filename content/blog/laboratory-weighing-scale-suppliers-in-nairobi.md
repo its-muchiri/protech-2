@@ -1,14 +1,14 @@
 ---
 title: 'Laboratory Weighing Scale Suppliers in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to laboratory weighing scale suppliers in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to laboratory weighing scale suppliers in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: laboratory-weighing-scale-suppliers-in-nairobi
-primary_keyword: Laboratory weighing scale suppliers in Nairobi
+primary_keyword: 'Laboratory weighing scale suppliers in Nairobi'
 secondary_keywords:
-- online medical supplies Kenya
-- medical equipment suppliers Mombasa
-- alcohol swabs Kenya pack
-- urinary catheters Kenya cost
-- underpads Kenya for beds
+- 'online medical supplies Kenya'
+- 'medical equipment suppliers Mombasa'
+- 'alcohol swabs Kenya pack'
+- 'urinary catheters Kenya cost'
+- 'underpads Kenya for beds'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

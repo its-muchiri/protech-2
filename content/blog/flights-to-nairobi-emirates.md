@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Nairobi Emirates: Complete Guide'
-description: Everything you need to know about flights to nairobi emirates, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to nairobi emirates, including routes, airlines, booking tips, and fares.'
 slug: flights-to-nairobi-emirates
-primary_keyword: flights to nairobi emirates
+primary_keyword: 'flights to nairobi emirates'
 secondary_keywords:
-- kq flight from nairobi to mumbai
-- kenya airways flight schedule nairobi to johannesburg
-- kenya airways flights from nairobi to abuja
-- kenya airways flights from nairobi to cape town today
-- how much is kenya airways flight from nairobi to mombasa
+- 'kq flight from nairobi to mumbai'
+- 'kenya airways flight schedule nairobi to johannesburg'
+- 'kenya airways flights from nairobi to abuja'
+- 'kenya airways flights from nairobi to cape town today'
+- 'how much is kenya airways flight from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

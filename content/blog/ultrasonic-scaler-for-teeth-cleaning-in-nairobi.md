@@ -1,14 +1,14 @@
 ---
 title: 'Ultrasonic Scaler for Teeth Cleaning in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to ultrasonic scaler for teeth cleaning in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to ultrasonic scaler for teeth cleaning in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: ultrasonic-scaler-for-teeth-cleaning-in-nairobi
-primary_keyword: Ultrasonic scaler for teeth cleaning in Nairobi
+primary_keyword: 'Ultrasonic scaler for teeth cleaning in Nairobi'
 secondary_keywords:
-- Hospital beds for sale in Thika
-- Ophthalmic equipment for sale in Kitale
-- Medical equipment importers in Industrial Area, Nairobi
-- Operating theatre lights installation in Mombasa
-- Mobile CT scanner rental services in the Rift Valley
+- 'Hospital beds for sale in Thika'
+- 'Ophthalmic equipment for sale in Kitale'
+- 'Medical equipment importers in Industrial Area, Nairobi'
+- 'Operating theatre lights installation in Mombasa'
+- 'Mobile CT scanner rental services in the Rift Valley'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

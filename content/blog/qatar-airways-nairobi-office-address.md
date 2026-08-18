@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways Nairobi Office Address: Complete Guide'
-description: Everything you need to know about qatar airways nairobi office address, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways nairobi office address, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-nairobi-office-address
-primary_keyword: qatar airways nairobi office address
+primary_keyword: 'qatar airways nairobi office address'
 secondary_keywords:
-- flights from kenya to ethiopia
-- flights to ethiopia from kenya
-- flights from kenya to ghana
-- flights from gatwick to kenya
-- flights from houston to nairobi kenya
+- 'flights from kenya to ethiopia'
+- 'flights to ethiopia from kenya'
+- 'flights from kenya to ghana'
+- 'flights from gatwick to kenya'
+- 'flights from houston to nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

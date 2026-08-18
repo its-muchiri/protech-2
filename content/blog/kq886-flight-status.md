@@ -1,14 +1,14 @@
 ---
 title: 'Kq886 Flight Status: Complete Guide'
-description: Everything you need to know about kq886 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq886 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq886-flight-status
-primary_keyword: kq886 flight status
+primary_keyword: 'kq886 flight status'
 secondary_keywords:
-- flights zurich mombasa
-- flights from kisumu to wilson airport
-- flights from kisumu to diani
-- flights in kisumu
-- flights from kisumu to lodwar
+- 'flights zurich mombasa'
+- 'flights from kisumu to wilson airport'
+- 'flights from kisumu to diani'
+- 'flights in kisumu'
+- 'flights from kisumu to lodwar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

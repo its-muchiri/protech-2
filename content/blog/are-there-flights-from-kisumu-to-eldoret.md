@@ -1,14 +1,14 @@
 ---
 title: 'Are There Flights from Kisumu to Eldoret: Complete Guide'
-description: Everything you need to know about are there flights from kisumu to eldoret, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about are there flights from kisumu to eldoret, including routes, airlines, booking tips, and fares.'
 slug: are-there-flights-from-kisumu-to-eldoret
-primary_keyword: are there flights from kisumu to eldoret
+primary_keyword: 'are there flights from kisumu to eldoret'
 secondary_keywords:
-- kq flights nairobi to london
-- kq flight radar
-- kq flight schedule kisumu to nairobi
-- kq flight new york to nairobi
-- kq nbo los
+- 'kq flights nairobi to london'
+- 'kq flight radar'
+- 'kq flight schedule kisumu to nairobi'
+- 'kq flight new york to nairobi'
+- 'kq nbo los'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

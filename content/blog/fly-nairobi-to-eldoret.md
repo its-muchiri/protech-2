@@ -1,14 +1,14 @@
 ---
 title: 'Fly Nairobi to Eldoret: Complete Guide'
-description: Everything you need to know about fly nairobi to eldoret, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about fly nairobi to eldoret, including routes, airlines, booking tips, and fares.'
 slug: fly-nairobi-to-eldoret
-primary_keyword: fly nairobi to eldoret
+primary_keyword: 'fly nairobi to eldoret'
 secondary_keywords:
-- flight from nairobi to uk
-- klm flight from nairobi to vancouver
-- flight from nairobi to los angeles
-- flight time from nairobi to zanzibar
-- cost of flight from nairobi to south africa
+- 'flight from nairobi to uk'
+- 'klm flight from nairobi to vancouver'
+- 'flight from nairobi to los angeles'
+- 'flight time from nairobi to zanzibar'
+- 'cost of flight from nairobi to south africa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

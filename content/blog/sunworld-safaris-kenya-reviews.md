@@ -1,14 +1,14 @@
 ---
 title: 'Sunworld Safaris Kenya Reviews: Complete Guide'
-description: Kenya safari guide covering sunworld safaris kenya reviews, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering sunworld safaris kenya reviews, including what is included, pricing, and booking advice.'
 slug: sunworld-safaris-kenya-reviews
-primary_keyword: Sunworld Safaris Kenya reviews
+primary_keyword: 'Sunworld Safaris Kenya reviews'
 secondary_keywords:
-- Book Kenya safari with anti-poaching K9 unit visit experience USA conservation donation required
-- Purchase Kenya safari night game drive included package Europe conservancy rules permit
-- Reserve marine safari Watamu snorkeling dolphin watching Kenya Europe boat tour price
-- Book helicopter safari scenic flight Mount Kenya package Europe luxury charter cost
-- Plan Kenya safari
+- 'Book Kenya safari with anti-poaching K9 unit visit experience USA conservation donation required'
+- 'Purchase Kenya safari night game drive included package Europe conservancy rules permit'
+- 'Reserve marine safari Watamu snorkeling dolphin watching Kenya Europe boat tour price'
+- 'Book helicopter safari scenic flight Mount Kenya package Europe luxury charter cost'
+- 'Plan Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

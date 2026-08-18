@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Contact Number Nairobi Kenya: Complete Guide'
-description: Everything you need to know about ethiopian airlines contact number nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines contact number nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-contact-number-nairobi-kenya
-primary_keyword: ethiopian airlines contact number nairobi kenya
+primary_keyword: 'ethiopian airlines contact number nairobi kenya'
 secondary_keywords:
-- emirates flight from nairobi today
-- emirates kenya airport
-- how many hours from kenya to dubai emirates
-- how much is emirates flight from kenya to dubai
-- emirates store kenya
+- 'emirates flight from nairobi today'
+- 'emirates kenya airport'
+- 'how many hours from kenya to dubai emirates'
+- 'how much is emirates flight from kenya to dubai'
+- 'emirates store kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

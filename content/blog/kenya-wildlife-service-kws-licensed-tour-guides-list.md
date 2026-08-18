@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Wildlife Service (KWS) Licensed Tour Guides List: Complete Guide'
-description: Kenya safari guide covering kenya wildlife service (kws) licensed tour guides list, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya wildlife service (kws) licensed tour guides list, including what is included, pricing, and booking advice.'
 slug: kenya-wildlife-service-kws-licensed-tour-guides-list
-primary_keyword: Kenya Wildlife Service (KWS) licensed tour guides list
+primary_keyword: 'Kenya Wildlife Service (KWS) licensed tour guides list'
 secondary_keywords:
-- Explore Kenya safari
-- Tsavo West safari
-- Masai Mara conservancy safari
-- Honeymoon Kenya safari
-- Group Kenya safari
+- 'Explore Kenya safari'
+- 'Tsavo West safari'
+- 'Masai Mara conservancy safari'
+- 'Honeymoon Kenya safari'
+- 'Group Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

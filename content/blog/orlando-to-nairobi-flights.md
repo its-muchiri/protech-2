@@ -1,14 +1,14 @@
 ---
 title: 'Orlando to Nairobi Flights: Complete Guide'
-description: Everything you need to know about orlando to nairobi flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about orlando to nairobi flights, including routes, airlines, booking tips, and fares.'
 slug: orlando-to-nairobi-flights
-primary_keyword: orlando to nairobi flights
+primary_keyword: 'orlando to nairobi flights'
 secondary_keywords:
-- emirates flights from lusaka to london
-- map of emirates flights from dubai
-- emirates flights from orlando to hyderabad india
-- emirates flights from prague
-- qantas points from emirates flights
+- 'emirates flights from lusaka to london'
+- 'map of emirates flights from dubai'
+- 'emirates flights from orlando to hyderabad india'
+- 'emirates flights from prague'
+- 'qantas points from emirates flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

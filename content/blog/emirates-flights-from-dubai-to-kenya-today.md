@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Dubai to Kenya Today: Complete Guide'
-description: Everything you need to know about emirates flights from dubai to kenya today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from dubai to kenya today, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-dubai-to-kenya-today
-primary_keyword: emirates flights from dubai to kenya today
+primary_keyword: 'emirates flights from dubai to kenya today'
 secondary_keywords:
-- flights from perth to nairobi
-- flights from nairobi to romania
-- flights from nairobi to seattle
-- flights from nairobi to ukunda
-- flights from nairobi to venice
+- 'flights from perth to nairobi'
+- 'flights from nairobi to romania'
+- 'flights from nairobi to seattle'
+- 'flights from nairobi to ukunda'
+- 'flights from nairobi to venice'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

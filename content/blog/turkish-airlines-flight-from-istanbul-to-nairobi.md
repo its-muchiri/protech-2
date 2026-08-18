@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Flight from Istanbul to Nairobi: Complete Guide'
-description: Everything you need to know about turkish airlines flight from istanbul to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines flight from istanbul to nairobi, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-flight-from-istanbul-to-nairobi
-primary_keyword: turkish airlines flight from istanbul to nairobi
+primary_keyword: 'turkish airlines flight from istanbul to nairobi'
 secondary_keywords:
-- flights to india from nairobi
-- jambojet flights from nairobi to mombasa
-- flights from nairobi to london today
-- flights from nairobi to mumbai
-- flights from nairobi to nakuru
+- 'flights to india from nairobi'
+- 'jambojet flights from nairobi to mombasa'
+- 'flights from nairobi to london today'
+- 'flights from nairobi to mumbai'
+- 'flights from nairobi to nakuru'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

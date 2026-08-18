@@ -1,14 +1,14 @@
 ---
 title: 'Agro-tourism Safari Kenya: Complete Guide'
-description: Kenya safari guide covering agro-tourism safari kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering agro-tourism safari kenya, including what is included, pricing, and booking advice.'
 slug: agro-tourism-safari-kenya
-primary_keyword: Agro-tourism safari Kenya
+primary_keyword: 'Agro-tourism safari Kenya'
 secondary_keywords:
-- Get booking code 6 day budget Masai Mara safari
-- Reserve 8 day Tortilis Camp Amboseli luxury package
-- Book 7 day Singita Grumeti link Kenya package (linking concepts)
-- Reserve corporate retreat safari package Kenya luxury
-- Compare Kenya safari company prices
+- 'Get booking code 6 day budget Masai Mara safari'
+- 'Reserve 8 day Tortilis Camp Amboseli luxury package'
+- 'Book 7 day Singita Grumeti link Kenya package (linking concepts)'
+- 'Reserve corporate retreat safari package Kenya luxury'
+- 'Compare Kenya safari company prices'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

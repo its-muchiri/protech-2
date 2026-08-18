@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 448: Complete Guide'
-description: Everything you need to know about emirates flight 448, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 448, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-448
-primary_keyword: emirates flight 448
+primary_keyword: 'emirates flight 448'
 secondary_keywords:
-- kq flights to zambia
-- kq 117 flight status
-- kq 2 flight
-- kq 487 flight status
-- kq 584 flight status
+- 'kq flights to zambia'
+- 'kq 117 flight status'
+- 'kq 2 flight'
+- 'kq 487 flight status'
+- 'kq 584 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

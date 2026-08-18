@@ -1,14 +1,14 @@
 ---
 title: 'Lake Nakuru Flamingo Safari Price USA Rhino Sanctuary: Complete Guide'
-description: Kenya safari guide covering lake nakuru flamingo safari price usa rhino sanctuary, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering lake nakuru flamingo safari price usa rhino sanctuary, including what is included, pricing, and booking advice.'
 slug: lake-nakuru-flamingo-safari-price-usa-rhino-sanctuary
-primary_keyword: Lake Nakuru flamingo safari price USA rhino sanctuary
+primary_keyword: 'Lake Nakuru flamingo safari price USA rhino sanctuary'
 secondary_keywords:
-- East African residents safari deals Kenya / Tanzania / Uganda
-- Reserve Kenya wildlife tour package UK cost
-- Amboseli National Park safari deals UK family
-- Low season Kenya safari price Europe (April/May)
-- Kenya Big Five safari holiday deals USA guaranteed sightings
+- 'East African residents safari deals Kenya / Tanzania / Uganda'
+- 'Reserve Kenya wildlife tour package UK cost'
+- 'Amboseli National Park safari deals UK family'
+- 'Low season Kenya safari price Europe (April/May)'
+- 'Kenya Big Five safari holiday deals USA guaranteed sightings'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

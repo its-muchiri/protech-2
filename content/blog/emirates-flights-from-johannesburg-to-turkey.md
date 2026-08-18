@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Johannesburg to Turkey: Complete Guide'
-description: Everything you need to know about emirates flights from johannesburg to turkey, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from johannesburg to turkey, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-johannesburg-to-turkey
-primary_keyword: emirates flights from johannesburg to turkey
+primary_keyword: 'emirates flights from johannesburg to turkey'
 secondary_keywords:
-- cheapest emirates flights from dubai
-- emirates flights from edinburgh
-- emirates flights first class
-- emirates flights from gatwick terminal
-- emirates flights from harare to london
+- 'cheapest emirates flights from dubai'
+- 'emirates flights from edinburgh'
+- 'emirates flights first class'
+- 'emirates flights from gatwick terminal'
+- 'emirates flights from harare to london'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

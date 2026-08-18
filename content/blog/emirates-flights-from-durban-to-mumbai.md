@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Durban to Mumbai: Complete Guide'
-description: Everything you need to know about emirates flights from durban to mumbai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from durban to mumbai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-durban-to-mumbai
-primary_keyword: emirates flights from durban to mumbai
+primary_keyword: 'emirates flights from durban to mumbai'
 secondary_keywords:
-- emirates flights from us to dubai
-- emirates flights to vietnam from uk
-- what destinations do emirates fly to
-- emirates flights from delhi to new york
-- emirates flight 001
+- 'emirates flights from us to dubai'
+- 'emirates flights to vietnam from uk'
+- 'what destinations do emirates fly to'
+- 'emirates flights from delhi to new york'
+- 'emirates flight 001'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

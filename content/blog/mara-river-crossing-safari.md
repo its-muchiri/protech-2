@@ -1,14 +1,14 @@
 ---
 title: 'Mara River Crossing Safari: Complete Guide'
-description: Kenya safari guide covering mara river crossing safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering mara river crossing safari, including what is included, pricing, and booking advice.'
 slug: mara-river-crossing-safari
-primary_keyword: Mara river crossing safari
+primary_keyword: 'Mara river crossing safari'
 secondary_keywords:
-- Custom Kenya safari quote
-- LGBTQ+ friendly Kenya safari
-- Is Kenya safe for safari
-- Kenya safari guide training
-- 5 day Tsavo East West safari from Mombasa
+- 'Custom Kenya safari quote'
+- 'LGBTQ+ friendly Kenya safari'
+- 'Is Kenya safe for safari'
+- 'Kenya safari guide training'
+- '5 day Tsavo East West safari from Mombasa'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kisumu: Complete Guide'
-description: Everything you need to know about flights from kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kisumu, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kisumu
-primary_keyword: flights from kisumu
+primary_keyword: 'flights from kisumu'
 secondary_keywords:
-- kenya airways flights from nairobi to abuja today
-- kenya airways customer service
-- is kenya airways a safe airline
-- kenya airways flight from nairobi to lusaka
-- kenya airways flight from nairobi to mombasa ticket price
+- 'kenya airways flights from nairobi to abuja today'
+- 'kenya airways customer service'
+- 'is kenya airways a safe airline'
+- 'kenya airways flight from nairobi to lusaka'
+- 'kenya airways flight from nairobi to mombasa ticket price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

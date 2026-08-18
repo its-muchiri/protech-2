@@ -1,14 +1,14 @@
 ---
 title: 'Fly-camping Kenya Safari: Complete Guide'
-description: Kenya safari guide covering fly-camping kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering fly-camping kenya safari, including what is included, pricing, and booking advice.'
 slug: fly-camping-kenya-safari
-primary_keyword: Fly-camping Kenya safari
+primary_keyword: 'Fly-camping Kenya safari'
 secondary_keywords:
-- Samburu cultural village visit tour package
-- Kiambethu Tea Farm tour Limuru booking / price from Nairobi / Thika
-- Gamewatchers Safaris Porini Camps price / reviews
-- Kenya tour package cancellation policy refund options
-- Internal flights Kenya Safarilink / AirKenya schedule / price
+- 'Samburu cultural village visit tour package'
+- 'Kiambethu Tea Farm tour Limuru booking / price from Nairobi / Thika'
+- 'Gamewatchers Safaris Porini Camps price / reviews'
+- 'Kenya tour package cancellation policy refund options'
+- 'Internal flights Kenya Safarilink / AirKenya schedule / price'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Vs Kenya Airways: Complete Guide'
-description: Everything you need to know about emirates vs kenya airways, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates vs kenya airways, including routes, airlines, booking tips, and fares.'
 slug: emirates-vs-kenya-airways
-primary_keyword: emirates vs kenya airways
+primary_keyword: 'emirates vs kenya airways'
 secondary_keywords:
-- kenya airways flights from harare to dubai
-- kq flight from nairobi to lagos
-- kq flight from new york
-- kq flight from nairobi to dubai today
-- kq direct flight from nairobi to new york ticket price
+- 'kenya airways flights from harare to dubai'
+- 'kq flight from nairobi to lagos'
+- 'kq flight from new york'
+- 'kq flight from nairobi to dubai today'
+- 'kq direct flight from nairobi to new york ticket price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

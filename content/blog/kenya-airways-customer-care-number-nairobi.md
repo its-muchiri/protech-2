@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Customer Care Number Nairobi: Complete Guide'
-description: Everything you need to know about kenya airways customer care number nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways customer care number nairobi, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-customer-care-number-nairobi
-primary_keyword: kenya airways customer care number nairobi
+primary_keyword: 'kenya airways customer care number nairobi'
 secondary_keywords:
-- nyc to nairobi flights
-- flights nairobi to portugal
-- qatar flights to nairobi today
-- nairobi to rome flights
-- flights nairobi to tel aviv
+- 'nyc to nairobi flights'
+- 'flights nairobi to portugal'
+- 'qatar flights to nairobi today'
+- 'nairobi to rome flights'
+- 'flights nairobi to tel aviv'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

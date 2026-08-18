@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Ground Handlers Directory: Complete Guide'
-description: Kenya safari guide covering kenya ground handlers directory, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya ground handlers directory, including what is included, pricing, and booking advice.'
 slug: kenya-ground-handlers-directory
-primary_keyword: Kenya ground handlers directory
+primary_keyword: 'Kenya ground handlers directory'
 secondary_keywords:
-- Samburu safari package budget enquiry
-- Family friendly Kenya safari tour rates
-- Kenya wildlife safari offers
-- 4 day Masai Mara tour last minute offer
-- Deal 7 day luxury Masai Mara package
+- 'Samburu safari package budget enquiry'
+- 'Family friendly Kenya safari tour rates'
+- 'Kenya wildlife safari offers'
+- '4 day Masai Mara tour last minute offer'
+- 'Deal 7 day luxury Masai Mara package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

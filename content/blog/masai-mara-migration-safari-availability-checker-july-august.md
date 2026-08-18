@@ -1,14 +1,14 @@
 ---
 title: 'Masai Mara Migration Safari Availability Checker July/August: Complete Guide'
-description: Kenya safari guide covering masai mara migration safari availability checker july/august, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering masai mara migration safari availability checker july/august, including what is included, pricing, and booking advice.'
 slug: masai-mara-migration-safari-availability-checker-july-august
-primary_keyword: Masai Mara migration safari availability checker July/August
+primary_keyword: 'Masai Mara migration safari availability checker July/August'
 secondary_keywords:
-- Sustainable tourism certified tour operators Kenya
-- Luxury lodges Masai Mara (e.g., Angama Mara, Mara Serena, Governors Camp) price
-- Rhino sanctuary Lake Nakuru best viewing times
-- Luxury tented camp safari Kenya price comparison
-- Short Kenya safari 2 day / 3 day options from Nairobi
+- 'Sustainable tourism certified tour operators Kenya'
+- 'Luxury lodges Masai Mara (e.g., Angama Mara, Mara Serena, Governors Camp) price'
+- 'Rhino sanctuary Lake Nakuru best viewing times'
+- 'Luxury tented camp safari Kenya price comparison'
+- 'Short Kenya safari 2 day / 3 day options from Nairobi'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

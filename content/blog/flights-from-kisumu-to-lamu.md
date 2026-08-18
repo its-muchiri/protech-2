@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kisumu to Lamu: Complete Guide'
-description: Everything you need to know about flights from kisumu to lamu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kisumu to lamu, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kisumu-to-lamu
-primary_keyword: flights from kisumu to lamu
+primary_keyword: 'flights from kisumu to lamu'
 secondary_keywords:
-- flights from boston to mombasa kenya
-- flights to mombasa cost
-- flights to mombasa direct
-- flights from mombasa to johannesburg
-- flight from nairobi to mombasa how many hours
+- 'flights from boston to mombasa kenya'
+- 'flights to mombasa cost'
+- 'flights to mombasa direct'
+- 'flights from mombasa to johannesburg'
+- 'flight from nairobi to mombasa how many hours'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

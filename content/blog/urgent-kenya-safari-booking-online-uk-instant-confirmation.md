@@ -1,14 +1,14 @@
 ---
 title: 'Urgent Kenya Safari Booking Online UK Instant Confirmation: Complete Guide'
-description: Kenya safari guide covering urgent kenya safari booking online uk instant confirmation, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering urgent kenya safari booking online uk instant confirmation, including what is included, pricing, and booking advice.'
 slug: urgent-kenya-safari-booking-online-uk-instant-confirmation
-primary_keyword: Urgent Kenya safari booking online UK instant confirmation
+primary_keyword: 'Urgent Kenya safari booking online UK instant confirmation'
 secondary_keywords:
-- Eco-lodge safari operator Chyulu Hills
-- Purchase Kenya adventure safari package
-- Reserve Meru National Park package online
-- Book 3 day Kenya safari package
-- Reserve express fly-in safari package (2-3 days)
+- 'Eco-lodge safari operator Chyulu Hills'
+- 'Purchase Kenya adventure safari package'
+- 'Reserve Meru National Park package online'
+- 'Book 3 day Kenya safari package'
+- 'Reserve express fly-in safari package (2-3 days)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

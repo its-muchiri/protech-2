@@ -1,14 +1,14 @@
 ---
 title: 'Addis to Nairobi Flights: Complete Guide'
-description: Everything you need to know about addis to nairobi flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about addis to nairobi flights, including routes, airlines, booking tips, and fares.'
 slug: addis-to-nairobi-flights
-primary_keyword: addis to nairobi flights
+primary_keyword: 'addis to nairobi flights'
 secondary_keywords:
-- ethiopian airlines flight status from nairobi to addis ababa
-- flights nairobi to cape town
-- flights from addis ababa to nairobi today
-- nairobi to diani beach flights
-- cheap flights nairobi to cape town
+- 'ethiopian airlines flight status from nairobi to addis ababa'
+- 'flights nairobi to cape town'
+- 'flights from addis ababa to nairobi today'
+- 'nairobi to diani beach flights'
+- 'cheap flights nairobi to cape town'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

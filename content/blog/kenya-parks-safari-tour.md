@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Parks Safari Tour: Complete Guide'
-description: Kenya safari guide covering kenya parks safari tour, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya parks safari tour, including what is included, pricing, and booking advice.'
 slug: kenya-parks-safari-tour
-primary_keyword: Kenya parks safari tour
+primary_keyword: 'Kenya parks safari tour'
 secondary_keywords:
-- Book 14 day ultimate East Africa luxury package quote
-- Compare and book Kenya safari packages online
-- Confirmed itinerary cost 7 day Masai Mara booking
-- Reserve accessible safari package Kenya quote needed
-- Buy 6 day Mara Engai Wilderness Lodge package deal
+- 'Book 14 day ultimate East Africa luxury package quote'
+- 'Compare and book Kenya safari packages online'
+- 'Confirmed itinerary cost 7 day Masai Mara booking'
+- 'Reserve accessible safari package Kenya quote needed'
+- 'Buy 6 day Mara Engai Wilderness Lodge package deal'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flight Booking Sites in Kenya: Complete Guide'
-description: Everything you need to know about flight booking sites in kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight booking sites in kenya, including routes, airlines, booking tips, and fares.'
 slug: flight-booking-sites-in-kenya
-primary_keyword: flight booking sites in kenya
+primary_keyword: 'flight booking sites in kenya'
 secondary_keywords:
-- flight from nairobi to mombasa jambojet
-- how long is the flight from nairobi to new york
-- flight from nairobi to pretoria
-- flight from nairobi to riyadh
-- flight from nairobi to saudi arabia
+- 'flight from nairobi to mombasa jambojet'
+- 'how long is the flight from nairobi to new york'
+- 'flight from nairobi to pretoria'
+- 'flight from nairobi to riyadh'
+- 'flight from nairobi to saudi arabia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

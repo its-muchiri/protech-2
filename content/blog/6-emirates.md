@@ -1,14 +1,14 @@
 ---
 title: '6 Emirates: Complete Guide'
-description: Everything you need to know about 6 emirates, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about 6 emirates, including routes, airlines, booking tips, and fares.'
 slug: 6-emirates
-primary_keyword: 6 emirates
+primary_keyword: '6 emirates'
 secondary_keywords:
-- domestic flight from nairobi to mombasa
-- lufthansa flight from nairobi to frankfurt
-- flight from nairobi to geneva
-- flight from nairobi to heathrow today
-- indigo flight from nairobi to ahmedabad
+- 'domestic flight from nairobi to mombasa'
+- 'lufthansa flight from nairobi to frankfurt'
+- 'flight from nairobi to geneva'
+- 'flight from nairobi to heathrow today'
+- 'indigo flight from nairobi to ahmedabad'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

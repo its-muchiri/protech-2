@@ -1,14 +1,14 @@
 ---
 title: 'Book Private Kenya Safari Online Quote UK: Complete Guide'
-description: Kenya safari guide covering book private kenya safari online quote uk, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book private kenya safari online quote uk, including what is included, pricing, and booking advice.'
 slug: book-private-kenya-safari-online-quote-uk
-primary_keyword: Book private Kenya safari online quote UK
+primary_keyword: 'Book private Kenya safari online quote UK'
 secondary_keywords:
-- Child-friendly Kenya safari
-- Tailor-made Kenya safari
-- Camel safari Kenya
-- 8 day Kenya safari
-- Kenya safari offers
+- 'Child-friendly Kenya safari'
+- 'Tailor-made Kenya safari'
+- 'Camel safari Kenya'
+- '8 day Kenya safari'
+- 'Kenya safari offers'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Tsavo West National Park Lodges (e.g., Kilaguni Serena, Finch Hattons) Booking: Complete Guide'
-description: Kenya safari guide covering tsavo west national park lodges (e.g., kilaguni serena, finch hattons) booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering tsavo west national park lodges (e.g., kilaguni serena, finch hattons) booking, including what is included, pricing, and booking advice.'
 slug: tsavo-west-national-park-lodges-e-g-kilaguni-serena-finch-hattons-booking
-primary_keyword: Tsavo West National Park lodges (e.g., Kilaguni Serena, Finch Hattons) booking
+primary_keyword: 'Tsavo West National Park lodges (e.g., Kilaguni Serena, Finch Hattons) booking'
 secondary_keywords:
-- Purchase Kenya safari gift voucher online USA redeemable tours packages value
-- Cost difference Masai Mara National Reserve vs private conservancy safari UK benefits comparison
-- Purchase digital nomad long stay Kenya safari workation package USA visa internet lodges deals
-- Reserve Lake Magadi lesser flamingoes safari tour Kenya Europe unique landscape photography booking
-- Find Kenya safari wedding planning services package UK destination wedding venue lodges
+- 'Purchase Kenya safari gift voucher online USA redeemable tours packages value'
+- 'Cost difference Masai Mara National Reserve vs private conservancy safari UK benefits comparison'
+- 'Purchase digital nomad long stay Kenya safari workation package USA visa internet lodges deals'
+- 'Reserve Lake Magadi lesser flamingoes safari tour Kenya Europe unique landscape photography booking'
+- 'Find Kenya safari wedding planning services package UK destination wedding venue lodges'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

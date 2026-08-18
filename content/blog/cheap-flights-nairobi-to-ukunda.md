@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights Nairobi to Ukunda: Complete Guide'
-description: Everything you need to know about cheap flights nairobi to ukunda, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights nairobi to ukunda, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-nairobi-to-ukunda
-primary_keyword: cheap flights nairobi to ukunda
+primary_keyword: 'cheap flights nairobi to ukunda'
 secondary_keywords:
-- emirates flights from glasgow to dubai
-- how many emirates flights from manchester to dubai
-- emirates flights from south africa to india
-- emirates flights from johannesburg to china
-- emirates flights from london
+- 'emirates flights from glasgow to dubai'
+- 'how many emirates flights from manchester to dubai'
+- 'emirates flights from south africa to india'
+- 'emirates flights from johannesburg to china'
+- 'emirates flights from london'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

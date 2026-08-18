@@ -1,14 +1,14 @@
 ---
 title: 'BEST Home Blood Pressure Monitor Recommendations Kenya: 2026 Price Guide'
-description: Kenya buying guide to home blood pressure monitor recommendations kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to home blood pressure monitor recommendations kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: home-blood-pressure-monitor-recommendations-kenya
-primary_keyword: home blood pressure monitor recommendations Kenya
+primary_keyword: 'home blood pressure monitor recommendations Kenya'
 secondary_keywords:
-- General surgery instrument set price in Kenya
-- Hydraulic operating table suppliers in Mombasa
-- Large capacity autoclave for a hospital in Nairobi
-- Hospital mattress and pillow suppliers in Nairobi
-- Stair climbing wheelchair price in Kenya
+- 'General surgery instrument set price in Kenya'
+- 'Hydraulic operating table suppliers in Mombasa'
+- 'Large capacity autoclave for a hospital in Nairobi'
+- 'Hospital mattress and pillow suppliers in Nairobi'
+- 'Stair climbing wheelchair price in Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

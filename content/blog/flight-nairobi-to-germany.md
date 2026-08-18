@@ -1,14 +1,14 @@
 ---
 title: 'Flight Nairobi to Germany: Complete Guide'
-description: Everything you need to know about flight nairobi to germany, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight nairobi to germany, including routes, airlines, booking tips, and fares.'
 slug: flight-nairobi-to-germany
-primary_keyword: flight nairobi to germany
+primary_keyword: 'flight nairobi to germany'
 secondary_keywords:
-- qatar airways in kenya
-- flights kenya to johannesburg
-- flights from kenya to vietnam
-- holidays in kenya 2023
-- flight from kenya to america
+- 'qatar airways in kenya'
+- 'flights kenya to johannesburg'
+- 'flights from kenya to vietnam'
+- 'holidays in kenya 2023'
+- 'flight from kenya to america'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

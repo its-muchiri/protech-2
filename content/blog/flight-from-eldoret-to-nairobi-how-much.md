@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Eldoret to Nairobi How Much: Complete Guide'
-description: Everything you need to know about flight from eldoret to nairobi how much, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from eldoret to nairobi how much, including routes, airlines, booking tips, and fares.'
 slug: flight-from-eldoret-to-nairobi-how-much
-primary_keyword: flight from eldoret to nairobi how much
+primary_keyword: 'flight from eldoret to nairobi how much'
 secondary_keywords:
-- flight from nairobi to kinshasa
-- turkish airline nairobi
-- how do i track a turkish airlines flight
-- turkish airlines contact number nairobi kenya
-- turkish airlines pnr not working
+- 'flight from nairobi to kinshasa'
+- 'turkish airline nairobi'
+- 'how do i track a turkish airlines flight'
+- 'turkish airlines contact number nairobi kenya'
+- 'turkish airlines pnr not working'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

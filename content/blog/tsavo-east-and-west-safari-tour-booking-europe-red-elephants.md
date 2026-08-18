@@ -1,14 +1,14 @@
 ---
 title: 'Tsavo East & West Safari Tour Booking Europe Red Elephants: Complete Guide'
-description: Kenya safari guide covering tsavo east & west safari tour booking europe red elephants, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering tsavo east & west safari tour booking europe red elephants, including what is included, pricing, and booking advice.'
 slug: tsavo-east-and-west-safari-tour-booking-europe-red-elephants
-primary_keyword: Tsavo East & West safari tour booking Europe red elephants
+primary_keyword: 'Tsavo East & West safari tour booking Europe red elephants'
 secondary_keywords:
-- Giraffe safari Kenya (Rothschild''s, Reticulated)
-- Nairobi day trip safari
-- Best time for Kenya safari
-- Kenya safari in December
-- Kenya Association of Tour Operators (KATO) members
+- 'Giraffe safari Kenya (Rothschild''''s, Reticulated)'
+- 'Nairobi day trip safari'
+- 'Best time for Kenya safari'
+- 'Kenya safari in December'
+- 'Kenya Association of Tour Operators (KATO) members'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

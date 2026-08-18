@@ -1,14 +1,14 @@
 ---
 title: 'Flight 540 Nairobi to Kisumu Price Today: Complete Guide'
-description: Everything you need to know about flight 540 nairobi to kisumu price today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight 540 nairobi to kisumu price today, including routes, airlines, booking tips, and fares.'
 slug: flight-540-nairobi-to-kisumu-price-today
-primary_keyword: flight 540 nairobi to kisumu price today
+primary_keyword: 'flight 540 nairobi to kisumu price today'
 secondary_keywords:
-- kenya airways jfk to nairobi review
-- kq flight from kisumu to nairobi price
-- kenya airways flight from nairobi to malindi
-- kq flight from nairobi to zanzibar
-- kenya airways flight schedule from accra to nairobi
+- 'kenya airways jfk to nairobi review'
+- 'kq flight from kisumu to nairobi price'
+- 'kenya airways flight from nairobi to malindi'
+- 'kq flight from nairobi to zanzibar'
+- 'kenya airways flight schedule from accra to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

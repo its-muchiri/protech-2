@@ -1,14 +1,14 @@
 ---
 title: 'Kq 0202 Flight Status: Complete Guide'
-description: Everything you need to know about kq 0202 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 0202 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq-0202-flight-status
-primary_keyword: kq 0202 flight status
+primary_keyword: 'kq 0202 flight status'
 secondary_keywords:
-- flights from kenya to jfk today
-- flight from kenya to united kingdom
-- flights from kenya to luxembourg
-- flights from kenya to madagascar
-- flights from chicago to nairobi kenya
+- 'flights from kenya to jfk today'
+- 'flight from kenya to united kingdom'
+- 'flights from kenya to luxembourg'
+- 'flights from kenya to madagascar'
+- 'flights from chicago to nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights to India from Dubai: Complete Guide'
-description: Everything you need to know about emirates flights to india from dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights to india from dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-to-india-from-dubai
-primary_keyword: emirates flights to india from dubai
+primary_keyword: 'emirates flights to india from dubai'
 secondary_keywords:
-- flights from islamabad to dubai united arab emirates
-- emirates flights from frankfurt
-- emirates flights from glasgow today timetable
-- emirates flights from hong kong
-- emirates flights from iad
+- 'flights from islamabad to dubai united arab emirates'
+- 'emirates flights from frankfurt'
+- 'emirates flights from glasgow today timetable'
+- 'emirates flights from hong kong'
+- 'emirates flights from iad'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

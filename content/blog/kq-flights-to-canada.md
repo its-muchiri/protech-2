@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Canada: Complete Guide'
-description: Everything you need to know about kq flights to canada, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to canada, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-canada
-primary_keyword: kq flights to canada
+primary_keyword: 'kq flights to canada'
 secondary_keywords:
-- flights from florida to kenya
-- flights from glasgow to kenya
-- flights to kenya from houston
-- cheap flights from kenya to ireland
-- flights from johannesburg to nairobi kenya
+- 'flights from florida to kenya'
+- 'flights from glasgow to kenya'
+- 'flights to kenya from houston'
+- 'cheap flights from kenya to ireland'
+- 'flights from johannesburg to nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

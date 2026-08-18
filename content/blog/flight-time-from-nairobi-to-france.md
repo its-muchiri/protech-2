@@ -1,14 +1,14 @@
 ---
 title: 'Flight Time from Nairobi to France: Complete Guide'
-description: Everything you need to know about flight time from nairobi to france, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight time from nairobi to france, including routes, airlines, booking tips, and fares.'
 slug: flight-time-from-nairobi-to-france
-primary_keyword: flight time from nairobi to france
+primary_keyword: 'flight time from nairobi to france'
 secondary_keywords:
-- virgin flights to nairobi
-- flights yvr to nairobi
-- how much is flight from kenya to america
-- how much is flight ticket to nairobi
-- emirates flights from amman to dubai
+- 'virgin flights to nairobi'
+- 'flights yvr to nairobi'
+- 'how much is flight from kenya to america'
+- 'how much is flight ticket to nairobi'
+- 'emirates flights from amman to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

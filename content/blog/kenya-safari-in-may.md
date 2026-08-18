@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari in May: Complete Guide'
-description: Kenya safari guide covering kenya safari in may, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari in may, including what is included, pricing, and booking advice.'
 slug: kenya-safari-in-may
-primary_keyword: Kenya safari in May
+primary_keyword: 'Kenya safari in May'
 secondary_keywords:
-- Kenya safari cost
-- Kenya park fees cost
-- Private safari house Kenya
-- Boat safari Lake Naivasha
-- Leopard spotting Kenya safari
+- 'Kenya safari cost'
+- 'Kenya park fees cost'
+- 'Private safari house Kenya'
+- 'Boat safari Lake Naivasha'
+- 'Leopard spotting Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

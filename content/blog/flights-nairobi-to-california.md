@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to California: Complete Guide'
-description: Everything you need to know about flights nairobi to california, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to california, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-california
-primary_keyword: flights nairobi to california
+primary_keyword: 'flights nairobi to california'
 secondary_keywords:
-- flights from kenya to durban
-- egypt flights from kenya
-- flights from frankfurt to kenya
-- germany flights from kenya
-- flight from kenya to hungary price
+- 'flights from kenya to durban'
+- 'egypt flights from kenya'
+- 'flights from frankfurt to kenya'
+- 'germany flights from kenya'
+- 'flight from kenya to hungary price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

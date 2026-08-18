@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Vic Falls: Complete Guide'
-description: Everything you need to know about flights nairobi to vic falls, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to vic falls, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-vic-falls
-primary_keyword: flights nairobi to vic falls
+primary_keyword: 'flights nairobi to vic falls'
 secondary_keywords:
-- kq flights from mombasa to nairobi
-- cheap flights from nairobi to new york
-- flights from nairobi to paris today
-- cheap flights from nairobi to qatar
-- renegade flights from nairobi to kisumu
+- 'kq flights from mombasa to nairobi'
+- 'cheap flights from nairobi to new york'
+- 'flights from nairobi to paris today'
+- 'cheap flights from nairobi to qatar'
+- 'renegade flights from nairobi to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

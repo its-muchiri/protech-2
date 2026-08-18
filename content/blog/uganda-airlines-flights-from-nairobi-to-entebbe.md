@@ -1,14 +1,14 @@
 ---
 title: 'Uganda Airlines Flights from Nairobi to Entebbe: Complete Guide'
-description: Everything you need to know about uganda airlines flights from nairobi to entebbe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about uganda airlines flights from nairobi to entebbe, including routes, airlines, booking tips, and fares.'
 slug: uganda-airlines-flights-from-nairobi-to-entebbe
-primary_keyword: uganda airlines flights from nairobi to entebbe
+primary_keyword: 'uganda airlines flights from nairobi to entebbe'
 secondary_keywords:
-- kq flights to lagos
-- kq flights nairobi to mombasa
-- kq flights to kisumu price
-- kq flight status jfk to nbo
-- kq flight to usa today
+- 'kq flights to lagos'
+- 'kq flights nairobi to mombasa'
+- 'kq flights to kisumu price'
+- 'kq flight status jfk to nbo'
+- 'kq flight to usa today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

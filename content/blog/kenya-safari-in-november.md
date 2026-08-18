@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari in November: Complete Guide'
-description: Kenya safari guide covering kenya safari in november, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari in november, including what is included, pricing, and booking advice.'
 slug: kenya-safari-in-november
-primary_keyword: Kenya safari in November
+primary_keyword: 'Kenya safari in November'
 secondary_keywords:
-- Book 7 day luxury fly-in Masai Mara migration package July
-- Purchase 6 day Meru Elsa''s Kopje luxury fly-in package quote
-- Local Kenyan tour companies vs international operators
-- Affordable Masai Mara camping safari group joining price
-- Lake Nakuru National Park day trip from Nairobi cost Flamingo Hill Camp
+- 'Book 7 day luxury fly-in Masai Mara migration package July'
+- 'Purchase 6 day Meru Elsa''''s Kopje luxury fly-in package quote'
+- 'Local Kenyan tour companies vs international operators'
+- 'Affordable Masai Mara camping safari group joining price'
+- 'Lake Nakuru National Park day trip from Nairobi cost Flamingo Hill Camp'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

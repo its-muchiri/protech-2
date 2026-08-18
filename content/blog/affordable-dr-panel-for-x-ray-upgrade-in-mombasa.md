@@ -1,14 +1,14 @@
 ---
 title: 'Affordable DR Panel for X-ray Upgrade in Mombasa: 2026 Price Guide'
-description: Kenya buying guide to affordable dr panel for x-ray upgrade in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to affordable dr panel for x-ray upgrade in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: affordable-dr-panel-for-x-ray-upgrade-in-mombasa
-primary_keyword: Affordable DR panel for X-ray upgrade in Mombasa
+primary_keyword: 'Affordable DR panel for X-ray upgrade in Mombasa'
 secondary_keywords:
-- Medical equipment logistics and transport Kenya
-- Dental chair for sale in Eldoret
-- ECG machine suppliers in Meru
-- Lab equipment calibration in Eldoret
-- Ambulance fabrication companies in Nairobi
+- 'Medical equipment logistics and transport Kenya'
+- 'Dental chair for sale in Eldoret'
+- 'ECG machine suppliers in Meru'
+- 'Lab equipment calibration in Eldoret'
+- 'Ambulance fabrication companies in Nairobi'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

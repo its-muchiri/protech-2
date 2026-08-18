@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Toronto to Delhi: Complete Guide'
-description: Everything you need to know about emirates flights from toronto to delhi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from toronto to delhi, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-toronto-to-delhi
-primary_keyword: emirates flights from toronto to delhi
+primary_keyword: 'emirates flights from toronto to delhi'
 secondary_keywords:
-- cheap flights from kenya to uk
-- flights from kenya to edmonton
-- kenya airways flights from freetown to accra
-- flight from kenya to ghana price
-- flights from kenya to hungary
+- 'cheap flights from kenya to uk'
+- 'flights from kenya to edmonton'
+- 'kenya airways flights from freetown to accra'
+- 'flight from kenya to ghana price'
+- 'flights from kenya to hungary'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

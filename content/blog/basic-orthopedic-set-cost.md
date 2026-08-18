@@ -1,14 +1,14 @@
 ---
 title: 'Basic Orthopedic Set Cost: 2026 Price Guide'
-description: Kenya buying guide to basic orthopedic set cost. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to basic orthopedic set cost. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: basic-orthopedic-set-cost
-primary_keyword: Basic orthopedic set cost
+primary_keyword: 'Basic orthopedic set cost'
 secondary_keywords:
-- laparoscopy equipment Kenya
-- hot plates lab Kenya
-- first responder bags Kenya
-- rehabilitation equipment Kenya
-- refractometers medical Kenya
+- 'laparoscopy equipment Kenya'
+- 'hot plates lab Kenya'
+- 'first responder bags Kenya'
+- 'rehabilitation equipment Kenya'
+- 'refractometers medical Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

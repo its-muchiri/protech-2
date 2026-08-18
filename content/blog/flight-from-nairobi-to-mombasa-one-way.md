@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Mombasa One Way: Complete Guide'
-description: Everything you need to know about flight from nairobi to mombasa one way, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to mombasa one way, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-mombasa-one-way
-primary_keyword: flight from nairobi to mombasa one way
+primary_keyword: 'flight from nairobi to mombasa one way'
 secondary_keywords:
-- kq flights nairobi to johannesburg
-- kq flights from lusaka to nairobi today
-- kq flights nairobi to kisumu
-- kq flights from mombasa to nairobi price
-- kq flight schedule from mombasa to nairobi
+- 'kq flights nairobi to johannesburg'
+- 'kq flights from lusaka to nairobi today'
+- 'kq flights nairobi to kisumu'
+- 'kq flights from mombasa to nairobi price'
+- 'kq flight schedule from mombasa to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

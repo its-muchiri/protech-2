@@ -1,14 +1,14 @@
 ---
 title: 'Kq Manage Flight: Complete Guide'
-description: Everything you need to know about kq manage flight, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq manage flight, including routes, airlines, booking tips, and fares.'
 slug: kq-manage-flight
-primary_keyword: kq manage flight
+primary_keyword: 'kq manage flight'
 secondary_keywords:
-- safarilink flights from nairobi to eldoret
-- flight from nairobi to united kingdom
-- flights from nairobi wilson to mombasa
-- cheap flights from nairobi to south africa
-- cheap flights from nairobi to europe
+- 'safarilink flights from nairobi to eldoret'
+- 'flight from nairobi to united kingdom'
+- 'flights from nairobi wilson to mombasa'
+- 'cheap flights from nairobi to south africa'
+- 'cheap flights from nairobi to europe'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

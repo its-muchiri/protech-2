@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Dubai Time: Complete Guide'
-description: Everything you need to know about flight from nairobi to dubai time, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to dubai time, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-dubai-time
-primary_keyword: flight from nairobi to dubai time
+primary_keyword: 'flight from nairobi to dubai time'
 secondary_keywords:
-- zanzibar flights from mombasa
-- flights from kisumu to nairobi today
-- flights from kisumu to eldoret
-- flights from nairobi to kisumu jambojet
-- safari link flights from nairobi to kisumu
+- 'zanzibar flights from mombasa'
+- 'flights from kisumu to nairobi today'
+- 'flights from kisumu to eldoret'
+- 'flights from nairobi to kisumu jambojet'
+- 'safari link flights from nairobi to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

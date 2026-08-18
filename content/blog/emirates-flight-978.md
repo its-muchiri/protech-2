@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 978: Complete Guide'
-description: Everything you need to know about emirates flight 978, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 978, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-978
-primary_keyword: emirates flight 978
+primary_keyword: 'emirates flight 978'
 secondary_keywords:
-- emirates flights to dubai from nairobi
-- emirates flight 407
-- emirates flight 515
-- emirates flight 777 300er seating
-- emirates ek 8
+- 'emirates flights to dubai from nairobi'
+- 'emirates flight 407'
+- 'emirates flight 515'
+- 'emirates flight 777 300er seating'
+- 'emirates ek 8'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Heathrow: Complete Guide'
-description: Everything you need to know about flights from nairobi to heathrow, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to heathrow, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-heathrow
-primary_keyword: flights from nairobi to heathrow
+primary_keyword: 'flights from nairobi to heathrow'
 secondary_keywords:
-- emirates flight 39
-- emirates flight 417
-- emirates flight 622 status
-- emirates flight 8
-- emirates flight 953
+- 'emirates flight 39'
+- 'emirates flight 417'
+- 'emirates flight 622 status'
+- 'emirates flight 8'
+- 'emirates flight 953'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

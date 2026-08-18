@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Vienna: Complete Guide'
-description: Everything you need to know about flights from nairobi to vienna, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to vienna, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-vienna
-primary_keyword: flights from nairobi to vienna
+primary_keyword: 'flights from nairobi to vienna'
 secondary_keywords:
-- kenya airways flights from eldoret to nairobi price
-- kq flights to malindi
-- kq flights to america
-- kq flights to bangui
-- kq flights to china
+- 'kenya airways flights from eldoret to nairobi price'
+- 'kq flights to malindi'
+- 'kq flights to america'
+- 'kq flights to bangui'
+- 'kq flights to china'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

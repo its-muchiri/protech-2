@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Eldoret to Kampala: Complete Guide'
-description: Everything you need to know about flight from eldoret to kampala, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from eldoret to kampala, including routes, airlines, booking tips, and fares.'
 slug: flight-from-eldoret-to-kampala
-primary_keyword: flight from eldoret to kampala
+primary_keyword: 'flight from eldoret to kampala'
 secondary_keywords:
-- flight from nairobi to heathrow today
-- indigo flight from nairobi to ahmedabad
-- jambojet flight from nairobi to ukunda
-- local flight from nairobi to mombasa
-- mombasa flight from nairobi
+- 'flight from nairobi to heathrow today'
+- 'indigo flight from nairobi to ahmedabad'
+- 'jambojet flight from nairobi to ukunda'
+- 'local flight from nairobi to mombasa'
+- 'mombasa flight from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

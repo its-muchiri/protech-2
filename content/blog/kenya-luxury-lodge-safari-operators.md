@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Luxury Lodge Safari Operators: Complete Guide'
-description: Kenya safari guide covering kenya luxury lodge safari operators, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya luxury lodge safari operators, including what is included, pricing, and booking advice.'
 slug: kenya-luxury-lodge-safari-operators
-primary_keyword: Kenya luxury lodge safari operators
+primary_keyword: 'Kenya luxury lodge safari operators'
 secondary_keywords:
-- Fishing safari Lake Turkana / Lake Victoria Nile Perch
-- Book Kenya safari tour online UK
-- Buy luxury lodge safari Kenya USA reviews
-- Kenya family safari holiday cost estimate 2025
-- Specific Safari Types (Luxury, Budget, Family, Honeymoon, Private, Group, etc.)
+- 'Fishing safari Lake Turkana / Lake Victoria Nile Perch'
+- 'Book Kenya safari tour online UK'
+- 'Buy luxury lodge safari Kenya USA reviews'
+- 'Kenya family safari holiday cost estimate 2025'
+- 'Specific Safari Types (Luxury, Budget, Family, Honeymoon, Private, Group, etc.)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

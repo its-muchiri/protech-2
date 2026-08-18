@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Japan from Kenya: Complete Guide'
-description: Everything you need to know about flights to japan from kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to japan from kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-to-japan-from-kenya
-primary_keyword: flights to japan from kenya
+primary_keyword: 'flights to japan from kenya'
 secondary_keywords:
-- kq flights kisumu to nairobi
-- kq flights from london today
-- kq flights nairobi to mombasa today
-- kq travel requirements
-- kq flight schedule nairobi to entebbe
+- 'kq flights kisumu to nairobi'
+- 'kq flights from london today'
+- 'kq flights nairobi to mombasa today'
+- 'kq travel requirements'
+- 'kq flight schedule nairobi to entebbe'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

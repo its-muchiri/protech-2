@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights to Italy from Us: Complete Guide'
-description: Everything you need to know about emirates flights to italy from us, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights to italy from us, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-to-italy-from-us
-primary_keyword: emirates flights to italy from us
+primary_keyword: 'emirates flights to italy from us'
 secondary_keywords:
-- flights nairobi to singapore
-- flight to nairobi time
-- flights nairobi to vietnam
-- flights nairobi wilson to malindi
-- flights nairobi to zurich
+- 'flights nairobi to singapore'
+- 'flight to nairobi time'
+- 'flights nairobi to vietnam'
+- 'flights nairobi wilson to malindi'
+- 'flights nairobi to zurich'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

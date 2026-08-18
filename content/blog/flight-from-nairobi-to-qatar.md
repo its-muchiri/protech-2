@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Qatar: Complete Guide'
-description: Everything you need to know about flight from nairobi to qatar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to qatar, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-qatar
-primary_keyword: flight from nairobi to qatar
+primary_keyword: 'flight from nairobi to qatar'
 secondary_keywords:
-- turkish airlines terminal in nairobi
-- turkish airlines no last name
-- turkish airlines istanbul to nairobi today timetable
-- ethiopian airlines from nairobi
-- ethiopian airlines location in nairobi
+- 'turkish airlines terminal in nairobi'
+- 'turkish airlines no last name'
+- 'turkish airlines istanbul to nairobi today timetable'
+- 'ethiopian airlines from nairobi'
+- 'ethiopian airlines location in nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

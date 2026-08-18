@@ -1,14 +1,14 @@
 ---
 title: 'Primate Safari Kenya (Kakamega, Tana River): Complete Guide'
-description: Kenya safari guide covering primate safari kenya (kakamega, tana river), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering primate safari kenya (kakamega, tana river), including what is included, pricing, and booking advice.'
 slug: primate-safari-kenya-kakamega-tana-river
-primary_keyword: Primate safari Kenya (Kakamega, Tana River)
+primary_keyword: 'Primate safari Kenya (Kakamega, Tana River)'
 secondary_keywords:
-- Get final cost 7 day Masai Mara fly-in package August booking
-- Reserve guaranteed window seat safari vehicle package Kenya
-- International tour operators in Kenya
-- Ol Pejeta chimpanzee sanctuary tours
-- Kakamega Forest bird watching tour operators
+- 'Get final cost 7 day Masai Mara fly-in package August booking'
+- 'Reserve guaranteed window seat safari vehicle package Kenya'
+- 'International tour operators in Kenya'
+- 'Ol Pejeta chimpanzee sanctuary tours'
+- 'Kakamega Forest bird watching tour operators'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

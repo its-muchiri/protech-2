@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Raleigh to Kenya: Complete Guide'
-description: Everything you need to know about flights from raleigh to kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from raleigh to kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-raleigh-to-kenya
-primary_keyword: flights from raleigh to kenya
+primary_keyword: 'flights from raleigh to kenya'
 secondary_keywords:
-- cheap flights nairobi to kisumu
-- flights nairobi to eldoret
-- flights to nairobi from johannesburg
-- google flights nairobi to dubai
-- hargeisa to nairobi flights
+- 'cheap flights nairobi to kisumu'
+- 'flights nairobi to eldoret'
+- 'flights to nairobi from johannesburg'
+- 'google flights nairobi to dubai'
+- 'hargeisa to nairobi flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

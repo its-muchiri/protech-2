@@ -1,14 +1,14 @@
 ---
 title: 'El Molo Village Tour Lake Turkana Operators: Complete Guide'
-description: Kenya safari guide covering el molo village tour lake turkana operators, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering el molo village tour lake turkana operators, including what is included, pricing, and booking advice.'
 slug: el-molo-village-tour-lake-turkana-operators
-primary_keyword: El Molo village tour Lake Turkana operators
+primary_keyword: 'El Molo village tour Lake Turkana operators'
 secondary_keywords:
-- Best hiking trails near Thika / Kiambu Karura Forest / Kereita Forest Ziplining
-- Hell''s Gate National Park day trip cycling / hiking tour price
-- Go Kenya Tours and Safaris packages
-- Custom Kenya safari itinerary builder online tool
-- WiFi availability safari lodges Kenya cost / speed
+- 'Best hiking trails near Thika / Kiambu Karura Forest / Kereita Forest Ziplining'
+- 'Hell''''s Gate National Park day trip cycling / hiking tour price'
+- 'Go Kenya Tours and Safaris packages'
+- 'Custom Kenya safari itinerary builder online tool'
+- 'WiFi availability safari lodges Kenya cost / speed'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kisumu to Kigali: Complete Guide'
-description: Everything you need to know about flight from kisumu to kigali, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kisumu to kigali, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kisumu-to-kigali
-primary_keyword: flight from kisumu to kigali
+primary_keyword: 'flight from kisumu to kigali'
 secondary_keywords:
-- flights nairobi to zurich
-- how much is a flight from nairobi to ukunda
-- emirates flights from
-- emirates flights to uk from south africa
-- emirates flights to bali from south africa
+- 'flights nairobi to zurich'
+- 'how much is a flight from nairobi to ukunda'
+- 'emirates flights from'
+- 'emirates flights to uk from south africa'
+- 'emirates flights to bali from south africa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

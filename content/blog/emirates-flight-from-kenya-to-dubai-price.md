@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight from Kenya to Dubai Price: Complete Guide'
-description: Everything you need to know about emirates flight from kenya to dubai price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight from kenya to dubai price, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-from-kenya-to-dubai-price
-primary_keyword: emirates flight from kenya to dubai price
+primary_keyword: 'emirates flight from kenya to dubai price'
 secondary_keywords:
-- emirates flights to brisbane from uk
-- cheapest emirates flights from uk
-- emirates flights from entebbe to dubai
-- emirates flights for today
-- emirates flights from glasgow today
+- 'emirates flights to brisbane from uk'
+- 'cheapest emirates flights from uk'
+- 'emirates flights from entebbe to dubai'
+- 'emirates flights for today'
+- 'emirates flights from glasgow today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Holiday Sale: Complete Guide'
-description: Kenya safari guide covering kenya safari holiday sale, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari holiday sale, including what is included, pricing, and booking advice.'
 slug: kenya-safari-holiday-sale
-primary_keyword: Kenya safari holiday sale
+primary_keyword: 'Kenya safari holiday sale'
 secondary_keywords:
-- Find LGBTQ+ welcoming Kenya safari tour operator USA safe travel recommendations reviews
-- Book Amboseli cultural manyatta stay safari package Europe immersive experience booking
-- Buy Kenya safari app guide download purchase recommendations offline maps features
-- Kenya adventure safari
-- Tsavo National Park safari
+- 'Find LGBTQ+ welcoming Kenya safari tour operator USA safe travel recommendations reviews'
+- 'Book Amboseli cultural manyatta stay safari package Europe immersive experience booking'
+- 'Buy Kenya safari app guide download purchase recommendations offline maps features'
+- 'Kenya adventure safari'
+- 'Tsavo National Park safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

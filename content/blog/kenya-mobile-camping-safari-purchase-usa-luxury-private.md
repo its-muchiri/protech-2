@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Mobile Camping Safari Purchase USA Luxury Private: Complete Guide'
-description: Kenya safari guide covering kenya mobile camping safari purchase usa luxury private, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya mobile camping safari purchase usa luxury private, including what is included, pricing, and booking advice.'
 slug: kenya-mobile-camping-safari-purchase-usa-luxury-private
-primary_keyword: Kenya mobile camping safari purchase USA luxury private
+primary_keyword: 'Kenya mobile camping safari purchase USA luxury private'
 secondary_keywords:
-- Safety for solo female traveler Nairobi safari
-- Paleontology tour Lake Turkana (very niche)
-- Kenia safari reis (Dutch)
-- Books about Kenya safari
-- Kenya safari package price quote
+- 'Safety for solo female traveler Nairobi safari'
+- 'Paleontology tour Lake Turkana (very niche)'
+- 'Kenia safari reis (Dutch)'
+- 'Books about Kenya safari'
+- 'Kenya safari package price quote'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

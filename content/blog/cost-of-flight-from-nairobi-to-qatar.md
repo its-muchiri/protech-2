@@ -1,14 +1,14 @@
 ---
 title: 'Cost of Flight from Nairobi to Qatar: Complete Guide'
-description: Everything you need to know about cost of flight from nairobi to qatar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cost of flight from nairobi to qatar, including routes, airlines, booking tips, and fares.'
 slug: cost-of-flight-from-nairobi-to-qatar
-primary_keyword: cost of flight from nairobi to qatar
+primary_keyword: 'cost of flight from nairobi to qatar'
 secondary_keywords:
-- flights from kenya to new york
-- cheap flights from new york to kenya
-- how much is flight from kenya to south africa
-- 748 flights to kisumu
-- flights from nairobi to kisumu
+- 'flights from kenya to new york'
+- 'cheap flights from new york to kenya'
+- 'how much is flight from kenya to south africa'
+- '748 flights to kisumu'
+- 'flights from nairobi to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

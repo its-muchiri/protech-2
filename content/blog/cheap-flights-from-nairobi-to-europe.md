@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Nairobi to Europe: Complete Guide'
-description: Everything you need to know about cheap flights from nairobi to europe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from nairobi to europe, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-nairobi-to-europe
-primary_keyword: cheap flights from nairobi to europe
+primary_keyword: 'cheap flights from nairobi to europe'
 secondary_keywords:
-- flights from masai mara to mombasa
-- flight from eldoret to mombasa price
-- flights from rome to mombasa
-- uganda airlines flights from mombasa to entebbe
-- flights to mombasa from nairobi prices
+- 'flights from masai mara to mombasa'
+- 'flight from eldoret to mombasa price'
+- 'flights from rome to mombasa'
+- 'uganda airlines flights from mombasa to entebbe'
+- 'flights to mombasa from nairobi prices'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

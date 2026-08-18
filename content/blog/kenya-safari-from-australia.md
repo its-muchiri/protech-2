@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari from Australia: Complete Guide'
-description: Kenya safari guide covering kenya safari from australia, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari from australia, including what is included, pricing, and booking advice.'
 slug: kenya-safari-from-australia
-primary_keyword: Kenya safari from Australia
+primary_keyword: 'Kenya safari from Australia'
 secondary_keywords:
-- Reserve Kenya coast safari fly-in package
-- Book long Kenya safari package (10+ days)
-- Buy 10 day budget Kenya Tanzania camping safari booking
-- Masai Mara safari package cost estimate
-- Price quote 10 day Kenya Tanzania combined tour
+- 'Reserve Kenya coast safari fly-in package'
+- 'Book long Kenya safari package (10+ days)'
+- 'Buy 10 day budget Kenya Tanzania camping safari booking'
+- 'Masai Mara safari package cost estimate'
+- 'Price quote 10 day Kenya Tanzania combined tour'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

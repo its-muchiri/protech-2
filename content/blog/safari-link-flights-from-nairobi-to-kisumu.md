@@ -1,14 +1,14 @@
 ---
 title: 'Safari Link Flights from Nairobi to Kisumu: Complete Guide'
-description: Everything you need to know about safari link flights from nairobi to kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about safari link flights from nairobi to kisumu, including routes, airlines, booking tips, and fares.'
 slug: safari-link-flights-from-nairobi-to-kisumu
-primary_keyword: safari link flights from nairobi to kisumu
+primary_keyword: 'safari link flights from nairobi to kisumu'
 secondary_keywords:
-- qatar airways nairobi lounge
-- qatar airways recruitment nairobi 2024
-- kq flights from nairobi to kisumu
-- kq flight from nbo to dxb
-- kq flight from jfk
+- 'qatar airways nairobi lounge'
+- 'qatar airways recruitment nairobi 2024'
+- 'kq flights from nairobi to kisumu'
+- 'kq flight from nbo to dxb'
+- 'kq flight from jfk'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

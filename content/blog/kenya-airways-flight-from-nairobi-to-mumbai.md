@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from Nairobi to Mumbai: Complete Guide'
-description: Everything you need to know about kenya airways flight from nairobi to mumbai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from nairobi to mumbai, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-nairobi-to-mumbai
-primary_keyword: kenya airways flight from nairobi to mumbai
+primary_keyword: 'kenya airways flight from nairobi to mumbai'
 secondary_keywords:
-- kq flights to nairobi
-- kenya airways flights reviews
-- kq flights to zanzibar
-- kq flight to zimbabwe
-- kq 115 flight status
+- 'kq flights to nairobi'
+- 'kenya airways flights reviews'
+- 'kq flights to zanzibar'
+- 'kq flight to zimbabwe'
+- 'kq 115 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

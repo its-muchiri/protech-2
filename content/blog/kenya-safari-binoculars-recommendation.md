@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Binoculars Recommendation: Complete Guide'
-description: Kenya safari guide covering kenya safari binoculars recommendation, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari binoculars recommendation, including what is included, pricing, and booking advice.'
 slug: kenya-safari-binoculars-recommendation
-primary_keyword: Kenya safari binoculars recommendation
+primary_keyword: 'Kenya safari binoculars recommendation'
 secondary_keywords:
-- Book Kenya safari focused on western Kenya rainforest Kakamega primate tracking Europe birding tours
-- Buy Kenya safari cooking class experience package UK local cuisine focus booking
-- Reserve Gede Ruins historical site tour safari package Kenya Europe coastal history focus
-- Kenya safari tours
-- Visit Kenya safari
+- 'Book Kenya safari focused on western Kenya rainforest Kakamega primate tracking Europe birding tours'
+- 'Buy Kenya safari cooking class experience package UK local cuisine focus booking'
+- 'Reserve Gede Ruins historical site tour safari package Kenya Europe coastal history focus'
+- 'Kenya safari tours'
+- 'Visit Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

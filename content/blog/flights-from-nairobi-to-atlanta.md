@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Atlanta: Complete Guide'
-description: Everything you need to know about flights from nairobi to atlanta, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to atlanta, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-atlanta
-primary_keyword: flights from nairobi to atlanta
+primary_keyword: 'flights from nairobi to atlanta'
 secondary_keywords:
-- kenya airways flight from dubai to nairobi today
-- kenya airways flight from jfk to nairobi
-- kenya airways flight schedule from nairobi to mumbai
-- kenya airways flights from nairobi to south africa today
-- flight from nairobi to eldoret
+- 'kenya airways flight from dubai to nairobi today'
+- 'kenya airways flight from jfk to nairobi'
+- 'kenya airways flight schedule from nairobi to mumbai'
+- 'kenya airways flights from nairobi to south africa today'
+- 'flight from nairobi to eldoret'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

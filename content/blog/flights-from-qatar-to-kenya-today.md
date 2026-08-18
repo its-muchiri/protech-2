@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Qatar to Kenya Today: Complete Guide'
-description: Everything you need to know about flights from qatar to kenya today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from qatar to kenya today, including routes, airlines, booking tips, and fares.'
 slug: flights-from-qatar-to-kenya-today
-primary_keyword: flights from qatar to kenya today
+primary_keyword: 'flights from qatar to kenya today'
 secondary_keywords:
-- airlink flights from nairobi to johannesburg
-- flights from nairobi to brussels
-- flights from nairobi to columbus ohio
-- flights from nairobi to doha
-- ethiopian airlines flights from nairobi to dubai
+- 'airlink flights from nairobi to johannesburg'
+- 'flights from nairobi to brussels'
+- 'flights from nairobi to columbus ohio'
+- 'flights from nairobi to doha'
+- 'ethiopian airlines flights from nairobi to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

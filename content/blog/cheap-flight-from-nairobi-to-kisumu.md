@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flight from Nairobi to Kisumu: Complete Guide'
-description: Everything you need to know about cheap flight from nairobi to kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flight from nairobi to kisumu, including routes, airlines, booking tips, and fares.'
 slug: cheap-flight-from-nairobi-to-kisumu
-primary_keyword: cheap flight from nairobi to kisumu
+primary_keyword: 'cheap flight from nairobi to kisumu'
 secondary_keywords:
-- kq flight cape town to nairobi
-- kq flight details
-- kq flights from entebbe to nairobi
-- kq flights today
-- kq flights to juba
+- 'kq flight cape town to nairobi'
+- 'kq flight details'
+- 'kq flights from entebbe to nairobi'
+- 'kq flights today'
+- 'kq flights to juba'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

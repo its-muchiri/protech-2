@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Kuwait: Complete Guide'
-description: Everything you need to know about flights from kenya to kuwait, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to kuwait, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-kuwait
-primary_keyword: flights from kenya to kuwait
+primary_keyword: 'flights from kenya to kuwait'
 secondary_keywords:
-- ethiopia to nairobi flight time
-- ethiopian airlines nairobi contact number whatsapp number
-- ethiopian airlines flight to nairobi today
-- ethiopian airlines nairobi photos
-- 1 ethiopian birr to ksh
+- 'ethiopia to nairobi flight time'
+- 'ethiopian airlines nairobi contact number whatsapp number'
+- 'ethiopian airlines flight to nairobi today'
+- 'ethiopian airlines nairobi photos'
+- '1 ethiopian birr to ksh'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

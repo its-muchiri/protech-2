@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Nairobi Office Telephone Number Kenya: Complete Guide'
-description: Everything you need to know about emirates nairobi office telephone number kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates nairobi office telephone number kenya, including routes, airlines, booking tips, and fares.'
 slug: emirates-nairobi-office-telephone-number-kenya
-primary_keyword: emirates nairobi office telephone number kenya
+primary_keyword: 'emirates nairobi office telephone number kenya'
 secondary_keywords:
-- emirates skycargo kenya
-- how much is a flight from nairobi to ethiopia
-- ethiopian airlines nairobi contact number
-- ethiopian airlines jobs in kenya
-- ethiopian airlines nairobi phone number
+- 'emirates skycargo kenya'
+- 'how much is a flight from nairobi to ethiopia'
+- 'ethiopian airlines nairobi contact number'
+- 'ethiopian airlines jobs in kenya'
+- 'ethiopian airlines nairobi phone number'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

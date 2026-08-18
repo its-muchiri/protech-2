@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi to Zimbabwe Flights: Complete Guide'
-description: Everything you need to know about nairobi to zimbabwe flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about nairobi to zimbabwe flights, including routes, airlines, booking tips, and fares.'
 slug: nairobi-to-zimbabwe-flights
-primary_keyword: nairobi to zimbabwe flights
+primary_keyword: 'nairobi to zimbabwe flights'
 secondary_keywords:
-- kenya airways flights nairobi to london
-- flights nairobi to mogadishu
-- flight nairobi to nigeria
-- ord to nairobi flights
-- flight time nairobi to qatar
+- 'kenya airways flights nairobi to london'
+- 'flights nairobi to mogadishu'
+- 'flight nairobi to nigeria'
+- 'ord to nairobi flights'
+- 'flight time nairobi to qatar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

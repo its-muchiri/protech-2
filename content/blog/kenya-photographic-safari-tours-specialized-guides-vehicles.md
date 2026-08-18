@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Photographic Safari Tours Specialized Guides / Vehicles: Complete Guide'
-description: Kenya safari guide covering kenya photographic safari tours specialized guides / vehicles, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya photographic safari tours specialized guides / vehicles, including what is included, pricing, and booking advice.'
 slug: kenya-photographic-safari-tours-specialized-guides-vehicles
-primary_keyword: Kenya photographic safari tours specialized guides / vehicles
+primary_keyword: 'Kenya photographic safari tours specialized guides / vehicles'
 secondary_keywords:
-- Book multi-generational family reunion safari package Kenya
-- Kenya ground handlers directory
-- Best Amboseli tour operators Kenya
-- Lamu Island cultural tour operators
-- Kenya driving safari 4x4 Land Cruiser companies
+- 'Book multi-generational family reunion safari package Kenya'
+- 'Kenya ground handlers directory'
+- 'Best Amboseli tour operators Kenya'
+- 'Lamu Island cultural tour operators'
+- 'Kenya driving safari 4x4 Land Cruiser companies'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

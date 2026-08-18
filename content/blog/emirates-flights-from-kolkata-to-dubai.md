@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Kolkata to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from kolkata to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from kolkata to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-kolkata-to-dubai
-primary_keyword: emirates flights from kolkata to dubai
+primary_keyword: 'emirates flights from kolkata to dubai'
 secondary_keywords:
-- ethiopian airlines cargo nairobi
-- jambo jet flight from nairobi to eldoret
-- ethiopian airlines from doha to nairobi price one way ticket
-- 1 ethiopian birr to kenyan shillings
-- flights nairobi to abu dhabi
+- 'ethiopian airlines cargo nairobi'
+- 'jambo jet flight from nairobi to eldoret'
+- 'ethiopian airlines from doha to nairobi price one way ticket'
+- '1 ethiopian birr to kenyan shillings'
+- 'flights nairobi to abu dhabi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

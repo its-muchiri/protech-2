@@ -1,14 +1,14 @@
 ---
 title: 'Return Flight from Nairobi to Cape Town: Complete Guide'
-description: Everything you need to know about return flight from nairobi to cape town, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about return flight from nairobi to cape town, including routes, airlines, booking tips, and fares.'
 slug: return-flight-from-nairobi-to-cape-town
-primary_keyword: return flight from nairobi to cape town
+primary_keyword: 'return flight from nairobi to cape town'
 secondary_keywords:
-- flight from nairobi to germany
-- flight from nairobi to homa bay
-- how much is flight from nairobi to kampala
-- jambojet flight from nairobi to mombasa
-- flight from nairobi to london price
+- 'flight from nairobi to germany'
+- 'flight from nairobi to homa bay'
+- 'how much is flight from nairobi to kampala'
+- 'jambojet flight from nairobi to mombasa'
+- 'flight from nairobi to london price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

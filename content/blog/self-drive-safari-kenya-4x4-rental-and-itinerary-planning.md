@@ -1,14 +1,14 @@
 ---
 title: 'Self-drive Safari Kenya 4x4 Rental and Itinerary Planning: Complete Guide'
-description: Kenya safari guide covering self-drive safari kenya 4x4 rental and itinerary planning, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering self-drive safari kenya 4x4 rental and itinerary planning, including what is included, pricing, and booking advice.'
 slug: self-drive-safari-kenya-4x4-rental-and-itinerary-planning
-primary_keyword: Self-drive safari Kenya 4x4 rental and itinerary planning
+primary_keyword: 'Self-drive safari Kenya 4x4 rental and itinerary planning'
 secondary_keywords:
-- Shimba Hills National Reserve day trip from Diani Beach
-- Accessible safari Kenya wheelchair friendly lodges / vehicles
-- Budget beach hotels Mombasa North Coast backpacker options
-- Lamu cultural festival dates and tours 2025
-- Fourteen Falls Thika day trip guide / cost
+- 'Shimba Hills National Reserve day trip from Diani Beach'
+- 'Accessible safari Kenya wheelchair friendly lodges / vehicles'
+- 'Budget beach hotels Mombasa North Coast backpacker options'
+- 'Lamu cultural festival dates and tours 2025'
+- 'Fourteen Falls Thika day trip guide / cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

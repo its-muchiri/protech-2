@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways Flight from Kenya to Doha: Complete Guide'
-description: Everything you need to know about qatar airways flight from kenya to doha, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways flight from kenya to doha, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-flight-from-kenya-to-doha
-primary_keyword: qatar airways flight from kenya to doha
+primary_keyword: 'qatar airways flight from kenya to doha'
 secondary_keywords:
-- cheap flights nairobi to entebbe
-- flights to nairobi emirates
-- flights nairobi to geneva
-- flights nairobi to homa bay
-- flight time nairobi to istanbul
+- 'cheap flights nairobi to entebbe'
+- 'flights to nairobi emirates'
+- 'flights nairobi to geneva'
+- 'flights nairobi to homa bay'
+- 'flight time nairobi to istanbul'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

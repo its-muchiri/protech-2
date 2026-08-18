@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 622 Status: Complete Guide'
-description: Everything you need to know about emirates flight 622 status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 622 status, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-622-status
-primary_keyword: emirates flight 622 status
+primary_keyword: 'emirates flight 622 status'
 secondary_keywords:
-- available flights from nairobi to kisumu
-- british airways flights from nairobi to london today
-- cheap flights from nairobi to dubai
-- dubai flights from nairobi
-- ethiopian airlines flights from nairobi to addis ababa
+- 'available flights from nairobi to kisumu'
+- 'british airways flights from nairobi to london today'
+- 'cheap flights from nairobi to dubai'
+- 'dubai flights from nairobi'
+- 'ethiopian airlines flights from nairobi to addis ababa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

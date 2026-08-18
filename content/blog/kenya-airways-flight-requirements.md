@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight Requirements: Complete Guide'
-description: Everything you need to know about kenya airways flight requirements, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight requirements, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-requirements
-primary_keyword: kenya airways flight requirements
+primary_keyword: 'kenya airways flight requirements'
 secondary_keywords:
-- ba flights from kenya to london
-- cheap flights from kenya to usa
-- dubai flights from kenya price
-- kenya airways flights from entebbe to nairobi
-- flights from frankfurt to nairobi kenya
+- 'ba flights from kenya to london'
+- 'cheap flights from kenya to usa'
+- 'dubai flights from kenya price'
+- 'kenya airways flights from entebbe to nairobi'
+- 'flights from frankfurt to nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

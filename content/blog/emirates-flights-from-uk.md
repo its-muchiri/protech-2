@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Uk: Complete Guide'
-description: Everything you need to know about emirates flights from uk, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from uk, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-uk
-primary_keyword: emirates flights from uk
+primary_keyword: 'emirates flights from uk'
 secondary_keywords:
-- flights from kenya to ireland
-- flights from kenya to johannesburg today
-- flights from kenya to kigali
-- flights from kenya to london
-- flights from mombasa kenya to kigali rwanda
+- 'flights from kenya to ireland'
+- 'flights from kenya to johannesburg today'
+- 'flights from kenya to kigali'
+- 'flights from kenya to london'
+- 'flights from mombasa kenya to kigali rwanda'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

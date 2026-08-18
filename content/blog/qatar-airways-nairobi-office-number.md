@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways Nairobi Office Number: Complete Guide'
-description: Everything you need to know about qatar airways nairobi office number, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways nairobi office number, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-nairobi-office-number
-primary_keyword: qatar airways nairobi office number
+primary_keyword: 'qatar airways nairobi office number'
 secondary_keywords:
-- qatar airways flight from nairobi to doha today
-- nairobi qatar flights
-- how much flight from nairobi to qatar
-- qatar airways nairobi office opening hours
-- qatar flight to nairobi today
+- 'qatar airways flight from nairobi to doha today'
+- 'nairobi qatar flights'
+- 'how much flight from nairobi to qatar'
+- 'qatar airways nairobi office opening hours'
+- 'qatar flight to nairobi today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

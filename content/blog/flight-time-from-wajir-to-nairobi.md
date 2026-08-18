@@ -1,14 +1,14 @@
 ---
 title: 'Flight Time from Wajir to Nairobi: Complete Guide'
-description: Everything you need to know about flight time from wajir to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight time from wajir to nairobi, including routes, airlines, booking tips, and fares.'
 slug: flight-time-from-wajir-to-nairobi
-primary_keyword: flight time from wajir to nairobi
+primary_keyword: 'flight time from wajir to nairobi'
 secondary_keywords:
-- flight from nairobi to california
-- flight from nairobi to diani beach
-- egypt air flight from nairobi to cairo
-- flight fare from dar es salaam to nairobi
-- flight from goma to nairobi
+- 'flight from nairobi to california'
+- 'flight from nairobi to diani beach'
+- 'egypt air flight from nairobi to cairo'
+- 'flight fare from dar es salaam to nairobi'
+- 'flight from goma to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

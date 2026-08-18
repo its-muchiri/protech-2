@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Peshawar to Dubai United Arab Emirates: Complete Guide'
-description: Everything you need to know about flights from peshawar to dubai united arab emirates, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from peshawar to dubai united arab emirates, including routes, airlines, booking tips, and fares.'
 slug: flights-from-peshawar-to-dubai-united-arab-emirates
-primary_keyword: flights from peshawar to dubai united arab emirates
+primary_keyword: 'flights from peshawar to dubai united arab emirates'
 secondary_keywords:
-- kenya airways flight from nairobi to zanzibar
-- kenya airways flight from accra to nairobi
-- kenya airways flight schedule from nairobi to dar es salaam
-- does kenya airways fly to australia
-- kenya airways flight schedule from lilongwe to nairobi
+- 'kenya airways flight from nairobi to zanzibar'
+- 'kenya airways flight from accra to nairobi'
+- 'kenya airways flight schedule from nairobi to dar es salaam'
+- 'does kenya airways fly to australia'
+- 'kenya airways flight schedule from lilongwe to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

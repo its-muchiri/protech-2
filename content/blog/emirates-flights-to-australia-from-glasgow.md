@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights to Australia from Glasgow: Complete Guide'
-description: Everything you need to know about emirates flights to australia from glasgow, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights to australia from glasgow, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-to-australia-from-glasgow
-primary_keyword: emirates flights to australia from glasgow
+primary_keyword: 'emirates flights to australia from glasgow'
 secondary_keywords:
-- ticket from kenya to germany
-- cheapest flights in kenya
-- domestic flights requirements in kenya
-- can you fly direct to kenya
-- flights nairobi to entebbe
+- 'ticket from kenya to germany'
+- 'cheapest flights in kenya'
+- 'domestic flights requirements in kenya'
+- 'can you fly direct to kenya'
+- 'flights nairobi to entebbe'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

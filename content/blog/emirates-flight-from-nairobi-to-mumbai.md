@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight from Nairobi to Mumbai: Complete Guide'
-description: Everything you need to know about emirates flight from nairobi to mumbai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight from nairobi to mumbai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-from-nairobi-to-mumbai
-primary_keyword: emirates flight from nairobi to mumbai
+primary_keyword: 'emirates flight from nairobi to mumbai'
 secondary_keywords:
-- flight from nairobi to masai mara
-- cost of flight from nairobi to nanyuki
-- flight from nairobi to perth
-- flight from nairobi to rwanda
-- flight from nairobi to seychelles
+- 'flight from nairobi to masai mara'
+- 'cost of flight from nairobi to nanyuki'
+- 'flight from nairobi to perth'
+- 'flight from nairobi to rwanda'
+- 'flight from nairobi to seychelles'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

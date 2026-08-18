@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines No Last Name: Complete Guide'
-description: Everything you need to know about turkish airlines no last name, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines no last name, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-no-last-name
-primary_keyword: turkish airlines no last name
+primary_keyword: 'turkish airlines no last name'
 secondary_keywords:
-- kenya airways flight schedule
-- kq check in for international flights
-- kq direct flights
-- kq flight from guangzhou to nairobi
-- kq flights to india
+- 'kenya airways flight schedule'
+- 'kq check in for international flights'
+- 'kq direct flights'
+- 'kq flight from guangzhou to nairobi'
+- 'kq flights to india'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

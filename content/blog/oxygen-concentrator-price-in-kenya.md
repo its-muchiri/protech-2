@@ -1,14 +1,14 @@
 ---
 title: 'Oxygen Concentrator Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to oxygen concentrator price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to oxygen concentrator price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: oxygen-concentrator-price-in-kenya
-primary_keyword: Oxygen concentrator price in Kenya
+primary_keyword: 'Oxygen concentrator price in Kenya'
 secondary_keywords:
-- Blood gas analyzer suppliers in Kenya
-- Vertical autoclave for laboratory use
-- Orthopedic surgery instruments for sale in Nairobi
-- C-arm compatible operating table cost
-- Washer-disinfector for surgical instruments
+- 'Blood gas analyzer suppliers in Kenya'
+- 'Vertical autoclave for laboratory use'
+- 'Orthopedic surgery instruments for sale in Nairobi'
+- 'C-arm compatible operating table cost'
+- 'Washer-disinfector for surgical instruments'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

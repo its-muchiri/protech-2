@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Entebbe Uganda to Kisumu Kenya: Complete Guide'
-description: Everything you need to know about flights from entebbe uganda to kisumu kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from entebbe uganda to kisumu kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-entebbe-uganda-to-kisumu-kenya
-primary_keyword: flights from entebbe uganda to kisumu kenya
+primary_keyword: 'flights from entebbe uganda to kisumu kenya'
 secondary_keywords:
-- flights from cape town to nairobi kenya
-- flights from okc to nairobi kenya
-- flights to dubai from kenya price
-- does kenya airways fly to canada
-- flights from kenya to seychelles
+- 'flights from cape town to nairobi kenya'
+- 'flights from okc to nairobi kenya'
+- 'flights to dubai from kenya price'
+- 'does kenya airways fly to canada'
+- 'flights from kenya to seychelles'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

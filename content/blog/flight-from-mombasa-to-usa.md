@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Mombasa to Usa: Complete Guide'
-description: Everything you need to know about flight from mombasa to usa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from mombasa to usa, including routes, airlines, booking tips, and fares.'
 slug: flight-from-mombasa-to-usa
-primary_keyword: flight from mombasa to usa
+primary_keyword: 'flight from mombasa to usa'
 secondary_keywords:
-- flights nairobi to perth
-- flight cost from nairobi to qatar
-- flights to nairobi round trip
-- sydney to nairobi flights
-- fly nairobi to ukunda
+- 'flights nairobi to perth'
+- 'flight cost from nairobi to qatar'
+- 'flights to nairobi round trip'
+- 'sydney to nairobi flights'
+- 'fly nairobi to ukunda'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

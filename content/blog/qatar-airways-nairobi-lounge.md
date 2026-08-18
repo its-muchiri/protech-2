@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways Nairobi Lounge: Complete Guide'
-description: Everything you need to know about qatar airways nairobi lounge, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways nairobi lounge, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-nairobi-lounge
-primary_keyword: qatar airways nairobi lounge
+primary_keyword: 'qatar airways nairobi lounge'
 secondary_keywords:
-- emirates nairobi flights
-- emirates nairobi office telephone number kenya
-- emirates nairobi to new york
-- emirates airline kenya reviews
-- emirates kenya email address nairobi
+- 'emirates nairobi flights'
+- 'emirates nairobi office telephone number kenya'
+- 'emirates nairobi to new york'
+- 'emirates airline kenya reviews'
+- 'emirates kenya email address nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

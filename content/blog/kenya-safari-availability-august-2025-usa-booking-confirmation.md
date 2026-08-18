@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Availability August 2025 USA Booking Confirmation: Complete Guide'
-description: Kenya safari guide covering kenya safari availability august 2025 usa booking confirmation, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari availability august 2025 usa booking confirmation, including what is included, pricing, and booking advice.'
 slug: kenya-safari-availability-august-2025-usa-booking-confirmation
-primary_keyword: Kenya safari availability August 2025 USA booking confirmation
+primary_keyword: 'Kenya safari availability August 2025 USA booking confirmation'
 secondary_keywords:
-- Budget Kenya safari tour agency Europe reviews affordable
-- Kenya safari packages Christmas/New Year 2025 deals availability
-- Quality/Trust Based (Best, Top, Luxury, Reliable, Recommended, Reviews)
-- Top Kenya photographic safari guides booking USA portfolio
-- Buy top rated Kenya Big Five lodge safari package UK online secure booking
+- 'Budget Kenya safari tour agency Europe reviews affordable'
+- 'Kenya safari packages Christmas/New Year 2025 deals availability'
+- 'Quality/Trust Based (Best, Top, Luxury, Reliable, Recommended, Reviews)'
+- 'Top Kenya photographic safari guides booking USA portfolio'
+- 'Buy top rated Kenya Big Five lodge safari package UK online secure booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

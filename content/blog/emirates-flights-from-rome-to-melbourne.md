@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Rome to Melbourne: Complete Guide'
-description: Everything you need to know about emirates flights from rome to melbourne, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from rome to melbourne, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-rome-to-melbourne
-primary_keyword: emirates flights from rome to melbourne
+primary_keyword: 'emirates flights from rome to melbourne'
 secondary_keywords:
-- flights from spokane wa to nairobi kenya
-- cheap flights to nairobi kenya from new york
-- flights from livingstone zambia to nairobi kenya
-- kenya airways flights schedule
-- flights from nairobi to mombasa
+- 'flights from spokane wa to nairobi kenya'
+- 'cheap flights to nairobi kenya from new york'
+- 'flights from livingstone zambia to nairobi kenya'
+- 'kenya airways flights schedule'
+- 'flights from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

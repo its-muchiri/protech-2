@@ -1,14 +1,14 @@
 ---
 title: 'Flight Times to Kenya: Complete Guide'
-description: Everything you need to know about flight times to kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight times to kenya, including routes, airlines, booking tips, and fares.'
 slug: flight-times-to-kenya
-primary_keyword: flight times to kenya
+primary_keyword: 'flight times to kenya'
 secondary_keywords:
-- kenya airways flight 431 survivors
-- flight from nairobi to accra
-- flight from nairobi to bungoma
-- british airways flight from nairobi to london today
-- cheapest flight from nairobi to zanzibar
+- 'kenya airways flight 431 survivors'
+- 'flight from nairobi to accra'
+- 'flight from nairobi to bungoma'
+- 'british airways flight from nairobi to london today'
+- 'cheapest flight from nairobi to zanzibar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

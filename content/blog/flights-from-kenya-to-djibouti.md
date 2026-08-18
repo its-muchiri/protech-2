@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Djibouti: Complete Guide'
-description: Everything you need to know about flights from kenya to djibouti, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to djibouti, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-djibouti
-primary_keyword: flights from kenya to djibouti
+primary_keyword: 'flights from kenya to djibouti'
 secondary_keywords:
-- flights nairobi to calgary
-- flights nairobi to durban
-- eldoret to nairobi flights
-- flights nairobi to goma
-- flight to nairobi how long
+- 'flights nairobi to calgary'
+- 'flights nairobi to durban'
+- 'eldoret to nairobi flights'
+- 'flights nairobi to goma'
+- 'flight to nairobi how long'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

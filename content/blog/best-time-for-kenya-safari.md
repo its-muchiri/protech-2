@@ -1,14 +1,14 @@
 ---
 title: 'Best Time for Kenya Safari: Complete Guide'
-description: Kenya safari guide covering best time for kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering best time for kenya safari, including what is included, pricing, and booking advice.'
 slug: best-time-for-kenya-safari
-primary_keyword: Best time for Kenya safari
+primary_keyword: 'Best time for Kenya safari'
 secondary_keywords:
-- See Big Five Samburu safari lodge
-- Safety for solo female traveler Nairobi safari
-- Paleontology tour Lake Turkana (very niche)
-- Kenia safari reis (Dutch)
-- Books about Kenya safari
+- 'See Big Five Samburu safari lodge'
+- 'Safety for solo female traveler Nairobi safari'
+- 'Paleontology tour Lake Turkana (very niche)'
+- 'Kenia safari reis (Dutch)'
+- 'Books about Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

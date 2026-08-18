@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from Kisumu: Complete Guide'
-description: Everything you need to know about kq flights from kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from kisumu, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-kisumu
-primary_keyword: kq flights from kisumu
+primary_keyword: 'kq flights from kisumu'
 secondary_keywords:
-- cheap flights from mombasa to entebbe
-- flights to mombasa from europe
-- flights from mombasa to garissa
-- flights from homabay to mombasa
-- cheap flights from mombasa to johannesburg
+- 'cheap flights from mombasa to entebbe'
+- 'flights to mombasa from europe'
+- 'flights from mombasa to garissa'
+- 'flights from homabay to mombasa'
+- 'cheap flights from mombasa to johannesburg'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

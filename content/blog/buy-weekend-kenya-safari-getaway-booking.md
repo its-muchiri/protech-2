@@ -1,14 +1,14 @@
 ---
 title: 'Buy Weekend Kenya Safari Getaway Booking: Complete Guide'
-description: Kenya safari guide covering buy weekend kenya safari getaway booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy weekend kenya safari getaway booking, including what is included, pricing, and booking advice.'
 slug: buy-weekend-kenya-safari-getaway-booking
-primary_keyword: Buy weekend Kenya safari getaway booking
+primary_keyword: 'Buy weekend Kenya safari getaway booking'
 secondary_keywords:
-- Secure 8 day photographic group joining Samburu Nakuru tour package price
-- Buy 5 day Ol Pejeta family adventure package chimpanzee visit included deal
-- Tour operators specializing in East Africa (Kenya, Tanzania, Uganda)
-- Book Masai Mara hot air balloon safari cost per person
-- Samburu Special Five animals tour guide Kenya
+- 'Secure 8 day photographic group joining Samburu Nakuru tour package price'
+- 'Buy 5 day Ol Pejeta family adventure package chimpanzee visit included deal'
+- 'Tour operators specializing in East Africa (Kenya, Tanzania, Uganda)'
+- 'Book Masai Mara hot air balloon safari cost per person'
+- 'Samburu Special Five animals tour guide Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

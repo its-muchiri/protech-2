@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight Schedule from Dubai to Nairobi: Complete Guide'
-description: Everything you need to know about kenya airways flight schedule from dubai to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight schedule from dubai to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-schedule-from-dubai-to-nairobi
-primary_keyword: kenya airways flight schedule from dubai to nairobi
+primary_keyword: 'kenya airways flight schedule from dubai to nairobi'
 secondary_keywords:
-- kq 886
-- emirates flight from nairobi to dubai price in kenya shillings
-- kenya airways to dubai flight status
-- emirates flight from riyadh to nairobi
-- emirates airlines kenya contacts
+- 'kq 886'
+- 'emirates flight from nairobi to dubai price in kenya shillings'
+- 'kenya airways to dubai flight status'
+- 'emirates flight from riyadh to nairobi'
+- 'emirates airlines kenya contacts'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

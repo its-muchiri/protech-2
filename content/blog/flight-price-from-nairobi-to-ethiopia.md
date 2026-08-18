@@ -1,14 +1,14 @@
 ---
 title: 'Flight Price from Nairobi to Ethiopia: Complete Guide'
-description: Everything you need to know about flight price from nairobi to ethiopia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight price from nairobi to ethiopia, including routes, airlines, booking tips, and fares.'
 slug: flight-price-from-nairobi-to-ethiopia
-primary_keyword: flight price from nairobi to ethiopia
+primary_keyword: 'flight price from nairobi to ethiopia'
 secondary_keywords:
-- kenya airways flights from nairobi to mombasa
-- kenya airways flights from nairobi to lilongwe
-- kenya airways flight from new york to nairobi schedule
-- kenya airways flights from nairobi to dar es salaam
-- flight from nairobi to amboseli
+- 'kenya airways flights from nairobi to mombasa'
+- 'kenya airways flights from nairobi to lilongwe'
+- 'kenya airways flight from new york to nairobi schedule'
+- 'kenya airways flights from nairobi to dar es salaam'
+- 'flight from nairobi to amboseli'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

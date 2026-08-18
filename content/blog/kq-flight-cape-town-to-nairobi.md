@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight Cape Town to Nairobi: Complete Guide'
-description: Everything you need to know about kq flight cape town to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight cape town to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-cape-town-to-nairobi
-primary_keyword: kq flight cape town to nairobi
+primary_keyword: 'kq flight cape town to nairobi'
 secondary_keywords:
-- eldoret flights
-- kq flights to dubai
-- kq flights to addis
-- kq domestic flight schedule
-- kq flights to canada
+- 'eldoret flights'
+- 'kq flights to dubai'
+- 'kq flights to addis'
+- 'kq domestic flight schedule'
+- 'kq flights to canada'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Quote 6 Day Aberdares the Ark Treetops Unique Package Price: Complete Guide'
-description: Kenya safari guide covering quote 6 day aberdares the ark treetops unique package price, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering quote 6 day aberdares the ark treetops unique package price, including what is included, pricing, and booking advice.'
 slug: quote-6-day-aberdares-the-ark-treetops-unique-package-price
-primary_keyword: Quote 6 day Aberdares The Ark Treetops unique package price
+primary_keyword: 'Quote 6 day Aberdares The Ark Treetops unique package price'
 secondary_keywords:
-- Day trip safari Kenya
-- Three week Kenya safari
-- Kenya safari payment plan
-- Safari hotels Kenya
-- Kenya safari activities
+- 'Day trip safari Kenya'
+- 'Three week Kenya safari'
+- 'Kenya safari payment plan'
+- 'Safari hotels Kenya'
+- 'Kenya safari activities'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

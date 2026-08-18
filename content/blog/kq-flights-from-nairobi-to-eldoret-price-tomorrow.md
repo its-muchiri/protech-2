@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from Nairobi to Eldoret Price Tomorrow: Complete Guide'
-description: Everything you need to know about kq flights from nairobi to eldoret price tomorrow, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from nairobi to eldoret price tomorrow, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-nairobi-to-eldoret-price-tomorrow
-primary_keyword: kq flights from nairobi to eldoret price tomorrow
+primary_keyword: 'kq flights from nairobi to eldoret price tomorrow'
 secondary_keywords:
-- flights nairobi to greece
-- flights nairobi to hargeisa
-- nairobi to india flights price
-- juba to nairobi flights
-- flights nairobi to lamu
+- 'flights nairobi to greece'
+- 'flights nairobi to hargeisa'
+- 'nairobi to india flights price'
+- 'juba to nairobi flights'
+- 'flights nairobi to lamu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

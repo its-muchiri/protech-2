@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 512: Complete Guide'
-description: Everything you need to know about emirates flight 512, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 512, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-512
-primary_keyword: emirates flight 512
+primary_keyword: 'emirates flight 512'
 secondary_keywords:
-- emirates flights to italy from us
-- emirates flights from karachi to dubai
-- emirates flights from lusaka to dubai
-- emirates flights from durban to mumbai
-- emirates flight from osaka to dubai
+- 'emirates flights to italy from us'
+- 'emirates flights from karachi to dubai'
+- 'emirates flights from lusaka to dubai'
+- 'emirates flights from durban to mumbai'
+- 'emirates flight from osaka to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

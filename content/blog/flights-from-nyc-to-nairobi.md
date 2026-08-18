@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nyc to Nairobi: Complete Guide'
-description: Everything you need to know about flights from nyc to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nyc to nairobi, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nyc-to-nairobi
-primary_keyword: flights from nyc to nairobi
+primary_keyword: 'flights from nyc to nairobi'
 secondary_keywords:
-- kq flights to paris
-- kq flights from nairobi to kigali
-- kq flights to usa
-- kq 02 flight status
-- kq112 flight status
+- 'kq flights to paris'
+- 'kq flights from nairobi to kigali'
+- 'kq flights to usa'
+- 'kq 02 flight status'
+- 'kq112 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

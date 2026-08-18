@@ -1,14 +1,14 @@
 ---
 title: 'Malindi Beach Hotels Deals Italian Influence: Complete Guide'
-description: Kenya safari guide covering malindi beach hotels deals italian influence, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering malindi beach hotels deals italian influence, including what is included, pricing, and booking advice.'
 slug: malindi-beach-hotels-deals-italian-influence
-primary_keyword: Malindi beach hotels deals Italian influence
+primary_keyword: 'Malindi beach hotels deals Italian influence'
 secondary_keywords:
-- Price for Kenya wildlife safari package
-- Cost of 4 day Masai Mara express tour
-- Quote for 7 day luxury Masai Mara package
-- Best Kenya safari tour deals online
-- 10 day Kenya Tanzania tour sale
+- 'Price for Kenya wildlife safari package'
+- 'Cost of 4 day Masai Mara express tour'
+- 'Quote for 7 day luxury Masai Mara package'
+- 'Best Kenya safari tour deals online'
+- '10 day Kenya Tanzania tour sale'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

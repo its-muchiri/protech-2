@@ -1,14 +1,14 @@
 ---
 title: 'Does Qatar Airways Fly to Canada: Complete Guide'
-description: Everything you need to know about does qatar airways fly to canada, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about does qatar airways fly to canada, including routes, airlines, booking tips, and fares.'
 slug: does-qatar-airways-fly-to-canada
-primary_keyword: does qatar airways fly to canada
+primary_keyword: 'does qatar airways fly to canada'
 secondary_keywords:
-- how many hours flight from nairobi to qatar
-- qatar airways nairobi office riverside
-- 1 qatar to ksh
-- flight from kc to chicago
-- kenya airways flights from harare to london
+- 'how many hours flight from nairobi to qatar'
+- 'qatar airways nairobi office riverside'
+- '1 qatar to ksh'
+- 'flight from kc to chicago'
+- 'kenya airways flights from harare to london'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

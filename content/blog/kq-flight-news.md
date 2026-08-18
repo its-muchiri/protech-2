@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight News: Complete Guide'
-description: Everything you need to know about kq flight news, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight news, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-news
-primary_keyword: kq flight news
+primary_keyword: 'kq flight news'
 secondary_keywords:
-- emirates flights from karachi to dubai today
-- emirates flights from lagos to london
-- emirates flights from new zealand to south africa
-- emirates flights from johannesburg to orlando florida
-- emirates flights to uk from perth
+- 'emirates flights from karachi to dubai today'
+- 'emirates flights from lagos to london'
+- 'emirates flights from new zealand to south africa'
+- 'emirates flights from johannesburg to orlando florida'
+- 'emirates flights to uk from perth'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

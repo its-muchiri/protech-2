@@ -1,14 +1,14 @@
 ---
 title: '5-litre Oxygen Concentrator for Sale in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to 5-litre oxygen concentrator for sale in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to 5-litre oxygen concentrator for sale in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: 5-litre-oxygen-concentrator-for-sale-in-nairobi
-primary_keyword: 5-litre oxygen concentrator for sale in Nairobi
+primary_keyword: '5-litre oxygen concentrator for sale in Nairobi'
 secondary_keywords:
-- Cost of installing a CT scanner in a Kenyan hospital
-- Sonoscape S2 portable ultrasound for sale in Thika
-- X-ray consumables (film, chemicals) suppliers in Nairobi
-- Urine chemistry analyzer and strips suppliers
-- Fume hood installation cost in Nairobi
+- 'Cost of installing a CT scanner in a Kenyan hospital'
+- 'Sonoscape S2 portable ultrasound for sale in Thika'
+- 'X-ray consumables (film, chemicals) suppliers in Nairobi'
+- 'Urine chemistry analyzer and strips suppliers'
+- 'Fume hood installation cost in Nairobi'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

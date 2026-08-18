@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Frankfurt to Mombasa: Complete Guide'
-description: Everything you need to know about cheap flights from frankfurt to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from frankfurt to mombasa, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-frankfurt-to-mombasa
-primary_keyword: cheap flights from frankfurt to mombasa
+primary_keyword: 'cheap flights from frankfurt to mombasa'
 secondary_keywords:
-- flights to kenya from houston
-- cheap flights from kenya to ireland
-- flights from johannesburg to nairobi kenya
-- kq flights from uganda to kenya today
-- flights from nairobi to london kenya airways
+- 'flights to kenya from houston'
+- 'cheap flights from kenya to ireland'
+- 'flights from johannesburg to nairobi kenya'
+- 'kq flights from uganda to kenya today'
+- 'flights from nairobi to london kenya airways'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

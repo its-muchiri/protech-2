@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights to Kenya from Manchester: Complete Guide'
-description: Everything you need to know about cheap flights to kenya from manchester, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights to kenya from manchester, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-to-kenya-from-manchester
-primary_keyword: cheap flights to kenya from manchester
+primary_keyword: 'cheap flights to kenya from manchester'
 secondary_keywords:
-- do all emirates flights depart from terminal 3
-- emirates flight 521 video
-- emirates flight 602
-- emirates flight 817
-- qatar flight from nairobi
+- 'do all emirates flights depart from terminal 3'
+- 'emirates flight 521 video'
+- 'emirates flight 602'
+- 'emirates flight 817'
+- 'qatar flight from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

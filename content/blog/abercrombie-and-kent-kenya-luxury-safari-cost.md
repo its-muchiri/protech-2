@@ -1,14 +1,14 @@
 ---
 title: 'Abercrombie & Kent Kenya Luxury Safari Cost: Complete Guide'
-description: Kenya safari guide covering abercrombie & kent kenya luxury safari cost, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering abercrombie & kent kenya luxury safari cost, including what is included, pricing, and booking advice.'
 slug: abercrombie-and-kent-kenya-luxury-safari-cost
-primary_keyword: Abercrombie & Kent Kenya luxury safari cost
+primary_keyword: 'Abercrombie & Kent Kenya luxury safari cost'
 secondary_keywords:
-- Kenya wildlife viewing
-- Kenya Zanzibar safari
-- Kenya safari wet season
-- Shoulder season Kenya safari
-- Direct booking Kenya safari
+- 'Kenya wildlife viewing'
+- 'Kenya Zanzibar safari'
+- 'Kenya safari wet season'
+- 'Shoulder season Kenya safari'
+- 'Direct booking Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

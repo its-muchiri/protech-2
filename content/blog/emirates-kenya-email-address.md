@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Kenya Email Address: Complete Guide'
-description: Everything you need to know about emirates kenya email address, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates kenya email address, including routes, airlines, booking tips, and fares.'
 slug: emirates-kenya-email-address
-primary_keyword: emirates kenya email address
+primary_keyword: 'emirates kenya email address'
 secondary_keywords:
-- emirates flights from venice
-- emirates airlines from which country
-- emirates flights from new york to mumbai
-- emirates flights to new zealand from manchester
-- emirates flight 1
+- 'emirates flights from venice'
+- 'emirates airlines from which country'
+- 'emirates flights from new york to mumbai'
+- 'emirates flights to new zealand from manchester'
+- 'emirates flight 1'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

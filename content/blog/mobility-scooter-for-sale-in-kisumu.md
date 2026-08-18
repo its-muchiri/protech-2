@@ -1,14 +1,14 @@
 ---
 title: 'Mobility Scooter for Sale in Kisumu: 2026 Price Guide'
-description: Kenya buying guide to mobility scooter for sale in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to mobility scooter for sale in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: mobility-scooter-for-sale-in-kisumu
-primary_keyword: Mobility scooter for sale in Kisumu
+primary_keyword: 'Mobility scooter for sale in Kisumu'
 secondary_keywords:
-- chairside CAD/CAM system for dentists
-- cheapest place to buy surgical scrubs in Nairobi
-- soil testing kits for agriculture
-- field hospital setup and equipment
-- mental health technology solutions
+- 'chairside CAD/CAM system for dentists'
+- 'cheapest place to buy surgical scrubs in Nairobi'
+- 'soil testing kits for agriculture'
+- 'field hospital setup and equipment'
+- 'mental health technology solutions'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

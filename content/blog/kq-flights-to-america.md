@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to America: Complete Guide'
-description: Everything you need to know about kq flights to america, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to america, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-america
-primary_keyword: kq flights to america
+primary_keyword: 'kq flights to america'
 secondary_keywords:
-- international flights from mombasa
-- flights from mombasa kenya to lamu kenya
-- flights to mombasa from lusaka
-- flights from mombasa to migori
-- flights to mombasa from perth australia
+- 'international flights from mombasa'
+- 'flights from mombasa kenya to lamu kenya'
+- 'flights to mombasa from lusaka'
+- 'flights from mombasa to migori'
+- 'flights to mombasa from perth australia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

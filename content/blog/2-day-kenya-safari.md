@@ -1,14 +1,14 @@
 ---
 title: '2 Day Kenya Safari: Complete Guide'
-description: Kenya safari guide covering 2 day kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering 2 day kenya safari, including what is included, pricing, and booking advice.'
 slug: 2-day-kenya-safari
-primary_keyword: 2 day Kenya safari
+primary_keyword: '2 day Kenya safari'
 secondary_keywords:
-- Rhino sanctuary Lake Nakuru best viewing times
-- Luxury tented camp safari Kenya price comparison
-- Short Kenya safari 2 day / 3 day options from Nairobi
-- Mount Kenya Chogoria route trek difficulty / best time
-- Luo cultural tours Kisumu Lake Victoria
+- 'Rhino sanctuary Lake Nakuru best viewing times'
+- 'Luxury tented camp safari Kenya price comparison'
+- 'Short Kenya safari 2 day / 3 day options from Nairobi'
+- 'Mount Kenya Chogoria route trek difficulty / best time'
+- 'Luo cultural tours Kisumu Lake Victoria'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

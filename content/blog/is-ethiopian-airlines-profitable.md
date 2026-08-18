@@ -1,14 +1,14 @@
 ---
 title: 'Is Ethiopian Airlines Profitable: Complete Guide'
-description: Everything you need to know about is ethiopian airlines profitable, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about is ethiopian airlines profitable, including routes, airlines, booking tips, and fares.'
 slug: is-ethiopian-airlines-profitable
-primary_keyword: is ethiopian airlines profitable
+primary_keyword: 'is ethiopian airlines profitable'
 secondary_keywords:
-- cost of flight from nairobi to usa
-- 540 flight from nairobi to mombasa
-- how much is the flight 748 from nairobi to kisumu
-- turkish airlines nairobi airport
-- turkish airlines nairobi
+- 'cost of flight from nairobi to usa'
+- '540 flight from nairobi to mombasa'
+- 'how much is the flight 748 from nairobi to kisumu'
+- 'turkish airlines nairobi airport'
+- 'turkish airlines nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

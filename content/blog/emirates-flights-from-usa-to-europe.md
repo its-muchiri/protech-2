@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Usa to Europe: Complete Guide'
-description: Everything you need to know about emirates flights from usa to europe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from usa to europe, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-usa-to-europe
-primary_keyword: emirates flights from usa to europe
+primary_keyword: 'emirates flights from usa to europe'
 secondary_keywords:
-- flight from nairobi to pretoria
-- flight from nairobi to riyadh
-- flight from nairobi to saudi arabia
-- the cheapest flight from nairobi to kisumu
-- cheapest flight from nairobi to usa
+- 'flight from nairobi to pretoria'
+- 'flight from nairobi to riyadh'
+- 'flight from nairobi to saudi arabia'
+- 'the cheapest flight from nairobi to kisumu'
+- 'cheapest flight from nairobi to usa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

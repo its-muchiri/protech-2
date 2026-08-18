@@ -1,14 +1,14 @@
 ---
 title: 'Airport Transfer Included Safari Packages Kenya: Complete Guide'
-description: Kenya safari guide covering airport transfer included safari packages kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering airport transfer included safari packages kenya, including what is included, pricing, and booking advice.'
 slug: airport-transfer-included-safari-packages-kenya
-primary_keyword: Airport transfer included safari packages Kenya
+primary_keyword: 'Airport transfer included safari packages Kenya'
 secondary_keywords:
-- Budget Kenya safari tour prices UK comparison
-- Book luxury Kenya safari lodge UK exclusive
-- Extended Kenya safari (14-day+) cost Europe itinerary
-- Mount Kenya safari tours booking UK climb options
-- Kenya safari deals from New York City direct booking
+- 'Budget Kenya safari tour prices UK comparison'
+- 'Book luxury Kenya safari lodge UK exclusive'
+- 'Extended Kenya safari (14-day+) cost Europe itinerary'
+- 'Mount Kenya safari tours booking UK climb options'
+- 'Kenya safari deals from New York City direct booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

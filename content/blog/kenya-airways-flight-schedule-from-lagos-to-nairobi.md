@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight Schedule from Lagos to Nairobi: Complete Guide'
-description: Everything you need to know about kenya airways flight schedule from lagos to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight schedule from lagos to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-schedule-from-lagos-to-nairobi
-primary_keyword: kenya airways flight schedule from lagos to nairobi
+primary_keyword: 'kenya airways flight schedule from lagos to nairobi'
 secondary_keywords:
-- emirates flights from zanzibar to dubai
-- emirates flight 0221
-- emirates flights from newcastle 2023
-- emirates flight 333
-- emirates flight 412
+- 'emirates flights from zanzibar to dubai'
+- 'emirates flight 0221'
+- 'emirates flights from newcastle 2023'
+- 'emirates flight 333'
+- 'emirates flight 412'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

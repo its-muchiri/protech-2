@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Honeymoon Safari All-inclusive Deals Booking: Complete Guide'
-description: Kenya safari guide covering kenya honeymoon safari all-inclusive deals booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya honeymoon safari all-inclusive deals booking, including what is included, pricing, and booking advice.'
 slug: kenya-honeymoon-safari-all-inclusive-deals-booking
-primary_keyword: Kenya honeymoon safari all-inclusive deals booking
+primary_keyword: 'Kenya honeymoon safari all-inclusive deals booking'
 secondary_keywords:
-- Book 3 day Kenya safari package
-- Reserve express fly-in safari package (2-3 days)
-- Secure 14 day honeymoon Kenya beach safari booking
-- Tsavo East West safari rates request
-- Budget Kenya camping safari cost estimate
+- 'Book 3 day Kenya safari package'
+- 'Reserve express fly-in safari package (2-3 days)'
+- 'Secure 14 day honeymoon Kenya beach safari booking'
+- 'Tsavo East West safari rates request'
+- 'Budget Kenya camping safari cost estimate'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

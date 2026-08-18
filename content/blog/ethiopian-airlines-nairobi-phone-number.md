@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Nairobi Phone Number: Complete Guide'
-description: Everything you need to know about ethiopian airlines nairobi phone number, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines nairobi phone number, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-nairobi-phone-number
-primary_keyword: ethiopian airlines nairobi phone number
+primary_keyword: 'ethiopian airlines nairobi phone number'
 secondary_keywords:
-- emirates flights 2024
-- emirates flight 318
-- emirates flight 448
-- emirates flight 623
-- emirates flight 720
+- 'emirates flights 2024'
+- 'emirates flight 318'
+- 'emirates flight 448'
+- 'emirates flight 623'
+- 'emirates flight 720'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

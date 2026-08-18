@@ -1,14 +1,14 @@
 ---
 title: '14 Day Kenya Safari: Complete Guide'
-description: Kenya safari guide covering 14 day kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering 14 day kenya safari, including what is included, pricing, and booking advice.'
 slug: 14-day-kenya-safari
-primary_keyword: 14 day Kenya safari
+primary_keyword: '14 day Kenya safari'
 secondary_keywords:
-- Book now 3 day Tsavo express safari deal
-- Book direct Kenya safari lodge package deal
-- Book reliable operator package 6 day Tsavo combo
-- Book 4 day Sopa Lodges Masai Mara package deal
-- Quote & Book 12 day Asilia Africa Kenya highlights package
+- 'Book now 3 day Tsavo express safari deal'
+- 'Book direct Kenya safari lodge package deal'
+- 'Book reliable operator package 6 day Tsavo combo'
+- 'Book 4 day Sopa Lodges Masai Mara package deal'
+- 'Quote & Book 12 day Asilia Africa Kenya highlights package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Custom Safari Quote Kenya: Complete Guide'
-description: Kenya safari guide covering  custom safari quote kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering  custom safari quote kenya, including what is included, pricing, and booking advice.'
 slug: operator-name-custom-safari-quote-kenya
-primary_keyword: custom safari quote Kenya
+primary_keyword: 'custom safari quote Kenya'
 secondary_keywords:
-- Buy top rated Kenya Big Five lodge safari package UK online secure booking
-- Book short 3-day Amboseli fly-in safari from Nairobi UK price includes flights
-- Purchase off-the-beaten-path Northern Kenya safari tour UK Turkana expedition cost
-- Find French-speaking driver-guide Kenya safari package booking Europe reliable operator needed
-- Book Kenya safari with horse riding Chyulu Hills package UK experienced riders only lodge booking
+- 'Buy top rated Kenya Big Five lodge safari package UK online secure booking'
+- 'Book short 3-day Amboseli fly-in safari from Nairobi UK price includes flights'
+- 'Purchase off-the-beaten-path Northern Kenya safari tour UK Turkana expedition cost'
+- 'Find French-speaking driver-guide Kenya safari package booking Europe reliable operator needed'
+- 'Book Kenya safari with horse riding Chyulu Hills package UK experienced riders only lodge booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights to France from Kenya: Complete Guide'
-description: Everything you need to know about flights to france from kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to france from kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-to-france-from-kenya
-primary_keyword: flights to france from kenya
+primary_keyword: 'flights to france from kenya'
 secondary_keywords:
-- kq nbo los
-- kq 256 flight status
-- flight kq 3
-- kq 509 flight status
-- kq flights to kampala
+- 'kq nbo los'
+- 'kq 256 flight status'
+- 'flight kq 3'
+- 'kq 509 flight status'
+- 'kq flights to kampala'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

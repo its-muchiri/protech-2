@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Portugal: Complete Guide'
-description: Everything you need to know about flights from nairobi to portugal, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to portugal, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-portugal
-primary_keyword: flights from nairobi to portugal
+primary_keyword: 'flights from nairobi to portugal'
 secondary_keywords:
-- emirates flight 500
-- emirates flight 764
-- emirates flight 803
-- flight time from nairobi to qatar
-- does qatar airways fly to dubai
+- 'emirates flight 500'
+- 'emirates flight 764'
+- 'emirates flight 803'
+- 'flight time from nairobi to qatar'
+- 'does qatar airways fly to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

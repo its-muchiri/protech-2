@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 764: Complete Guide'
-description: Everything you need to know about emirates flight 764, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 764, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-764
-primary_keyword: emirates flight 764
+primary_keyword: 'emirates flight 764'
 secondary_keywords:
-- flights from nairobi kenya to london united kingdom
-- flights from nairobi to livingstone zambia
-- mombasa flights from nairobi
-- nonstop flights from nairobi
-- flights from orlando to nairobi
+- 'flights from nairobi kenya to london united kingdom'
+- 'flights from nairobi to livingstone zambia'
+- 'mombasa flights from nairobi'
+- 'nonstop flights from nairobi'
+- 'flights from orlando to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

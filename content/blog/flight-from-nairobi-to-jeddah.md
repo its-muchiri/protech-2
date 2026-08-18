@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Jeddah: Complete Guide'
-description: Everything you need to know about flight from nairobi to jeddah, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to jeddah, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-jeddah
-primary_keyword: flight from nairobi to jeddah
+primary_keyword: 'flight from nairobi to jeddah'
 secondary_keywords:
-- flight from nairobi to seattle
-- the cheapest flight from nairobi to doha
-- flight from nairobi to vancouver
-- what time is the first flight from nairobi to mombasa
-- flight from nairobi to zambia
+- 'flight from nairobi to seattle'
+- 'the cheapest flight from nairobi to doha'
+- 'flight from nairobi to vancouver'
+- 'what time is the first flight from nairobi to mombasa'
+- 'flight from nairobi to zambia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

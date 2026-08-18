@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Juba: Complete Guide'
-description: Everything you need to know about flights nairobi to juba, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to juba, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-juba
-primary_keyword: flights nairobi to juba
+primary_keyword: 'flights nairobi to juba'
 secondary_keywords:
-- kq flight from entebbe
-- kenya airways flights from juba to nairobi
-- kenya airways flights from uk
-- flights to kakamega from nairobi
-- cost of kq flight from nairobi to mombasa
+- 'kq flight from entebbe'
+- 'kenya airways flights from juba to nairobi'
+- 'kenya airways flights from uk'
+- 'flights to kakamega from nairobi'
+- 'cost of kq flight from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

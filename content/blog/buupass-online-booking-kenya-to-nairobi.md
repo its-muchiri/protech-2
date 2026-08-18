@@ -1,14 +1,14 @@
 ---
 title: 'Buupass Online Booking Kenya to Nairobi: Complete Guide'
-description: Everything you need to know about buupass online booking kenya to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about buupass online booking kenya to nairobi, including routes, airlines, booking tips, and fares.'
 slug: buupass-online-booking-kenya-to-nairobi
-primary_keyword: buupass online booking kenya to nairobi
+primary_keyword: 'buupass online booking kenya to nairobi'
 secondary_keywords:
-- kq flights to bangkok
-- kq flight confirmation
-- kq flight departures
-- kq flights schedule to eldoret
-- kq history
+- 'kq flights to bangkok'
+- 'kq flight confirmation'
+- 'kq flight departures'
+- 'kq flights schedule to eldoret'
+- 'kq history'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

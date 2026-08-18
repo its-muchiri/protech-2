@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 764 Accident: Complete Guide'
-description: Everything you need to know about emirates flight 764 accident, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 764 accident, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-764-accident
-primary_keyword: emirates flight 764 accident
+primary_keyword: 'emirates flight 764 accident'
 secondary_keywords:
-- kq 305
-- kenya airways flight arrivals nairobi
-- kq flight from nairobi to entebbe
-- kenya airways flight schedule jfk to nairobi
-- kq flight from london to nairobi today
+- 'kq 305'
+- 'kenya airways flight arrivals nairobi'
+- 'kq flight from nairobi to entebbe'
+- 'kenya airways flight schedule jfk to nairobi'
+- 'kq flight from london to nairobi today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

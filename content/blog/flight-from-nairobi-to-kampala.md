@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Kampala: Complete Guide'
-description: Everything you need to know about flight from nairobi to kampala, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to kampala, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-kampala
-primary_keyword: flight from nairobi to kampala
+primary_keyword: 'flight from nairobi to kampala'
 secondary_keywords:
-- flight prices from kisumu to nairobi
-- flights from kisumu to kitale
-- flights from kisumu to mwanza
-- is kisumu safe
-- flights from eldoret to nairobi today
+- 'flight prices from kisumu to nairobi'
+- 'flights from kisumu to kitale'
+- 'flights from kisumu to mwanza'
+- 'is kisumu safe'
+- 'flights from eldoret to nairobi today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

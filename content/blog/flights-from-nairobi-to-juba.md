@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Juba: Complete Guide'
-description: Everything you need to know about flights from nairobi to juba, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to juba, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-juba
-primary_keyword: flights from nairobi to juba
+primary_keyword: 'flights from nairobi to juba'
 secondary_keywords:
-- flights brussels kenya
-- kenya airways check in time for domestic flights
-- flights to kenya from south africa
-- how many types of flights in kenya
-- klm in kenya
+- 'flights brussels kenya'
+- 'kenya airways check in time for domestic flights'
+- 'flights to kenya from south africa'
+- 'how many types of flights in kenya'
+- 'klm in kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

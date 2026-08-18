@@ -1,14 +1,14 @@
 ---
 title: 'Uganda Flights from Kenya: Complete Guide'
-description: Everything you need to know about uganda flights from kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about uganda flights from kenya, including routes, airlines, booking tips, and fares.'
 slug: uganda-flights-from-kenya
-primary_keyword: uganda flights from kenya
+primary_keyword: 'uganda flights from kenya'
 secondary_keywords:
-- kenya airways check in time for domestic flights
-- flights to kenya from south africa
-- how many types of flights in kenya
-- klm in kenya
-- flight in nairobi kenya
+- 'kenya airways check in time for domestic flights'
+- 'flights to kenya from south africa'
+- 'how many types of flights in kenya'
+- 'klm in kenya'
+- 'flight in nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

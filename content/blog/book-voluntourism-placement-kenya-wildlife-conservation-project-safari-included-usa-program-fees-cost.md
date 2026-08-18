@@ -1,14 +1,14 @@
 ---
 title: 'Book Voluntourism Placement Kenya Wildlife Conservation Project Safari Included USA Program Fees Cost: Complete Guide'
-description: Kenya safari guide covering book voluntourism placement kenya wildlife conservation project safari included usa program fees cost, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book voluntourism placement kenya wildlife conservation project safari included usa program fees cost, including what is included, pricing, and booking advice.'
 slug: book-voluntourism-placement-kenya-wildlife-conservation-project-safari-included-usa-program-fees-cost
-primary_keyword: Book voluntourism placement Kenya wildlife conservation project safari included USA program fees cost
+primary_keyword: 'Book voluntourism placement Kenya wildlife conservation project safari included USA program fees cost'
 secondary_keywords:
-- Find last minute deals on luxury Kenya safari lodges Mara Triangle UK operator direct
-- Reserve wheelchair accessible Kenya safari vehicle & lodge USA custom tour planning service
-- Find Halal certified meals Kenya safari tour package UK Muslim friendly lodges operators list
-- Buy Kenya safari cooking class experience package UK local cuisine focus booking
-- Reserve Gede Ruins historical site tour safari package Kenya Europe coastal history focus
+- 'Find last minute deals on luxury Kenya safari lodges Mara Triangle UK operator direct'
+- 'Reserve wheelchair accessible Kenya safari vehicle & lodge USA custom tour planning service'
+- 'Find Halal certified meals Kenya safari tour package UK Muslim friendly lodges operators list'
+- 'Buy Kenya safari cooking class experience package UK local cuisine focus booking'
+- 'Reserve Gede Ruins historical site tour safari package Kenya Europe coastal history focus'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

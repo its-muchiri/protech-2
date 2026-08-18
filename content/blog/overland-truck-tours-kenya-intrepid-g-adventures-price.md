@@ -1,14 +1,14 @@
 ---
 title: 'Overland Truck Tours Kenya Intrepid / G Adventures Price: Complete Guide'
-description: Kenya safari guide covering overland truck tours kenya intrepid / g adventures price, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering overland truck tours kenya intrepid / g adventures price, including what is included, pricing, and booking advice.'
 slug: overland-truck-tours-kenya-intrepid-g-adventures-price
-primary_keyword: Overland truck tours Kenya Intrepid / G Adventures price
+primary_keyword: 'Overland truck tours Kenya Intrepid / G Adventures price'
 secondary_keywords:
-- WiFi availability safari lodges Kenya cost / speed
-- Professional wildlife photography safari Kenya custom vehicles / tutors
-- Pick up from Thika for Masai Mara safari tour company options
-- Buy all-inclusive Kenya safari deal USA 2025
-- Kenya safari packages cost from UK 2025
+- 'WiFi availability safari lodges Kenya cost / speed'
+- 'Professional wildlife photography safari Kenya custom vehicles / tutors'
+- 'Pick up from Thika for Masai Mara safari tour company options'
+- 'Buy all-inclusive Kenya safari deal USA 2025'
+- 'Kenya safari packages cost from UK 2025'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

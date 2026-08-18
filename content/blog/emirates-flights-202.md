@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights 202: Complete Guide'
-description: Everything you need to know about emirates flights 202, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights 202, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-202
-primary_keyword: emirates flights 202
+primary_keyword: 'emirates flights 202'
 secondary_keywords:
-- flights to portugal from kenya
-- flights from kenya to russia
-- flights from kenya to singapore
-- flights to dubai from kenya
-- flights from nairobi to vietnam
+- 'flights to portugal from kenya'
+- 'flights from kenya to russia'
+- 'flights from kenya to singapore'
+- 'flights to dubai from kenya'
+- 'flights from nairobi to vietnam'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

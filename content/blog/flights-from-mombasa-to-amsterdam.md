@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Amsterdam: Complete Guide'
-description: Everything you need to know about flights from mombasa to amsterdam, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to amsterdam, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-amsterdam
-primary_keyword: flights from mombasa to amsterdam
+primary_keyword: 'flights from mombasa to amsterdam'
 secondary_keywords:
-- emirates flights from iran
-- emirates flights from johannesburg to london
-- emirates flights from kochi
-- emirates flights from london to dubai today
-- emirates flights from newcastle to dubai
+- 'emirates flights from iran'
+- 'emirates flights from johannesburg to london'
+- 'emirates flights from kochi'
+- 'emirates flights from london to dubai today'
+- 'emirates flights from newcastle to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

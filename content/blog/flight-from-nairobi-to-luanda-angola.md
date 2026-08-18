@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Luanda Angola: Complete Guide'
-description: Everything you need to know about flight from nairobi to luanda angola, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to luanda angola, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-luanda-angola
-primary_keyword: flight from nairobi to luanda angola
+primary_keyword: 'flight from nairobi to luanda angola'
 secondary_keywords:
-- flights nairobi to greece
-- flights nairobi to hargeisa
-- nairobi to india flights price
-- juba to nairobi flights
-- flights nairobi to lamu
+- 'flights nairobi to greece'
+- 'flights nairobi to hargeisa'
+- 'nairobi to india flights price'
+- 'juba to nairobi flights'
+- 'flights nairobi to lamu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Phoropter / Refractor Head Price in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to phoropter / refractor head price in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to phoropter / refractor head price in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: phoropter-refractor-head-price-in-nairobi
-primary_keyword: Phoropter / Refractor head price in Nairobi
+primary_keyword: 'Phoropter / Refractor head price in Nairobi'
 secondary_keywords:
-- Laboratory & Pathology Equipment
-- Olympus CX23 microscope for sale in Nairobi
-- Electric operating table price in Kenya
-- General surgery instrument set price list
-- Pediatric hospital bed with side rails
+- 'Laboratory & Pathology Equipment'
+- 'Olympus CX23 microscope for sale in Nairobi'
+- 'Electric operating table price in Kenya'
+- 'General surgery instrument set price list'
+- 'Pediatric hospital bed with side rails'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from Eldoret: Complete Guide'
-description: Everything you need to know about kq flights from eldoret, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from eldoret, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-eldoret
-primary_keyword: kq flights from eldoret
+primary_keyword: 'kq flights from eldoret'
 secondary_keywords:
-- emirates flights from geneva to dubai
-- emirates flights from hyderabad to dallas
-- emirates flights from islamabad to dubai
-- emirates flights from jfk today
-- emirates flights from dubai to kochi today
+- 'emirates flights from geneva to dubai'
+- 'emirates flights from hyderabad to dallas'
+- 'emirates flights from islamabad to dubai'
+- 'emirates flights from jfk today'
+- 'emirates flights from dubai to kochi today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

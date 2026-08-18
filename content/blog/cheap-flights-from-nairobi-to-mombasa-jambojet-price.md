@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Nairobi to Mombasa Jambojet Price: Complete Guide'
-description: Everything you need to know about cheap flights from nairobi to mombasa jambojet price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from nairobi to mombasa jambojet price, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-nairobi-to-mombasa-jambojet-price
-primary_keyword: cheap flights from nairobi to mombasa jambojet price
+primary_keyword: 'cheap flights from nairobi to mombasa jambojet price'
 secondary_keywords:
-- ticket from kenya to uk
-- in flight entertainment kenya airways
-- booking flights online in kenya
-- flights to kenya direct
-- flights from kenya to usa today
+- 'ticket from kenya to uk'
+- 'in flight entertainment kenya airways'
+- 'booking flights online in kenya'
+- 'flights to kenya direct'
+- 'flights from kenya to usa today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

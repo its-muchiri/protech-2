@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Ethiopia from Kenya: Complete Guide'
-description: Everything you need to know about flights to ethiopia from kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to ethiopia from kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-to-ethiopia-from-kenya
-primary_keyword: flights to ethiopia from kenya
+primary_keyword: 'flights to ethiopia from kenya'
 secondary_keywords:
-- turkish airlines flights from nairobi
-- turkish airlines lounge nairobi cost
-- turkish airlines nairobi opening hours
-- turkish airlines lounge nairobi photos
-- turkish airlines customer service nairobi
+- 'turkish airlines flights from nairobi'
+- 'turkish airlines lounge nairobi cost'
+- 'turkish airlines nairobi opening hours'
+- 'turkish airlines lounge nairobi photos'
+- 'turkish airlines customer service nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

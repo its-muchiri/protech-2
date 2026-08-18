@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Kenya from Boston: Complete Guide'
-description: Everything you need to know about flights to kenya from boston, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to kenya from boston, including routes, airlines, booking tips, and fares.'
 slug: flights-to-kenya-from-boston
-primary_keyword: flights to kenya from boston
+primary_keyword: 'flights to kenya from boston'
 secondary_keywords:
-- flights to kisumu from entebbe uganda
-- flight from kisumu to kigali
-- flights from kisumu to migori
-- safarilink flights from kisumu to nairobi today timetable
-- available flights from eldoret to nairobi
+- 'flights to kisumu from entebbe uganda'
+- 'flight from kisumu to kigali'
+- 'flights from kisumu to migori'
+- 'safarilink flights from kisumu to nairobi today timetable'
+- 'available flights from eldoret to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

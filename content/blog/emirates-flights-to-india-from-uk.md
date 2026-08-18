@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights to India from Uk: Complete Guide'
-description: Everything you need to know about emirates flights to india from uk, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights to india from uk, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-to-india-from-uk
-primary_keyword: emirates flights to india from uk
+primary_keyword: 'emirates flights to india from uk'
 secondary_keywords:
-- flights nairobi to turkey
-- flights nairobi to vancouver
-- flights nairobi to wajir
-- flights nairobi to zambia
-- ba flight to nairobi 2000
+- 'flights nairobi to turkey'
+- 'flights nairobi to vancouver'
+- 'flights nairobi to wajir'
+- 'flights nairobi to zambia'
+- 'ba flight to nairobi 2000'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Karachi to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from karachi to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from karachi to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-karachi-to-dubai
-primary_keyword: emirates flights from karachi to dubai
+primary_keyword: 'emirates flights from karachi to dubai'
 secondary_keywords:
-- flights mombasa kenya to cairo egypt
-- flights paris kenya
-- is kenya airport open now
-- does united airlines fly to kenya
-- flights to zimbabwe from nairobi
+- 'flights mombasa kenya to cairo egypt'
+- 'flights paris kenya'
+- 'is kenya airport open now'
+- 'does united airlines fly to kenya'
+- 'flights to zimbabwe from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Mombasa Flights from Jkia: Complete Guide'
-description: Everything you need to know about mombasa flights from jkia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about mombasa flights from jkia, including routes, airlines, booking tips, and fares.'
 slug: mombasa-flights-from-jkia
-primary_keyword: mombasa flights from jkia
+primary_keyword: 'mombasa flights from jkia'
 secondary_keywords:
-- flights to kenya news
-- qatar flights to nairobi
-- flights kenya to london
-- flights to voi
-- kenya 3
+- 'flights to kenya news'
+- 'qatar flights to nairobi'
+- 'flights kenya to london'
+- 'flights to voi'
+- 'kenya 3'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

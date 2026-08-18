@@ -1,14 +1,14 @@
 ---
 title: 'Jkia Turkish Airlines Terminal: Complete Guide'
-description: Everything you need to know about jkia turkish airlines terminal, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about jkia turkish airlines terminal, including routes, airlines, booking tips, and fares.'
 slug: jkia-turkish-airlines-terminal
-primary_keyword: jkia turkish airlines terminal
+primary_keyword: 'jkia turkish airlines terminal'
 secondary_keywords:
-- emirates flights first class
-- emirates flights from gatwick terminal
-- emirates flights from harare to london
-- emirates flights from istanbul to dubai
-- emirates flights from johannesburg to auckland
+- 'emirates flights first class'
+- 'emirates flights from gatwick terminal'
+- 'emirates flights from harare to london'
+- 'emirates flights from istanbul to dubai'
+- 'emirates flights from johannesburg to auckland'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

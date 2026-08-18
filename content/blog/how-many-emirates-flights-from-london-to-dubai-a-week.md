@@ -1,14 +1,14 @@
 ---
 title: 'How Many Emirates Flights from London to Dubai a Week: Complete Guide'
-description: Everything you need to know about how many emirates flights from london to dubai a week, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how many emirates flights from london to dubai a week, including routes, airlines, booking tips, and fares.'
 slug: how-many-emirates-flights-from-london-to-dubai-a-week
-primary_keyword: how many emirates flights from london to dubai a week
+primary_keyword: 'how many emirates flights from london to dubai a week'
 secondary_keywords:
-- local flights in kenya today
-- flights to kenya november 2025
-- qatar airways in nairobi
-- flights kenya to south africa
-- flights within kenya
+- 'local flights in kenya today'
+- 'flights to kenya november 2025'
+- 'qatar airways in nairobi'
+- 'flights kenya to south africa'
+- 'flights within kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

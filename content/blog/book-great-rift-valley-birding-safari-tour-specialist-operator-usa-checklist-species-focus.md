@@ -1,14 +1,14 @@
 ---
 title: 'Book Great Rift Valley Birding Safari Tour Specialist Operator USA Checklist Species Focus: Complete Guide'
-description: Kenya safari guide covering book great rift valley birding safari tour specialist operator usa checklist species focus, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book great rift valley birding safari tour specialist operator usa checklist species focus, including what is included, pricing, and booking advice.'
 slug: book-great-rift-valley-birding-safari-tour-specialist-operator-usa-checklist-species-focus
-primary_keyword: Book Great Rift Valley birding safari tour specialist operator USA checklist species focus
+primary_keyword: 'Book Great Rift Valley birding safari tour specialist operator USA checklist species focus'
 secondary_keywords:
-- Reserve Kenya safari with child-friendly malaria-free area lodges USA Laikipia deals
-- Check Kenya eVisa requirements for European Union citizens booking safari online
-- Find LGBTQ+ welcoming Kenya safari tour operator USA safe travel recommendations reviews
-- Book Amboseli cultural manyatta stay safari package Europe immersive experience booking
-- Buy Kenya safari app guide download purchase recommendations offline maps features
+- 'Reserve Kenya safari with child-friendly malaria-free area lodges USA Laikipia deals'
+- 'Check Kenya eVisa requirements for European Union citizens booking safari online'
+- 'Find LGBTQ+ welcoming Kenya safari tour operator USA safe travel recommendations reviews'
+- 'Book Amboseli cultural manyatta stay safari package Europe immersive experience booking'
+- 'Buy Kenya safari app guide download purchase recommendations offline maps features'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

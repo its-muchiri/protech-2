@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Fiji: Complete Guide'
-description: Everything you need to know about flights from kenya to fiji, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to fiji, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-fiji
-primary_keyword: flights from kenya to fiji
+primary_keyword: 'flights from kenya to fiji'
 secondary_keywords:
-- kq flight from dubai to nairobi today
-- flight number kenya airways
-- kenya airways flight from nairobi to london today live
-- kq flight schedule nairobi to kisumu
-- kenya airways flight from nairobi to eldoret
+- 'kq flight from dubai to nairobi today'
+- 'flight number kenya airways'
+- 'kenya airways flight from nairobi to london today live'
+- 'kq flight schedule nairobi to kisumu'
+- 'kenya airways flight from nairobi to eldoret'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

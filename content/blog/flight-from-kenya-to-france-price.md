@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kenya to France Price: Complete Guide'
-description: Everything you need to know about flight from kenya to france price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kenya to france price, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kenya-to-france-price
-primary_keyword: flight from kenya to france price
+primary_keyword: 'flight from kenya to france price'
 secondary_keywords:
-- mombasa flights from wilson
-- kq flights from kisumu to nairobi today
-- cheap flights from kisumu to nairobi
-- are there flights from eldoret to kisumu
-- flights to kisumu kenya airways
+- 'mombasa flights from wilson'
+- 'kq flights from kisumu to nairobi today'
+- 'cheap flights from kisumu to nairobi'
+- 'are there flights from eldoret to kisumu'
+- 'flights to kisumu kenya airways'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

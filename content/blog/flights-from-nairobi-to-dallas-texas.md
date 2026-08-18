@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Dallas Texas: Complete Guide'
-description: Everything you need to know about flights from nairobi to dallas texas, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to dallas texas, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-dallas-texas
-primary_keyword: flights from nairobi to dallas texas
+primary_keyword: 'flights from nairobi to dallas texas'
 secondary_keywords:
-- cheap flights from mombasa to mumbai
-- flights from eldoret to mombasa
-- flights geneva mombasa
-- flights from mombasa to italy
-- jambojet flights from mombasa to kisumu
+- 'cheap flights from mombasa to mumbai'
+- 'flights from eldoret to mombasa'
+- 'flights geneva mombasa'
+- 'flights from mombasa to italy'
+- 'jambojet flights from mombasa to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

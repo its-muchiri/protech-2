@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from Dubai to Nairobi Today: Complete Guide'
-description: Everything you need to know about kenya airways flight from dubai to nairobi today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from dubai to nairobi today, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-dubai-to-nairobi-today
-primary_keyword: kenya airways flight from dubai to nairobi today
+primary_keyword: 'kenya airways flight from dubai to nairobi today'
 secondary_keywords:
-- fly nairobi to victoria falls
-- nairobi to watamu flights
-- flight time from nairobi to zimbabwe
-- cheap flights to nairobi from mombasa
-- emirates flights from adelaide
+- 'fly nairobi to victoria falls'
+- 'nairobi to watamu flights'
+- 'flight time from nairobi to zimbabwe'
+- 'cheap flights to nairobi from mombasa'
+- 'emirates flights from adelaide'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

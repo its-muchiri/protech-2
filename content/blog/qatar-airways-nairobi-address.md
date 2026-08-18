@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways Nairobi Address: Complete Guide'
-description: Everything you need to know about qatar airways nairobi address, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways nairobi address, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-nairobi-address
-primary_keyword: qatar airways nairobi address
+primary_keyword: 'qatar airways nairobi address'
 secondary_keywords:
-- flights from nairobi airport
-- available flights from nairobi to kisumu
-- british airways flights from nairobi to london today
-- cheap flights from nairobi to dubai
-- dubai flights from nairobi
+- 'flights from nairobi airport'
+- 'available flights from nairobi to kisumu'
+- 'british airways flights from nairobi to london today'
+- 'cheap flights from nairobi to dubai'
+- 'dubai flights from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

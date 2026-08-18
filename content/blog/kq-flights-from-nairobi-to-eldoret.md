@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from Nairobi to Eldoret: Complete Guide'
-description: Everything you need to know about kq flights from nairobi to eldoret, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from nairobi to eldoret, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-nairobi-to-eldoret
-primary_keyword: kq flights from nairobi to eldoret
+primary_keyword: 'kq flights from nairobi to eldoret'
 secondary_keywords:
-- kq flight 003
-- kq103 flight status
-- does kq fly to ukunda
-- kq 414 flight status
-- kq 554 flight status
+- 'kq flight 003'
+- 'kq103 flight status'
+- 'does kq fly to ukunda'
+- 'kq 414 flight status'
+- 'kq 554 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

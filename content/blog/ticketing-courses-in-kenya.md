@@ -1,14 +1,14 @@
 ---
 title: 'Ticketing Courses in Kenya: Complete Guide'
-description: Everything you need to know about ticketing courses in kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ticketing courses in kenya, including routes, airlines, booking tips, and fares.'
 slug: ticketing-courses-in-kenya
-primary_keyword: ticketing courses in kenya
+primary_keyword: 'ticketing courses in kenya'
 secondary_keywords:
-- flight from nairobi to germany price
-- flight from nairobi to hamburg
-- flight from nairobi to juba
-- flight from nairobi kenya
-- latest flight from nairobi to mombasa
+- 'flight from nairobi to germany price'
+- 'flight from nairobi to hamburg'
+- 'flight from nairobi to juba'
+- 'flight from nairobi kenya'
+- 'latest flight from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

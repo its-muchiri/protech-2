@@ -1,13 +1,13 @@
 ---
 title: 'Book Kenya Safari for Specific Dates  USA: Complete Guide'
-description: Kenya safari guide covering book kenya safari for specific dates  usa, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book kenya safari for specific dates  usa, including what is included, pricing, and booking advice.'
 slug: book-kenya-safari-for-specific-dates-e-g-august-10-17-2025-usa
-primary_keyword: Book Kenya safari for specific dates  USA
+primary_keyword: 'Book Kenya safari for specific dates  USA'
 secondary_keywords:
-- Kenya safari packing list
-- Electricity Kenya safari lodges
-- Guided bird watching safari Lake Nakuru Kenya
-- Primate safari Kenya (Kakamega, Tana River)
+- 'Kenya safari packing list'
+- 'Electricity Kenya safari lodges'
+- 'Guided bird watching safari Lake Nakuru Kenya'
+- 'Primate safari Kenya (Kakamega, Tana River)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

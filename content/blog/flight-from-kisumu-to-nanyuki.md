@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kisumu to Nanyuki: Complete Guide'
-description: Everything you need to know about flight from kisumu to nanyuki, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kisumu to nanyuki, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kisumu-to-nanyuki
-primary_keyword: flight from kisumu to nanyuki
+primary_keyword: 'flight from kisumu to nanyuki'
 secondary_keywords:
-- kenya airways flights nairobi to johannesburg
-- nairobi to kuala lumpur flights
-- flights nairobi to nyc
-- ottawa to nairobi flights
-- dar to nairobi flights price
+- 'kenya airways flights nairobi to johannesburg'
+- 'nairobi to kuala lumpur flights'
+- 'flights nairobi to nyc'
+- 'ottawa to nairobi flights'
+- 'dar to nairobi flights price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

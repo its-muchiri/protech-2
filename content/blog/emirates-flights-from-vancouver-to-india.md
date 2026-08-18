@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Vancouver to India: Complete Guide'
-description: Everything you need to know about emirates flights from vancouver to india, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from vancouver to india, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-vancouver-to-india
-primary_keyword: emirates flights from vancouver to india
+primary_keyword: 'emirates flights from vancouver to india'
 secondary_keywords:
-- flight from nairobi to doha
-- flight from england to nairobi
-- flight fare from nairobi to kisumu
-- flight cost from nairobi to germany
-- how much is a flight from nairobi to south africa
+- 'flight from nairobi to doha'
+- 'flight from england to nairobi'
+- 'flight fare from nairobi to kisumu'
+- 'flight cost from nairobi to germany'
+- 'how much is a flight from nairobi to south africa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

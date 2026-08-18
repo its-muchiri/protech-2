@@ -1,14 +1,14 @@
 ---
 title: 'Family Safari Kenya Deals Child Friendly Lodges: Complete Guide'
-description: Kenya safari guide covering family safari kenya deals child friendly lodges, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering family safari kenya deals child friendly lodges, including what is included, pricing, and booking advice.'
 slug: family-safari-kenya-deals-child-friendly-lodges
-primary_keyword: Family safari Kenya deals child friendly lodges
+primary_keyword: 'Family safari Kenya deals child friendly lodges'
 secondary_keywords:
-- Plan Kenya safari
-- Aberdare National Park safari
-- Multi-park Kenya safari
-- Camping Kenya safari
-- Guided Kenya safari
+- 'Plan Kenya safari'
+- 'Aberdare National Park safari'
+- 'Multi-park Kenya safari'
+- 'Camping Kenya safari'
+- 'Guided Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

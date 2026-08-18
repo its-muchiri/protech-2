@@ -1,14 +1,14 @@
 ---
 title: 'Best Kenya Safari Deals for USA Travelers Online: Complete Guide'
-description: Kenya safari guide covering best kenya safari deals for usa travelers online, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering best kenya safari deals for usa travelers online, including what is included, pricing, and booking advice.'
 slug: best-kenya-safari-deals-for-usa-travelers-online
-primary_keyword: Best Kenya safari deals for USA travelers online
+primary_keyword: 'Best Kenya safari deals for USA travelers online'
 secondary_keywords:
-- Diani Beach based tour operators excursions / safaris
-- Book Lake Nakuru flamingo safari trip online Europe
-- Masai Mara safari package cost per person 2025
-- Kenya safari Easter package offers USA
-- Book Kenya migration safari tour Masai Mara Europe 2025
+- 'Diani Beach based tour operators excursions / safaris'
+- 'Book Lake Nakuru flamingo safari trip online Europe'
+- 'Masai Mara safari package cost per person 2025'
+- 'Kenya safari Easter package offers USA'
+- 'Book Kenya migration safari tour Masai Mara Europe 2025'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

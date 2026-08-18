@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights from Nairobi to Seychelles: Complete Guide'
-description: Everything you need to know about kenya airways flights from nairobi to seychelles, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights from nairobi to seychelles, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-from-nairobi-to-seychelles
-primary_keyword: kenya airways flights from nairobi to seychelles
+primary_keyword: 'kenya airways flights from nairobi to seychelles'
 secondary_keywords:
-- 1 ethiopian birr to kenyan shillings
-- flights nairobi to abu dhabi
-- flights nairobi to bujumbura
-- berlin to nairobi flights
-- cheap flights nairobi to entebbe
+- '1 ethiopian birr to kenyan shillings'
+- 'flights nairobi to abu dhabi'
+- 'flights nairobi to bujumbura'
+- 'berlin to nairobi flights'
+- 'cheap flights nairobi to entebbe'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

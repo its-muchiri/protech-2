@@ -1,14 +1,14 @@
 ---
 title: 'Tipping Guide Kenya Safari: Complete Guide'
-description: Kenya safari guide covering tipping guide kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering tipping guide kenya safari, including what is included, pricing, and booking advice.'
 slug: tipping-guide-kenya-safari
-primary_keyword: Tipping guide Kenya safari
+primary_keyword: 'Tipping guide Kenya safari'
 secondary_keywords:
-- Kenya visa for safari
-- Language spoken Kenya safari
-- Kenya safari tour operator reviews Tripadvisor
-- 4 day Samburu reserve safari package deal
-- Butterfly safari Kenya (Arabuko Sokoke)
+- 'Kenya visa for safari'
+- 'Language spoken Kenya safari'
+- 'Kenya safari tour operator reviews Tripadvisor'
+- '4 day Samburu reserve safari package deal'
+- 'Butterfly safari Kenya (Arabuko Sokoke)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

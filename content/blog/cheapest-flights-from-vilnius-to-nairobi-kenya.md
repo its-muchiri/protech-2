@@ -1,14 +1,14 @@
 ---
 title: 'Cheapest Flights from Vilnius to Nairobi Kenya: Complete Guide'
-description: Everything you need to know about cheapest flights from vilnius to nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheapest flights from vilnius to nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: cheapest-flights-from-vilnius-to-nairobi-kenya
-primary_keyword: cheapest flights from vilnius to nairobi kenya
+primary_keyword: 'cheapest flights from vilnius to nairobi kenya'
 secondary_keywords:
-- flights from kenya to barcelona
-- flights from kenya to colombia
-- flights from kenya to dallas
-- emirates flights from kenya to australia
-- flights to france from kenya
+- 'flights from kenya to barcelona'
+- 'flights from kenya to colombia'
+- 'flights from kenya to dallas'
+- 'emirates flights from kenya to australia'
+- 'flights to france from kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

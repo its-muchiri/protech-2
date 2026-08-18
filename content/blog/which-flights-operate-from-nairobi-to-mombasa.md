@@ -1,14 +1,14 @@
 ---
 title: 'Which Flights Operate from Nairobi to Mombasa: Complete Guide'
-description: Everything you need to know about which flights operate from nairobi to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about which flights operate from nairobi to mombasa, including routes, airlines, booking tips, and fares.'
 slug: which-flights-operate-from-nairobi-to-mombasa
-primary_keyword: which flights operate from nairobi to mombasa
+primary_keyword: 'which flights operate from nairobi to mombasa'
 secondary_keywords:
-- kq flight from mumbai to nairobi
-- kq to zanzibar
-- kq flight from nairobi to accra
-- kq direct flight from nairobi to new york time
-- how much is kq flight from nairobi to new york
+- 'kq flight from mumbai to nairobi'
+- 'kq to zanzibar'
+- 'kq flight from nairobi to accra'
+- 'kq direct flight from nairobi to new york time'
+- 'how much is kq flight from nairobi to new york'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

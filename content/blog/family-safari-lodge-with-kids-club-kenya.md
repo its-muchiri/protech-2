@@ -1,14 +1,14 @@
 ---
 title: 'Family Safari Lodge with Kids Club Kenya: Complete Guide'
-description: Kenya safari guide covering family safari lodge with kids club kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering family safari lodge with kids club kenya, including what is included, pricing, and booking advice.'
 slug: family-safari-lodge-with-kids-club-kenya
-primary_keyword: Family safari lodge with kids club Kenya
+primary_keyword: 'Family safari lodge with kids club Kenya'
 secondary_keywords:
-- Get deal on 8 day Kicheche Camps luxury package Mara conservancy
-- Buy 9 day Cottar''s 1920s Safari Camp luxury package
-- Quote helicopter transfer Kenya safari package add-on
-- Reliable travel agency Nairobi Kenya
-- Kenya safari booking websites
+- 'Get deal on 8 day Kicheche Camps luxury package Mara conservancy'
+- 'Buy 9 day Cottar''''s 1920s Safari Camp luxury package'
+- 'Quote helicopter transfer Kenya safari package add-on'
+- 'Reliable travel agency Nairobi Kenya'
+- 'Kenya safari booking websites'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Flights from Nairobi to Addis Ababa: Complete Guide'
-description: Everything you need to know about ethiopian airlines flights from nairobi to addis ababa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines flights from nairobi to addis ababa, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-flights-from-nairobi-to-addis-ababa
-primary_keyword: ethiopian airlines flights from nairobi to addis ababa
+primary_keyword: 'ethiopian airlines flights from nairobi to addis ababa'
 secondary_keywords:
-- flight from nairobi to malindi price
-- flight from nairobi to oman
-- flight from nairobi to prague
-- flight from nairobi to rabat
-- flight from nairobi to sydney
+- 'flight from nairobi to malindi price'
+- 'flight from nairobi to oman'
+- 'flight from nairobi to prague'
+- 'flight from nairobi to rabat'
+- 'flight from nairobi to sydney'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

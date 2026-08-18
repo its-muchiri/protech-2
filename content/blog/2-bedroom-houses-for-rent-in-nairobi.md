@@ -1,14 +1,14 @@
 ---
 title: '2 Bedroom Houses for Rent in Nairobi: Complete Guide'
-description: Everything you need to know about 2 bedroom houses for rent in nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about 2 bedroom houses for rent in nairobi, including routes, airlines, booking tips, and fares.'
 slug: 2-bedroom-houses-for-rent-in-nairobi
-primary_keyword: 2 bedroom houses for rent in nairobi
+primary_keyword: '2 bedroom houses for rent in nairobi'
 secondary_keywords:
-- cheap flights from birmingham to nairobi kenya
-- cheap flights from kenya to south africa
-- flights from kenya to europe
-- flights from edmonton to nairobi kenya
-- flights from kenya to greece
+- 'cheap flights from birmingham to nairobi kenya'
+- 'cheap flights from kenya to south africa'
+- 'flights from kenya to europe'
+- 'flights from edmonton to nairobi kenya'
+- 'flights from kenya to greece'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

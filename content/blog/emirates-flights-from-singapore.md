@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Singapore: Complete Guide'
-description: Everything you need to know about emirates flights from singapore, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from singapore, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-singapore
-primary_keyword: emirates flights from singapore
+primary_keyword: 'emirates flights from singapore'
 secondary_keywords:
-- flight from kenya to venezuela
-- flight from kenya to washington
-- flights from nairobi to yaounde
-- flight from kenya to zimbabwe price
-- flights to kenya 2024
+- 'flight from kenya to venezuela'
+- 'flight from kenya to washington'
+- 'flights from nairobi to yaounde'
+- 'flight from kenya to zimbabwe price'
+- 'flights to kenya 2024'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

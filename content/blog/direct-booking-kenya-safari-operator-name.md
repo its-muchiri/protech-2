@@ -1,14 +1,14 @@
 ---
 title: 'Direct Booking Kenya Safari : Complete Guide'
-description: Kenya safari guide covering direct booking kenya safari , including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering direct booking kenya safari , including what is included, pricing, and booking advice.'
 slug: direct-booking-kenya-safari-operator-name
-primary_keyword: Direct booking Kenya safari
+primary_keyword: 'Direct booking Kenya safari'
 secondary_keywords:
-- Price check and book Kenya safari package
-- Community-based tourism operators Kenya
-- Laikipia conservancy tours luxury
-- Chyulu Hills safari operators
-- Photographic safari workshops Kenya operators
+- 'Price check and book Kenya safari package'
+- 'Community-based tourism operators Kenya'
+- 'Laikipia conservancy tours luxury'
+- 'Chyulu Hills safari operators'
+- 'Photographic safari workshops Kenya operators'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

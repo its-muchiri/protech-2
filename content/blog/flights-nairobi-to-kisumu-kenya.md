@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Kisumu Kenya: Complete Guide'
-description: Everything you need to know about flights nairobi to kisumu kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to kisumu kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-kisumu-kenya
-primary_keyword: flights nairobi to kisumu kenya
+primary_keyword: 'flights nairobi to kisumu kenya'
 secondary_keywords:
-- emirates airline kenya reviews
-- emirates kenya email address nairobi
-- emirates lounge kenya
-- fly emirates kenya contacts
-- how far is ethiopia from kenya by plane
+- 'emirates airline kenya reviews'
+- 'emirates kenya email address nairobi'
+- 'emirates lounge kenya'
+- 'fly emirates kenya contacts'
+- 'how far is ethiopia from kenya by plane'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

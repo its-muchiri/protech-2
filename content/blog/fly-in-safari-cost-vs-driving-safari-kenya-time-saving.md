@@ -1,14 +1,14 @@
 ---
 title: 'Fly-in Safari Cost Vs Driving Safari Kenya Time Saving: Complete Guide'
-description: Kenya safari guide covering fly-in safari cost vs driving safari kenya time saving, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering fly-in safari cost vs driving safari kenya time saving, including what is included, pricing, and booking advice.'
 slug: fly-in-safari-cost-vs-driving-safari-kenya-time-saving
-primary_keyword: Fly-in safari cost vs driving safari Kenya time saving
+primary_keyword: 'Fly-in safari cost vs driving safari Kenya time saving'
 secondary_keywords:
-- Reserve 15 day grand Kenya overland truck budget group package booking
-- Reliable Kenya travel agencies near Thika
-- Private tour companies Kenya custom itineraries
-- Visit Mzima Springs Tsavo West tour package
-- Lake Naivasha boat ride hippo tour price
+- 'Reserve 15 day grand Kenya overland truck budget group package booking'
+- 'Reliable Kenya travel agencies near Thika'
+- 'Private tour companies Kenya custom itineraries'
+- 'Visit Mzima Springs Tsavo West tour package'
+- 'Lake Naivasha boat ride hippo tour price'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

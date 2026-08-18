@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 6: Complete Guide'
-description: Everything you need to know about emirates flight 6, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 6, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-6
-primary_keyword: emirates flight 6
+primary_keyword: 'emirates flight 6'
 secondary_keywords:
-- kq flight from juba to nairobi
-- kenya airways flight from nairobi to mumbai
-- kenya airways flight schedule nairobi to london
-- kenya airways flights from nairobi to abuja today
-- kenya airways customer service
+- 'kq flight from juba to nairobi'
+- 'kenya airways flight from nairobi to mumbai'
+- 'kenya airways flight schedule nairobi to london'
+- 'kenya airways flights from nairobi to abuja today'
+- 'kenya airways customer service'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

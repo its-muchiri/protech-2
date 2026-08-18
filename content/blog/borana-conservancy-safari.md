@@ -1,14 +1,14 @@
 ---
 title: 'Borana Conservancy Safari: Complete Guide'
-description: Kenya safari guide covering borana conservancy safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering borana conservancy safari, including what is included, pricing, and booking advice.'
 slug: borana-conservancy-safari
-primary_keyword: Borana Conservancy safari
+primary_keyword: 'Borana Conservancy safari'
 secondary_keywords:
-- Solo traveler safari Kenya group joining options cost
-- Fly 540 / Jambojet flights to Diani / Malindi price
-- Aberdare Ranges hiking tours Satima Peak
-- Giraffe Centre Nairobi tour Kiss a Giraffe experience cost
-- Axis Africa Safaris budget camping packages
+- 'Solo traveler safari Kenya group joining options cost'
+- 'Fly 540 / Jambojet flights to Diani / Malindi price'
+- 'Aberdare Ranges hiking tours Satima Peak'
+- 'Giraffe Centre Nairobi tour Kiss a Giraffe experience cost'
+- 'Axis Africa Safaris budget camping packages'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

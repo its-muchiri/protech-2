@@ -1,14 +1,14 @@
 ---
 title: 'Long Kenya Safari: Complete Guide'
-description: Kenya safari guide covering long kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering long kenya safari, including what is included, pricing, and booking advice.'
 slug: long-kenya-safari
-primary_keyword: Long Kenya safari
+primary_keyword: 'Long Kenya safari'
 secondary_keywords:
-- Budget for 8 day private photographic Samburu tour
-- Lake Nakuru safari tour early bird promotion
-- Honeymoon Kenya safari package sale price
-- Masai Mara tour package details
-- Kenya Tanzania combined tour itinerary quote
+- 'Budget for 8 day private photographic Samburu tour'
+- 'Lake Nakuru safari tour early bird promotion'
+- 'Honeymoon Kenya safari package sale price'
+- 'Masai Mara tour package details'
+- 'Kenya Tanzania combined tour itinerary quote'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

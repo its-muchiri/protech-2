@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Riyadh to Kenya: Complete Guide'
-description: Everything you need to know about flights from riyadh to kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from riyadh to kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-riyadh-to-kenya
-primary_keyword: flights from riyadh to kenya
+primary_keyword: 'flights from riyadh to kenya'
 secondary_keywords:
-- emirates direct flights from dubai to usa
-- emirates flights from wellington
-- emirates flights from yvr
-- emirates flights from zurich
-- emirates flight 0408
+- 'emirates direct flights from dubai to usa'
+- 'emirates flights from wellington'
+- 'emirates flights from yvr'
+- 'emirates flights from zurich'
+- 'emirates flight 0408'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

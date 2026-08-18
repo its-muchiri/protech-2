@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Flights from Nairobi to Dubai Today: Complete Guide'
-description: Everything you need to know about ethiopian airlines flights from nairobi to dubai today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines flights from nairobi to dubai today, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-flights-from-nairobi-to-dubai-today
-primary_keyword: ethiopian airlines flights from nairobi to dubai today
+primary_keyword: 'ethiopian airlines flights from nairobi to dubai today'
 secondary_keywords:
-- cheapest local flights in kenya
-- ethiopian airlines in kenya
-- flights to kenya heathrow
-- cheap flights to kenya in june
-- flights nairobi to mombasa kenya airways
+- 'cheapest local flights in kenya'
+- 'ethiopian airlines in kenya'
+- 'flights to kenya heathrow'
+- 'cheap flights to kenya in june'
+- 'flights nairobi to mombasa kenya airways'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

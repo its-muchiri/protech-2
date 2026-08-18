@@ -1,14 +1,14 @@
 ---
 title: 'Contact Kenya Inbound Tour Operator for Booking: Complete Guide'
-description: Kenya safari guide covering contact kenya inbound tour operator for booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering contact kenya inbound tour operator for booking, including what is included, pricing, and booking advice.'
 slug: contact-kenya-inbound-tour-operator-for-booking
-primary_keyword: Contact Kenya inbound tour operator for booking
+primary_keyword: 'Contact Kenya inbound tour operator for booking'
 secondary_keywords:
-- Book Kenya safari with
-- Purchase Kenya safari cultural visit included package
-- Reserve VIP exclusive Kenya safari package private jet option
-- Buy off-season Kenya safari discount package April
-- Buy 3 day budget Amboseli fly-in package last minute deal Nairobi
+- 'Book Kenya safari with'
+- 'Purchase Kenya safari cultural visit included package'
+- 'Reserve VIP exclusive Kenya safari package private jet option'
+- 'Buy off-season Kenya safari discount package April'
+- 'Buy 3 day budget Amboseli fly-in package last minute deal Nairobi'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Booking Nairobi: Complete Guide'
-description: Everything you need to know about emirates booking nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates booking nairobi, including routes, airlines, booking tips, and fares.'
 slug: emirates-booking-nairobi
-primary_keyword: emirates booking nairobi
+primary_keyword: 'emirates booking nairobi'
 secondary_keywords:
-- skyward flights from nairobi to mombasa
-- uganda airlines flights from nairobi to entebbe today
-- flights from nairobi wilson to diani beach
-- cheap flights from nairobi to amsterdam
-- cheap flights from nairobi to australia
+- 'skyward flights from nairobi to mombasa'
+- 'uganda airlines flights from nairobi to entebbe today'
+- 'flights from nairobi wilson to diani beach'
+- 'cheap flights from nairobi to amsterdam'
+- 'cheap flights from nairobi to australia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Nairobi Kenya from Orlando Florida: Complete Guide'
-description: Everything you need to know about flights to nairobi kenya from orlando florida, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to nairobi kenya from orlando florida, including routes, airlines, booking tips, and fares.'
 slug: flights-to-nairobi-kenya-from-orlando-florida
-primary_keyword: flights to nairobi kenya from orlando florida
+primary_keyword: 'flights to nairobi kenya from orlando florida'
 secondary_keywords:
-- emirates flights from johannesburg to paris
-- emirates flights from karachi to dubai today
-- emirates flights from lagos to london
-- emirates flights from new zealand to south africa
-- emirates flights from johannesburg to orlando florida
+- 'emirates flights from johannesburg to paris'
+- 'emirates flights from karachi to dubai today'
+- 'emirates flights from lagos to london'
+- 'emirates flights from new zealand to south africa'
+- 'emirates flights from johannesburg to orlando florida'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

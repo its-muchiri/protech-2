@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight Quetta to Dubai: Complete Guide'
-description: Everything you need to know about emirates flight quetta to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight quetta to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-quetta-to-dubai
-primary_keyword: emirates flight quetta to dubai
+primary_keyword: 'emirates flight quetta to dubai'
 secondary_keywords:
-- how long is the flight from nairobi to victoria falls
-- cheapest flight from nairobi to south africa
-- how many hours flight from nairobi to zanzibar
-- cheapest flight from nairobi to johannesburg
-- 540 flight from nairobi to mombasa today
+- 'how long is the flight from nairobi to victoria falls'
+- 'cheapest flight from nairobi to south africa'
+- 'how many hours flight from nairobi to zanzibar'
+- 'cheapest flight from nairobi to johannesburg'
+- '540 flight from nairobi to mombasa today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

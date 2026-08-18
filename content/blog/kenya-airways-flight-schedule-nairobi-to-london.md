@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight Schedule Nairobi to London: Complete Guide'
-description: Everything you need to know about kenya airways flight schedule nairobi to london, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight schedule nairobi to london, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-schedule-nairobi-to-london
-primary_keyword: kenya airways flight schedule nairobi to london
+primary_keyword: 'kenya airways flight schedule nairobi to london'
 secondary_keywords:
-- flights from italy to mombasa
-- flights from mombasa to kigali
-- fly from mombasa to lamu
-- morning flights from mombasa to nairobi
-- flight from kisumu to mombasa price
+- 'flights from italy to mombasa'
+- 'flights from mombasa to kigali'
+- 'fly from mombasa to lamu'
+- 'morning flights from mombasa to nairobi'
+- 'flight from kisumu to mombasa price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

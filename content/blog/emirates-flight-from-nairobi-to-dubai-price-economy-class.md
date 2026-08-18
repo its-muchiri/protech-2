@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight from Nairobi to Dubai Price Economy Class: Complete Guide'
-description: Everything you need to know about emirates flight from nairobi to dubai price economy class, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight from nairobi to dubai price economy class, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-from-nairobi-to-dubai-price-economy-class
-primary_keyword: emirates flight from nairobi to dubai price economy class
+primary_keyword: 'emirates flight from nairobi to dubai price economy class'
 secondary_keywords:
-- flight from nairobi to saudi arabia
-- the cheapest flight from nairobi to kisumu
-- cheapest flight from nairobi to usa
-- what time is the last flight from nairobi to mombasa
-- cheapest flight from nairobi to new york
+- 'flight from nairobi to saudi arabia'
+- 'the cheapest flight from nairobi to kisumu'
+- 'cheapest flight from nairobi to usa'
+- 'what time is the last flight from nairobi to mombasa'
+- 'cheapest flight from nairobi to new york'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

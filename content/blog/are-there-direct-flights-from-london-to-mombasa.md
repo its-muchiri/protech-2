@@ -1,14 +1,14 @@
 ---
 title: 'Are There Direct Flights from London to Mombasa: Complete Guide'
-description: Everything you need to know about are there direct flights from london to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about are there direct flights from london to mombasa, including routes, airlines, booking tips, and fares.'
 slug: are-there-direct-flights-from-london-to-mombasa
-primary_keyword: are there direct flights from london to mombasa
+primary_keyword: 'are there direct flights from london to mombasa'
 secondary_keywords:
-- flights to kenya nairobi from london
-- flights to kenya return
-- flights kenya to dubai
-- flights with kenya airways
-- 748 flights to mombasa
+- 'flights to kenya nairobi from london'
+- 'flights to kenya return'
+- 'flights kenya to dubai'
+- 'flights with kenya airways'
+- '748 flights to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

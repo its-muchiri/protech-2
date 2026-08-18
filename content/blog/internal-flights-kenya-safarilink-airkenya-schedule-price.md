@@ -1,14 +1,14 @@
 ---
 title: 'Internal Flights Kenya Safarilink / AirKenya Schedule / Price: Complete Guide'
-description: Kenya safari guide covering internal flights kenya safarilink / airkenya schedule / price, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering internal flights kenya safarilink / airkenya schedule / price, including what is included, pricing, and booking advice.'
 slug: internal-flights-kenya-safarilink-airkenya-schedule-price
-primary_keyword: Internal flights Kenya Safarilink / AirKenya schedule / price
+primary_keyword: 'Internal flights Kenya Safarilink / AirKenya schedule / price'
 secondary_keywords:
-- Eco-friendly Kenya safari tours booking UK sustainable lodges
-- Great Rift Valley lakes safari cost USA birding focus
-- Kenya safari packages from Germany (Deutschland) buchen online
-- Spain (España) Kenya safari holiday deals online
-- Small group Kenya safari company booking guaranteed departures
+- 'Eco-friendly Kenya safari tours booking UK sustainable lodges'
+- 'Great Rift Valley lakes safari cost USA birding focus'
+- 'Kenya safari packages from Germany (Deutschland) buchen online'
+- 'Spain (España) Kenya safari holiday deals online'
+- 'Small group Kenya safari company booking guaranteed departures'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

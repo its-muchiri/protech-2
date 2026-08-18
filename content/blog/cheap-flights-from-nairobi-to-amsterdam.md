@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Nairobi to Amsterdam: Complete Guide'
-description: Everything you need to know about cheap flights from nairobi to amsterdam, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from nairobi to amsterdam, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-nairobi-to-amsterdam
-primary_keyword: cheap flights from nairobi to amsterdam
+primary_keyword: 'cheap flights from nairobi to amsterdam'
 secondary_keywords:
-- how much is flight from nairobi to kampala
-- jambojet flight from nairobi to mombasa
-- flight from nairobi to london price
-- flight from nairobi to mumbai
-- flight to namibia from nairobi
+- 'how much is flight from nairobi to kampala'
+- 'jambojet flight from nairobi to mombasa'
+- 'flight from nairobi to london price'
+- 'flight from nairobi to mumbai'
+- 'flight to namibia from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

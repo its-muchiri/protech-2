@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights to New Zealand from Uk: Complete Guide'
-description: Everything you need to know about emirates flights to new zealand from uk, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights to new zealand from uk, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-to-new-zealand-from-uk
-primary_keyword: emirates flights to new zealand from uk
+primary_keyword: 'emirates flights to new zealand from uk'
 secondary_keywords:
-- flight distance from nairobi to new york
-- flight from nairobi to nyeri
-- flight 540 nairobi to kisumu price
-- 540 flight from nairobi to eldoret price
-- turkish airlines flights from nairobi
+- 'flight distance from nairobi to new york'
+- 'flight from nairobi to nyeri'
+- 'flight 540 nairobi to kisumu price'
+- '540 flight from nairobi to eldoret price'
+- 'turkish airlines flights from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

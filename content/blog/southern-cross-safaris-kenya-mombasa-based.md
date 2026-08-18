@@ -1,14 +1,14 @@
 ---
 title: 'Southern Cross Safaris Kenya Mombasa Based: Complete Guide'
-description: Kenya safari guide covering southern cross safaris kenya mombasa based, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering southern cross safaris kenya mombasa based, including what is included, pricing, and booking advice.'
 slug: southern-cross-safaris-kenya-mombasa-based
-primary_keyword: Southern Cross Safaris Kenya Mombasa based
+primary_keyword: 'Southern Cross Safaris Kenya Mombasa based'
 secondary_keywords:
-- Luxury tented camps Samburu (Elephant Bedroom, Sasaab) booking
-- Private Kenya safari vs group joining safari pros and cons
-- Lamu Island cultural holiday packages UNESCO site tours
-- Mount Kilimanjaro climbing tours from Kenya operators
-- Responsible tourism operators Kenya cultural sensitivity
+- 'Luxury tented camps Samburu (Elephant Bedroom, Sasaab) booking'
+- 'Private Kenya safari vs group joining safari pros and cons'
+- 'Lamu Island cultural holiday packages UNESCO site tours'
+- 'Mount Kilimanjaro climbing tours from Kenya operators'
+- 'Responsible tourism operators Kenya cultural sensitivity'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

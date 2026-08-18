@@ -1,14 +1,14 @@
 ---
 title: 'New York to Nairobi Flights: Complete Guide'
-description: Everything you need to know about new york to nairobi flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about new york to nairobi flights, including routes, airlines, booking tips, and fares.'
 slug: new-york-to-nairobi-flights
-primary_keyword: new york to nairobi flights
+primary_keyword: 'new york to nairobi flights'
 secondary_keywords:
-- kq flight from new york
-- kq flight from nairobi to dubai today
-- kq direct flight from nairobi to new york ticket price
-- how much is kq flight from nairobi to dubai
-- kenya airways flight from nairobi to lagos
+- 'kq flight from new york'
+- 'kq flight from nairobi to dubai today'
+- 'kq direct flight from nairobi to new york ticket price'
+- 'how much is kq flight from nairobi to dubai'
+- 'kenya airways flight from nairobi to lagos'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

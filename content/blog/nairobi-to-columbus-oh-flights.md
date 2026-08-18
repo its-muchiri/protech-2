@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi to Columbus Oh Flights: Complete Guide'
-description: Everything you need to know about nairobi to columbus oh flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about nairobi to columbus oh flights, including routes, airlines, booking tips, and fares.'
 slug: nairobi-to-columbus-oh-flights
-primary_keyword: nairobi to columbus oh flights
+primary_keyword: 'nairobi to columbus oh flights'
 secondary_keywords:
-- kq flights to dubai
-- kq flights to addis
-- kq domestic flight schedule
-- kq cancelled flights
-- kq flights from dubai to nairobi price
+- 'kq flights to dubai'
+- 'kq flights to addis'
+- 'kq domestic flight schedule'
+- 'kq cancelled flights'
+- 'kq flights from dubai to nairobi price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

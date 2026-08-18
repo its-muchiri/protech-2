@@ -1,14 +1,14 @@
 ---
 title: 'When Will Emirates Resume Flights to Bali from Auckland: Complete Guide'
-description: Everything you need to know about when will emirates resume flights to bali from auckland, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about when will emirates resume flights to bali from auckland, including routes, airlines, booking tips, and fares.'
 slug: when-will-emirates-resume-flights-to-bali-from-auckland
-primary_keyword: when will emirates resume flights to bali from auckland
+primary_keyword: 'when will emirates resume flights to bali from auckland'
 secondary_keywords:
-- kenya airways flight schedule from nairobi to entebbe
-- flights from mombasa to zanzibar
-- kenya airways flights from entebbe to mombasa
-- flights from mombasa to cape town
-- flights from mombasa to dubai
+- 'kenya airways flight schedule from nairobi to entebbe'
+- 'flights from mombasa to zanzibar'
+- 'kenya airways flights from entebbe to mombasa'
+- 'flights from mombasa to cape town'
+- 'flights from mombasa to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

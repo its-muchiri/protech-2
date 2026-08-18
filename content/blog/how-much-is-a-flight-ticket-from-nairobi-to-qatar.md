@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is a Flight Ticket from Nairobi to Qatar: Complete Guide'
-description: Everything you need to know about how much is a flight ticket from nairobi to qatar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is a flight ticket from nairobi to qatar, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-a-flight-ticket-from-nairobi-to-qatar
-primary_keyword: how much is a flight ticket from nairobi to qatar
+primary_keyword: 'how much is a flight ticket from nairobi to qatar'
 secondary_keywords:
-- does british airways fly to bangladesh
-- cheap flights from mombasa to mumbai
-- flights from eldoret to mombasa
-- flights geneva mombasa
-- flights from mombasa to italy
+- 'does british airways fly to bangladesh'
+- 'cheap flights from mombasa to mumbai'
+- 'flights from eldoret to mombasa'
+- 'flights geneva mombasa'
+- 'flights from mombasa to italy'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

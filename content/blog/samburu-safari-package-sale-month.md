@@ -1,14 +1,14 @@
 ---
 title: 'Samburu Safari Package Sale : Complete Guide'
-description: Kenya safari guide covering samburu safari package sale , including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering samburu safari package sale , including what is included, pricing, and booking advice.'
 slug: samburu-safari-package-sale-month
-primary_keyword: Samburu safari package sale
+primary_keyword: 'Samburu safari package sale'
 secondary_keywords:
-- Kenya safari package inclusions comparison
-- Kenya safari package with beach extension buy
-- Quote for 7 day Kenya safari
-- Book 3 day Masai Mara migration package (last minute)
-- Quote for 10 day Kenya photography workshop package
+- 'Kenya safari package inclusions comparison'
+- 'Kenya safari package with beach extension buy'
+- 'Quote for 7 day Kenya safari'
+- 'Book 3 day Masai Mara migration package (last minute)'
+- 'Quote for 10 day Kenya photography workshop package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

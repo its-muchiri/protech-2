@@ -1,14 +1,14 @@
 ---
 title: 'Commode Wheelchair Suppliers in Mombasa: 2026 Price Guide'
-description: Kenya buying guide to commode wheelchair suppliers in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to commode wheelchair suppliers in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: commode-wheelchair-suppliers-in-mombasa
-primary_keyword: Commode wheelchair suppliers in Mombasa
+primary_keyword: 'Commode wheelchair suppliers in Mombasa'
 secondary_keywords:
-- Surgical suction machine price in Kisumu
-- 3-function electric hospital bed for sale in Nairobi
-- Folding stretcher price
-- Baby cot and bassinet for hospital use
-- Stress test ECG system price
+- 'Surgical suction machine price in Kisumu'
+- '3-function electric hospital bed for sale in Nairobi'
+- 'Folding stretcher price'
+- 'Baby cot and bassinet for hospital use'
+- 'Stress test ECG system price'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

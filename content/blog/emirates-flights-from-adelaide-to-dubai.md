@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Adelaide to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from adelaide to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from adelaide to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-adelaide-to-dubai
-primary_keyword: emirates flights from adelaide to dubai
+primary_keyword: 'emirates flights from adelaide to dubai'
 secondary_keywords:
-- kq 001
-- kq 203 flight status today
-- kq306 flight status
-- kq 521 flight status
-- sq612 flight status
+- 'kq 001'
+- 'kq 203 flight status today'
+- 'kq306 flight status'
+- 'kq 521 flight status'
+- 'sq612 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

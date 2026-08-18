@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights from Harare to London: Complete Guide'
-description: Everything you need to know about kenya airways flights from harare to london, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights from harare to london, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-from-harare-to-london
-primary_keyword: kenya airways flights from harare to london
+primary_keyword: 'kenya airways flights from harare to london'
 secondary_keywords:
-- renegade flight from nairobi to kisumu
-- seychelles flight from nairobi
-- flight from nairobi to uk
-- klm flight from nairobi to vancouver
-- flight from nairobi to los angeles
+- 'renegade flight from nairobi to kisumu'
+- 'seychelles flight from nairobi'
+- 'flight from nairobi to uk'
+- 'klm flight from nairobi to vancouver'
+- 'flight from nairobi to los angeles'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

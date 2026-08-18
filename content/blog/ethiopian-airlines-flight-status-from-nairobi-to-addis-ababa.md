@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Flight Status from Nairobi to Addis Ababa: Complete Guide'
-description: Everything you need to know about ethiopian airlines flight status from nairobi to addis ababa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines flight status from nairobi to addis ababa, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-flight-status-from-nairobi-to-addis-ababa
-primary_keyword: ethiopian airlines flight status from nairobi to addis ababa
+primary_keyword: 'ethiopian airlines flight status from nairobi to addis ababa'
 secondary_keywords:
-- turkish airline to nairobi
-- ethiopian airlines nairobi to accra
-- ethiopian airlines agent in nairobi
-- qatar airways from nairobi to doha
-- does turkish airlines fly to dubai
+- 'turkish airline to nairobi'
+- 'ethiopian airlines nairobi to accra'
+- 'ethiopian airlines agent in nairobi'
+- 'qatar airways from nairobi to doha'
+- 'does turkish airlines fly to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

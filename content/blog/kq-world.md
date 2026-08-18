@@ -1,14 +1,14 @@
 ---
 title: 'Kq World: Complete Guide'
-description: Everything you need to know about kq world, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq world, including routes, airlines, booking tips, and fares.'
 slug: kq-world
-primary_keyword: kq world
+primary_keyword: 'kq world'
 secondary_keywords:
-- emirates dubai nairobi flight status
-- jkia emirates terminal
-- emirates skycargo nairobi contacts
-- emirates flight from kenya
-- emirates flight from kenya to dubai price
+- 'emirates dubai nairobi flight status'
+- 'jkia emirates terminal'
+- 'emirates skycargo nairobi contacts'
+- 'emirates flight from kenya'
+- 'emirates flight from kenya to dubai price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

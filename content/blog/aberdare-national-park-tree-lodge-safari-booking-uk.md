@@ -1,14 +1,14 @@
 ---
 title: 'Aberdare National Park Tree Lodge Safari Booking UK: Complete Guide'
-description: Kenya safari guide covering aberdare national park tree lodge safari booking uk, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering aberdare national park tree lodge safari booking uk, including what is included, pricing, and booking advice.'
 slug: aberdare-national-park-tree-lodge-safari-booking-uk
-primary_keyword: Aberdare National Park tree lodge safari booking UK
+primary_keyword: 'Aberdare National Park tree lodge safari booking UK'
 secondary_keywords:
-- Purchase Kenya migration safari August 2025 online
-- Kenya honeymoon safari package deals USA luxury
-- Affordable budget Kenya safari camping USA tours
-- Eco-friendly Kenya safari tours booking UK sustainable lodges
-- Great Rift Valley lakes safari cost USA birding focus
+- 'Purchase Kenya migration safari August 2025 online'
+- 'Kenya honeymoon safari package deals USA luxury'
+- 'Affordable budget Kenya safari camping USA tours'
+- 'Eco-friendly Kenya safari tours booking UK sustainable lodges'
+- 'Great Rift Valley lakes safari cost USA birding focus'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

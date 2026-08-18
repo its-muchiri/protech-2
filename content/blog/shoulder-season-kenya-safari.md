@@ -1,14 +1,14 @@
 ---
 title: 'Shoulder Season Kenya Safari: Complete Guide'
-description: Kenya safari guide covering shoulder season kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering shoulder season kenya safari, including what is included, pricing, and booking advice.'
 slug: shoulder-season-kenya-safari
-primary_keyword: Shoulder season Kenya safari
+primary_keyword: 'Shoulder season Kenya safari'
 secondary_keywords:
-- Private guided Kenya safari cost per day quote
-- Kenya safari holiday sale
-- 6 day Samburu Nakuru safari sale price
-- Discount 5 day family fly-in Amboseli package early bird
-- Aberdares lodge safari package bundle offer
+- 'Private guided Kenya safari cost per day quote'
+- 'Kenya safari holiday sale'
+- '6 day Samburu Nakuru safari sale price'
+- 'Discount 5 day family fly-in Amboseli package early bird'
+- 'Aberdares lodge safari package bundle offer'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

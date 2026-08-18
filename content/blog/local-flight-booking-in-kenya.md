@@ -1,14 +1,14 @@
 ---
 title: 'Local Flight Booking in Kenya: Complete Guide'
-description: Everything you need to know about local flight booking in kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about local flight booking in kenya, including routes, airlines, booking tips, and fares.'
 slug: local-flight-booking-in-kenya
-primary_keyword: local flight booking in kenya
+primary_keyword: 'local flight booking in kenya'
 secondary_keywords:
-- turkish airlines flight price from nairobi to turkey
-- turkish airlines cargo nairobi
-- how much is flight from nairobi to turkey
-- turkish airlines lounge nairobi price
-- turkish airlines flight status nairobi
+- 'turkish airlines flight price from nairobi to turkey'
+- 'turkish airlines cargo nairobi'
+- 'how much is flight from nairobi to turkey'
+- 'turkish airlines lounge nairobi price'
+- 'turkish airlines flight status nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

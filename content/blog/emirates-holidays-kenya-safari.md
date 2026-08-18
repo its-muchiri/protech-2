@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Holidays Kenya Safari: Complete Guide'
-description: Everything you need to know about emirates holidays kenya safari, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates holidays kenya safari, including routes, airlines, booking tips, and fares.'
 slug: emirates-holidays-kenya-safari
-primary_keyword: emirates holidays kenya safari
+primary_keyword: 'emirates holidays kenya safari'
 secondary_keywords:
-- emirates kenya contacts
-- emirates flight from kenya to uk
-- emirates plane
-- emirates kenya to dubai
-- ethiopian airlines from nairobi to south africa
+- 'emirates kenya contacts'
+- 'emirates flight from kenya to uk'
+- 'emirates plane'
+- 'emirates kenya to dubai'
+- 'ethiopian airlines from nairobi to south africa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

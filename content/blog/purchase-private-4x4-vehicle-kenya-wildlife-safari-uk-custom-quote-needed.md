@@ -1,14 +1,14 @@
 ---
 title: 'Purchase Private 4x4 Vehicle Kenya Wildlife Safari UK Custom Quote Needed: Complete Guide'
-description: Kenya safari guide covering purchase private 4x4 vehicle kenya wildlife safari uk custom quote needed, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase private 4x4 vehicle kenya wildlife safari uk custom quote needed, including what is included, pricing, and booking advice.'
 slug: purchase-private-4x4-vehicle-kenya-wildlife-safari-uk-custom-quote-needed
-primary_keyword: Purchase private 4x4 vehicle Kenya wildlife safari UK custom quote needed
+primary_keyword: 'Purchase private 4x4 vehicle Kenya wildlife safari UK custom quote needed'
 secondary_keywords:
-- Speleology safari Kenya (Chyulu Hills caves)
-- Kenya safe travel safari (General health)
-- Future of safari tourism Kenya
-- Masai Mara safari online booking
-- Book all-inclusive Kenya safari
+- 'Speleology safari Kenya (Chyulu Hills caves)'
+- 'Kenya safe travel safari (General health)'
+- 'Future of safari tourism Kenya'
+- 'Masai Mara safari online booking'
+- 'Book all-inclusive Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

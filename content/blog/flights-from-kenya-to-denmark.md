@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Denmark: Complete Guide'
-description: Everything you need to know about flights from kenya to denmark, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to denmark, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-denmark
-primary_keyword: flights from kenya to denmark
+primary_keyword: 'flights from kenya to denmark'
 secondary_keywords:
-- emirates flight from kenya to usa ticket price
-- emirates to dubai from kenya
-- ethiopian airlines flight from nairobi to addis ababa today
-- ethiopian airlines from nairobi to doha price
-- ethiopian airlines office nairobi location
+- 'emirates flight from kenya to usa ticket price'
+- 'emirates to dubai from kenya'
+- 'ethiopian airlines flight from nairobi to addis ababa today'
+- 'ethiopian airlines from nairobi to doha price'
+- 'ethiopian airlines office nairobi location'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

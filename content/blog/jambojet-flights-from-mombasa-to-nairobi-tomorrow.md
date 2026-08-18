@@ -1,14 +1,14 @@
 ---
 title: 'Jambojet Flights from Mombasa to Nairobi Tomorrow: Complete Guide'
-description: Everything you need to know about jambojet flights from mombasa to nairobi tomorrow, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about jambojet flights from mombasa to nairobi tomorrow, including routes, airlines, booking tips, and fares.'
 slug: jambojet-flights-from-mombasa-to-nairobi-tomorrow
-primary_keyword: jambojet flights from mombasa to nairobi tomorrow
+primary_keyword: 'jambojet flights from mombasa to nairobi tomorrow'
 secondary_keywords:
-- entebbe to nairobi flights
-- flight nairobi to germany
-- flights nairobi to london heathrow
-- nairobi to india flights price air india
-- flights nairobi to kampala
+- 'entebbe to nairobi flights'
+- 'flight nairobi to germany'
+- 'flights nairobi to london heathrow'
+- 'nairobi to india flights price air india'
+- 'flights nairobi to kampala'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

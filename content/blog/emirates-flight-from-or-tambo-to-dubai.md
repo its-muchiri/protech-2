@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight from or Tambo to Dubai: Complete Guide'
-description: Everything you need to know about emirates flight from or tambo to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight from or tambo to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-from-or-tambo-to-dubai
-primary_keyword: emirates flight from or tambo to dubai
+primary_keyword: 'emirates flight from or tambo to dubai'
 secondary_keywords:
-- flight from nairobi to mombasa is how much
-- flights to mombasa from johannesburg
-- flight from mombasa to lamu price
-- flights from mombasa to madagascar
-- which flights operate from nairobi to mombasa
+- 'flight from nairobi to mombasa is how much'
+- 'flights to mombasa from johannesburg'
+- 'flight from mombasa to lamu price'
+- 'flights from mombasa to madagascar'
+- 'which flights operate from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

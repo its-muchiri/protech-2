@@ -1,14 +1,14 @@
 ---
 title: 'White Water Rafting Tana River Companies: Complete Guide'
-description: Kenya safari guide covering white water rafting tana river companies, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering white water rafting tana river companies, including what is included, pricing, and booking advice.'
 slug: white-water-rafting-tana-river-companies
-primary_keyword: White water rafting Tana River companies
+primary_keyword: 'White water rafting Tana River companies'
 secondary_keywords:
-- Reliable Kenya safari company
-- Vegan/Vegetarian safari Kenya
-- Kenya safari safety tips
-- What animals will I see Kenya safari
-- See Big Five Samburu safari lodge
+- 'Reliable Kenya safari company'
+- 'Vegan/Vegetarian safari Kenya'
+- 'Kenya safari safety tips'
+- 'What animals will I see Kenya safari'
+- 'See Big Five Samburu safari lodge'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

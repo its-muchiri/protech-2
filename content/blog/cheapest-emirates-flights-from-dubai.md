@@ -1,14 +1,14 @@
 ---
 title: 'Cheapest Emirates Flights from Dubai: Complete Guide'
-description: Everything you need to know about cheapest emirates flights from dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheapest emirates flights from dubai, including routes, airlines, booking tips, and fares.'
 slug: cheapest-emirates-flights-from-dubai
-primary_keyword: cheapest emirates flights from dubai
+primary_keyword: 'cheapest emirates flights from dubai'
 secondary_keywords:
-- kq flights to mombasa prices
-- kq flights schedule
-- kq flights from uganda to kenya today timetable
-- kq 0117 flight status
-- kq flight 2
+- 'kq flights to mombasa prices'
+- 'kq flights schedule'
+- 'kq flights from uganda to kenya today timetable'
+- 'kq 0117 flight status'
+- 'kq flight 2'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

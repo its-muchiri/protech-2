@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Flight from Nairobi: Complete Guide'
-description: Everything you need to know about qatar flight from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar flight from nairobi, including routes, airlines, booking tips, and fares.'
 slug: qatar-flight-from-nairobi
-primary_keyword: qatar flight from nairobi
+primary_keyword: 'qatar flight from nairobi'
 secondary_keywords:
-- kenya airways flight from nairobi to dar es salaam
-- kenya airways flight from nairobi to heathrow
-- kenya airways flight from nairobi to london today
-- kenya airways flight from nairobi to new york
-- kq flight from kisumu to nairobi
+- 'kenya airways flight from nairobi to dar es salaam'
+- 'kenya airways flight from nairobi to heathrow'
+- 'kenya airways flight from nairobi to london today'
+- 'kenya airways flight from nairobi to new york'
+- 'kq flight from kisumu to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

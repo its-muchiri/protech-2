@@ -1,14 +1,14 @@
 ---
 title: 'Kq 0103 Flight Status: Complete Guide'
-description: Everything you need to know about kq 0103 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 0103 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq-0103-flight-status
-primary_keyword: kq 0103 flight status
+primary_keyword: 'kq 0103 flight status'
 secondary_keywords:
-- flights from nairobi to manchester uk
-- flights from nairobi to ndola
-- flights from nairobi to ontario
-- flights from nairobi to mombasa prices
-- flights from nairobi to rabat
+- 'flights from nairobi to manchester uk'
+- 'flights from nairobi to ndola'
+- 'flights from nairobi to ontario'
+- 'flights from nairobi to mombasa prices'
+- 'flights from nairobi to rabat'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

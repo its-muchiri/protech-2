@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from South Africa to India: Complete Guide'
-description: Everything you need to know about emirates flights from south africa to india, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from south africa to india, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-south-africa-to-india
-primary_keyword: emirates flights from south africa to india
+primary_keyword: 'emirates flights from south africa to india'
 secondary_keywords:
-- kq flight status lhr to nbo
-- wb flight
-- kq 001
-- kq 203 flight status today
-- kq306 flight status
+- 'kq flight status lhr to nbo'
+- 'wb flight'
+- 'kq 001'
+- 'kq 203 flight status today'
+- 'kq306 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

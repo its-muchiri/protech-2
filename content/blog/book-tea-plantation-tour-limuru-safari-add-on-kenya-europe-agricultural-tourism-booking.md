@@ -1,14 +1,14 @@
 ---
 title: 'Book Tea Plantation Tour Limuru Safari Add-on Kenya Europe Agricultural Tourism Booking: Complete Guide'
-description: Kenya safari guide covering book tea plantation tour limuru safari add-on kenya europe agricultural tourism booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book tea plantation tour limuru safari add-on kenya europe agricultural tourism booking, including what is included, pricing, and booking advice.'
 slug: book-tea-plantation-tour-limuru-safari-add-on-kenya-europe-agricultural-tourism-booking
-primary_keyword: Book tea plantation tour Limuru safari add-on Kenya Europe agricultural tourism booking
+primary_keyword: 'Book tea plantation tour Limuru safari add-on Kenya Europe agricultural tourism booking'
 secondary_keywords:
-- Kenya safari packages from Germany (Deutschland) buchen online
-- Spain (España) Kenya safari holiday deals online
-- Small group Kenya safari company booking guaranteed departures
-- Book Kenya safari peak season 2025 USA limited spots
-- Highest quality Kenya safari experience booking guarantee USA
+- 'Kenya safari packages from Germany (Deutschland) buchen online'
+- 'Spain (España) Kenya safari holiday deals online'
+- 'Small group Kenya safari company booking guaranteed departures'
+- 'Book Kenya safari peak season 2025 USA limited spots'
+- 'Highest quality Kenya safari experience booking guarantee USA'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

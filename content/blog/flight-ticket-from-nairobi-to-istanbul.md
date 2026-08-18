@@ -1,14 +1,14 @@
 ---
 title: 'Flight Ticket from Nairobi to Istanbul: Complete Guide'
-description: Everything you need to know about flight ticket from nairobi to istanbul, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight ticket from nairobi to istanbul, including routes, airlines, booking tips, and fares.'
 slug: flight-ticket-from-nairobi-to-istanbul
-primary_keyword: flight ticket from nairobi to istanbul
+primary_keyword: 'flight ticket from nairobi to istanbul'
 secondary_keywords:
-- maldives flights from kenya
-- flight from kenya to or tambo
-- flights from kenya to portugal
-- flights to poland from kenya
-- flights from kenya to rome
+- 'maldives flights from kenya'
+- 'flight from kenya to or tambo'
+- 'flights from kenya to portugal'
+- 'flights to poland from kenya'
+- 'flights from kenya to rome'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

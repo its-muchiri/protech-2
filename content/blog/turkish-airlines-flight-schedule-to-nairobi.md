@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Flight Schedule to Nairobi: Complete Guide'
-description: Everything you need to know about turkish airlines flight schedule to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines flight schedule to nairobi, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-flight-schedule-to-nairobi
-primary_keyword: turkish airlines flight schedule to nairobi
+primary_keyword: 'turkish airlines flight schedule to nairobi'
 secondary_keywords:
-- emirates flight 653
-- emirates flight 87
-- emirates flight 923
-- qatar airways flight ticket from doha to nairobi
-- qatar airways flight schedule from nairobi to doha today
+- 'emirates flight 653'
+- 'emirates flight 87'
+- 'emirates flight 923'
+- 'qatar airways flight ticket from doha to nairobi'
+- 'qatar airways flight schedule from nairobi to doha today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Small Group Kenya Safari Package Price List: Complete Guide'
-description: Kenya safari guide covering small group kenya safari package price list, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering small group kenya safari package price list, including what is included, pricing, and booking advice.'
 slug: small-group-kenya-safari-package-price-list
-primary_keyword: Small group Kenya safari package price list
+primary_keyword: 'Small group Kenya safari package price list'
 secondary_keywords:
-- Secure peak season Kenya safari package
-- Kenya safari package purchase
-- Add-ons for Kenya safari package purchase
-- (Adding 'buy', 'book', 'package', 'cost', 'quote', 'deal', 'reserve', 'operator' to core terms)
-- Christmas safari deal buy
+- 'Secure peak season Kenya safari package'
+- 'Kenya safari package purchase'
+- 'Add-ons for Kenya safari package purchase'
+- '(Adding ''buy'', ''book'', ''package'', ''cost'', ''quote'', ''deal'', ''reserve'', ''operator'' to core terms)'
+- 'Christmas safari deal buy'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

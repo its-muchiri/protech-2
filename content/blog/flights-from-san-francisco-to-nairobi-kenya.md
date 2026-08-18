@@ -1,14 +1,14 @@
 ---
 title: 'Flights from San Francisco to Nairobi Kenya: Complete Guide'
-description: Everything you need to know about flights from san francisco to nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from san francisco to nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-san-francisco-to-nairobi-kenya
-primary_keyword: flights from san francisco to nairobi kenya
+primary_keyword: 'flights from san francisco to nairobi kenya'
 secondary_keywords:
-- how much is a flight from nairobi to qatar today
-- qatar airways nairobi email address
-- qatar airways nairobi lounge
-- qatar airways recruitment nairobi 2024
-- kq flights from nairobi to kisumu
+- 'how much is a flight from nairobi to qatar today'
+- 'qatar airways nairobi email address'
+- 'qatar airways nairobi lounge'
+- 'qatar airways recruitment nairobi 2024'
+- 'kq flights from nairobi to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

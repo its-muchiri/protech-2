@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights to Kenya from London: Complete Guide'
-description: Everything you need to know about emirates flights to kenya from london, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights to kenya from london, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-to-kenya-from-london
-primary_keyword: emirates flights to kenya from london
+primary_keyword: 'emirates flights to kenya from london'
 secondary_keywords:
-- does british airways fly to mombasa
-- cheap flights from mombasa to entebbe
-- flights to mombasa from europe
-- flights from mombasa to garissa
-- flights from homabay to mombasa
+- 'does british airways fly to mombasa'
+- 'cheap flights from mombasa to entebbe'
+- 'flights to mombasa from europe'
+- 'flights from mombasa to garissa'
+- 'flights from homabay to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

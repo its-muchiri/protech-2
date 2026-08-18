@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Muscat Oman to Mombasa Kenya: Complete Guide'
-description: Everything you need to know about flights from muscat oman to mombasa kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from muscat oman to mombasa kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-muscat-oman-to-mombasa-kenya
-primary_keyword: flights from muscat oman to mombasa kenya
+primary_keyword: 'flights from muscat oman to mombasa kenya'
 secondary_keywords:
-- emirates flights to dubai from heathrow terminal 3
-- emirates flight 521
-- emirates flight 653
-- emirates flight 87
-- emirates flight 923
+- 'emirates flights to dubai from heathrow terminal 3'
+- 'emirates flight 521'
+- 'emirates flight 653'
+- 'emirates flight 87'
+- 'emirates flight 923'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

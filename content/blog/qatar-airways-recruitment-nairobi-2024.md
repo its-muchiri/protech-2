@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways Recruitment Nairobi 2024: Complete Guide'
-description: Everything you need to know about qatar airways recruitment nairobi 2024, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways recruitment nairobi 2024, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-recruitment-nairobi-2024
-primary_keyword: qatar airways recruitment nairobi 2024
+primary_keyword: 'qatar airways recruitment nairobi 2024'
 secondary_keywords:
-- kenya airways flight from nairobi to jfk
-- kenya airways flight schedule from lagos to nairobi
-- kenya airways flight from new york to nairobi
-- flight from nairobi to mombasa
-- flight from nairobi to amsterdam time
+- 'kenya airways flight from nairobi to jfk'
+- 'kenya airways flight schedule from lagos to nairobi'
+- 'kenya airways flight from new york to nairobi'
+- 'flight from nairobi to mombasa'
+- 'flight from nairobi to amsterdam time'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

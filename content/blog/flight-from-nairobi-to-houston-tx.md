@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Houston Tx: Complete Guide'
-description: Everything you need to know about flight from nairobi to houston tx, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to houston tx, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-houston-tx
-primary_keyword: flight from nairobi to houston tx
+primary_keyword: 'flight from nairobi to houston tx'
 secondary_keywords:
-- are there direct flights from london to mombasa
-- flights from mombasa to cairo
-- flights from mombasa to diani
-- flights from dar es salaam to mombasa kenya
-- which flights go to mombasa from nairobi
+- 'are there direct flights from london to mombasa'
+- 'flights from mombasa to cairo'
+- 'flights from mombasa to diani'
+- 'flights from dar es salaam to mombasa kenya'
+- 'which flights go to mombasa from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

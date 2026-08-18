@@ -1,14 +1,14 @@
 ---
 title: 'Maasai Village Visit Ethical Tour Operators: Complete Guide'
-description: Kenya safari guide covering maasai village visit ethical tour operators, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering maasai village visit ethical tour operators, including what is included, pricing, and booking advice.'
 slug: maasai-village-visit-ethical-tour-operators
-primary_keyword: Maasai village visit ethical tour operators
+primary_keyword: 'Maasai village visit ethical tour operators'
 secondary_keywords:
-- Secure 21 day comprehensive Kenya trip purchase
-- Reserve Great Migration safari package booking
-- Request price list Kenya safari packages
-- Cost per person 8 day Kenya discovery package
-- Price list 6 day group joining Nakuru Mara safari
+- 'Secure 21 day comprehensive Kenya trip purchase'
+- 'Reserve Great Migration safari package booking'
+- 'Request price list Kenya safari packages'
+- 'Cost per person 8 day Kenya discovery package'
+- 'Price list 6 day group joining Nakuru Mara safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

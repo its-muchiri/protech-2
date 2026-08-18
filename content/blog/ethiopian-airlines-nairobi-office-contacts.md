@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Nairobi Office Contacts: Complete Guide'
-description: Everything you need to know about ethiopian airlines nairobi office contacts, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines nairobi office contacts, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-nairobi-office-contacts
-primary_keyword: ethiopian airlines nairobi office contacts
+primary_keyword: 'ethiopian airlines nairobi office contacts'
 secondary_keywords:
-- emirates flights from india to canada via dubai
-- emirates airline passenger information
-- emirates flights from london to new york
-- emirates flight 0406
-- emirates flight 206 from jfk
+- 'emirates flights from india to canada via dubai'
+- 'emirates airline passenger information'
+- 'emirates flights from london to new york'
+- 'emirates flight 0406'
+- 'emirates flight 206 from jfk'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flight Duration from Nairobi to New York: Complete Guide'
-description: Everything you need to know about flight duration from nairobi to new york, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight duration from nairobi to new york, including routes, airlines, booking tips, and fares.'
 slug: flight-duration-from-nairobi-to-new-york
-primary_keyword: flight duration from nairobi to new york
+primary_keyword: 'flight duration from nairobi to new york'
 secondary_keywords:
-- flights from nairobi to kisumu price
-- flights to kisumu from wilson
-- flight from nairobi to eldoret cost
-- flights from eldoret to nairobi jambojet
-- flight from eldoret to nairobi cost
+- 'flights from nairobi to kisumu price'
+- 'flights to kisumu from wilson'
+- 'flight from nairobi to eldoret cost'
+- 'flights from eldoret to nairobi jambojet'
+- 'flight from eldoret to nairobi cost'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

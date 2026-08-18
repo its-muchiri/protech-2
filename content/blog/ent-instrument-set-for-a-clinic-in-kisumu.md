@@ -1,14 +1,14 @@
 ---
 title: 'ENT Instrument Set for a Clinic in Kisumu: 2026 Price Guide'
-description: Kenya buying guide to ent instrument set for a clinic in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to ent instrument set for a clinic in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: ent-instrument-set-for-a-clinic-in-kisumu
-primary_keyword: ENT instrument set for a clinic in Kisumu
+primary_keyword: 'ENT instrument set for a clinic in Kisumu'
 secondary_keywords:
-- Roche Cobas C311 chemistry analyzer in Mombasa
-- CO2 incubator for research lab price
-- 5-parameter patient monitor for theatre use
-- Ultrasonic cleaner for dental and surgical tools
-- Lightweight foldable wheelchair price
+- 'Roche Cobas C311 chemistry analyzer in Mombasa'
+- 'CO2 incubator for research lab price'
+- '5-parameter patient monitor for theatre use'
+- 'Ultrasonic cleaner for dental and surgical tools'
+- 'Lightweight foldable wheelchair price'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

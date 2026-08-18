@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Johannesburg to London: Complete Guide'
-description: Everything you need to know about emirates flights from johannesburg to london, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from johannesburg to london, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-johannesburg-to-london
-primary_keyword: emirates flights from johannesburg to london
+primary_keyword: 'emirates flights from johannesburg to london'
 secondary_keywords:
-- flights from nairobi to mombasa
-- air france flights from nairobi to paris
-- flights from nairobi to botswana
-- flights from nairobi to cayman islands
-- flights from nairobi to dubai today
+- 'flights from nairobi to mombasa'
+- 'air france flights from nairobi to paris'
+- 'flights from nairobi to botswana'
+- 'flights from nairobi to cayman islands'
+- 'flights from nairobi to dubai today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

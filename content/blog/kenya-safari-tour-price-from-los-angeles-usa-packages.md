@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Tour Price from Los Angeles USA Packages: Complete Guide'
-description: Kenya safari guide covering kenya safari tour price from los angeles usa packages, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari tour price from los angeles usa packages, including what is included, pricing, and booking advice.'
 slug: kenya-safari-tour-price-from-los-angeles-usa-packages
-primary_keyword: Kenya safari tour price from Los Angeles USA packages
+primary_keyword: 'Kenya safari tour price from Los Angeles USA packages'
 secondary_keywords:
-- Affordable luxury safari Kenya
-- Samburu lodges
-- Rhino sanctuary Kenya visit
-- See black rhino Kenya
-- Kenya safari from Mombasa
+- 'Affordable luxury safari Kenya'
+- 'Samburu lodges'
+- 'Rhino sanctuary Kenya visit'
+- 'See black rhino Kenya'
+- 'Kenya safari from Mombasa'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

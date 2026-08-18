@@ -1,14 +1,14 @@
 ---
 title: 'Yoga Safari Kenya: Complete Guide'
-description: Kenya safari guide covering yoga safari kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering yoga safari kenya, including what is included, pricing, and booking advice.'
 slug: yoga-safari-kenya
-primary_keyword: Yoga safari Kenya
+primary_keyword: 'Yoga safari Kenya'
 secondary_keywords:
-- Reserve 15 day Kenya ultimate safari booking
-- Buy bird watching Kenya safari package
-- Get quote Kenya safari online
-- One week Kenya wildlife tour budget enquiry
-- Budget for 8 day private photographic Samburu tour
+- 'Reserve 15 day Kenya ultimate safari booking'
+- 'Buy bird watching Kenya safari package'
+- 'Get quote Kenya safari online'
+- 'One week Kenya wildlife tour budget enquiry'
+- 'Budget for 8 day private photographic Samburu tour'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

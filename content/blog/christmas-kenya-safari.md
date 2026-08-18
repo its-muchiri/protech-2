@@ -1,14 +1,14 @@
 ---
 title: 'Christmas Kenya Safari: Complete Guide'
-description: Kenya safari guide covering christmas kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering christmas kenya safari, including what is included, pricing, and booking advice.'
 slug: christmas-kenya-safari
-primary_keyword: Christmas Kenya safari
+primary_keyword: 'Christmas Kenya safari'
 secondary_keywords:
-- Reserve Nairobi city tour Giraffe Centre & Karen Blixen Museum plus safari package UK price
-- Purchase corporate incentive travel Kenya safari package Europe group rates quote request
-- Find Kenya safari operator with carbon offsetting program UK sustainable travel booking choice
-- Book electric vehicle safari Kenya eco-lodge package UK sustainable transport options availability
-- Purchase Kenya safari packing list consultation service UK expert advice online booking
+- 'Reserve Nairobi city tour Giraffe Centre & Karen Blixen Museum plus safari package UK price'
+- 'Purchase corporate incentive travel Kenya safari package Europe group rates quote request'
+- 'Find Kenya safari operator with carbon offsetting program UK sustainable travel booking choice'
+- 'Book electric vehicle safari Kenya eco-lodge package UK sustainable transport options availability'
+- 'Purchase Kenya safari packing list consultation service UK expert advice online booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

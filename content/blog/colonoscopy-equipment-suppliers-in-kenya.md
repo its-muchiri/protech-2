@@ -1,14 +1,14 @@
 ---
 title: 'Colonoscopy Equipment Suppliers in Kenya: 2026 Price Guide'
-description: Kenya buying guide to colonoscopy equipment suppliers in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to colonoscopy equipment suppliers in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: colonoscopy-equipment-suppliers-in-kenya
-primary_keyword: Colonoscopy equipment suppliers in Kenya
+primary_keyword: 'Colonoscopy equipment suppliers in Kenya'
 secondary_keywords:
-- Medical imaging equipment financing companies in Kenya
-- Urine chemistry analyzer price in Nairobi
-- Laboratory incubator cost in Mombasa
-- Laparoscopic instruments suppliers in Mombasa
-- LED operating theatre lights cost in Kisumu
+- 'Medical imaging equipment financing companies in Kenya'
+- 'Urine chemistry analyzer price in Nairobi'
+- 'Laboratory incubator cost in Mombasa'
+- 'Laparoscopic instruments suppliers in Mombasa'
+- 'LED operating theatre lights cost in Kisumu'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

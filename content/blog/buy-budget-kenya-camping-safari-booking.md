@@ -1,13 +1,13 @@
 ---
 title: 'Buy Budget Kenya Camping Safari Booking: Complete Guide'
-description: Kenya safari guide covering buy budget kenya camping safari booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy budget kenya camping safari booking, including what is included, pricing, and booking advice.'
 slug: buy-budget-kenya-camping-safari-booking
-primary_keyword: Buy budget Kenya camping safari booking
+primary_keyword: 'Buy budget Kenya camping safari booking'
 secondary_keywords:
-- Vaccinations for Kenya safari
-- Kenya safari for first-timers
-- Cost of 3 day Masai Mara safari from Nairobi
-- Luxury honeymoon suite Masai Mara private conservancy
+- 'Vaccinations for Kenya safari'
+- 'Kenya safari for first-timers'
+- 'Cost of 3 day Masai Mara safari from Nairobi'
+- 'Luxury honeymoon suite Masai Mara private conservancy'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

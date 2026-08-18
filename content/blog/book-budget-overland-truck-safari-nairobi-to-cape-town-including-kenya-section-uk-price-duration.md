@@ -1,14 +1,14 @@
 ---
 title: 'Book Budget Overland Truck Safari Nairobi to Cape Town Including Kenya Section UK Price Duration: Complete Guide'
-description: Kenya safari guide covering book budget overland truck safari nairobi to cape town including kenya section uk price duration, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book budget overland truck safari nairobi to cape town including kenya section uk price duration, including what is included, pricing, and booking advice.'
 slug: book-budget-overland-truck-safari-nairobi-to-cape-town-including-kenya-section-uk-price-duration
-primary_keyword: Book budget overland truck safari Nairobi to Cape Town including Kenya section UK price duration
+primary_keyword: 'Book budget overland truck safari Nairobi to Cape Town including Kenya section UK price duration'
 secondary_keywords:
-- Climb Point Lenana Mount Kenya guided tour cost
-- Community based tourism projects Kenya support local initiatives
-- Bonfire Adventures Kenya safari packages price list / reviews
-- Southern Cross Safaris Kenya Mombasa based
-- Packing list for Kenya safari clothes / gear recommendations
+- 'Climb Point Lenana Mount Kenya guided tour cost'
+- 'Community based tourism projects Kenya support local initiatives'
+- 'Bonfire Adventures Kenya safari packages price list / reviews'
+- 'Southern Cross Safaris Kenya Mombasa based'
+- 'Packing list for Kenya safari clothes / gear recommendations'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

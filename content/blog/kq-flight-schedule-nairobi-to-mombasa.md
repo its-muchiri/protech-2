@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight Schedule Nairobi to Mombasa: Complete Guide'
-description: Everything you need to know about kq flight schedule nairobi to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight schedule nairobi to mombasa, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-schedule-nairobi-to-mombasa
-primary_keyword: kq flight schedule nairobi to mombasa
+primary_keyword: 'kq flight schedule nairobi to mombasa'
 secondary_keywords:
-- flights from frankfurt to nairobi kenya
-- flights from accra ghana to nairobi kenya
-- kenya airways flights from harare to nairobi
-- flights from ireland to kenya
-- cheap flights to kenya from johannesburg
+- 'flights from frankfurt to nairobi kenya'
+- 'flights from accra ghana to nairobi kenya'
+- 'kenya airways flights from harare to nairobi'
+- 'flights from ireland to kenya'
+- 'cheap flights to kenya from johannesburg'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

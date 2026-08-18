@@ -1,14 +1,14 @@
 ---
 title: 'Surgical Power Tools for Orthopedics: 2026 Price Guide'
-description: Kenya buying guide to surgical power tools for orthopedics. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to surgical power tools for orthopedics. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: surgical-power-tools-for-orthopedics
-primary_keyword: Surgical power tools for orthopedics
+primary_keyword: 'Surgical power tools for orthopedics'
 secondary_keywords:
-- surgical instrument sterilizers Kenya
-- mobile diagnostic equipment Kenya
-- hospital laundry equipment Kenya
-- essential medical equipment for basic health center Kenya
-- medical waste management solutions Kenya
+- 'surgical instrument sterilizers Kenya'
+- 'mobile diagnostic equipment Kenya'
+- 'hospital laundry equipment Kenya'
+- 'essential medical equipment for basic health center Kenya'
+- 'medical waste management solutions Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Bedside Patient Monitor Suppliers in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to bedside patient monitor suppliers in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to bedside patient monitor suppliers in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: bedside-patient-monitor-suppliers-in-nairobi
-primary_keyword: Bedside patient monitor suppliers in Nairobi
+primary_keyword: 'Bedside patient monitor suppliers in Nairobi'
 secondary_keywords:
-- 3-part hematology analyzer for a small lab
-- Laboratory centrifuge (8-tube) for a clinic
-- C-arm compatible operating table for sale
-- Caesarean section (C/S) surgical kit
-- Hospital ward screen (4-fold) suppliers
+- '3-part hematology analyzer for a small lab'
+- 'Laboratory centrifuge (8-tube) for a clinic'
+- 'C-arm compatible operating table for sale'
+- 'Caesarean section (C/S) surgical kit'
+- 'Hospital ward screen (4-fold) suppliers'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

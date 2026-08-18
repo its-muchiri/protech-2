@@ -1,14 +1,14 @@
 ---
 title: 'Flight Number Kenya Airways: Complete Guide'
-description: Everything you need to know about flight number kenya airways, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight number kenya airways, including routes, airlines, booking tips, and fares.'
 slug: flight-number-kenya-airways
-primary_keyword: flight number kenya airways
+primary_keyword: 'flight number kenya airways'
 secondary_keywords:
-- turkish airlines kenya contact number
-- cheap flights from nairobi to turkey
-- turkish airlines office in nairobi kenya
-- turkish airlines nairobi number
-- turkish airlines nairobi to toronto
+- 'turkish airlines kenya contact number'
+- 'cheap flights from nairobi to turkey'
+- 'turkish airlines office in nairobi kenya'
+- 'turkish airlines nairobi number'
+- 'turkish airlines nairobi to toronto'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

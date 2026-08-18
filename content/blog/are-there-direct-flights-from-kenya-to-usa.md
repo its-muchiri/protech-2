@@ -1,14 +1,14 @@
 ---
 title: 'Are There Direct Flights from Kenya to Usa: Complete Guide'
-description: Everything you need to know about are there direct flights from kenya to usa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about are there direct flights from kenya to usa, including routes, airlines, booking tips, and fares.'
 slug: are-there-direct-flights-from-kenya-to-usa
-primary_keyword: are there direct flights from kenya to usa
+primary_keyword: 'are there direct flights from kenya to usa'
 secondary_keywords:
-- booking flights online in kenya
-- flights to kenya direct
-- flights from kenya to usa today
-- how much is a flight to kenya
-- flights to kenya length
+- 'booking flights online in kenya'
+- 'flights to kenya direct'
+- 'flights from kenya to usa today'
+- 'how much is a flight to kenya'
+- 'flights to kenya length'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

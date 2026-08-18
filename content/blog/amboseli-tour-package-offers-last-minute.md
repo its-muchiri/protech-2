@@ -1,14 +1,14 @@
 ---
 title: 'Amboseli Tour Package Offers Last Minute: Complete Guide'
-description: Kenya safari guide covering amboseli tour package offers last minute, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering amboseli tour package offers last minute, including what is included, pricing, and booking advice.'
 slug: amboseli-tour-package-offers-last-minute
-primary_keyword: Amboseli tour package offers last minute
+primary_keyword: 'Amboseli tour package offers last minute'
 secondary_keywords:
-- Mid-range Kenya safari tour companies
-- Overland truck tour companies Nairobi start
-- White water rafting Tana River companies
-- Weekend getaway safari deals from Nairobi
-- Kenya safari payment options Mpesa credit card
+- 'Mid-range Kenya safari tour companies'
+- 'Overland truck tour companies Nairobi start'
+- 'White water rafting Tana River companies'
+- 'Weekend getaway safari deals from Nairobi'
+- 'Kenya safari payment options Mpesa credit card'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

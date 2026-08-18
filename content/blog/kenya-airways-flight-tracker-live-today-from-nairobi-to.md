@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight Tracker Live Today from Nairobi to: Complete Guide'
-description: Everything you need to know about kenya airways flight tracker live today from nairobi to, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight tracker live today from nairobi to, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-tracker-live-today-from-nairobi-to
-primary_keyword: kenya airways flight tracker live today from nairobi to
+primary_keyword: 'kenya airways flight tracker live today from nairobi to'
 secondary_keywords:
-- emirates nairobi flight cancellation
-- emirates nairobi office
-- emirates flight from nairobi to delhi
-- emirates airline kenya tickets
-- emirates kenya email address
+- 'emirates nairobi flight cancellation'
+- 'emirates nairobi office'
+- 'emirates flight from nairobi to delhi'
+- 'emirates airline kenya tickets'
+- 'emirates kenya email address'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Thermometer Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to thermometer price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to thermometer price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: thermometer-price-in-kenya
-primary_keyword: Thermometer price in Kenya
+primary_keyword: 'Thermometer price in Kenya'
 secondary_keywords:
-- Electric operating table price in Kenya
-- General surgery instrument set price list
-- Pediatric hospital bed with side rails
-- Delivery bed / Obstetric table price in Kenya
-- Portable oxygen concentrator for home use
+- 'Electric operating table price in Kenya'
+- 'General surgery instrument set price list'
+- 'Pediatric hospital bed with side rails'
+- 'Delivery bed / Obstetric table price in Kenya'
+- 'Portable oxygen concentrator for home use'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

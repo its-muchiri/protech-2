@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Zurich: Complete Guide'
-description: Everything you need to know about emirates flights from zurich, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from zurich, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-zurich
-primary_keyword: emirates flights from zurich
+primary_keyword: 'emirates flights from zurich'
 secondary_keywords:
-- how much is flight from kenya to south africa
-- 748 flights to kisumu
-- flights from nairobi to kisumu
-- air india flights from nairobi to india
-- british airways flights from nairobi to london
+- 'how much is flight from kenya to south africa'
+- '748 flights to kisumu'
+- 'flights from nairobi to kisumu'
+- 'air india flights from nairobi to india'
+- 'british airways flights from nairobi to london'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

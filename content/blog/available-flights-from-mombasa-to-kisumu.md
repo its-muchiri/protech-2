@@ -1,14 +1,14 @@
 ---
 title: 'Available Flights from Mombasa to Kisumu: Complete Guide'
-description: Everything you need to know about available flights from mombasa to kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about available flights from mombasa to kisumu, including routes, airlines, booking tips, and fares.'
 slug: available-flights-from-mombasa-to-kisumu
-primary_keyword: available flights from mombasa to kisumu
+primary_keyword: 'available flights from mombasa to kisumu'
 secondary_keywords:
-- kenya airways flight from cape town to nairobi
-- kenya airways flights from nairobi to lagos
-- kenya airways flight from nairobi to london today price
-- kenya airways flight from mombasa to nairobi today
-- kenya airways flight 507
+- 'kenya airways flight from cape town to nairobi'
+- 'kenya airways flights from nairobi to lagos'
+- 'kenya airways flight from nairobi to london today price'
+- 'kenya airways flight from mombasa to nairobi today'
+- 'kenya airways flight 507'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

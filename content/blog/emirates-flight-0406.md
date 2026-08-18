@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 0406: Complete Guide'
-description: Everything you need to know about emirates flight 0406, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 0406, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-0406
-primary_keyword: emirates flight 0406
+primary_keyword: 'emirates flight 0406'
 secondary_keywords:
-- flights from harare to mombasa
-- flights from istanbul to mombasa
-- flights from mombasa to kampala
-- lamu flights from mombasa
-- flights from masai mara to mombasa
+- 'flights from harare to mombasa'
+- 'flights from istanbul to mombasa'
+- 'flights from mombasa to kampala'
+- 'lamu flights from mombasa'
+- 'flights from masai mara to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Kenya Number: Complete Guide'
-description: Everything you need to know about emirates kenya number, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates kenya number, including routes, airlines, booking tips, and fares.'
 slug: emirates-kenya-number
-primary_keyword: emirates kenya number
+primary_keyword: 'emirates kenya number'
 secondary_keywords:
-- flight 540 nairobi to kisumu price today
-- how much is flight from nairobi to uganda
-- turkish airlines kenya contact number
-- cheap flights from nairobi to turkey
-- turkish airlines office in nairobi kenya
+- 'flight 540 nairobi to kisumu price today'
+- 'how much is flight from nairobi to uganda'
+- 'turkish airlines kenya contact number'
+- 'cheap flights from nairobi to turkey'
+- 'turkish airlines office in nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

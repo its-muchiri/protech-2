@@ -1,14 +1,14 @@
 ---
 title: 'Patient Stretcher Trolley Cost in Eldoret: 2026 Price Guide'
-description: Kenya buying guide to patient stretcher trolley cost in eldoret. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to patient stretcher trolley cost in eldoret. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: patient-stretcher-trolley-cost-in-eldoret
-primary_keyword: Patient stretcher trolley cost in Eldoret
+primary_keyword: 'Patient stretcher trolley cost in Eldoret'
 secondary_keywords:
-- bandages Kenya types
-- antiseptics Kenya brands
-- blood collection tubes Kenya EDTA
-- first aid kits Kenya contents
-- non-woven swabs Kenya
+- 'bandages Kenya types'
+- 'antiseptics Kenya brands'
+- 'blood collection tubes Kenya EDTA'
+- 'first aid kits Kenya contents'
+- 'non-woven swabs Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

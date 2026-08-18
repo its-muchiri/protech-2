@@ -1,14 +1,14 @@
 ---
-title: 'All-inclusive Luxury Safari Kenya What's Included: Complete Guide'
-description: Kenya safari guide covering all-inclusive luxury safari kenya whats included, including what is included, pricing, and booking advice.
+title: 'All-inclusive Luxury Safari Kenya What''s Included: Complete Guide'
+description: 'Kenya safari guide covering all-inclusive luxury safari kenya whats included, including what is included, pricing, and booking advice.'
 slug: all-inclusive-luxury-safari-kenya-what-s-included
-primary_keyword: All-inclusive luxury safari Kenya what's included
+primary_keyword: 'All-inclusive luxury safari Kenya what''s included'
 secondary_keywords:
-- Buy 4 day fly-in Samburu package deal
-- Buy package 7 day Kenya walking safari guided tour
-- Book 4 day Hell's Gate Naivasha adventure package
-- Quote for 6 day Tsavo Man Eaters Trail package
-- Secure booking 7 day Kenya safari package
+- 'Buy 4 day fly-in Samburu package deal'
+- 'Buy package 7 day Kenya walking safari guided tour'
+- 'Book 4 day Hell''s Gate Naivasha adventure package'
+- 'Quote for 6 day Tsavo Man Eaters Trail package'
+- 'Secure booking 7 day Kenya safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

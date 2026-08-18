@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Itinerary: Complete Guide'
-description: Kenya safari guide covering kenya safari itinerary, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari itinerary, including what is included, pricing, and booking advice.'
 slug: kenya-safari-itinerary
-primary_keyword: Kenya safari itinerary
+primary_keyword: 'Kenya safari itinerary'
 secondary_keywords:
-- Activity-Specific Searches
-- Rock climbing tours Hell''s Gate
-- Long stay Kenya vacation planners
-- Group joining safari price Kenya
-- Karen Nairobi based tour operators
+- 'Activity-Specific Searches'
+- 'Rock climbing tours Hell''''s Gate'
+- 'Long stay Kenya vacation planners'
+- 'Group joining safari price Kenya'
+- 'Karen Nairobi based tour operators'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

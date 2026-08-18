@@ -1,14 +1,14 @@
 ---
 title: 'Quadriceps Exercise Table for Sale: 2026 Price Guide'
-description: Kenya buying guide to quadriceps exercise table for sale. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to quadriceps exercise table for sale. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: quadriceps-exercise-table-for-sale
-primary_keyword: Quadriceps exercise table for sale
+primary_keyword: 'Quadriceps exercise table for sale'
 secondary_keywords:
-- Portable dental chair for mobile clinics
-- Tenders for dental imaging equipment in Kenya
-- Portable veterinary X-ray machine for sale in Kenya
-- Artificial insemination equipment for livestock
-- Suction machine for home care price
+- 'Portable dental chair for mobile clinics'
+- 'Tenders for dental imaging equipment in Kenya'
+- 'Portable veterinary X-ray machine for sale in Kenya'
+- 'Artificial insemination equipment for livestock'
+- 'Suction machine for home care price'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

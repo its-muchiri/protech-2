@@ -1,14 +1,14 @@
 ---
 title: 'Airlines from Kisumu to Nairobi: Complete Guide'
-description: Everything you need to know about airlines from kisumu to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about airlines from kisumu to nairobi, including routes, airlines, booking tips, and fares.'
 slug: airlines-from-kisumu-to-nairobi
-primary_keyword: airlines from kisumu to nairobi
+primary_keyword: 'airlines from kisumu to nairobi'
 secondary_keywords:
-- airlines that fly to mombasa
-- cheap flights from mombasa to zanzibar
-- flights from mombasa to eldoret
-- flights to mombasa kenya from paris france
-- flights from harare to mombasa
+- 'airlines that fly to mombasa'
+- 'cheap flights from mombasa to zanzibar'
+- 'flights from mombasa to eldoret'
+- 'flights to mombasa kenya from paris france'
+- 'flights from harare to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

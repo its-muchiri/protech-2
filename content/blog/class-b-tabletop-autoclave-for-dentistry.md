@@ -1,14 +1,14 @@
 ---
 title: 'Class B Tabletop Autoclave for Dentistry: 2026 Price Guide'
-description: Kenya buying guide to class b tabletop autoclave for dentistry. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to class b tabletop autoclave for dentistry. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: class-b-tabletop-autoclave-for-dentistry
-primary_keyword: Class B tabletop autoclave for dentistry
+primary_keyword: 'Class B tabletop autoclave for dentistry'
 secondary_keywords:
-- water purification systems medical Kenya
-- medical furniture Kenya price
-- mobile X-ray unit Kenya
-- portable oxygen concentrator Kenya
-- pediatric medical equipment Kenya
+- 'water purification systems medical Kenya'
+- 'medical furniture Kenya price'
+- 'mobile X-ray unit Kenya'
+- 'portable oxygen concentrator Kenya'
+- 'pediatric medical equipment Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

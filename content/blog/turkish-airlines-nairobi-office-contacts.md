@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Nairobi Office Contacts: Complete Guide'
-description: Everything you need to know about turkish airlines nairobi office contacts, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines nairobi office contacts, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-nairobi-office-contacts
-primary_keyword: turkish airlines nairobi office contacts
+primary_keyword: 'turkish airlines nairobi office contacts'
 secondary_keywords:
-- flights from mombasa to arusha
-- flights from boston to mombasa kenya
-- flights to mombasa cost
-- flights to mombasa direct
-- flights from mombasa to johannesburg
+- 'flights from mombasa to arusha'
+- 'flights from boston to mombasa kenya'
+- 'flights to mombasa cost'
+- 'flights to mombasa direct'
+- 'flights from mombasa to johannesburg'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

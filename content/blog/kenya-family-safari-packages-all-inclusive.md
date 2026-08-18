@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Family Safari Packages All Inclusive: Complete Guide'
-description: Kenya safari guide covering kenya family safari packages all inclusive, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya family safari packages all inclusive, including what is included, pricing, and booking advice.'
 slug: kenya-family-safari-packages-all-inclusive
-primary_keyword: Kenya family safari packages all inclusive
+primary_keyword: 'Kenya family safari packages all inclusive'
 secondary_keywords:
-- Buy 10 day East Africa budget overland tour package
-- Book 11 day Kenya discovery self-drive package (assisted) quote
-- Cost of 5 day Samburu special five photo package buy
-- Book tour package Kenya  recommended
-- Reserve Ol Pejeta family package school holidays
+- 'Buy 10 day East Africa budget overland tour package'
+- 'Book 11 day Kenya discovery self-drive package (assisted) quote'
+- 'Cost of 5 day Samburu special five photo package buy'
+- 'Book tour package Kenya  recommended'
+- 'Reserve Ol Pejeta family package school holidays'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

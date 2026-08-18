@@ -1,14 +1,14 @@
 ---
 title: 'Agricultural Tours Kenya Coffee / Tea Plantations Visit Thika Region: Complete Guide'
-description: Kenya safari guide covering agricultural tours kenya coffee / tea plantations visit thika region, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering agricultural tours kenya coffee / tea plantations visit thika region, including what is included, pricing, and booking advice.'
 slug: agricultural-tours-kenya-coffee-tea-plantations-visit-thika-region
-primary_keyword: Agricultural tours Kenya coffee / tea plantations visit Thika region
+primary_keyword: 'Agricultural tours Kenya coffee / tea plantations visit Thika region'
 secondary_keywords:
-- Pollman''s Tours & Safaris Kenya contact / services
-- Perfect Wilderness Tours Kenya reviews
-- Tipping guide for safari driver / lodge staff Kenya
-- Customer testimonials Kenya safari companies video reviews
-- Safari tours starting from Nairobi Jomo Kenyatta Airport (NBO)
+- 'Pollman''''s Tours & Safaris Kenya contact / services'
+- 'Perfect Wilderness Tours Kenya reviews'
+- 'Tipping guide for safari driver / lodge staff Kenya'
+- 'Customer testimonials Kenya safari companies video reviews'
+- 'Safari tours starting from Nairobi Jomo Kenyatta Airport (NBO)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

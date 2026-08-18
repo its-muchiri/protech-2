@@ -1,14 +1,14 @@
 ---
 title: 'One Way Flight from Nairobi to Dubai: Complete Guide'
-description: Everything you need to know about one way flight from nairobi to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about one way flight from nairobi to dubai, including routes, airlines, booking tips, and fares.'
 slug: one-way-flight-from-nairobi-to-dubai
-primary_keyword: one way flight from nairobi to dubai
+primary_keyword: 'one way flight from nairobi to dubai'
 secondary_keywords:
-- how much flight from kenya to usa
-- turkish airlines nairobi office phone number
-- turkish airlines departures nairobi
-- turkish airlines check in nairobi
-- turkish airlines nach nairobi
+- 'how much flight from kenya to usa'
+- 'turkish airlines nairobi office phone number'
+- 'turkish airlines departures nairobi'
+- 'turkish airlines check in nairobi'
+- 'turkish airlines nach nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

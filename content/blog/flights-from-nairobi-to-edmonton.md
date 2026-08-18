@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Edmonton: Complete Guide'
-description: Everything you need to know about flights from nairobi to edmonton, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to edmonton, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-edmonton
-primary_keyword: flights from nairobi to edmonton
+primary_keyword: 'flights from nairobi to edmonton'
 secondary_keywords:
-- nairobi to diani flights price
-- kenya airways flight status london to nairobi
-- flights nairobi to sydney
-- nairobi to cape town flights
-- flights nairobi to vienna
+- 'nairobi to diani flights price'
+- 'kenya airways flight status london to nairobi'
+- 'flights nairobi to sydney'
+- 'nairobi to cape town flights'
+- 'flights nairobi to vienna'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

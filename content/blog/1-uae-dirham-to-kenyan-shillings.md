@@ -1,14 +1,14 @@
 ---
 title: '1 Uae Dirham to Kenyan Shillings: Complete Guide'
-description: Everything you need to know about 1 uae dirham to kenyan shillings, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about 1 uae dirham to kenyan shillings, including routes, airlines, booking tips, and fares.'
 slug: 1-uae-dirham-to-kenyan-shillings
-primary_keyword: 1 uae dirham to kenyan shillings
+primary_keyword: '1 uae dirham to kenyan shillings'
 secondary_keywords:
-- cheap flights from new york to kenya
-- how much is flight from kenya to south africa
-- 748 flights to kisumu
-- flights from nairobi to kisumu
-- air india flights from nairobi to india
+- 'cheap flights from new york to kenya'
+- 'how much is flight from kenya to south africa'
+- '748 flights to kisumu'
+- 'flights from nairobi to kisumu'
+- 'air india flights from nairobi to india'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

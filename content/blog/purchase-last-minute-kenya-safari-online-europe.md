@@ -1,14 +1,14 @@
 ---
 title: 'Purchase Last Minute Kenya Safari Online Europe: Complete Guide'
-description: Kenya safari guide covering purchase last minute kenya safari online europe, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase last minute kenya safari online europe, including what is included, pricing, and booking advice.'
 slug: purchase-last-minute-kenya-safari-online-europe
-primary_keyword: Purchase last minute Kenya safari online Europe
+primary_keyword: 'Purchase last minute Kenya safari online Europe'
 secondary_keywords:
-- Kenia safari precios (Spanish)
-- Kenya safari documentaries
-- Get Kenya safari quote
-- Finalize Kenya safari booking
-- 12 day East Africa safari package booking
+- 'Kenia safari precios (Spanish)'
+- 'Kenya safari documentaries'
+- 'Get Kenya safari quote'
+- 'Finalize Kenya safari booking'
+- '12 day East Africa safari package booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

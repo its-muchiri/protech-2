@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Eldoret to Kitale: Complete Guide'
-description: Everything you need to know about flight from eldoret to kitale, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from eldoret to kitale, including routes, airlines, booking tips, and fares.'
 slug: flight-from-eldoret-to-kitale
-primary_keyword: flight from eldoret to kitale
+primary_keyword: 'flight from eldoret to kitale'
 secondary_keywords:
-- cheap flights from riyadh to mombasa
-- flights from nairobi to ukunda mombasa
-- which airlines fly to malindi
-- available flights from kisumu to nairobi
-- domestic flights from nairobi to kisumu
+- 'cheap flights from riyadh to mombasa'
+- 'flights from nairobi to ukunda mombasa'
+- 'which airlines fly to malindi'
+- 'available flights from kisumu to nairobi'
+- 'domestic flights from nairobi to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Jambojet Flights from Nairobi to Eldoret: Complete Guide'
-description: Everything you need to know about jambojet flights from nairobi to eldoret, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about jambojet flights from nairobi to eldoret, including routes, airlines, booking tips, and fares.'
 slug: jambojet-flights-from-nairobi-to-eldoret
-primary_keyword: jambojet flights from nairobi to eldoret
+primary_keyword: 'jambojet flights from nairobi to eldoret'
 secondary_keywords:
-- emirates flights to dubai from nairobi
-- emirates flight 407
-- emirates flight 515
-- emirates flight 777 300er seating
-- emirates ek 8
+- 'emirates flights to dubai from nairobi'
+- 'emirates flight 407'
+- 'emirates flight 515'
+- 'emirates flight 777 300er seating'
+- 'emirates ek 8'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

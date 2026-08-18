@@ -1,14 +1,14 @@
 ---
 title: 'Secure 6 Day Samburu Nakuru Safari Booking: Complete Guide'
-description: Kenya safari guide covering secure 6 day samburu nakuru safari booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering secure 6 day samburu nakuru safari booking, including what is included, pricing, and booking advice.'
 slug: secure-6-day-samburu-nakuru-safari-booking
-primary_keyword: Secure 6 day Samburu Nakuru safari booking
+primary_keyword: 'Secure 6 day Samburu Nakuru safari booking'
 secondary_keywords:
-- Reserve Lewa Wildlife Conservancy package booking
-- Buy two week Kenya adventure tour reservation
-- Book photographic safari Kenya specialist tour
-- Budget for guided Kenya safari tour
-- 7 day classic Kenya safari package price list
+- 'Reserve Lewa Wildlife Conservancy package booking'
+- 'Buy two week Kenya adventure tour reservation'
+- 'Book photographic safari Kenya specialist tour'
+- 'Budget for guided Kenya safari tour'
+- '7 day classic Kenya safari package price list'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

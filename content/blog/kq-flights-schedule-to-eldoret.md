@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights Schedule to Eldoret: Complete Guide'
-description: Everything you need to know about kq flights schedule to eldoret, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights schedule to eldoret, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-schedule-to-eldoret
-primary_keyword: kq flights schedule to eldoret
+primary_keyword: 'kq flights schedule to eldoret'
 secondary_keywords:
-- air india flights from nairobi to mumbai
-- british airways flights from nairobi today
-- flights from nairobi to copenhagen
-- flights from nairobi to dublin
-- eldoret flights from nairobi
+- 'air india flights from nairobi to mumbai'
+- 'british airways flights from nairobi today'
+- 'flights from nairobi to copenhagen'
+- 'flights from nairobi to dublin'
+- 'eldoret flights from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

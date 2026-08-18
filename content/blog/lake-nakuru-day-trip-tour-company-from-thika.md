@@ -1,14 +1,14 @@
 ---
 title: 'Lake Nakuru Day Trip Tour Company from Thika: Complete Guide'
-description: Kenya safari guide covering lake nakuru day trip tour company from thika, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering lake nakuru day trip tour company from thika, including what is included, pricing, and booking advice.'
 slug: lake-nakuru-day-trip-tour-company-from-thika
-primary_keyword: Lake Nakuru day trip tour company from Thika
+primary_keyword: 'Lake Nakuru day trip tour company from Thika'
 secondary_keywords:
-- Cheap Kenya safari package buy online
-- Basic Kenya safari lodge package buy
-- 10 day Kenya Tanzania migration package buy
-- Reserve Kenya safari package  months in advance
-- Compare Kenya safari package prices
+- 'Cheap Kenya safari package buy online'
+- 'Basic Kenya safari lodge package buy'
+- '10 day Kenya Tanzania migration package buy'
+- 'Reserve Kenya safari package  months in advance'
+- 'Compare Kenya safari package prices'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

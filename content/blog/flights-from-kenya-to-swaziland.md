@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Swaziland: Complete Guide'
-description: Everything you need to know about flights from kenya to swaziland, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to swaziland, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-swaziland
-primary_keyword: flights from kenya to swaziland
+primary_keyword: 'flights from kenya to swaziland'
 secondary_keywords:
-- emirates flights from london
-- emirates flights from melbourne to dubai
-- emirates flights from ord
-- emirates flights from phuket to dubai
-- emirates flight quetta to dubai
+- 'emirates flights from london'
+- 'emirates flights from melbourne to dubai'
+- 'emirates flights from ord'
+- 'emirates flights from phuket to dubai'
+- 'emirates flight quetta to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

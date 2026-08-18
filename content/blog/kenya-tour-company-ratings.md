@@ -1,13 +1,13 @@
 ---
 title: 'Kenya Tour Company Ratings: Complete Guide'
-description: Kenya safari guide covering kenya tour company ratings, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya tour company ratings, including what is included, pricing, and booking advice.'
 slug: kenya-tour-company-ratings
-primary_keyword: Kenya tour company ratings
+primary_keyword: 'Kenya tour company ratings'
 secondary_keywords:
-- Halal safari Kenya
-- Kenya safari packing list
-- Electricity Kenya safari lodges
-- Guided bird watching safari Lake Nakuru Kenya
+- 'Halal safari Kenya'
+- 'Kenya safari packing list'
+- 'Electricity Kenya safari lodges'
+- 'Guided bird watching safari Lake Nakuru Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

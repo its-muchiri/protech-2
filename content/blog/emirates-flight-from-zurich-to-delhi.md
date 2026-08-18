@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight from Zurich to Delhi: Complete Guide'
-description: Everything you need to know about emirates flight from zurich to delhi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight from zurich to delhi, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-from-zurich-to-delhi
-primary_keyword: emirates flight from zurich to delhi
+primary_keyword: 'emirates flight from zurich to delhi'
 secondary_keywords:
-- flight from nairobi to zimbabwe
-- flight from nairobi to bahamas
-- flight 540 nairobi to diani
-- how much flight from kenya to usa
-- turkish airlines nairobi office phone number
+- 'flight from nairobi to zimbabwe'
+- 'flight from nairobi to bahamas'
+- 'flight 540 nairobi to diani'
+- 'how much flight from kenya to usa'
+- 'turkish airlines nairobi office phone number'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

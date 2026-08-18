@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Tour Reviews SafariBookings UK Users: Complete Guide'
-description: Kenya safari guide covering kenya safari tour reviews safaribookings uk users, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari tour reviews safaribookings uk users, including what is included, pricing, and booking advice.'
 slug: kenya-safari-tour-reviews-safaribookings-uk-users
-primary_keyword: Kenya safari tour reviews SafariBookings UK users
+primary_keyword: 'Kenya safari tour reviews SafariBookings UK users'
 secondary_keywords:
-- Secure Samburu safari package deal
-- Book Mombasa start Tsavo safari tour
-- Secure 21 day comprehensive Kenya trip purchase
-- Reserve Great Migration safari package booking
-- Request price list Kenya safari packages
+- 'Secure Samburu safari package deal'
+- 'Book Mombasa start Tsavo safari tour'
+- 'Secure 21 day comprehensive Kenya trip purchase'
+- 'Reserve Great Migration safari package booking'
+- 'Request price list Kenya safari packages'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

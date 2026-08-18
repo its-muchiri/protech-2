@@ -1,14 +1,14 @@
 ---
 title: 'Activity-Specific Searches: Complete Guide'
-description: Kenya safari guide covering activity-specific searches, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering activity-specific searches, including what is included, pricing, and booking advice.'
 slug: activity-specific-searches
-primary_keyword: Activity-Specific Searches
+primary_keyword: 'Activity-Specific Searches'
 secondary_keywords:
-- Small group migration safari Kenya August
-- Overcrowded Masai Mara safari
-- Pangolin safari Kenya (extremely difficult sighting)
-- Wilson Airport Nairobi safari flights
-- Best travel pillow Kenya safari flight
+- 'Small group migration safari Kenya August'
+- 'Overcrowded Masai Mara safari'
+- 'Pangolin safari Kenya (extremely difficult sighting)'
+- 'Wilson Airport Nairobi safari flights'
+- 'Best travel pillow Kenya safari flight'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights Nairobi to Entebbe: Complete Guide'
-description: Everything you need to know about cheap flights nairobi to entebbe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights nairobi to entebbe, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-nairobi-to-entebbe
-primary_keyword: cheap flights nairobi to entebbe
+primary_keyword: 'cheap flights nairobi to entebbe'
 secondary_keywords:
-- flights nairobi to barcelona
-- flights nairobi to chicago
-- flights nairobi to diani beach
-- etihad flights nairobi to abu dhabi
-- flights nairobi to ghana
+- 'flights nairobi to barcelona'
+- 'flights nairobi to chicago'
+- 'flights nairobi to diani beach'
+- 'etihad flights nairobi to abu dhabi'
+- 'flights nairobi to ghana'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

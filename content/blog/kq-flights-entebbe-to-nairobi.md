@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights Entebbe to Nairobi: Complete Guide'
-description: Everything you need to know about kq flights entebbe to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights entebbe to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-entebbe-to-nairobi
-primary_keyword: kq flights entebbe to nairobi
+primary_keyword: 'kq flights entebbe to nairobi'
 secondary_keywords:
-- flights to portugal from kenya
-- flights from kenya to russia
-- flights from kenya to singapore
-- flights to dubai from kenya
-- flights from nairobi to vietnam
+- 'flights to portugal from kenya'
+- 'flights from kenya to russia'
+- 'flights from kenya to singapore'
+- 'flights to dubai from kenya'
+- 'flights from nairobi to vietnam'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

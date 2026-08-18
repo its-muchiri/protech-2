@@ -1,14 +1,14 @@
 ---
 title: 'Price of Flight from Nairobi to Eldoret: Complete Guide'
-description: Everything you need to know about price of flight from nairobi to eldoret, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about price of flight from nairobi to eldoret, including routes, airlines, booking tips, and fares.'
 slug: price-of-flight-from-nairobi-to-eldoret
-primary_keyword: price of flight from nairobi to eldoret
+primary_keyword: 'price of flight from nairobi to eldoret'
 secondary_keywords:
-- flight time from nairobi to zanzibar
-- cost of flight from nairobi to south africa
-- 540 flight from nairobi to lodwar
-- how many hours flight from nairobi to johannesburg
-- turkish airlines flights to nairobi
+- 'flight time from nairobi to zanzibar'
+- 'cost of flight from nairobi to south africa'
+- '540 flight from nairobi to lodwar'
+- 'how many hours flight from nairobi to johannesburg'
+- 'turkish airlines flights to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

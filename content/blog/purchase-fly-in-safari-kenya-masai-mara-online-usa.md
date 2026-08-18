@@ -1,14 +1,14 @@
 ---
 title: 'Purchase Fly-in Safari Kenya Masai Mara Online USA: Complete Guide'
-description: Kenya safari guide covering purchase fly-in safari kenya masai mara online usa, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase fly-in safari kenya masai mara online usa, including what is included, pricing, and booking advice.'
 slug: purchase-fly-in-safari-kenya-masai-mara-online-usa
-primary_keyword: Purchase fly-in safari Kenya Masai Mara online USA
+primary_keyword: 'Purchase fly-in safari Kenya Masai Mara online USA'
 secondary_keywords:
-- Cost of custom luxury Kenya safari for couple anniversary UK private lodges
-- Find last minute deals on luxury Kenya safari lodges Mara Triangle UK operator direct
-- Reserve wheelchair accessible Kenya safari vehicle & lodge USA custom tour planning service
-- Find Halal certified meals Kenya safari tour package UK Muslim friendly lodges operators list
-- Book camel trekking safari northern Kenya Samburu Europe traditional experience cost
+- 'Cost of custom luxury Kenya safari for couple anniversary UK private lodges'
+- 'Find last minute deals on luxury Kenya safari lodges Mara Triangle UK operator direct'
+- 'Reserve wheelchair accessible Kenya safari vehicle & lodge USA custom tour planning service'
+- 'Find Halal certified meals Kenya safari tour package UK Muslim friendly lodges operators list'
+- 'Book camel trekking safari northern Kenya Samburu Europe traditional experience cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

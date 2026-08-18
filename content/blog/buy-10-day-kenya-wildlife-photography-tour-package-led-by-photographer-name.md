@@ -1,14 +1,14 @@
 ---
 title: 'Buy 10 Day Kenya Wildlife Photography Tour Package Led by : Complete Guide'
-description: Kenya safari guide covering buy 10 day kenya wildlife photography tour package led by , including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy 10 day kenya wildlife photography tour package led by , including what is included, pricing, and booking advice.'
 slug: buy-10-day-kenya-wildlife-photography-tour-package-led-by-photographer-name
-primary_keyword: Buy 10 day Kenya wildlife photography tour package led by
+primary_keyword: 'Buy 10 day Kenya wildlife photography tour package led by'
 secondary_keywords:
-- Reserve Michelin star chef safari experience package (if available)
-- KATO registered tour operators list
-- Destination-Specific Searches
-- Diani Beach holiday package companies
-- Mid-range Kenya safari tour companies
+- 'Reserve Michelin star chef safari experience package (if available)'
+- 'KATO registered tour operators list'
+- 'Destination-Specific Searches'
+- 'Diani Beach holiday package companies'
+- 'Mid-range Kenya safari tour companies'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

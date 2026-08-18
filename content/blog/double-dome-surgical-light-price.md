@@ -1,14 +1,14 @@
 ---
 title: 'Double Dome Surgical Light Price: 2026 Price Guide'
-description: Kenya buying guide to double dome surgical light price. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to double dome surgical light price. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: double-dome-surgical-light-price
-primary_keyword: Double dome surgical light price
+primary_keyword: 'Double dome surgical light price'
 secondary_keywords:
-- Combination therapy unit (IFT, TENS, US) price
-- Veterinary hematology and chemistry analyzer price
-- Surgical sutures (absorbable and non-absorbable) price list
-- ENT microscope for surgery cost
-- Elisa test kits for HIV suppliers
+- 'Combination therapy unit (IFT, TENS, US) price'
+- 'Veterinary hematology and chemistry analyzer price'
+- 'Surgical sutures (absorbable and non-absorbable) price list'
+- 'ENT microscope for surgery cost'
+- 'Elisa test kits for HIV suppliers'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

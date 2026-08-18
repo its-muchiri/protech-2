@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights from Dakar to Nairobi: Complete Guide'
-description: Everything you need to know about kenya airways flights from dakar to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights from dakar to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-from-dakar-to-nairobi
-primary_keyword: kenya airways flights from dakar to nairobi
+primary_keyword: 'kenya airways flights from dakar to nairobi'
 secondary_keywords:
-- safarilink flight from ukunda to nairobi
-- flight from nairobi to windhoek
-- flight distance from nairobi to new york
-- flight from nairobi to nyeri
-- flight 540 nairobi to kisumu price
+- 'safarilink flight from ukunda to nairobi'
+- 'flight from nairobi to windhoek'
+- 'flight distance from nairobi to new york'
+- 'flight from nairobi to nyeri'
+- 'flight 540 nairobi to kisumu price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

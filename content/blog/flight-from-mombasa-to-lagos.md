@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Mombasa to Lagos: Complete Guide'
-description: Everything you need to know about flight from mombasa to lagos, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from mombasa to lagos, including routes, airlines, booking tips, and fares.'
 slug: flight-from-mombasa-to-lagos
-primary_keyword: flight from mombasa to lagos
+primary_keyword: 'flight from mombasa to lagos'
 secondary_keywords:
-- emirates flights from zanzibar to dubai
-- emirates flight 0221
-- emirates flights from newcastle 2023
-- emirates flight 333
-- emirates flight 412
+- 'emirates flights from zanzibar to dubai'
+- 'emirates flight 0221'
+- 'emirates flights from newcastle 2023'
+- 'emirates flight 333'
+- 'emirates flight 412'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Discount 5 Day Family Fly-in Amboseli Package Early Bird: Complete Guide'
-description: Kenya safari guide covering discount 5 day family fly-in amboseli package early bird, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering discount 5 day family fly-in amboseli package early bird, including what is included, pricing, and booking advice.'
 slug: discount-5-day-family-fly-in-amboseli-package-early-bird
-primary_keyword: Discount 5 day family fly-in Amboseli package early bird
+primary_keyword: 'Discount 5 day family fly-in Amboseli package early bird'
 secondary_keywords:
-- Mobile camping safari Kenya
-- 3 day Kenya safari
-- Kenya safari cost
-- Kenya park fees cost
-- Private safari house Kenya
+- 'Mobile camping safari Kenya'
+- '3 day Kenya safari'
+- 'Kenya safari cost'
+- 'Kenya park fees cost'
+- 'Private safari house Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

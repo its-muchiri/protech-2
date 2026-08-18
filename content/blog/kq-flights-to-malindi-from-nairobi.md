@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Malindi from Nairobi: Complete Guide'
-description: Everything you need to know about kq flights to malindi from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to malindi from nairobi, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-malindi-from-nairobi
-primary_keyword: kq flights to malindi from nairobi
+primary_keyword: 'kq flights to malindi from nairobi'
 secondary_keywords:
-- emirates airline nairobi
-- ethiopian airlines flights schedule from nairobi to addis ababa
-- ethiopian airlines nairobi telephone number
-- turkish flight from nairobi
-- turkish airlines flight to nairobi
+- 'emirates airline nairobi'
+- 'ethiopian airlines flights schedule from nairobi to addis ababa'
+- 'ethiopian airlines nairobi telephone number'
+- 'turkish flight from nairobi'
+- 'turkish airlines flight to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

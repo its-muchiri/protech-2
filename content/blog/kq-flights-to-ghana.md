@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Ghana: Complete Guide'
-description: Everything you need to know about kq flights to ghana, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to ghana, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-ghana
-primary_keyword: kq flights to ghana
+primary_keyword: 'kq flights to ghana'
 secondary_keywords:
-- flights from lagos to nairobi kenya
-- cheap flights from melbourne to nairobi kenya
-- flight from kenya to oman price
-- flights from kenya to paris
-- flights from kenya to qatar today
+- 'flights from lagos to nairobi kenya'
+- 'cheap flights from melbourne to nairobi kenya'
+- 'flight from kenya to oman price'
+- 'flights from kenya to paris'
+- 'flights from kenya to qatar today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Purchase 6 Day Mid-range Tented Camp Masai Mara Nakuru Package KATO Operator: Complete Guide'
-description: Kenya safari guide covering purchase 6 day mid-range tented camp masai mara nakuru package kato operator, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase 6 day mid-range tented camp masai mara nakuru package kato operator, including what is included, pricing, and booking advice.'
 slug: purchase-6-day-mid-range-tented-camp-masai-mara-nakuru-package-kato-operator
-primary_keyword: Purchase 6 day mid-range tented camp Masai Mara Nakuru package KATO operator
+primary_keyword: 'Purchase 6 day mid-range tented camp Masai Mara Nakuru package KATO operator'
 secondary_keywords:
-- Bush breakfast Kenya safari
-- Bird species Kenya safari
-- Kenya Uganda Rwanda safari
-- Kenya safari dry season
-- Easter Kenya safari
+- 'Bush breakfast Kenya safari'
+- 'Bird species Kenya safari'
+- 'Kenya Uganda Rwanda safari'
+- 'Kenya safari dry season'
+- 'Easter Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

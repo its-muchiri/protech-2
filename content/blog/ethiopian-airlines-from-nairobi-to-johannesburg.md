@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines from Nairobi to Johannesburg: Complete Guide'
-description: Everything you need to know about ethiopian airlines from nairobi to johannesburg, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines from nairobi to johannesburg, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-from-nairobi-to-johannesburg
-primary_keyword: ethiopian airlines from nairobi to johannesburg
+primary_keyword: 'ethiopian airlines from nairobi to johannesburg'
 secondary_keywords:
-- flights from toronto to nairobi
-- fly nairobi to victoria falls
-- nairobi to watamu flights
-- flight time from nairobi to zimbabwe
-- cheap flights to nairobi from mombasa
+- 'flights from toronto to nairobi'
+- 'fly nairobi to victoria falls'
+- 'nairobi to watamu flights'
+- 'flight time from nairobi to zimbabwe'
+- 'cheap flights to nairobi from mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

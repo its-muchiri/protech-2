@@ -1,14 +1,14 @@
 ---
 title: 'Secure 11 Day Kenya Uganda Gorilla Trek Combo Package Booking : Complete Guide'
-description: Kenya safari guide covering secure 11 day kenya uganda gorilla trek combo package booking , including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering secure 11 day kenya uganda gorilla trek combo package booking , including what is included, pricing, and booking advice.'
 slug: secure-11-day-kenya-uganda-gorilla-trek-combo-package-booking-operator-name
-primary_keyword: Secure 11 day Kenya Uganda gorilla trek combo package booking
+primary_keyword: 'Secure 11 day Kenya Uganda gorilla trek combo package booking'
 secondary_keywords:
-- Buy discounted off-peak Kenya safari package April
-- Quote all-in price 10 day family safari Kenya December
-- Price and book 6 day Ashnil Samburu Mara package
-- Reserve 7 day Richard''s River Camp private conservancy package
-- Secure booking ultra-luxury Kenya tented suite package
+- 'Buy discounted off-peak Kenya safari package April'
+- 'Quote all-in price 10 day family safari Kenya December'
+- 'Price and book 6 day Ashnil Samburu Mara package'
+- 'Reserve 7 day Richard''''s River Camp private conservancy package'
+- 'Secure booking ultra-luxury Kenya tented suite package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

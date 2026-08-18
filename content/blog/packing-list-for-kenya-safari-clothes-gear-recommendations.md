@@ -1,14 +1,14 @@
 ---
 title: 'Packing List for Kenya Safari Clothes / Gear Recommendations: Complete Guide'
-description: Kenya safari guide covering packing list for kenya safari clothes / gear recommendations, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering packing list for kenya safari clothes / gear recommendations, including what is included, pricing, and booking advice.'
 slug: packing-list-for-kenya-safari-clothes-gear-recommendations
-primary_keyword: Packing list for Kenya safari clothes / gear recommendations
+primary_keyword: 'Packing list for Kenya safari clothes / gear recommendations'
 secondary_keywords:
-- Book 10 day luxury Kenya safari escape package
-- Get booking code 6 day budget Masai Mara safari
-- Reserve 8 day Tortilis Camp Amboseli luxury package
-- Book 7 day Singita Grumeti link Kenya package (linking concepts)
-- Reserve corporate retreat safari package Kenya luxury
+- 'Book 10 day luxury Kenya safari escape package'
+- 'Get booking code 6 day budget Masai Mara safari'
+- 'Reserve 8 day Tortilis Camp Amboseli luxury package'
+- 'Book 7 day Singita Grumeti link Kenya package (linking concepts)'
+- 'Reserve corporate retreat safari package Kenya luxury'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

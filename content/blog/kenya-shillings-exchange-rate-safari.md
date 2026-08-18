@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Shillings Exchange Rate Safari: Complete Guide'
-description: Kenya safari guide covering kenya shillings exchange rate safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya shillings exchange rate safari, including what is included, pricing, and booking advice.'
 slug: kenya-shillings-exchange-rate-safari
-primary_keyword: Kenya shillings exchange rate safari
+primary_keyword: 'Kenya shillings exchange rate safari'
 secondary_keywords:
-- Agro-tourism safari Kenya
-- Kenia safari pakket (Dutch)
-- Conservation fees Kenya parks
-- Enquire Kenya safari package rates
-- Confirm Kenya safari reservation
+- 'Agro-tourism safari Kenya'
+- 'Kenia safari pakket (Dutch)'
+- 'Conservation fees Kenya parks'
+- 'Enquire Kenya safari package rates'
+- 'Confirm Kenya safari reservation'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

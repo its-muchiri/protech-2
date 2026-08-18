@@ -1,14 +1,14 @@
 ---
 title: 'Cost 7-day Family Camping Safari Kenya Amboseli from USA Budget: Complete Guide'
-description: Kenya safari guide covering cost 7-day family camping safari kenya amboseli from usa budget, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering cost 7-day family camping safari kenya amboseli from usa budget, including what is included, pricing, and booking advice.'
 slug: cost-7-day-family-camping-safari-kenya-amboseli-from-usa-budget
-primary_keyword: Cost 7-day family camping safari Kenya Amboseli from USA budget
+primary_keyword: 'Cost 7-day family camping safari Kenya Amboseli from USA budget'
 secondary_keywords:
-- Kenya safari from Mombasa
-- Kenya safari from Germany
-- Kenya safari in June
-- International Kenya safari operators
-- Wheelchair friendly Kenya safari
+- 'Kenya safari from Mombasa'
+- 'Kenya safari from Germany'
+- 'Kenya safari in June'
+- 'International Kenya safari operators'
+- 'Wheelchair friendly Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

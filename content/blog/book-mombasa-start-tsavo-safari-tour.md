@@ -1,14 +1,14 @@
 ---
 title: 'Book Mombasa Start Tsavo Safari Tour: Complete Guide'
-description: Kenya safari guide covering book mombasa start tsavo safari tour, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book mombasa start tsavo safari tour, including what is included, pricing, and booking advice.'
 slug: book-mombasa-start-tsavo-safari-tour
-primary_keyword: Book Mombasa start Tsavo safari tour
+primary_keyword: 'Book Mombasa start Tsavo safari tour'
 secondary_keywords:
-- Best luxury Masai Mara package to book
-- Purchase last minute Kenya safari package deal
-- Book 5 day Samburu Special Five photographic tour package expert guide
-- Best tour companies in Kenya reviews TripAdvisor
-- Travel agents Thika booking Kenya tours
+- 'Best luxury Masai Mara package to book'
+- 'Purchase last minute Kenya safari package deal'
+- 'Book 5 day Samburu Special Five photographic tour package expert guide'
+- 'Best tour companies in Kenya reviews TripAdvisor'
+- 'Travel agents Thika booking Kenya tours'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

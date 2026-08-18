@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight Schedule Nairobi to Lusaka: Complete Guide'
-description: Everything you need to know about kenya airways flight schedule nairobi to lusaka, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight schedule nairobi to lusaka, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-schedule-nairobi-to-lusaka
-primary_keyword: kenya airways flight schedule nairobi to lusaka
+primary_keyword: 'kenya airways flight schedule nairobi to lusaka'
 secondary_keywords:
-- flights from nairobi to bangkok
-- book flights from nairobi to mombasa
-- cheap flights from nairobi to saudi arabia
-- flights from nairobi to entebbe
-- emirates flights from nairobi to usa
+- 'flights from nairobi to bangkok'
+- 'book flights from nairobi to mombasa'
+- 'cheap flights from nairobi to saudi arabia'
+- 'flights from nairobi to entebbe'
+- 'emirates flights from nairobi to usa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

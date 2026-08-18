@@ -1,14 +1,14 @@
 ---
 title: '748 Flights from Nairobi to Mombasa: Complete Guide'
-description: Everything you need to know about 748 flights from nairobi to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about 748 flights from nairobi to mombasa, including routes, airlines, booking tips, and fares.'
 slug: 748-flights-from-nairobi-to-mombasa
-primary_keyword: 748 flights from nairobi to mombasa
+primary_keyword: '748 flights from nairobi to mombasa'
 secondary_keywords:
-- flight from mombasa to isiolo
-- jambojet flights from mombasa to nairobi tomorrow
-- kq flights from mombasa
-- flights from mombasa to masai mara
-- flight from mombasa to new york
+- 'flight from mombasa to isiolo'
+- 'jambojet flights from mombasa to nairobi tomorrow'
+- 'kq flights from mombasa'
+- 'flights from mombasa to masai mara'
+- 'flight from mombasa to new york'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

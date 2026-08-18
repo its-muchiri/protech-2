@@ -1,14 +1,14 @@
 ---
 title: 'Find Kenya Safari Lodge with Private Plunge Pool Booking USA Luxury Honeymoon Deals: Complete Guide'
-description: Kenya safari guide covering find kenya safari lodge with private plunge pool booking usa luxury honeymoon deals, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering find kenya safari lodge with private plunge pool booking usa luxury honeymoon deals, including what is included, pricing, and booking advice.'
 slug: find-kenya-safari-lodge-with-private-plunge-pool-booking-usa-luxury-honeymoon-deals
-primary_keyword: Find Kenya safari lodge with private plunge pool booking USA luxury honeymoon deals
+primary_keyword: 'Find Kenya safari lodge with private plunge pool booking USA luxury honeymoon deals'
 secondary_keywords:
-- Rhino safari Kenya
-- Safari starting Nairobi
-- Kenya safari from Australia
-- Kenya safari in May
-- Local Kenya safari operators
+- 'Rhino safari Kenya'
+- 'Safari starting Nairobi'
+- 'Kenya safari from Australia'
+- 'Kenya safari in May'
+- 'Local Kenya safari operators'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

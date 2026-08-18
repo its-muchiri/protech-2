@@ -1,14 +1,14 @@
 ---
 title: 'Book African Safari Package Kenya: Complete Guide'
-description: Kenya safari guide covering book african safari package kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book african safari package kenya, including what is included, pricing, and booking advice.'
 slug: book-african-safari-package-kenya
-primary_keyword: Book African safari package Kenya
+primary_keyword: 'Book African safari package Kenya'
 secondary_keywords:
-- Honeymoon package Kenya safari and Zanzibar beach reviews
-- Safari company specializing in big cat sightings Kenya
-- Purchase full board Kenya safari tour
-- Reserve Lewa Wildlife Conservancy package booking
-- Book 14 day grand Kenya safari package
+- 'Honeymoon package Kenya safari and Zanzibar beach reviews'
+- 'Safari company specializing in big cat sightings Kenya'
+- 'Purchase full board Kenya safari tour'
+- 'Reserve Lewa Wildlife Conservancy package booking'
+- 'Book 14 day grand Kenya safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

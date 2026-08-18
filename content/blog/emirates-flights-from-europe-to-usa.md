@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Europe to Usa: Complete Guide'
-description: Everything you need to know about emirates flights from europe to usa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from europe to usa, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-europe-to-usa
-primary_keyword: emirates flights from europe to usa
+primary_keyword: 'emirates flights from europe to usa'
 secondary_keywords:
-- turkish airlines flights from nairobi
-- turkish airlines lounge nairobi cost
-- turkish airlines nairobi opening hours
-- turkish airlines lounge nairobi photos
-- turkish airlines customer service nairobi
+- 'turkish airlines flights from nairobi'
+- 'turkish airlines lounge nairobi cost'
+- 'turkish airlines nairobi opening hours'
+- 'turkish airlines lounge nairobi photos'
+- 'turkish airlines customer service nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

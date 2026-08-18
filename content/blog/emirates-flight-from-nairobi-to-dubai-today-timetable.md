@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight from Nairobi to Dubai Today Timetable: Complete Guide'
-description: Everything you need to know about emirates flight from nairobi to dubai today timetable, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight from nairobi to dubai today timetable, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-from-nairobi-to-dubai-today-timetable
-primary_keyword: emirates flight from nairobi to dubai today timetable
+primary_keyword: 'emirates flight from nairobi to dubai today timetable'
 secondary_keywords:
-- flight from kenya to or tambo
-- flights from kenya to portugal
-- flights to poland from kenya
-- flights from kenya to rome
-- flights from kenya to swaziland
+- 'flight from kenya to or tambo'
+- 'flights from kenya to portugal'
+- 'flights to poland from kenya'
+- 'flights from kenya to rome'
+- 'flights from kenya to swaziland'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

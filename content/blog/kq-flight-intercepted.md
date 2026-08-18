@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight Intercepted: Complete Guide'
-description: Everything you need to know about kq flight intercepted, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight intercepted, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-intercepted
-primary_keyword: kq flight intercepted
+primary_keyword: 'kq flight intercepted'
 secondary_keywords:
-- etihad flight from nairobi to abu dhabi
-- flight from frankfurt to nairobi today
-- flight time from nairobi to ghana
-- how much is a flight from nairobi to dubai
-- flight from nairobi to johannesburg today
+- 'etihad flight from nairobi to abu dhabi'
+- 'flight from frankfurt to nairobi today'
+- 'flight time from nairobi to ghana'
+- 'how much is a flight from nairobi to dubai'
+- 'flight from nairobi to johannesburg today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

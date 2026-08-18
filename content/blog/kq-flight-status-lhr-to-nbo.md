@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight Status Lhr to Nbo: Complete Guide'
-description: Everything you need to know about kq flight status lhr to nbo, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight status lhr to nbo, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-status-lhr-to-nbo
-primary_keyword: kq flight status lhr to nbo
+primary_keyword: 'kq flight status lhr to nbo'
 secondary_keywords:
-- flights to netherlands from nairobi
-- flights from nairobi to perth australia
-- airfare from nairobi to qatar
-- rwandair flights from nairobi to johannesburg
-- super metro flights from nairobi to mombasa
+- 'flights to netherlands from nairobi'
+- 'flights from nairobi to perth australia'
+- 'airfare from nairobi to qatar'
+- 'rwandair flights from nairobi to johannesburg'
+- 'super metro flights from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

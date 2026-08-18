@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Orlando Today: Complete Guide'
-description: Everything you need to know about emirates flights from orlando today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from orlando today, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-orlando-today
-primary_keyword: emirates flights from orlando today
+primary_keyword: 'emirates flights from orlando today'
 secondary_keywords:
-- ethiopian airlines arrival nairobi
-- ethiopian airlines from nairobi to doha price today
-- ethiopian airlines nairobi number
-- ethiopian airline ticket from kenya to qatar
-- flights nairobi to malindi
+- 'ethiopian airlines arrival nairobi'
+- 'ethiopian airlines from nairobi to doha price today'
+- 'ethiopian airlines nairobi number'
+- 'ethiopian airline ticket from kenya to qatar'
+- 'flights nairobi to malindi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

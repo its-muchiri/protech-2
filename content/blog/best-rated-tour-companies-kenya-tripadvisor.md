@@ -1,14 +1,14 @@
 ---
 title: 'Best Rated Tour Companies Kenya TripAdvisor: Complete Guide'
-description: Kenya safari guide covering best rated tour companies kenya tripadvisor, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering best rated tour companies kenya tripadvisor, including what is included, pricing, and booking advice.'
 slug: best-rated-tour-companies-kenya-tripadvisor
-primary_keyword: Best rated tour companies Kenya TripAdvisor
+primary_keyword: 'Best rated tour companies Kenya TripAdvisor'
 secondary_keywords:
-- Kenya safari deals
-- Luxury safari lodges Kenya
-- Kenya game drives
-- Bush breakfast Kenya safari
-- Bird species Kenya safari
+- 'Kenya safari deals'
+- 'Luxury safari lodges Kenya'
+- 'Kenya game drives'
+- 'Bush breakfast Kenya safari'
+- 'Bird species Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

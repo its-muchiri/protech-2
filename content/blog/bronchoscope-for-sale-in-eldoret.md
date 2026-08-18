@@ -1,14 +1,14 @@
 ---
 title: 'Bronchoscope for Sale in Eldoret: 2026 Price Guide'
-description: Kenya buying guide to bronchoscope for sale in eldoret. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to bronchoscope for sale in eldoret. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: bronchoscope-for-sale-in-eldoret
-primary_keyword: Bronchoscope for sale in Eldoret
+primary_keyword: 'Bronchoscope for sale in Eldoret'
 secondary_keywords:
-- Trinocular microscope for laboratory use in Nairobi
-- Spectrophotometer price in Kenya
-- Gynecology surgery instruments in Eldoret
-- Surgical diathermy machine price in Eldoret
-- Sterilization pouches and rolls suppliers
+- 'Trinocular microscope for laboratory use in Nairobi'
+- 'Spectrophotometer price in Kenya'
+- 'Gynecology surgery instruments in Eldoret'
+- 'Surgical diathermy machine price in Eldoret'
+- 'Sterilization pouches and rolls suppliers'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

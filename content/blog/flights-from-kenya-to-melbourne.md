@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Melbourne: Complete Guide'
-description: Everything you need to know about flights from kenya to melbourne, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to melbourne, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-melbourne
-primary_keyword: flights from kenya to melbourne
+primary_keyword: 'flights from kenya to melbourne'
 secondary_keywords:
-- emirates flights from australia
-- emirates flights from bangalore to dubai
-- emirates flights from cairo to dubai
-- emirates flights from dubai to manchester today
-- emirates flights to europe from dubai
+- 'emirates flights from australia'
+- 'emirates flights from bangalore to dubai'
+- 'emirates flights from cairo to dubai'
+- 'emirates flights from dubai to manchester today'
+- 'emirates flights to europe from dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Wichita Ks to Nairobi Kenya: Complete Guide'
-description: Everything you need to know about flights from wichita ks to nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from wichita ks to nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-wichita-ks-to-nairobi-kenya
-primary_keyword: flights from wichita ks to nairobi kenya
+primary_keyword: 'flights from wichita ks to nairobi kenya'
 secondary_keywords:
-- ethiopian airlines nairobi reviews
-- flights nairobi to johannesburg
-- flights from saudi arabia to nairobi
-- ba flights nairobi to london today
-- cheap flights nairobi to dubai
+- 'ethiopian airlines nairobi reviews'
+- 'flights nairobi to johannesburg'
+- 'flights from saudi arabia to nairobi'
+- 'ba flights nairobi to london today'
+- 'cheap flights nairobi to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

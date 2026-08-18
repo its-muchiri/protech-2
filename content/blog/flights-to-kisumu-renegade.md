@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Kisumu Renegade: Complete Guide'
-description: Everything you need to know about flights to kisumu renegade, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to kisumu renegade, including routes, airlines, booking tips, and fares.'
 slug: flights-to-kisumu-renegade
-primary_keyword: flights to kisumu renegade
+primary_keyword: 'flights to kisumu renegade'
 secondary_keywords:
-- turkish airlines jkia
-- turkish airlines pet allowance
-- 1 turkish lira to kenyan shillings
-- ethiopian airlines nairobi to addis ababa price
-- ethiopian airline office in nairobi telephone number
+- 'turkish airlines jkia'
+- 'turkish airlines pet allowance'
+- '1 turkish lira to kenyan shillings'
+- 'ethiopian airlines nairobi to addis ababa price'
+- 'ethiopian airline office in nairobi telephone number'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

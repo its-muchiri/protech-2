@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Mauritius: Complete Guide'
-description: Everything you need to know about flight from nairobi to mauritius, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to mauritius, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-mauritius
-primary_keyword: flight from nairobi to mauritius
+primary_keyword: 'flight from nairobi to mauritius'
 secondary_keywords:
-- are there flights from mombasa to lamu
-- does british airways fly to dhaka
-- cheap flights from mombasa to london heathrow
-- flights from entebbe to mombasa
-- flights from gatwick to mombasa kenya
+- 'are there flights from mombasa to lamu'
+- 'does british airways fly to dhaka'
+- 'cheap flights from mombasa to london heathrow'
+- 'flights from entebbe to mombasa'
+- 'flights from gatwick to mombasa kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

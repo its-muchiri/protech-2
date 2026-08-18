@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Nairobi Reviews: Complete Guide'
-description: Everything you need to know about ethiopian airlines nairobi reviews, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines nairobi reviews, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-nairobi-reviews
-primary_keyword: ethiopian airlines nairobi reviews
+primary_keyword: 'ethiopian airlines nairobi reviews'
 secondary_keywords:
-- flight from kisumu to maasai mara
-- skyward flights from kisumu to nairobi
-- kq flights from eldoret to nairobi price
-- flights in eldoret
-- kq flights from eldoret to mombasa
+- 'flight from kisumu to maasai mara'
+- 'skyward flights from kisumu to nairobi'
+- 'kq flights from eldoret to nairobi price'
+- 'flights in eldoret'
+- 'kq flights from eldoret to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

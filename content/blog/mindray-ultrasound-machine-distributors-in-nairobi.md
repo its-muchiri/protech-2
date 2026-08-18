@@ -1,14 +1,14 @@
 ---
 title: 'Mindray Ultrasound Machine Distributors in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to mindray ultrasound machine distributors in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to mindray ultrasound machine distributors in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: mindray-ultrasound-machine-distributors-in-nairobi
-primary_keyword: Mindray ultrasound machine distributors in Nairobi
+primary_keyword: 'Mindray ultrasound machine distributors in Nairobi'
 secondary_keywords:
-- Transport ventilator for ambulance
-- Laser therapy machine for pain relief in Nairobi
-- Posture mirror for clinic
-- Dental X-ray film and developer suppliers
-- How much does it cost to set up a dental clinic in Kenya
+- 'Transport ventilator for ambulance'
+- 'Laser therapy machine for pain relief in Nairobi'
+- 'Posture mirror for clinic'
+- 'Dental X-ray film and developer suppliers'
+- 'How much does it cost to set up a dental clinic in Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

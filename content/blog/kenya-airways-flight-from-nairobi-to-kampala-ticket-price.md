@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from Nairobi to Kampala Ticket Price: Complete Guide'
-description: Everything you need to know about kenya airways flight from nairobi to kampala ticket price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from nairobi to kampala ticket price, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-nairobi-to-kampala-ticket-price
-primary_keyword: kenya airways flight from nairobi to kampala ticket price
+primary_keyword: 'kenya airways flight from nairobi to kampala ticket price'
 secondary_keywords:
-- flights from kenya to dc
-- kenya airways flights from eldoret to nairobi
-- flights from victoria falls zimbabwe to nairobi kenya
-- flights from gaborone to kenya
-- cheap flights from heathrow to nairobi kenya
+- 'flights from kenya to dc'
+- 'kenya airways flights from eldoret to nairobi'
+- 'flights from victoria falls zimbabwe to nairobi kenya'
+- 'flights from gaborone to kenya'
+- 'cheap flights from heathrow to nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

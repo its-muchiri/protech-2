@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from New Zealand to South Africa: Complete Guide'
-description: Everything you need to know about emirates flights from new zealand to south africa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from new zealand to south africa, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-new-zealand-to-south-africa
-primary_keyword: emirates flights from new zealand to south africa
+primary_keyword: 'emirates flights from new zealand to south africa'
 secondary_keywords:
-- has ba65 flight from london from nairobi departed
-- how do i contact turkish airlines
-- does turkish airlines allow pets in business class
-- turkish airlines in nairobi
-- turkish airlines nairobi to london
+- 'has ba65 flight from london from nairobi departed'
+- 'how do i contact turkish airlines'
+- 'does turkish airlines allow pets in business class'
+- 'turkish airlines in nairobi'
+- 'turkish airlines nairobi to london'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

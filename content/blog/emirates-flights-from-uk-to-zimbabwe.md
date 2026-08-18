@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Uk to Zimbabwe: Complete Guide'
-description: Everything you need to know about emirates flights from uk to zimbabwe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from uk to zimbabwe, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-uk-to-zimbabwe
-primary_keyword: emirates flights from uk to zimbabwe
+primary_keyword: 'emirates flights from uk to zimbabwe'
 secondary_keywords:
-- qatar airways from nairobi to qatar
-- kq flights from nairobi to china today
-- kq flight from nairobi to mombasa
-- kq flight from kenya to dubai
-- flights to ukunda from jkia
+- 'qatar airways from nairobi to qatar'
+- 'kq flights from nairobi to china today'
+- 'kq flight from nairobi to mombasa'
+- 'kq flight from kenya to dubai'
+- 'flights to ukunda from jkia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

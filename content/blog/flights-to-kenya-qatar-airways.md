@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Kenya Qatar Airways: Complete Guide'
-description: Everything you need to know about flights to kenya qatar airways, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to kenya qatar airways, including routes, airlines, booking tips, and fares.'
 slug: flights-to-kenya-qatar-airways
-primary_keyword: flights to kenya qatar airways
+primary_keyword: 'flights to kenya qatar airways'
 secondary_keywords:
-- how much does a flight to kenya cost
-- cheapest local flights in kenya
-- ethiopian airlines in kenya
-- flights to kenya heathrow
-- cheap flights to kenya in june
+- 'how much does a flight to kenya cost'
+- 'cheapest local flights in kenya'
+- 'ethiopian airlines in kenya'
+- 'flights to kenya heathrow'
+- 'cheap flights to kenya in june'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

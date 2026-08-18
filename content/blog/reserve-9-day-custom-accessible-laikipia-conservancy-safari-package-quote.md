@@ -1,14 +1,14 @@
 ---
 title: 'Reserve 9 Day Custom Accessible Laikipia Conservancy Safari Package Quote: Complete Guide'
-description: Kenya safari guide covering reserve 9 day custom accessible laikipia conservancy safari package quote, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve 9 day custom accessible laikipia conservancy safari package quote, including what is included, pricing, and booking advice.'
 slug: reserve-9-day-custom-accessible-laikipia-conservancy-safari-package-quote
-primary_keyword: Reserve 9 day custom accessible Laikipia conservancy safari package quote
+primary_keyword: 'Reserve 9 day custom accessible Laikipia conservancy safari package quote'
 secondary_keywords:
-- Find Kenya safari tour with hot springs visit package USA Lake Bogoria deals
-- Book paragliding safari Kerio Valley Kenya experience USA adventure sports booking cost
-- Kenya wildlife safari
-- Safari Masai Mara
-- Lake Naivasha safari
+- 'Find Kenya safari tour with hot springs visit package USA Lake Bogoria deals'
+- 'Book paragliding safari Kerio Valley Kenya experience USA adventure sports booking cost'
+- 'Kenya wildlife safari'
+- 'Safari Masai Mara'
+- 'Lake Naivasha safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Quote 7 Day Kicheche Camps Migration Special Package July Booking: Complete Guide'
-description: Kenya safari guide covering quote 7 day kicheche camps migration special package july booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering quote 7 day kicheche camps migration special package july booking, including what is included, pricing, and booking advice.'
 slug: quote-7-day-kicheche-camps-migration-special-package-july-booking
-primary_keyword: Quote 7 day Kicheche Camps migration special package July booking
+primary_keyword: 'Quote 7 day Kicheche Camps migration special package July booking'
 secondary_keywords:
-- Southern Cross Safaris Kenya Mombasa based
-- Packing list for Kenya safari clothes / gear recommendations
-- Tour guide qualifications Kenya KPSGA certification
-- Archaeological tours Kenya Koobi Fora / Olorgesailie
-- Buy Kenya safari package from USA
+- 'Southern Cross Safaris Kenya Mombasa based'
+- 'Packing list for Kenya safari clothes / gear recommendations'
+- 'Tour guide qualifications Kenya KPSGA certification'
+- 'Archaeological tours Kenya Koobi Fora / Olorgesailie'
+- 'Buy Kenya safari package from USA'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

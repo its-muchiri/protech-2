@@ -1,14 +1,14 @@
 ---
 title: 'Lake Nakuru Lodges Price (Sarova Lion Hill, Lake Nakuru Lodge): Complete Guide'
-description: Kenya safari guide covering lake nakuru lodges price (sarova lion hill, lake nakuru lodge), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering lake nakuru lodges price (sarova lion hill, lake nakuru lodge), including what is included, pricing, and booking advice.'
 slug: lake-nakuru-lodges-price-sarova-lion-hill-lake-nakuru-lodge
-primary_keyword: Lake Nakuru lodges price (Sarova Lion Hill, Lake Nakuru Lodge)
+primary_keyword: 'Lake Nakuru lodges price (Sarova Lion Hill, Lake Nakuru Lodge)'
 secondary_keywords:
-- Kenya e-Visa application official website / cost 2025
-- How to check if a Kenya tour company is legitimate
-- Camel safari Samburu / Laikipia operators
-- Direct Booking/Purchase Intent (Book, Buy, Purchase, Reserve)
-- Book Kenya camping safari adventure Europe budget
+- 'Kenya e-Visa application official website / cost 2025'
+- 'How to check if a Kenya tour company is legitimate'
+- 'Camel safari Samburu / Laikipia operators'
+- 'Direct Booking/Purchase Intent (Book, Buy, Purchase, Reserve)'
+- 'Book Kenya camping safari adventure Europe budget'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kq 586 Flight Status: Complete Guide'
-description: Everything you need to know about kq 586 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 586 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq-586-flight-status
-primary_keyword: kq 586 flight status
+primary_keyword: 'kq 586 flight status'
 secondary_keywords:
-- flights from seattle to nairobi kenya
-- cheap flights to kenya from usa
-- flights from burlington vt to nairobi kenya
-- flights from kenya to new york
-- cheap flights from new york to kenya
+- 'flights from seattle to nairobi kenya'
+- 'cheap flights to kenya from usa'
+- 'flights from burlington vt to nairobi kenya'
+- 'flights from kenya to new york'
+- 'cheap flights from new york to kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Great Rift Valley Lakes Safari Cost USA Birding Focus: Complete Guide'
-description: Kenya safari guide covering great rift valley lakes safari cost usa birding focus, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering great rift valley lakes safari cost usa birding focus, including what is included, pricing, and booking advice.'
 slug: great-rift-valley-lakes-safari-cost-usa-birding-focus
-primary_keyword: Great Rift Valley lakes safari cost USA birding focus
+primary_keyword: 'Great Rift Valley lakes safari cost USA birding focus'
 secondary_keywords:
-- Book tea plantation tour Limuru safari add-on Kenya Europe agricultural tourism booking
-- Kenya safari
-- Go on safari Kenya
-- Ol Pejeta Conservancy safari
-- Cheap Kenya safari
+- 'Book tea plantation tour Limuru safari add-on Kenya Europe agricultural tourism booking'
+- 'Kenya safari'
+- 'Go on safari Kenya'
+- 'Ol Pejeta Conservancy safari'
+- 'Cheap Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

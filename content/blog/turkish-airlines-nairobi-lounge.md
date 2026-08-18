@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Nairobi Lounge: Complete Guide'
-description: Everything you need to know about turkish airlines nairobi lounge, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines nairobi lounge, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-nairobi-lounge
-primary_keyword: turkish airlines nairobi lounge
+primary_keyword: 'turkish airlines nairobi lounge'
 secondary_keywords:
-- emirates flight from kenya to dubai today status
-- emirates flight from kenya to dubai today status tomorrow
-- how much is emirates from kenya to dubai
-- fly emirates kenya
-- emirates 722
+- 'emirates flight from kenya to dubai today status'
+- 'emirates flight from kenya to dubai today status tomorrow'
+- 'how much is emirates from kenya to dubai'
+- 'fly emirates kenya'
+- 'emirates 722'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

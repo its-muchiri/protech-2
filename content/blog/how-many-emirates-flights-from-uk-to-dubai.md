@@ -1,14 +1,14 @@
 ---
 title: 'How Many Emirates Flights from Uk to Dubai: Complete Guide'
-description: Everything you need to know about how many emirates flights from uk to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how many emirates flights from uk to dubai, including routes, airlines, booking tips, and fares.'
 slug: how-many-emirates-flights-from-uk-to-dubai
-primary_keyword: how many emirates flights from uk to dubai
+primary_keyword: 'how many emirates flights from uk to dubai'
 secondary_keywords:
-- kenya airways requirements
-- kq flights from nairobi to entebbe today
-- kq flight from nairobi to johannesburg
-- kenya airways flight schedule london to nairobi
-- kenya airways flight schedule nairobi to lusaka
+- 'kenya airways requirements'
+- 'kq flights from nairobi to entebbe today'
+- 'kq flight from nairobi to johannesburg'
+- 'kenya airways flight schedule london to nairobi'
+- 'kenya airways flight schedule nairobi to lusaka'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

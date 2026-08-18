@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Flight from Nairobi to Istanbul: Complete Guide'
-description: Everything you need to know about turkish airlines flight from nairobi to istanbul, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines flight from nairobi to istanbul, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-flight-from-nairobi-to-istanbul
-primary_keyword: turkish airlines flight from nairobi to istanbul
+primary_keyword: 'turkish airlines flight from nairobi to istanbul'
 secondary_keywords:
-- cheapest flights from kenya
-- are there direct flights from kenya to canada
-- cheap flights from birmingham to nairobi kenya
-- cheap flights from kenya to south africa
-- flights from kenya to europe
+- 'cheapest flights from kenya'
+- 'are there direct flights from kenya to canada'
+- 'cheap flights from birmingham to nairobi kenya'
+- 'cheap flights from kenya to south africa'
+- 'flights from kenya to europe'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

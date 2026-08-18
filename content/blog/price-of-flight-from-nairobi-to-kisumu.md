@@ -1,14 +1,14 @@
 ---
 title: 'Price of Flight from Nairobi to Kisumu: Complete Guide'
-description: Everything you need to know about price of flight from nairobi to kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about price of flight from nairobi to kisumu, including routes, airlines, booking tips, and fares.'
 slug: price-of-flight-from-nairobi-to-kisumu
-primary_keyword: price of flight from nairobi to kisumu
+primary_keyword: 'price of flight from nairobi to kisumu'
 secondary_keywords:
-- turkish airlines reference number
-- jkia turkish airlines terminal
-- turkish airlines jobs in kenya
-- turkish airlines 607
-- ethiopian airlines nairobi to addis ababa schedule
+- 'turkish airlines reference number'
+- 'jkia turkish airlines terminal'
+- 'turkish airlines jobs in kenya'
+- 'turkish airlines 607'
+- 'ethiopian airlines nairobi to addis ababa schedule'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

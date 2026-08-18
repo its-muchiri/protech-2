@@ -1,14 +1,14 @@
 ---
 title: 'Sustainable Tourism Kenya Safari: Complete Guide'
-description: Kenya safari guide covering sustainable tourism kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering sustainable tourism kenya safari, including what is included, pricing, and booking advice.'
 slug: sustainable-tourism-kenya-safari
-primary_keyword: Sustainable tourism Kenya safari
+primary_keyword: 'Sustainable tourism Kenya safari'
 secondary_keywords:
-- Long duration Kenya safari
-- Tipping guide Kenya safari
-- Camping sites Kenya parks
-- Things to do on Kenya safari
-- Lion safari Kenya
+- 'Long duration Kenya safari'
+- 'Tipping guide Kenya safari'
+- 'Camping sites Kenya parks'
+- 'Things to do on Kenya safari'
+- 'Lion safari Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

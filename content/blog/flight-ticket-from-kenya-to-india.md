@@ -1,14 +1,14 @@
 ---
 title: 'Flight Ticket from Kenya to India: Complete Guide'
-description: Everything you need to know about flight ticket from kenya to india, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight ticket from kenya to india, including routes, airlines, booking tips, and fares.'
 slug: flight-ticket-from-kenya-to-india
-primary_keyword: flight ticket from kenya to india
+primary_keyword: 'flight ticket from kenya to india'
 secondary_keywords:
-- emirates flight from washington dc to dubai
-- emirates flights from new york to europe
-- emirates flight from zimbabwe to dubai
-- emirates flights 19 august
-- emirates flights 2023
+- 'emirates flight from washington dc to dubai'
+- 'emirates flights from new york to europe'
+- 'emirates flight from zimbabwe to dubai'
+- 'emirates flights 19 august'
+- 'emirates flights 2023'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

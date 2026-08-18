@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Jfk: Complete Guide'
-description: Everything you need to know about flight from nairobi to jfk, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to jfk, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-jfk
-primary_keyword: flight from nairobi to jfk
+primary_keyword: 'flight from nairobi to jfk'
 secondary_keywords:
-- flight price from nairobi to turkey
-- return flight from nairobi to cape town
-- time taken by flight from nairobi to mombasa
-- safarilink flight from ukunda to nairobi
-- flight from nairobi to windhoek
+- 'flight price from nairobi to turkey'
+- 'return flight from nairobi to cape town'
+- 'time taken by flight from nairobi to mombasa'
+- 'safarilink flight from ukunda to nairobi'
+- 'flight from nairobi to windhoek'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

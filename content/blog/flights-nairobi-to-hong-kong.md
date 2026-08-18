@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Hong Kong: Complete Guide'
-description: Everything you need to know about flights nairobi to hong kong, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to hong kong, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-hong-kong
-primary_keyword: flights nairobi to hong kong
+primary_keyword: 'flights nairobi to hong kong'
 secondary_keywords:
-- flights from al qaisumah to dubai united arab emirates
-- when will emirates resume flights from adelaide 2023
-- emirates flights from tehran to toronto
-- emirates flights from venice to dubai
-- emirates flights from washington dc
+- 'flights from al qaisumah to dubai united arab emirates'
+- 'when will emirates resume flights from adelaide 2023'
+- 'emirates flights from tehran to toronto'
+- 'emirates flights from venice to dubai'
+- 'emirates flights from washington dc'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

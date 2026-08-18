@@ -1,14 +1,14 @@
 ---
 title: 'Spectrophotometer Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to spectrophotometer price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to spectrophotometer price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: spectrophotometer-price-in-kenya
-primary_keyword: Spectrophotometer price in Kenya
+primary_keyword: 'Spectrophotometer price in Kenya'
 secondary_keywords:
-- horse stocks and examination equipment
-- chest seal for penetrating trauma
-- telemedicine equipment providers in Kenya
-- clinic design and layout services
-- where to buy medical supplies Kenya
+- 'horse stocks and examination equipment'
+- 'chest seal for penetrating trauma'
+- 'telemedicine equipment providers in Kenya'
+- 'clinic design and layout services'
+- 'where to buy medical supplies Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

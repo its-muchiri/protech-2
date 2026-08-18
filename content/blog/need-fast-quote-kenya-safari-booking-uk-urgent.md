@@ -1,14 +1,14 @@
 ---
 title: 'Need Fast Quote Kenya Safari Booking UK Urgent: Complete Guide'
-description: Kenya safari guide covering need fast quote kenya safari booking uk urgent, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering need fast quote kenya safari booking uk urgent, including what is included, pricing, and booking advice.'
 slug: need-fast-quote-kenya-safari-booking-uk-urgent
-primary_keyword: Need fast quote Kenya safari booking UK urgent
+primary_keyword: 'Need fast quote Kenya safari booking UK urgent'
 secondary_keywords:
-- Cost quote 4 day Tsavo lodge safari package from Mombasa
-- Laikipia luxury safari deals online
-- Small group Kenya safari package special offers
-- Tsavo safari trip plan purchase
-- Masai Mara package cost
+- 'Cost quote 4 day Tsavo lodge safari package from Mombasa'
+- 'Laikipia luxury safari deals online'
+- 'Small group Kenya safari package special offers'
+- 'Tsavo safari trip plan purchase'
+- 'Masai Mara package cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

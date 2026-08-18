@@ -1,14 +1,14 @@
 ---
 title: 'I-fly Air Booking: Complete Guide'
-description: Everything you need to know about i-fly air booking, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about i-fly air booking, including routes, airlines, booking tips, and fares.'
 slug: i-fly-air-booking
-primary_keyword: i-fly air booking
+primary_keyword: 'i-fly air booking'
 secondary_keywords:
-- flights from kuala lumpur to nairobi kenya
-- flights to kenya from lax
-- mauritius flights from kenya
-- flight from kenya to orlando
-- flights from omaha to kenya
+- 'flights from kuala lumpur to nairobi kenya'
+- 'flights to kenya from lax'
+- 'mauritius flights from kenya'
+- 'flight from kenya to orlando'
+- 'flights from omaha to kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

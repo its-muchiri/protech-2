@@ -1,14 +1,14 @@
 ---
 title: 'Safarilink Flights from Kisumu to Mombasa: Complete Guide'
-description: Everything you need to know about safarilink flights from kisumu to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about safarilink flights from kisumu to mombasa, including routes, airlines, booking tips, and fares.'
 slug: safarilink-flights-from-kisumu-to-mombasa
-primary_keyword: safarilink flights from kisumu to mombasa
+primary_keyword: 'safarilink flights from kisumu to mombasa'
 secondary_keywords:
-- emirates flights from gatwick today
-- how many emirates flights from uk to dubai
-- emirates flights to india from uk
-- emirates flights from johannesburg to dublin
-- emirates flights from london to dubai
+- 'emirates flights from gatwick today'
+- 'how many emirates flights from uk to dubai'
+- 'emirates flights to india from uk'
+- 'emirates flights from johannesburg to dublin'
+- 'emirates flights from london to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

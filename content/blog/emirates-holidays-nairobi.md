@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Holidays Nairobi: Complete Guide'
-description: Everything you need to know about emirates holidays nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates holidays nairobi, including routes, airlines, booking tips, and fares.'
 slug: emirates-holidays-nairobi
-primary_keyword: emirates holidays nairobi
+primary_keyword: 'emirates holidays nairobi'
 secondary_keywords:
-- is kenya airways a safe airline
-- kenya airways flight from nairobi to lusaka
-- kenya airways flight from nairobi to mombasa ticket price
-- kenya airways flight 431 survivors
-- flight from nairobi to accra
+- 'is kenya airways a safe airline'
+- 'kenya airways flight from nairobi to lusaka'
+- 'kenya airways flight from nairobi to mombasa ticket price'
+- 'kenya airways flight 431 survivors'
+- 'flight from nairobi to accra'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

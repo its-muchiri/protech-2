@@ -1,14 +1,14 @@
 ---
 title: 'Houston to Nairobi Flights: Complete Guide'
-description: Everything you need to know about houston to nairobi flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about houston to nairobi flights, including routes, airlines, booking tips, and fares.'
 slug: houston-to-nairobi-flights
-primary_keyword: houston to nairobi flights
+primary_keyword: 'houston to nairobi flights'
 secondary_keywords:
-- emirates flights from stansted
-- emirates flights from toronto to india
-- emirates flights from vienna
-- emirates flights from which terminal
-- emirates flights from new york to dubai
+- 'emirates flights from stansted'
+- 'emirates flights from toronto to india'
+- 'emirates flights from vienna'
+- 'emirates flights from which terminal'
+- 'emirates flights from new york to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

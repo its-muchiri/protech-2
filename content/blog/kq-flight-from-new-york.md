@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from New York: Complete Guide'
-description: Everything you need to know about kq flight from new york, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from new york, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-new-york
-primary_keyword: kq flight from new york
+primary_keyword: 'kq flight from new york'
 secondary_keywords:
-- how much is kq flight from nairobi to mombasa
-- kenya airways flight from nairobi to accra
-- kenya airways flight from nairobi to new delhi
-- how much is kq flight from nairobi to eldoret
-- kenya airways flight from nairobi to lagos today
+- 'how much is kq flight from nairobi to mombasa'
+- 'kenya airways flight from nairobi to accra'
+- 'kenya airways flight from nairobi to new delhi'
+- 'how much is kq flight from nairobi to eldoret'
+- 'kenya airways flight from nairobi to lagos today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

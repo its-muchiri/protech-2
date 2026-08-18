@@ -1,14 +1,14 @@
 ---
 title: 'Veterinary Hematology Analyzer Price in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to veterinary hematology analyzer price in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to veterinary hematology analyzer price in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: veterinary-hematology-analyzer-price-in-nairobi
-primary_keyword: Veterinary hematology analyzer price in Nairobi
+primary_keyword: 'Veterinary hematology analyzer price in Nairobi'
 secondary_keywords:
-- Autoclave suppliers in Kericho
-- First aid kits for schools in Kiambu County
-- Hospital bed dealers in Eldoret
-- Open MRI scanner suppliers in Nairobi
-- Chison EBit 60 price in Kenya
+- 'Autoclave suppliers in Kericho'
+- 'First aid kits for schools in Kiambu County'
+- 'Hospital bed dealers in Eldoret'
+- 'Open MRI scanner suppliers in Nairobi'
+- 'Chison EBit 60 price in Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

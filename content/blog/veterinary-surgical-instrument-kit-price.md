@@ -1,14 +1,14 @@
 ---
 title: 'Veterinary Surgical Instrument Kit Price: 2026 Price Guide'
-description: Kenya buying guide to veterinary surgical instrument kit price. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to veterinary surgical instrument kit price. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: veterinary-surgical-instrument-kit-price
-primary_keyword: Veterinary surgical instrument kit price
+primary_keyword: 'Veterinary surgical instrument kit price'
 secondary_keywords:
-- Veterinary endoscope for sale in Eldoret
-- Milking machine price in Kenya
-- AED (Automated External Defibrillator) price in Kenya
-- Trial lens set and frame suppliers
-- Wound dressing and bandages bulk purchase
+- 'Veterinary endoscope for sale in Eldoret'
+- 'Milking machine price in Kenya'
+- 'AED (Automated External Defibrillator) price in Kenya'
+- 'Trial lens set and frame suppliers'
+- 'Wound dressing and bandages bulk purchase'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

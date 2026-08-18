@@ -1,14 +1,14 @@
 ---
 title: 'Veterinary Ultrasound Scanner for Sale in Nakuru: 2026 Price Guide'
-description: Kenya buying guide to veterinary ultrasound scanner for sale in nakuru. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to veterinary ultrasound scanner for sale in nakuru. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: veterinary-ultrasound-scanner-for-sale-in-nakuru
-primary_keyword: Veterinary ultrasound scanner for sale in Nakuru
+primary_keyword: 'Veterinary ultrasound scanner for sale in Nakuru'
 secondary_keywords:
-- medical supplies for community health Kenya
-- diabetic care products Kenya
-- Philips CT scanner distributors in Kisumu
-- Echocardiography machine price in Kenya
-- Fluoroscopy machine for sale in Kenya
+- 'medical supplies for community health Kenya'
+- 'diabetic care products Kenya'
+- 'Philips CT scanner distributors in Kisumu'
+- 'Echocardiography machine price in Kenya'
+- 'Fluoroscopy machine for sale in Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

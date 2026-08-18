@@ -1,14 +1,14 @@
 ---
 title: 'Ek Flight Nairobi To.dubai: Complete Guide'
-description: Everything you need to know about ek flight nairobi to.dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ek flight nairobi to.dubai, including routes, airlines, booking tips, and fares.'
 slug: ek-flight-nairobi-to-dubai
-primary_keyword: ek flight nairobi to.dubai
+primary_keyword: 'ek flight nairobi to.dubai'
 secondary_keywords:
-- zurich to nairobi flights
-- cheap flights nairobi to ukunda
-- emirates flights from adelaide to dubai
-- emirates flights from beirut to dubai
-- emirates flights from colombo to dubai
+- 'zurich to nairobi flights'
+- 'cheap flights nairobi to ukunda'
+- 'emirates flights from adelaide to dubai'
+- 'emirates flights from beirut to dubai'
+- 'emirates flights from colombo to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

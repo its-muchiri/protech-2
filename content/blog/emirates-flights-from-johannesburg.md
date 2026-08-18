@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Johannesburg: Complete Guide'
-description: Everything you need to know about emirates flights from johannesburg, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from johannesburg, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-johannesburg
-primary_keyword: emirates flights from johannesburg
+primary_keyword: 'emirates flights from johannesburg'
 secondary_keywords:
-- flight from nairobi to amsterdam time
-- flight from nairobi to berlin
-- flight from nairobi to cairo
-- flight from nairobi to doha
-- flight from england to nairobi
+- 'flight from nairobi to amsterdam time'
+- 'flight from nairobi to berlin'
+- 'flight from nairobi to cairo'
+- 'flight from nairobi to doha'
+- 'flight from england to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

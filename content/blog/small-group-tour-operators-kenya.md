@@ -1,14 +1,14 @@
 ---
 title: 'Small Group Tour Operators Kenya: Complete Guide'
-description: Kenya safari guide covering small group tour operators kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering small group tour operators kenya, including what is included, pricing, and booking advice.'
 slug: small-group-tour-operators-kenya
-primary_keyword: Small group tour operators Kenya
+primary_keyword: 'Small group tour operators Kenya'
 secondary_keywords:
-- Luxury Kenya Zanzibar package booking
-- Early bird booking Kenya safari package
-- Best Kenya safari package deals online
-- Book fly-in Kenya safari package all inclusive
-- Reserve Lake Nakuru package
+- 'Luxury Kenya Zanzibar package booking'
+- 'Early bird booking Kenya safari package'
+- 'Best Kenya safari package deals online'
+- 'Book fly-in Kenya safari package all inclusive'
+- 'Reserve Lake Nakuru package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

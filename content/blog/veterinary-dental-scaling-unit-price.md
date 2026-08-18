@@ -1,14 +1,14 @@
 ---
 title: 'Veterinary Dental Scaling Unit Price: 2026 Price Guide'
-description: Kenya buying guide to veterinary dental scaling unit price. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to veterinary dental scaling unit price. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: veterinary-dental-scaling-unit-price
-primary_keyword: Veterinary dental scaling unit price
+primary_keyword: 'Veterinary dental scaling unit price'
 secondary_keywords:
-- Spine board with head immobilizer
-- Bubble CPAP machine for newborns
-- Dental chair unit price in Kenya
-- TENS machine (4-channel) for clinic use
-- Oxygen concentrator for home use rental in Nairobi
+- 'Spine board with head immobilizer'
+- 'Bubble CPAP machine for newborns'
+- 'Dental chair unit price in Kenya'
+- 'TENS machine (4-channel) for clinic use'
+- 'Oxygen concentrator for home use rental in Nairobi'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

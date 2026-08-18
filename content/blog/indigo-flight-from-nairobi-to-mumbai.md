@@ -1,14 +1,14 @@
 ---
 title: 'Indigo Flight from Nairobi to Mumbai: Complete Guide'
-description: Everything you need to know about indigo flight from nairobi to mumbai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about indigo flight from nairobi to mumbai, including routes, airlines, booking tips, and fares.'
 slug: indigo-flight-from-nairobi-to-mumbai
-primary_keyword: indigo flight from nairobi to mumbai
+primary_keyword: 'indigo flight from nairobi to mumbai'
 secondary_keywords:
-- kq flights from nairobi to london heathrow
-- kq flights to jfk
-- kq flights to london
-- kq flights to mogadishu
-- kq flight from paris to nairobi
+- 'kq flights from nairobi to london heathrow'
+- 'kq flights to jfk'
+- 'kq flights to london'
+- 'kq flights to mogadishu'
+- 'kq flight from paris to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

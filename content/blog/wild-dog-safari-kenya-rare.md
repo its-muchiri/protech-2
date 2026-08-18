@@ -1,14 +1,14 @@
 ---
 title: 'Wild Dog Safari Kenya (rare): Complete Guide'
-description: Kenya safari guide covering wild dog safari kenya (rare), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering wild dog safari kenya (rare), including what is included, pricing, and booking advice.'
 slug: wild-dog-safari-kenya-rare
-primary_keyword: Wild dog safari Kenya (rare)
+primary_keyword: 'Wild dog safari Kenya (rare)'
 secondary_keywords:
-- Multi-park Kenya safari
-- Camping Kenya safari
-- Guided Kenya safari
-- 1 day Kenya safari
-- 21 day Kenya safari
+- 'Multi-park Kenya safari'
+- 'Camping Kenya safari'
+- 'Guided Kenya safari'
+- '1 day Kenya safari'
+- '21 day Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

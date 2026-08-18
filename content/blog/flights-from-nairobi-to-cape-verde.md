@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Cape Verde: Complete Guide'
-description: Everything you need to know about flights from nairobi to cape verde, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to cape verde, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-cape-verde
-primary_keyword: flights from nairobi to cape verde
+primary_keyword: 'flights from nairobi to cape verde'
 secondary_keywords:
-- fly emirates nairobi
-- emirates flight from kenya to dubai
-- how much is a flight from nairobi to dubai emirates
-- emirates flights nairobi to london
-- emirates from nairobi to dubai price
+- 'fly emirates nairobi'
+- 'emirates flight from kenya to dubai'
+- 'how much is a flight from nairobi to dubai emirates'
+- 'emirates flights nairobi to london'
+- 'emirates from nairobi to dubai price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

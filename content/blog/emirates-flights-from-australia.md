@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Australia: Complete Guide'
-description: Everything you need to know about emirates flights from australia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from australia, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-australia
-primary_keyword: emirates flights from australia
+primary_keyword: 'emirates flights from australia'
 secondary_keywords:
-- kq flights from kisumu
-- flight from kisumu to nanyuki
-- flights from kisumu to uganda
-- cheap flights from wilson airport to eldoret
-- flight to eldoret price
+- 'kq flights from kisumu'
+- 'flight from kisumu to nanyuki'
+- 'flights from kisumu to uganda'
+- 'cheap flights from wilson airport to eldoret'
+- 'flight to eldoret price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'International Flights Kenya Safari: Complete Guide'
-description: Kenya safari guide covering international flights kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering international flights kenya safari, including what is included, pricing, and booking advice.'
 slug: international-flights-kenya-safari
-primary_keyword: International flights Kenya safari
+primary_keyword: 'International flights Kenya safari'
 secondary_keywords:
-- Kenya safari flash sale booking
-- Kenya fly-in circuit safari package buy
-- Dry season Kenya safari package deals
-- Compare packages from Kenya safari companies
-- Payment options Kenya safari package
+- 'Kenya safari flash sale booking'
+- 'Kenya fly-in circuit safari package buy'
+- 'Dry season Kenya safari package deals'
+- 'Compare packages from Kenya safari companies'
+- 'Payment options Kenya safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

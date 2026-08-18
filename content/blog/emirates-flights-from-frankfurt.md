@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Frankfurt: Complete Guide'
-description: Everything you need to know about emirates flights from frankfurt, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from frankfurt, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-frankfurt
-primary_keyword: emirates flights from frankfurt
+primary_keyword: 'emirates flights from frankfurt'
 secondary_keywords:
-- kenya airways to nairobi today
-- kq flight from nairobi to kisumu
-- kenya airways flight from nairobi to mauritius
-- kenya airways flight from nairobi to usa
-- kenya airways flights from nairobi to ahmedabad
+- 'kenya airways to nairobi today'
+- 'kq flight from nairobi to kisumu'
+- 'kenya airways flight from nairobi to mauritius'
+- 'kenya airways flight from nairobi to usa'
+- 'kenya airways flights from nairobi to ahmedabad'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

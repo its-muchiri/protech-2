@@ -1,14 +1,14 @@
 ---
 title: '7 Day Kenya Safari: Complete Guide'
-description: Kenya safari guide covering 7 day kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering 7 day kenya safari, including what is included, pricing, and booking advice.'
 slug: 7-day-kenya-safari
-primary_keyword: 7 day Kenya safari
+primary_keyword: '7 day Kenya safari'
 secondary_keywords:
-- Unethical Kenya safari operators
-- Safari au Kenya prix (French)
-- Souvenirs Kenya safari
-- Reserve Kenya safari holiday
-- Book guided Kenya safari tour
+- 'Unethical Kenya safari operators'
+- 'Safari au Kenya prix (French)'
+- 'Souvenirs Kenya safari'
+- 'Reserve Kenya safari holiday'
+- 'Book guided Kenya safari tour'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

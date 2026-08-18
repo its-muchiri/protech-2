@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Packages Cost from UK 2025: Complete Guide'
-description: Kenya safari guide covering kenya safari packages cost from uk 2025, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari packages cost from uk 2025, including what is included, pricing, and booking advice.'
 slug: kenya-safari-packages-cost-from-uk-2025
-primary_keyword: Kenya safari packages cost from UK 2025
+primary_keyword: 'Kenya safari packages cost from UK 2025'
 secondary_keywords:
-- Safari starting Nairobi airport agency
-- Tour operators specializing in bird photography Kenya
-- Small group Samburu safari starting Nairobi cost
-- Samburu cultural tour package reliable company
-- Buy custom Kenya safari trip
+- 'Safari starting Nairobi airport agency'
+- 'Tour operators specializing in bird photography Kenya'
+- 'Small group Samburu safari starting Nairobi cost'
+- 'Samburu cultural tour package reliable company'
+- 'Buy custom Kenya safari trip'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

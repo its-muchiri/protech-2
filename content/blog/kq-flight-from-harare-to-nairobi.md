@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Harare to Nairobi: Complete Guide'
-description: Everything you need to know about kq flight from harare to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from harare to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-harare-to-nairobi
-primary_keyword: kq flight from harare to nairobi
+primary_keyword: 'kq flight from harare to nairobi'
 secondary_keywords:
-- kenya airways flights from entebbe to nairobi price
-- cheapest flight from nairobi to dubai
-- air india flight from nairobi to delhi
-- flight from nairobi to busia
-- flight from nairobi to california
+- 'kenya airways flights from entebbe to nairobi price'
+- 'cheapest flight from nairobi to dubai'
+- 'air india flight from nairobi to delhi'
+- 'flight from nairobi to busia'
+- 'flight from nairobi to california'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

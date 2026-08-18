@@ -1,14 +1,14 @@
 ---
 title: 'British Airways Flights from Nairobi Today: Complete Guide'
-description: Everything you need to know about british airways flights from nairobi today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about british airways flights from nairobi today, including routes, airlines, booking tips, and fares.'
 slug: british-airways-flights-from-nairobi-today
-primary_keyword: british airways flights from nairobi today
+primary_keyword: 'british airways flights from nairobi today'
 secondary_keywords:
-- emirates flights from toronto to dubai
-- emirates flights from uk to south africa
-- emirates flights from india to canada via dubai
-- emirates airline passenger information
-- emirates flights from london to new york
+- 'emirates flights from toronto to dubai'
+- 'emirates flights from uk to south africa'
+- 'emirates flights from india to canada via dubai'
+- 'emirates airline passenger information'
+- 'emirates flights from london to new york'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

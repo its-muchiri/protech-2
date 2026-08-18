@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Golfing Safari Packages Great Rift Valley Lodge / Windsor: Complete Guide'
-description: Kenya safari guide covering kenya golfing safari packages great rift valley lodge / windsor, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya golfing safari packages great rift valley lodge / windsor, including what is included, pricing, and booking advice.'
 slug: kenya-golfing-safari-packages-great-rift-valley-lodge-windsor
-primary_keyword: Kenya golfing safari packages Great Rift Valley Lodge / Windsor
+primary_keyword: 'Kenya golfing safari packages Great Rift Valley Lodge / Windsor'
 secondary_keywords:
-- Day trips from Thika tour organizers
-- Airport transfer included safari packages Kenya
-- KATO registered company for Amboseli private photography tour
-- Reviews for  vs  family safari Kenya
-- Buy guided Kenya safari tour
+- 'Day trips from Thika tour organizers'
+- 'Airport transfer included safari packages Kenya'
+- 'KATO registered company for Amboseli private photography tour'
+- 'Reviews for  vs  family safari Kenya'
+- 'Buy guided Kenya safari tour'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

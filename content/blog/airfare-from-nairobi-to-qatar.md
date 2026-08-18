@@ -1,14 +1,14 @@
 ---
 title: 'Airfare from Nairobi to Qatar: Complete Guide'
-description: Everything you need to know about airfare from nairobi to qatar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about airfare from nairobi to qatar, including routes, airlines, booking tips, and fares.'
 slug: airfare-from-nairobi-to-qatar
-primary_keyword: airfare from nairobi to qatar
+primary_keyword: 'airfare from nairobi to qatar'
 secondary_keywords:
-- kenya airways flights from kigali to nairobi price
-- kenya airways flight schedule from mombasa to nairobi
-- kenya airways 1st class
-- flight from nairobi to amsterdam
-- flight from nairobi to bujumbura
+- 'kenya airways flights from kigali to nairobi price'
+- 'kenya airways flight schedule from mombasa to nairobi'
+- 'kenya airways 1st class'
+- 'flight from nairobi to amsterdam'
+- 'flight from nairobi to bujumbura'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

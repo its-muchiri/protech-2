@@ -1,14 +1,14 @@
 ---
 title: 'Echocardiography Machine Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to echocardiography machine price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to echocardiography machine price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: echocardiography-machine-price-in-kenya
-primary_keyword: Echocardiography machine price in Kenya
+primary_keyword: 'Echocardiography machine price in Kenya'
 secondary_keywords:
-- Medical gas pipeline system installation in Kenya
-- Commode wheelchair suppliers in Mombasa
-- Waiting room chairs for a clinic in Nairobi
-- Fetal doppler for sale in Mombasa
-- Defibrillator price in Kenya
+- 'Medical gas pipeline system installation in Kenya'
+- 'Commode wheelchair suppliers in Mombasa'
+- 'Waiting room chairs for a clinic in Nairobi'
+- 'Fetal doppler for sale in Mombasa'
+- 'Defibrillator price in Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

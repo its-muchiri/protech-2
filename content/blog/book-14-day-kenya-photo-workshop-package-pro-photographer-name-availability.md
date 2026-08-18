@@ -1,14 +1,14 @@
 ---
 title: 'Book 14 Day Kenya Photo Workshop Package  Availability: Complete Guide'
-description: Kenya safari guide covering book 14 day kenya photo workshop package  availability, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book 14 day kenya photo workshop package  availability, including what is included, pricing, and booking advice.'
 slug: book-14-day-kenya-photo-workshop-package-pro-photographer-name-availability
-primary_keyword: Book 14 day Kenya photo workshop package  availability
+primary_keyword: 'Book 14 day Kenya photo workshop package  availability'
 secondary_keywords:
-- Payment options Kenya safari package
-- Walking safari included package Kenya buy
-- Cost of fly-in safari package
-- Reserve 5 day Lake Nakuru Aberdares package operator
-- Book 5 day Tsavo West Finch Hattons luxury package
+- 'Payment options Kenya safari package'
+- 'Walking safari included package Kenya buy'
+- 'Cost of fly-in safari package'
+- 'Reserve 5 day Lake Nakuru Aberdares package operator'
+- 'Book 5 day Tsavo West Finch Hattons luxury package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

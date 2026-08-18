@@ -1,14 +1,14 @@
 ---
 title: 'Kq Kisumu Flight Schedule: Complete Guide'
-description: Everything you need to know about kq kisumu flight schedule, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq kisumu flight schedule, including routes, airlines, booking tips, and fares.'
 slug: kq-kisumu-flight-schedule
-primary_keyword: kq kisumu flight schedule
+primary_keyword: 'kq kisumu flight schedule'
 secondary_keywords:
-- kq flights kisumu to nairobi
-- kq flights from london to nairobi today
-- kq flights nairobi to london
-- kq flight radar
-- kq flight schedule kisumu to nairobi
+- 'kq flights kisumu to nairobi'
+- 'kq flights from london to nairobi today'
+- 'kq flights nairobi to london'
+- 'kq flight radar'
+- 'kq flight schedule kisumu to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

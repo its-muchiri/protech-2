@@ -1,14 +1,14 @@
 ---
 title: 'Cheapest Flights from Nairobi to Johannesburg: Complete Guide'
-description: Everything you need to know about cheapest flights from nairobi to johannesburg, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheapest flights from nairobi to johannesburg, including routes, airlines, booking tips, and fares.'
 slug: cheapest-flights-from-nairobi-to-johannesburg
-primary_keyword: cheapest flights from nairobi to johannesburg
+primary_keyword: 'cheapest flights from nairobi to johannesburg'
 secondary_keywords:
-- flights to kenya from manchester
-- kenya airways in kenya
-- local flights in kenya today
-- flights to kenya november 2025
-- qatar airways in nairobi
+- 'flights to kenya from manchester'
+- 'kenya airways in kenya'
+- 'local flights in kenya today'
+- 'flights to kenya november 2025'
+- 'qatar airways in nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

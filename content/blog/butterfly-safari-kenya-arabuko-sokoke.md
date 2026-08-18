@@ -1,14 +1,14 @@
 ---
 title: 'Butterfly Safari Kenya (Arabuko Sokoke): Complete Guide'
-description: Kenya safari guide covering butterfly safari kenya (arabuko sokoke), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering butterfly safari kenya (arabuko sokoke), including what is included, pricing, and booking advice.'
 slug: butterfly-safari-kenya-arabuko-sokoke
-primary_keyword: Butterfly safari Kenya (Arabuko Sokoke)
+primary_keyword: 'Butterfly safari Kenya (Arabuko Sokoke)'
 secondary_keywords:
-- Book Menengai Crater hike safari day trip Nakuru Kenya Europe geology focus cost
-- Explore Kenya safari
-- Tsavo West safari
-- Masai Mara conservancy safari
-- Honeymoon Kenya safari
+- 'Book Menengai Crater hike safari day trip Nakuru Kenya Europe geology focus cost'
+- 'Explore Kenya safari'
+- 'Tsavo West safari'
+- 'Masai Mara conservancy safari'
+- 'Honeymoon Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

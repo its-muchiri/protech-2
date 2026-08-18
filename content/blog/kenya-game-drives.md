@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Game Drives: Complete Guide'
-description: Kenya safari guide covering kenya game drives, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya game drives, including what is included, pricing, and booking advice.'
 slug: kenya-game-drives
-primary_keyword: Kenya game drives
+primary_keyword: 'Kenya game drives'
 secondary_keywords:
-- Kenya family safari holiday cost estimate 2025
-- Specific Safari Types (Luxury, Budget, Family, Honeymoon, Private, Group, etc.)
-- Short Kenya safari tour (3-day/4-day) booking USA
-- Nairobi departure Kenya safari packages Europe start city
-- Book Kenya safari from London Heathrow flights included deals
+- 'Kenya family safari holiday cost estimate 2025'
+- 'Specific Safari Types (Luxury, Budget, Family, Honeymoon, Private, Group, etc.)'
+- 'Short Kenya safari tour (3-day/4-day) booking USA'
+- 'Nairobi departure Kenya safari packages Europe start city'
+- 'Book Kenya safari from London Heathrow flights included deals'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

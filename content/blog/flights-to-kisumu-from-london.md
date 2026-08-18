@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Kisumu from London: Complete Guide'
-description: Everything you need to know about flights to kisumu from london, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to kisumu from london, including routes, airlines, booking tips, and fares.'
 slug: flights-to-kisumu-from-london
-primary_keyword: flights to kisumu from london
+primary_keyword: 'flights to kisumu from london'
 secondary_keywords:
-- flight from nairobi mombasa
-- flights from nairobi to nanyuki
-- flights from nairobi to ottawa
-- flights from nairobi to perth
-- qatar airways flights from nairobi to doha
+- 'flight from nairobi mombasa'
+- 'flights from nairobi to nanyuki'
+- 'flights from nairobi to ottawa'
+- 'flights from nairobi to perth'
+- 'qatar airways flights from nairobi to doha'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

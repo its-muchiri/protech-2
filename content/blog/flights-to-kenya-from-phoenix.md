@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Kenya from Phoenix: Complete Guide'
-description: Everything you need to know about flights to kenya from phoenix, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to kenya from phoenix, including routes, airlines, booking tips, and fares.'
 slug: flights-to-kenya-from-phoenix
-primary_keyword: flights to kenya from phoenix
+primary_keyword: 'flights to kenya from phoenix'
 secondary_keywords:
-- qatar airways contacts nairobi phone number
-- flight price from doha to nairobi
-- qatar airways nairobi office contacts whatsapp number
-- kq flight from amsterdam to nairobi
-- kq flights from dubai to nairobi
+- 'qatar airways contacts nairobi phone number'
+- 'flight price from doha to nairobi'
+- 'qatar airways nairobi office contacts whatsapp number'
+- 'kq flight from amsterdam to nairobi'
+- 'kq flights from dubai to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

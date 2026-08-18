@@ -1,14 +1,14 @@
 ---
 title: 'Quote for 10 Day Budget Camping Kenya Tanzania Combo Tour August : Complete Guide'
-description: Kenya safari guide covering quote for 10 day budget camping kenya tanzania combo tour august , including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering quote for 10 day budget camping kenya tanzania combo tour august , including what is included, pricing, and booking advice.'
 slug: quote-for-10-day-budget-camping-kenya-tanzania-combo-tour-august-year
-primary_keyword: Quote for 10 day budget camping Kenya Tanzania combo tour August
+primary_keyword: 'Quote for 10 day budget camping Kenya Tanzania combo tour August'
 secondary_keywords:
-- Reserve 12 day luxury tented camp migration safari booking
-- Laikipia luxury safari quote online
-- Small group Kenya safari package price list
-- Kenya adventure safari promotions
-- 7 day classic Kenya safari early bird promotion
+- 'Reserve 12 day luxury tented camp migration safari booking'
+- 'Laikipia luxury safari quote online'
+- 'Small group Kenya safari package price list'
+- 'Kenya adventure safari promotions'
+- '7 day classic Kenya safari early bird promotion'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

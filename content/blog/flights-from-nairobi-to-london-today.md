@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to London Today: Complete Guide'
-description: Everything you need to know about flights from nairobi to london today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to london today, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-london-today
-primary_keyword: flights from nairobi to london today
+primary_keyword: 'flights from nairobi to london today'
 secondary_keywords:
-- kq flight 311
-- kq 485 flight status
-- jq607 flight status
-- kq nbo ebb
-- emirates flight from nairobi to dubai time
+- 'kq flight 311'
+- 'kq 485 flight status'
+- 'jq607 flight status'
+- 'kq nbo ebb'
+- 'emirates flight from nairobi to dubai time'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

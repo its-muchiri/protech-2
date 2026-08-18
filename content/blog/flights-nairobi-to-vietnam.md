@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Vietnam: Complete Guide'
-description: Everything you need to know about flights nairobi to vietnam, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to vietnam, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-vietnam
-primary_keyword: flights nairobi to vietnam
+primary_keyword: 'flights nairobi to vietnam'
 secondary_keywords:
-- flights from ukunda
-- how much is kq flight from nairobi to kisumu
-- kq flight from nairobi to dar es salaam
-- kenya airways jfk to nairobi review
-- kq flight from kisumu to nairobi price
+- 'flights from ukunda'
+- 'how much is kq flight from nairobi to kisumu'
+- 'kq flight from nairobi to dar es salaam'
+- 'kenya airways jfk to nairobi review'
+- 'kq flight from kisumu to nairobi price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

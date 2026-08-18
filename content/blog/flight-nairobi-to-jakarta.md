@@ -1,14 +1,14 @@
 ---
 title: 'Flight Nairobi to Jakarta: Complete Guide'
-description: Everything you need to know about flight nairobi to jakarta, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight nairobi to jakarta, including routes, airlines, booking tips, and fares.'
 slug: flight-nairobi-to-jakarta
-primary_keyword: flight nairobi to jakarta
+primary_keyword: 'flight nairobi to jakarta'
 secondary_keywords:
-- emirates flight 338
-- emirates flight 406
-- emirates flight 603
-- emirates flight 763
-- emirates flight 9
+- 'emirates flight 338'
+- 'emirates flight 406'
+- 'emirates flight 603'
+- 'emirates flight 763'
+- 'emirates flight 9'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

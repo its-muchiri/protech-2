@@ -1,14 +1,14 @@
 ---
 title: 'Ultrasonic Cleaner for Medical Instruments in Mombasa: 2026 Price Guide'
-description: Kenya buying guide to ultrasonic cleaner for medical instruments in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to ultrasonic cleaner for medical instruments in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: ultrasonic-cleaner-for-medical-instruments-in-mombasa
-primary_keyword: Ultrasonic cleaner for medical instruments in Mombasa
+primary_keyword: 'Ultrasonic cleaner for medical instruments in Mombasa'
 secondary_keywords:
-- Physiotherapy & Rehabilitation Equipment
-- Portable veterinary X-ray machine for sale
-- Foley catheter and urine bags suppliers
-- Refurbished C-arm machine price
-- Platelet agitator and incubator cost
+- 'Physiotherapy & Rehabilitation Equipment'
+- 'Portable veterinary X-ray machine for sale'
+- 'Foley catheter and urine bags suppliers'
+- 'Refurbished C-arm machine price'
+- 'Platelet agitator and incubator cost'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

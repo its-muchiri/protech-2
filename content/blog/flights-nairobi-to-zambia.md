@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Zambia: Complete Guide'
-description: Everything you need to know about flights nairobi to zambia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to zambia, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-zambia
-primary_keyword: flights nairobi to zambia
+primary_keyword: 'flights nairobi to zambia'
 secondary_keywords:
-- cost of flight from nairobi to kitale
-- 540 flight from nairobi to eldoret
-- 740 flight
-- turkish airlines nairobi office
-- what terminal is turkish airlines
+- 'cost of flight from nairobi to kitale'
+- '540 flight from nairobi to eldoret'
+- '740 flight'
+- 'turkish airlines nairobi office'
+- 'what terminal is turkish airlines'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

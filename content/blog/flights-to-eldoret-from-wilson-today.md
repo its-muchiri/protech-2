@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Eldoret from Wilson Today: Complete Guide'
-description: Everything you need to know about flights to eldoret from wilson today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to eldoret from wilson today, including routes, airlines, booking tips, and fares.'
 slug: flights-to-eldoret-from-wilson-today
-primary_keyword: flights to eldoret from wilson today
+primary_keyword: 'flights to eldoret from wilson today'
 secondary_keywords:
-- how much is a flight from kenya to zimbabwe
-- safarilink flights from nairobi to kisumu
-- available flights from nairobi to mombasa
-- flights from nairobi to barcelona
-- flights from nairobi to chicago
+- 'how much is a flight from kenya to zimbabwe'
+- 'safarilink flights from nairobi to kisumu'
+- 'available flights from nairobi to mombasa'
+- 'flights from nairobi to barcelona'
+- 'flights from nairobi to chicago'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

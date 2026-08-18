@@ -1,14 +1,14 @@
 ---
 title: 'Professional Wildlife Photography Safari Kenya Custom Vehicles / Tutors: Complete Guide'
-description: Kenya safari guide covering professional wildlife photography safari kenya custom vehicles / tutors, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering professional wildlife photography safari kenya custom vehicles / tutors, including what is included, pricing, and booking advice.'
 slug: professional-wildlife-photography-safari-kenya-custom-vehicles-tutors
-primary_keyword: Professional wildlife photography safari Kenya custom vehicles / tutors
+primary_keyword: 'Professional wildlife photography safari Kenya custom vehicles / tutors'
 secondary_keywords:
-- SGR train packages Mombasa beach holiday
-- Mount Elgon climbing Kenya side tour operators
-- Karen Blixen Museum tour Nairobi price
-- Spirit of Kenya safari reviews customized tours
-- All inclusive Kenya safari packages definition / what''s included
+- 'SGR train packages Mombasa beach holiday'
+- 'Mount Elgon climbing Kenya side tour operators'
+- 'Karen Blixen Museum tour Nairobi price'
+- 'Spirit of Kenya safari reviews customized tours'
+- 'All inclusive Kenya safari packages definition / what''''s included'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

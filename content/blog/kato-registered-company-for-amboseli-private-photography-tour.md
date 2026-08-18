@@ -1,14 +1,14 @@
 ---
 title: 'KATO Registered Company for Amboseli Private Photography Tour: Complete Guide'
-description: Kenya safari guide covering kato registered company for amboseli private photography tour, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kato registered company for amboseli private photography tour, including what is included, pricing, and booking advice.'
 slug: kato-registered-company-for-amboseli-private-photography-tour
-primary_keyword: KATO registered company for Amboseli private photography tour
+primary_keyword: 'KATO registered company for Amboseli private photography tour'
 secondary_keywords:
-- All-inclusive safari Kenya book
-- Book group joining 6 day budget camping package Kenya
-- Buy 8 day accessible Kenya safari package quote
-- Quote for 9 day Kenya small group safari package tour
-- Get deal 12 day Kenya Tanzania migration combo package booking
+- 'All-inclusive safari Kenya book'
+- 'Book group joining 6 day budget camping package Kenya'
+- 'Buy 8 day accessible Kenya safari package quote'
+- 'Quote for 9 day Kenya small group safari package tour'
+- 'Get deal 12 day Kenya Tanzania migration combo package booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

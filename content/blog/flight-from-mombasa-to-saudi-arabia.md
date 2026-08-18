@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Mombasa to Saudi Arabia: Complete Guide'
-description: Everything you need to know about flight from mombasa to saudi arabia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from mombasa to saudi arabia, including routes, airlines, booking tips, and fares.'
 slug: flight-from-mombasa-to-saudi-arabia
-primary_keyword: flight from mombasa to saudi arabia
+primary_keyword: 'flight from mombasa to saudi arabia'
 secondary_keywords:
-- ethiopian airlines agent in nairobi
-- qatar airways from nairobi to doha
-- does turkish airlines fly to dubai
-- flight booking in kenya
-- flight ticket from kenya to india
+- 'ethiopian airlines agent in nairobi'
+- 'qatar airways from nairobi to doha'
+- 'does turkish airlines fly to dubai'
+- 'flight booking in kenya'
+- 'flight ticket from kenya to india'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

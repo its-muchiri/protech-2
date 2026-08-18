@@ -1,14 +1,14 @@
 ---
 title: 'Kq 353 Flight Status Today: Complete Guide'
-description: Everything you need to know about kq 353 flight status today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 353 flight status today, including routes, airlines, booking tips, and fares.'
 slug: kq-353-flight-status-today
-primary_keyword: kq 353 flight status today
+primary_keyword: 'kq 353 flight status today'
 secondary_keywords:
-- turkish airlines nairobi to london
-- turkish airlines flight status nairobi to istanbul
-- emirates airlines contact number nairobi kenya
-- ethiopian airlines flights from nairobi to dubai price
-- ethiopian airlines nairobi to mumbai
+- 'turkish airlines nairobi to london'
+- 'turkish airlines flight status nairobi to istanbul'
+- 'emirates airlines contact number nairobi kenya'
+- 'ethiopian airlines flights from nairobi to dubai price'
+- 'ethiopian airlines nairobi to mumbai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

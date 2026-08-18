@@ -1,14 +1,14 @@
 ---
 title: 'Kq Inaugural Flight to New York: Complete Guide'
-description: Everything you need to know about kq inaugural flight to new york, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq inaugural flight to new york, including routes, airlines, booking tips, and fares.'
 slug: kq-inaugural-flight-to-new-york
-primary_keyword: kq inaugural flight to new york
+primary_keyword: 'kq inaugural flight to new york'
 secondary_keywords:
-- flight from nairobi to delhi
-- etihad flight from nairobi to abu dhabi
-- flight from frankfurt to nairobi today
-- flight time from nairobi to ghana
-- how much is a flight from nairobi to dubai
+- 'flight from nairobi to delhi'
+- 'etihad flight from nairobi to abu dhabi'
+- 'flight from frankfurt to nairobi today'
+- 'flight time from nairobi to ghana'
+- 'how much is a flight from nairobi to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

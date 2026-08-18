@@ -1,14 +1,14 @@
 ---
 title: 'Buy Package from KATO Registered Kenya Operator: Complete Guide'
-description: Kenya safari guide covering buy package from kato registered kenya operator, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy package from kato registered kenya operator, including what is included, pricing, and booking advice.'
 slug: buy-package-from-kato-registered-kenya-operator
-primary_keyword: Buy package from KATO registered Kenya operator
+primary_keyword: 'Buy package from KATO registered Kenya operator'
 secondary_keywords:
-- Private safari house Kenya
-- Boat safari Lake Naivasha
-- Leopard spotting Kenya safari
-- Kenya safari and beach
-- Kenya safari from Dubai
+- 'Private safari house Kenya'
+- 'Boat safari Lake Naivasha'
+- 'Leopard spotting Kenya safari'
+- 'Kenya safari and beach'
+- 'Kenya safari from Dubai'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

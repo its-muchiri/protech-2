@@ -1,14 +1,14 @@
 ---
 title: 'Buy 5 Day Ol Pejeta Family Adventure Package Chimpanzee Visit Included Deal: Complete Guide'
-description: Kenya safari guide covering buy 5 day ol pejeta family adventure package chimpanzee visit included deal, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy 5 day ol pejeta family adventure package chimpanzee visit included deal, including what is included, pricing, and booking advice.'
 slug: buy-5-day-ol-pejeta-family-adventure-package-chimpanzee-visit-included-deal
-primary_keyword: Buy 5 day Ol Pejeta family adventure package chimpanzee visit included deal
+primary_keyword: 'Buy 5 day Ol Pejeta family adventure package chimpanzee visit included deal'
 secondary_keywords:
-- Wildebeest migration Kenya timing
-- Wild dog safari Kenya (rare)
-- Kenya safari from USA
-- Kenya safari in March
-- Kenya safari companies
+- 'Wildebeest migration Kenya timing'
+- 'Wild dog safari Kenya (rare)'
+- 'Kenya safari from USA'
+- 'Kenya safari in March'
+- 'Kenya safari companies'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

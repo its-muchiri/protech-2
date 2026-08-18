@@ -1,14 +1,14 @@
 ---
 title: 'Masai Mara Flights from Nairobi: Complete Guide'
-description: Everything you need to know about masai mara flights from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about masai mara flights from nairobi, including routes, airlines, booking tips, and fares.'
 slug: masai-mara-flights-from-nairobi
-primary_keyword: masai mara flights from nairobi
+primary_keyword: 'masai mara flights from nairobi'
 secondary_keywords:
-- emirates flights from washington dc
-- emirates flights from yyz
-- emirates flights from zurich to dubai
-- emirates flight 028
-- emirates flights 2024
+- 'emirates flights from washington dc'
+- 'emirates flights from yyz'
+- 'emirates flights from zurich to dubai'
+- 'emirates flight 028'
+- 'emirates flights 2024'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

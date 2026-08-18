@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from London to Nairobi Kenya: Complete Guide'
-description: Everything you need to know about cheap flights from london to nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from london to nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-london-to-nairobi-kenya
-primary_keyword: cheap flights from london to nairobi kenya
+primary_keyword: 'cheap flights from london to nairobi kenya'
 secondary_keywords:
-- flight from nairobi to uk cost
-- flight from nairobi to washington dc
-- flight yaounde to nairobi
-- flight from zurich to nairobi
-- fly 48
+- 'flight from nairobi to uk cost'
+- 'flight from nairobi to washington dc'
+- 'flight yaounde to nairobi'
+- 'flight from zurich to nairobi'
+- 'fly 48'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

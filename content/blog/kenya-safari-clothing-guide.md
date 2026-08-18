@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Clothing Guide: Complete Guide'
-description: Kenya safari guide covering kenya safari clothing guide, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari clothing guide, including what is included, pricing, and booking advice.'
 slug: kenya-safari-clothing-guide
-primary_keyword: Kenya safari clothing guide
+primary_keyword: 'Kenya safari clothing guide'
 secondary_keywords:
-- All-inclusive family safari Kenya buy
-- Low cost Kenya safari holiday booking
-- Book Kenya Tanzania safari package
-- Luxury Kenya Zanzibar package booking
-- Early bird booking Kenya safari package
+- 'All-inclusive family safari Kenya buy'
+- 'Low cost Kenya safari holiday booking'
+- 'Book Kenya Tanzania safari package'
+- 'Luxury Kenya Zanzibar package booking'
+- 'Early bird booking Kenya safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

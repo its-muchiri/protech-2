@@ -1,14 +1,14 @@
 ---
 title: 'Infant Incubator Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to infant incubator price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to infant incubator price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: infant-incubator-price-in-kenya
-primary_keyword: Infant incubator price in Kenya
+primary_keyword: 'Infant incubator price in Kenya'
 secondary_keywords:
-- Overbed table for hospital bed in Mombasa
-- Mobility scooter for sale in Kisumu
-- Multiparameter patient monitor price in Kenya
-- Infusion pump for sale in Nairobi
-- Therapeutic ultrasound machine for physiotherapy
+- 'Overbed table for hospital bed in Mombasa'
+- 'Mobility scooter for sale in Kisumu'
+- 'Multiparameter patient monitor price in Kenya'
+- 'Infusion pump for sale in Nairobi'
+- 'Therapeutic ultrasound machine for physiotherapy'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

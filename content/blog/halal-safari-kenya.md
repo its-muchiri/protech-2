@@ -1,14 +1,14 @@
 ---
 title: 'Halal Safari Kenya: Complete Guide'
-description: Kenya safari guide covering halal safari kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering halal safari kenya, including what is included, pricing, and booking advice.'
 slug: halal-safari-kenya
-primary_keyword: Halal safari Kenya
+primary_keyword: 'Halal safari Kenya'
 secondary_keywords:
-- Laikipia luxury safari package booking
-- Exclusive Kenya safari experience booking
-- Kenya safari package for family with kids
-- Honeymoon deals Kenya safari resorts
-- Budget fly-in safari Kenya options book
+- 'Laikipia luxury safari package booking'
+- 'Exclusive Kenya safari experience booking'
+- 'Kenya safari package for family with kids'
+- 'Honeymoon deals Kenya safari resorts'
+- 'Budget fly-in safari Kenya options book'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

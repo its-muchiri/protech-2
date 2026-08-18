@@ -1,14 +1,14 @@
 ---
 title: 'Sustainable Kenya Tour Operators Europe Eco-certified List: Complete Guide'
-description: Kenya safari guide covering sustainable kenya tour operators europe eco-certified list, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering sustainable kenya tour operators europe eco-certified list, including what is included, pricing, and booking advice.'
 slug: sustainable-kenya-tour-operators-europe-eco-certified-list
-primary_keyword: Sustainable Kenya tour operators Europe eco-certified list
+primary_keyword: 'Sustainable Kenya tour operators Europe eco-certified list'
 secondary_keywords:
-- Lake Nakuru tour package cost 4 days
-- Reserve tour  Kenya branch
-- Buy full board Kenya lodge safari package online
-- Compare 7 day Kenya safari package prices
-- Secure dry season Kenya wildlife viewing package booking
+- 'Lake Nakuru tour package cost 4 days'
+- 'Reserve tour  Kenya branch'
+- 'Buy full board Kenya lodge safari package online'
+- 'Compare 7 day Kenya safari package prices'
+- 'Secure dry season Kenya wildlife viewing package booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

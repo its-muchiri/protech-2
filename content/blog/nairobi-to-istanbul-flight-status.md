@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi to Istanbul Flight Status: Complete Guide'
-description: Everything you need to know about nairobi to istanbul flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about nairobi to istanbul flight status, including routes, airlines, booking tips, and fares.'
 slug: nairobi-to-istanbul-flight-status
-primary_keyword: nairobi to istanbul flight status
+primary_keyword: 'nairobi to istanbul flight status'
 secondary_keywords:
-- flights from kenya to mauritius
-- flights from kenya to tanzania
-- flights from nairobi kenya to omaha ne
-- flights from kenya to peru
-- flights to kenya qatar airways
+- 'flights from kenya to mauritius'
+- 'flights from kenya to tanzania'
+- 'flights from nairobi kenya to omaha ne'
+- 'flights from kenya to peru'
+- 'flights to kenya qatar airways'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

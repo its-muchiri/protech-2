@@ -1,14 +1,14 @@
 ---
 title: 'Review and Book Recommended Kenya Honeymoon Package: Complete Guide'
-description: Kenya safari guide covering review and book recommended kenya honeymoon package, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering review and book recommended kenya honeymoon package, including what is included, pricing, and booking advice.'
 slug: review-and-book-recommended-kenya-honeymoon-package
-primary_keyword: Review and book recommended Kenya honeymoon package
+primary_keyword: 'Review and book recommended Kenya honeymoon package'
 secondary_keywords:
-- Horse riding safari Kenya Chyulu Hills / Laikipia ranches
-- Cross border safari Kenya and Tanzania Serengeti / Ngorongoro combined tour operators
-- Purchase fly-in safari Kenya Masai Mara online USA
-- Affordable Kenya safari packages USA budget friendly
-- Kenya safari package quote request form
+- 'Horse riding safari Kenya Chyulu Hills / Laikipia ranches'
+- 'Cross border safari Kenya and Tanzania Serengeti / Ngorongoro combined tour operators'
+- 'Purchase fly-in safari Kenya Masai Mara online USA'
+- 'Affordable Kenya safari packages USA budget friendly'
+- 'Kenya safari package quote request form'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Delhi to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from delhi to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from delhi to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-delhi-to-dubai
-primary_keyword: emirates flights from delhi to dubai
+primary_keyword: 'emirates flights from delhi to dubai'
 secondary_keywords:
-- turkish airlines mombasa
-- turkish airlines nairobi terminal
-- emirates airlines mombasa office
-- ethiopian airlines ticket price from doha to nairobi
-- ethiopian airlines phone number nairobi
+- 'turkish airlines mombasa'
+- 'turkish airlines nairobi terminal'
+- 'emirates airlines mombasa office'
+- 'ethiopian airlines ticket price from doha to nairobi'
+- 'ethiopian airlines phone number nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

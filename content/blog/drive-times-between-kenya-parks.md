@@ -1,14 +1,14 @@
 ---
 title: 'Drive Times Between Kenya Parks: Complete Guide'
-description: Kenya safari guide covering drive times between kenya parks, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering drive times between kenya parks, including what is included, pricing, and booking advice.'
 slug: drive-times-between-kenya-parks
-primary_keyword: Drive times between Kenya parks
+primary_keyword: 'Drive times between Kenya parks'
 secondary_keywords:
-- Kenya safari with private guide
-- Kenya visa for safari
-- Language spoken Kenya safari
-- Kenya safari tour operator reviews Tripadvisor
-- 4 day Samburu reserve safari package deal
+- 'Kenya safari with private guide'
+- 'Kenya visa for safari'
+- 'Language spoken Kenya safari'
+- 'Kenya safari tour operator reviews Tripadvisor'
+- '4 day Samburu reserve safari package deal'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

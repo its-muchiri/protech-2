@@ -1,14 +1,14 @@
 ---
 title: 'Zanzibar Flights from Nairobi: Complete Guide'
-description: Everything you need to know about zanzibar flights from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about zanzibar flights from nairobi, including routes, airlines, booking tips, and fares.'
 slug: zanzibar-flights-from-nairobi
-primary_keyword: zanzibar flights from nairobi
+primary_keyword: 'zanzibar flights from nairobi'
 secondary_keywords:
-- flight from nairobi to new york today
-- how much is flight from nairobi to zanzibar today
-- flight 540 nairobi to mombasa price
-- 540 flight from nairobi to lodwar ticket price
-- turkish airlines flight from istanbul to nairobi
+- 'flight from nairobi to new york today'
+- 'how much is flight from nairobi to zanzibar today'
+- 'flight 540 nairobi to mombasa price'
+- '540 flight from nairobi to lodwar ticket price'
+- 'turkish airlines flight from istanbul to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

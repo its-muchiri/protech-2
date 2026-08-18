@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights Nairobi to Malindi: Complete Guide'
-description: Everything you need to know about cheap flights nairobi to malindi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights nairobi to malindi, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-nairobi-to-malindi
-primary_keyword: cheap flights nairobi to malindi
+primary_keyword: 'cheap flights nairobi to malindi'
 secondary_keywords:
-- kq 586 flight status
-- kq 887 flight status
-- emirates dubai to nairobi flight status
-- emirates flights to nairobi kenya
-- fly emirates nairobi office
+- 'kq 586 flight status'
+- 'kq 887 flight status'
+- 'emirates dubai to nairobi flight status'
+- 'emirates flights to nairobi kenya'
+- 'fly emirates nairobi office'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

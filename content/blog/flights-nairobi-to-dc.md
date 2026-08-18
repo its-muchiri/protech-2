@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Dc: Complete Guide'
-description: Everything you need to know about flights nairobi to dc, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to dc, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-dc
-primary_keyword: flights nairobi to dc
+primary_keyword: 'flights nairobi to dc'
 secondary_keywords:
-- emirates flights from vietnam
-- emirates fly from which terminal
-- emirates flights from new york to johannesburg
-- emirates flights to new zealand from uk
-- emirates flight 191
+- 'emirates flights from vietnam'
+- 'emirates fly from which terminal'
+- 'emirates flights from new york to johannesburg'
+- 'emirates flights to new zealand from uk'
+- 'emirates flight 191'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

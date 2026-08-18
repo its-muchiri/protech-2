@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Sydney: Complete Guide'
-description: Everything you need to know about emirates flights from sydney, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from sydney, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-sydney
-primary_keyword: emirates flights from sydney
+primary_keyword: 'emirates flights from sydney'
 secondary_keywords:
-- flights from nairobi to mombasa prices
-- flights from nairobi to rabat
-- flights from nairobi to sydney australia
-- flights from entebbe to nairobi
-- flights from nairobi to voi
+- 'flights from nairobi to mombasa prices'
+- 'flights from nairobi to rabat'
+- 'flights from nairobi to sydney australia'
+- 'flights from entebbe to nairobi'
+- 'flights from nairobi to voi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

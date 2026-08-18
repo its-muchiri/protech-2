@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Brisbane to Nairobi Kenya: Complete Guide'
-description: Everything you need to know about flights from brisbane to nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from brisbane to nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-brisbane-to-nairobi-kenya
-primary_keyword: flights from brisbane to nairobi kenya
+primary_keyword: 'flights from brisbane to nairobi kenya'
 secondary_keywords:
-- cheap flights from mombasa to johannesburg
-- kenya airways flights from mombasa to nairobi
-- cheapest flights to mombasa from london heathrow
-- flights from mombasa to nanyuki
-- cheap flights from nairobi to mombasa price
+- 'cheap flights from mombasa to johannesburg'
+- 'kenya airways flights from mombasa to nairobi'
+- 'cheapest flights to mombasa from london heathrow'
+- 'flights from mombasa to nanyuki'
+- 'cheap flights from nairobi to mombasa price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

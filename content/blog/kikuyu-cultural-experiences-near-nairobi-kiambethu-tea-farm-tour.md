@@ -1,14 +1,14 @@
 ---
 title: 'Kikuyu Cultural Experiences Near Nairobi Kiambethu Tea Farm Tour: Complete Guide'
-description: Kenya safari guide covering kikuyu cultural experiences near nairobi kiambethu tea farm tour, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kikuyu cultural experiences near nairobi kiambethu tea farm tour, including what is included, pricing, and booking advice.'
 slug: kikuyu-cultural-experiences-near-nairobi-kiambethu-tea-farm-tour
-primary_keyword: Kikuyu cultural experiences near Nairobi Kiambethu Tea Farm tour
+primary_keyword: 'Kikuyu cultural experiences near Nairobi Kiambethu Tea Farm tour'
 secondary_keywords:
-- Buy guaranteed departure small group Kenya camping safari USA tour company reviews
-- Reserve private vehicle & guide safari Kenya price quote per day USA flexible itinerary
-- Find deals Kenya safari green season (Apr-May) Europe discounts luxury lodges availability
-- Buy multi-country East Africa safari Kenya Tanzania Rwanda gorilla trek USA operator package cost
-- Find Kenya safari lodge with private plunge pool booking USA luxury honeymoon deals
+- 'Buy guaranteed departure small group Kenya camping safari USA tour company reviews'
+- 'Reserve private vehicle & guide safari Kenya price quote per day USA flexible itinerary'
+- 'Find deals Kenya safari green season (Apr-May) Europe discounts luxury lodges availability'
+- 'Buy multi-country East Africa safari Kenya Tanzania Rwanda gorilla trek USA operator package cost'
+- 'Find Kenya safari lodge with private plunge pool booking USA luxury honeymoon deals'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

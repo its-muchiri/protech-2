@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Doha: Complete Guide'
-description: Everything you need to know about flights from kenya to doha, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to doha, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-doha
-primary_keyword: flights from kenya to doha
+primary_keyword: 'flights from kenya to doha'
 secondary_keywords:
-- nairobi to india flights price air india
-- flights nairobi to kampala
-- flights nairobi to lodwar
-- flights nairobi to masai mara
-- nairobi to nanyuki flights
+- 'nairobi to india flights price air india'
+- 'flights nairobi to kampala'
+- 'flights nairobi to lodwar'
+- 'flights nairobi to masai mara'
+- 'nairobi to nanyuki flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

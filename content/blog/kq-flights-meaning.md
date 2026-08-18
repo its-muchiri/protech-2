@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights Meaning: Complete Guide'
-description: Everything you need to know about kq flights meaning, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights meaning, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-meaning
-primary_keyword: kq flights meaning
+primary_keyword: 'kq flights meaning'
 secondary_keywords:
-- emirates email address kenya
-- emirates nbd kenya
-- emirates from dubai to nairobi
-- ethiopian airlines from nairobi to addis ababa
-- cheap flights from nairobi to addis ababa
+- 'emirates email address kenya'
+- 'emirates nbd kenya'
+- 'emirates from dubai to nairobi'
+- 'ethiopian airlines from nairobi to addis ababa'
+- 'cheap flights from nairobi to addis ababa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Pediatric Wheelchair for Sale in Kisumu: 2026 Price Guide'
-description: Kenya buying guide to pediatric wheelchair for sale in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to pediatric wheelchair for sale in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: pediatric-wheelchair-for-sale-in-kisumu
-primary_keyword: Pediatric wheelchair for sale in Kisumu
+primary_keyword: 'Pediatric wheelchair for sale in Kisumu'
 secondary_keywords:
-- diathermy machines Kenya
-- doctors stools Kenya
-- dental compressor Kenya
-- anesthesia machine prices Kenya
-- home healthcare devices Kenya
+- 'diathermy machines Kenya'
+- 'doctors stools Kenya'
+- 'dental compressor Kenya'
+- 'anesthesia machine prices Kenya'
+- 'home healthcare devices Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

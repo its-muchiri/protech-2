@@ -1,14 +1,14 @@
 ---
 title: 'Cheapest Flight from Nairobi to Canada: Complete Guide'
-description: Everything you need to know about cheapest flight from nairobi to canada, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheapest flight from nairobi to canada, including routes, airlines, booking tips, and fares.'
 slug: cheapest-flight-from-nairobi-to-canada
-primary_keyword: cheapest flight from nairobi to canada
+primary_keyword: 'cheapest flight from nairobi to canada'
 secondary_keywords:
-- kq 533
-- kenya airways flight from nairobi to cape town
-- kenya airways jfk to nairobi schedule
-- kenya airways flight from nairobi to johannesburg
-- kq flight from nairobi to mombasa price
+- 'kq 533'
+- 'kenya airways flight from nairobi to cape town'
+- 'kenya airways jfk to nairobi schedule'
+- 'kenya airways flight from nairobi to johannesburg'
+- 'kq flight from nairobi to mombasa price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

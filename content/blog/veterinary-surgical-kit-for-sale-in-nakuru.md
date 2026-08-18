@@ -1,14 +1,14 @@
 ---
 title: 'Veterinary Surgical Kit for Sale in Nakuru: 2026 Price Guide'
-description: Kenya buying guide to veterinary surgical kit for sale in nakuru. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to veterinary surgical kit for sale in nakuru. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: veterinary-surgical-kit-for-sale-in-nakuru
-primary_keyword: Veterinary surgical kit for sale in Nakuru
+primary_keyword: 'Veterinary surgical kit for sale in Nakuru'
 secondary_keywords:
-- mortuary equipment Kenya
-- how to set up a medical lab in Kenya
-- oxygen supply solutions Kenya
-- affordable hospital beds Kenya
-- hospital equipment repair Kenya
+- 'mortuary equipment Kenya'
+- 'how to set up a medical lab in Kenya'
+- 'oxygen supply solutions Kenya'
+- 'affordable hospital beds Kenya'
+- 'hospital equipment repair Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

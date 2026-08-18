@@ -1,14 +1,14 @@
 ---
 title: 'Buy Kenya Tour Package Park Fees Included Cost: Complete Guide'
-description: Kenya safari guide covering buy kenya tour package park fees included cost, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy kenya tour package park fees included cost, including what is included, pricing, and booking advice.'
 slug: buy-kenya-tour-package-park-fees-included-cost
-primary_keyword: Buy Kenya tour package park fees included cost
+primary_keyword: 'Buy Kenya tour package park fees included cost'
 secondary_keywords:
-- Reputable Kenya camping safari providers UK reviews
-- Cost comparison budget Kenya group safari tours USA local vs international agents
-- Purchase 12-day ultimate Kenya luxury safari cost USA includes internal flights lodges
-- Book Kenya conservation focused safari Ol Pejeta rhino tracking Europe donation included
-- Book Kenya safari including school visit community project UK responsible tourism options cost
+- 'Reputable Kenya camping safari providers UK reviews'
+- 'Cost comparison budget Kenya group safari tours USA local vs international agents'
+- 'Purchase 12-day ultimate Kenya luxury safari cost USA includes internal flights lodges'
+- 'Book Kenya conservation focused safari Ol Pejeta rhino tracking Europe donation included'
+- 'Book Kenya safari including school visit community project UK responsible tourism options cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is a Flight from Nairobi to South Africa: Complete Guide'
-description: Everything you need to know about how much is a flight from nairobi to south africa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is a flight from nairobi to south africa, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-a-flight-from-nairobi-to-south-africa
-primary_keyword: how much is a flight from nairobi to south africa
+primary_keyword: 'how much is a flight from nairobi to south africa'
 secondary_keywords:
-- flights from mombasa to frankfurt germany
-- flights from mombasa to london heathrow
-- flight from nairobi to mombasa is how much
-- flights to mombasa from johannesburg
-- flight from mombasa to lamu price
+- 'flights from mombasa to frankfurt germany'
+- 'flights from mombasa to london heathrow'
+- 'flight from nairobi to mombasa is how much'
+- 'flights to mombasa from johannesburg'
+- 'flight from mombasa to lamu price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

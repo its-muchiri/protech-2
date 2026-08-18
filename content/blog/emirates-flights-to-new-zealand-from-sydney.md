@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights to New Zealand from Sydney: Complete Guide'
-description: Everything you need to know about emirates flights to new zealand from sydney, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights to new zealand from sydney, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-to-new-zealand-from-sydney
-primary_keyword: emirates flights to new zealand from sydney
+primary_keyword: 'emirates flights to new zealand from sydney'
 secondary_keywords:
-- ethiopian airlines nairobi to hargeisa
-- ethiopian airlines booking office nairobi telephone number
-- turkish airlines lounge nairobi airport
-- does turkish airlines fly to orlando
-- flight ticket from kenya to qatar
+- 'ethiopian airlines nairobi to hargeisa'
+- 'ethiopian airlines booking office nairobi telephone number'
+- 'turkish airlines lounge nairobi airport'
+- 'does turkish airlines fly to orlando'
+- 'flight ticket from kenya to qatar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

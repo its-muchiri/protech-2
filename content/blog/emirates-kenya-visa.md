@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Kenya Visa: Complete Guide'
-description: Everything you need to know about emirates kenya visa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates kenya visa, including routes, airlines, booking tips, and fares.'
 slug: emirates-kenya-visa
-primary_keyword: emirates kenya visa
+primary_keyword: 'emirates kenya visa'
 secondary_keywords:
-- price of flight from nairobi to zanzibar
-- return flight from nairobi to dubai
-- safarilink flight from nairobi to mombasa
-- flight from nairobi to usa hours
-- flight from nairobi to watamu
+- 'price of flight from nairobi to zanzibar'
+- 'return flight from nairobi to dubai'
+- 'safarilink flight from nairobi to mombasa'
+- 'flight from nairobi to usa hours'
+- 'flight from nairobi to watamu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

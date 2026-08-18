@@ -1,14 +1,14 @@
 ---
 title: 'Cheapest Flights from Nairobi to Usa: Complete Guide'
-description: Everything you need to know about cheapest flights from nairobi to usa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheapest flights from nairobi to usa, including routes, airlines, booking tips, and fares.'
 slug: cheapest-flights-from-nairobi-to-usa
-primary_keyword: cheapest flights from nairobi to usa
+primary_keyword: 'cheapest flights from nairobi to usa'
 secondary_keywords:
-- flights from nairobi to warsaw
-- cheap flights from zurich to nairobi
-- 540 flight from nairobi to malindi
-- cheap flights from mombasa to nairobi
-- available flights from mombasa to nairobi
+- 'flights from nairobi to warsaw'
+- 'cheap flights from zurich to nairobi'
+- '540 flight from nairobi to malindi'
+- 'cheap flights from mombasa to nairobi'
+- 'available flights from mombasa to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Frankfurt Nairobi: Complete Guide'
-description: Everything you need to know about turkish airlines frankfurt nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines frankfurt nairobi, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-frankfurt-nairobi
-primary_keyword: turkish airlines frankfurt nairobi
+primary_keyword: 'turkish airlines frankfurt nairobi'
 secondary_keywords:
-- kq flight from juba to nairobi today
-- kq airline routes
-- kq 533
-- kenya airways flight from nairobi to cape town
-- kenya airways jfk to nairobi schedule
+- 'kq flight from juba to nairobi today'
+- 'kq airline routes'
+- 'kq 533'
+- 'kenya airways flight from nairobi to cape town'
+- 'kenya airways jfk to nairobi schedule'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

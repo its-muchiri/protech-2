@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight Price from Nairobi to Kisumu: Complete Guide'
-description: Everything you need to know about kenya airways flight price from nairobi to kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight price from nairobi to kisumu, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-price-from-nairobi-to-kisumu
-primary_keyword: kenya airways flight price from nairobi to kisumu
+primary_keyword: 'kenya airways flight price from nairobi to kisumu'
 secondary_keywords:
-- flights to kenya from glasgow
-- flights to kenya in june
-- flights to kenya in march
-- flights operating in kenya
-- flights from kenya to rwanda
+- 'flights to kenya from glasgow'
+- 'flights to kenya in june'
+- 'flights to kenya in march'
+- 'flights operating in kenya'
+- 'flights from kenya to rwanda'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Express Fly-in Safari Package (2-3 Days): Complete Guide'
-description: Kenya safari guide covering reserve express fly-in safari package (2-3 days), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve express fly-in safari package (2-3 days), including what is included, pricing, and booking advice.'
 slug: reserve-express-fly-in-safari-package-2-3-days
-primary_keyword: Reserve express fly-in safari package (2-3 days)
+primary_keyword: 'Reserve express fly-in safari package (2-3 days)'
 secondary_keywords:
-- Tea plantation tours Limuru operators
-- One month Kenya volunteer tour program
-- Compare prices Kenya safari companies
-- Companies offering tours from Jomo Kenyatta Airport (JKIA)
-- Companies offering drone photography safaris (check regulations)
+- 'Tea plantation tours Limuru operators'
+- 'One month Kenya volunteer tour program'
+- 'Compare prices Kenya safari companies'
+- 'Companies offering tours from Jomo Kenyatta Airport (JKIA)'
+- 'Companies offering drone photography safaris (check regulations)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

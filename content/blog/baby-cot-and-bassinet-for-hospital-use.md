@@ -1,14 +1,14 @@
 ---
 title: 'Baby Cot and Bassinet for Hospital Use: 2026 Price Guide'
-description: Kenya buying guide to baby cot and bassinet for hospital use. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to baby cot and bassinet for hospital use. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: baby-cot-and-bassinet-for-hospital-use
-primary_keyword: Baby cot and bassinet for hospital use
+primary_keyword: 'Baby cot and bassinet for hospital use'
 secondary_keywords:
-- OPG (orthopantomogram) machine cost in Mombasa
-- Micromotor for dental lab in Mombasa
-- Veterinary anesthesia machine for sale
-- 10-litre oxygen concentrator for home use
-- Spine board and cervical collar for first aid
+- 'OPG (orthopantomogram) machine cost in Mombasa'
+- 'Micromotor for dental lab in Mombasa'
+- 'Veterinary anesthesia machine for sale'
+- '10-litre oxygen concentrator for home use'
+- 'Spine board and cervical collar for first aid'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

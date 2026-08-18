@@ -1,14 +1,14 @@
 ---
 title: 'Compare Fly-in Vs Overland Kenya Safari Package Cost Buy: Complete Guide'
-description: Kenya safari guide covering compare fly-in vs overland kenya safari package cost buy, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering compare fly-in vs overland kenya safari package cost buy, including what is included, pricing, and booking advice.'
 slug: compare-fly-in-vs-overland-kenya-safari-package-cost-buy
-primary_keyword: Compare fly-in vs overland Kenya safari package cost buy
+primary_keyword: 'Compare fly-in vs overland Kenya safari package cost buy'
 secondary_keywords:
-- Mombasa safari packages
-- International flights Kenya safari
-- Kenya safari in November
-- Reliable Kenya safari company
-- Vegan/Vegetarian safari Kenya
+- 'Mombasa safari packages'
+- 'International flights Kenya safari'
+- 'Kenya safari in November'
+- 'Reliable Kenya safari company'
+- 'Vegan/Vegetarian safari Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

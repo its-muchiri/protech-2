@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from Entebbe to Nairobi: Complete Guide'
-description: Everything you need to know about kq flights from entebbe to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from entebbe to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-entebbe-to-nairobi
-primary_keyword: kq flights from entebbe to nairobi
+primary_keyword: 'kq flights from entebbe to nairobi'
 secondary_keywords:
-- turkish airlines kenya contact number
-- cheap flights from nairobi to turkey
-- turkish airlines office in nairobi kenya
-- turkish airlines nairobi number
-- turkish airlines nairobi to toronto
+- 'turkish airlines kenya contact number'
+- 'cheap flights from nairobi to turkey'
+- 'turkish airlines office in nairobi kenya'
+- 'turkish airlines nairobi number'
+- 'turkish airlines nairobi to toronto'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

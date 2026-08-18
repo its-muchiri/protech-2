@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Egypt: Complete Guide'
-description: Everything you need to know about flights from nairobi to egypt, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to egypt, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-egypt
-primary_keyword: flights from nairobi to egypt
+primary_keyword: 'flights from nairobi to egypt'
 secondary_keywords:
-- emirates flight 0408
-- emirates flights 2025
-- emirates flight 338
-- emirates flight 406
-- emirates flight 603
+- 'emirates flight 0408'
+- 'emirates flights 2025'
+- 'emirates flight 338'
+- 'emirates flight 406'
+- 'emirates flight 603'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

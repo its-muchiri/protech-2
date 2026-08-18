@@ -1,14 +1,14 @@
 ---
 title: 'Digital Radiography (DR) System for Vets: 2026 Price Guide'
-description: Kenya buying guide to digital radiography (dr) system for vets. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to digital radiography (dr) system for vets. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: digital-radiography-dr-system-for-vets
-primary_keyword: Digital radiography (DR) system for vets
+primary_keyword: 'Digital radiography (DR) system for vets'
 secondary_keywords:
-- Pediatric hospital bed suppliers in Kisumu
-- Walking frame and crutches price in Thika
-- Delivery bed / Obstetric table price
-- Pulse oximeter price in Kenya
-- Physiotherapy and Rehabilitation Equipment
+- 'Pediatric hospital bed suppliers in Kisumu'
+- 'Walking frame and crutches price in Thika'
+- 'Delivery bed / Obstetric table price'
+- 'Pulse oximeter price in Kenya'
+- 'Physiotherapy and Rehabilitation Equipment'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

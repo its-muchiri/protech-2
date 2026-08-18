@@ -1,14 +1,14 @@
 ---
 title: 'Used A-dec Dental Chair for Sale: 2026 Price Guide'
-description: Kenya buying guide to used a-dec dental chair for sale. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to used a-dec dental chair for sale. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: used-a-dec-dental-chair-for-sale
-primary_keyword: Used A-dec dental chair for sale
+primary_keyword: 'Used A-dec dental chair for sale'
 secondary_keywords:
-- medical equipment suppliers from China
-- first aid supplies Kenya
-- KEMSA medical supplies list
-- face masks Kenya price
-- needles Kenya suppliers
+- 'medical equipment suppliers from China'
+- 'first aid supplies Kenya'
+- 'KEMSA medical supplies list'
+- 'face masks Kenya price'
+- 'needles Kenya suppliers'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Overcrowded Masai Mara Safari: Complete Guide'
-description: Kenya safari guide covering overcrowded masai mara safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering overcrowded masai mara safari, including what is included, pricing, and booking advice.'
 slug: overcrowded-masai-mara-safari
-primary_keyword: Overcrowded Masai Mara safari
+primary_keyword: 'Overcrowded Masai Mara safari'
 secondary_keywords:
-- Kenya Zanzibar beach safari package deal
-- Book Northern circuit Kenya safari package
-- Masai Mara tour cost
-- Finalize Kenya safari itinerary booking
-- Guided photo safari package Kenya book
+- 'Kenya Zanzibar beach safari package deal'
+- 'Book Northern circuit Kenya safari package'
+- 'Masai Mara tour cost'
+- 'Finalize Kenya safari itinerary booking'
+- 'Guided photo safari package Kenya book'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

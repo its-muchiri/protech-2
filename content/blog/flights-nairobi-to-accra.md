@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Accra: Complete Guide'
-description: Everything you need to know about flights nairobi to accra, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to accra, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-accra
-primary_keyword: flights nairobi to accra
+primary_keyword: 'flights nairobi to accra'
 secondary_keywords:
-- international flights from mombasa
-- flights from mombasa kenya to lamu kenya
-- flights to mombasa from lusaka
-- flights from mombasa to migori
-- flights to mombasa from perth australia
+- 'international flights from mombasa'
+- 'flights from mombasa kenya to lamu kenya'
+- 'flights to mombasa from lusaka'
+- 'flights from mombasa to migori'
+- 'flights to mombasa from perth australia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Glasgow Today: Complete Guide'
-description: Everything you need to know about emirates flights from glasgow today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from glasgow today, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-glasgow-today
-primary_keyword: emirates flights from glasgow today
+primary_keyword: 'emirates flights from glasgow today'
 secondary_keywords:
-- cheap flight from nairobi to mombasa
-- cheap flight from nairobi to zanzibar
-- cheap flight from nairobi to kisumu
-- 540 flight from nairobi to eldoret today
-- turkish airlines from nairobi
+- 'cheap flight from nairobi to mombasa'
+- 'cheap flight from nairobi to zanzibar'
+- 'cheap flight from nairobi to kisumu'
+- '540 flight from nairobi to eldoret today'
+- 'turkish airlines from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Tympanometer for Middle Ear Analysis: 2026 Price Guide'
-description: Kenya buying guide to tympanometer for middle ear analysis. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to tympanometer for middle ear analysis. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: tympanometer-for-middle-ear-analysis
-primary_keyword: Tympanometer for middle ear analysis
+primary_keyword: 'Tympanometer for middle ear analysis'
 secondary_keywords:
-- medical safety equipment Kenya
-- insulin pen needles Kenya
-- NHIF medical equipment benefits Kenya
-- public hospital equipment Kenya
-- hospital bed sales Kenya
+- 'medical safety equipment Kenya'
+- 'insulin pen needles Kenya'
+- 'NHIF medical equipment benefits Kenya'
+- 'public hospital equipment Kenya'
+- 'hospital bed sales Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

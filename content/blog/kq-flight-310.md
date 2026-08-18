@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight 310: Complete Guide'
-description: Everything you need to know about kq flight 310, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight 310, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-310
-primary_keyword: kq flight 310
+primary_keyword: 'kq flight 310'
 secondary_keywords:
-- flight booking agents in nairobi
-- flight duration from kenya to usa
-- kenya to dubai flight cost
-- ticket from kenya to egypt
-- flights to kenya africa
+- 'flight booking agents in nairobi'
+- 'flight duration from kenya to usa'
+- 'kenya to dubai flight cost'
+- 'ticket from kenya to egypt'
+- 'flights to kenya africa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Lagos: Complete Guide'
-description: Everything you need to know about flight from nairobi to lagos, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to lagos, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-lagos
-primary_keyword: flight from nairobi to lagos
+primary_keyword: 'flight from nairobi to lagos'
 secondary_keywords:
-- flights from orlando to kenya
-- flights from perth to nairobi kenya
-- are there flights from qatar to kenya
-- flights from rwanda to kenya today
-- flights to kenya from sfo
+- 'flights from orlando to kenya'
+- 'flights from perth to nairobi kenya'
+- 'are there flights from qatar to kenya'
+- 'flights from rwanda to kenya today'
+- 'flights to kenya from sfo'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Highest Quality Kenya Safari Experience Booking Guarantee USA: Complete Guide'
-description: Kenya safari guide covering highest quality kenya safari experience booking guarantee usa, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering highest quality kenya safari experience booking guarantee usa, including what is included, pricing, and booking advice.'
 slug: highest-quality-kenya-safari-experience-booking-guarantee-usa
-primary_keyword: Highest quality Kenya safari experience booking guarantee USA
+primary_keyword: 'Highest quality Kenya safari experience booking guarantee USA'
 secondary_keywords:
-- Kenya safari flash sale booking
-- Kenya fly-in circuit safari package buy
-- Dry season Kenya safari package deals
-- Compare packages from Kenya safari companies
-- Payment options Kenya safari package
+- 'Kenya safari flash sale booking'
+- 'Kenya fly-in circuit safari package buy'
+- 'Dry season Kenya safari package deals'
+- 'Compare packages from Kenya safari companies'
+- 'Payment options Kenya safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

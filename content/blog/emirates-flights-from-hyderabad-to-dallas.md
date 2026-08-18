@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Hyderabad to Dallas: Complete Guide'
-description: Everything you need to know about emirates flights from hyderabad to dallas, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from hyderabad to dallas, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-hyderabad-to-dallas
-primary_keyword: emirates flights from hyderabad to dallas
+primary_keyword: 'emirates flights from hyderabad to dallas'
 secondary_keywords:
-- flight from nairobi to watamu
-- cheap flight from nairobi to mombasa
-- cheap flight from nairobi to zanzibar
-- cheap flight from nairobi to kisumu
-- 540 flight from nairobi to eldoret today
+- 'flight from nairobi to watamu'
+- 'cheap flight from nairobi to mombasa'
+- 'cheap flight from nairobi to zanzibar'
+- 'cheap flight from nairobi to kisumu'
+- '540 flight from nairobi to eldoret today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

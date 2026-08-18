@@ -1,14 +1,14 @@
 ---
 title: 'Portable Dental Chair for Mobile Clinics: 2026 Price Guide'
-description: Kenya buying guide to portable dental chair for mobile clinics. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to portable dental chair for mobile clinics. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: portable-dental-chair-for-mobile-clinics
-primary_keyword: Portable dental chair for mobile clinics
+primary_keyword: 'Portable dental chair for mobile clinics'
 secondary_keywords:
-- Ultrasound probe repair and replacement in Nairobi
-- Bronchoscopy tower for pulmonology unit
-- Binocular laboratory microscope price in Kenya
-- Surgical, Theatre & CSSD Equipment
-- Surgical instrument trolley and Mayo stand
+- 'Ultrasound probe repair and replacement in Nairobi'
+- 'Bronchoscopy tower for pulmonology unit'
+- 'Binocular laboratory microscope price in Kenya'
+- 'Surgical, Theatre & CSSD Equipment'
+- 'Surgical instrument trolley and Mayo stand'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

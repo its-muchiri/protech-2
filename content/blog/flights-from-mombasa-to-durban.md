@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Durban: Complete Guide'
-description: Everything you need to know about flights from mombasa to durban, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to durban, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-durban
-primary_keyword: flights from mombasa to durban
+primary_keyword: 'flights from mombasa to durban'
 secondary_keywords:
-- flights from nairobi to kampala
-- safarilink flights from mombasa to nairobi
-- are there flights from mombasa to lamu
-- does british airways fly to dhaka
-- cheap flights from mombasa to london heathrow
+- 'flights from nairobi to kampala'
+- 'safarilink flights from mombasa to nairobi'
+- 'are there flights from mombasa to lamu'
+- 'does british airways fly to dhaka'
+- 'cheap flights from mombasa to london heathrow'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

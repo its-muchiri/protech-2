@@ -1,14 +1,14 @@
 ---
 title: 'Purchase Kenya Migration Safari August 2025 Online: Complete Guide'
-description: Kenya safari guide covering purchase kenya migration safari august 2025 online, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase kenya migration safari august 2025 online, including what is included, pricing, and booking advice.'
 slug: purchase-kenya-migration-safari-august-2025-online
-primary_keyword: Purchase Kenya migration safari August 2025 online
+primary_keyword: 'Purchase Kenya migration safari August 2025 online'
 secondary_keywords:
-- Independent travel agent Kenya safari booking Europe
-- Kenya safari offers departing within 30 days UK
-- Recommended Kenya honeymoon safari itinerary luxury lodges
-- Quote for 10-day luxury Kenya photographic safari USA private guide included
-- Find best value Kenya mid-range lodge safari package USA reviews operator comparison
+- 'Independent travel agent Kenya safari booking Europe'
+- 'Kenya safari offers departing within 30 days UK'
+- 'Recommended Kenya honeymoon safari itinerary luxury lodges'
+- 'Quote for 10-day luxury Kenya photographic safari USA private guide included'
+- 'Find best value Kenya mid-range lodge safari package USA reviews operator comparison'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

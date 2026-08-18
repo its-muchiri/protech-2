@@ -1,14 +1,14 @@
 ---
 title: 'Patient Lifter and Hoist Suppliers in Mombasa: 2026 Price Guide'
-description: Kenya buying guide to patient lifter and hoist suppliers in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to patient lifter and hoist suppliers in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: patient-lifter-and-hoist-suppliers-in-mombasa
-primary_keyword: Patient lifter and hoist suppliers in Mombasa
+primary_keyword: 'Patient lifter and hoist suppliers in Mombasa'
 secondary_keywords:
-- urology supplies Kenya
-- foldable wheelchair Kenya
-- X-ray machines Kenya price
-- chemistry analyzers Kenya
-- ophthalmic equipment Kenya
+- 'urology supplies Kenya'
+- 'foldable wheelchair Kenya'
+- 'X-ray machines Kenya price'
+- 'chemistry analyzers Kenya'
+- 'ophthalmic equipment Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

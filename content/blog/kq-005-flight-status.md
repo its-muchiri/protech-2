@@ -1,14 +1,14 @@
 ---
 title: 'Kq 005 Flight Status: Complete Guide'
-description: Everything you need to know about kq 005 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 005 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq-005-flight-status
-primary_keyword: kq 005 flight status
+primary_keyword: 'kq 005 flight status'
 secondary_keywords:
-- flights from entebbe to mombasa
-- flights from gatwick to mombasa kenya
-- flights from mombasa to istanbul
-- jambojet flights from mombasa to nairobi timetable
-- kq flights from mombasa to nairobi today timetable
+- 'flights from entebbe to mombasa'
+- 'flights from gatwick to mombasa kenya'
+- 'flights from mombasa to istanbul'
+- 'jambojet flights from mombasa to nairobi timetable'
+- 'kq flights from mombasa to nairobi today timetable'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

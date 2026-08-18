@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Airlines Nairobi to Dubai: Complete Guide'
-description: Everything you need to know about emirates airlines nairobi to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates airlines nairobi to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-airlines-nairobi-to-dubai
-primary_keyword: emirates airlines nairobi to dubai
+primary_keyword: 'emirates airlines nairobi to dubai'
 secondary_keywords:
-- is kisumu safe
-- flights from eldoret to nairobi today
-- flight from eldoret to nairobi how much
-- kenya airways flights from eldoret to nairobi today
-- who flies to penticton
+- 'is kisumu safe'
+- 'flights from eldoret to nairobi today'
+- 'flight from eldoret to nairobi how much'
+- 'kenya airways flights from eldoret to nairobi today'
+- 'who flies to penticton'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

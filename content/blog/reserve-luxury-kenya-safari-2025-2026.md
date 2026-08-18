@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Luxury Kenya Safari 2025/2026: Complete Guide'
-description: Kenya safari guide covering reserve luxury kenya safari 2025/2026, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve luxury kenya safari 2025/2026, including what is included, pricing, and booking advice.'
 slug: reserve-luxury-kenya-safari-2025-2026
-primary_keyword: Reserve luxury Kenya safari 2025/2026
+primary_keyword: 'Reserve luxury Kenya safari 2025/2026'
 secondary_keywords:
-- Kenya shillings exchange rate USD / EUR / GBP
-- Service level agreement Kenya tour operator contract terms
-- Travel agents in Thika town booking safaris Elisa Travel Agency
-- Book private Kenya safari online quote UK
-- Package & Deal Seeking (Packages, Deals, Offers, All-inclusive, Cost, Price, Quote)
+- 'Kenya shillings exchange rate USD / EUR / GBP'
+- 'Service level agreement Kenya tour operator contract terms'
+- 'Travel agents in Thika town booking safaris Elisa Travel Agency'
+- 'Book private Kenya safari online quote UK'
+- 'Package & Deal Seeking (Packages, Deals, Offers, All-inclusive, Cost, Price, Quote)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

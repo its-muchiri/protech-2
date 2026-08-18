@@ -1,14 +1,14 @@
 ---
 title: 'Fly 48: Complete Guide'
-description: Everything you need to know about fly 48, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about fly 48, including routes, airlines, booking tips, and fares.'
 slug: fly-48
-primary_keyword: fly 48
+primary_keyword: 'fly 48'
 secondary_keywords:
-- ethiopian airlines flight from nairobi to addis ababa price
-- ethiopian airlines flight 302 videos
-- flights nairobi to atlanta
-- flights nairobi to barcelona
-- flights nairobi to chicago
+- 'ethiopian airlines flight from nairobi to addis ababa price'
+- 'ethiopian airlines flight 302 videos'
+- 'flights nairobi to atlanta'
+- 'flights nairobi to barcelona'
+- 'flights nairobi to chicago'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

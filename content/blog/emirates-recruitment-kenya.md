@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Recruitment Kenya: Complete Guide'
-description: Everything you need to know about emirates recruitment kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates recruitment kenya, including routes, airlines, booking tips, and fares.'
 slug: emirates-recruitment-kenya
-primary_keyword: emirates recruitment kenya
+primary_keyword: 'emirates recruitment kenya'
 secondary_keywords:
-- flights from nbo to yto
-- flights from kenya to zimbabwe
-- how much is flight from kenya to usa
-- how much is a flight from kenya to tanzania
-- flights from nairobi to malindi
+- 'flights from nbo to yto'
+- 'flights from kenya to zimbabwe'
+- 'how much is flight from kenya to usa'
+- 'how much is a flight from kenya to tanzania'
+- 'flights from nairobi to malindi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

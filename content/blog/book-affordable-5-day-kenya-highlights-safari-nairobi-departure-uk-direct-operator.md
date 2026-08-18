@@ -1,14 +1,14 @@
 ---
 title: 'Book Affordable 5-day Kenya Highlights Safari Nairobi Departure UK Direct Operator: Complete Guide'
-description: Kenya safari guide covering book affordable 5-day kenya highlights safari nairobi departure uk direct operator, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book affordable 5-day kenya highlights safari nairobi departure uk direct operator, including what is included, pricing, and booking advice.'
 slug: book-affordable-5-day-kenya-highlights-safari-nairobi-departure-uk-direct-operator
-primary_keyword: Book affordable 5-day Kenya highlights safari Nairobi departure UK direct operator
+primary_keyword: 'Book affordable 5-day Kenya highlights safari Nairobi departure UK direct operator'
 secondary_keywords:
-- 6 day Kenya safari
-- Kenya safari packages price
-- Kenya safari lodges
-- Family friendly lodges Kenya
-- Cycling safari Kenya
+- '6 day Kenya safari'
+- 'Kenya safari packages price'
+- 'Kenya safari lodges'
+- 'Family friendly lodges Kenya'
+- 'Cycling safari Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

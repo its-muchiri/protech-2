@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Morocco: Complete Guide'
-description: Everything you need to know about flights from kenya to morocco, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to morocco, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-morocco
-primary_keyword: flights from kenya to morocco
+primary_keyword: 'flights from kenya to morocco'
 secondary_keywords:
-- cheap flights from jeddah to kenya
-- kenya airways flights from kinshasa to nairobi
-- flights from lagos to kenya
-- cheap flights from melbourne to nairobi kenya
-- flight from kenya to oman price
+- 'cheap flights from jeddah to kenya'
+- 'kenya airways flights from kinshasa to nairobi'
+- 'flights from lagos to kenya'
+- 'cheap flights from melbourne to nairobi kenya'
+- 'flight from kenya to oman price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

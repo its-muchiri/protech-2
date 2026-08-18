@@ -1,14 +1,14 @@
 ---
 title: 'Cheapest Flights from Kisumu to Nairobi: Complete Guide'
-description: Everything you need to know about cheapest flights from kisumu to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheapest flights from kisumu to nairobi, including routes, airlines, booking tips, and fares.'
 slug: cheapest-flights-from-kisumu-to-nairobi
-primary_keyword: cheapest flights from kisumu to nairobi
+primary_keyword: 'cheapest flights from kisumu to nairobi'
 secondary_keywords:
-- uganda airlines flights from mombasa to entebbe
-- flights to mombasa from nairobi prices
-- flights from kisumu to homa bay
-- how much is flight from kisumu to nairobi
-- flights from kisumu kenya to nairobi kenya
+- 'uganda airlines flights from mombasa to entebbe'
+- 'flights to mombasa from nairobi prices'
+- 'flights from kisumu to homa bay'
+- 'how much is flight from kisumu to nairobi'
+- 'flights from kisumu kenya to nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

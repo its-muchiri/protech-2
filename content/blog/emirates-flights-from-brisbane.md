@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Brisbane: Complete Guide'
-description: Everything you need to know about emirates flights from brisbane, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from brisbane, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-brisbane
-primary_keyword: emirates flights from brisbane
+primary_keyword: 'emirates flights from brisbane'
 secondary_keywords:
-- flights from nairobi to amsterdam today
-- flights from nairobi to boston
-- flights from nairobi to cape town
-- cheap flights from nairobi to usa
-- flights from nairobi to entebbe today
+- 'flights from nairobi to amsterdam today'
+- 'flights from nairobi to boston'
+- 'flights from nairobi to cape town'
+- 'cheap flights from nairobi to usa'
+- 'flights from nairobi to entebbe today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Which Airlines Fly to Eldoret: Complete Guide'
-description: Everything you need to know about which airlines fly to eldoret, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about which airlines fly to eldoret, including routes, airlines, booking tips, and fares.'
 slug: which-airlines-fly-to-eldoret
-primary_keyword: which airlines fly to eldoret
+primary_keyword: 'which airlines fly to eldoret'
 secondary_keywords:
-- flights from kenya to china
-- are there direct flights from kenya to germany
-- flights to kenya from birmingham
-- cheap flights from kenya to ghana
-- flights from kenya to eswatini
+- 'flights from kenya to china'
+- 'are there direct flights from kenya to germany'
+- 'flights to kenya from birmingham'
+- 'cheap flights from kenya to ghana'
+- 'flights from kenya to eswatini'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

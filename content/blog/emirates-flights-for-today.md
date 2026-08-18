@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights for Today: Complete Guide'
-description: Everything you need to know about emirates flights for today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights for today, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-for-today
-primary_keyword: emirates flights for today
+primary_keyword: 'emirates flights for today'
 secondary_keywords:
-- kq 353 flight status today
-- kq 520 flight status
-- kq 610
-- does emirates have domestic flights
-- which terminal is emirates
+- 'kq 353 flight status today'
+- 'kq 520 flight status'
+- 'kq 610'
+- 'does emirates have domestic flights'
+- 'which terminal is emirates'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

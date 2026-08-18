@@ -1,14 +1,14 @@
 ---
 title: 'Best Budget Overland Truck Safari Kenya Deals for European Backpackers: Complete Guide'
-description: Kenya safari guide covering best budget overland truck safari kenya deals for european backpackers, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering best budget overland truck safari kenya deals for european backpackers, including what is included, pricing, and booking advice.'
 slug: best-budget-overland-truck-safari-kenya-deals-for-european-backpackers
-primary_keyword: Best budget overland truck safari Kenya deals for European backpackers
+primary_keyword: 'Best budget overland truck safari Kenya deals for European backpackers'
 secondary_keywords:
-- Sweetwaters Chimpanzee Sanctuary visit
-- Photographic Kenya safari
-- Kenya safari for singles
-- Educational safari Kenya
-- 12 day Kenya safari
+- 'Sweetwaters Chimpanzee Sanctuary visit'
+- 'Photographic Kenya safari'
+- 'Kenya safari for singles'
+- 'Educational safari Kenya'
+- '12 day Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

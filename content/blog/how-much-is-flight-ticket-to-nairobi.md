@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is Flight Ticket to Nairobi: Complete Guide'
-description: Everything you need to know about how much is flight ticket to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is flight ticket to nairobi, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-flight-ticket-to-nairobi
-primary_keyword: how much is flight ticket to nairobi
+primary_keyword: 'how much is flight ticket to nairobi'
 secondary_keywords:
-- flights nairobi to uk
-- nairobi to victoria falls flights
-- nairobi to windhoek flights
-- nairobi to zanzibar google flights
-- 2 bedroom houses for rent in nairobi
+- 'flights nairobi to uk'
+- 'nairobi to victoria falls flights'
+- 'nairobi to windhoek flights'
+- 'nairobi to zanzibar google flights'
+- '2 bedroom houses for rent in nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi to Lodwar Flights: Complete Guide'
-description: Everything you need to know about nairobi to lodwar flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about nairobi to lodwar flights, including routes, airlines, booking tips, and fares.'
 slug: nairobi-to-lodwar-flights
-primary_keyword: nairobi to lodwar flights
+primary_keyword: 'nairobi to lodwar flights'
 secondary_keywords:
-- flights from nairobi to ghana
-- flights from nairobi to hong kong
-- flights in nairobi
-- flights from nairobi to jinja uganda
-- kenya airways flights from nairobi to addis ababa prices
+- 'flights from nairobi to ghana'
+- 'flights from nairobi to hong kong'
+- 'flights in nairobi'
+- 'flights from nairobi to jinja uganda'
+- 'kenya airways flights from nairobi to addis ababa prices'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

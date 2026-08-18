@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Airways Nairobi: Complete Guide'
-description: Everything you need to know about emirates airways nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates airways nairobi, including routes, airlines, booking tips, and fares.'
 slug: emirates-airways-nairobi
-primary_keyword: emirates airways nairobi
+primary_keyword: 'emirates airways nairobi'
 secondary_keywords:
-- jambojet flights from kisumu to nairobi ticket price
-- kisumu flight schedule
-- which airlines fly to eldoret
-- flight from eldoret to kitale
-- flights from nbo to eldoret
+- 'jambojet flights from kisumu to nairobi ticket price'
+- 'kisumu flight schedule'
+- 'which airlines fly to eldoret'
+- 'flight from eldoret to kitale'
+- 'flights from nbo to eldoret'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

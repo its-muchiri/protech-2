@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight Schedule: Complete Guide'
-description: Everything you need to know about kenya airways flight schedule, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight schedule, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-schedule
-primary_keyword: kenya airways flight schedule
+primary_keyword: 'kenya airways flight schedule'
 secondary_keywords:
-- local flights in kenya
-- flights from kenya to south africa
-- flights to kenya cancelled
-- flights to kenya emirates
-- flights to kenya google
+- 'local flights in kenya'
+- 'flights from kenya to south africa'
+- 'flights to kenya cancelled'
+- 'flights to kenya emirates'
+- 'flights to kenya google'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

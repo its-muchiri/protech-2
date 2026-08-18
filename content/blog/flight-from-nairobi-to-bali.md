@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Bali: Complete Guide'
-description: Everything you need to know about flight from nairobi to bali, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to bali, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-bali
-primary_keyword: flight from nairobi to bali
+primary_keyword: 'flight from nairobi to bali'
 secondary_keywords:
-- emirates flight 3
-- emirates flight 435
-- emirates flight 614
-- emirates flight 818
-- emirates flight 977
+- 'emirates flight 3'
+- 'emirates flight 435'
+- 'emirates flight 614'
+- 'emirates flight 818'
+- 'emirates flight 977'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

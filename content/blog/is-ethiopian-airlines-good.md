@@ -1,14 +1,14 @@
 ---
 title: 'Is Ethiopian Airlines Good: Complete Guide'
-description: Everything you need to know about is ethiopian airlines good, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about is ethiopian airlines good, including routes, airlines, booking tips, and fares.'
 slug: is-ethiopian-airlines-good
-primary_keyword: is ethiopian airlines good
+primary_keyword: 'is ethiopian airlines good'
 secondary_keywords:
-- flights from nairobi kenya to santorini greece
-- flights from nairobi to lagos
-- flights from nairobi to minneapolis
-- flights from nairobi to nyc
-- flights from nairobi to or tambo
+- 'flights from nairobi kenya to santorini greece'
+- 'flights from nairobi to lagos'
+- 'flights from nairobi to minneapolis'
+- 'flights from nairobi to nyc'
+- 'flights from nairobi to or tambo'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

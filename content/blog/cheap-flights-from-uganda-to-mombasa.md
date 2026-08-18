@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Uganda to Mombasa: Complete Guide'
-description: Everything you need to know about cheap flights from uganda to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from uganda to mombasa, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-uganda-to-mombasa
-primary_keyword: cheap flights from uganda to mombasa
+primary_keyword: 'cheap flights from uganda to mombasa'
 secondary_keywords:
-- flights from wilson to eldoret
-- kq airlines flight status
-- kq flying blue miles
-- kq flight charges
-- kq flight diverted
+- 'flights from wilson to eldoret'
+- 'kq airlines flight status'
+- 'kq flying blue miles'
+- 'kq flight charges'
+- 'kq flight diverted'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

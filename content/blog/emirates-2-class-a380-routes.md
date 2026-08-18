@@ -1,14 +1,14 @@
 ---
 title: 'Emirates 2 Class A380 Routes: Complete Guide'
-description: Everything you need to know about emirates 2 class a380 routes, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates 2 class a380 routes, including routes, airlines, booking tips, and fares.'
 slug: emirates-2-class-a380-routes
-primary_keyword: emirates 2 class a380 routes
+primary_keyword: 'emirates 2 class a380 routes'
 secondary_keywords:
-- flights from nairobi to uganda
-- flights from nairobi to valencia
-- watamu flights from nairobi
-- flights from nairobi to zanzibar today
-- flights to nairobi 2025
+- 'flights from nairobi to uganda'
+- 'flights from nairobi to valencia'
+- 'watamu flights from nairobi'
+- 'flights from nairobi to zanzibar today'
+- 'flights to nairobi 2025'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

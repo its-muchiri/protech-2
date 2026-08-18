@@ -1,14 +1,14 @@
 ---
 title: 'Cataract Surgery Set Cost: 2026 Price Guide'
-description: Kenya buying guide to cataract surgery set cost. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to cataract surgery set cost. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: cataract-surgery-set-cost
-primary_keyword: Cataract surgery set cost
+primary_keyword: 'Cataract surgery set cost'
 secondary_keywords:
-- Nurse call system for hospitals price
-- Medical equipment installation and training services
-- X-ray machine quality assurance services
-- Laboratory equipment suppliers in Meru
-- Defibrillator price in Nakuru town
+- 'Nurse call system for hospitals price'
+- 'Medical equipment installation and training services'
+- 'X-ray machine quality assurance services'
+- 'Laboratory equipment suppliers in Meru'
+- 'Defibrillator price in Nakuru town'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is a Flight from Nairobi to Qatar: Complete Guide'
-description: Everything you need to know about how much is a flight from nairobi to qatar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is a flight from nairobi to qatar, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-a-flight-from-nairobi-to-qatar
-primary_keyword: how much is a flight from nairobi to qatar
+primary_keyword: 'how much is a flight from nairobi to qatar'
 secondary_keywords:
-- emirates flights from phoenix to dubai
-- emirates flight qf8435
-- emirates flights from riyadh
-- emirates flights from toronto
-- emirates flights from usa to india
+- 'emirates flights from phoenix to dubai'
+- 'emirates flight qf8435'
+- 'emirates flights from riyadh'
+- 'emirates flights from toronto'
+- 'emirates flights from usa to india'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

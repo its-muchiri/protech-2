@@ -1,14 +1,14 @@
 ---
 title: 'Rwandair Flights from Nairobi to Kigali Ticket Price: Complete Guide'
-description: Everything you need to know about rwandair flights from nairobi to kigali ticket price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about rwandair flights from nairobi to kigali ticket price, including routes, airlines, booking tips, and fares.'
 slug: rwandair-flights-from-nairobi-to-kigali-ticket-price
-primary_keyword: rwandair flights from nairobi to kigali ticket price
+primary_keyword: 'rwandair flights from nairobi to kigali ticket price'
 secondary_keywords:
-- kenya airways flights from nairobi to addis ababa prices today
-- kenya airways customer care
-- is kenya airways reliable
-- kenya airways flight from nairobi to london today ticket price
-- kenya airways flight schedule to mauritius from nairobi
+- 'kenya airways flights from nairobi to addis ababa prices today'
+- 'kenya airways customer care'
+- 'is kenya airways reliable'
+- 'kenya airways flight from nairobi to london today ticket price'
+- 'kenya airways flight schedule to mauritius from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

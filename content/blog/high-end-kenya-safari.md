@@ -1,14 +1,14 @@
 ---
 title: 'High-end Kenya Safari: Complete Guide'
-description: Kenya safari guide covering high-end kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering high-end kenya safari, including what is included, pricing, and booking advice.'
 slug: high-end-kenya-safari
-primary_keyword: High-end Kenya safari
+primary_keyword: 'High-end Kenya safari'
 secondary_keywords:
-- Get quote for custom Kenya safari UK specialist
-- Kenya photographic safari workshop booking UK pro guide
-- Specific Locations (Masai Mara, Amboseli, Tsavo, Samburu, Nakuru, Laikipia, etc.)
-- Aberdare National Park tree lodge safari booking UK
-- Kenya tour operators for UK market recommendations
+- 'Get quote for custom Kenya safari UK specialist'
+- 'Kenya photographic safari workshop booking UK pro guide'
+- 'Specific Locations (Masai Mara, Amboseli, Tsavo, Samburu, Nakuru, Laikipia, etc.)'
+- 'Aberdare National Park tree lodge safari booking UK'
+- 'Kenya tour operators for UK market recommendations'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Dental CBCT Scan Machine for Sale in Kenya: 2026 Price Guide'
-description: Kenya buying guide to dental cbct scan machine for sale in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to dental cbct scan machine for sale in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: dental-cbct-scan-machine-for-sale-in-kenya
-primary_keyword: Dental CBCT scan machine for sale in Kenya
+primary_keyword: 'Dental CBCT scan machine for sale in Kenya'
 secondary_keywords:
-- Heavy-duty wheelchair for bariatric patients
-- IV drip stand for sale in Eldoret
-- Fetal monitor / CTG machine price in Kenya
-- Bubble CPAP machine for neonates
-- Portable electrotherapy device for home use
+- 'Heavy-duty wheelchair for bariatric patients'
+- 'IV drip stand for sale in Eldoret'
+- 'Fetal monitor / CTG machine price in Kenya'
+- 'Bubble CPAP machine for neonates'
+- 'Portable electrotherapy device for home use'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

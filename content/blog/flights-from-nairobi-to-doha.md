@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Doha: Complete Guide'
-description: Everything you need to know about flights from nairobi to doha, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to doha, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-doha
-primary_keyword: flights from nairobi to doha
+primary_keyword: 'flights from nairobi to doha'
 secondary_keywords:
-- emirates flights from sydney today
-- emirates flights from usa
-- emirates flights from venice
-- emirates airlines from which country
-- emirates flights from new york to mumbai
+- 'emirates flights from sydney today'
+- 'emirates flights from usa'
+- 'emirates flights from venice'
+- 'emirates airlines from which country'
+- 'emirates flights from new york to mumbai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

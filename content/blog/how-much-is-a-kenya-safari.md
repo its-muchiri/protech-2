@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is a Kenya Safari: Complete Guide'
-description: Kenya safari guide covering how much is a kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering how much is a kenya safari, including what is included, pricing, and booking advice.'
 slug: how-much-is-a-kenya-safari
-primary_keyword: How much is a Kenya safari
+primary_keyword: 'How much is a Kenya safari'
 secondary_keywords:
-- Quote for 9 day Kenya small group safari package tour
-- Get deal 12 day Kenya Tanzania migration combo package booking
-- Purchase voucher Kenya family safari package
-- Buy discounted off-peak Kenya safari package April
-- Quote all-in price 10 day family safari Kenya December
+- 'Quote for 9 day Kenya small group safari package tour'
+- 'Get deal 12 day Kenya Tanzania migration combo package booking'
+- 'Purchase voucher Kenya family safari package'
+- 'Buy discounted off-peak Kenya safari package April'
+- 'Quote all-in price 10 day family safari Kenya December'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

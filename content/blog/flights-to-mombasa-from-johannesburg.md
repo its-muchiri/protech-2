@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Mombasa from Johannesburg: Complete Guide'
-description: Everything you need to know about flights to mombasa from johannesburg, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to mombasa from johannesburg, including routes, airlines, booking tips, and fares.'
 slug: flights-to-mombasa-from-johannesburg
-primary_keyword: flights to mombasa from johannesburg
+primary_keyword: 'flights to mombasa from johannesburg'
 secondary_keywords:
-- emirates airlines kenya contacts
-- emirates jkia nairobi
-- emirates shoes nairobi
-- emirates flights to kenya from london
-- emirates flight from kenya to dubai price tomorrow
+- 'emirates airlines kenya contacts'
+- 'emirates jkia nairobi'
+- 'emirates shoes nairobi'
+- 'emirates flights to kenya from london'
+- 'emirates flight from kenya to dubai price tomorrow'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kq Airlines Contact Number: Complete Guide'
-description: Everything you need to know about kq airlines contact number, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq airlines contact number, including routes, airlines, booking tips, and fares.'
 slug: kq-airlines-contact-number
-primary_keyword: kq airlines contact number
+primary_keyword: 'kq airlines contact number'
 secondary_keywords:
-- kenya airways flight 431 survivors
-- flight from nairobi to accra
-- flight from nairobi to bungoma
-- british airways flight from nairobi to london today
-- cheapest flight from nairobi to zanzibar
+- 'kenya airways flight 431 survivors'
+- 'flight from nairobi to accra'
+- 'flight from nairobi to bungoma'
+- 'british airways flight from nairobi to london today'
+- 'cheapest flight from nairobi to zanzibar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

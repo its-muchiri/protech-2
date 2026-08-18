@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Berlin Germany: Complete Guide'
-description: Everything you need to know about flights from nairobi to berlin germany, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to berlin germany, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-berlin-germany
-primary_keyword: flights from nairobi to berlin germany
+primary_keyword: 'flights from nairobi to berlin germany'
 secondary_keywords:
-- how much flight from nairobi to qatar
-- qatar airways nairobi office opening hours
-- qatar airways from nairobi to qatar
-- kq flights from nairobi to china today
-- kq flight from nairobi to mombasa
+- 'how much flight from nairobi to qatar'
+- 'qatar airways nairobi office opening hours'
+- 'qatar airways from nairobi to qatar'
+- 'kq flights from nairobi to china today'
+- 'kq flight from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

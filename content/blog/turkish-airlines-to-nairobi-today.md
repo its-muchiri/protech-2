@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines to Nairobi Today: Complete Guide'
-description: Everything you need to know about turkish airlines to nairobi today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines to nairobi today, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-to-nairobi-today
-primary_keyword: turkish airlines to nairobi today
+primary_keyword: 'turkish airlines to nairobi today'
 secondary_keywords:
-- flight from nairobi to hungary
-- flight from nairobi to jfk today
-- flight from nairobi kenya to panama city panama
-- lufthansa flight from nairobi
-- madagascar flight from nairobi
+- 'flight from nairobi to hungary'
+- 'flight from nairobi to jfk today'
+- 'flight from nairobi kenya to panama city panama'
+- 'lufthansa flight from nairobi'
+- 'madagascar flight from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

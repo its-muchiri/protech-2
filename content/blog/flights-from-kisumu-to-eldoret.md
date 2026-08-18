@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kisumu to Eldoret: Complete Guide'
-description: Everything you need to know about flights from kisumu to eldoret, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kisumu to eldoret, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kisumu-to-eldoret
-primary_keyword: flights from kisumu to eldoret
+primary_keyword: 'flights from kisumu to eldoret'
 secondary_keywords:
-- emirates flights qantas points
-- emirates flights from rome to dubai
-- emirates flights from south africa to australia
-- emirates flights from zimbabwe to uk
-- emirates flights from vancouver to india
+- 'emirates flights qantas points'
+- 'emirates flights from rome to dubai'
+- 'emirates flights from south africa to australia'
+- 'emirates flights from zimbabwe to uk'
+- 'emirates flights from vancouver to india'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

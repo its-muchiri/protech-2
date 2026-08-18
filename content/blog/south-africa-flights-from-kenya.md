@@ -1,14 +1,14 @@
 ---
 title: 'South Africa Flights from Kenya: Complete Guide'
-description: Everything you need to know about south africa flights from kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about south africa flights from kenya, including routes, airlines, booking tips, and fares.'
 slug: south-africa-flights-from-kenya
-primary_keyword: south africa flights from kenya
+primary_keyword: 'south africa flights from kenya'
 secondary_keywords:
-- flights from mombasa to homa bay
-- flight from mombasa to china
-- flights from mombasa to durban
-- flights from mombasa to frankfurt germany
-- flights from mombasa to london heathrow
+- 'flights from mombasa to homa bay'
+- 'flight from mombasa to china'
+- 'flights from mombasa to durban'
+- 'flights from mombasa to frankfurt germany'
+- 'flights from mombasa to london heathrow'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

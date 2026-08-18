@@ -1,14 +1,14 @@
 ---
 title: 'CPAP Machine for Sleep Apnea for Sale in Kisumu: 2026 Price Guide'
-description: Kenya buying guide to cpap machine for sleep apnea for sale in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to cpap machine for sleep apnea for sale in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: cpap-machine-for-sleep-apnea-for-sale-in-kisumu
-primary_keyword: CPAP machine for sleep apnea for sale in Kisumu
+primary_keyword: 'CPAP machine for sleep apnea for sale in Kisumu'
 secondary_keywords:
-- hydrogen peroxide medical Kenya
-- cold chain boxes Kenya
-- medical gauze manufacturers Kenya
-- lab glass slides Kenya
-- blood transfusion sets Kenya
+- 'hydrogen peroxide medical Kenya'
+- 'cold chain boxes Kenya'
+- 'medical gauze manufacturers Kenya'
+- 'lab glass slides Kenya'
+- 'blood transfusion sets Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

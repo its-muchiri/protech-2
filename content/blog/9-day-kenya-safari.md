@@ -1,14 +1,14 @@
 ---
 title: '9 Day Kenya Safari: Complete Guide'
-description: Kenya safari guide covering 9 day kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering 9 day kenya safari, including what is included, pricing, and booking advice.'
 slug: 9-day-kenya-safari
-primary_keyword: 9 day Kenya safari
+primary_keyword: '9 day Kenya safari'
 secondary_keywords:
-- Kakamega Forest safari
-- Child-friendly Kenya safari
-- Tailor-made Kenya safari
-- Camel safari Kenya
-- 8 day Kenya safari
+- 'Kakamega Forest safari'
+- 'Child-friendly Kenya safari'
+- 'Tailor-made Kenya safari'
+- 'Camel safari Kenya'
+- '8 day Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

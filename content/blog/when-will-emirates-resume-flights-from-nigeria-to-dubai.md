@@ -1,14 +1,14 @@
 ---
 title: 'When Will Emirates Resume Flights from Nigeria to Dubai: Complete Guide'
-description: Everything you need to know about when will emirates resume flights from nigeria to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about when will emirates resume flights from nigeria to dubai, including routes, airlines, booking tips, and fares.'
 slug: when-will-emirates-resume-flights-from-nigeria-to-dubai
-primary_keyword: when will emirates resume flights from nigeria to dubai
+primary_keyword: 'when will emirates resume flights from nigeria to dubai'
 secondary_keywords:
-- kenya airways flights from nairobi to seychelles
-- flight from nairobi to dubai price
-- air france flight from nairobi to paris
-- booking flight from nairobi to mombasa
-- flight from nairobi to calgary
+- 'kenya airways flights from nairobi to seychelles'
+- 'flight from nairobi to dubai price'
+- 'air france flight from nairobi to paris'
+- 'booking flight from nairobi to mombasa'
+- 'flight from nairobi to calgary'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Geneva: Complete Guide'
-description: Everything you need to know about flights from nairobi to geneva, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to geneva, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-geneva
-primary_keyword: flights from nairobi to geneva
+primary_keyword: 'flights from nairobi to geneva'
 secondary_keywords:
-- flights from nairobi to garissa
-- flights from nairobi to hyderabad india
-- flight from nairobi to india price
-- flights from nairobi to jakarta
-- kisumu flights from nairobi
+- 'flights from nairobi to garissa'
+- 'flights from nairobi to hyderabad india'
+- 'flight from nairobi to india price'
+- 'flights from nairobi to jakarta'
+- 'kisumu flights from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

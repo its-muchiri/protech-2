@@ -1,14 +1,14 @@
 ---
 title: 'Best Price Guarantee Kenya Migration Safari Package Reserve: Complete Guide'
-description: Kenya safari guide covering best price guarantee kenya migration safari package reserve, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering best price guarantee kenya migration safari package reserve, including what is included, pricing, and booking advice.'
 slug: best-price-guarantee-kenya-migration-safari-package-reserve
-primary_keyword: Best price guarantee Kenya migration safari package reserve
+primary_keyword: 'Best price guarantee Kenya migration safari package reserve'
 secondary_keywords:
-- Community-based tourism operators Kenya
-- Laikipia conservancy tours luxury
-- Chyulu Hills safari operators
-- Photographic safari workshops Kenya operators
-- Sheldrick Elephant Orphanage visit organizers
+- 'Community-based tourism operators Kenya'
+- 'Laikipia conservancy tours luxury'
+- 'Chyulu Hills safari operators'
+- 'Photographic safari workshops Kenya operators'
+- 'Sheldrick Elephant Orphanage visit organizers'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

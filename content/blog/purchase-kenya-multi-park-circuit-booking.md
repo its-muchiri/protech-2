@@ -1,14 +1,14 @@
 ---
 title: 'Purchase Kenya Multi-park Circuit Booking: Complete Guide'
-description: Kenya safari guide covering purchase kenya multi-park circuit booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase kenya multi-park circuit booking, including what is included, pricing, and booking advice.'
 slug: purchase-kenya-multi-park-circuit-booking
-primary_keyword: Purchase Kenya multi-park circuit booking
+primary_keyword: 'Purchase Kenya multi-park circuit booking'
 secondary_keywords:
-- Book multi-generational family reunion safari package Kenya
-- Kenya ground handlers directory
-- Best Amboseli tour operators Kenya
-- Lamu Island cultural tour operators
-- Kenya driving safari 4x4 Land Cruiser companies
+- 'Book multi-generational family reunion safari package Kenya'
+- 'Kenya ground handlers directory'
+- 'Best Amboseli tour operators Kenya'
+- 'Lamu Island cultural tour operators'
+- 'Kenya driving safari 4x4 Land Cruiser companies'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

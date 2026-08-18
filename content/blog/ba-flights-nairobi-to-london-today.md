@@ -1,14 +1,14 @@
 ---
 title: 'Ba Flights Nairobi to London Today: Complete Guide'
-description: Everything you need to know about ba flights nairobi to london today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ba flights nairobi to london today, including routes, airlines, booking tips, and fares.'
 slug: ba-flights-nairobi-to-london-today
-primary_keyword: ba flights nairobi to london today
+primary_keyword: 'ba flights nairobi to london today'
 secondary_keywords:
-- kq flights to senegal
-- kq flights from nairobi to london
-- kq flight 100
-- kq 274 flight status
-- kq flight 4
+- 'kq flights to senegal'
+- 'kq flights from nairobi to london'
+- 'kq flight 100'
+- 'kq 274 flight status'
+- 'kq flight 4'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Hospital Fowler Bed Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to hospital fowler bed price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to hospital fowler bed price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: hospital-fowler-bed-price-in-kenya
-primary_keyword: Hospital Fowler bed price in Kenya
+primary_keyword: 'Hospital Fowler bed price in Kenya'
 secondary_keywords:
-- essential medical supplies Kenya
-- nebulizers Kenya price
-- infusion pumps Kenya price
-- vaccine fridge Kenya
-- IV stands Kenya price
+- 'essential medical supplies Kenya'
+- 'nebulizers Kenya price'
+- 'infusion pumps Kenya price'
+- 'vaccine fridge Kenya'
+- 'IV stands Kenya price'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

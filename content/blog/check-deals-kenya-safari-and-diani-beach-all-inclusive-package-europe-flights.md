@@ -1,14 +1,14 @@
 ---
 title: 'Check Deals Kenya Safari and Diani Beach All-inclusive Package Europe Flights: Complete Guide'
-description: Kenya safari guide covering check deals kenya safari and diani beach all-inclusive package europe flights, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering check deals kenya safari and diani beach all-inclusive package europe flights, including what is included, pricing, and booking advice.'
 slug: check-deals-kenya-safari-and-diani-beach-all-inclusive-package-europe-flights
-primary_keyword: Check deals Kenya safari and Diani beach all-inclusive package Europe flights
+primary_keyword: 'Check deals Kenya safari and Diani beach all-inclusive package Europe flights'
 secondary_keywords:
-- Luxury all-inclusive Kenya safari reviews Forbes Travel Guide
-- Reserve private Samburu & Laikipia safari tour online UK quote
-- Reserve specialist bird watching tour package Lake Baringo Kenya USA expert guide hire
-- Book Samburu special five photography safari package Europe expert guide availability
-- Book budget overland truck safari Nairobi to Cape Town including Kenya section UK price duration
+- 'Luxury all-inclusive Kenya safari reviews Forbes Travel Guide'
+- 'Reserve private Samburu & Laikipia safari tour online UK quote'
+- 'Reserve specialist bird watching tour package Lake Baringo Kenya USA expert guide hire'
+- 'Book Samburu special five photography safari package Europe expert guide availability'
+- 'Book budget overland truck safari Nairobi to Cape Town including Kenya section UK price duration'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

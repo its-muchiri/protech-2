@@ -1,14 +1,14 @@
 ---
 title: 'Problems with Kenya Safari Booking: Complete Guide'
-description: Kenya safari guide covering problems with kenya safari booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering problems with kenya safari booking, including what is included, pricing, and booking advice.'
 slug: problems-with-kenya-safari-booking
-primary_keyword: Problems with Kenya safari booking
+primary_keyword: 'Problems with Kenya safari booking'
 secondary_keywords:
-- Family adventure safari package Kenya
-- Promo code Kenya safari package
-- East Africa highlights tour package cost
-- Green season Kenya safari package booking
-- Kenya safari price quote
+- 'Family adventure safari package Kenya'
+- 'Promo code Kenya safari package'
+- 'East Africa highlights tour package cost'
+- 'Green season Kenya safari package booking'
+- 'Kenya safari price quote'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Stress Test ECG System Price: 2026 Price Guide'
-description: Kenya buying guide to stress test ecg system price. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to stress test ecg system price. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: stress-test-ecg-system-price
-primary_keyword: Stress test ECG system price
+primary_keyword: 'Stress test ECG system price'
 secondary_keywords:
-- medical trade shows Kenya
-- dental clinic setup cost Kenya
-- rehabilitation aids Kenya
-- Mobile CT scanner rental services in Kenya
-- Ultrasound probe repair services in Nairobi
+- 'medical trade shows Kenya'
+- 'dental clinic setup cost Kenya'
+- 'rehabilitation aids Kenya'
+- 'Mobile CT scanner rental services in Kenya'
+- 'Ultrasound probe repair services in Nairobi'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

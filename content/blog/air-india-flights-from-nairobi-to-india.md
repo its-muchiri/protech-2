@@ -1,14 +1,14 @@
 ---
 title: 'Air India Flights from Nairobi to India: Complete Guide'
-description: Everything you need to know about air india flights from nairobi to india, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about air india flights from nairobi to india, including routes, airlines, booking tips, and fares.'
 slug: air-india-flights-from-nairobi-to-india
-primary_keyword: air india flights from nairobi to india
+primary_keyword: 'air india flights from nairobi to india'
 secondary_keywords:
-- emirates flights from gatwick today
-- how many emirates flights from uk to dubai
-- emirates flights to india from uk
-- emirates flights from johannesburg to dublin
-- emirates flights from london to dubai
+- 'emirates flights from gatwick today'
+- 'how many emirates flights from uk to dubai'
+- 'emirates flights to india from uk'
+- 'emirates flights from johannesburg to dublin'
+- 'emirates flights from london to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

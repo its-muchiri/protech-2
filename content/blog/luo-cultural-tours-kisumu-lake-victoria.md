@@ -1,14 +1,14 @@
 ---
 title: 'Luo Cultural Tours Kisumu Lake Victoria: Complete Guide'
-description: Kenya safari guide covering luo cultural tours kisumu lake victoria, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering luo cultural tours kisumu lake victoria, including what is included, pricing, and booking advice.'
 slug: luo-cultural-tours-kisumu-lake-victoria
-primary_keyword: Luo cultural tours Kisumu Lake Victoria
+primary_keyword: 'Luo cultural tours Kisumu Lake Victoria'
 secondary_keywords:
-- All-inclusive Kenya safari
-- Day trip safari Kenya
-- Three week Kenya safari
-- Kenya safari payment plan
-- Safari hotels Kenya
+- 'All-inclusive Kenya safari'
+- 'Day trip safari Kenya'
+- 'Three week Kenya safari'
+- 'Kenya safari payment plan'
+- 'Safari hotels Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Saudi Arabia to Nairobi: Complete Guide'
-description: Everything you need to know about flights from saudi arabia to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from saudi arabia to nairobi, including routes, airlines, booking tips, and fares.'
 slug: flights-from-saudi-arabia-to-nairobi
-primary_keyword: flights from saudi arabia to nairobi
+primary_keyword: 'flights from saudi arabia to nairobi'
 secondary_keywords:
-- kenya 3
-- flight from kenya to amsterdam
-- flights from kenya to burundi
-- flights from kenya to cairo
-- flights from kenya to durban
+- 'kenya 3'
+- 'flight from kenya to amsterdam'
+- 'flights from kenya to burundi'
+- 'flights from kenya to cairo'
+- 'flights from kenya to durban'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

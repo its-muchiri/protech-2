@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Kigali from Kisumu: Complete Guide'
-description: Everything you need to know about flights to kigali from kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to kigali from kisumu, including routes, airlines, booking tips, and fares.'
 slug: flights-to-kigali-from-kisumu
-primary_keyword: flights to kigali from kisumu
+primary_keyword: 'flights to kigali from kisumu'
 secondary_keywords:
-- flights in nairobi
-- flights from nairobi to jinja uganda
-- kenya airways flights from nairobi to addis ababa prices
-- flights to nairobi from london
-- skyward flights from mombasa to nairobi
+- 'flights in nairobi'
+- 'flights from nairobi to jinja uganda'
+- 'kenya airways flights from nairobi to addis ababa prices'
+- 'flights to nairobi from london'
+- 'skyward flights from mombasa to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

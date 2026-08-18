@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 803: Complete Guide'
-description: Everything you need to know about emirates flight 803, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 803, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-803
-primary_keyword: emirates flight 803
+primary_keyword: 'emirates flight 803'
 secondary_keywords:
-- kq flights from london to nairobi today
-- kq flights nairobi to london
-- kq flight radar
-- kq flight schedule kisumu to nairobi
-- kq flight new york to nairobi
+- 'kq flights from london to nairobi today'
+- 'kq flights nairobi to london'
+- 'kq flight radar'
+- 'kq flight schedule kisumu to nairobi'
+- 'kq flight new york to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

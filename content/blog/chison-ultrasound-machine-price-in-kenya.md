@@ -1,14 +1,14 @@
 ---
 title: 'Chison Ultrasound Machine Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to chison ultrasound machine price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to chison ultrasound machine price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: chison-ultrasound-machine-price-in-kenya
-primary_keyword: Chison ultrasound machine price in Kenya
+primary_keyword: 'Chison ultrasound machine price in Kenya'
 secondary_keywords:
-- Refrigerated centrifuge cost in Eldoret
-- Laboratory refrigerator and freezer cost in Mombasa
-- Cataract surgery set cost
-- Patient monitor for operating theatre cost
-- 2-crank manual hospital bed for sale in Kenya
+- 'Refrigerated centrifuge cost in Eldoret'
+- 'Laboratory refrigerator and freezer cost in Mombasa'
+- 'Cataract surgery set cost'
+- 'Patient monitor for operating theatre cost'
+- '2-crank manual hospital bed for sale in Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

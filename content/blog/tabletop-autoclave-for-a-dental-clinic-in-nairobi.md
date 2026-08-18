@@ -1,14 +1,14 @@
 ---
 title: 'Tabletop Autoclave for a Dental Clinic in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to tabletop autoclave for a dental clinic in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to tabletop autoclave for a dental clinic in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: tabletop-autoclave-for-a-dental-clinic-in-nairobi
-primary_keyword: Tabletop autoclave for a dental clinic in Nairobi
+primary_keyword: 'Tabletop autoclave for a dental clinic in Nairobi'
 secondary_keywords:
-- Endoscope repair services in Kenya
-- Laminar air flow for IVF lab cost
-- audiometry testing services in Mombasa
-- nurse call system with wireless pendants
-- hearing aid suppliers in Nairobi
+- 'Endoscope repair services in Kenya'
+- 'Laminar air flow for IVF lab cost'
+- 'audiometry testing services in Mombasa'
+- 'nurse call system with wireless pendants'
+- 'hearing aid suppliers in Nairobi'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

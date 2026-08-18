@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Tour Dates and Prices USA 2025 Calendar: Complete Guide'
-description: Kenya safari guide covering kenya safari tour dates and prices usa 2025 calendar, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari tour dates and prices usa 2025 calendar, including what is included, pricing, and booking advice.'
 slug: kenya-safari-tour-dates-and-prices-usa-2025-calendar
-primary_keyword: Kenya safari tour dates and prices USA 2025 calendar
+primary_keyword: 'Kenya safari tour dates and prices USA 2025 calendar'
 secondary_keywords:
-- Secure Borana Conservancy luxury safari booking
-- Buy two week Kenya adventure tour reservation
-- Book photographic safari Kenya specialist tour
-- Budget for guided Kenya safari tour
-- 7 day classic Kenya safari package price list
+- 'Secure Borana Conservancy luxury safari booking'
+- 'Buy two week Kenya adventure tour reservation'
+- 'Book photographic safari Kenya specialist tour'
+- 'Budget for guided Kenya safari tour'
+- '7 day classic Kenya safari package price list'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

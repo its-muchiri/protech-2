@@ -1,14 +1,14 @@
 ---
 title: 'Gynecological Examination Chair for Sale in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to gynecological examination chair for sale in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to gynecological examination chair for sale in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: gynecological-examination-chair-for-sale-in-nairobi
-primary_keyword: Gynecological examination chair for sale in Nairobi
+primary_keyword: 'Gynecological examination chair for sale in Nairobi'
 secondary_keywords:
-- mental health technology solutions
-- hospital supplies Kenya
-- online medical supplies Kenya
-- medical equipment suppliers Mombasa
-- alcohol swabs Kenya pack
+- 'mental health technology solutions'
+- 'hospital supplies Kenya'
+- 'online medical supplies Kenya'
+- 'medical equipment suppliers Mombasa'
+- 'alcohol swabs Kenya pack'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

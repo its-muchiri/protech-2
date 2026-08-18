@@ -1,14 +1,14 @@
 ---
 title: 'Air Arabia Flights from Nairobi to Dubai: Complete Guide'
-description: Everything you need to know about air arabia flights from nairobi to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about air arabia flights from nairobi to dubai, including routes, airlines, booking tips, and fares.'
 slug: air-arabia-flights-from-nairobi-to-dubai
-primary_keyword: air arabia flights from nairobi to dubai
+primary_keyword: 'air arabia flights from nairobi to dubai'
 secondary_keywords:
-- cheap flights from new york to kenya
-- how much is flight from kenya to south africa
-- 748 flights to kisumu
-- flights from nairobi to kisumu
-- air india flights from nairobi to mumbai
+- 'cheap flights from new york to kenya'
+- 'how much is flight from kenya to south africa'
+- '748 flights to kisumu'
+- 'flights from nairobi to kisumu'
+- 'air india flights from nairobi to mumbai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

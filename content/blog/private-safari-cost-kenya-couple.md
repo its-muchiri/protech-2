@@ -1,14 +1,14 @@
 ---
 title: 'Private Safari Cost Kenya Couple: Complete Guide'
-description: Kenya safari guide covering private safari cost kenya couple, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering private safari cost kenya couple, including what is included, pricing, and booking advice.'
 slug: private-safari-cost-kenya-couple
-primary_keyword: Private safari cost Kenya couple
+primary_keyword: 'Private safari cost Kenya couple'
 secondary_keywords:
-- 10 day Kenya safari
-- Budget safari lodges Kenya
-- Eco lodges Kenya safari
-- Masai Mara balloon safari
-- Big Five safari Kenya
+- '10 day Kenya safari'
+- 'Budget safari lodges Kenya'
+- 'Eco lodges Kenya safari'
+- 'Masai Mara balloon safari'
+- 'Big Five safari Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

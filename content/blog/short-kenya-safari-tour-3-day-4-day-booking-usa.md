@@ -1,14 +1,14 @@
 ---
 title: 'Short Kenya Safari Tour (3-day/4-day) Booking USA: Complete Guide'
-description: Kenya safari guide covering short kenya safari tour (3-day/4-day) booking usa, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering short kenya safari tour (3-day/4-day) booking usa, including what is included, pricing, and booking advice.'
 slug: short-kenya-safari-tour-3-day-4-day-booking-usa
-primary_keyword: Short Kenya safari tour (3-day/4-day) booking USA
+primary_keyword: 'Short Kenya safari tour (3-day/4-day) booking USA'
 secondary_keywords:
-- Buy 4 day Masai Mara express tour booking
-- Secure extended stay Kenya safari booking (3+ weeks)
-- Purchase 8 day private photographic Samburu tour
-- Samburu safari package budget enquiry
-- Family friendly Kenya safari tour rates
+- 'Buy 4 day Masai Mara express tour booking'
+- 'Secure extended stay Kenya safari booking (3+ weeks)'
+- 'Purchase 8 day private photographic Samburu tour'
+- 'Samburu safari package budget enquiry'
+- 'Family friendly Kenya safari tour rates'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

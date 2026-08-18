@@ -1,14 +1,14 @@
 ---
 title: 'Open Top Jeep Safari Kenya: Complete Guide'
-description: Kenya safari guide covering open top jeep safari kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering open top jeep safari kenya, including what is included, pricing, and booking advice.'
 slug: open-top-jeep-safari-kenya
-primary_keyword: Open top jeep safari Kenya
+primary_keyword: 'Open top jeep safari Kenya'
 secondary_keywords:
-- Choose best value Kenya budget safari operator package
-- Book Kenya safari departing  quote needed
-- Reserve 15 day grand Kenya overland truck budget group package booking
-- Reliable Kenya travel agencies near Thika
-- Private tour companies Kenya custom itineraries
+- 'Choose best value Kenya budget safari operator package'
+- 'Book Kenya safari departing  quote needed'
+- 'Reserve 15 day grand Kenya overland truck budget group package booking'
+- 'Reliable Kenya travel agencies near Thika'
+- 'Private tour companies Kenya custom itineraries'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

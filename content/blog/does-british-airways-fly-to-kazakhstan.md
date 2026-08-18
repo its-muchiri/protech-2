@@ -1,14 +1,14 @@
 ---
 title: 'Does British Airways Fly to Kazakhstan: Complete Guide'
-description: Everything you need to know about does british airways fly to kazakhstan, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about does british airways fly to kazakhstan, including routes, airlines, booking tips, and fares.'
 slug: does-british-airways-fly-to-kazakhstan
-primary_keyword: does british airways fly to kazakhstan
+primary_keyword: 'does british airways fly to kazakhstan'
 secondary_keywords:
-- flights to kenya in january
-- flights to kenya mombasa
-- flights to kenya price
-- flights from nairobi kenya to rome italy
-- flights to kenya uk
+- 'flights to kenya in january'
+- 'flights to kenya mombasa'
+- 'flights to kenya price'
+- 'flights from nairobi kenya to rome italy'
+- 'flights to kenya uk'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

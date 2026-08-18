@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Istanbul: Complete Guide'
-description: Everything you need to know about flights from kenya to istanbul, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to istanbul, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-istanbul
-primary_keyword: flights from kenya to istanbul
+primary_keyword: 'flights from kenya to istanbul'
 secondary_keywords:
-- nairobi to mombasa flights price
-- nairobi to nakuru flights
-- flight nairobi to pemba island
-- qatar airways flights to nairobi
-- flights nairobi to south africa
+- 'nairobi to mombasa flights price'
+- 'nairobi to nakuru flights'
+- 'flight nairobi to pemba island'
+- 'qatar airways flights to nairobi'
+- 'flights nairobi to south africa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

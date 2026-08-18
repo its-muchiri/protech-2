@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Kenya Safari Easter 2026 UK Family Package Availability: Complete Guide'
-description: Kenya safari guide covering reserve kenya safari easter 2026 uk family package availability, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve kenya safari easter 2026 uk family package availability, including what is included, pricing, and booking advice.'
 slug: reserve-kenya-safari-easter-2026-uk-family-package-availability
-primary_keyword: Reserve Kenya safari Easter 2026 UK family package availability
+primary_keyword: 'Reserve Kenya safari Easter 2026 UK family package availability'
 secondary_keywords:
-- Mount Kenya Chogoria route trek difficulty / best time
-- Luo cultural tours Kisumu Lake Victoria
-- Thika pineapple farms tour local operators
-- Somak Safaris Kenya UK based operator
-- Kenya e-Visa application official website / cost 2025
+- 'Mount Kenya Chogoria route trek difficulty / best time'
+- 'Luo cultural tours Kisumu Lake Victoria'
+- 'Thika pineapple farms tour local operators'
+- 'Somak Safaris Kenya UK based operator'
+- 'Kenya e-Visa application official website / cost 2025'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

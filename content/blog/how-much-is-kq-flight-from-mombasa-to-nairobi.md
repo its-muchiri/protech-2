@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is Kq Flight from Mombasa to Nairobi: Complete Guide'
-description: Everything you need to know about how much is kq flight from mombasa to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is kq flight from mombasa to nairobi, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-kq-flight-from-mombasa-to-nairobi
-primary_keyword: how much is kq flight from mombasa to nairobi
+primary_keyword: 'how much is kq flight from mombasa to nairobi'
 secondary_keywords:
-- flight from kenya to israel
-- flights from kenya to jordan
-- flight from kenya to south korea price
-- flights from kenya to lebanon
-- flights from kenya to morocco
+- 'flight from kenya to israel'
+- 'flights from kenya to jordan'
+- 'flight from kenya to south korea price'
+- 'flights from kenya to lebanon'
+- 'flights from kenya to morocco'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines from Nairobi to Dubai: Complete Guide'
-description: Everything you need to know about ethiopian airlines from nairobi to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines from nairobi to dubai, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-from-nairobi-to-dubai
-primary_keyword: ethiopian airlines from nairobi to dubai
+primary_keyword: 'ethiopian airlines from nairobi to dubai'
 secondary_keywords:
-- flight from nairobi to zanzibar
-- air india flight from nairobi to delhi status
-- ba flight from nairobi to london
-- flight from nairobi to comoros
-- flight from nairobi to dublin
+- 'flight from nairobi to zanzibar'
+- 'air india flight from nairobi to delhi status'
+- 'ba flight from nairobi to london'
+- 'flight from nairobi to comoros'
+- 'flight from nairobi to dublin'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

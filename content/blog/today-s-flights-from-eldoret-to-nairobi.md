@@ -1,14 +1,14 @@
 ---
-title: 'Today's Flights from Eldoret to Nairobi: Complete Guide'
-description: Everything you need to know about todays flights from eldoret to nairobi, including routes, airlines, booking tips, and fares.
+title: 'Today''s Flights from Eldoret to Nairobi: Complete Guide'
+description: 'Everything you need to know about todays flights from eldoret to nairobi, including routes, airlines, booking tips, and fares.'
 slug: today-s-flights-from-eldoret-to-nairobi
-primary_keyword: today's flights from eldoret to nairobi
+primary_keyword: 'today''s flights from eldoret to nairobi'
 secondary_keywords:
-- cheap flights from riyadh to mombasa
-- flights from nairobi to ukunda mombasa
-- which airlines fly to malindi
-- available flights from kisumu to nairobi
-- domestic flights from nairobi to kisumu
+- 'cheap flights from riyadh to mombasa'
+- 'flights from nairobi to ukunda mombasa'
+- 'which airlines fly to malindi'
+- 'available flights from kisumu to nairobi'
+- 'domestic flights from nairobi to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Secure Package with Hot Air Balloon Masai Mara Booking: Complete Guide'
-description: Kenya safari guide covering secure package with hot air balloon masai mara booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering secure package with hot air balloon masai mara booking, including what is included, pricing, and booking advice.'
 slug: secure-package-with-hot-air-balloon-masai-mara-booking
-primary_keyword: Secure package with hot air balloon Masai Mara booking
+primary_keyword: 'Secure package with hot air balloon Masai Mara booking'
 secondary_keywords:
-- Small group migration safari Kenya August
-- Overcrowded Masai Mara safari
-- Pangolin safari Kenya (extremely difficult sighting)
-- Wilson Airport Nairobi safari flights
-- Best travel pillow Kenya safari flight
+- 'Small group migration safari Kenya August'
+- 'Overcrowded Masai Mara safari'
+- 'Pangolin safari Kenya (extremely difficult sighting)'
+- 'Wilson Airport Nairobi safari flights'
+- 'Best travel pillow Kenya safari flight'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

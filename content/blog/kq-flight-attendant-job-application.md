@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight Attendant Job Application: Complete Guide'
-description: Everything you need to know about kq flight attendant job application, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight attendant job application, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-attendant-job-application
-primary_keyword: kq flight attendant job application
+primary_keyword: 'kq flight attendant job application'
 secondary_keywords:
-- emirates flights for today
-- emirates flights from glasgow today
-- emirates flights from hyderabad
-- emirates flights from india to dubai
-- emirates flights from jfk to dubai
+- 'emirates flights for today'
+- 'emirates flights from glasgow today'
+- 'emirates flights from hyderabad'
+- 'emirates flights from india to dubai'
+- 'emirates flights from jfk to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

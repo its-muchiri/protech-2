@@ -1,14 +1,14 @@
 ---
 title: 'Amboseli National Park Tour 2 Days from Nairobi Price: Complete Guide'
-description: Kenya safari guide covering amboseli national park tour 2 days from nairobi price, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering amboseli national park tour 2 days from nairobi price, including what is included, pricing, and booking advice.'
 slug: amboseli-national-park-tour-2-days-from-nairobi-price
-primary_keyword: Amboseli National Park tour 2 days from Nairobi price
+primary_keyword: 'Amboseli National Park tour 2 days from Nairobi price'
 secondary_keywords:
-- Giraffe Centre Nairobi tour packages
-- 2 day Tsavo East safari from Mombasa company
-- Budget camping safari Masai Mara price list
-- Tour companies Westlands Nairobi office
-- Tour company booking SGR tickets Nairobi Mombasa
+- 'Giraffe Centre Nairobi tour packages'
+- '2 day Tsavo East safari from Mombasa company'
+- 'Budget camping safari Masai Mara price list'
+- 'Tour companies Westlands Nairobi office'
+- 'Tour company booking SGR tickets Nairobi Mombasa'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

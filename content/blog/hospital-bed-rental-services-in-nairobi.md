@@ -1,14 +1,14 @@
 ---
 title: 'Hospital Bed Rental Services in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to hospital bed rental services in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to hospital bed rental services in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: hospital-bed-rental-services-in-nairobi
-primary_keyword: Hospital bed rental services in Nairobi
+primary_keyword: 'Hospital bed rental services in Nairobi'
 secondary_keywords:
-- prosthetic limb providers in Kenya
-- online biomedical equipment courses
-- importing medical devices from India to Kenya
-- home medical supplies Kenya
-- medical equipment tender Kenya
+- 'prosthetic limb providers in Kenya'
+- 'online biomedical equipment courses'
+- 'importing medical devices from India to Kenya'
+- 'home medical supplies Kenya'
+- 'medical equipment tender Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

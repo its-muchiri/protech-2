@@ -1,14 +1,14 @@
 ---
 title: 'Vaccine Carrier Box and Cold Chain Equipment: 2026 Price Guide'
-description: Kenya buying guide to vaccine carrier box and cold chain equipment. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to vaccine carrier box and cold chain equipment. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: vaccine-carrier-box-and-cold-chain-equipment
-primary_keyword: Vaccine carrier box and cold chain equipment
+primary_keyword: 'Vaccine carrier box and cold chain equipment'
 secondary_keywords:
-- orthopedic braces and supports wholesale
-- medical equipment asset tagging
-- medical equipment suppliers from China
-- first aid supplies Kenya
-- KEMSA medical supplies list
+- 'orthopedic braces and supports wholesale'
+- 'medical equipment asset tagging'
+- 'medical equipment suppliers from China'
+- 'first aid supplies Kenya'
+- 'KEMSA medical supplies list'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

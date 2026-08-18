@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Lounge Nairobi Airport: Complete Guide'
-description: Everything you need to know about ethiopian airlines lounge nairobi airport, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines lounge nairobi airport, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-lounge-nairobi-airport
-primary_keyword: ethiopian airlines lounge nairobi airport
+primary_keyword: 'ethiopian airlines lounge nairobi airport'
 secondary_keywords:
-- singapore flights from kenya
-- flights from kenya to usa price
-- flights to nairobi kenya from vancouver canada
-- flights from spokane wa to nairobi kenya
-- cheap flights to nairobi kenya from new york
+- 'singapore flights from kenya'
+- 'flights from kenya to usa price'
+- 'flights to nairobi kenya from vancouver canada'
+- 'flights from spokane wa to nairobi kenya'
+- 'cheap flights to nairobi kenya from new york'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

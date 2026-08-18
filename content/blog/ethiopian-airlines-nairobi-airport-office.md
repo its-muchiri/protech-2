@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Nairobi Airport Office: Complete Guide'
-description: Everything you need to know about ethiopian airlines nairobi airport office, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines nairobi airport office, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-nairobi-airport-office
-primary_keyword: ethiopian airlines nairobi airport office
+primary_keyword: 'ethiopian airlines nairobi airport office'
 secondary_keywords:
-- flight from nairobi to abuja
-- turkish airlines nairobi email address
-- kenya to turkey flight price
-- turkish airlines terminal in nairobi
-- turkish airlines no last name
+- 'flight from nairobi to abuja'
+- 'turkish airlines nairobi email address'
+- 'kenya to turkey flight price'
+- 'turkish airlines terminal in nairobi'
+- 'turkish airlines no last name'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

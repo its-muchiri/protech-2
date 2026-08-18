@@ -1,14 +1,14 @@
 ---
 title: 'Best Time Hot Air Balloon Masai Mara: Complete Guide'
-description: Kenya safari guide covering best time hot air balloon masai mara, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering best time hot air balloon masai mara, including what is included, pricing, and booking advice.'
 slug: best-time-hot-air-balloon-masai-mara
-primary_keyword: Best time hot air balloon Masai Mara
+primary_keyword: 'Best time hot air balloon Masai Mara'
 secondary_keywords:
-- Kenya safari agent
-- Low altitude safari Kenya (Tsavo)
-- Kenya safari clothing guide
-- Kenya safari vs South Africa safari
-- Off season Kenya safari deals April
+- 'Kenya safari agent'
+- 'Low altitude safari Kenya (Tsavo)'
+- 'Kenya safari clothing guide'
+- 'Kenya safari vs South Africa safari'
+- 'Off season Kenya safari deals April'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

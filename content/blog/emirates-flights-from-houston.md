@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Houston: Complete Guide'
-description: Everything you need to know about emirates flights from houston, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from houston, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-houston
-primary_keyword: emirates flights from houston
+primary_keyword: 'emirates flights from houston'
 secondary_keywords:
-- kq flights to cape town
-- kq flight dubai to nairobi
-- kq flights from kigali to nairobi
-- kq flights from nairobi to london heathrow
-- kq flights to jfk
+- 'kq flights to cape town'
+- 'kq flight dubai to nairobi'
+- 'kq flights from kigali to nairobi'
+- 'kq flights from nairobi to london heathrow'
+- 'kq flights to jfk'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

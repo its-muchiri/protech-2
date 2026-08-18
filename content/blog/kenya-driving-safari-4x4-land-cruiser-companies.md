@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Driving Safari 4x4 Land Cruiser Companies: Complete Guide'
-description: Kenya safari guide covering kenya driving safari 4x4 land cruiser companies, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya driving safari 4x4 land cruiser companies, including what is included, pricing, and booking advice.'
 slug: kenya-driving-safari-4x4-land-cruiser-companies
-primary_keyword: Kenya driving safari 4x4 Land Cruiser companies
+primary_keyword: 'Kenya driving safari 4x4 Land Cruiser companies'
 secondary_keywords:
-- Climb Point Lenana Mount Kenya guided tour cost
-- Community based tourism projects Kenya support local initiatives
-- Bonfire Adventures Kenya safari packages price list / reviews
-- Southern Cross Safaris Kenya Mombasa based
-- Packing list for Kenya safari clothes / gear recommendations
+- 'Climb Point Lenana Mount Kenya guided tour cost'
+- 'Community based tourism projects Kenya support local initiatives'
+- 'Bonfire Adventures Kenya safari packages price list / reviews'
+- 'Southern Cross Safaris Kenya Mombasa based'
+- 'Packing list for Kenya safari clothes / gear recommendations'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

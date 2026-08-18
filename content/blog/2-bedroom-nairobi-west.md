@@ -1,14 +1,14 @@
 ---
 title: '2 Bedroom Nairobi West: Complete Guide'
-description: Everything you need to know about 2 bedroom nairobi west, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about 2 bedroom nairobi west, including routes, airlines, booking tips, and fares.'
 slug: 2-bedroom-nairobi-west
-primary_keyword: 2 bedroom nairobi west
+primary_keyword: '2 bedroom nairobi west'
 secondary_keywords:
-- kenya airways flights from kigali to nairobi
-- flights from kenya to lesotho
-- flights from kenya to melbourne
-- flights from nigeria to kenya
-- flights from new orleans to kenya
+- 'kenya airways flights from kigali to nairobi'
+- 'flights from kenya to lesotho'
+- 'flights from kenya to melbourne'
+- 'flights from nigeria to kenya'
+- 'flights from new orleans to kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

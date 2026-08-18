@@ -1,14 +1,14 @@
 ---
 title: 'Book Kenya Conservation Focused Safari Ol Pejeta Rhino Tracking Europe Donation Included: Complete Guide'
-description: Kenya safari guide covering book kenya conservation focused safari ol pejeta rhino tracking europe donation included, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book kenya conservation focused safari ol pejeta rhino tracking europe donation included, including what is included, pricing, and booking advice.'
 slug: book-kenya-conservation-focused-safari-ol-pejeta-rhino-tracking-europe-donation-included
-primary_keyword: Book Kenya conservation focused safari Ol Pejeta rhino tracking Europe donation included
+primary_keyword: 'Book Kenya conservation focused safari Ol Pejeta rhino tracking Europe donation included'
 secondary_keywords:
-- Luxury tented camp safari discount booking
-- Lake Nakuru tour package cost 4 days
-- Reserve tour  Kenya branch
-- Buy full board Kenya lodge safari package online
-- Compare 7 day Kenya safari package prices
+- 'Luxury tented camp safari discount booking'
+- 'Lake Nakuru tour package cost 4 days'
+- 'Reserve tour  Kenya branch'
+- 'Buy full board Kenya lodge safari package online'
+- 'Compare 7 day Kenya safari package prices'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

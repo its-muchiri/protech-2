@@ -1,14 +1,14 @@
 ---
 title: 'Buy Kenya Safari Drone Photography Permit Application Assistance and Tour UK Regulations Cost: Complete Guide'
-description: Kenya safari guide covering buy kenya safari drone photography permit application assistance and tour uk regulations cost, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy kenya safari drone photography permit application assistance and tour uk regulations cost, including what is included, pricing, and booking advice.'
 slug: buy-kenya-safari-drone-photography-permit-application-assistance-and-tour-uk-regulations-cost
-primary_keyword: Buy Kenya safari drone photography permit application assistance and tour UK regulations cost
+primary_keyword: 'Buy Kenya safari drone photography permit application assistance and tour UK regulations cost'
 secondary_keywords:
-- Tsavo West National Park lodges (e.g., Kilaguni Serena, Finch Hattons) booking
-- Shimba Hills National Reserve day trip from Diani Beach
-- Self-drive safari Kenya 4x4 rental and itinerary planning
-- Luxury private villas Diani Beach rental Alfajiri Villas price
-- Samburu cultural village visit tour package
+- 'Tsavo West National Park lodges (e.g., Kilaguni Serena, Finch Hattons) booking'
+- 'Shimba Hills National Reserve day trip from Diani Beach'
+- 'Self-drive safari Kenya 4x4 rental and itinerary planning'
+- 'Luxury private villas Diani Beach rental Alfajiri Villas price'
+- 'Samburu cultural village visit tour package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

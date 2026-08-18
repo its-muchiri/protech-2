@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 407 Pilots: Complete Guide'
-description: Everything you need to know about emirates flight 407 pilots, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 407 pilots, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-407-pilots
-primary_keyword: emirates flight 407 pilots
+primary_keyword: 'emirates flight 407 pilots'
 secondary_keywords:
-- kq flight attendant job application
-- kenya airways flights bujumbura nairobi
-- kq flight cost from nairobi to mombasa
-- kq flight disruptions jkia
-- kq flights from entebbe to nairobi today
+- 'kq flight attendant job application'
+- 'kenya airways flights bujumbura nairobi'
+- 'kq flight cost from nairobi to mombasa'
+- 'kq flight disruptions jkia'
+- 'kq flights from entebbe to nairobi today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

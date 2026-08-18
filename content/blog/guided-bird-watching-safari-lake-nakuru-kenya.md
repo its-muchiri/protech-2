@@ -1,14 +1,14 @@
 ---
 title: 'Guided Bird Watching Safari Lake Nakuru Kenya: Complete Guide'
-description: Kenya safari guide covering guided bird watching safari lake nakuru kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering guided bird watching safari lake nakuru kenya, including what is included, pricing, and booking advice.'
 slug: guided-bird-watching-safari-lake-nakuru-kenya
-primary_keyword: Guided bird watching safari Lake Nakuru Kenya
+primary_keyword: 'Guided bird watching safari Lake Nakuru Kenya'
 secondary_keywords:
-- Book Kenya safari with
-- Secure package with hot air balloon Masai Mara booking
-- Quote for accessible wheelchair friendly Kenya safari package
-- Book peak season Kenya safari package availability check
-- Reserve 9 day custom accessible Laikipia conservancy safari package quote
+- 'Book Kenya safari with'
+- 'Secure package with hot air balloon Masai Mara booking'
+- 'Quote for accessible wheelchair friendly Kenya safari package'
+- 'Book peak season Kenya safari package availability check'
+- 'Reserve 9 day custom accessible Laikipia conservancy safari package quote'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kq Direct Flight from Nairobi to New York Ticket Price: Complete Guide'
-description: Everything you need to know about kq direct flight from nairobi to new york ticket price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq direct flight from nairobi to new york ticket price, including routes, airlines, booking tips, and fares.'
 slug: kq-direct-flight-from-nairobi-to-new-york-ticket-price
-primary_keyword: kq direct flight from nairobi to new york ticket price
+primary_keyword: 'kq direct flight from nairobi to new york ticket price'
 secondary_keywords:
-- emirates flights from newcastle
-- emirates flight from orlando to dubai today
-- emirates flights from johannesburg to dubai price
-- when will emirates resume flights to qatar from dubai
-- emirates flights to rome from melbourne
+- 'emirates flights from newcastle'
+- 'emirates flight from orlando to dubai today'
+- 'emirates flights from johannesburg to dubai price'
+- 'when will emirates resume flights to qatar from dubai'
+- 'emirates flights to rome from melbourne'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

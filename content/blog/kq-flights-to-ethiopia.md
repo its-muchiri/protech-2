@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Ethiopia: Complete Guide'
-description: Everything you need to know about kq flights to ethiopia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to ethiopia, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-ethiopia
-primary_keyword: kq flights to ethiopia
+primary_keyword: 'kq flights to ethiopia'
 secondary_keywords:
-- jambojet flights from nairobi to malindi
-- kq flights from nairobi to dar es salaam
-- flights from nairobi to masai mara
-- flights from nairobi to namibia
-- flights from nairobi to oman
+- 'jambojet flights from nairobi to malindi'
+- 'kq flights from nairobi to dar es salaam'
+- 'flights from nairobi to masai mara'
+- 'flights from nairobi to namibia'
+- 'flights from nairobi to oman'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

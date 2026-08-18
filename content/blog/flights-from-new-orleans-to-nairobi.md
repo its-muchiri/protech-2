@@ -1,14 +1,14 @@
 ---
 title: 'Flights from New Orleans to Nairobi: Complete Guide'
-description: Everything you need to know about flights from new orleans to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from new orleans to nairobi, including routes, airlines, booking tips, and fares.'
 slug: flights-from-new-orleans-to-nairobi
-primary_keyword: flights from new orleans to nairobi
+primary_keyword: 'flights from new orleans to nairobi'
 secondary_keywords:
-- flights from varanasi to dubai united arab emirates
-- emirates airlines x
-- emirates flights from london to dubai yesterday
-- emirates flight 0202
-- emirates flight 15
+- 'flights from varanasi to dubai united arab emirates'
+- 'emirates airlines x'
+- 'emirates flights from london to dubai yesterday'
+- 'emirates flight 0202'
+- 'emirates flight 15'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

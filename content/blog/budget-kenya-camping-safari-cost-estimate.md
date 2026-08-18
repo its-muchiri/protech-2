@@ -1,14 +1,14 @@
 ---
 title: 'Budget Kenya Camping Safari Cost Estimate: Complete Guide'
-description: Kenya safari guide covering budget kenya camping safari cost estimate, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering budget kenya camping safari cost estimate, including what is included, pricing, and booking advice.'
 slug: budget-kenya-camping-safari-cost-estimate
-primary_keyword: Budget Kenya camping safari cost estimate
+primary_keyword: 'Budget Kenya camping safari cost estimate'
 secondary_keywords:
-- Purchase Nairobi National Park day tour booking
-- Reserve 5 day Amboseli Tsavo combo package
-- Buy budget Kenya camping safari booking
-- Book 6 day group joining Nakuru Mara safari reservation
-- Lake Nakuru safari tour price list
+- 'Purchase Nairobi National Park day tour booking'
+- 'Reserve 5 day Amboseli Tsavo combo package'
+- 'Buy budget Kenya camping safari booking'
+- 'Book 6 day group joining Nakuru Mara safari reservation'
+- 'Lake Nakuru safari tour price list'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

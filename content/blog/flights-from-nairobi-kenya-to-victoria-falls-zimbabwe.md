@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi Kenya to Victoria Falls Zimbabwe: Complete Guide'
-description: Everything you need to know about flights from nairobi kenya to victoria falls zimbabwe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi kenya to victoria falls zimbabwe, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-kenya-to-victoria-falls-zimbabwe
-primary_keyword: flights from nairobi kenya to victoria falls zimbabwe
+primary_keyword: 'flights from nairobi kenya to victoria falls zimbabwe'
 secondary_keywords:
-- what airline is go to gate
-- kq flights images
-- kq kisumu flight schedule today
-- kq flights mombasa to nairobi
-- kq flight news
+- 'what airline is go to gate'
+- 'kq flights images'
+- 'kq kisumu flight schedule today'
+- 'kq flights mombasa to nairobi'
+- 'kq flight news'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

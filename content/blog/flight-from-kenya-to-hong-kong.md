@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kenya to Hong Kong: Complete Guide'
-description: Everything you need to know about flight from kenya to hong kong, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kenya to hong kong, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kenya-to-hong-kong
-primary_keyword: flight from kenya to hong kong
+primary_keyword: 'flight from kenya to hong kong'
 secondary_keywords:
-- flight from nairobi to masai mara
-- cost of flight from nairobi to nanyuki
-- flight from nairobi to perth
-- flight from nairobi to rwanda
-- flight from nairobi to seychelles
+- 'flight from nairobi to masai mara'
+- 'cost of flight from nairobi to nanyuki'
+- 'flight from nairobi to perth'
+- 'flight from nairobi to rwanda'
+- 'flight from nairobi to seychelles'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

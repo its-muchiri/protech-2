@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Migori: Complete Guide'
-description: Everything you need to know about flights nairobi to migori, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to migori, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-migori
-primary_keyword: flights nairobi to migori
+primary_keyword: 'flights nairobi to migori'
 secondary_keywords:
-- cheap flights from mombasa
-- jambojet flights from kisumu to mombasa
-- cheapest flights from kisumu to mombasa
-- flight from nairobi to kisumu how much
-- kq flights from kisumu
+- 'cheap flights from mombasa'
+- 'jambojet flights from kisumu to mombasa'
+- 'cheapest flights from kisumu to mombasa'
+- 'flight from nairobi to kisumu how much'
+- 'kq flights from kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

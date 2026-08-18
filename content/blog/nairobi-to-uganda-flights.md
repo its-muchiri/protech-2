@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi to Uganda Flights: Complete Guide'
-description: Everything you need to know about nairobi to uganda flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about nairobi to uganda flights, including routes, airlines, booking tips, and fares.'
 slug: nairobi-to-uganda-flights
-primary_keyword: nairobi to uganda flights
+primary_keyword: 'nairobi to uganda flights'
 secondary_keywords:
-- flights from nairobi to bangkok thailand
-- flights from mombasa to arusha tanzania
-- flights brussels mombasa
-- flights to mombasa cheap
-- flights from mombasa to doha
+- 'flights from nairobi to bangkok thailand'
+- 'flights from mombasa to arusha tanzania'
+- 'flights brussels mombasa'
+- 'flights to mombasa cheap'
+- 'flights from mombasa to doha'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

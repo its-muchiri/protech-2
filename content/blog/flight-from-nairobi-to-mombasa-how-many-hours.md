@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Mombasa How Many Hours: Complete Guide'
-description: Everything you need to know about flight from nairobi to mombasa how many hours, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to mombasa how many hours, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-mombasa-how-many-hours
-primary_keyword: flight from nairobi to mombasa how many hours
+primary_keyword: 'flight from nairobi to mombasa how many hours'
 secondary_keywords:
-- flight ticket from kenya to dubai
-- flight ticket to kenya from qatar
-- kenya ticket from nigeria
-- cheap flights in kenya
-- flights to kenya in august
+- 'flight ticket from kenya to dubai'
+- 'flight ticket to kenya from qatar'
+- 'kenya ticket from nigeria'
+- 'cheap flights in kenya'
+- 'flights to kenya in august'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

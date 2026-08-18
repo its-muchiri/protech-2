@@ -1,14 +1,14 @@
 ---
 title: 'Buy Samburu Reserve Safari Tour Kenya Direct Booking: Complete Guide'
-description: Kenya safari guide covering buy samburu reserve safari tour kenya direct booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy samburu reserve safari tour kenya direct booking, including what is included, pricing, and booking advice.'
 slug: buy-samburu-reserve-safari-tour-kenya-direct-booking
-primary_keyword: Buy Samburu Reserve safari tour Kenya direct booking
+primary_keyword: 'Buy Samburu Reserve safari tour Kenya direct booking'
 secondary_keywords:
-- Reserve Kenya photographic hide safari tour Europe
-- Kenya multiple parks safari circuit package price UK
-- Luxury Kenya safari for US travelers price comparison sites
-- Tour Operator Seeking (Tour operator, Safari company, Travel agent, Booking agency)
-- Online travel agency (OTA) Kenya safari booking deals
+- 'Reserve Kenya photographic hide safari tour Europe'
+- 'Kenya multiple parks safari circuit package price UK'
+- 'Luxury Kenya safari for US travelers price comparison sites'
+- 'Tour Operator Seeking (Tour operator, Safari company, Travel agent, Booking agency)'
+- 'Online travel agency (OTA) Kenya safari booking deals'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

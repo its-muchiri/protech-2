@@ -1,14 +1,14 @@
 ---
 title: 'Flight Ticket for Kenya: Complete Guide'
-description: Everything you need to know about flight ticket for kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight ticket for kenya, including routes, airlines, booking tips, and fares.'
 slug: flight-ticket-for-kenya
-primary_keyword: flight ticket for kenya
+primary_keyword: 'flight ticket for kenya'
 secondary_keywords:
-- flights to mombasa cheap
-- flights from mombasa to doha
-- flights to frankfurt from mombasa kenya
-- flight from nairobi to mombasa how much
-- flight from kisumu to mombasa is how much
+- 'flights to mombasa cheap'
+- 'flights from mombasa to doha'
+- 'flights to frankfurt from mombasa kenya'
+- 'flight from nairobi to mombasa how much'
+- 'flight from kisumu to mombasa is how much'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

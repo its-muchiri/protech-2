@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Riyadh: Complete Guide'
-description: Everything you need to know about flights nairobi to riyadh, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to riyadh, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-riyadh
-primary_keyword: flights nairobi to riyadh
+primary_keyword: 'flights nairobi to riyadh'
 secondary_keywords:
-- flights from kenya to costa rica
-- seychelles flights from kenya
-- flight from kenya to usa how many hours
-- flights from vancouver to nairobi kenya
-- flights from washington to kenya
+- 'flights from kenya to costa rica'
+- 'seychelles flights from kenya'
+- 'flight from kenya to usa how many hours'
+- 'flights from vancouver to nairobi kenya'
+- 'flights from washington to kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

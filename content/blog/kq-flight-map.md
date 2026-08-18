@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight Map: Complete Guide'
-description: Everything you need to know about kq flight map, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight map, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-map
-primary_keyword: kq flight map
+primary_keyword: 'kq flight map'
 secondary_keywords:
-- flights from kenya to perth
-- flights from paris to kenya
-- flight from kenya to rwanda price
-- flights from kenya to saudi arabia
-- flights from kenya to uganda
+- 'flights from kenya to perth'
+- 'flights from paris to kenya'
+- 'flight from kenya to rwanda price'
+- 'flights from kenya to saudi arabia'
+- 'flights from kenya to uganda'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

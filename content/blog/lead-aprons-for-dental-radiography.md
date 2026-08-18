@@ -1,14 +1,14 @@
 ---
 title: 'Lead Aprons for Dental Radiography: 2026 Price Guide'
-description: Kenya buying guide to lead aprons for dental radiography. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to lead aprons for dental radiography. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: lead-aprons-for-dental-radiography
-primary_keyword: Lead aprons for dental radiography
+primary_keyword: 'Lead aprons for dental radiography'
 secondary_keywords:
-- surgical simulation equipment Kenya
-- wound care solutions Kenya
-- medical supplies for NGOs Kenya
-- medical mask distributors Kenya
-- medical equipment training Kenya
+- 'surgical simulation equipment Kenya'
+- 'wound care solutions Kenya'
+- 'medical supplies for NGOs Kenya'
+- 'medical mask distributors Kenya'
+- 'medical equipment training Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Intraoral Dental X-ray Machine Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to intraoral dental x-ray machine price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to intraoral dental x-ray machine price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: intraoral-dental-x-ray-machine-price-in-kenya
-primary_keyword: Intraoral dental X-ray machine price in Kenya
+primary_keyword: 'Intraoral dental X-ray machine price in Kenya'
 secondary_keywords:
-- X-ray machine suppliers in Mombasa CBD
-- Autoclave suppliers in Kericho
-- First aid kits for schools in Kiambu County
-- Hospital bed dealers in Eldoret
-- Open MRI scanner suppliers in Nairobi
+- 'X-ray machine suppliers in Mombasa CBD'
+- 'Autoclave suppliers in Kericho'
+- 'First aid kits for schools in Kiambu County'
+- 'Hospital bed dealers in Eldoret'
+- 'Open MRI scanner suppliers in Nairobi'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

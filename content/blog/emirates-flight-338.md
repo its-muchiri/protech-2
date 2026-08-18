@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 338: Complete Guide'
-description: Everything you need to know about emirates flight 338, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 338, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-338
-primary_keyword: emirates flight 338
+primary_keyword: 'emirates flight 338'
 secondary_keywords:
-- flights from nairobi to birmingham uk
-- flights from boston to nairobi
-- cheap direct flights from nairobi to london heathrow
-- flights from nairobi to entebbe uganda
-- etihad flights from nairobi
+- 'flights from nairobi to birmingham uk'
+- 'flights from boston to nairobi'
+- 'cheap direct flights from nairobi to london heathrow'
+- 'flights from nairobi to entebbe uganda'
+- 'etihad flights from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

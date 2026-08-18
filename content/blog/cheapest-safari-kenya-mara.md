@@ -1,14 +1,14 @@
 ---
 title: 'Cheapest Safari Kenya Mara: Complete Guide'
-description: Kenya safari guide covering cheapest safari kenya mara, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering cheapest safari kenya mara, including what is included, pricing, and booking advice.'
 slug: cheapest-safari-kenya-mara
-primary_keyword: Cheapest safari Kenya Mara
+primary_keyword: 'Cheapest safari Kenya Mara'
 secondary_keywords:
-- Weekend getaway safari deals from Nairobi
-- Group joining safari price Kenya
-- Karen Nairobi based tour operators
-- Last minute safari booking availability Nairobi
-- Company organizing coffee tour Kiambu and Nairobi NP trip
+- 'Weekend getaway safari deals from Nairobi'
+- 'Group joining safari price Kenya'
+- 'Karen Nairobi based tour operators'
+- 'Last minute safari booking availability Nairobi'
+- 'Company organizing coffee tour Kiambu and Nairobi NP trip'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

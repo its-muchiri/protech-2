@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Nbo to Dxb: Complete Guide'
-description: Everything you need to know about kq flight from nbo to dxb, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from nbo to dxb, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-nbo-to-dxb
-primary_keyword: kq flight from nbo to dxb
+primary_keyword: 'kq flight from nbo to dxb'
 secondary_keywords:
-- flights from nairobi to garowe
-- how much are flights from nairobi to mombasa
-- flights to india from nairobi
-- jambojet flights from nairobi to mombasa
-- flights from nairobi to london today
+- 'flights from nairobi to garowe'
+- 'how much are flights from nairobi to mombasa'
+- 'flights to india from nairobi'
+- 'jambojet flights from nairobi to mombasa'
+- 'flights from nairobi to london today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

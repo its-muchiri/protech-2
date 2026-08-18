@@ -1,14 +1,14 @@
 ---
 title: 'See Big 5 Kenya: Complete Guide'
-description: Kenya safari guide covering see big 5 kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering see big 5 kenya, including what is included, pricing, and booking advice.'
 slug: see-big-5-kenya
-primary_keyword: See Big 5 Kenya
+primary_keyword: 'See Big 5 Kenya'
 secondary_keywords:
-- Combination & Long-Tail Keywords (Examples)
-- Reserve luxury tented camp Ol Pejeta safari USA chimpanzee sanctuary visit reviews
-- Cost of honeymoon safari Angama Mara lodge USA package inclusions price quote
-- Buy Reteti Elephant Sanctuary visit Samburu safari Europe ethical tourism booking
-- Find student discount Kenya safari tour operator UK budget camping deals verification needed
+- 'Combination & Long-Tail Keywords (Examples)'
+- 'Reserve luxury tented camp Ol Pejeta safari USA chimpanzee sanctuary visit reviews'
+- 'Cost of honeymoon safari Angama Mara lodge USA package inclusions price quote'
+- 'Buy Reteti Elephant Sanctuary visit Samburu safari Europe ethical tourism booking'
+- 'Find student discount Kenya safari tour operator UK budget camping deals verification needed'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

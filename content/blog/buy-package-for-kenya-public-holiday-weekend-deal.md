@@ -1,14 +1,14 @@
 ---
 title: 'Buy Package for Kenya Public Holiday Weekend Deal: Complete Guide'
-description: Kenya safari guide covering buy package for kenya public holiday weekend deal, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy package for kenya public holiday weekend deal, including what is included, pricing, and booking advice.'
 slug: buy-package-for-kenya-public-holiday-weekend-deal
-primary_keyword: Buy package for Kenya public holiday weekend deal
+primary_keyword: 'Buy package for Kenya public holiday weekend deal'
 secondary_keywords:
-- How to check if a Kenya tour company is legitimate
-- Camel safari Samburu / Laikipia operators
-- Direct Booking/Purchase Intent (Book, Buy, Purchase, Reserve)
-- Book Kenya camping safari adventure Europe budget
-- Luxury Kenya safari package quote Europe agent
+- 'How to check if a Kenya tour company is legitimate'
+- 'Camel safari Samburu / Laikipia operators'
+- 'Direct Booking/Purchase Intent (Book, Buy, Purchase, Reserve)'
+- 'Book Kenya camping safari adventure Europe budget'
+- 'Luxury Kenya safari package quote Europe agent'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

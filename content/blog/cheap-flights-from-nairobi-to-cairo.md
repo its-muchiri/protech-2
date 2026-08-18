@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Nairobi to Cairo: Complete Guide'
-description: Everything you need to know about cheap flights from nairobi to cairo, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from nairobi to cairo, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-nairobi-to-cairo
-primary_keyword: cheap flights from nairobi to cairo
+primary_keyword: 'cheap flights from nairobi to cairo'
 secondary_keywords:
-- who flies to penticton
-- kq flights to eldoret
-- kq flights to accra
-- tanzania bans kq flights
-- kq cheap flights
+- 'who flies to penticton'
+- 'kq flights to eldoret'
+- 'kq flights to accra'
+- 'tanzania bans kq flights'
+- 'kq cheap flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

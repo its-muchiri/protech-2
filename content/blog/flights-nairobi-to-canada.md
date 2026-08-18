@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Canada: Complete Guide'
-description: Everything you need to know about flights nairobi to canada, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to canada, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-canada
-primary_keyword: flights nairobi to canada
+primary_keyword: 'flights nairobi to canada'
 secondary_keywords:
-- kenya airways flight schedule nairobi to kigali
-- kenya airways flight from mumbai to nairobi
-- kenya airways fare from kenya to usa
-- flight from nairobi to addis ababa
-- a flight from nairobi to mombasa
+- 'kenya airways flight schedule nairobi to kigali'
+- 'kenya airways flight from mumbai to nairobi'
+- 'kenya airways fare from kenya to usa'
+- 'flight from nairobi to addis ababa'
+- 'a flight from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

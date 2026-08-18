@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Nairobi to Dubai Price: Complete Guide'
-description: Everything you need to know about kq flight from nairobi to dubai price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from nairobi to dubai price, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-nairobi-to-dubai-price
-primary_keyword: kq flight from nairobi to dubai price
+primary_keyword: 'kq flight from nairobi to dubai price'
 secondary_keywords:
-- uganda airlines flights from nairobi to entebbe price
-- flights from nairobi wilson to malindi
-- flights from nairobi to yyz
-- cheap flights from nairobi to lagos
-- flights from nairobi to kenya
+- 'uganda airlines flights from nairobi to entebbe price'
+- 'flights from nairobi wilson to malindi'
+- 'flights from nairobi to yyz'
+- 'cheap flights from nairobi to lagos'
+- 'flights from nairobi to kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

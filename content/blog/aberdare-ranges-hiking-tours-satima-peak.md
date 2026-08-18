@@ -1,14 +1,14 @@
 ---
 title: 'Aberdare Ranges Hiking Tours Satima Peak: Complete Guide'
-description: Kenya safari guide covering aberdare ranges hiking tours satima peak, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering aberdare ranges hiking tours satima peak, including what is included, pricing, and booking advice.'
 slug: aberdare-ranges-hiking-tours-satima-peak
-primary_keyword: Aberdare Ranges hiking tours Satima Peak
+primary_keyword: 'Aberdare Ranges hiking tours Satima Peak'
 secondary_keywords:
-- Buy 8 day romantic getaway safari package Laikipia
-- Book 5 day Great Rift Valley lakes birding package
-- Get quote 6 day Masai Mara wildlife focus package operator
-- Lock in rate for 10 day Kenya premium package
-- Get quote 5 day Kenya budget camping joining safari
+- 'Buy 8 day romantic getaway safari package Laikipia'
+- 'Book 5 day Great Rift Valley lakes birding package'
+- 'Get quote 6 day Masai Mara wildlife focus package operator'
+- 'Lock in rate for 10 day Kenya premium package'
+- 'Get quote 5 day Kenya budget camping joining safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

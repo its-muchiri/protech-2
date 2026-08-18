@@ -1,14 +1,14 @@
 ---
 title: 'Large Capacity Autoclave for a Hospital in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to large capacity autoclave for a hospital in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to large capacity autoclave for a hospital in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: large-capacity-autoclave-for-a-hospital-in-nairobi
-primary_keyword: Large capacity autoclave for a hospital in Nairobi
+primary_keyword: 'Large capacity autoclave for a hospital in Nairobi'
 secondary_keywords:
-- urine analyzers Kenya
-- slit lamp Kenya price
-- CT scanners Kenya price
-- spectrophotometers Kenya
-- medical waste incinerators Kenya
+- 'urine analyzers Kenya'
+- 'slit lamp Kenya price'
+- 'CT scanners Kenya price'
+- 'spectrophotometers Kenya'
+- 'medical waste incinerators Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

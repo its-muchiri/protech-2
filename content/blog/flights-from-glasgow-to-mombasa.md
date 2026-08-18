@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Glasgow to Mombasa: Complete Guide'
-description: Everything you need to know about flights from glasgow to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from glasgow to mombasa, including routes, airlines, booking tips, and fares.'
 slug: flights-from-glasgow-to-mombasa
-primary_keyword: flights from glasgow to mombasa
+primary_keyword: 'flights from glasgow to mombasa'
 secondary_keywords:
-- cheap flights from kenya to qatar
-- flights from kenya to entebbe
-- flights from nairobi to frankfurt
-- flight from kenya to germany price
-- flights from kenya to harare
+- 'cheap flights from kenya to qatar'
+- 'flights from kenya to entebbe'
+- 'flights from nairobi to frankfurt'
+- 'flight from kenya to germany price'
+- 'flights from kenya to harare'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

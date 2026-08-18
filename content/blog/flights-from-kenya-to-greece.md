@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Greece: Complete Guide'
-description: Everything you need to know about flights from kenya to greece, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to greece, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-greece
-primary_keyword: flights from kenya to greece
+primary_keyword: 'flights from kenya to greece'
 secondary_keywords:
-- how many emirates flights from uk to dubai
-- emirates flights to india from uk
-- emirates flights from johannesburg to dublin
-- emirates flights from london to dubai
-- emirates flights from manchester to dubai which terminal
+- 'how many emirates flights from uk to dubai'
+- 'emirates flights to india from uk'
+- 'emirates flights from johannesburg to dublin'
+- 'emirates flights from london to dubai'
+- 'emirates flights from manchester to dubai which terminal'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

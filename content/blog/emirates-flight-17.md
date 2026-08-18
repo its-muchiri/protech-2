@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 17: Complete Guide'
-description: Everything you need to know about emirates flight 17, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 17, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-17
-primary_keyword: emirates flight 17
+primary_keyword: 'emirates flight 17'
 secondary_keywords:
-- flight rates from kisumu to nairobi
-- flights to kisumu from jkia
-- kisumu flights
-- renegade flights from kisumu to nairobi
-- cheap flights from eldoret to nairobi
+- 'flight rates from kisumu to nairobi'
+- 'flights to kisumu from jkia'
+- 'kisumu flights'
+- 'renegade flights from kisumu to nairobi'
+- 'cheap flights from eldoret to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

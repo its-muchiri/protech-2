@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Film Crew Logistics Support Tour Operators: Complete Guide'
-description: Kenya safari guide covering kenya film crew logistics support tour operators, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya film crew logistics support tour operators, including what is included, pricing, and booking advice.'
 slug: kenya-film-crew-logistics-support-tour-operators
-primary_keyword: Kenya film crew logistics support tour operators
+primary_keyword: 'Kenya film crew logistics support tour operators'
 secondary_keywords:
-- Jocky Tours and Safaris price budget group tours
-- Book Kenya safari online comparison sites (SafariBookings, TourRadar)
-- Using Mpesa for payments Kenya safari
-- Kenya bird watching safari specialists expert guides
-- Pick up from Thika for Masai Mara safari tour company options
+- 'Jocky Tours and Safaris price budget group tours'
+- 'Book Kenya safari online comparison sites (SafariBookings, TourRadar)'
+- 'Using Mpesa for payments Kenya safari'
+- 'Kenya bird watching safari specialists expert guides'
+- 'Pick up from Thika for Masai Mara safari tour company options'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Nairobi to Heathrow: Complete Guide'
-description: Everything you need to know about kq flight from nairobi to heathrow, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from nairobi to heathrow, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-nairobi-to-heathrow
-primary_keyword: kq flight from nairobi to heathrow
+primary_keyword: 'kq flight from nairobi to heathrow'
 secondary_keywords:
-- flights from mombasa to india
-- cheap flights from mombasa to jeddah
-- kq flights from mombasa to kisumu
-- flights from lusaka to mombasa
-- flights from mombasa to nakuru
+- 'flights from mombasa to india'
+- 'cheap flights from mombasa to jeddah'
+- 'kq flights from mombasa to kisumu'
+- 'flights from lusaka to mombasa'
+- 'flights from mombasa to nakuru'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

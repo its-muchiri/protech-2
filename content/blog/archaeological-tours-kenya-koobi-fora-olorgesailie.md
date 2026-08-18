@@ -1,14 +1,14 @@
 ---
 title: 'Archaeological Tours Kenya Koobi Fora / Olorgesailie: Complete Guide'
-description: Kenya safari guide covering archaeological tours kenya koobi fora / olorgesailie, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering archaeological tours kenya koobi fora / olorgesailie, including what is included, pricing, and booking advice.'
 slug: archaeological-tours-kenya-koobi-fora-olorgesailie
-primary_keyword: Archaeological tours Kenya Koobi Fora / Olorgesailie
+primary_keyword: 'Archaeological tours Kenya Koobi Fora / Olorgesailie'
 secondary_keywords:
-- Gamewatchers Safaris Porini Camps price / reviews
-- Kenya tour package cancellation policy refund options
-- Internal flights Kenya Safarilink / AirKenya schedule / price
-- Gorilla trekking tours from Kenya combined Uganda / Rwanda trip
-- Diani Beach based tour operators excursions / safaris
+- 'Gamewatchers Safaris Porini Camps price / reviews'
+- 'Kenya tour package cancellation policy refund options'
+- 'Internal flights Kenya Safarilink / AirKenya schedule / price'
+- 'Gorilla trekking tours from Kenya combined Uganda / Rwanda trip'
+- 'Diani Beach based tour operators excursions / safaris'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

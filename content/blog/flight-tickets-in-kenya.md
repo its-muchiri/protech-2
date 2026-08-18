@@ -1,14 +1,14 @@
 ---
 title: 'Flight Tickets in Kenya: Complete Guide'
-description: Everything you need to know about flight tickets in kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight tickets in kenya, including routes, airlines, booking tips, and fares.'
 slug: flight-tickets-in-kenya
-primary_keyword: flight tickets in kenya
+primary_keyword: 'flight tickets in kenya'
 secondary_keywords:
-- flight attendant jobs in kenya salary
-- us flights to kenya
-- flights to kenya 2025
-- flights from kenya to adelaide
-- flights from kenya to botswana
+- 'flight attendant jobs in kenya salary'
+- 'us flights to kenya'
+- 'flights to kenya 2025'
+- 'flights from kenya to adelaide'
+- 'flights from kenya to botswana'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from Dubai: Complete Guide'
-description: Everything you need to know about kq flights from dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from dubai, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-dubai
-primary_keyword: kq flights from dubai
+primary_keyword: 'kq flights from dubai'
 secondary_keywords:
-- kq flight from entebbe
-- kenya airways flights from juba to nairobi
-- kenya airways flights from uk
-- flights to kakamega from nairobi
-- cost of kq flight from nairobi to mombasa
+- 'kq flight from entebbe'
+- 'kenya airways flights from juba to nairobi'
+- 'kenya airways flights from uk'
+- 'flights to kakamega from nairobi'
+- 'cost of kq flight from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

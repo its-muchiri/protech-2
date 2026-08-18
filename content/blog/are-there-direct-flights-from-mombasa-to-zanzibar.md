@@ -1,14 +1,14 @@
 ---
 title: 'Are There Direct Flights from Mombasa to Zanzibar: Complete Guide'
-description: Everything you need to know about are there direct flights from mombasa to zanzibar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about are there direct flights from mombasa to zanzibar, including routes, airlines, booking tips, and fares.'
 slug: are-there-direct-flights-from-mombasa-to-zanzibar
-primary_keyword: are there direct flights from mombasa to zanzibar
+primary_keyword: 'are there direct flights from mombasa to zanzibar'
 secondary_keywords:
-- domestic flight booking in kenya
-- kenya airways mombasa to nairobi price
-- kenya international flights
-- flights beirut kenya
-- cheap flights to kenya in july
+- 'domestic flight booking in kenya'
+- 'kenya airways mombasa to nairobi price'
+- 'kenya international flights'
+- 'flights beirut kenya'
+- 'cheap flights to kenya in july'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

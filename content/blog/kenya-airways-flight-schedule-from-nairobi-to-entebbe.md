@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight Schedule from Nairobi to Entebbe: Complete Guide'
-description: Everything you need to know about kenya airways flight schedule from nairobi to entebbe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight schedule from nairobi to entebbe, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-schedule-from-nairobi-to-entebbe
-primary_keyword: kenya airways flight schedule from nairobi to entebbe
+primary_keyword: 'kenya airways flight schedule from nairobi to entebbe'
 secondary_keywords:
-- emirates flights nairobi
-- emirates flights nairobi to heathrow
-- emirates flight schedule from nairobi to dubai
-- emirates building nairobi
-- fly emirates from nairobi to dubai
+- 'emirates flights nairobi'
+- 'emirates flights nairobi to heathrow'
+- 'emirates flight schedule from nairobi to dubai'
+- 'emirates building nairobi'
+- 'fly emirates from nairobi to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

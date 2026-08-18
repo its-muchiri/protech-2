@@ -1,14 +1,14 @@
 ---
 title: 'Single Day Excursions from Thika Tour Company: Complete Guide'
-description: Kenya safari guide covering single day excursions from thika tour company, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering single day excursions from thika tour company, including what is included, pricing, and booking advice.'
 slug: single-day-excursions-from-thika-tour-company
-primary_keyword: Single day excursions from Thika tour company
+primary_keyword: 'Single day excursions from Thika tour company'
 secondary_keywords:
-- Family Kenya safari
-- Private Kenya safari
-- Community based safari Kenya
-- 7 day Kenya safari
-- Average cost Kenya safari
+- 'Family Kenya safari'
+- 'Private Kenya safari'
+- 'Community based safari Kenya'
+- '7 day Kenya safari'
+- 'Average cost Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

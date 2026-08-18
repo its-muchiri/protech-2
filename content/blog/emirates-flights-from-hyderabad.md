@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Hyderabad: Complete Guide'
-description: Everything you need to know about emirates flights from hyderabad, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from hyderabad, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-hyderabad
-primary_keyword: emirates flights from hyderabad
+primary_keyword: 'emirates flights from hyderabad'
 secondary_keywords:
-- kenya airways flight from nairobi to johannesburg today
-- kq flight from nairobi to malindi
-- kenya airways flight schedule nairobi kinshasa
-- kenya airways flights from nairobi to addis ababa prices today
-- kenya airways customer care
+- 'kenya airways flight from nairobi to johannesburg today'
+- 'kq flight from nairobi to malindi'
+- 'kenya airways flight schedule nairobi kinshasa'
+- 'kenya airways flights from nairobi to addis ababa prices today'
+- 'kenya airways customer care'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Weekend Getaway Safari Deals from Nairobi: Complete Guide'
-description: Kenya safari guide covering weekend getaway safari deals from nairobi, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering weekend getaway safari deals from nairobi, including what is included, pricing, and booking advice.'
 slug: weekend-getaway-safari-deals-from-nairobi
-primary_keyword: Weekend getaway safari deals from Nairobi
+primary_keyword: 'Weekend getaway safari deals from Nairobi'
 secondary_keywords:
-- Big Five safari Kenya
-- Rare animals Kenya safari
-- Drive Nairobi to Amboseli safari
-- Kenya safari in January
-- Migration season Masai Mara
+- 'Big Five safari Kenya'
+- 'Rare animals Kenya safari'
+- 'Drive Nairobi to Amboseli safari'
+- 'Kenya safari in January'
+- 'Migration season Masai Mara'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

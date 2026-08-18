@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Washington to Kenya: Complete Guide'
-description: Everything you need to know about flights from washington to kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from washington to kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-washington-to-kenya
-primary_keyword: flights from washington to kenya
+primary_keyword: 'flights from washington to kenya'
 secondary_keywords:
-- does qatar airways fly to canada
-- qatar airways nairobi kenya
-- does qatar airways fly to toronto
-- kenya airways flights from accra to nairobi
-- kq flights from dubai to nairobi today
+- 'does qatar airways fly to canada'
+- 'qatar airways nairobi kenya'
+- 'does qatar airways fly to toronto'
+- 'kenya airways flights from accra to nairobi'
+- 'kq flights from dubai to nairobi today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

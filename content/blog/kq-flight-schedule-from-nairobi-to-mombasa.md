@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight Schedule from Nairobi to Mombasa: Complete Guide'
-description: Everything you need to know about kq flight schedule from nairobi to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight schedule from nairobi to mombasa, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-schedule-from-nairobi-to-mombasa
-primary_keyword: kq flight schedule from nairobi to mombasa
+primary_keyword: 'kq flight schedule from nairobi to mombasa'
 secondary_keywords:
-- indigo flight from nairobi to ahmedabad
-- jambojet flight from nairobi to ukunda
-- local flight from nairobi to mombasa
-- mombasa flight from nairobi
-- flight from nairobi to ottawa
+- 'indigo flight from nairobi to ahmedabad'
+- 'jambojet flight from nairobi to ukunda'
+- 'local flight from nairobi to mombasa'
+- 'mombasa flight from nairobi'
+- 'flight from nairobi to ottawa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Association of Tour Operators (KATO) Members: Complete Guide'
-description: Kenya safari guide covering kenya association of tour operators (kato) members, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya association of tour operators (kato) members, including what is included, pricing, and booking advice.'
 slug: kenya-association-of-tour-operators-kato-members
-primary_keyword: Kenya Association of Tour Operators (KATO) members
+primary_keyword: 'Kenya Association of Tour Operators (KATO) members'
 secondary_keywords:
-- Kenya safari holidays from UK book online ABTA/ATOL protected
-- Cost of Kenya safari from Manchester UK agent quote
-- Recommended Kenya tour operators for migration safari viewing
-- Urgent Kenya safari booking online UK instant confirmation
-- Best luxury Kenya safari packages reviews Conde Nast UK
+- 'Kenya safari holidays from UK book online ABTA/ATOL protected'
+- 'Cost of Kenya safari from Manchester UK agent quote'
+- 'Recommended Kenya tour operators for migration safari viewing'
+- 'Urgent Kenya safari booking online UK instant confirmation'
+- 'Best luxury Kenya safari packages reviews Conde Nast UK'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

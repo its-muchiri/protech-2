@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Nairobi to Cape Town: Complete Guide'
-description: Everything you need to know about kq flight from nairobi to cape town, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from nairobi to cape town, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-nairobi-to-cape-town
-primary_keyword: kq flight from nairobi to cape town
+primary_keyword: 'kq flight from nairobi to cape town'
 secondary_keywords:
-- kenya airways flight from accra to nairobi
-- kenya airways flight schedule from nairobi to dar es salaam
-- does kenya airways fly to australia
-- kenya airways flight schedule from lilongwe to nairobi
-- kenya airways flight from new york to nairobi today
+- 'kenya airways flight from accra to nairobi'
+- 'kenya airways flight schedule from nairobi to dar es salaam'
+- 'does kenya airways fly to australia'
+- 'kenya airways flight schedule from lilongwe to nairobi'
+- 'kenya airways flight from new york to nairobi today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

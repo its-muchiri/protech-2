@@ -1,14 +1,14 @@
 ---
 title: 'Vertical Autoclave for Laboratory Use: 2026 Price Guide'
-description: Kenya buying guide to vertical autoclave for laboratory use. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to vertical autoclave for laboratory use. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: vertical-autoclave-for-laboratory-use
-primary_keyword: Vertical autoclave for laboratory use
+primary_keyword: 'Vertical autoclave for laboratory use'
 secondary_keywords:
-- radiology equipment suppliers Kenya
-- medical equipment suppliers in Nairobi
-- 5D ultrasound machine cost in Mombasa
-- DR panel for X-ray machine cost in Kenya
-- Used Philips MRI for sale in Nairobi
+- 'radiology equipment suppliers Kenya'
+- 'medical equipment suppliers in Nairobi'
+- '5D ultrasound machine cost in Mombasa'
+- 'DR panel for X-ray machine cost in Kenya'
+- 'Used Philips MRI for sale in Nairobi'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

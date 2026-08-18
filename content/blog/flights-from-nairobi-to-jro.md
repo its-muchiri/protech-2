@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Jro: Complete Guide'
-description: Everything you need to know about flights from nairobi to jro, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to jro, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-jro
-primary_keyword: flights from nairobi to jro
+primary_keyword: 'flights from nairobi to jro'
 secondary_keywords:
-- cheapest emirates flights from dubai
-- emirates flights from edinburgh
-- emirates flights first class
-- emirates flights from gatwick terminal
-- emirates flights from harare to london
+- 'cheapest emirates flights from dubai'
+- 'emirates flights from edinburgh'
+- 'emirates flights first class'
+- 'emirates flights from gatwick terminal'
+- 'emirates flights from harare to london'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

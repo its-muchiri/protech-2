@@ -1,14 +1,14 @@
 ---
 title: 'Air Arabia Flights from Nairobi to Ahmedabad: Complete Guide'
-description: Everything you need to know about air arabia flights from nairobi to ahmedabad, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about air arabia flights from nairobi to ahmedabad, including routes, airlines, booking tips, and fares.'
 slug: air-arabia-flights-from-nairobi-to-ahmedabad
-primary_keyword: air arabia flights from nairobi to ahmedabad
+primary_keyword: 'air arabia flights from nairobi to ahmedabad'
 secondary_keywords:
-- turkish airlines pnr not working
-- emirates airlines from nairobi
-- is ethiopian airlines profitable
-- ethiopian airlines contact number nairobi kenya
-- ethiopian airlines addis to nairobi schedule
+- 'turkish airlines pnr not working'
+- 'emirates airlines from nairobi'
+- 'is ethiopian airlines profitable'
+- 'ethiopian airlines contact number nairobi kenya'
+- 'ethiopian airlines addis to nairobi schedule'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

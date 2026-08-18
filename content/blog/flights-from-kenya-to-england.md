@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to England: Complete Guide'
-description: Everything you need to know about flights from kenya to england, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to england, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-england
-primary_keyword: flights from kenya to england
+primary_keyword: 'flights from kenya to england'
 secondary_keywords:
-- turkish airlines nairobi office
-- what terminal is turkish airlines
-- turkish airlines jkia
-- turkish airlines pet allowance
-- 1 turkish lira to kenyan shillings
+- 'turkish airlines nairobi office'
+- 'what terminal is turkish airlines'
+- 'turkish airlines jkia'
+- 'turkish airlines pet allowance'
+- '1 turkish lira to kenyan shillings'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

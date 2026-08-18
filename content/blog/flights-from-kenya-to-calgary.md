@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Calgary: Complete Guide'
-description: Everything you need to know about flights from kenya to calgary, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to calgary, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-calgary
-primary_keyword: flights from kenya to calgary
+primary_keyword: 'flights from kenya to calgary'
 secondary_keywords:
-- homa bay flights from nairobi
-- flights to italy from nairobi
-- jambojet flights from nairobi to kisumu
-- flight nairobi from london
-- flights from nairobi to mauritius
+- 'homa bay flights from nairobi'
+- 'flights to italy from nairobi'
+- 'jambojet flights from nairobi to kisumu'
+- 'flight nairobi from london'
+- 'flights from nairobi to mauritius'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

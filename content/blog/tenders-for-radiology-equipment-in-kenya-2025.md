@@ -1,14 +1,14 @@
 ---
 title: 'Tenders for Radiology Equipment in Kenya 2025: 2026 Price Guide'
-description: Kenya buying guide to tenders for radiology equipment in kenya 2025. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to tenders for radiology equipment in kenya 2025. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: tenders-for-radiology-equipment-in-kenya-2025
-primary_keyword: Tenders for radiology equipment in Kenya 2025
+primary_keyword: 'Tenders for radiology equipment in Kenya 2025'
 secondary_keywords:
-- Wheelchair price in Kenya
-- Medicine trolley and cart cost in Kisumu
-- Central monitoring station for ICU cost
-- Transport ventilator for ambulance
-- Laser therapy machine for pain relief in Nairobi
+- 'Wheelchair price in Kenya'
+- 'Medicine trolley and cart cost in Kisumu'
+- 'Central monitoring station for ICU cost'
+- 'Transport ventilator for ambulance'
+- 'Laser therapy machine for pain relief in Nairobi'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

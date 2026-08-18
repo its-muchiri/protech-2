@@ -1,14 +1,14 @@
 ---
 title: 'How Many Flights Does Kq Have: Complete Guide'
-description: Everything you need to know about how many flights does kq have, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how many flights does kq have, including routes, airlines, booking tips, and fares.'
 slug: how-many-flights-does-kq-have
-primary_keyword: how many flights does kq have
+primary_keyword: 'how many flights does kq have'
 secondary_keywords:
-- kq flight reschedule
-- kq flights to seychelles
-- kq flights to new york
-- flight kq101
-- kq 257 flight status
+- 'kq flight reschedule'
+- 'kq flights to seychelles'
+- 'kq flights to new york'
+- 'flight kq101'
+- 'kq 257 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

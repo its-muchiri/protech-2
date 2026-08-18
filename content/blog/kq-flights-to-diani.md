@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Diani: Complete Guide'
-description: Everything you need to know about kq flights to diani, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to diani, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-diani
-primary_keyword: kq flights to diani
+primary_keyword: 'kq flights to diani'
 secondary_keywords:
-- flights from nairobi to eldoret
-- emirates flights from nairobi to dubai today
-- flights from nairobi to germany
-- flights from nairobi to hyderabad india
-- flight from nairobi to india price
+- 'flights from nairobi to eldoret'
+- 'emirates flights from nairobi to dubai today'
+- 'flights from nairobi to germany'
+- 'flights from nairobi to hyderabad india'
+- 'flight from nairobi to india price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

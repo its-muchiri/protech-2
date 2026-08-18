@@ -1,14 +1,14 @@
 ---
 title: 'Nitrile Examination Gloves Wholesale Price in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to nitrile examination gloves wholesale price in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to nitrile examination gloves wholesale price in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: nitrile-examination-gloves-wholesale-price-in-nairobi
-primary_keyword: Nitrile examination gloves wholesale price in Nairobi
+primary_keyword: 'Nitrile examination gloves wholesale price in Nairobi'
 secondary_keywords:
-- medical equipment repair Nairobi
-- syringes Kenya different sizes
-- iodine solution Kenya
-- specimen containers Kenya
-- cotton applicators Kenya
+- 'medical equipment repair Nairobi'
+- 'syringes Kenya different sizes'
+- 'iodine solution Kenya'
+- 'specimen containers Kenya'
+- 'cotton applicators Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

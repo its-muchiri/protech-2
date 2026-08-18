@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Vs Tanzania Safari: Complete Guide'
-description: Kenya safari guide covering kenya safari vs tanzania safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari vs tanzania safari, including what is included, pricing, and booking advice.'
 slug: kenya-safari-vs-tanzania-safari
-primary_keyword: Kenya safari vs Tanzania safari
+primary_keyword: 'Kenya safari vs Tanzania safari'
 secondary_keywords:
-- Lake Nakuru safari tour price list
-- Honeymoon Kenya safari package price enquiry
-- Discounted Kenya safari tours
-- 5 day Amboseli Tsavo combo discount code
-- Offer 10 day budget Kenya Tanzania camping safari last minute
+- 'Lake Nakuru safari tour price list'
+- 'Honeymoon Kenya safari package price enquiry'
+- 'Discounted Kenya safari tours'
+- '5 day Amboseli Tsavo combo discount code'
+- 'Offer 10 day budget Kenya Tanzania camping safari last minute'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

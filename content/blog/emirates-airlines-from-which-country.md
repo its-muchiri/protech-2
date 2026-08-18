@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Airlines from Which Country: Complete Guide'
-description: Everything you need to know about emirates airlines from which country, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates airlines from which country, including routes, airlines, booking tips, and fares.'
 slug: emirates-airlines-from-which-country
-primary_keyword: emirates airlines from which country
+primary_keyword: 'emirates airlines from which country'
 secondary_keywords:
-- airlines that fly to nairobi
-- google flights from nairobi
-- flights from heathrow to nairobi
-- cheap flights from nairobi to italy
-- jetlink flights from nairobi to mombasa
+- 'airlines that fly to nairobi'
+- 'google flights from nairobi'
+- 'flights from heathrow to nairobi'
+- 'cheap flights from nairobi to italy'
+- 'jetlink flights from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

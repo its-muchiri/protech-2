@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Mombasa Prices from Nairobi: Complete Guide'
-description: Everything you need to know about kq flights to mombasa prices from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to mombasa prices from nairobi, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-mombasa-prices-from-nairobi
-primary_keyword: kq flights to mombasa prices from nairobi
+primary_keyword: 'kq flights to mombasa prices from nairobi'
 secondary_keywords:
-- emirates flight 804
-- emirates flight 980
-- qatar airways lounge nairobi airport
-- cheap flight from nairobi to qatar
-- qatar flight from doha to nairobi
+- 'emirates flight 804'
+- 'emirates flight 980'
+- 'qatar airways lounge nairobi airport'
+- 'cheap flight from nairobi to qatar'
+- 'qatar flight from doha to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

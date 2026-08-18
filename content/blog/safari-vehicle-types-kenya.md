@@ -1,14 +1,14 @@
 ---
 title: 'Safari Vehicle Types Kenya: Complete Guide'
-description: Kenya safari guide covering safari vehicle types kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering safari vehicle types kenya, including what is included, pricing, and booking advice.'
 slug: safari-vehicle-types-kenya
-primary_keyword: Safari vehicle types Kenya
+primary_keyword: 'Safari vehicle types Kenya'
 secondary_keywords:
-- Cost of 3 day Masai Mara safari from Nairobi
-- Luxury honeymoon suite Masai Mara private conservancy
-- Speleology safari Kenya (Chyulu Hills caves)
-- Kenya safe travel safari (General health)
-- Impact of climate change Kenya safari
+- 'Cost of 3 day Masai Mara safari from Nairobi'
+- 'Luxury honeymoon suite Masai Mara private conservancy'
+- 'Speleology safari Kenya (Chyulu Hills caves)'
+- 'Kenya safe travel safari (General health)'
+- 'Impact of climate change Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

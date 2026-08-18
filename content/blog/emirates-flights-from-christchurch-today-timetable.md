@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Christchurch Today Timetable: Complete Guide'
-description: Everything you need to know about emirates flights from christchurch today timetable, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from christchurch today timetable, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-christchurch-today-timetable
-primary_keyword: emirates flights from christchurch today timetable
+primary_keyword: 'emirates flights from christchurch today timetable'
 secondary_keywords:
-- flights to kenya from johannesburg
-- international flights in kenya
-- flights leaving kenya today
-- flights to kenya news
-- qatar flights to nairobi
+- 'flights to kenya from johannesburg'
+- 'international flights in kenya'
+- 'flights leaving kenya today'
+- 'flights to kenya news'
+- 'qatar flights to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

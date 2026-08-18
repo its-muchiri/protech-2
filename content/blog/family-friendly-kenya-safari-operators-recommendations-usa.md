@@ -1,14 +1,14 @@
 ---
 title: 'Family Friendly Kenya Safari Operators Recommendations USA: Complete Guide'
-description: Kenya safari guide covering family friendly kenya safari operators recommendations usa, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering family friendly kenya safari operators recommendations usa, including what is included, pricing, and booking advice.'
 slug: family-friendly-kenya-safari-operators-recommendations-usa
-primary_keyword: Family friendly Kenya safari operators recommendations USA
+primary_keyword: 'Family friendly Kenya safari operators recommendations USA'
 secondary_keywords:
-- Amboseli view Kilimanjaro safari package book
-- Governors Camp Masai Mara package booking
-- Book Kenya honeymoon safari package
-- Kenya safari package offers
-- Kenya Uganda gorilla safari package cost
+- 'Amboseli view Kilimanjaro safari package book'
+- 'Governors Camp Masai Mara package booking'
+- 'Book Kenya honeymoon safari package'
+- 'Kenya safari package offers'
+- 'Kenya Uganda gorilla safari package cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

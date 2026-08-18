@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Flight to Nairobi Today: Complete Guide'
-description: Everything you need to know about qatar flight to nairobi today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar flight to nairobi today, including routes, airlines, booking tips, and fares.'
 slug: qatar-flight-to-nairobi-today
-primary_keyword: qatar flight to nairobi today
+primary_keyword: 'qatar flight to nairobi today'
 secondary_keywords:
-- flight from nairobi to mauritius
-- flight ticket from nigeria to nairobi
-- flight from nairobi to portugal
-- flight from nairobi to romania
-- flight from nairobi to seattle
+- 'flight from nairobi to mauritius'
+- 'flight ticket from nigeria to nairobi'
+- 'flight from nairobi to portugal'
+- 'flight from nairobi to romania'
+- 'flight from nairobi to seattle'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

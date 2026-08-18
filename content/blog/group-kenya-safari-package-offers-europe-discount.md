@@ -1,14 +1,14 @@
 ---
 title: 'Group Kenya Safari Package Offers Europe Discount: Complete Guide'
-description: Kenya safari guide covering group kenya safari package offers europe discount, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering group kenya safari package offers europe discount, including what is included, pricing, and booking advice.'
 slug: group-kenya-safari-package-offers-europe-discount
-primary_keyword: Group Kenya safari package offers Europe discount
+primary_keyword: 'Group Kenya safari package offers Europe discount'
 secondary_keywords:
-- ATOL protected Kenya safari package book
-- Top rated Kenya safari packages booking
-- Luxury lodge full board package Kenya book
-- Buy migration safari package
-- Get quote private 8 day photo safari package Kenya
+- 'ATOL protected Kenya safari package book'
+- 'Top rated Kenya safari packages booking'
+- 'Luxury lodge full board package Kenya book'
+- 'Buy migration safari package'
+- 'Get quote private 8 day photo safari package Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

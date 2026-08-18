@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Package Special Offers: Complete Guide'
-description: Kenya safari guide covering kenya safari package special offers, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari package special offers, including what is included, pricing, and booking advice.'
 slug: kenya-safari-package-special-offers
-primary_keyword: Kenya safari package special offers
+primary_keyword: 'Kenya safari package special offers'
 secondary_keywords:
-- Estimate for Kenya adventure safari trip
-- Estimate for 6 day Samburu Nakuru safari
-- Price enquiry 5 day family fly-in Amboseli package
-- Samburu safari package sale
-- Family friendly Kenya safari tour discount code
+- 'Estimate for Kenya adventure safari trip'
+- 'Estimate for 6 day Samburu Nakuru safari'
+- 'Price enquiry 5 day family fly-in Amboseli package'
+- 'Samburu safari package sale'
+- 'Family friendly Kenya safari tour discount code'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

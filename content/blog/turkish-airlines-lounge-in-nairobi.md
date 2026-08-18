@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Lounge in Nairobi: Complete Guide'
-description: Everything you need to know about turkish airlines lounge in nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines lounge in nairobi, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-lounge-in-nairobi
-primary_keyword: turkish airlines lounge in nairobi
+primary_keyword: 'turkish airlines lounge in nairobi'
 secondary_keywords:
-- flights from wilson to eldoret
-- kq airlines flight status
-- kq flying blue miles
-- kq flight charges
-- kq flight diverted
+- 'flights from wilson to eldoret'
+- 'kq airlines flight status'
+- 'kq flying blue miles'
+- 'kq flight charges'
+- 'kq flight diverted'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Israel: Complete Guide'
-description: Everything you need to know about emirates flights from israel, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from israel, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-israel
-primary_keyword: emirates flights from israel
+primary_keyword: 'emirates flights from israel'
 secondary_keywords:
-- emirates flights from addis ababa to dubai price
-- emirates flights from boston
-- emirates flights from christchurch today timetable
-- emirates flights from dublin to dubai
-- flights from egypt to emirates
+- 'emirates flights from addis ababa to dubai price'
+- 'emirates flights from boston'
+- 'emirates flights from christchurch today timetable'
+- 'emirates flights from dublin to dubai'
+- 'flights from egypt to emirates'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

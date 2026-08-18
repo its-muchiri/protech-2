@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Malindi Price: Complete Guide'
-description: Everything you need to know about kq flights to malindi price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to malindi price, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-malindi-price
-primary_keyword: kq flights to malindi price
+primary_keyword: 'kq flights to malindi price'
 secondary_keywords:
-- flights from nairobi wilson to mombasa
-- cheap flights from nairobi to south africa
-- cheap flights from nairobi to europe
-- which airlines fly from nairobi to malindi
-- flights from mombasa to nairobi
+- 'flights from nairobi wilson to mombasa'
+- 'cheap flights from nairobi to south africa'
+- 'cheap flights from nairobi to europe'
+- 'which airlines fly from nairobi to malindi'
+- 'flights from mombasa to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

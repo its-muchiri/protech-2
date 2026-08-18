@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Malindi: Complete Guide'
-description: Everything you need to know about flights from mombasa to malindi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to malindi, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-malindi
-primary_keyword: flights from mombasa to malindi
+primary_keyword: 'flights from mombasa to malindi'
 secondary_keywords:
-- local flights from nairobi to mombasa
-- mauritius flights from nairobi
-- flights from nyc to nairobi
-- flights from new orleans to nairobi
-- flights from nairobi to qatar
+- 'local flights from nairobi to mombasa'
+- 'mauritius flights from nairobi'
+- 'flights from nyc to nairobi'
+- 'flights from new orleans to nairobi'
+- 'flights from nairobi to qatar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

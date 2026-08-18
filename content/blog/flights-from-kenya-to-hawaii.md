@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Hawaii: Complete Guide'
-description: Everything you need to know about flights from kenya to hawaii, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to hawaii, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-hawaii
-primary_keyword: flights from kenya to hawaii
+primary_keyword: 'flights from kenya to hawaii'
 secondary_keywords:
-- is kisumu an international airport
-- jambojet flights from eldoret to nairobi
-- flights from entebbe to eldoret
-- kq flights from eldoret to nairobi timetable
-- kenya airways flights from eldoret to nairobi price
+- 'is kisumu an international airport'
+- 'jambojet flights from eldoret to nairobi'
+- 'flights from entebbe to eldoret'
+- 'kq flights from eldoret to nairobi timetable'
+- 'kenya airways flights from eldoret to nairobi price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

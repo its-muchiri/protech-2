@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights Nairobi to Kisumu: Complete Guide'
-description: Everything you need to know about kq flights nairobi to kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights nairobi to kisumu, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-nairobi-to-kisumu
-primary_keyword: kq flights nairobi to kisumu
+primary_keyword: 'kq flights nairobi to kisumu'
 secondary_keywords:
-- fly from mombasa to lamu
-- morning flights from mombasa to nairobi
-- flight from kisumu to mombasa price
-- flights from riyadh to mombasa
-- charter flights to mombasa from uk
+- 'fly from mombasa to lamu'
+- 'morning flights from mombasa to nairobi'
+- 'flight from kisumu to mombasa price'
+- 'flights from riyadh to mombasa'
+- 'charter flights to mombasa from uk'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

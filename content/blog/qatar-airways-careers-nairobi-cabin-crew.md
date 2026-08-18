@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways Careers Nairobi Cabin Crew: Complete Guide'
-description: Everything you need to know about qatar airways careers nairobi cabin crew, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways careers nairobi cabin crew, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-careers-nairobi-cabin-crew
-primary_keyword: qatar airways careers nairobi cabin crew
+primary_keyword: 'qatar airways careers nairobi cabin crew'
 secondary_keywords:
-- flights from nairobi to jakarta
-- kisumu flights from nairobi
-- lufthansa flights from nairobi today
-- migori flights from nairobi
-- flights to netherlands from nairobi
+- 'flights from nairobi to jakarta'
+- 'kisumu flights from nairobi'
+- 'lufthansa flights from nairobi today'
+- 'migori flights from nairobi'
+- 'flights to netherlands from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

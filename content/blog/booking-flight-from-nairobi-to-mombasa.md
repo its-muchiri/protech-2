@@ -1,14 +1,14 @@
 ---
 title: 'Booking Flight from Nairobi to Mombasa: Complete Guide'
-description: Everything you need to know about booking flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about booking flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.'
 slug: booking-flight-from-nairobi-to-mombasa
-primary_keyword: booking flight from nairobi to mombasa
+primary_keyword: 'booking flight from nairobi to mombasa'
 secondary_keywords:
-- flights from kenya to lesotho
-- flights from kenya to melbourne
-- flights from nigeria to kenya
-- flights from new orleans to kenya
-- cheap flights to kenya from perth
+- 'flights from kenya to lesotho'
+- 'flights from kenya to melbourne'
+- 'flights from nigeria to kenya'
+- 'flights from new orleans to kenya'
+- 'cheap flights to kenya from perth'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

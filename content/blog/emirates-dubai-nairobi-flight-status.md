@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Dubai Nairobi Flight Status: Complete Guide'
-description: Everything you need to know about emirates dubai nairobi flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates dubai nairobi flight status, including routes, airlines, booking tips, and fares.'
 slug: emirates-dubai-nairobi-flight-status
-primary_keyword: emirates dubai nairobi flight status
+primary_keyword: 'emirates dubai nairobi flight status'
 secondary_keywords:
-- flights to kenya nairobi from london
-- flights to kenya return
-- flights kenya to dubai
-- flights with kenya airways
-- 748 flights to mombasa
+- 'flights to kenya nairobi from london'
+- 'flights to kenya return'
+- 'flights kenya to dubai'
+- 'flights with kenya airways'
+- '748 flights to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

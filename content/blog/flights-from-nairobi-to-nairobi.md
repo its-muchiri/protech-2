@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Nairobi: Complete Guide'
-description: Everything you need to know about flights from nairobi to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to nairobi, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-nairobi
-primary_keyword: flights from nairobi to nairobi
+primary_keyword: 'flights from nairobi to nairobi'
 secondary_keywords:
-- kenya airways flights to south africa price
-- international flights from kisumu
-- flights from nairobi to atlanta
-- flights from nairobi to bali
-- flights from beirut to nairobi
+- 'kenya airways flights to south africa price'
+- 'international flights from kisumu'
+- 'flights from nairobi to atlanta'
+- 'flights from nairobi to bali'
+- 'flights from beirut to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

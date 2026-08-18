@@ -1,14 +1,14 @@
 ---
 title: 'Cheapest Flights from Kenya: Complete Guide'
-description: Everything you need to know about cheapest flights from kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheapest flights from kenya, including routes, airlines, booking tips, and fares.'
 slug: cheapest-flights-from-kenya
-primary_keyword: cheapest flights from kenya
+primary_keyword: 'cheapest flights from kenya'
 secondary_keywords:
-- emirates flight 764 accident
-- emirates flight 835
-- flight price from nairobi to qatar
-- qatar airways booking nairobi
-- does qatar airways fly to uae
+- 'emirates flight 764 accident'
+- 'emirates flight 835'
+- 'flight price from nairobi to qatar'
+- 'qatar airways booking nairobi'
+- 'does qatar airways fly to uae'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Are There Direct Flights from Kenya to Australia: Complete Guide'
-description: Everything you need to know about are there direct flights from kenya to australia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about are there direct flights from kenya to australia, including routes, airlines, booking tips, and fares.'
 slug: are-there-direct-flights-from-kenya-to-australia
-primary_keyword: are there direct flights from kenya to australia
+primary_keyword: 'are there direct flights from kenya to australia'
 secondary_keywords:
-- lufthansa flight from nairobi
-- madagascar flight from nairobi
-- one way flight from nairobi to dubai
-- price of flight from nairobi to kisumu
-- renegade flight from nairobi to kisumu
+- 'lufthansa flight from nairobi'
+- 'madagascar flight from nairobi'
+- 'one way flight from nairobi to dubai'
+- 'price of flight from nairobi to kisumu'
+- 'renegade flight from nairobi to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

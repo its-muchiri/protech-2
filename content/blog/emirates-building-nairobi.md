@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Building Nairobi: Complete Guide'
-description: Everything you need to know about emirates building nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates building nairobi, including routes, airlines, booking tips, and fares.'
 slug: emirates-building-nairobi
-primary_keyword: emirates building nairobi
+primary_keyword: 'emirates building nairobi'
 secondary_keywords:
-- kenya airways flight schedule from nairobi to mombasa
-- kenya airways flights from nairobi to south africa price
-- flight from nairobi to zanzibar
-- air india flight from nairobi to delhi status
-- ba flight from nairobi to london
+- 'kenya airways flight schedule from nairobi to mombasa'
+- 'kenya airways flights from nairobi to south africa price'
+- 'flight from nairobi to zanzibar'
+- 'air india flight from nairobi to delhi status'
+- 'ba flight from nairobi to london'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

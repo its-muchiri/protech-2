@@ -1,14 +1,14 @@
 ---
 title: 'Student Safari Packages Kenya Budget Options: Complete Guide'
-description: Kenya safari guide covering student safari packages kenya budget options, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering student safari packages kenya budget options, including what is included, pricing, and booking advice.'
 slug: student-safari-packages-kenya-budget-options
-primary_keyword: Student safari packages Kenya budget options
+primary_keyword: 'Student safari packages Kenya budget options'
 secondary_keywords:
-- Family safari lodge with kids club Kenya
-- Birding specialist guide Kenya Aberdares
-- Fly fishing Mount Kenya safari
-- Kenya safari map
-- Impact of climate change Kenya safari
+- 'Family safari lodge with kids club Kenya'
+- 'Birding specialist guide Kenya Aberdares'
+- 'Fly fishing Mount Kenya safari'
+- 'Kenya safari map'
+- 'Impact of climate change Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

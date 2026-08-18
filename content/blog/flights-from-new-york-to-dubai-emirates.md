@@ -1,14 +1,14 @@
 ---
 title: 'Flights from New York to Dubai Emirates: Complete Guide'
-description: Everything you need to know about flights from new york to dubai emirates, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from new york to dubai emirates, including routes, airlines, booking tips, and fares.'
 slug: flights-from-new-york-to-dubai-emirates
-primary_keyword: flights from new york to dubai emirates
+primary_keyword: 'flights from new york to dubai emirates'
 secondary_keywords:
-- kq flights from eldoret
-- which flights go to eldoret
-- kq flights to rwanda
-- kq flights to abidjan
-- kq flight schedule
+- 'kq flights from eldoret'
+- 'which flights go to eldoret'
+- 'kq flights to rwanda'
+- 'kq flights to abidjan'
+- 'kq flight schedule'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

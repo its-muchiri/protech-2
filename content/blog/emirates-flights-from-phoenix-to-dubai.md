@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Phoenix to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from phoenix to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from phoenix to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-phoenix-to-dubai
-primary_keyword: emirates flights from phoenix to dubai
+primary_keyword: 'emirates flights from phoenix to dubai'
 secondary_keywords:
-- flights nairobi to colombo
-- flights nairobi to dakar
-- cairo to nairobi flights egyptair
-- google flights nairobi to mombasa
-- hyderabad to nairobi flights
+- 'flights nairobi to colombo'
+- 'flights nairobi to dakar'
+- 'cairo to nairobi flights egyptair'
+- 'google flights nairobi to mombasa'
+- 'hyderabad to nairobi flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

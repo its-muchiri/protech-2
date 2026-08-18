@@ -1,14 +1,14 @@
 ---
 title: 'Reliable Travel Agency Nairobi Kenya: Complete Guide'
-description: Kenya safari guide covering reliable travel agency nairobi kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reliable travel agency nairobi kenya, including what is included, pricing, and booking advice.'
 slug: reliable-travel-agency-nairobi-kenya
-primary_keyword: Reliable travel agency Nairobi Kenya
+primary_keyword: 'Reliable travel agency Nairobi Kenya'
 secondary_keywords:
-- Kenya safari from Dubai
-- Kenya safari in October
-- Custom Kenya safari quote
-- LGBTQ+ friendly Kenya safari
-- Is Kenya safe for safari
+- 'Kenya safari from Dubai'
+- 'Kenya safari in October'
+- 'Custom Kenya safari quote'
+- 'LGBTQ+ friendly Kenya safari'
+- 'Is Kenya safe for safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

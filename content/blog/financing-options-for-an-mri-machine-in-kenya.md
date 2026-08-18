@@ -1,14 +1,14 @@
 ---
 title: 'Financing Options for an MRI Machine in Kenya: 2026 Price Guide'
-description: Kenya buying guide to financing options for an mri machine in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to financing options for an mri machine in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: financing-options-for-an-mri-machine-in-kenya
-primary_keyword: Financing options for an MRI machine in Kenya
+primary_keyword: 'Financing options for an MRI machine in Kenya'
 secondary_keywords:
-- sports medicine supplies for teams
-- RFID tracking for hospital assets
-- Certificate of Conformity for medical device imports Kenya
-- medical disposables Kenya
-- medical device regulation Kenya
+- 'sports medicine supplies for teams'
+- 'RFID tracking for hospital assets'
+- 'Certificate of Conformity for medical device imports Kenya'
+- 'medical disposables Kenya'
+- 'medical device regulation Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

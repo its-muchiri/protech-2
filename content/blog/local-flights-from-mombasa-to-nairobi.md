@@ -1,14 +1,14 @@
 ---
 title: 'Local Flights from Mombasa to Nairobi: Complete Guide'
-description: Everything you need to know about local flights from mombasa to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about local flights from mombasa to nairobi, including routes, airlines, booking tips, and fares.'
 slug: local-flights-from-mombasa-to-nairobi
-primary_keyword: local flights from mombasa to nairobi
+primary_keyword: 'local flights from mombasa to nairobi'
 secondary_keywords:
-- turkish airline to nairobi
-- ethiopian airlines nairobi to accra
-- ethiopian airlines agent in nairobi
-- qatar airways from nairobi to doha
-- does turkish airlines fly to dubai
+- 'turkish airline to nairobi'
+- 'ethiopian airlines nairobi to accra'
+- 'ethiopian airlines agent in nairobi'
+- 'qatar airways from nairobi to doha'
+- 'does turkish airlines fly to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari from Canada: Complete Guide'
-description: Kenya safari guide covering kenya safari from canada, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari from canada, including what is included, pricing, and booking advice.'
 slug: kenya-safari-from-canada
-primary_keyword: Kenya safari from Canada
+primary_keyword: 'Kenya safari from Canada'
 secondary_keywords:
-- Early bird discount 9 day custom Laikipia family adventure
-- 10 day Kenya safari itinerary package book
-- Book sustainable eco-tour operator Kenya package
-- Reserve luxury couples retreat Kenya safari package honeymoon
-- Buy Christmas family safari package Kenya
+- 'Early bird discount 9 day custom Laikipia family adventure'
+- '10 day Kenya safari itinerary package book'
+- 'Book sustainable eco-tour operator Kenya package'
+- 'Reserve luxury couples retreat Kenya safari package honeymoon'
+- 'Buy Christmas family safari package Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

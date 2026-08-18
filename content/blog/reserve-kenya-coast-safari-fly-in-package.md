@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Kenya Coast Safari Fly-in Package: Complete Guide'
-description: Kenya safari guide covering reserve kenya coast safari fly-in package, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve kenya coast safari fly-in package, including what is included, pricing, and booking advice.'
 slug: reserve-kenya-coast-safari-fly-in-package
-primary_keyword: Reserve Kenya coast safari fly-in package
+primary_keyword: 'Reserve Kenya coast safari fly-in package'
 secondary_keywords:
-- Kenya wildlife safari offers
-- 4 day Masai Mara tour last minute offer
-- Deal 7 day luxury Masai Mara package
-- Laikipia luxury holiday package reserve
-- Secure booking with best rated Kenya safari company
+- 'Kenya wildlife safari offers'
+- '4 day Masai Mara tour last minute offer'
+- 'Deal 7 day luxury Masai Mara package'
+- 'Laikipia luxury holiday package reserve'
+- 'Secure booking with best rated Kenya safari company'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

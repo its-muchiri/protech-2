@@ -1,14 +1,14 @@
 ---
 title: 'Last Minute Kenya Safari Deals UK Departing Next Week: Complete Guide'
-description: Kenya safari guide covering last minute kenya safari deals uk departing next week, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering last minute kenya safari deals uk departing next week, including what is included, pricing, and booking advice.'
 slug: last-minute-kenya-safari-deals-uk-departing-next-week
-primary_keyword: Last minute Kenya safari deals UK departing next week
+primary_keyword: 'Last minute Kenya safari deals UK departing next week'
 secondary_keywords:
-- Affordable family safari Kenya
-- Travel agents near Thika Road Mall (TRM)
-- Wheelchair accessible safari vans Kenya
-- Combined & Complex Queries
-- Mid-range 10 day Kenya highlights tour itinerary company
+- 'Affordable family safari Kenya'
+- 'Travel agents near Thika Road Mall (TRM)'
+- 'Wheelchair accessible safari vans Kenya'
+- 'Combined & Complex Queries'
+- 'Mid-range 10 day Kenya highlights tour itinerary company'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

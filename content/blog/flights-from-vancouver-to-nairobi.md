@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Vancouver to Nairobi: Complete Guide'
-description: Everything you need to know about flights from vancouver to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from vancouver to nairobi, including routes, airlines, booking tips, and fares.'
 slug: flights-from-vancouver-to-nairobi
-primary_keyword: flights from vancouver to nairobi
+primary_keyword: 'flights from vancouver to nairobi'
 secondary_keywords:
-- kq flights nairobi to juba price
-- kq flights from london to nairobi
-- kq flights nairobi to entebbe
-- kq flight to qatar
-- kq flight status lhr to nbo
+- 'kq flights nairobi to juba price'
+- 'kq flights from london to nairobi'
+- 'kq flights nairobi to entebbe'
+- 'kq flight to qatar'
+- 'kq flight status lhr to nbo'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

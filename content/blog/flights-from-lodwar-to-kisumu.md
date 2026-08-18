@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Lodwar to Kisumu: Complete Guide'
-description: Everything you need to know about flights from lodwar to kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from lodwar to kisumu, including routes, airlines, booking tips, and fares.'
 slug: flights-from-lodwar-to-kisumu
-primary_keyword: flights from lodwar to kisumu
+primary_keyword: 'flights from lodwar to kisumu'
 secondary_keywords:
-- emirates flight 448
-- emirates flight 623
-- emirates flight 720
-- emirates flight 978
-- qatar airways flight from nairobi to dubai
+- 'emirates flight 448'
+- 'emirates flight 623'
+- 'emirates flight 720'
+- 'emirates flight 978'
+- 'qatar airways flight from nairobi to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

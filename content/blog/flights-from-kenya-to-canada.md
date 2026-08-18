@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Canada: Complete Guide'
-description: Everything you need to know about flights from kenya to canada, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to canada, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-canada
-primary_keyword: flights from kenya to canada
+primary_keyword: 'flights from kenya to canada'
 secondary_keywords:
-- emirates flight 763
-- emirates flight 9
-- qatar airways nairobi address
-- qatar airways nairobi careers
-- how many hours flight from nairobi to qatar
+- 'emirates flight 763'
+- 'emirates flight 9'
+- 'qatar airways nairobi address'
+- 'qatar airways nairobi careers'
+- 'how many hours flight from nairobi to qatar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

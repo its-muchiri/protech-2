@@ -1,14 +1,14 @@
 ---
-title: 'Hell's Gate National Park Cycling and Gorge Walk Tour from Naivasha / Thika: Complete Guide'
-description: Kenya safari guide covering hells gate national park cycling and gorge walk tour from naivasha / thika, including what is included, pricing, and booking advice.
+title: 'Hell''s Gate National Park Cycling and Gorge Walk Tour from Naivasha / Thika: Complete Guide'
+description: 'Kenya safari guide covering hells gate national park cycling and gorge walk tour from naivasha / thika, including what is included, pricing, and booking advice.'
 slug: hell-s-gate-national-park-cycling-and-gorge-walk-tour-from-naivasha-thika
-primary_keyword: Hell's Gate National Park cycling and gorge walk tour from Naivasha / Thika
+primary_keyword: 'Hell''s Gate National Park cycling and gorge walk tour from Naivasha / Thika'
 secondary_keywords:
-- Kenya safari tour cost comparison
-- Kenya safari package with private vehicle buy
-- Buy luxury Kenya safari
-- Cost of 10 day family Kenya Tanzania safari package
-- Book 3 day Nairobi National Park Amboseli express package
+- 'Kenya safari tour cost comparison'
+- 'Kenya safari package with private vehicle buy'
+- 'Buy luxury Kenya safari'
+- 'Cost of 10 day family Kenya Tanzania safari package'
+- 'Book 3 day Nairobi National Park Amboseli express package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

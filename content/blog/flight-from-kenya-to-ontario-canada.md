@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kenya to Ontario Canada: Complete Guide'
-description: Everything you need to know about flight from kenya to ontario canada, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kenya to ontario canada, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kenya-to-ontario-canada
-primary_keyword: flight from kenya to ontario canada
+primary_keyword: 'flight from kenya to ontario canada'
 secondary_keywords:
-- kq flight from london to nairobi
-- kq flight schedule nairobi to mombasa
-- kenya airways flight from nairobi to kisumu
-- kenya airways flights from nairobi to bangkok
-- kenya airways flight schedule to freetown from nairobi
+- 'kq flight from london to nairobi'
+- 'kq flight schedule nairobi to mombasa'
+- 'kenya airways flight from nairobi to kisumu'
+- 'kenya airways flights from nairobi to bangkok'
+- 'kenya airways flight schedule to freetown from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

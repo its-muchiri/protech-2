@@ -1,14 +1,14 @@
 ---
 title: 'Ticket from Kenya to Uganda: Complete Guide'
-description: Everything you need to know about ticket from kenya to uganda, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ticket from kenya to uganda, including routes, airlines, booking tips, and fares.'
 slug: ticket-from-kenya-to-uganda
-primary_keyword: ticket from kenya to uganda
+primary_keyword: 'ticket from kenya to uganda'
 secondary_keywords:
-- kq 3 flight status
-- addis ababa to nairobi flight kenya airways
-- kq flight from dubai to nairobi today
-- flight number kenya airways
-- kenya airways flight from nairobi to london today live
+- 'kq 3 flight status'
+- 'addis ababa to nairobi flight kenya airways'
+- 'kq flight from dubai to nairobi today'
+- 'flight number kenya airways'
+- 'kenya airways flight from nairobi to london today live'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

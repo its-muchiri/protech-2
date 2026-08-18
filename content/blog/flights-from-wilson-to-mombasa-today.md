@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Wilson to Mombasa Today: Complete Guide'
-description: Everything you need to know about flights from wilson to mombasa today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from wilson to mombasa today, including routes, airlines, booking tips, and fares.'
 slug: flights-from-wilson-to-mombasa-today
-primary_keyword: flights from wilson to mombasa today
+primary_keyword: 'flights from wilson to mombasa today'
 secondary_keywords:
-- flights nairobi to kakamega
-- flights nairobi to loisaba
-- nairobi to malindi flights
-- nairobi to namibia flights
-- flights nairobi to phuket
+- 'flights nairobi to kakamega'
+- 'flights nairobi to loisaba'
+- 'nairobi to malindi flights'
+- 'nairobi to namibia flights'
+- 'flights nairobi to phuket'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

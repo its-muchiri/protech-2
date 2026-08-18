@@ -1,14 +1,14 @@
 ---
 title: 'Duty Free Allowances Kenya Safari: Complete Guide'
-description: Kenya safari guide covering duty free allowances kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering duty free allowances kenya safari, including what is included, pricing, and booking advice.'
 slug: duty-free-allowances-kenya-safari
-primary_keyword: Duty free allowances Kenya safari
+primary_keyword: 'Duty free allowances Kenya safari'
 secondary_keywords:
-- Kenya safari price per person
-- Amboseli lodges
-- Bush walk Kenya safari
-- Mara river crossing safari
-- Kenya safari from Nairobi
+- 'Kenya safari price per person'
+- 'Amboseli lodges'
+- 'Bush walk Kenya safari'
+- 'Mara river crossing safari'
+- 'Kenya safari from Nairobi'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

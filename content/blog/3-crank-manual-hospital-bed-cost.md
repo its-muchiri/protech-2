@@ -1,14 +1,14 @@
 ---
 title: '3-crank Manual Hospital Bed Cost: 2026 Price Guide'
-description: Kenya buying guide to 3-crank manual hospital bed cost. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to 3-crank manual hospital bed cost. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: 3-crank-manual-hospital-bed-cost
-primary_keyword: 3-crank manual hospital bed cost
+primary_keyword: '3-crank manual hospital bed cost'
 secondary_keywords:
-- Turnkey hospital projects in Kenya
-- ECG machine repair in Kisumu
-- Medical equipment shops in Nyeri
-- Wheelchair dealers in Embu
-- Patient hoist for sale in Nakuru
+- 'Turnkey hospital projects in Kenya'
+- 'ECG machine repair in Kisumu'
+- 'Medical equipment shops in Nyeri'
+- 'Wheelchair dealers in Embu'
+- 'Patient hoist for sale in Nakuru'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

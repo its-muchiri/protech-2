@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight Attendant Jobs: Complete Guide'
-description: Everything you need to know about kq flight attendant jobs, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight attendant jobs, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-attendant-jobs
-primary_keyword: kq flight attendant jobs
+primary_keyword: 'kq flight attendant jobs'
 secondary_keywords:
-- flight from kenya to yemen
-- flights schedule from seiyun yemen to nairobi kenya
-- cheapest flights kenya
-- how much is flight from kenya to tanzania
-- cheap flights from nairobi
+- 'flight from kenya to yemen'
+- 'flights schedule from seiyun yemen to nairobi kenya'
+- 'cheapest flights kenya'
+- 'how much is flight from kenya to tanzania'
+- 'cheap flights from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Hong Kong: Complete Guide'
-description: Everything you need to know about flights from kenya to hong kong, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to hong kong, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-hong-kong
-primary_keyword: flights from kenya to hong kong
+primary_keyword: 'flights from kenya to hong kong'
 secondary_keywords:
-- hyderabad to nairobi flights
-- flights nairobi to jeddah
-- flights nairobi to kakamega
-- flights nairobi to loisaba
-- nairobi to malindi flights
+- 'hyderabad to nairobi flights'
+- 'flights nairobi to jeddah'
+- 'flights nairobi to kakamega'
+- 'flights nairobi to loisaba'
+- 'nairobi to malindi flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi NP Game Drive Operators: Complete Guide'
-description: Kenya safari guide covering nairobi np game drive operators, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering nairobi np game drive operators, including what is included, pricing, and booking advice.'
 slug: nairobi-np-game-drive-operators
-primary_keyword: Nairobi NP game drive operators
+primary_keyword: 'Nairobi NP game drive operators'
 secondary_keywords:
-- Abercrombie & Kent Kenya luxury safari cost
-- Kenya safari payment terms deposit / balance due date
-- Luggage restrictions fly-in safari Kenya soft bags required
-- Kenya conservation safari tours rhino tracking / lion monitoring
-- Safari packages from Nanyuki Mount Kenya / Ol Pejeta
+- 'Abercrombie & Kent Kenya luxury safari cost'
+- 'Kenya safari payment terms deposit / balance due date'
+- 'Luggage restrictions fly-in safari Kenya soft bags required'
+- 'Kenya conservation safari tours rhino tracking / lion monitoring'
+- 'Safari packages from Nanyuki Mount Kenya / Ol Pejeta'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

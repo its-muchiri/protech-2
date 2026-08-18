@@ -1,14 +1,14 @@
 ---
 title: '540 Flight from Nairobi to Kisumu: Complete Guide'
-description: Everything you need to know about 540 flight from nairobi to kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about 540 flight from nairobi to kisumu, including routes, airlines, booking tips, and fares.'
 slug: 540-flight-from-nairobi-to-kisumu
-primary_keyword: 540 flight from nairobi to kisumu
+primary_keyword: '540 flight from nairobi to kisumu'
 secondary_keywords:
-- qatar airways nairobi email address
-- qatar airways nairobi lounge
-- qatar airways recruitment nairobi 2024
-- kq flights from nairobi to kisumu
-- kq flight from nbo to dxb
+- 'qatar airways nairobi email address'
+- 'qatar airways nairobi lounge'
+- 'qatar airways recruitment nairobi 2024'
+- 'kq flights from nairobi to kisumu'
+- 'kq flight from nbo to dxb'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

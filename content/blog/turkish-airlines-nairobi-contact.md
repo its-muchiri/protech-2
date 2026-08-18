@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Nairobi Contact: Complete Guide'
-description: Everything you need to know about turkish airlines nairobi contact, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines nairobi contact, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-nairobi-contact
-primary_keyword: turkish airlines nairobi contact
+primary_keyword: 'turkish airlines nairobi contact'
 secondary_keywords:
-- emirates flights from glasgow
-- emirates flights from houston
-- emirates flights from iran
-- emirates flights from johannesburg to london
-- emirates flights from kochi
+- 'emirates flights from glasgow'
+- 'emirates flights from houston'
+- 'emirates flights from iran'
+- 'emirates flights from johannesburg to london'
+- 'emirates flights from kochi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

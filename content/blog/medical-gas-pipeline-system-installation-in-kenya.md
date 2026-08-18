@@ -1,14 +1,14 @@
 ---
 title: 'Medical Gas Pipeline System Installation in Kenya: 2026 Price Guide'
-description: Kenya buying guide to medical gas pipeline system installation in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to medical gas pipeline system installation in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: medical-gas-pipeline-system-installation-in-kenya
-primary_keyword: Medical gas pipeline system installation in Kenya
+primary_keyword: 'Medical gas pipeline system installation in Kenya'
 secondary_keywords:
-- latex gloves Kenya box price
-- IV fluids Kenya 500ml price
-- medical scrubs Kenya uniform
-- nebulizer kits Kenya cost
-- dressing packs Kenya sterile
+- 'latex gloves Kenya box price'
+- 'IV fluids Kenya 500ml price'
+- 'medical scrubs Kenya uniform'
+- 'nebulizer kits Kenya cost'
+- 'dressing packs Kenya sterile'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

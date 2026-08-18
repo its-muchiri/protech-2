@@ -1,14 +1,14 @@
 ---
 title: 'Flights from London to Kisumu Kenya: Complete Guide'
-description: Everything you need to know about flights from london to kisumu kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from london to kisumu kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-london-to-kisumu-kenya
-primary_keyword: flights from london to kisumu kenya
+primary_keyword: 'flights from london to kisumu kenya'
 secondary_keywords:
-- flights to kenya from sydney
-- us flights from kenya
-- flights from vienna to kenya
-- flight from kenya to yemen
-- flights schedule from seiyun yemen to nairobi kenya
+- 'flights to kenya from sydney'
+- 'us flights from kenya'
+- 'flights from vienna to kenya'
+- 'flight from kenya to yemen'
+- 'flights schedule from seiyun yemen to nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

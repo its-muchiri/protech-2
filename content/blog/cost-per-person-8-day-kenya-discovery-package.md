@@ -1,14 +1,14 @@
 ---
 title: 'Cost Per Person 8 Day Kenya Discovery Package: Complete Guide'
-description: Kenya safari guide covering cost per person 8 day kenya discovery package, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering cost per person 8 day kenya discovery package, including what is included, pricing, and booking advice.'
 slug: cost-per-person-8-day-kenya-discovery-package
-primary_keyword: Cost per person 8 day Kenya discovery package
+primary_keyword: 'Cost per person 8 day Kenya discovery package'
 secondary_keywords:
-- Book recommended 8 day Kenya wildlife classic package
-- Book 9 day Sanctuary Olonana luxury river package Mara
-- Quote for 4 day Elsa''s Kopje Meru package booking
-- Book scientific research participation safari package (niche)
-- Sustainable tour operators Kenya
+- 'Book recommended 8 day Kenya wildlife classic package'
+- 'Book 9 day Sanctuary Olonana luxury river package Mara'
+- 'Quote for 4 day Elsa''''s Kopje Meru package booking'
+- 'Book scientific research participation safari package (niche)'
+- 'Sustainable tour operators Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

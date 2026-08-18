@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight Schedule Nairobi to Mumbai: Complete Guide'
-description: Everything you need to know about kenya airways flight schedule nairobi to mumbai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight schedule nairobi to mumbai, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-schedule-nairobi-to-mumbai
-primary_keyword: kenya airways flight schedule nairobi to mumbai
+primary_keyword: 'kenya airways flight schedule nairobi to mumbai'
 secondary_keywords:
-- does kenya airways fly to eldoret
-- flight from eldoret to kakuma
-- kq flights from nairobi to eldoret price today
-- kq flights
-- kq flights from nairobi to addis ababa
+- 'does kenya airways fly to eldoret'
+- 'flight from eldoret to kakuma'
+- 'kq flights from nairobi to eldoret price today'
+- 'kq flights'
+- 'kq flights from nairobi to addis ababa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

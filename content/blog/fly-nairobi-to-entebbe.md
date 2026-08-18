@@ -1,14 +1,14 @@
 ---
 title: 'Fly Nairobi to Entebbe: Complete Guide'
-description: Everything you need to know about fly nairobi to entebbe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about fly nairobi to entebbe, including routes, airlines, booking tips, and fares.'
 slug: fly-nairobi-to-entebbe
-primary_keyword: fly nairobi to entebbe
+primary_keyword: 'fly nairobi to entebbe'
 secondary_keywords:
-- emirates flight 0408
-- emirates flights 2025
-- emirates flight 338
-- emirates flight 406
-- emirates flight 603
+- 'emirates flight 0408'
+- 'emirates flights 2025'
+- 'emirates flight 338'
+- 'emirates flight 406'
+- 'emirates flight 603'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

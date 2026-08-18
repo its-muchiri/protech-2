@@ -1,14 +1,14 @@
 ---
 title: 'Fly-in Kenya Safari Package Sale : Complete Guide'
-description: Kenya safari guide covering fly-in kenya safari package sale , including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering fly-in kenya safari package sale , including what is included, pricing, and booking advice.'
 slug: fly-in-kenya-safari-package-sale-month
-primary_keyword: Fly-in Kenya safari package sale
+primary_keyword: 'Fly-in Kenya safari package sale'
 secondary_keywords:
-- Cost difference Masai Mara National Reserve vs private conservancy safari UK benefits comparison
-- Purchase digital nomad long stay Kenya safari workation package USA visa internet lodges deals
-- Reserve Lake Magadi lesser flamingoes safari tour Kenya Europe unique landscape photography booking
-- Find Kenya safari wedding planning services package UK destination wedding venue lodges
-- Safari tours Kenya
+- 'Cost difference Masai Mara National Reserve vs private conservancy safari UK benefits comparison'
+- 'Purchase digital nomad long stay Kenya safari workation package USA visa internet lodges deals'
+- 'Reserve Lake Magadi lesser flamingoes safari tour Kenya Europe unique landscape photography booking'
+- 'Find Kenya safari wedding planning services package UK destination wedding venue lodges'
+- 'Safari tours Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

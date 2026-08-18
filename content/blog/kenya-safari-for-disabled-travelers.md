@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari for Disabled Travelers: Complete Guide'
-description: Kenya safari guide covering kenya safari for disabled travelers, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari for disabled travelers, including what is included, pricing, and booking advice.'
 slug: kenya-safari-for-disabled-travelers
-primary_keyword: Kenya safari for disabled travelers
+primary_keyword: 'Kenya safari for disabled travelers'
 secondary_keywords:
-- Kenya safari package price match
-- Kenya safari package including transfers quote
-- All-inclusive safari Kenya book
-- Book group joining 6 day budget camping package Kenya
-- Buy 8 day accessible Kenya safari package quote
+- 'Kenya safari package price match'
+- 'Kenya safari package including transfers quote'
+- 'All-inclusive safari Kenya book'
+- 'Book group joining 6 day budget camping package Kenya'
+- 'Buy 8 day accessible Kenya safari package quote'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

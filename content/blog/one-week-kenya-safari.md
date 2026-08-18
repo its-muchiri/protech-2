@@ -1,14 +1,14 @@
 ---
 title: 'One Week Kenya Safari: Complete Guide'
-description: Kenya safari guide covering one week kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering one week kenya safari, including what is included, pricing, and booking advice.'
 slug: one-week-kenya-safari
-primary_keyword: One week Kenya safari
+primary_keyword: 'One week Kenya safari'
 secondary_keywords:
-- Primate safari Kenya (Kakamega, Tana River)
-- Kenya safari travel restrictions (Historically important)
-- Conservation fees Kenya parks
-- Enquire Kenya safari package rates
-- Confirm Kenya safari reservation
+- 'Primate safari Kenya (Kakamega, Tana River)'
+- 'Kenya safari travel restrictions (Historically important)'
+- 'Conservation fees Kenya parks'
+- 'Enquire Kenya safari package rates'
+- 'Confirm Kenya safari reservation'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

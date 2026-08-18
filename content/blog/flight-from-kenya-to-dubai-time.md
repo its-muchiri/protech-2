@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kenya to Dubai Time: Complete Guide'
-description: Everything you need to know about flight from kenya to dubai time, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kenya to dubai time, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kenya-to-dubai-time
-primary_keyword: flight from kenya to dubai time
+primary_keyword: 'flight from kenya to dubai time'
 secondary_keywords:
-- madagascar flight from nairobi
-- one way flight from nairobi to dubai
-- price of flight from nairobi to kisumu
-- renegade flight from nairobi to kisumu
-- seychelles flight from nairobi
+- 'madagascar flight from nairobi'
+- 'one way flight from nairobi to dubai'
+- 'price of flight from nairobi to kisumu'
+- 'renegade flight from nairobi to kisumu'
+- 'seychelles flight from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

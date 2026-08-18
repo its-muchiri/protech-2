@@ -1,14 +1,14 @@
 ---
 title: 'Tour Type & Style Specific Searches: Complete Guide'
-description: Kenya safari guide covering tour type & style specific searches, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering tour type & style specific searches, including what is included, pricing, and booking advice.'
 slug: tour-type-and-style-specific-searches
-primary_keyword: Tour Type & Style Specific Searches
+primary_keyword: 'Tour Type & Style Specific Searches'
 secondary_keywords:
-- Direct booking Kenya safari
-- Secure best price Kenya safari tour
-- Birding specialist guide package Kenya book
-- Kenya Tanzania package quote
-- Buy 12 day luxury Kenya Uganda gorilla package
+- 'Direct booking Kenya safari'
+- 'Secure best price Kenya safari tour'
+- 'Birding specialist guide package Kenya book'
+- 'Kenya Tanzania package quote'
+- 'Buy 12 day luxury Kenya Uganda gorilla package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

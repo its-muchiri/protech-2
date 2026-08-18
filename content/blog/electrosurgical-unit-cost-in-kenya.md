@@ -1,14 +1,14 @@
 ---
 title: 'Electrosurgical Unit Cost in Kenya: 2026 Price Guide'
-description: Kenya buying guide to electrosurgical unit cost in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to electrosurgical unit cost in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: electrosurgical-unit-cost-in-kenya
-primary_keyword: Electrosurgical unit cost in Kenya
+primary_keyword: 'Electrosurgical unit cost in Kenya'
 secondary_keywords:
-- Mobile X-ray machine for sale in Mombasa
-- MRI machine installation and RF shielding in Kenya
-- Medical imaging equipment financing companies in Kenya
-- Urine chemistry analyzer price in Nairobi
-- Laboratory incubator cost in Mombasa
+- 'Mobile X-ray machine for sale in Mombasa'
+- 'MRI machine installation and RF shielding in Kenya'
+- 'Medical imaging equipment financing companies in Kenya'
+- 'Urine chemistry analyzer price in Nairobi'
+- 'Laboratory incubator cost in Mombasa'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

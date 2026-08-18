@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Guangzhou: Complete Guide'
-description: Everything you need to know about flight from nairobi to guangzhou, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to guangzhou, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-guangzhou
-primary_keyword: flight from nairobi to guangzhou
+primary_keyword: 'flight from nairobi to guangzhou'
 secondary_keywords:
-- cost of flight from nairobi to south africa
-- 540 flight from nairobi to lodwar
-- how many hours flight from nairobi to johannesburg
-- turkish airlines flights to nairobi
-- turkish airlines reference number
+- 'cost of flight from nairobi to south africa'
+- '540 flight from nairobi to lodwar'
+- 'how many hours flight from nairobi to johannesburg'
+- 'turkish airlines flights to nairobi'
+- 'turkish airlines reference number'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

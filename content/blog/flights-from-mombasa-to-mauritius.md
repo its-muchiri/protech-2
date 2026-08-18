@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Mauritius: Complete Guide'
-description: Everything you need to know about flights from mombasa to mauritius, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to mauritius, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-mauritius
-primary_keyword: flights from mombasa to mauritius
+primary_keyword: 'flights from mombasa to mauritius'
 secondary_keywords:
-- flights nairobi to kisumu
-- kenya airways flights to nairobi
-- ba flights nairobi to london
-- flight nairobi to china
-- flights nairobi to dc
+- 'flights nairobi to kisumu'
+- 'kenya airways flights to nairobi'
+- 'ba flights nairobi to london'
+- 'flight nairobi to china'
+- 'flights nairobi to dc'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

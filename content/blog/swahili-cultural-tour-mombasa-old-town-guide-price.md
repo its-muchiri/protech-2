@@ -1,14 +1,14 @@
 ---
 title: 'Swahili Cultural Tour Mombasa Old Town Guide Price: Complete Guide'
-description: Kenya safari guide covering swahili cultural tour mombasa old town guide price, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering swahili cultural tour mombasa old town guide price, including what is included, pricing, and booking advice.'
 slug: swahili-cultural-tour-mombasa-old-town-guide-price
-primary_keyword: Swahili cultural tour Mombasa Old Town guide price
+primary_keyword: 'Swahili cultural tour Mombasa Old Town guide price'
 secondary_keywords:
-- Tsavo West luxury lodge tour operators
-- Mount Kenya climbing tour operators Chogoria route
-- Small group safari tours Kenya
-- Diani Beach kitesurfing schools/tour packages
-- Camel safari Samburu tour companies
+- 'Tsavo West luxury lodge tour operators'
+- 'Mount Kenya climbing tour operators Chogoria route'
+- 'Small group safari tours Kenya'
+- 'Diani Beach kitesurfing schools/tour packages'
+- 'Camel safari Samburu tour companies'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

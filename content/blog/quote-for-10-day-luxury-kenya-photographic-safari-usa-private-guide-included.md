@@ -1,14 +1,14 @@
 ---
 title: 'Quote for 10-day Luxury Kenya Photographic Safari USA Private Guide Included: Complete Guide'
-description: Kenya safari guide covering quote for 10-day luxury kenya photographic safari usa private guide included, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering quote for 10-day luxury kenya photographic safari usa private guide included, including what is included, pricing, and booking advice.'
 slug: quote-for-10-day-luxury-kenya-photographic-safari-usa-private-guide-included
-primary_keyword: Quote for 10-day luxury Kenya photographic safari USA private guide included
+primary_keyword: 'Quote for 10-day luxury Kenya photographic safari USA private guide included'
 secondary_keywords:
-- Lion safari Kenya
-- Kenya coastal safari
-- Kenya safari from South Africa
-- Kenya safari in September (Migration)
-- Kenya safari itinerary
+- 'Lion safari Kenya'
+- 'Kenya coastal safari'
+- 'Kenya safari from South Africa'
+- 'Kenya safari in September (Migration)'
+- 'Kenya safari itinerary'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

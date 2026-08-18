@@ -1,14 +1,14 @@
 ---
 title: 'Aberdares Treetop Lodge Package Rates: Complete Guide'
-description: Kenya safari guide covering aberdares treetop lodge package rates, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering aberdares treetop lodge package rates, including what is included, pricing, and booking advice.'
 slug: aberdares-treetop-lodge-package-rates
-primary_keyword: Aberdares treetop lodge package rates
+primary_keyword: 'Aberdares treetop lodge package rates'
 secondary_keywords:
-- Lodge safari package Kenya deals online
-- Samburu safari bundle deal quote
-- Quote from  Kenya safari
-- Book Kenya safari and beach extension package deal
-- Buy multi-generational family safari package Kenya cost
+- 'Lodge safari package Kenya deals online'
+- 'Samburu safari bundle deal quote'
+- 'Quote from  Kenya safari'
+- 'Book Kenya safari and beach extension package deal'
+- 'Buy multi-generational family safari package Kenya cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Air India Flight from Delhi to Nairobi Status: Complete Guide'
-description: Everything you need to know about air india flight from delhi to nairobi status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about air india flight from delhi to nairobi status, including routes, airlines, booking tips, and fares.'
 slug: air-india-flight-from-delhi-to-nairobi-status
-primary_keyword: air india flight from delhi to nairobi status
+primary_keyword: 'air india flight from delhi to nairobi status'
 secondary_keywords:
-- emirates flights from south africa to india
-- emirates flights from johannesburg to china
-- emirates flights from london
-- emirates flights from melbourne to dubai
-- emirates flights from ord
+- 'emirates flights from south africa to india'
+- 'emirates flights from johannesburg to china'
+- 'emirates flights from london'
+- 'emirates flights from melbourne to dubai'
+- 'emirates flights from ord'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

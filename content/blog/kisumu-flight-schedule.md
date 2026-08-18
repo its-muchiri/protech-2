@@ -1,14 +1,14 @@
 ---
 title: 'Kisumu Flight Schedule: Complete Guide'
-description: Everything you need to know about kisumu flight schedule, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kisumu flight schedule, including routes, airlines, booking tips, and fares.'
 slug: kisumu-flight-schedule
-primary_keyword: kisumu flight schedule
+primary_keyword: 'kisumu flight schedule'
 secondary_keywords:
-- cheapest flights from nairobi to addis ababa
-- ethiopian airlines nairobi to london
-- how much is a plane ticket from kenya to ethiopia
-- does turkish airlines fly to cape town
-- flight ticket from kenya to dubai
+- 'cheapest flights from nairobi to addis ababa'
+- 'ethiopian airlines nairobi to london'
+- 'how much is a plane ticket from kenya to ethiopia'
+- 'does turkish airlines fly to cape town'
+- 'flight ticket from kenya to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

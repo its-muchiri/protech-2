@@ -1,14 +1,14 @@
 ---
 title: 'Check Kenya Safari Tour Availability Calendar Europe: Complete Guide'
-description: Kenya safari guide covering check kenya safari tour availability calendar europe, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering check kenya safari tour availability calendar europe, including what is included, pricing, and booking advice.'
 slug: check-kenya-safari-tour-availability-calendar-europe
-primary_keyword: Check Kenya safari tour availability calendar Europe
+primary_keyword: 'Check Kenya safari tour availability calendar Europe'
 secondary_keywords:
-- Honeymoon package Kenya safari and Zanzibar beach reviews
-- Safari company specializing in big cat sightings Kenya
-- Secure all-inclusive Kenya safari package
-- Buy Olare Motorogi Conservancy safari reservation
-- Purchase 12 day East Africa highlights booking
+- 'Honeymoon package Kenya safari and Zanzibar beach reviews'
+- 'Safari company specializing in big cat sightings Kenya'
+- 'Secure all-inclusive Kenya safari package'
+- 'Buy Olare Motorogi Conservancy safari reservation'
+- 'Purchase 12 day East Africa highlights booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

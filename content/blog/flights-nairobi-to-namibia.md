@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Namibia: Complete Guide'
-description: Everything you need to know about flights nairobi to namibia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to namibia, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-namibia
-primary_keyword: flights nairobi to namibia
+primary_keyword: 'flights nairobi to namibia'
 secondary_keywords:
-- turkish airlines lounge nairobi airport
-- does turkish airlines fly to orlando
-- flight ticket from kenya to qatar
-- domestic flight booking in kenya
-- kenya airways mombasa to nairobi price
+- 'turkish airlines lounge nairobi airport'
+- 'does turkish airlines fly to orlando'
+- 'flight ticket from kenya to qatar'
+- 'domestic flight booking in kenya'
+- 'kenya airways mombasa to nairobi price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

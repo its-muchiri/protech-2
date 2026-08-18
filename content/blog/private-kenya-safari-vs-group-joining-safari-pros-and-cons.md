@@ -1,14 +1,14 @@
 ---
 title: 'Private Kenya Safari Vs Group Joining Safari Pros and Cons: Complete Guide'
-description: Kenya safari guide covering private kenya safari vs group joining safari pros and cons, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering private kenya safari vs group joining safari pros and cons, including what is included, pricing, and booking advice.'
 slug: private-kenya-safari-vs-group-joining-safari-pros-and-cons
-primary_keyword: Private Kenya safari vs group joining safari pros and cons
+primary_keyword: 'Private Kenya safari vs group joining safari pros and cons'
 secondary_keywords:
-- Aberdare National Park lodges (The Ark, Treetops) booking
-- Self-drive safari Kenya 4x4 rental and itinerary planning
-- Luxury private villas Diani Beach rental Alfajiri Villas price
-- Samburu cultural village visit tour package
-- Kiambethu Tea Farm tour Limuru booking / price from Nairobi / Thika
+- 'Aberdare National Park lodges (The Ark, Treetops) booking'
+- 'Self-drive safari Kenya 4x4 rental and itinerary planning'
+- 'Luxury private villas Diani Beach rental Alfajiri Villas price'
+- 'Samburu cultural village visit tour package'
+- 'Kiambethu Tea Farm tour Limuru booking / price from Nairobi / Thika'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

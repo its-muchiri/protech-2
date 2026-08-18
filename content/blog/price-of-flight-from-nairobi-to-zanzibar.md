@@ -1,14 +1,14 @@
 ---
 title: 'Price of Flight from Nairobi to Zanzibar: Complete Guide'
-description: Everything you need to know about price of flight from nairobi to zanzibar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about price of flight from nairobi to zanzibar, including routes, airlines, booking tips, and fares.'
 slug: price-of-flight-from-nairobi-to-zanzibar
-primary_keyword: price of flight from nairobi to zanzibar
+primary_keyword: 'price of flight from nairobi to zanzibar'
 secondary_keywords:
-- cheap flights in kenya
-- flights to kenya in august
-- cargo flights in kenya
-- flights to kenya expedia
-- flights to kenya from glasgow
+- 'cheap flights in kenya'
+- 'flights to kenya in august'
+- 'cargo flights in kenya'
+- 'flights to kenya expedia'
+- 'flights to kenya from glasgow'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

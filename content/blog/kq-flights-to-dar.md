@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Dar: Complete Guide'
-description: Everything you need to know about kq flights to dar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to dar, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-dar
-primary_keyword: kq flights to dar
+primary_keyword: 'kq flights to dar'
 secondary_keywords:
-- 540 flight from nairobi to kisumu
-- how long is a flight from nairobi to new york
-- air ticket from nairobi to turkey
-- turkish airlines frankfurt nairobi
-- turkish airlines lounge nairobi kenya
+- '540 flight from nairobi to kisumu'
+- 'how long is a flight from nairobi to new york'
+- 'air ticket from nairobi to turkey'
+- 'turkish airlines frankfurt nairobi'
+- 'turkish airlines lounge nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

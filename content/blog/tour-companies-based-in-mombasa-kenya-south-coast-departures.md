@@ -1,14 +1,14 @@
 ---
 title: 'Tour Companies Based in Mombasa Kenya South Coast Departures: Complete Guide'
-description: Kenya safari guide covering tour companies based in mombasa kenya south coast departures, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering tour companies based in mombasa kenya south coast departures, including what is included, pricing, and booking advice.'
 slug: tour-companies-based-in-mombasa-kenya-south-coast-departures
-primary_keyword: Tour companies based in Mombasa Kenya South Coast departures
+primary_keyword: 'Tour companies based in Mombasa Kenya South Coast departures'
 secondary_keywords:
-- Luxury Masai Mara safari deals
-- Kenya luxury honeymoon safari package
-- Anniversary safari package Kenya booking
-- Last minute Kenya safari package deals
-- Amboseli Tsavo East West package booking
+- 'Luxury Masai Mara safari deals'
+- 'Kenya luxury honeymoon safari package'
+- 'Anniversary safari package Kenya booking'
+- 'Last minute Kenya safari package deals'
+- 'Amboseli Tsavo East West package booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

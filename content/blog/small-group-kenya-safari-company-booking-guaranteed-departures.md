@@ -1,14 +1,14 @@
 ---
 title: 'Small Group Kenya Safari Company Booking Guaranteed Departures: Complete Guide'
-description: Kenya safari guide covering small group kenya safari company booking guaranteed departures, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering small group kenya safari company booking guaranteed departures, including what is included, pricing, and booking advice.'
 slug: small-group-kenya-safari-company-booking-guaranteed-departures
-primary_keyword: Small group Kenya safari company booking guaranteed departures
+primary_keyword: 'Small group Kenya safari company booking guaranteed departures'
 secondary_keywords:
-- Remote Kenya safari locations
-- Kenya safari binoculars recommendation
-- What makes Masai Mara special
-- Small group migration safari Kenya August
-- Overcrowded Masai Mara safari
+- 'Remote Kenya safari locations'
+- 'Kenya safari binoculars recommendation'
+- 'What makes Masai Mara special'
+- 'Small group migration safari Kenya August'
+- 'Overcrowded Masai Mara safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

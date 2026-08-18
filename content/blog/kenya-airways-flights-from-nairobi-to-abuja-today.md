@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights from Nairobi to Abuja Today: Complete Guide'
-description: Everything you need to know about kenya airways flights from nairobi to abuja today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights from nairobi to abuja today, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-from-nairobi-to-abuja-today
-primary_keyword: kenya airways flights from nairobi to abuja today
+primary_keyword: 'kenya airways flights from nairobi to abuja today'
 secondary_keywords:
-- kq flights from johannesburg to nairobi
-- kq local flights
-- kq manage flight
-- kq flights to uganda
-- kq 101 flight radar
+- 'kq flights from johannesburg to nairobi'
+- 'kq local flights'
+- 'kq manage flight'
+- 'kq flights to uganda'
+- 'kq 101 flight radar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

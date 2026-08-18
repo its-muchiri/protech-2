@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Singapore: Complete Guide'
-description: Everything you need to know about flights from nairobi to singapore, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to singapore, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-singapore
-primary_keyword: flights from nairobi to singapore
+primary_keyword: 'flights from nairobi to singapore'
 secondary_keywords:
-- nairobi to lodwar flights
-- flights nairobi to nanyuki
-- cheap tickets nairobi to oslo
-- perth to nairobi flights
-- does etihad fly to kenya
+- 'nairobi to lodwar flights'
+- 'flights nairobi to nanyuki'
+- 'cheap tickets nairobi to oslo'
+- 'perth to nairobi flights'
+- 'does etihad fly to kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

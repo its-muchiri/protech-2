@@ -1,14 +1,14 @@
 ---
 title: 'Malaria Prevention Kenya Safari Medication / Precautions: Complete Guide'
-description: Kenya safari guide covering malaria prevention kenya safari medication / precautions, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering malaria prevention kenya safari medication / precautions, including what is included, pricing, and booking advice.'
 slug: malaria-prevention-kenya-safari-medication-precautions
-primary_keyword: Malaria prevention Kenya safari medication / precautions
+primary_keyword: 'Malaria prevention Kenya safari medication / precautions'
 secondary_keywords:
-- Tour company accreditation Kenya TRA license
-- Elephant photography safari Amboseli tour operators
-- Hell''s Gate National Park cycling and gorge walk tour from Naivasha / Thika
-- Overland truck tours Kenya Intrepid / G Adventures price
-- SGR train packages Mombasa beach holiday
+- 'Tour company accreditation Kenya TRA license'
+- 'Elephant photography safari Amboseli tour operators'
+- 'Hell''''s Gate National Park cycling and gorge walk tour from Naivasha / Thika'
+- 'Overland truck tours Kenya Intrepid / G Adventures price'
+- 'SGR train packages Mombasa beach holiday'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

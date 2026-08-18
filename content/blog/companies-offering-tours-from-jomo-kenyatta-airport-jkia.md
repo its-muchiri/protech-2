@@ -1,14 +1,14 @@
 ---
 title: 'Companies Offering Tours from Jomo Kenyatta Airport (JKIA): Complete Guide'
-description: Kenya safari guide covering companies offering tours from jomo kenyatta airport (jkia), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering companies offering tours from jomo kenyatta airport (jkia), including what is included, pricing, and booking advice.'
 slug: companies-offering-tours-from-jomo-kenyatta-airport-jkia
-primary_keyword: Companies offering tours from Jomo Kenyatta Airport (JKIA)
+primary_keyword: 'Companies offering tours from Jomo Kenyatta Airport (JKIA)'
 secondary_keywords:
-- Kenya holiday safari
-- Safari Amboseli
-- Shimba Hills National Reserve safari
-- Kenya safari with kids
-- Custom Kenya safari
+- 'Kenya holiday safari'
+- 'Safari Amboseli'
+- 'Shimba Hills National Reserve safari'
+- 'Kenya safari with kids'
+- 'Custom Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

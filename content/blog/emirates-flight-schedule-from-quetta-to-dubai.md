@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight Schedule from Quetta to Dubai: Complete Guide'
-description: Everything you need to know about emirates flight schedule from quetta to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight schedule from quetta to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-schedule-from-quetta-to-dubai
-primary_keyword: emirates flight schedule from quetta to dubai
+primary_keyword: 'emirates flight schedule from quetta to dubai'
 secondary_keywords:
-- qatar airways flight from nairobi to dubai
-- qatar airways cargo nairobi
-- qatar airways in nairobi office
-- qatar airways nairobi office number
-- kq flights from
+- 'qatar airways flight from nairobi to dubai'
+- 'qatar airways cargo nairobi'
+- 'qatar airways in nairobi office'
+- 'qatar airways nairobi office number'
+- 'kq flights from'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

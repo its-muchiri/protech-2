@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from Nairobi to Mombasa Price: Complete Guide'
-description: Everything you need to know about kenya airways flight from nairobi to mombasa price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from nairobi to mombasa price, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-nairobi-to-mombasa-price
-primary_keyword: kenya airways flight from nairobi to mombasa price
+primary_keyword: 'kenya airways flight from nairobi to mombasa price'
 secondary_keywords:
-- flights from mombasa to addis ababa
-- flights from mombasa to homa bay
-- flight from mombasa to china
-- flights from mombasa to durban
-- flights from mombasa to frankfurt germany
+- 'flights from mombasa to addis ababa'
+- 'flights from mombasa to homa bay'
+- 'flight from mombasa to china'
+- 'flights from mombasa to durban'
+- 'flights from mombasa to frankfurt germany'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

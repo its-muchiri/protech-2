@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights 2025: Complete Guide'
-description: Everything you need to know about emirates flights 2025, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights 2025, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-2025
-primary_keyword: emirates flights 2025
+primary_keyword: 'emirates flights 2025'
 secondary_keywords:
-- emirates plane
-- emirates kenya to dubai
-- ethiopian airlines from nairobi to south africa
-- ethiopian airlines from nairobi to dubai
-- ethiopian airlines lounge nairobi
+- 'emirates plane'
+- 'emirates kenya to dubai'
+- 'ethiopian airlines from nairobi to south africa'
+- 'ethiopian airlines from nairobi to dubai'
+- 'ethiopian airlines lounge nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

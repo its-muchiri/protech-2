@@ -1,14 +1,14 @@
 ---
 title: 'Flight Duration from Kenya to Usa: Complete Guide'
-description: Everything you need to know about flight duration from kenya to usa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight duration from kenya to usa, including routes, airlines, booking tips, and fares.'
 slug: flight-duration-from-kenya-to-usa
-primary_keyword: flight duration from kenya to usa
+primary_keyword: 'flight duration from kenya to usa'
 secondary_keywords:
-- how much is kenya airways to dubai
-- emirates email address kenya
-- emirates nbd kenya
-- emirates from dubai to nairobi
-- ethiopian airlines from nairobi to addis ababa
+- 'how much is kenya airways to dubai'
+- 'emirates email address kenya'
+- 'emirates nbd kenya'
+- 'emirates from dubai to nairobi'
+- 'ethiopian airlines from nairobi to addis ababa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Germany Flights from Kenya: Complete Guide'
-description: Everything you need to know about germany flights from kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about germany flights from kenya, including routes, airlines, booking tips, and fares.'
 slug: germany-flights-from-kenya
-primary_keyword: germany flights from kenya
+primary_keyword: 'germany flights from kenya'
 secondary_keywords:
-- 540 flight from nairobi to malindi
-- cheap flights from mombasa to nairobi
-- available flights from mombasa to nairobi
-- does british airways fly to mombasa
-- cheap flights from mombasa to entebbe
+- '540 flight from nairobi to malindi'
+- 'cheap flights from mombasa to nairobi'
+- 'available flights from mombasa to nairobi'
+- 'does british airways fly to mombasa'
+- 'cheap flights from mombasa to entebbe'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

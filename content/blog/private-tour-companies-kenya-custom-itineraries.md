@@ -1,14 +1,14 @@
 ---
 title: 'Private Tour Companies Kenya Custom Itineraries: Complete Guide'
-description: Kenya safari guide covering private tour companies kenya custom itineraries, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering private tour companies kenya custom itineraries, including what is included, pricing, and booking advice.'
 slug: private-tour-companies-kenya-custom-itineraries
-primary_keyword: Private tour companies Kenya custom itineraries
+primary_keyword: 'Private tour companies Kenya custom itineraries'
 secondary_keywords:
-- Confirm Kenya safari reservation
-- Short Kenya safari package (3-5 days) booking
-- Aberdares treetop lodge safari package cost
-- Book private luxury Kenya safari
-- Cost of family safari Kenya
+- 'Confirm Kenya safari reservation'
+- 'Short Kenya safari package (3-5 days) booking'
+- 'Aberdares treetop lodge safari package cost'
+- 'Book private luxury Kenya safari'
+- 'Cost of family safari Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

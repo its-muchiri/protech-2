@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Romania: Complete Guide'
-description: Everything you need to know about flight from nairobi to romania, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to romania, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-romania
-primary_keyword: flight from nairobi to romania
+primary_keyword: 'flight from nairobi to romania'
 secondary_keywords:
-- kenya to turkey ticket price
-- turkish airlines most popular routes
-- how do i contact emirates airlines
-- ethiopian airlines from beirut to nairobi
-- ethiopian airlines nairobi to kigali
+- 'kenya to turkey ticket price'
+- 'turkish airlines most popular routes'
+- 'how do i contact emirates airlines'
+- 'ethiopian airlines from beirut to nairobi'
+- 'ethiopian airlines nairobi to kigali'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

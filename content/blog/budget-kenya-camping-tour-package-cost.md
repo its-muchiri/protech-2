@@ -1,14 +1,14 @@
 ---
 title: 'Budget Kenya Camping Tour Package Cost: Complete Guide'
-description: Kenya safari guide covering budget kenya camping tour package cost, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering budget kenya camping tour package cost, including what is included, pricing, and booking advice.'
 slug: budget-kenya-camping-tour-package-cost
-primary_keyword: Budget Kenya camping tour package cost
+primary_keyword: 'Budget Kenya camping tour package cost'
 secondary_keywords:
-- Kenya safe travel safari (General health)
-- Future of safari tourism Kenya
-- Masai Mara safari online booking
-- Book all-inclusive Kenya safari
-- Book 7 day Masai Mara fly-in package
+- 'Kenya safe travel safari (General health)'
+- 'Future of safari tourism Kenya'
+- 'Masai Mara safari online booking'
+- 'Book all-inclusive Kenya safari'
+- 'Book 7 day Masai Mara fly-in package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

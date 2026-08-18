@@ -1,14 +1,14 @@
 ---
 title: 'Affordable Kenya Safari Packages USA Budget Friendly: Complete Guide'
-description: Kenya safari guide covering affordable kenya safari packages usa budget friendly, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering affordable kenya safari packages usa budget friendly, including what is included, pricing, and booking advice.'
 slug: affordable-kenya-safari-packages-usa-budget-friendly
-primary_keyword: Affordable Kenya safari packages USA budget friendly
+primary_keyword: 'Affordable Kenya safari packages USA budget friendly'
 secondary_keywords:
-- Accessible safari tours Kenya wheelchair friendly
-- Great Rift Valley viewpoint tour operators
-- 10 day Kenya wildlife photography tour
-- Off-season safari deals Kenya companies
-- Tour company pick up from Thika
+- 'Accessible safari tours Kenya wheelchair friendly'
+- 'Great Rift Valley viewpoint tour operators'
+- '10 day Kenya wildlife photography tour'
+- 'Off-season safari deals Kenya companies'
+- 'Tour company pick up from Thika'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

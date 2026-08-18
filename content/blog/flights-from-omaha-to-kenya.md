@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Omaha to Kenya: Complete Guide'
-description: Everything you need to know about flights from omaha to kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from omaha to kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-omaha-to-kenya
-primary_keyword: flights from omaha to kenya
+primary_keyword: 'flights from omaha to kenya'
 secondary_keywords:
-- flight from kisumu to mombasa is how much
-- mombasa flights from jkia
-- flight from mombasa to lagos
-- flights from mombasa to mauritius
-- cost of flights from nairobi to mombasa
+- 'flight from kisumu to mombasa is how much'
+- 'mombasa flights from jkia'
+- 'flight from mombasa to lagos'
+- 'flights from mombasa to mauritius'
+- 'cost of flights from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

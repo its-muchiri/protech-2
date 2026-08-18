@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 87: Complete Guide'
-description: Everything you need to know about emirates flight 87, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 87, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-87
-primary_keyword: emirates flight 87
+primary_keyword: 'emirates flight 87'
 secondary_keywords:
-- cheap flights from mombasa to entebbe
-- flights to mombasa from europe
-- flights from mombasa to garissa
-- flights from homabay to mombasa
-- cheap flights from mombasa to johannesburg
+- 'cheap flights from mombasa to entebbe'
+- 'flights to mombasa from europe'
+- 'flights from mombasa to garissa'
+- 'flights from homabay to mombasa'
+- 'cheap flights from mombasa to johannesburg'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

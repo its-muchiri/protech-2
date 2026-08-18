@@ -1,14 +1,14 @@
 ---
 title: 'Does Qatar Airways Fly to Dubai: Complete Guide'
-description: Everything you need to know about does qatar airways fly to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about does qatar airways fly to dubai, including routes, airlines, booking tips, and fares.'
 slug: does-qatar-airways-fly-to-dubai
-primary_keyword: does qatar airways fly to dubai
+primary_keyword: 'does qatar airways fly to dubai'
 secondary_keywords:
-- turkish airlines nairobi phone number
-- turkish airlines nairobi contacts
-- ethiopian airlines nairobi office address
-- ethiopian airlines offices in nairobi location
-- ethiopian airlines from riyadh to nairobi
+- 'turkish airlines nairobi phone number'
+- 'turkish airlines nairobi contacts'
+- 'ethiopian airlines nairobi office address'
+- 'ethiopian airlines offices in nairobi location'
+- 'ethiopian airlines from riyadh to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

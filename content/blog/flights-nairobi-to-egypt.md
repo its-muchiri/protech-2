@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Egypt: Complete Guide'
-description: Everything you need to know about flights nairobi to egypt, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to egypt, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-egypt
-primary_keyword: flights nairobi to egypt
+primary_keyword: 'flights nairobi to egypt'
 secondary_keywords:
-- flights nairobi to arusha
-- addis to nairobi flights
-- nairobi to diani beach flights
-- cheap flights nairobi to cape town
-- flights nairobi to edinburgh
+- 'flights nairobi to arusha'
+- 'addis to nairobi flights'
+- 'nairobi to diani beach flights'
+- 'cheap flights nairobi to cape town'
+- 'flights nairobi to edinburgh'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight from Kenya to Canada: Complete Guide'
-description: Everything you need to know about emirates flight from kenya to canada, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight from kenya to canada, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-from-kenya-to-canada
-primary_keyword: emirates flight from kenya to canada
+primary_keyword: 'emirates flight from kenya to canada'
 secondary_keywords:
-- flights nairobi to paris
-- flight hours from nairobi to qatar
-- cheap flights nairobi to rome
-- nairobi to seattle flights
-- fly nairobi to uganda
+- 'flights nairobi to paris'
+- 'flight hours from nairobi to qatar'
+- 'cheap flights nairobi to rome'
+- 'nairobi to seattle flights'
+- 'fly nairobi to uganda'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

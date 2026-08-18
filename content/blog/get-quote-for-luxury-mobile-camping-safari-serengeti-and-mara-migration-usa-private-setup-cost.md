@@ -1,14 +1,14 @@
 ---
 title: 'Get Quote for Luxury Mobile Camping Safari Serengeti & Mara Migration USA Private Setup Cost: Complete Guide'
-description: Kenya safari guide covering get quote for luxury mobile camping safari serengeti & mara migration usa private setup cost, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering get quote for luxury mobile camping safari serengeti & mara migration usa private setup cost, including what is included, pricing, and booking advice.'
 slug: get-quote-for-luxury-mobile-camping-safari-serengeti-and-mara-migration-usa-private-setup-cost
-primary_keyword: Get quote for luxury mobile camping safari Serengeti & Mara migration USA private setup cost
+primary_keyword: 'Get quote for luxury mobile camping safari Serengeti & Mara migration USA private setup cost'
 secondary_keywords:
-- Buy guaranteed Kenya safari departure UK
-- Group Kenya safari package offers Europe discount
-- Kenya honeymoon safari all-inclusive deals booking
-- Book Kenya horseback riding safari package UK Laikipia
-- Masai Mara migration river crossing tour booking dates 2025
+- 'Buy guaranteed Kenya safari departure UK'
+- 'Group Kenya safari package offers Europe discount'
+- 'Kenya honeymoon safari all-inclusive deals booking'
+- 'Book Kenya horseback riding safari package UK Laikipia'
+- 'Masai Mara migration river crossing tour booking dates 2025'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

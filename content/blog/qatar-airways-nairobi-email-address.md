@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways Nairobi Email Address: Complete Guide'
-description: Everything you need to know about qatar airways nairobi email address, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways nairobi email address, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-nairobi-email-address
-primary_keyword: qatar airways nairobi email address
+primary_keyword: 'qatar airways nairobi email address'
 secondary_keywords:
-- kq flight from nairobi to kigali
-- kq flight from nairobi to dubai price
-- flight to kenya time
-- kq flight from nairobi to london today
-- kq flight from mombasa to nairobi today
+- 'kq flight from nairobi to kigali'
+- 'kq flight from nairobi to dubai price'
+- 'flight to kenya time'
+- 'kq flight from nairobi to london today'
+- 'kq flight from mombasa to nairobi today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

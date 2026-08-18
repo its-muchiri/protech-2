@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Kenya to Uk: Complete Guide'
-description: Everything you need to know about cheap flights from kenya to uk, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from kenya to uk, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-kenya-to-uk
-primary_keyword: cheap flights from kenya to uk
+primary_keyword: 'cheap flights from kenya to uk'
 secondary_keywords:
-- emirates airlines kenya
-- ethiopian airlines payment methods
-- ethiopian airlines nairobi to lagos
-- ethiopian airlines customer care
-- does turkish airlines fly to morocco
+- 'emirates airlines kenya'
+- 'ethiopian airlines payment methods'
+- 'ethiopian airlines nairobi to lagos'
+- 'ethiopian airlines customer care'
+- 'does turkish airlines fly to morocco'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

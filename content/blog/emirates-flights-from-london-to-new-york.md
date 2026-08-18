@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from London to New York: Complete Guide'
-description: Everything you need to know about emirates flights from london to new york, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from london to new york, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-london-to-new-york
-primary_keyword: emirates flights from london to new york
+primary_keyword: 'emirates flights from london to new york'
 secondary_keywords:
-- flights from nairobi to singapore
-- flights from nairobi to uganda
-- flights from nairobi to valencia
-- watamu flights from nairobi
-- flights from nairobi to zanzibar today
+- 'flights from nairobi to singapore'
+- 'flights from nairobi to uganda'
+- 'flights from nairobi to valencia'
+- 'watamu flights from nairobi'
+- 'flights from nairobi to zanzibar today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

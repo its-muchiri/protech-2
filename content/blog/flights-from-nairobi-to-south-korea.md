@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to South Korea: Complete Guide'
-description: Everything you need to know about flights from nairobi to south korea, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to south korea, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-south-korea
-primary_keyword: flights from nairobi to south korea
+primary_keyword: 'flights from nairobi to south korea'
 secondary_keywords:
-- kq flights meaning
-- kq flight nairobi to eldoret
-- kq flight reservation
-- kq flights from south africa today timetable
-- kq flights to zambia
+- 'kq flights meaning'
+- 'kq flight nairobi to eldoret'
+- 'kq flight reservation'
+- 'kq flights from south africa today timetable'
+- 'kq flights to zambia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

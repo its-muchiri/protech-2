@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 435: Complete Guide'
-description: Everything you need to know about emirates flight 435, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 435, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-435
-primary_keyword: emirates flight 435
+primary_keyword: 'emirates flight 435'
 secondary_keywords:
-- kq flight reservation
-- kq flights from south africa today timetable
-- kq flights to zambia
-- kq 117 flight status
-- kq 2 flight
+- 'kq flight reservation'
+- 'kq flights from south africa today timetable'
+- 'kq flights to zambia'
+- 'kq 117 flight status'
+- 'kq 2 flight'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

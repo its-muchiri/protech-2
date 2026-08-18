@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from France to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from france to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from france to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-france-to-dubai
-primary_keyword: emirates flights from france to dubai
+primary_keyword: 'emirates flights from france to dubai'
 secondary_keywords:
-- emirates airline nairobi
-- ethiopian airlines flights schedule from nairobi to addis ababa
-- ethiopian airlines nairobi telephone number
-- turkish flight from nairobi
-- turkish airlines flight to nairobi
+- 'emirates airline nairobi'
+- 'ethiopian airlines flights schedule from nairobi to addis ababa'
+- 'ethiopian airlines nairobi telephone number'
+- 'turkish flight from nairobi'
+- 'turkish airlines flight to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from South Africa to Kenya Today: Complete Guide'
-description: Everything you need to know about flights from south africa to kenya today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from south africa to kenya today, including routes, airlines, booking tips, and fares.'
 slug: flights-from-south-africa-to-kenya-today
-primary_keyword: flights from south africa to kenya today
+primary_keyword: 'flights from south africa to kenya today'
 secondary_keywords:
-- emirates flights from durban to india
-- emirates flights from johannesburg to turkey
-- emirates flights from lax
-- emirates flights from manchester to dubai today
-- emirates flights from orlando today
+- 'emirates flights from durban to india'
+- 'emirates flights from johannesburg to turkey'
+- 'emirates flights from lax'
+- 'emirates flights from manchester to dubai today'
+- 'emirates flights from orlando today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

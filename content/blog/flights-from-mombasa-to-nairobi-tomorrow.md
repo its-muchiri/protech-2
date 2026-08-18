@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Nairobi Tomorrow: Complete Guide'
-description: Everything you need to know about flights from mombasa to nairobi tomorrow, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to nairobi tomorrow, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-nairobi-tomorrow
-primary_keyword: flights from mombasa to nairobi tomorrow
+primary_keyword: 'flights from mombasa to nairobi tomorrow'
 secondary_keywords:
-- flights nairobi to usa
-- nairobi to vipingo flights
-- cheap flights nairobi to mumbai
-- nairobi to zimbabwe flights
-- 3 bedroom nairobi
+- 'flights nairobi to usa'
+- 'nairobi to vipingo flights'
+- 'cheap flights nairobi to mumbai'
+- 'nairobi to zimbabwe flights'
+- '3 bedroom nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

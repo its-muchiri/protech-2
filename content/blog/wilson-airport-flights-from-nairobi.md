@@ -1,14 +1,14 @@
 ---
 title: 'Wilson Airport Flights from Nairobi: Complete Guide'
-description: Everything you need to know about wilson airport flights from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about wilson airport flights from nairobi, including routes, airlines, booking tips, and fares.'
 slug: wilson-airport-flights-from-nairobi
-primary_keyword: wilson airport flights from nairobi
+primary_keyword: 'wilson airport flights from nairobi'
 secondary_keywords:
-- flight from nairobi to poland
-- flight from nairobi to rome
-- flight from nairobi to singapore
-- the cheapest flight from nairobi to dubai
-- flight time from nairobi to usa
+- 'flight from nairobi to poland'
+- 'flight from nairobi to rome'
+- 'flight from nairobi to singapore'
+- 'the cheapest flight from nairobi to dubai'
+- 'flight time from nairobi to usa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

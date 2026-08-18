@@ -1,14 +1,14 @@
 ---
 title: 'Surgical Diathermy Machine Price in Eldoret: 2026 Price Guide'
-description: Kenya buying guide to surgical diathermy machine price in eldoret. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to surgical diathermy machine price in eldoret. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: surgical-diathermy-machine-price-in-eldoret
-primary_keyword: Surgical diathermy machine price in Eldoret
+primary_keyword: 'Surgical diathermy machine price in Eldoret'
 secondary_keywords:
-- PPB approved list of medical devices
-- Phlebotomy chair for blood collection
-- Biomedical equipment inventory management
-- Medical equipment for field hospitals
-- hospital bed repair services in Eldoret
+- 'PPB approved list of medical devices'
+- 'Phlebotomy chair for blood collection'
+- 'Biomedical equipment inventory management'
+- 'Medical equipment for field hospitals'
+- 'hospital bed repair services in Eldoret'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

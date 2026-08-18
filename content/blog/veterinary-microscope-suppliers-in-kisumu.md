@@ -1,14 +1,14 @@
 ---
 title: 'Veterinary Microscope Suppliers in Kisumu: 2026 Price Guide'
-description: Kenya buying guide to veterinary microscope suppliers in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to veterinary microscope suppliers in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: veterinary-microscope-suppliers-in-kisumu
-primary_keyword: Veterinary microscope suppliers in Kisumu
+primary_keyword: 'Veterinary microscope suppliers in Kisumu'
 secondary_keywords:
-- Microhematocrit centrifuge in Kenya
-- Blood bank refrigerator price in Kenya
-- Dental surgical instruments in Mombasa
-- 5-parameter patient monitor suppliers in Mombasa
-- 3-crank manual hospital bed cost
+- 'Microhematocrit centrifuge in Kenya'
+- 'Blood bank refrigerator price in Kenya'
+- 'Dental surgical instruments in Mombasa'
+- '5-parameter patient monitor suppliers in Mombasa'
+- '3-crank manual hospital bed cost'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Luxury Honeymoon Suite Masai Mara Private Conservancy: Complete Guide'
-description: Kenya safari guide covering luxury honeymoon suite masai mara private conservancy, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering luxury honeymoon suite masai mara private conservancy, including what is included, pricing, and booking advice.'
 slug: luxury-honeymoon-suite-masai-mara-private-conservancy
-primary_keyword: Luxury honeymoon suite Masai Mara private conservancy
+primary_keyword: 'Luxury honeymoon suite Masai Mara private conservancy'
 secondary_keywords:
-- Mount Kenya safari
-- Budget Kenya safari
-- Kenya tented safari
-- All-inclusive Kenya safari
-- Day trip safari Kenya
+- 'Mount Kenya safari'
+- 'Budget Kenya safari'
+- 'Kenya tented safari'
+- 'All-inclusive Kenya safari'
+- 'Day trip safari Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

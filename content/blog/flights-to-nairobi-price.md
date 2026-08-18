@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Nairobi Price: Complete Guide'
-description: Everything you need to know about flights to nairobi price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to nairobi price, including routes, airlines, booking tips, and fares.'
 slug: flights-to-nairobi-price
-primary_keyword: flights to nairobi price
+primary_keyword: 'flights to nairobi price'
 secondary_keywords:
-- flight to nairobi time
-- flights nairobi to vietnam
-- flights nairobi wilson to malindi
-- flights nairobi to zurich
-- how much is a flight from nairobi to ukunda
+- 'flight to nairobi time'
+- 'flights nairobi to vietnam'
+- 'flights nairobi wilson to malindi'
+- 'flights nairobi to zurich'
+- 'how much is a flight from nairobi to ukunda'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

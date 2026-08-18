@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Panama: Complete Guide'
-description: Everything you need to know about flights from kenya to panama, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to panama, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-panama
-primary_keyword: flights from kenya to panama
+primary_keyword: 'flights from kenya to panama'
 secondary_keywords:
-- cheapest flights from kisumu to nairobi
-- flights from kisumu to isiolo
-- flights to kigali from kisumu
-- flights from nairobi to kisumu price
-- flights to kisumu from wilson
+- 'cheapest flights from kisumu to nairobi'
+- 'flights from kisumu to isiolo'
+- 'flights to kigali from kisumu'
+- 'flights from nairobi to kisumu price'
+- 'flights to kisumu from wilson'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kenya to United Kingdom: Complete Guide'
-description: Everything you need to know about flight from kenya to united kingdom, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kenya to united kingdom, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kenya-to-united-kingdom
-primary_keyword: flight from kenya to united kingdom
+primary_keyword: 'flight from kenya to united kingdom'
 secondary_keywords:
-- flights for kenya
-- flights from kenya to germany today
-- flights from kenya to houston
-- flights from hyderabad to nairobi kenya
-- flights from kenya to jamaica
+- 'flights for kenya'
+- 'flights from kenya to germany today'
+- 'flights from kenya to houston'
+- 'flights from hyderabad to nairobi kenya'
+- 'flights from kenya to jamaica'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

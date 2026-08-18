@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Kenya from New Zealand: Complete Guide'
-description: Everything you need to know about flights to kenya from new zealand, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to kenya from new zealand, including routes, airlines, booking tips, and fares.'
 slug: flights-to-kenya-from-new-zealand
-primary_keyword: flights to kenya from new zealand
+primary_keyword: 'flights to kenya from new zealand'
 secondary_keywords:
-- emirates airlines nairobi
-- ethiopian airlines nairobi to bujumbura
-- ethiopian airlines contacts kenya nairobi
-- ethiopian airlines nairobi office working hours
-- what countries does turkish airlines fly to
+- 'emirates airlines nairobi'
+- 'ethiopian airlines nairobi to bujumbura'
+- 'ethiopian airlines contacts kenya nairobi'
+- 'ethiopian airlines nairobi office working hours'
+- 'what countries does turkish airlines fly to'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

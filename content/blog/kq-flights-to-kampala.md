@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Kampala: Complete Guide'
-description: Everything you need to know about kq flights to kampala, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to kampala, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-kampala
-primary_keyword: kq flights to kampala
+primary_keyword: 'kq flights to kampala'
 secondary_keywords:
-- kq flights from nairobi to eldoret price today
-- kq flights
-- kq flights from nairobi to addis ababa
-- kq flights to bangkok
-- kq flight confirmation
+- 'kq flights from nairobi to eldoret price today'
+- 'kq flights'
+- 'kq flights from nairobi to addis ababa'
+- 'kq flights to bangkok'
+- 'kq flight confirmation'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Seoul: Complete Guide'
-description: Everything you need to know about flight from nairobi to seoul, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to seoul, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-seoul
-primary_keyword: flight from nairobi to seoul
+primary_keyword: 'flight from nairobi to seoul'
 secondary_keywords:
-- flights from nairobi to dallas texas
-- emirates flights from nairobi to dubai
-- fly540 flights from kisumu to nairobi
-- flights from nairobi to masai mara game reserve
-- flights from harare to nairobi
+- 'flights from nairobi to dallas texas'
+- 'emirates flights from nairobi to dubai'
+- 'fly540 flights from kisumu to nairobi'
+- 'flights from nairobi to masai mara game reserve'
+- 'flights from harare to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

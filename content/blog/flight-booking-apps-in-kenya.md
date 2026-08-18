@@ -1,14 +1,14 @@
 ---
 title: 'Flight Booking Apps in Kenya: Complete Guide'
-description: Everything you need to know about flight booking apps in kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight booking apps in kenya, including routes, airlines, booking tips, and fares.'
 slug: flight-booking-apps-in-kenya
-primary_keyword: flight booking apps in kenya
+primary_keyword: 'flight booking apps in kenya'
 secondary_keywords:
-- flights from nairobi to kisumu jambojet
-- safari link flights from nairobi to kisumu
-- jambojet flights from kisumu to nairobi ticket price
-- kisumu flight schedule
-- which airlines fly to eldoret
+- 'flights from nairobi to kisumu jambojet'
+- 'safari link flights from nairobi to kisumu'
+- 'jambojet flights from kisumu to nairobi ticket price'
+- 'kisumu flight schedule'
+- 'which airlines fly to eldoret'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

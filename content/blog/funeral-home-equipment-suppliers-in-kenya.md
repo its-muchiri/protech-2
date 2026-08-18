@@ -1,14 +1,14 @@
 ---
 title: 'Funeral Home Equipment Suppliers in Kenya: 2026 Price Guide'
-description: Kenya buying guide to funeral home equipment suppliers in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to funeral home equipment suppliers in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: funeral-home-equipment-suppliers-in-kenya
-primary_keyword: Funeral home equipment suppliers in Kenya
+primary_keyword: 'Funeral home equipment suppliers in Kenya'
 secondary_keywords:
-- Analogue mammography machine cost in Mombasa
-- Clinical chemistry analyzer cost in Kenya
-- Microhematocrit centrifuge in Kenya
-- Blood bank refrigerator price in Kenya
-- Dental surgical instruments in Mombasa
+- 'Analogue mammography machine cost in Mombasa'
+- 'Clinical chemistry analyzer cost in Kenya'
+- 'Microhematocrit centrifuge in Kenya'
+- 'Blood bank refrigerator price in Kenya'
+- 'Dental surgical instruments in Mombasa'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

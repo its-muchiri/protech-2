@@ -1,14 +1,14 @@
 ---
 title: 'Wildebeest Migration Safari Kenya: Complete Guide'
-description: Kenya safari guide covering wildebeest migration safari kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering wildebeest migration safari kenya, including what is included, pricing, and booking advice.'
 slug: wildebeest-migration-safari-kenya
-primary_keyword: Wildebeest migration safari Kenya
+primary_keyword: 'Wildebeest migration safari Kenya'
 secondary_keywords:
-- 5-star Kenya safari lodge package
-- Family friendly Kenya safari deals
-- Multi-generational family safari Kenya book
-- Off-season Kenya safari package discount
-- Kenya safari and Victoria Falls package quote
+- '5-star Kenya safari lodge package'
+- 'Family friendly Kenya safari deals'
+- 'Multi-generational family safari Kenya book'
+- 'Off-season Kenya safari package discount'
+- 'Kenya safari and Victoria Falls package quote'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

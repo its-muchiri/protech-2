@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flying Blue Login: Complete Guide'
-description: Everything you need to know about kq flying blue login, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flying blue login, including routes, airlines, booking tips, and fares.'
 slug: kq-flying-blue-login
-primary_keyword: kq flying blue login
+primary_keyword: 'kq flying blue login'
 secondary_keywords:
-- kenya airways flights from entebbe to nairobi price
-- cheapest flight from nairobi to dubai
-- air india flight from nairobi to delhi
-- flight from nairobi to busia
-- flight from nairobi to california
+- 'kenya airways flights from entebbe to nairobi price'
+- 'cheapest flight from nairobi to dubai'
+- 'air india flight from nairobi to delhi'
+- 'flight from nairobi to busia'
+- 'flight from nairobi to california'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Are There Flights from Mombasa to Malindi: Complete Guide'
-description: Everything you need to know about are there flights from mombasa to malindi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about are there flights from mombasa to malindi, including routes, airlines, booking tips, and fares.'
 slug: are-there-flights-from-mombasa-to-malindi
-primary_keyword: are there flights from mombasa to malindi
+primary_keyword: 'are there flights from mombasa to malindi'
 secondary_keywords:
-- ticket from kenya to turkey
-- booking flights in kenya
-- flights to kenya british airways
-- cheap flights to kenya in december
-- flights to kenya from london
+- 'ticket from kenya to turkey'
+- 'booking flights in kenya'
+- 'flights to kenya british airways'
+- 'cheap flights to kenya in december'
+- 'flights to kenya from london'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

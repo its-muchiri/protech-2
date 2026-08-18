@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Student Tour Operators Budget: Complete Guide'
-description: Kenya safari guide covering kenya student tour operators budget, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya student tour operators budget, including what is included, pricing, and booking advice.'
 slug: kenya-student-tour-operators-budget
-primary_keyword: Kenya student tour operators budget
+primary_keyword: 'Kenya student tour operators budget'
 secondary_keywords:
-- Kenya safari from Dubai
-- Kenya safari in October
-- Custom Kenya safari quote
-- LGBTQ+ friendly Kenya safari
-- Is Kenya safe for safari
+- 'Kenya safari from Dubai'
+- 'Kenya safari in October'
+- 'Custom Kenya safari quote'
+- 'LGBTQ+ friendly Kenya safari'
+- 'Is Kenya safe for safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

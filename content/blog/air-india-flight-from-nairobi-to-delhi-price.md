@@ -1,14 +1,14 @@
 ---
 title: 'Air India Flight from Nairobi to Delhi Price: Complete Guide'
-description: Everything you need to know about air india flight from nairobi to delhi price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about air india flight from nairobi to delhi price, including routes, airlines, booking tips, and fares.'
 slug: air-india-flight-from-nairobi-to-delhi-price
-primary_keyword: air india flight from nairobi to delhi price
+primary_keyword: 'air india flight from nairobi to delhi price'
 secondary_keywords:
-- flight from nairobi to egypt
-- flight fare from nairobi to mombasa
-- how much is a flight from nairobi to germany
-- how much is a flight from nairobi to mombasa
-- flight from nairobi to jeddah
+- 'flight from nairobi to egypt'
+- 'flight fare from nairobi to mombasa'
+- 'how much is a flight from nairobi to germany'
+- 'how much is a flight from nairobi to mombasa'
+- 'flight from nairobi to jeddah'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

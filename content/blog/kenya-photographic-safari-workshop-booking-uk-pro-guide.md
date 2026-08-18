@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Photographic Safari Workshop Booking UK Pro Guide: Complete Guide'
-description: Kenya safari guide covering kenya photographic safari workshop booking uk pro guide, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya photographic safari workshop booking uk pro guide, including what is included, pricing, and booking advice.'
 slug: kenya-photographic-safari-workshop-booking-uk-pro-guide
-primary_keyword: Kenya photographic safari workshop booking UK pro guide
+primary_keyword: 'Kenya photographic safari workshop booking UK pro guide'
 secondary_keywords:
-- Segera Retreat Laikipia package buy
-- Kenya safari and beach honeymoon package buy
-- Group joining safari Kenya budget package
-- Great Rift Valley lakes safari package Kenya book
-- Book Christmas Kenya safari package
+- 'Segera Retreat Laikipia package buy'
+- 'Kenya safari and beach honeymoon package buy'
+- 'Group joining safari Kenya budget package'
+- 'Great Rift Valley lakes safari package Kenya book'
+- 'Book Christmas Kenya safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

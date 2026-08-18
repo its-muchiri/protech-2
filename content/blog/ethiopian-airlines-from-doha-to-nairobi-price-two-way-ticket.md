@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines from Doha to Nairobi Price Two Way Ticket: Complete Guide'
-description: Everything you need to know about ethiopian airlines from doha to nairobi price two way ticket, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines from doha to nairobi price two way ticket, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-from-doha-to-nairobi-price-two-way-ticket
-primary_keyword: ethiopian airlines from doha to nairobi price two way ticket
+primary_keyword: 'ethiopian airlines from doha to nairobi price two way ticket'
 secondary_keywords:
-- flight from nairobi to busia
-- flight from nairobi to california
-- flight from nairobi to diani beach
-- egypt air flight from nairobi to cairo
-- flight fare from dar es salaam to nairobi
+- 'flight from nairobi to busia'
+- 'flight from nairobi to california'
+- 'flight from nairobi to diani beach'
+- 'egypt air flight from nairobi to cairo'
+- 'flight fare from dar es salaam to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

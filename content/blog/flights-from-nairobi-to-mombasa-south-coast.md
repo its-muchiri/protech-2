@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Mombasa South Coast: Complete Guide'
-description: Everything you need to know about flights from nairobi to mombasa south coast, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to mombasa south coast, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-mombasa-south-coast
-primary_keyword: flights from nairobi to mombasa south coast
+primary_keyword: 'flights from nairobi to mombasa south coast'
 secondary_keywords:
-- lamu flights from mombasa
-- flights from masai mara to mombasa
-- flight from eldoret to mombasa price
-- flights from rome to mombasa
-- flights to mombasa from uk
+- 'lamu flights from mombasa'
+- 'flights from masai mara to mombasa'
+- 'flight from eldoret to mombasa price'
+- 'flights from rome to mombasa'
+- 'flights to mombasa from uk'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

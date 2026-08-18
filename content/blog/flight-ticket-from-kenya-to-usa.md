@@ -1,14 +1,14 @@
 ---
 title: 'Flight Ticket from Kenya to Usa: Complete Guide'
-description: Everything you need to know about flight ticket from kenya to usa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight ticket from kenya to usa, including routes, airlines, booking tips, and fares.'
 slug: flight-ticket-from-kenya-to-usa
-primary_keyword: flight ticket from kenya to usa
+primary_keyword: 'flight ticket from kenya to usa'
 secondary_keywords:
-- qatar airways flight from nairobi to dubai
-- qatar airways cargo nairobi
-- qatar airways in nairobi office
-- qatar airways nairobi office number
-- kq flights from
+- 'qatar airways flight from nairobi to dubai'
+- 'qatar airways cargo nairobi'
+- 'qatar airways in nairobi office'
+- 'qatar airways nairobi office number'
+- 'kq flights from'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

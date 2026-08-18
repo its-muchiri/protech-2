@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Eldoret to Kakuma: Complete Guide'
-description: Everything you need to know about flight from eldoret to kakuma, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from eldoret to kakuma, including routes, airlines, booking tips, and fares.'
 slug: flight-from-eldoret-to-kakuma
-primary_keyword: flight from eldoret to kakuma
+primary_keyword: 'flight from eldoret to kakuma'
 secondary_keywords:
-- flight from kenya to washington
-- flights from nairobi to yaounde
-- flight from kenya to zimbabwe price
-- flights to kenya 2024
-- how long is a flight from kenya to tanzania
+- 'flight from kenya to washington'
+- 'flights from nairobi to yaounde'
+- 'flight from kenya to zimbabwe price'
+- 'flights to kenya 2024'
+- 'how long is a flight from kenya to tanzania'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

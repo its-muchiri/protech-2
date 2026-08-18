@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Johannesburg to Orlando Florida: Complete Guide'
-description: Everything you need to know about emirates flights from johannesburg to orlando florida, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from johannesburg to orlando florida, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-johannesburg-to-orlando-florida
-primary_keyword: emirates flights from johannesburg to orlando florida
+primary_keyword: 'emirates flights from johannesburg to orlando florida'
 secondary_keywords:
-- emirates vs
-- emirates kenya address
-- emirates flights from dubai to kenya today
-- emirates is in which country
-- emirates skycargo kenya
+- 'emirates vs'
+- 'emirates kenya address'
+- 'emirates flights from dubai to kenya today'
+- 'emirates is in which country'
+- 'emirates skycargo kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

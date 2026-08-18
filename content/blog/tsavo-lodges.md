@@ -1,14 +1,14 @@
 ---
 title: 'Tsavo Lodges: Complete Guide'
-description: Kenya safari guide covering tsavo lodges, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering tsavo lodges, including what is included, pricing, and booking advice.'
 slug: tsavo-lodges
-primary_keyword: Tsavo lodges
+primary_keyword: 'Tsavo lodges'
 secondary_keywords:
-- Adventure safari Kenya hiking / rafting options
-- Mount Kenya climbing tours Sirimon route price / itinerary 5 days
-- Kikuyu cultural experiences near Nairobi Kiambethu Tea Farm tour
-- Nairobi city tour including KICC viewpoint price
-- Kobo Safaris DMC Kenya services
+- 'Adventure safari Kenya hiking / rafting options'
+- 'Mount Kenya climbing tours Sirimon route price / itinerary 5 days'
+- 'Kikuyu cultural experiences near Nairobi Kiambethu Tea Farm tour'
+- 'Nairobi city tour including KICC viewpoint price'
+- 'Kobo Safaris DMC Kenya services'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

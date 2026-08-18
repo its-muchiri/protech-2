@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Inbound Tour Operators List Purchase Contact: Complete Guide'
-description: Kenya safari guide covering kenya inbound tour operators list purchase contact, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya inbound tour operators list purchase contact, including what is included, pricing, and booking advice.'
 slug: kenya-inbound-tour-operators-list-purchase-contact
-primary_keyword: Kenya inbound tour operators list purchase contact
+primary_keyword: 'Kenya inbound tour operators list purchase contact'
 secondary_keywords:
-- Kenya budget camping safari package book
-- Amboseli Kilimanjaro safari package buy
-- August Masai Mara migration package deals
-- Reserve tour with  Kenya
-- Choose best Kenya safari tour operator
+- 'Kenya budget camping safari package book'
+- 'Amboseli Kilimanjaro safari package buy'
+- 'August Masai Mara migration package deals'
+- 'Reserve tour with  Kenya'
+- 'Choose best Kenya safari tour operator'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

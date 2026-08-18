@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Delhi: Complete Guide'
-description: Everything you need to know about flights from nairobi to delhi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to delhi, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-delhi
-primary_keyword: flights from nairobi to delhi
+primary_keyword: 'flights from nairobi to delhi'
 secondary_keywords:
-- qatar airways cargo nairobi
-- qatar airways in nairobi office
-- qatar airways nairobi office number
-- kq flights from
-- kq flights from dar es salaam to nairobi
+- 'qatar airways cargo nairobi'
+- 'qatar airways in nairobi office'
+- 'qatar airways nairobi office number'
+- 'kq flights from'
+- 'kq flights from dar es salaam to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

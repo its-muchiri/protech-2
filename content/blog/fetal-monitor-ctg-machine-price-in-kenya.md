@@ -1,14 +1,14 @@
 ---
 title: 'Fetal Monitor / CTG Machine Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to fetal monitor / ctg machine price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to fetal monitor / ctg machine price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: fetal-monitor-ctg-machine-price-in-kenya
-primary_keyword: Fetal monitor / CTG machine price in Kenya
+primary_keyword: 'Fetal monitor / CTG machine price in Kenya'
 secondary_keywords:
-- hospital construction companies in Kenya
-- cheap medical equipment Kenya
-- medical supplies Kisumu
-- latex gloves Kenya box price
-- IV fluids Kenya 500ml price
+- 'hospital construction companies in Kenya'
+- 'cheap medical equipment Kenya'
+- 'medical supplies Kisumu'
+- 'latex gloves Kenya box price'
+- 'IV fluids Kenya 500ml price'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

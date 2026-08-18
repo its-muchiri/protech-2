@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Johannesburg: Complete Guide'
-description: Everything you need to know about kq flights to johannesburg, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to johannesburg, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-johannesburg
-primary_keyword: kq flights to johannesburg
+primary_keyword: 'kq flights to johannesburg'
 secondary_keywords:
-- flights nairobi to jro
-- flights nairobi to kilimanjaro
-- flights nairobi to lewa
-- mogadishu to nairobi flights
-- new delhi to nairobi flights
+- 'flights nairobi to jro'
+- 'flights nairobi to kilimanjaro'
+- 'flights nairobi to lewa'
+- 'mogadishu to nairobi flights'
+- 'new delhi to nairobi flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

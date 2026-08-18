@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from New York to Nairobi Schedule: Complete Guide'
-description: Everything you need to know about kenya airways flight from new york to nairobi schedule, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from new york to nairobi schedule, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-new-york-to-nairobi-schedule
-primary_keyword: kenya airways flight from new york to nairobi schedule
+primary_keyword: 'kenya airways flight from new york to nairobi schedule'
 secondary_keywords:
-- flight from nairobi to kisumu jambojet price
-- flights from lodwar to kisumu
-- flights from nairobi to kisumu prices
-- how much is a flight from kisumu to nairobi
-- does kenya airways fly to eldoret
+- 'flight from nairobi to kisumu jambojet price'
+- 'flights from lodwar to kisumu'
+- 'flights from nairobi to kisumu prices'
+- 'how much is a flight from kisumu to nairobi'
+- 'does kenya airways fly to eldoret'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Luxury Kenya Safari Package Price Quote: Complete Guide'
-description: Kenya safari guide covering luxury kenya safari package price quote, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering luxury kenya safari package price quote, including what is included, pricing, and booking advice.'
 slug: luxury-kenya-safari-package-price-quote
-primary_keyword: Luxury Kenya safari package price quote
+primary_keyword: 'Luxury Kenya safari package price quote'
 secondary_keywords:
-- Coffee plantation tours Kiambu companies
-- 14 day Kenya Tanzania combined safari operators
-- Best value Kenya tour operators
-- Safari starting Nairobi airport agency
-- Tour operators specializing in bird photography Kenya
+- 'Coffee plantation tours Kiambu companies'
+- '14 day Kenya Tanzania combined safari operators'
+- 'Best value Kenya tour operators'
+- 'Safari starting Nairobi airport agency'
+- 'Tour operators specializing in bird photography Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

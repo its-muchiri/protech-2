@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Wildlife Safari Offers: Complete Guide'
-description: Kenya safari guide covering kenya wildlife safari offers, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya wildlife safari offers, including what is included, pricing, and booking advice.'
 slug: kenya-wildlife-safari-offers
-primary_keyword: Kenya wildlife safari offers
+primary_keyword: 'Kenya wildlife safari offers'
 secondary_keywords:
-- Luxury tented camps Samburu (Elephant Bedroom, Sasaab) booking
-- Private Kenya safari vs group joining safari pros and cons
-- Lamu Island cultural holiday packages UNESCO site tours
-- Mount Kilimanjaro climbing tours from Kenya operators
-- Responsible tourism operators Kenya cultural sensitivity
+- 'Luxury tented camps Samburu (Elephant Bedroom, Sasaab) booking'
+- 'Private Kenya safari vs group joining safari pros and cons'
+- 'Lamu Island cultural holiday packages UNESCO site tours'
+- 'Mount Kilimanjaro climbing tours from Kenya operators'
+- 'Responsible tourism operators Kenya cultural sensitivity'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

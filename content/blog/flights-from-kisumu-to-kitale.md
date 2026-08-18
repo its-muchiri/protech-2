@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kisumu to Kitale: Complete Guide'
-description: Everything you need to know about flights from kisumu to kitale, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kisumu to kitale, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kisumu-to-kitale
-primary_keyword: flights from kisumu to kitale
+primary_keyword: 'flights from kisumu to kitale'
 secondary_keywords:
-- cheap flights from istanbul to nairobi
-- flights from nairobi kenya to santorini greece
-- flights from nairobi to lagos
-- flights from nairobi to minneapolis
-- flights from nairobi to nyc
+- 'cheap flights from istanbul to nairobi'
+- 'flights from nairobi kenya to santorini greece'
+- 'flights from nairobi to lagos'
+- 'flights from nairobi to minneapolis'
+- 'flights from nairobi to nyc'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

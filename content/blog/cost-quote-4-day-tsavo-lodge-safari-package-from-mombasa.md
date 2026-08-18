@@ -1,14 +1,14 @@
 ---
 title: 'Cost Quote 4 Day Tsavo Lodge Safari Package from Mombasa: Complete Guide'
-description: Kenya safari guide covering cost quote 4 day tsavo lodge safari package from mombasa, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering cost quote 4 day tsavo lodge safari package from mombasa, including what is included, pricing, and booking advice.'
 slug: cost-quote-4-day-tsavo-lodge-safari-package-from-mombasa
-primary_keyword: Cost quote 4 day Tsavo lodge safari package from Mombasa
+primary_keyword: 'Cost quote 4 day Tsavo lodge safari package from Mombasa'
 secondary_keywords:
-- Get quote for 6 day Kenya family safari package
-- Lake Nakuru rhino safari package quote
-- Ol Jogi Conservancy luxury safari booking
-- Masai Mara honeymoon package booking
-- Kenya budget camping safari package book
+- 'Get quote for 6 day Kenya family safari package'
+- 'Lake Nakuru rhino safari package quote'
+- 'Ol Jogi Conservancy luxury safari booking'
+- 'Masai Mara honeymoon package booking'
+- 'Kenya budget camping safari package book'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

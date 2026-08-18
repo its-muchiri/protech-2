@@ -1,14 +1,14 @@
 ---
 title: 'Buy Kenya Primate Tracking Safari Package USA: Complete Guide'
-description: Kenya safari guide covering buy kenya primate tracking safari package usa, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy kenya primate tracking safari package usa, including what is included, pricing, and booking advice.'
 slug: buy-kenya-primate-tracking-safari-package-usa
-primary_keyword: Buy Kenya primate tracking safari package USA
+primary_keyword: 'Buy Kenya primate tracking safari package USA'
 secondary_keywords:
-- El Molo village tour Lake Turkana operators
-- Lake Magadi day trip flamingo tour price / road condition
-- Sunworld Safaris Kenya reviews
-- Safari tour van hire Nairobi price per day 7 seater
-- Reliable tour operator Kenya forum recommendations (Lonely Planet, Fodor''s)
+- 'El Molo village tour Lake Turkana operators'
+- 'Lake Magadi day trip flamingo tour price / road condition'
+- 'Sunworld Safaris Kenya reviews'
+- 'Safari tour van hire Nairobi price per day 7 seater'
+- 'Reliable tour operator Kenya forum recommendations (Lonely Planet, Fodor''''s)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

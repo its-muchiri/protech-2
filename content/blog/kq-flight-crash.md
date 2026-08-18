@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight Crash: Complete Guide'
-description: Everything you need to know about kq flight crash, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight crash, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-crash
-primary_keyword: kq flight crash
+primary_keyword: 'kq flight crash'
 secondary_keywords:
-- kenya airways check in time for domestic flights
-- flights to kenya from south africa
-- how many types of flights in kenya
-- klm in kenya
-- flight in nairobi kenya
+- 'kenya airways check in time for domestic flights'
+- 'flights to kenya from south africa'
+- 'how many types of flights in kenya'
+- 'klm in kenya'
+- 'flight in nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

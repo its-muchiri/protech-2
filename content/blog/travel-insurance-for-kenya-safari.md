@@ -1,14 +1,14 @@
 ---
 title: 'Travel Insurance for Kenya Safari: Complete Guide'
-description: Kenya safari guide covering travel insurance for kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering travel insurance for kenya safari, including what is included, pricing, and booking advice.'
 slug: travel-insurance-for-kenya-safari
-primary_keyword: Travel insurance for Kenya safari
+primary_keyword: 'Travel insurance for Kenya safari'
 secondary_keywords:
-- Famous people Kenya safari
-- Request Kenya safari itinerary cost
-- Pre-book Kenya migration safari
-- Two week Kenya safari tour cost
-- Book Masai Mara conservancy safari package
+- 'Famous people Kenya safari'
+- 'Request Kenya safari itinerary cost'
+- 'Pre-book Kenya migration safari'
+- 'Two week Kenya safari tour cost'
+- 'Book Masai Mara conservancy safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Day Trips from Thika Tour Organizers: Complete Guide'
-description: Kenya safari guide covering day trips from thika tour organizers, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering day trips from thika tour organizers, including what is included, pricing, and booking advice.'
 slug: day-trips-from-thika-tour-organizers
-primary_keyword: Day trips from Thika tour organizers
+primary_keyword: 'Day trips from Thika tour organizers'
 secondary_keywords:
-- Book peak season Kenya safari package availability check
-- Reserve 9 day custom accessible Laikipia conservancy safari package quote
-- Quote 6 day Aberdares The Ark Treetops unique package price
-- Kenya Association of Tour Operators (KATO) members directory
-- View Mount Kilimanjaro Amboseli best lodges (e.g., Ol Tukai, Tortilis Camp)
+- 'Book peak season Kenya safari package availability check'
+- 'Reserve 9 day custom accessible Laikipia conservancy safari package quote'
+- 'Quote 6 day Aberdares The Ark Treetops unique package price'
+- 'Kenya Association of Tour Operators (KATO) members directory'
+- 'View Mount Kilimanjaro Amboseli best lodges (e.g., Ol Tukai, Tortilis Camp)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

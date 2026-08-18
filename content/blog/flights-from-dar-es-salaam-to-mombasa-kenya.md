@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Dar Es Salaam to Mombasa Kenya: Complete Guide'
-description: Everything you need to know about flights from dar es salaam to mombasa kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from dar es salaam to mombasa kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-dar-es-salaam-to-mombasa-kenya
-primary_keyword: flights from dar es salaam to mombasa kenya
+primary_keyword: 'flights from dar es salaam to mombasa kenya'
 secondary_keywords:
-- how many hours from nairobi to usa flight
-- which is the cheapest flight from nairobi to mombasa
-- flight route from nairobi to new york
-- flight from nairobi to mombasa time
-- flight 540 nairobi to dar es salaam
+- 'how many hours from nairobi to usa flight'
+- 'which is the cheapest flight from nairobi to mombasa'
+- 'flight route from nairobi to new york'
+- 'flight from nairobi to mombasa time'
+- 'flight 540 nairobi to dar es salaam'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

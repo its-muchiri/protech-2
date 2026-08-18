@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Houston to Nairobi Kenya: Complete Guide'
-description: Everything you need to know about flights from houston to nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from houston to nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-houston-to-nairobi-kenya
-primary_keyword: flights from houston to nairobi kenya
+primary_keyword: 'flights from houston to nairobi kenya'
 secondary_keywords:
-- kq flights schedule to eldoret
-- kq history
-- kq flights to johannesburg today
-- kenya airways flights live
-- kq mayfly flight schedule today
+- 'kq flights schedule to eldoret'
+- 'kq history'
+- 'kq flights to johannesburg today'
+- 'kenya airways flights live'
+- 'kq mayfly flight schedule today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

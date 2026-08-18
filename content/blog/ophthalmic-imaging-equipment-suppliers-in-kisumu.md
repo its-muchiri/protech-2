@@ -1,14 +1,14 @@
 ---
 title: 'Ophthalmic Imaging Equipment Suppliers in Kisumu: 2026 Price Guide'
-description: Kenya buying guide to ophthalmic imaging equipment suppliers in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to ophthalmic imaging equipment suppliers in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: ophthalmic-imaging-equipment-suppliers-in-kisumu
-primary_keyword: Ophthalmic imaging equipment suppliers in Kisumu
+primary_keyword: 'Ophthalmic imaging equipment suppliers in Kisumu'
 secondary_keywords:
-- Analogue mammography machine cost in Mombasa
-- Fully automated chemistry analyzer for sale in Kisumu
-- Tabletop centrifuge for a small clinic
-- Lab water purification system for sale
-- Veterinary surgical kit for sale in Nakuru
+- 'Analogue mammography machine cost in Mombasa'
+- 'Fully automated chemistry analyzer for sale in Kisumu'
+- 'Tabletop centrifuge for a small clinic'
+- 'Lab water purification system for sale'
+- 'Veterinary surgical kit for sale in Nakuru'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

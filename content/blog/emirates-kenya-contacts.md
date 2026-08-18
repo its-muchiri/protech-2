@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Kenya Contacts: Complete Guide'
-description: Everything you need to know about emirates kenya contacts, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates kenya contacts, including routes, airlines, booking tips, and fares.'
 slug: emirates-kenya-contacts
-primary_keyword: emirates kenya contacts
+primary_keyword: 'emirates kenya contacts'
 secondary_keywords:
-- emirates flight from kenya to dubai today status
-- emirates flight from kenya to dubai price tomorrow
-- emirates offices in kenya
-- qatar from kenya
-- fly emirates contacts
+- 'emirates flight from kenya to dubai today status'
+- 'emirates flight from kenya to dubai price tomorrow'
+- 'emirates offices in kenya'
+- 'qatar from kenya'
+- 'fly emirates contacts'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

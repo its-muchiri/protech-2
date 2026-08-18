@@ -1,14 +1,14 @@
 ---
 title: 'Buy Kenya Safari Package from USA: Complete Guide'
-description: Kenya safari guide covering buy kenya safari package from usa, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy kenya safari package from usa, including what is included, pricing, and booking advice.'
 slug: buy-kenya-safari-package-from-usa
-primary_keyword: Buy Kenya safari package from USA
+primary_keyword: 'Buy Kenya safari package from USA'
 secondary_keywords:
-- Award-winning Kenya safari lodges booking Europe
-- Book cultural Masai village visit & Amboseli safari tour Kenya Europe price
-- Check availability budget camping safari Tsavo & Amboseli circuit Europe group joining dates
-- Get quote for luxury mobile camping safari Serengeti & Mara migration USA private setup cost
-- Reserve luxury fly-camping safari private conservancy Kenya USA exclusive remote experience booking
+- 'Award-winning Kenya safari lodges booking Europe'
+- 'Book cultural Masai village visit & Amboseli safari tour Kenya Europe price'
+- 'Check availability budget camping safari Tsavo & Amboseli circuit Europe group joining dates'
+- 'Get quote for luxury mobile camping safari Serengeti & Mara migration USA private setup cost'
+- 'Reserve luxury fly-camping safari private conservancy Kenya USA exclusive remote experience booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

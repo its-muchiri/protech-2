@@ -1,14 +1,14 @@
 ---
 title: 'Kq Airline Full Form: Complete Guide'
-description: Everything you need to know about kq airline full form, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq airline full form, including routes, airlines, booking tips, and fares.'
 slug: kq-airline-full-form
-primary_keyword: kq airline full form
+primary_keyword: 'kq airline full form'
 secondary_keywords:
-- emirates flights from
-- emirates flights to uk from south africa
-- emirates flights to bali from south africa
-- emirates flights from lusaka to china
-- emirates flights from europe to dubai
+- 'emirates flights from'
+- 'emirates flights to uk from south africa'
+- 'emirates flights to bali from south africa'
+- 'emirates flights from lusaka to china'
+- 'emirates flights from europe to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

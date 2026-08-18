@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is a Flight from Kisumu to Nairobi: Complete Guide'
-description: Everything you need to know about how much is a flight from kisumu to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is a flight from kisumu to nairobi, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-a-flight-from-kisumu-to-nairobi
-primary_keyword: how much is a flight from kisumu to nairobi
+primary_keyword: 'how much is a flight from kisumu to nairobi'
 secondary_keywords:
-- 1 uae dirham to kenyan shillings
-- ethiopian airlines nairobi airport office
-- cheap flights from nairobi to egypt
-- kenya airways flight from nairobi to khartoum
-- what airlines fly to ethiopia
+- '1 uae dirham to kenyan shillings'
+- 'ethiopian airlines nairobi airport office'
+- 'cheap flights from nairobi to egypt'
+- 'kenya airways flight from nairobi to khartoum'
+- 'what airlines fly to ethiopia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

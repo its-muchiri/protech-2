@@ -1,14 +1,14 @@
 ---
 title: 'Google Flights Nairobi to Toronto: Complete Guide'
-description: Everything you need to know about google flights nairobi to toronto, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about google flights nairobi to toronto, including routes, airlines, booking tips, and fares.'
 slug: google-flights-nairobi-to-toronto
-primary_keyword: google flights nairobi to toronto
+primary_keyword: 'google flights nairobi to toronto'
 secondary_keywords:
-- cheapest flights from kenya
-- are there direct flights from kenya to canada
-- cheap flights from birmingham to nairobi kenya
-- cheap flights from kenya to south africa
-- flights from kenya to europe
+- 'cheapest flights from kenya'
+- 'are there direct flights from kenya to canada'
+- 'cheap flights from birmingham to nairobi kenya'
+- 'cheap flights from kenya to south africa'
+- 'flights from kenya to europe'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Harare: Complete Guide'
-description: Everything you need to know about kq flights to harare, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to harare, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-harare
-primary_keyword: kq flights to harare
+primary_keyword: 'kq flights to harare'
 secondary_keywords:
-- flights from nairobi wilson to lamu
-- flights from nairobi to new york city
-- flights from nairobi to kingston jamaica
-- kenya airways flight schedule from nairobi to entebbe
-- flights from mombasa to zanzibar
+- 'flights from nairobi wilson to lamu'
+- 'flights from nairobi to new york city'
+- 'flights from nairobi to kingston jamaica'
+- 'kenya airways flight schedule from nairobi to entebbe'
+- 'flights from mombasa to zanzibar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

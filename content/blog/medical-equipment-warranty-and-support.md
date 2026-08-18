@@ -1,14 +1,14 @@
 ---
 title: 'Medical Equipment Warranty and Support: 2026 Price Guide'
-description: Kenya buying guide to medical equipment warranty and support. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to medical equipment warranty and support. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: medical-equipment-warranty-and-support
-primary_keyword: Medical equipment warranty and support
+primary_keyword: 'Medical equipment warranty and support'
 secondary_keywords:
-- laboratory microscopes Kenya price
-- operating tables Kenya price
-- laparoscopy equipment Kenya
-- hot plates lab Kenya
-- first responder bags Kenya
+- 'laboratory microscopes Kenya price'
+- 'operating tables Kenya price'
+- 'laparoscopy equipment Kenya'
+- 'hot plates lab Kenya'
+- 'first responder bags Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kq 271 Flight Status: Complete Guide'
-description: Everything you need to know about kq 271 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 271 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq-271-flight-status
-primary_keyword: kq 271 flight status
+primary_keyword: 'kq 271 flight status'
 secondary_keywords:
-- flight from nairobi to arusha
-- a flight from nairobi to kisumu
-- ba flight from nairobi to heathrow
-- cheapest flight from nairobi to canada
-- flight from nairobi to eldoret price
+- 'flight from nairobi to arusha'
+- 'a flight from nairobi to kisumu'
+- 'ba flight from nairobi to heathrow'
+- 'cheapest flight from nairobi to canada'
+- 'flight from nairobi to eldoret price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

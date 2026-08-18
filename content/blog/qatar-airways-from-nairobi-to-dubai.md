@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways from Nairobi to Dubai: Complete Guide'
-description: Everything you need to know about qatar airways from nairobi to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways from nairobi to dubai, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-from-nairobi-to-dubai
-primary_keyword: qatar airways from nairobi to dubai
+primary_keyword: 'qatar airways from nairobi to dubai'
 secondary_keywords:
-- how much is emirates from kenya to dubai
-- fly emirates kenya
-- emirates 722
-- ethiopian airlines lounge nairobi airport
-- ethiopian airlines from nairobi to doha
+- 'how much is emirates from kenya to dubai'
+- 'fly emirates kenya'
+- 'emirates 722'
+- 'ethiopian airlines lounge nairobi airport'
+- 'ethiopian airlines from nairobi to doha'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Kenya: Complete Guide'
-description: Everything you need to know about emirates flights from kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from kenya, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-kenya
-primary_keyword: emirates flights from kenya
+primary_keyword: 'emirates flights from kenya'
 secondary_keywords:
-- flights from kenya to hawaii
-- flight from kenya to italy
-- flights from kenya to jfk
-- flight from kenya to kampala
-- flights from kenya to lagos
+- 'flights from kenya to hawaii'
+- 'flight from kenya to italy'
+- 'flights from kenya to jfk'
+- 'flight from kenya to kampala'
+- 'flights from kenya to lagos'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'The Cheapest Flight from Nairobi to Doha: Complete Guide'
-description: Everything you need to know about the cheapest flight from nairobi to doha, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about the cheapest flight from nairobi to doha, including routes, airlines, booking tips, and fares.'
 slug: the-cheapest-flight-from-nairobi-to-doha
-primary_keyword: the cheapest flight from nairobi to doha
+primary_keyword: 'the cheapest flight from nairobi to doha'
 secondary_keywords:
-- flight kq101
-- kq 257 flight status
-- kq flight 431
-- kq 515 flight status
-- kq 614
+- 'flight kq101'
+- 'kq 257 flight status'
+- 'kq flight 431'
+- 'kq 515 flight status'
+- 'kq 614'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Nairobi from London: Complete Guide'
-description: Everything you need to know about flights to nairobi from london, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to nairobi from london, including routes, airlines, booking tips, and fares.'
 slug: flights-to-nairobi-from-london
-primary_keyword: flights to nairobi from london
+primary_keyword: 'flights to nairobi from london'
 secondary_keywords:
-- flights nairobi to arusha
-- addis to nairobi flights
-- nairobi to diani beach flights
-- cheap flights nairobi to cape town
-- flights nairobi to europe
+- 'flights nairobi to arusha'
+- 'addis to nairobi flights'
+- 'nairobi to diani beach flights'
+- 'cheap flights nairobi to cape town'
+- 'flights nairobi to europe'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

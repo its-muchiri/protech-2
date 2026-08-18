@@ -1,14 +1,14 @@
 ---
 title: 'Tour Operators with Driver-guides Fluent in : Complete Guide'
-description: Kenya safari guide covering tour operators with driver-guides fluent in , including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering tour operators with driver-guides fluent in , including what is included, pricing, and booking advice.'
 slug: tour-operators-with-driver-guides-fluent-in-language-e-g-german-french-spanish
-primary_keyword: Tour operators with driver-guides fluent in
+primary_keyword: 'Tour operators with driver-guides fluent in'
 secondary_keywords:
-- Book Mara North Conservancy package
-- Secure 10 day Kenya Tanzania combined tour
-- Reserve luxury tented camp safari booking
-- Price for Kenya wildlife safari package
-- Cost of 4 day Masai Mara express tour
+- 'Book Mara North Conservancy package'
+- 'Secure 10 day Kenya Tanzania combined tour'
+- 'Reserve luxury tented camp safari booking'
+- 'Price for Kenya wildlife safari package'
+- 'Cost of 4 day Masai Mara express tour'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

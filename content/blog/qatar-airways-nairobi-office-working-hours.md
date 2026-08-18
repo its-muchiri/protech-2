@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways Nairobi Office Working Hours: Complete Guide'
-description: Everything you need to know about qatar airways nairobi office working hours, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways nairobi office working hours, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-nairobi-office-working-hours
-primary_keyword: qatar airways nairobi office working hours
+primary_keyword: 'qatar airways nairobi office working hours'
 secondary_keywords:
-- does emirates fly to nairobi
-- dubai to kenya emirates flight status
-- does emirates fly to uganda
-- emirates arrivals nairobi
-- emirates flight from dubai to nairobi today status
+- 'does emirates fly to nairobi'
+- 'dubai to kenya emirates flight status'
+- 'does emirates fly to uganda'
+- 'emirates arrivals nairobi'
+- 'emirates flight from dubai to nairobi today status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

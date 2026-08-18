@@ -1,14 +1,14 @@
 ---
 title: 'Morning Flights from Mombasa to Nairobi: Complete Guide'
-description: Everything you need to know about morning flights from mombasa to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about morning flights from mombasa to nairobi, including routes, airlines, booking tips, and fares.'
 slug: morning-flights-from-mombasa-to-nairobi
-primary_keyword: morning flights from mombasa to nairobi
+primary_keyword: 'morning flights from mombasa to nairobi'
 secondary_keywords:
-- cheapest flight from kenya to south africa
-- how much is a flight from kenya to nigeria
-- flights from nairobi to arusha
-- available flights from nairobi to mombasa tomorrow
-- ba flights from nairobi to london heathrow
+- 'cheapest flight from kenya to south africa'
+- 'how much is a flight from kenya to nigeria'
+- 'flights from nairobi to arusha'
+- 'available flights from nairobi to mombasa tomorrow'
+- 'ba flights from nairobi to london heathrow'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

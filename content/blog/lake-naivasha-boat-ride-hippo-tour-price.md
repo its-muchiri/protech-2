@@ -1,14 +1,14 @@
 ---
 title: 'Lake Naivasha Boat Ride Hippo Tour Price: Complete Guide'
-description: Kenya safari guide covering lake naivasha boat ride hippo tour price, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering lake naivasha boat ride hippo tour price, including what is included, pricing, and booking advice.'
 slug: lake-naivasha-boat-ride-hippo-tour-price
-primary_keyword: Lake Naivasha boat ride hippo tour price
+primary_keyword: 'Lake Naivasha boat ride hippo tour price'
 secondary_keywords:
-- Cost of single supplement waived Kenya safari tour Europe solo traveler deals dates
-- Reserve Maasai Olympics event safari tour Kenya UK cultural experience dates booking
-- Find Kenya safari tour including Nairobi craft market shopping UK souvenir buying guide
-- Buy traditional dhow sailing trip Lamu safari add-on Kenya UK coastal culture experience price
-- Book Kenya safari
+- 'Cost of single supplement waived Kenya safari tour Europe solo traveler deals dates'
+- 'Reserve Maasai Olympics event safari tour Kenya UK cultural experience dates booking'
+- 'Find Kenya safari tour including Nairobi craft market shopping UK souvenir buying guide'
+- 'Buy traditional dhow sailing trip Lamu safari add-on Kenya UK coastal culture experience price'
+- 'Book Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

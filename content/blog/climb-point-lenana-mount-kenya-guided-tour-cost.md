@@ -1,14 +1,14 @@
 ---
 title: 'Climb Point Lenana Mount Kenya Guided Tour Cost: Complete Guide'
-description: Kenya safari guide covering climb point lenana mount kenya guided tour cost, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering climb point lenana mount kenya guided tour cost, including what is included, pricing, and booking advice.'
 slug: climb-point-lenana-mount-kenya-guided-tour-cost
-primary_keyword: Climb Point Lenana Mount Kenya guided tour cost
+primary_keyword: 'Climb Point Lenana Mount Kenya guided tour cost'
 secondary_keywords:
-- Reserve wheelchair accessible Kenya safari vehicle & lodge USA custom tour planning service
-- Find Halal certified meals Kenya safari tour package UK Muslim friendly lodges operators list
-- Book camel trekking safari northern Kenya Samburu Europe traditional experience cost
-- Buy Mount Longonot hike safari day trip package USA Rift Valley views cost
-- Safari Kenya
+- 'Reserve wheelchair accessible Kenya safari vehicle & lodge USA custom tour planning service'
+- 'Find Halal certified meals Kenya safari tour package UK Muslim friendly lodges operators list'
+- 'Book camel trekking safari northern Kenya Samburu Europe traditional experience cost'
+- 'Buy Mount Longonot hike safari day trip package USA Rift Valley views cost'
+- 'Safari Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

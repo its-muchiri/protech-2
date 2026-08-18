@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi to Vancouver Flights: Complete Guide'
-description: Everything you need to know about nairobi to vancouver flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about nairobi to vancouver flights, including routes, airlines, booking tips, and fares.'
 slug: nairobi-to-vancouver-flights
-primary_keyword: nairobi to vancouver flights
+primary_keyword: 'nairobi to vancouver flights'
 secondary_keywords:
-- houston to nairobi flights
-- flights nairobi to jfk
-- flights nairobi to kilifi
-- flights nairobi to london today
-- nairobi to mombasa flights price
+- 'houston to nairobi flights'
+- 'flights nairobi to jfk'
+- 'flights nairobi to kilifi'
+- 'flights nairobi to london today'
+- 'nairobi to mombasa flights price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

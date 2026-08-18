@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights Nairobi to Heathrow: Complete Guide'
-description: Everything you need to know about emirates flights nairobi to heathrow, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights nairobi to heathrow, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-nairobi-to-heathrow
-primary_keyword: emirates flights nairobi to heathrow
+primary_keyword: 'emirates flights nairobi to heathrow'
 secondary_keywords:
-- flight from nairobi to botswana
-- flight from nairobi to canada
-- flight from nairobi to dar es salaam
-- flight from nairobi to eswatini
-- flight from nairobi to france
+- 'flight from nairobi to botswana'
+- 'flight from nairobi to canada'
+- 'flight from nairobi to dar es salaam'
+- 'flight from nairobi to eswatini'
+- 'flight from nairobi to france'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

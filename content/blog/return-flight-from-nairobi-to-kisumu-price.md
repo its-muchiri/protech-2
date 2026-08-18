@@ -1,14 +1,14 @@
 ---
 title: 'Return Flight from Nairobi to Kisumu Price: Complete Guide'
-description: Everything you need to know about return flight from nairobi to kisumu price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about return flight from nairobi to kisumu price, including routes, airlines, booking tips, and fares.'
 slug: return-flight-from-nairobi-to-kisumu-price
-primary_keyword: return flight from nairobi to kisumu price
+primary_keyword: 'return flight from nairobi to kisumu price'
 secondary_keywords:
-- flight from nairobi to heathrow today
-- indigo flight from nairobi to ahmedabad
-- jambojet flight from nairobi to ukunda
-- local flight from nairobi to mombasa
-- mombasa flight from nairobi
+- 'flight from nairobi to heathrow today'
+- 'indigo flight from nairobi to ahmedabad'
+- 'jambojet flight from nairobi to ukunda'
+- 'local flight from nairobi to mombasa'
+- 'mombasa flight from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

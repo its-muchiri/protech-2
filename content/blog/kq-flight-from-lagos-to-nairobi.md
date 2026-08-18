@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Lagos to Nairobi: Complete Guide'
-description: Everything you need to know about kq flight from lagos to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from lagos to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-lagos-to-nairobi
-primary_keyword: kq flight from lagos to nairobi
+primary_keyword: 'kq flight from lagos to nairobi'
 secondary_keywords:
-- flight from nairobi to mombasa how long
-- flights from italy to mombasa
-- flights from mombasa to kigali
-- fly from mombasa to lamu
-- morning flights from mombasa to nairobi
+- 'flight from nairobi to mombasa how long'
+- 'flights from italy to mombasa'
+- 'flights from mombasa to kigali'
+- 'fly from mombasa to lamu'
+- 'morning flights from mombasa to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

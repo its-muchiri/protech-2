@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi to Vipingo Flights: Complete Guide'
-description: Everything you need to know about nairobi to vipingo flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about nairobi to vipingo flights, including routes, airlines, booking tips, and fares.'
 slug: nairobi-to-vipingo-flights
-primary_keyword: nairobi to vipingo flights
+primary_keyword: 'nairobi to vipingo flights'
 secondary_keywords:
-- nairobi to columbus oh flights
-- nairobi to kampala flights price
-- flights nairobi to riyadh
-- flights nairobi to sfo
-- flights nairobi to uk
+- 'nairobi to columbus oh flights'
+- 'nairobi to kampala flights price'
+- 'flights nairobi to riyadh'
+- 'flights nairobi to sfo'
+- 'flights nairobi to uk'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

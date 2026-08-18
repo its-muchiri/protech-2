@@ -1,14 +1,14 @@
 ---
 title: 'Packing Cubes for Kenya Safari: Complete Guide'
-description: Kenya safari guide covering packing cubes for kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering packing cubes for kenya safari, including what is included, pricing, and booking advice.'
 slug: packing-cubes-for-kenya-safari
-primary_keyword: Packing cubes for Kenya safari
+primary_keyword: 'Packing cubes for Kenya safari'
 secondary_keywords:
-- Best Kenya safari deals for USA travelers online
-- Compare Kenya safari package prices USA operators
-- Kenya bird watching safari tours USA specialist booking
-- Book Masai Mara safari online UK migration season
-- Lake Naivasha boat safari booking Hell''s Gate tour USA
+- 'Best Kenya safari deals for USA travelers online'
+- 'Compare Kenya safari package prices USA operators'
+- 'Kenya bird watching safari tours USA specialist booking'
+- 'Book Masai Mara safari online UK migration season'
+- 'Lake Naivasha boat safari booking Hell''''s Gate tour USA'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

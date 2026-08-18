@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Zurich to Nairobi: Complete Guide'
-description: Everything you need to know about cheap flights from zurich to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from zurich to nairobi, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-zurich-to-nairobi
-primary_keyword: cheap flights from zurich to nairobi
+primary_keyword: 'cheap flights from zurich to nairobi'
 secondary_keywords:
-- kq 256
-- kq 417 flight status
-- kq 533 flight status
-- flight kq886
-- emirates flight schedule to nairobi
+- 'kq 256'
+- 'kq 417 flight status'
+- 'kq 533 flight status'
+- 'flight kq886'
+- 'emirates flight schedule to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

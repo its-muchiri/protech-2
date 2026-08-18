@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is Flight from Kenya to Uganda: Complete Guide'
-description: Everything you need to know about how much is flight from kenya to uganda, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is flight from kenya to uganda, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-flight-from-kenya-to-uganda
-primary_keyword: how much is flight from kenya to uganda
+primary_keyword: 'how much is flight from kenya to uganda'
 secondary_keywords:
-- how long is the flight from nairobi to victoria falls
-- cheapest flight from nairobi to south africa
-- how many hours flight from nairobi to zanzibar
-- cheapest flight from nairobi to johannesburg
-- 540 flight from nairobi to mombasa today
+- 'how long is the flight from nairobi to victoria falls'
+- 'cheapest flight from nairobi to south africa'
+- 'how many hours flight from nairobi to zanzibar'
+- 'cheapest flight from nairobi to johannesburg'
+- '540 flight from nairobi to mombasa today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

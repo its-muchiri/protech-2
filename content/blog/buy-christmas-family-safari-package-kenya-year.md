@@ -1,14 +1,14 @@
 ---
 title: 'Buy Christmas Family Safari Package Kenya : Complete Guide'
-description: Kenya safari guide covering buy christmas family safari package kenya , including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy christmas family safari package kenya , including what is included, pricing, and booking advice.'
 slug: buy-christmas-family-safari-package-kenya-year
-primary_keyword: Buy Christmas family safari package Kenya
+primary_keyword: 'Buy Christmas family safari package Kenya'
 secondary_keywords:
-- How are safari guides trained Kenya
-- Kenya safari booking online
-- Kenya safari deposit payment
-- Long Kenya safari package (10+ days) quote
-- Kenya multi-park safari package deal
+- 'How are safari guides trained Kenya'
+- 'Kenya safari booking online'
+- 'Kenya safari deposit payment'
+- 'Long Kenya safari package (10+ days) quote'
+- 'Kenya multi-park safari package deal'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Nairobi to New York: Complete Guide'
-description: Everything you need to know about kq flight from nairobi to new york, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from nairobi to new york, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-nairobi-to-new-york
-primary_keyword: kq flight from nairobi to new york
+primary_keyword: 'kq flight from nairobi to new york'
 secondary_keywords:
-- flights nairobi to zambia
-- ba flight to nairobi 2000
-- cheap flights nairobi
-- when will emirates resume flights from adelaide
-- emirates flights to brisbane from uk
+- 'flights nairobi to zambia'
+- 'ba flight to nairobi 2000'
+- 'cheap flights nairobi'
+- 'when will emirates resume flights from adelaide'
+- 'emirates flights to brisbane from uk'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Mombasa Kenya from Paris France: Complete Guide'
-description: Everything you need to know about flights to mombasa kenya from paris france, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to mombasa kenya from paris france, including routes, airlines, booking tips, and fares.'
 slug: flights-to-mombasa-kenya-from-paris-france
-primary_keyword: flights to mombasa kenya from paris france
+primary_keyword: 'flights to mombasa kenya from paris france'
 secondary_keywords:
-- flights to kenya 2025
-- flights from kenya to adelaide
-- flights from kenya to botswana
-- flights to burundi from kenya
-- cheap flights from kenya to tanzania
+- 'flights to kenya 2025'
+- 'flights from kenya to adelaide'
+- 'flights from kenya to botswana'
+- 'flights to burundi from kenya'
+- 'cheap flights from kenya to tanzania'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

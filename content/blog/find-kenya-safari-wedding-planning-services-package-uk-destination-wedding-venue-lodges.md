@@ -1,14 +1,14 @@
 ---
 title: 'Find Kenya Safari Wedding Planning Services Package UK Destination Wedding Venue Lodges: Complete Guide'
-description: Kenya safari guide covering find kenya safari wedding planning services package uk destination wedding venue lodges, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering find kenya safari wedding planning services package uk destination wedding venue lodges, including what is included, pricing, and booking advice.'
 slug: find-kenya-safari-wedding-planning-services-package-uk-destination-wedding-venue-lodges
-primary_keyword: Find Kenya safari wedding planning services package UK destination wedding venue lodges
+primary_keyword: 'Find Kenya safari wedding planning services package UK destination wedding venue lodges'
 secondary_keywords:
-- Price 5 day Angama Mara fly-in package deal
-- Buy conservation donation included Kenya safari package
-- Affordable tour packages Kenya
-- Masai Mara safari companies from Nairobi
-- Watamu marine park snorkeling tours
+- 'Price 5 day Angama Mara fly-in package deal'
+- 'Buy conservation donation included Kenya safari package'
+- 'Affordable tour packages Kenya'
+- 'Masai Mara safari companies from Nairobi'
+- 'Watamu marine park snorkeling tours'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

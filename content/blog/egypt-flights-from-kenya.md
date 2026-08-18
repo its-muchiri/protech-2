@@ -1,14 +1,14 @@
 ---
 title: 'Egypt Flights from Kenya: Complete Guide'
-description: Everything you need to know about egypt flights from kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about egypt flights from kenya, including routes, airlines, booking tips, and fares.'
 slug: egypt-flights-from-kenya
-primary_keyword: egypt flights from kenya
+primary_keyword: 'egypt flights from kenya'
 secondary_keywords:
-- kq flights to seychelles
-- kq flights to new york
-- flight kq101
-- kq 257 flight status
-- kq flight 431
+- 'kq flights to seychelles'
+- 'kq flights to new york'
+- 'flight kq101'
+- 'kq 257 flight status'
+- 'kq flight 431'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to London Kenya Airways: Complete Guide'
-description: Everything you need to know about flights from nairobi to london kenya airways, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to london kenya airways, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-london-kenya-airways
-primary_keyword: flights from nairobi to london kenya airways
+primary_keyword: 'flights from nairobi to london kenya airways'
 secondary_keywords:
-- emirates flight from nairobi
-- flight from nairobi to germany
-- flight from nairobi to homa bay
-- how much is flight from nairobi to kampala
-- jambojet flight from nairobi to mombasa
+- 'emirates flight from nairobi'
+- 'flight from nairobi to germany'
+- 'flight from nairobi to homa bay'
+- 'how much is flight from nairobi to kampala'
+- 'jambojet flight from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

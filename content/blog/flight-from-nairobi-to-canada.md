@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Canada: Complete Guide'
-description: Everything you need to know about flight from nairobi to canada, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to canada, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-canada
-primary_keyword: flight from nairobi to canada
+primary_keyword: 'flight from nairobi to canada'
 secondary_keywords:
-- jambojet flights from nairobi to mombasa
-- flights from nairobi to london today
-- flights from nairobi to mumbai
-- flights from nairobi to nakuru
-- flights from nairobi to orlando
+- 'jambojet flights from nairobi to mombasa'
+- 'flights from nairobi to london today'
+- 'flights from nairobi to mumbai'
+- 'flights from nairobi to nakuru'
+- 'flights from nairobi to orlando'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

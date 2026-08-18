@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from Nairobi to Dubai: Complete Guide'
-description: Everything you need to know about kenya airways flight from nairobi to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from nairobi to dubai, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-nairobi-to-dubai
-primary_keyword: kenya airways flight from nairobi to dubai
+primary_keyword: 'kenya airways flight from nairobi to dubai'
 secondary_keywords:
-- flight from kenya to india time
-- flights from kenya to jhb
-- flight from kenya to hong kong
-- flights from kenya to lusaka
-- flights from kenya to maldives
+- 'flight from kenya to india time'
+- 'flights from kenya to jhb'
+- 'flight from kenya to hong kong'
+- 'flights from kenya to lusaka'
+- 'flights from kenya to maldives'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

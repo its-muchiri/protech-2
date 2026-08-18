@@ -1,14 +1,14 @@
 ---
 title: 'Guangzhou to Kenya Flight: Complete Guide'
-description: Everything you need to know about guangzhou to kenya flight, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about guangzhou to kenya flight, including routes, airlines, booking tips, and fares.'
 slug: guangzhou-to-kenya-flight
-primary_keyword: guangzhou to kenya flight
+primary_keyword: 'guangzhou to kenya flight'
 secondary_keywords:
-- emirates flights from dublin to dubai
-- flights from egypt to emirates
-- emirates flight information
-- emirates flights from heathrow to dubai
-- how many emirates flights from london to dubai a week
+- 'emirates flights from dublin to dubai'
+- 'flights from egypt to emirates'
+- 'emirates flight information'
+- 'emirates flights from heathrow to dubai'
+- 'how many emirates flights from london to dubai a week'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

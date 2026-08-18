@@ -1,14 +1,14 @@
 ---
 title: 'Does Turkish Airlines Fly to Toronto: Complete Guide'
-description: Everything you need to know about does turkish airlines fly to toronto, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about does turkish airlines fly to toronto, including routes, airlines, booking tips, and fares.'
 slug: does-turkish-airlines-fly-to-toronto
-primary_keyword: does turkish airlines fly to toronto
+primary_keyword: 'does turkish airlines fly to toronto'
 secondary_keywords:
-- emirates flights from heathrow terminal
-- emirates flights from iad today
-- emirates flights from johannesburg to delhi
-- flights from kuwait city to dubai united arab emirates
-- emirates flights from manchester
+- 'emirates flights from heathrow terminal'
+- 'emirates flights from iad today'
+- 'emirates flights from johannesburg to delhi'
+- 'flights from kuwait city to dubai united arab emirates'
+- 'emirates flights from manchester'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

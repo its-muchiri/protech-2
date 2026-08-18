@@ -1,14 +1,14 @@
 ---
 title: 'Destination Management Companies (DMCs) Kenya List: Complete Guide'
-description: Kenya safari guide covering destination management companies (dmcs) kenya list, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering destination management companies (dmcs) kenya list, including what is included, pricing, and booking advice.'
 slug: destination-management-companies-dmcs-kenya-list
-primary_keyword: Destination Management Companies (DMCs) Kenya list
+primary_keyword: 'Destination Management Companies (DMCs) Kenya list'
 secondary_keywords:
-- Kenya cultural immersion tour companies
-- Maasai village visit ethical tour operators
-- 5 day Kenya highlights tour operator
-- Kenya tour package discounts
-- Ol Donyo Sabuk day hike tour company Thika
+- 'Kenya cultural immersion tour companies'
+- 'Maasai village visit ethical tour operators'
+- '5 day Kenya highlights tour operator'
+- 'Kenya tour package discounts'
+- 'Ol Donyo Sabuk day hike tour company Thika'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

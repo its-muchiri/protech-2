@@ -1,14 +1,14 @@
 ---
 title: 'Flamingo Safari Lake Nakuru: Complete Guide'
-description: Kenya safari guide covering flamingo safari lake nakuru, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering flamingo safari lake nakuru, including what is included, pricing, and booking advice.'
 slug: flamingo-safari-lake-nakuru
-primary_keyword: Flamingo safari Lake Nakuru
+primary_keyword: 'Flamingo safari Lake Nakuru'
 secondary_keywords:
-- Cost of single supplement waived Kenya safari tour Europe solo traveler deals dates
-- Reserve Maasai Olympics event safari tour Kenya UK cultural experience dates booking
-- Find Kenya safari tour including Nairobi craft market shopping UK souvenir buying guide
-- Buy traditional dhow sailing trip Lamu safari add-on Kenya UK coastal culture experience price
-- Book Kenya safari
+- 'Cost of single supplement waived Kenya safari tour Europe solo traveler deals dates'
+- 'Reserve Maasai Olympics event safari tour Kenya UK cultural experience dates booking'
+- 'Find Kenya safari tour including Nairobi craft market shopping UK souvenir buying guide'
+- 'Buy traditional dhow sailing trip Lamu safari add-on Kenya UK coastal culture experience price'
+- 'Book Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

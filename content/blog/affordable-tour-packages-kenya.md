@@ -1,14 +1,14 @@
 ---
 title: 'Affordable Tour Packages Kenya: Complete Guide'
-description: Kenya safari guide covering affordable tour packages kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering affordable tour packages kenya, including what is included, pricing, and booking advice.'
 slug: affordable-tour-packages-kenya
-primary_keyword: Affordable tour packages Kenya
+primary_keyword: 'Affordable tour packages Kenya'
 secondary_keywords:
-- Cultural visit Maasai village Amboseli safari
-- Problems with Kenya safari booking
-- Safari Kenia (German/Spanish/etc.)
-- Safari vehicle types Kenya
-- Duty free allowances Kenya safari
+- 'Cultural visit Maasai village Amboseli safari'
+- 'Problems with Kenya safari booking'
+- 'Safari Kenia (German/Spanish/etc.)'
+- 'Safari vehicle types Kenya'
+- 'Duty free allowances Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

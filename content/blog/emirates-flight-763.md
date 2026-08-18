@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 763: Complete Guide'
-description: Everything you need to know about emirates flight 763, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 763, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-763
-primary_keyword: emirates flight 763
+primary_keyword: 'emirates flight 763'
 secondary_keywords:
-- flights from nairobi kenya to dallas texas
-- flights from nairobi to lilongwe malawi
-- flights from nairobi to malindi jambojet
-- flights from nairobi to nairobi
-- flights from or tambo to nairobi
+- 'flights from nairobi kenya to dallas texas'
+- 'flights from nairobi to lilongwe malawi'
+- 'flights from nairobi to malindi jambojet'
+- 'flights from nairobi to nairobi'
+- 'flights from or tambo to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

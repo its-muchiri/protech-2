@@ -1,14 +1,14 @@
 ---
 title: '540 Flight from Nairobi to Mombasa Today: Complete Guide'
-description: Everything you need to know about 540 flight from nairobi to mombasa today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about 540 flight from nairobi to mombasa today, including routes, airlines, booking tips, and fares.'
 slug: 540-flight-from-nairobi-to-mombasa-today
-primary_keyword: 540 flight from nairobi to mombasa today
+primary_keyword: '540 flight from nairobi to mombasa today'
 secondary_keywords:
-- emirates flights from riyadh to dubai today
-- emirates flights from sfo
-- emirates flights from uk
-- emirates flights from vietnam
-- emirates fly from which terminal
+- 'emirates flights from riyadh to dubai today'
+- 'emirates flights from sfo'
+- 'emirates flights from uk'
+- 'emirates flights from vietnam'
+- 'emirates fly from which terminal'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

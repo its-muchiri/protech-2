@@ -1,14 +1,14 @@
 ---
 title: 'Flight Tickets to Kenya from London: Complete Guide'
-description: Everything you need to know about flight tickets to kenya from london, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight tickets to kenya from london, including routes, airlines, booking tips, and fares.'
 slug: flight-tickets-to-kenya-from-london
-primary_keyword: flight tickets to kenya from london
+primary_keyword: 'flight tickets to kenya from london'
 secondary_keywords:
-- flights nairobi to heathrow today
-- indigo flights nairobi to mumbai
-- nairobi to johannesburg flights
-- kenya airways flights nairobi to london
-- flights nairobi to mogadishu
+- 'flights nairobi to heathrow today'
+- 'indigo flights nairobi to mumbai'
+- 'nairobi to johannesburg flights'
+- 'kenya airways flights nairobi to london'
+- 'flights nairobi to mogadishu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

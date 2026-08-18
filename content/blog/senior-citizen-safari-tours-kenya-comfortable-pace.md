@@ -1,14 +1,14 @@
 ---
 title: 'Senior Citizen Safari Tours Kenya Comfortable Pace: Complete Guide'
-description: Kenya safari guide covering senior citizen safari tours kenya comfortable pace, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering senior citizen safari tours kenya comfortable pace, including what is included, pricing, and booking advice.'
 slug: senior-citizen-safari-tours-kenya-comfortable-pace
-primary_keyword: Senior citizen safari tours Kenya comfortable pace
+primary_keyword: 'Senior citizen safari tours Kenya comfortable pace'
 secondary_keywords:
-- Weekend getaway safari deals from Nairobi
-- Kenya safari payment options Mpesa credit card
-- Safari companies with Nairobi city center office
-- Emergency evacuation plan Kenya tour operators
-- Solo female traveler safe group tour Kenya operator
+- 'Weekend getaway safari deals from Nairobi'
+- 'Kenya safari payment options Mpesa credit card'
+- 'Safari companies with Nairobi city center office'
+- 'Emergency evacuation plan Kenya tour operators'
+- 'Solo female traveler safe group tour Kenya operator'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

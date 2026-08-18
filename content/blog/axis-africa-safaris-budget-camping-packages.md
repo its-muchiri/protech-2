@@ -1,14 +1,14 @@
 ---
 title: 'Axis Africa Safaris Budget Camping Packages: Complete Guide'
-description: Kenya safari guide covering axis africa safaris budget camping packages, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering axis africa safaris budget camping packages, including what is included, pricing, and booking advice.'
 slug: axis-africa-safaris-budget-camping-packages
-primary_keyword: Axis Africa Safaris budget camping packages
+primary_keyword: 'Axis Africa Safaris budget camping packages'
 secondary_keywords:
-- Buy custom Kenya safari trip
-- Purchase Kenya multi-park circuit booking
-- Reserve 9 day migration special safari booking
-- Buy lodge safari package Kenya
-- Cost of Kenya safari tour
+- 'Buy custom Kenya safari trip'
+- 'Purchase Kenya multi-park circuit booking'
+- 'Reserve 9 day migration special safari booking'
+- 'Buy lodge safari package Kenya'
+- 'Cost of Kenya safari tour'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

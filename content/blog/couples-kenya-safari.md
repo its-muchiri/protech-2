@@ -1,14 +1,14 @@
 ---
 title: 'Couples Kenya Safari: Complete Guide'
-description: Kenya safari guide covering couples kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering couples kenya safari, including what is included, pricing, and booking advice.'
 slug: couples-kenya-safari
-primary_keyword: Couples Kenya safari
+primary_keyword: 'Couples Kenya safari'
 secondary_keywords:
-- Off-season safari deals Kenya companies
-- Tour company pick up from Thika
-- Vegan/vegetarian meal options safari companies Kenya
-- Ethical Maasai village tour operator near Mara
-- Student group educational tour operator Kenya
+- 'Off-season safari deals Kenya companies'
+- 'Tour company pick up from Thika'
+- 'Vegan/vegetarian meal options safari companies Kenya'
+- 'Ethical Maasai village tour operator near Mara'
+- 'Student group educational tour operator Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Budget Camping Safari Masai Mara Price List: Complete Guide'
-description: Kenya safari guide covering budget camping safari masai mara price list, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering budget camping safari masai mara price list, including what is included, pricing, and booking advice.'
 slug: budget-camping-safari-masai-mara-price-list
-primary_keyword: Budget camping safari Masai Mara price list
+primary_keyword: 'Budget camping safari Masai Mara price list'
 secondary_keywords:
-- Book 10 day package operator
-- Price for all-inclusive honeymoon package Kenya coast safari
-- Book 4 day Ol Pejeta chimpanzee safari package deal
-- Buy 5 day Amboseli Serena lodge package
-- Book 4 day Mount Kenya Safari Club package deal
+- 'Book 10 day package operator'
+- 'Price for all-inclusive honeymoon package Kenya coast safari'
+- 'Book 4 day Ol Pejeta chimpanzee safari package deal'
+- 'Buy 5 day Amboseli Serena lodge package'
+- 'Book 4 day Mount Kenya Safari Club package deal'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

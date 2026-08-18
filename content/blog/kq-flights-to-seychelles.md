@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Seychelles: Complete Guide'
-description: Everything you need to know about kq flights to seychelles, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to seychelles, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-seychelles
-primary_keyword: kq flights to seychelles
+primary_keyword: 'kq flights to seychelles'
 secondary_keywords:
-- qatar airways flight schedule nairobi
-- kq flight from cape town to nairobi today timetable
-- kq airline full form
-- kq flight from kinshasa to nairobi
-- kenya airways flights from usa to nairobi today
+- 'qatar airways flight schedule nairobi'
+- 'kq flight from cape town to nairobi today timetable'
+- 'kq airline full form'
+- 'kq flight from kinshasa to nairobi'
+- 'kenya airways flights from usa to nairobi today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

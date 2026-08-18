@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is a Flight from Nairobi to Qatar Today: Complete Guide'
-description: Everything you need to know about how much is a flight from nairobi to qatar today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is a flight from nairobi to qatar today, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-a-flight-from-nairobi-to-qatar-today
-primary_keyword: how much is a flight from nairobi to qatar today
+primary_keyword: 'how much is a flight from nairobi to qatar today'
 secondary_keywords:
-- cheap flights nairobi to malindi
-- flights nairobi to edinburgh
-- flights to nairobi from entebbe
-- google flights nairobi to toronto
-- flight nairobi to isiolo
+- 'cheap flights nairobi to malindi'
+- 'flights nairobi to edinburgh'
+- 'flights to nairobi from entebbe'
+- 'google flights nairobi to toronto'
+- 'flight nairobi to isiolo'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Google Flights Nairobi to London: Complete Guide'
-description: Everything you need to know about google flights nairobi to london, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about google flights nairobi to london, including routes, airlines, booking tips, and fares.'
 slug: google-flights-nairobi-to-london
-primary_keyword: google flights nairobi to london
+primary_keyword: 'google flights nairobi to london'
 secondary_keywords:
-- ethiopian airlines nairobi to johannesburg price
-- ethiopian airlines customer service nairobi
-- where does turkish airlines fly direct
-- flight ticket kenya to nigeria
-- flight ticket for kenya
+- 'ethiopian airlines nairobi to johannesburg price'
+- 'ethiopian airlines customer service nairobi'
+- 'where does turkish airlines fly direct'
+- 'flight ticket kenya to nigeria'
+- 'flight ticket for kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

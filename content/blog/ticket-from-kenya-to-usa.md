@@ -1,14 +1,14 @@
 ---
 title: 'Ticket from Kenya to Usa: Complete Guide'
-description: Everything you need to know about ticket from kenya to usa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ticket from kenya to usa, including routes, airlines, booking tips, and fares.'
 slug: ticket-from-kenya-to-usa
-primary_keyword: ticket from kenya to usa
+primary_keyword: 'ticket from kenya to usa'
 secondary_keywords:
-- emirates flight 512
-- emirates flight 66
-- emirates flight 805
-- qatar flight from nairobi to doha today
-- how long is a flight from nairobi to qatar
+- 'emirates flight 512'
+- 'emirates flight 66'
+- 'emirates flight 805'
+- 'qatar flight from nairobi to doha today'
+- 'how long is a flight from nairobi to qatar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

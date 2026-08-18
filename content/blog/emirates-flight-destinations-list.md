@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight Destinations List: Complete Guide'
-description: Everything you need to know about emirates flight destinations list, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight destinations list, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-destinations-list
-primary_keyword: emirates flight destinations list
+primary_keyword: 'emirates flight destinations list'
 secondary_keywords:
-- emirates flight 835
-- flight price from nairobi to qatar
-- qatar airways booking nairobi
-- does qatar airways fly to uae
-- qatar airways nairobi number
+- 'emirates flight 835'
+- 'flight price from nairobi to qatar'
+- 'qatar airways booking nairobi'
+- 'does qatar airways fly to uae'
+- 'qatar airways nairobi number'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

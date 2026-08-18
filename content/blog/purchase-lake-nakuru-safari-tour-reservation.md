@@ -1,14 +1,14 @@
 ---
 title: 'Purchase Lake Nakuru Safari Tour Reservation: Complete Guide'
-description: Kenya safari guide covering purchase lake nakuru safari tour reservation, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase lake nakuru safari tour reservation, including what is included, pricing, and booking advice.'
 slug: purchase-lake-nakuru-safari-tour-reservation
-primary_keyword: Purchase Lake Nakuru safari tour reservation
+primary_keyword: 'Purchase Lake Nakuru safari tour reservation'
 secondary_keywords:
-- Reserve Elsamere Conservation Centre visit Lake Naivasha safari UK Joy Adamson history booking
-- Kenya holiday safari
-- Safari Amboseli
-- Shimba Hills National Reserve safari
-- Kenya safari with kids
+- 'Reserve Elsamere Conservation Centre visit Lake Naivasha safari UK Joy Adamson history booking'
+- 'Kenya holiday safari'
+- 'Safari Amboseli'
+- 'Shimba Hills National Reserve safari'
+- 'Kenya safari with kids'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

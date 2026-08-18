@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Dry Season: Complete Guide'
-description: Kenya safari guide covering kenya safari dry season, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari dry season, including what is included, pricing, and booking advice.'
 slug: kenya-safari-dry-season
-primary_keyword: Kenya safari dry season
+primary_keyword: 'Kenya safari dry season'
 secondary_keywords:
-- Book Kenya conservation focused safari Ol Pejeta rhino tracking Europe donation included
-- Book Kenya safari including school visit community project UK responsible tourism options cost
-- Purchase luxury wellness retreat & safari combination Kenya USA spa treatments yoga included cost
-- Reserve Lake Victoria fishing safari Nile perch Kenya USA boat charter booking cost
-- Find luxury train safari Rovos Rail style Kenya (limited options) booking agent USA
+- 'Book Kenya conservation focused safari Ol Pejeta rhino tracking Europe donation included'
+- 'Book Kenya safari including school visit community project UK responsible tourism options cost'
+- 'Purchase luxury wellness retreat & safari combination Kenya USA spa treatments yoga included cost'
+- 'Reserve Lake Victoria fishing safari Nile perch Kenya USA boat charter booking cost'
+- 'Find luxury train safari Rovos Rail style Kenya (limited options) booking agent USA'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Kisumu to Nairobi Price: Complete Guide'
-description: Everything you need to know about kq flight from kisumu to nairobi price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from kisumu to nairobi price, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-kisumu-to-nairobi-price
-primary_keyword: kq flight from kisumu to nairobi price
+primary_keyword: 'kq flight from kisumu to nairobi price'
 secondary_keywords:
-- flights from kenya to europe
-- flights from edmonton to nairobi kenya
-- flights from kenya to greece
-- flights from kenya to heathrow today
-- kenya airways flights from heathrow to nairobi
+- 'flights from kenya to europe'
+- 'flights from edmonton to nairobi kenya'
+- 'flights from kenya to greece'
+- 'flights from kenya to heathrow today'
+- 'kenya airways flights from heathrow to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

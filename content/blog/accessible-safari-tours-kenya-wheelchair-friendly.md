@@ -1,14 +1,14 @@
 ---
 title: 'Accessible Safari Tours Kenya Wheelchair Friendly: Complete Guide'
-description: Kenya safari guide covering accessible safari tours kenya wheelchair friendly, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering accessible safari tours kenya wheelchair friendly, including what is included, pricing, and booking advice.'
 slug: accessible-safari-tours-kenya-wheelchair-friendly
-primary_keyword: Accessible safari tours Kenya wheelchair friendly
+primary_keyword: 'Accessible safari tours Kenya wheelchair friendly'
 secondary_keywords:
-- Reserve Ol Pejeta family package school holidays
-- Final check price 14 day Kenya discovery package tour
-- Quote for 10 day Cheli & Peacock premier safari package
-- Reserve 11 day Wilderness Safaris Bisate link Kenya package (linking concepts)
-- Secure accessible luxury safari package Kenya operator
+- 'Reserve Ol Pejeta family package school holidays'
+- 'Final check price 14 day Kenya discovery package tour'
+- 'Quote for 10 day Cheli & Peacock premier safari package'
+- 'Reserve 11 day Wilderness Safaris Bisate link Kenya package (linking concepts)'
+- 'Secure accessible luxury safari package Kenya operator'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

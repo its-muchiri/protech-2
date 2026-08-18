@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights Nairobi to Johannesburg: Complete Guide'
-description: Everything you need to know about cheap flights nairobi to johannesburg, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights nairobi to johannesburg, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-nairobi-to-johannesburg
-primary_keyword: cheap flights nairobi to johannesburg
+primary_keyword: 'cheap flights nairobi to johannesburg'
 secondary_keywords:
-- flight ticket from kenya to dubai
-- flight ticket to kenya from qatar
-- kenya ticket from nigeria
-- cheap flights in kenya
-- flights to kenya in august
+- 'flight ticket from kenya to dubai'
+- 'flight ticket to kenya from qatar'
+- 'kenya ticket from nigeria'
+- 'cheap flights in kenya'
+- 'flights to kenya in august'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

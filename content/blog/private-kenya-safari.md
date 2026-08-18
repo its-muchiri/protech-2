@@ -1,14 +1,14 @@
 ---
 title: 'Private Kenya Safari: Complete Guide'
-description: Kenya safari guide covering private kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering private kenya safari, including what is included, pricing, and booking advice.'
 slug: private-kenya-safari
-primary_keyword: Private Kenya safari
+primary_keyword: 'Private Kenya safari'
 secondary_keywords:
-- Secure all-inclusive luxury safari Kenya purchase
-- Kenya safari cost per person quote
-- 9 day migration special safari rates request
-- Cost quote 4 day Tsavo lodge safari package from Mombasa
-- Laikipia luxury safari deals online
+- 'Secure all-inclusive luxury safari Kenya purchase'
+- 'Kenya safari cost per person quote'
+- '9 day migration special safari rates request'
+- 'Cost quote 4 day Tsavo lodge safari package from Mombasa'
+- 'Laikipia luxury safari deals online'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

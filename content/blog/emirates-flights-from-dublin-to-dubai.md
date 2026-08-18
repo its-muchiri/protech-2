@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Dublin to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from dublin to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from dublin to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-dublin-to-dubai
-primary_keyword: emirates flights from dublin to dubai
+primary_keyword: 'emirates flights from dublin to dubai'
 secondary_keywords:
-- flights from accra ghana to nairobi kenya
-- kenya airways flights from harare to nairobi
-- flights from ireland to kenya
-- cheap flights to kenya from johannesburg
-- kenya airways flights from kisumu to nairobi
+- 'flights from accra ghana to nairobi kenya'
+- 'kenya airways flights from harare to nairobi'
+- 'flights from ireland to kenya'
+- 'cheap flights to kenya from johannesburg'
+- 'kenya airways flights from kisumu to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

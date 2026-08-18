@@ -1,14 +1,14 @@
 ---
 title: 'Yvr to Nairobi Flights: Complete Guide'
-description: Everything you need to know about yvr to nairobi flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about yvr to nairobi flights, including routes, airlines, booking tips, and fares.'
 slug: yvr-to-nairobi-flights
-primary_keyword: yvr to nairobi flights
+primary_keyword: 'yvr to nairobi flights'
 secondary_keywords:
-- zanzibar flight from nairobi
-- cost of flight from nairobi to kitale
-- 540 flight from nairobi to eldoret
-- 740 flight
-- turkish airlines nairobi office
+- 'zanzibar flight from nairobi'
+- 'cost of flight from nairobi to kitale'
+- '540 flight from nairobi to eldoret'
+- '740 flight'
+- 'turkish airlines nairobi office'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

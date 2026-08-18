@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight Addis to Nairobi: Complete Guide'
-description: Everything you need to know about kq flight addis to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight addis to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-addis-to-nairobi
-primary_keyword: kq flight addis to nairobi
+primary_keyword: 'kq flight addis to nairobi'
 secondary_keywords:
-- flight from nairobi to johannesburg
-- flight from nairobi kenya to madrid spain
-- last flight from nairobi to kisumu
-- mauritius flight from nairobi
-- flight from nairobi to columbus ohio
+- 'flight from nairobi to johannesburg'
+- 'flight from nairobi kenya to madrid spain'
+- 'last flight from nairobi to kisumu'
+- 'mauritius flight from nairobi'
+- 'flight from nairobi to columbus ohio'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

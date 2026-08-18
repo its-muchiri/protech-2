@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Melbourne to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from melbourne to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from melbourne to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-melbourne-to-dubai
-primary_keyword: emirates flights from melbourne to dubai
+primary_keyword: 'emirates flights from melbourne to dubai'
 secondary_keywords:
-- ethiopian airlines flights from addis ababa to nairobi price
-- ethiopian airlines cargo office nairobi
-- turkish airlines nairobi airport terminal
-- does turkish airlines fly to toronto
-- flight ticket from kenya to germany
+- 'ethiopian airlines flights from addis ababa to nairobi price'
+- 'ethiopian airlines cargo office nairobi'
+- 'turkish airlines nairobi airport terminal'
+- 'does turkish airlines fly to toronto'
+- 'flight ticket from kenya to germany'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

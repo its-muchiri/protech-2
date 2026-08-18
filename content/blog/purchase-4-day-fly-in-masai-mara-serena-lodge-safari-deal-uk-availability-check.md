@@ -1,14 +1,14 @@
 ---
 title: 'Purchase 4-day Fly-in Masai Mara Serena Lodge Safari Deal UK Availability Check: Complete Guide'
-description: Kenya safari guide covering purchase 4-day fly-in masai mara serena lodge safari deal uk availability check, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase 4-day fly-in masai mara serena lodge safari deal uk availability check, including what is included, pricing, and booking advice.'
 slug: purchase-4-day-fly-in-masai-mara-serena-lodge-safari-deal-uk-availability-check
-primary_keyword: Purchase 4-day fly-in Masai Mara Serena Lodge safari deal UK availability check
+primary_keyword: 'Purchase 4-day fly-in Masai Mara Serena Lodge safari deal UK availability check'
 secondary_keywords:
-- Kenya safari price per day
-- Tsavo lodges
-- Birding tours Kenya
-- Rhino safari Kenya
-- Safari starting Nairobi
+- 'Kenya safari price per day'
+- 'Tsavo lodges'
+- 'Birding tours Kenya'
+- 'Rhino safari Kenya'
+- 'Safari starting Nairobi'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

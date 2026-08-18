@@ -1,14 +1,14 @@
 ---
 title: 'What Is Turkish Airlines Pnr: Complete Guide'
-description: Everything you need to know about what is turkish airlines pnr, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about what is turkish airlines pnr, including routes, airlines, booking tips, and fares.'
 slug: what-is-turkish-airlines-pnr
-primary_keyword: what is turkish airlines pnr
+primary_keyword: 'what is turkish airlines pnr'
 secondary_keywords:
-- emirates flight 762
-- emirates flight 954
-- qatar airways nairobi airport terminal
-- qatar airways nairobi contact
-- qatar airways doha to nairobi flight status
+- 'emirates flight 762'
+- 'emirates flight 954'
+- 'qatar airways nairobi airport terminal'
+- 'qatar airways nairobi contact'
+- 'qatar airways doha to nairobi flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

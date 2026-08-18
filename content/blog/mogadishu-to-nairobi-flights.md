@@ -1,14 +1,14 @@
 ---
 title: 'Mogadishu to Nairobi Flights: Complete Guide'
-description: Everything you need to know about mogadishu to nairobi flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about mogadishu to nairobi flights, including routes, airlines, booking tips, and fares.'
 slug: mogadishu-to-nairobi-flights
-primary_keyword: mogadishu to nairobi flights
+primary_keyword: 'mogadishu to nairobi flights'
 secondary_keywords:
-- flight time from nairobi to ghana
-- how much is a flight from nairobi to dubai
-- flight from nairobi to johannesburg today
-- flight from nairobi to lusaka
-- flight from nairobi to mombasa jambojet
+- 'flight time from nairobi to ghana'
+- 'how much is a flight from nairobi to dubai'
+- 'flight from nairobi to johannesburg today'
+- 'flight from nairobi to lusaka'
+- 'flight from nairobi to mombasa jambojet'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

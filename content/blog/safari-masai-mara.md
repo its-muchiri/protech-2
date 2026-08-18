@@ -1,14 +1,14 @@
 ---
 title: 'Safari Masai Mara: Complete Guide'
-description: Kenya safari guide covering safari masai mara, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering safari masai mara, including what is included, pricing, and booking advice.'
 slug: safari-masai-mara
-primary_keyword: Safari Masai Mara
+primary_keyword: 'Safari Masai Mara'
 secondary_keywords:
-- Top rated family safari packages Kenya review buy
-- Early bird booking Kenya safari  discount quote
-- Quote 10 day best value family safari Kenya itinerary park fees included
-- List of KATO registered tour operators Kenya
-- Small group tour operators Kenya
+- 'Top rated family safari packages Kenya review buy'
+- 'Early bird booking Kenya safari  discount quote'
+- 'Quote 10 day best value family safari Kenya itinerary park fees included'
+- 'List of KATO registered tour operators Kenya'
+- 'Small group tour operators Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

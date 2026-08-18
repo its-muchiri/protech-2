@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Cargo Nairobi: Complete Guide'
-description: Everything you need to know about ethiopian airlines cargo nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines cargo nairobi, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-cargo-nairobi
-primary_keyword: ethiopian airlines cargo nairobi
+primary_keyword: 'ethiopian airlines cargo nairobi'
 secondary_keywords:
-- emirates flights from beirut
-- cheapest emirates flights from dubai
-- emirates flights from edinburgh
-- emirates flights first class
-- emirates flights from gatwick terminal
+- 'emirates flights from beirut'
+- 'cheapest emirates flights from dubai'
+- 'emirates flights from edinburgh'
+- 'emirates flights first class'
+- 'emirates flights from gatwick terminal'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

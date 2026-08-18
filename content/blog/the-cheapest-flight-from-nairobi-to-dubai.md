@@ -1,14 +1,14 @@
 ---
 title: 'The Cheapest Flight from Nairobi to Dubai: Complete Guide'
-description: Everything you need to know about the cheapest flight from nairobi to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about the cheapest flight from nairobi to dubai, including routes, airlines, booking tips, and fares.'
 slug: the-cheapest-flight-from-nairobi-to-dubai
-primary_keyword: the cheapest flight from nairobi to dubai
+primary_keyword: 'the cheapest flight from nairobi to dubai'
 secondary_keywords:
-- flight from nairobi
-- flight from nairobi to addis ababa time
-- flight from nairobi to boston
-- flight from nairobi to china
-- flight from nairobi to diani
+- 'flight from nairobi'
+- 'flight from nairobi to addis ababa time'
+- 'flight from nairobi to boston'
+- 'flight from nairobi to china'
+- 'flight from nairobi to diani'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

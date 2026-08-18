@@ -1,14 +1,14 @@
 ---
 title: 'What Destinations Do Emirates Fly to: Complete Guide'
-description: Everything you need to know about what destinations do emirates fly to, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about what destinations do emirates fly to, including routes, airlines, booking tips, and fares.'
 slug: what-destinations-do-emirates-fly-to
-primary_keyword: what destinations do emirates fly to
+primary_keyword: 'what destinations do emirates fly to'
 secondary_keywords:
-- flight time nairobi to india
-- jambojet flights nairobi to kisumu
-- kenya airways flights nairobi to lamu
-- flights nairobi to melbourne
-- flights nairobi to new delhi
+- 'flight time nairobi to india'
+- 'jambojet flights nairobi to kisumu'
+- 'kenya airways flights nairobi to lamu'
+- 'flights nairobi to melbourne'
+- 'flights nairobi to new delhi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

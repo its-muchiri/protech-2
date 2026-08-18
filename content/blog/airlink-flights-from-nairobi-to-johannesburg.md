@@ -1,14 +1,14 @@
 ---
 title: 'Airlink Flights from Nairobi to Johannesburg: Complete Guide'
-description: Everything you need to know about airlink flights from nairobi to johannesburg, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about airlink flights from nairobi to johannesburg, including routes, airlines, booking tips, and fares.'
 slug: airlink-flights-from-nairobi-to-johannesburg
-primary_keyword: airlink flights from nairobi to johannesburg
+primary_keyword: 'airlink flights from nairobi to johannesburg'
 secondary_keywords:
-- are there direct flights from mombasa to zanzibar
-- does british airways fly to bangladesh
-- cheap flights from mombasa to mumbai
-- flights from eldoret to mombasa
-- flights geneva mombasa
+- 'are there direct flights from mombasa to zanzibar'
+- 'does british airways fly to bangladesh'
+- 'cheap flights from mombasa to mumbai'
+- 'flights from eldoret to mombasa'
+- 'flights geneva mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

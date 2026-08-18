@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Cape Town: Complete Guide'
-description: Everything you need to know about flights nairobi to cape town, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to cape town, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-cape-town
-primary_keyword: flights nairobi to cape town
+primary_keyword: 'flights nairobi to cape town'
 secondary_keywords:
-- flights from nairobi to amsterdam today
-- flights from nairobi to boston
-- flights from nairobi to cape town
-- cheap flights from nairobi to usa
-- flights from nairobi to entebbe today
+- 'flights from nairobi to amsterdam today'
+- 'flights from nairobi to boston'
+- 'flights from nairobi to cape town'
+- 'cheap flights from nairobi to usa'
+- 'flights from nairobi to entebbe today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Cultural Safari Tours Kenya Booking Europe Maasai Village: Complete Guide'
-description: Kenya safari guide covering cultural safari tours kenya booking europe maasai village, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering cultural safari tours kenya booking europe maasai village, including what is included, pricing, and booking advice.'
 slug: cultural-safari-tours-kenya-booking-europe-maasai-village
-primary_keyword: Cultural safari tours Kenya booking Europe Maasai village
+primary_keyword: 'Cultural safari tours Kenya booking Europe Maasai village'
 secondary_keywords:
-- Nairobi city tour including KICC viewpoint price
-- Kobo Safaris DMC Kenya services
-- Fly-in safari cost vs driving safari Kenya time saving
-- KATO certified tour operators benefits code of conduct
-- Horse riding safari Kenya Chyulu Hills / Laikipia ranches
+- 'Nairobi city tour including KICC viewpoint price'
+- 'Kobo Safaris DMC Kenya services'
+- 'Fly-in safari cost vs driving safari Kenya time saving'
+- 'KATO certified tour operators benefits code of conduct'
+- 'Horse riding safari Kenya Chyulu Hills / Laikipia ranches'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

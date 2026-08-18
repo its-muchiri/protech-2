@@ -1,14 +1,14 @@
 ---
 title: 'Crescent Island Naivasha Walking Tour: Complete Guide'
-description: Kenya safari guide covering crescent island naivasha walking tour, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering crescent island naivasha walking tour, including what is included, pricing, and booking advice.'
 slug: crescent-island-naivasha-walking-tour
-primary_keyword: Crescent Island Naivasha walking tour
+primary_keyword: 'Crescent Island Naivasha walking tour'
 secondary_keywords:
-- Book Kenya safari with horse riding Chyulu Hills package UK experienced riders only lodge booking
-- Buy Kenya safari filming permit assistance and logistics support UK production company rates
-- Reserve Nairobi Railway Museum visit safari add-on UK history transport enthusiasts booking
-- Best Kenya safari
-- Lake Nakuru safari
+- 'Book Kenya safari with horse riding Chyulu Hills package UK experienced riders only lodge booking'
+- 'Buy Kenya safari filming permit assistance and logistics support UK production company rates'
+- 'Reserve Nairobi Railway Museum visit safari add-on UK history transport enthusiasts booking'
+- 'Best Kenya safari'
+- 'Lake Nakuru safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Jamaica: Complete Guide'
-description: Everything you need to know about flights from kenya to jamaica, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to jamaica, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-jamaica
-primary_keyword: flights from kenya to jamaica
+primary_keyword: 'flights from kenya to jamaica'
 secondary_keywords:
-- flights from frankfurt to kenya
-- germany flights from kenya
-- flight from kenya to hungary price
-- flights from nigeria to kenya is how much
-- flight from kenya to jeddah
+- 'flights from frankfurt to kenya'
+- 'germany flights from kenya'
+- 'flight from kenya to hungary price'
+- 'flights from nigeria to kenya is how much'
+- 'flight from kenya to jeddah'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

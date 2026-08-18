@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Zimbabwe: Complete Guide'
-description: Everything you need to know about flights from kenya to zimbabwe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to zimbabwe, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-zimbabwe
-primary_keyword: flights from kenya to zimbabwe
+primary_keyword: 'flights from kenya to zimbabwe'
 secondary_keywords:
-- flights from nairobi to manchester uk
-- flights from nairobi to ndola
-- flights from nairobi to ontario
-- flights from nairobi to mombasa prices
-- flights from nairobi to rabat
+- 'flights from nairobi to manchester uk'
+- 'flights from nairobi to ndola'
+- 'flights from nairobi to ontario'
+- 'flights from nairobi to mombasa prices'
+- 'flights from nairobi to rabat'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

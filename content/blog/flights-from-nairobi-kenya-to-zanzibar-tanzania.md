@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi Kenya to Zanzibar Tanzania: Complete Guide'
-description: Everything you need to know about flights from nairobi kenya to zanzibar tanzania, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi kenya to zanzibar tanzania, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-kenya-to-zanzibar-tanzania
-primary_keyword: flights from nairobi kenya to zanzibar tanzania
+primary_keyword: 'flights from nairobi kenya to zanzibar tanzania'
 secondary_keywords:
-- flight from mombasa to eldoret price
-- flights from mombasa to gatwick london
-- flights from london heathrow to mombasa kenya
-- flights from nairobi to mombasa jambojet
-- flights from mombasa to kilimanjaro
+- 'flight from mombasa to eldoret price'
+- 'flights from mombasa to gatwick london'
+- 'flights from london heathrow to mombasa kenya'
+- 'flights from nairobi to mombasa jambojet'
+- 'flights from mombasa to kilimanjaro'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

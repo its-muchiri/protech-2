@@ -1,14 +1,14 @@
 ---
 title: 'Flight Booking Agents in Kenya: Complete Guide'
-description: Everything you need to know about flight booking agents in kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight booking agents in kenya, including routes, airlines, booking tips, and fares.'
 slug: flight-booking-agents-in-kenya
-primary_keyword: flight booking agents in kenya
+primary_keyword: 'flight booking agents in kenya'
 secondary_keywords:
-- flight ticket for kenya
-- how much is a round trip ticket to kenya
-- kenya airways book with miles
-- who flies to kenya
-- does ba fly to nairobi
+- 'flight ticket for kenya'
+- 'how much is a round trip ticket to kenya'
+- 'kenya airways book with miles'
+- 'who flies to kenya'
+- 'does ba fly to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

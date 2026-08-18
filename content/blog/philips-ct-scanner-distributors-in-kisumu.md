@@ -1,14 +1,14 @@
 ---
 title: 'Philips CT Scanner Distributors in Kisumu: 2026 Price Guide'
-description: Kenya buying guide to philips ct scanner distributors in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to philips ct scanner distributors in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: philips-ct-scanner-distributors-in-kisumu
-primary_keyword: Philips CT scanner distributors in Kisumu
+primary_keyword: 'Philips CT scanner distributors in Kisumu'
 secondary_keywords:
-- portable autoclave Kenya
-- medical scales Kenya price
-- CPAP machines Kenya price
-- pipettes Kenya price
-- orthotic devices Kenya
+- 'portable autoclave Kenya'
+- 'medical scales Kenya price'
+- 'CPAP machines Kenya price'
+- 'pipettes Kenya price'
+- 'orthotic devices Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Combination & Long-Tail Keywords (Examples): Complete Guide'
-description: Kenya safari guide covering combination & long-tail keywords (examples), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering combination & long-tail keywords (examples), including what is included, pricing, and booking advice.'
 slug: combination-and-long-tail-keywords-examples
-primary_keyword: Combination & Long-Tail Keywords (Examples)
+primary_keyword: 'Combination & Long-Tail Keywords (Examples)'
 secondary_keywords:
-- Tour company booking SGR tickets Nairobi Mombasa
-- Luxury family fly-in safari Laikipia Ol Pejeta combo
-- Tour company offering airport pickup JKIA direct to Mara
-- Book African safari package Kenya
-- Secure Aberdares treetop lodge package
+- 'Tour company booking SGR tickets Nairobi Mombasa'
+- 'Luxury family fly-in safari Laikipia Ol Pejeta combo'
+- 'Tour company offering airport pickup JKIA direct to Mara'
+- 'Book African safari package Kenya'
+- 'Secure Aberdares treetop lodge package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from Dubai to Nairobi Price: Complete Guide'
-description: Everything you need to know about kq flights from dubai to nairobi price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from dubai to nairobi price, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-dubai-to-nairobi-price
-primary_keyword: kq flights from dubai to nairobi price
+primary_keyword: 'kq flights from dubai to nairobi price'
 secondary_keywords:
-- flights mombasa kenya to cairo egypt
-- flights paris kenya
-- is kenya airport open now
-- does united airlines fly to kenya
-- flights to zimbabwe from nairobi
+- 'flights mombasa kenya to cairo egypt'
+- 'flights paris kenya'
+- 'is kenya airport open now'
+- 'does united airlines fly to kenya'
+- 'flights to zimbabwe from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

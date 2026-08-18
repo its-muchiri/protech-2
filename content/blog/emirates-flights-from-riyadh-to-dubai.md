@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Riyadh to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from riyadh to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from riyadh to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-riyadh-to-dubai
-primary_keyword: emirates flights from riyadh to dubai
+primary_keyword: 'emirates flights from riyadh to dubai'
 secondary_keywords:
-- kenya airways flight from new york to nairobi today
-- flight from nairobi
-- flight from nairobi to addis ababa time
-- flight from nairobi to boston
-- flight from nairobi to china
+- 'kenya airways flight from new york to nairobi today'
+- 'flight from nairobi'
+- 'flight from nairobi to addis ababa time'
+- 'flight from nairobi to boston'
+- 'flight from nairobi to china'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

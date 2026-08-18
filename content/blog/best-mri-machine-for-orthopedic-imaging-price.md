@@ -1,14 +1,14 @@
 ---
 title: 'Best MRI Machine for Orthopedic Imaging Price: 2026 Price Guide'
-description: Kenya buying guide to best mri machine for orthopedic imaging price. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to best mri machine for orthopedic imaging price. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: best-mri-machine-for-orthopedic-imaging-price
-primary_keyword: Best MRI machine for orthopedic imaging price
+primary_keyword: 'Best MRI machine for orthopedic imaging price'
 secondary_keywords:
-- vaccine fridge Kenya
-- IV stands Kenya price
-- surgical lights Kenya
-- laminar flow cabinets Kenya
-- oxygen cylinders Kenya refill
+- 'vaccine fridge Kenya'
+- 'IV stands Kenya price'
+- 'surgical lights Kenya'
+- 'laminar flow cabinets Kenya'
+- 'oxygen cylinders Kenya refill'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

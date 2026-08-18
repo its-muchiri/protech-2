@@ -1,14 +1,14 @@
 ---
 title: 'Hyderabad to Nairobi Flights: Complete Guide'
-description: Everything you need to know about hyderabad to nairobi flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about hyderabad to nairobi flights, including routes, airlines, booking tips, and fares.'
 slug: hyderabad-to-nairobi-flights
-primary_keyword: hyderabad to nairobi flights
+primary_keyword: 'hyderabad to nairobi flights'
 secondary_keywords:
-- kq 352 flight status
-- kq flight from nairobi to cape town
-- kenya airways flight from nairobi to entebbe
-- kq flight from nairobi to jfk
-- kq flight from nairobi to mumbai
+- 'kq 352 flight status'
+- 'kq flight from nairobi to cape town'
+- 'kenya airways flight from nairobi to entebbe'
+- 'kq flight from nairobi to jfk'
+- 'kq flight from nairobi to mumbai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

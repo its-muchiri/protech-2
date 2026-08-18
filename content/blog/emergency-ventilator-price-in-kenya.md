@@ -1,14 +1,14 @@
 ---
 title: 'Emergency Ventilator Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to emergency ventilator price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to emergency ventilator price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: emergency-ventilator-price-in-kenya
-primary_keyword: Emergency ventilator price in Kenya
+primary_keyword: 'Emergency ventilator price in Kenya'
 secondary_keywords:
-- NHIF medical equipment benefits Kenya
-- public hospital equipment Kenya
-- hospital bed sales Kenya
-- 64-slice refurbished CT scanner cost in Kenya
-- Sonoscape portable ultrasound for sale in Eldoret
+- 'NHIF medical equipment benefits Kenya'
+- 'public hospital equipment Kenya'
+- 'hospital bed sales Kenya'
+- '64-slice refurbished CT scanner cost in Kenya'
+- 'Sonoscape portable ultrasound for sale in Eldoret'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

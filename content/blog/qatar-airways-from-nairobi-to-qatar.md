@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways from Nairobi to Qatar: Complete Guide'
-description: Everything you need to know about qatar airways from nairobi to qatar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways from nairobi to qatar, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-from-nairobi-to-qatar
-primary_keyword: qatar airways from nairobi to qatar
+primary_keyword: 'qatar airways from nairobi to qatar'
 secondary_keywords:
-- indigo flights from nairobi to mumbai
-- jambojet flights from nairobi to ukunda
-- kq flights from nairobi to zanzibar
-- flight from nairobi mombasa
-- flights from nairobi to nanyuki
+- 'indigo flights from nairobi to mumbai'
+- 'jambojet flights from nairobi to ukunda'
+- 'kq flights from nairobi to zanzibar'
+- 'flight from nairobi mombasa'
+- 'flights from nairobi to nanyuki'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

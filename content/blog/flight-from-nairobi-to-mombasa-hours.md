@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Mombasa Hours: Complete Guide'
-description: Everything you need to know about flight from nairobi to mombasa hours, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to mombasa hours, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-mombasa-hours
-primary_keyword: flight from nairobi to mombasa hours
+primary_keyword: 'flight from nairobi to mombasa hours'
 secondary_keywords:
-- cheapest flights from mombasa to eldoret
-- kq flights from mombasa to eldoret
-- flights to mombasa from gatwick
-- flights from mombasa to italy
-- jambojet flights from mombasa to kisumu
+- 'cheapest flights from mombasa to eldoret'
+- 'kq flights from mombasa to eldoret'
+- 'flights to mombasa from gatwick'
+- 'flights from mombasa to italy'
+- 'jambojet flights from mombasa to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

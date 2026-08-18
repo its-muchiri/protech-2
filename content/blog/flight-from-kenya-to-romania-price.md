@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kenya to Romania Price: Complete Guide'
-description: Everything you need to know about flight from kenya to romania price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kenya to romania price, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kenya-to-romania-price
-primary_keyword: flight from kenya to romania price
+primary_keyword: 'flight from kenya to romania price'
 secondary_keywords:
-- kq flight from nairobi to juba
-- kq direct flight from nairobi to new york
-- kenya airways flight from nairobi to heathrow today
-- kenya airways flight from nairobi to london
-- one way flight from nairobi to kisumu
+- 'kq flight from nairobi to juba'
+- 'kq direct flight from nairobi to new york'
+- 'kenya airways flight from nairobi to heathrow today'
+- 'kenya airways flight from nairobi to london'
+- 'one way flight from nairobi to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

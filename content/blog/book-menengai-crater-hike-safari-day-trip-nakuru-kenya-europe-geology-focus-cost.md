@@ -1,14 +1,14 @@
 ---
 title: 'Book Menengai Crater Hike Safari Day Trip Nakuru Kenya Europe Geology Focus Cost: Complete Guide'
-description: Kenya safari guide covering book menengai crater hike safari day trip nakuru kenya europe geology focus cost, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book menengai crater hike safari day trip nakuru kenya europe geology focus cost, including what is included, pricing, and booking advice.'
 slug: book-menengai-crater-hike-safari-day-trip-nakuru-kenya-europe-geology-focus-cost
-primary_keyword: Book Menengai Crater hike safari day trip Nakuru Kenya Europe geology focus cost
+primary_keyword: 'Book Menengai Crater hike safari day trip Nakuru Kenya Europe geology focus cost'
 secondary_keywords:
-- Compare Kenya safari package prices USA operators
-- Kenya bird watching safari tours USA specialist booking
-- Book Masai Mara safari online UK migration season
-- Lake Naivasha boat safari booking Hell''s Gate tour USA
-- European travel agency Kenya safari booking reliable
+- 'Compare Kenya safari package prices USA operators'
+- 'Kenya bird watching safari tours USA specialist booking'
+- 'Book Masai Mara safari online UK migration season'
+- 'Lake Naivasha boat safari booking Hell''''s Gate tour USA'
+- 'European travel agency Kenya safari booking reliable'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

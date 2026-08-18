@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Guangzhou: Complete Guide'
-description: Everything you need to know about kq flights to guangzhou, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to guangzhou, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-guangzhou
-primary_keyword: kq flights to guangzhou
+primary_keyword: 'kq flights to guangzhou'
 secondary_keywords:
-- cost of flight from nairobi to dubai
-- turkish airlines flight from nairobi to istanbul price
-- return flight from nairobi to kisumu price
-- the cheapest flight from nairobi to mombasa
-- flight from nairobi to uk price
+- 'cost of flight from nairobi to dubai'
+- 'turkish airlines flight from nairobi to istanbul price'
+- 'return flight from nairobi to kisumu price'
+- 'the cheapest flight from nairobi to mombasa'
+- 'flight from nairobi to uk price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

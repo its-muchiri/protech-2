@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Nairobi 2025: Complete Guide'
-description: Everything you need to know about flights to nairobi 2025, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to nairobi 2025, including routes, airlines, booking tips, and fares.'
 slug: flights-to-nairobi-2025
-primary_keyword: flights to nairobi 2025
+primary_keyword: 'flights to nairobi 2025'
 secondary_keywords:
-- kq flight from guangzhou to nairobi
-- kq flights to india
-- kq flights nairobi to juba price
-- kq flights from london to nairobi
-- kq flights nairobi to entebbe
+- 'kq flight from guangzhou to nairobi'
+- 'kq flights to india'
+- 'kq flights nairobi to juba price'
+- 'kq flights from london to nairobi'
+- 'kq flights nairobi to entebbe'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

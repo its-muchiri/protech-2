@@ -1,14 +1,14 @@
 ---
 title: 'Mount Kilimanjaro Climbing Tours from Kenya Operators: Complete Guide'
-description: Kenya safari guide covering mount kilimanjaro climbing tours from kenya operators, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering mount kilimanjaro climbing tours from kenya operators, including what is included, pricing, and booking advice.'
 slug: mount-kilimanjaro-climbing-tours-from-kenya-operators
-primary_keyword: Mount Kilimanjaro climbing tours from Kenya operators
+primary_keyword: 'Mount Kilimanjaro climbing tours from Kenya operators'
 secondary_keywords:
-- Fly fishing Mount Kenya safari
-- Kenya safari map
-- Impact of climate change Kenya safari
-- Amboseli tour package booking
-- Get custom Kenya safari package quote
+- 'Fly fishing Mount Kenya safari'
+- 'Kenya safari map'
+- 'Impact of climate change Kenya safari'
+- 'Amboseli tour package booking'
+- 'Get custom Kenya safari package quote'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

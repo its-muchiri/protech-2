@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Baku: Complete Guide'
-description: Everything you need to know about flights nairobi to baku, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to baku, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-baku
-primary_keyword: flights nairobi to baku
+primary_keyword: 'flights nairobi to baku'
 secondary_keywords:
-- emirates flights from newcastle 2023
-- emirates flight 333
-- emirates flight 412
-- emirates flight 513
-- emirates flight 789
+- 'emirates flights from newcastle 2023'
+- 'emirates flight 333'
+- 'emirates flight 412'
+- 'emirates flight 513'
+- 'emirates flight 789'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

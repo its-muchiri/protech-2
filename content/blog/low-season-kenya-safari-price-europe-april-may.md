@@ -1,14 +1,14 @@
 ---
 title: 'Low Season Kenya Safari Price Europe (April/May): Complete Guide'
-description: Kenya safari guide covering low season kenya safari price europe (april/may), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering low season kenya safari price europe (april/may), including what is included, pricing, and booking advice.'
 slug: low-season-kenya-safari-price-europe-april-may
-primary_keyword: Low season Kenya safari price Europe (April/May)
+primary_keyword: 'Low season Kenya safari price Europe (April/May)'
 secondary_keywords:
-- Cross border safari Kenya and Tanzania Serengeti / Ngorongoro combined tour operators
-- Purchase fly-in safari Kenya Masai Mara online USA
-- Affordable Kenya safari packages USA budget friendly
-- Special offers Kenya safari tours online
-- Kenya adventure safari packages cost UK (hiking, biking)
+- 'Cross border safari Kenya and Tanzania Serengeti / Ngorongoro combined tour operators'
+- 'Purchase fly-in safari Kenya Masai Mara online USA'
+- 'Affordable Kenya safari packages USA budget friendly'
+- 'Special offers Kenya safari tours online'
+- 'Kenya adventure safari packages cost UK (hiking, biking)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

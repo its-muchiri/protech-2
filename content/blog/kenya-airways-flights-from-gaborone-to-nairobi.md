@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights from Gaborone to Nairobi: Complete Guide'
-description: Everything you need to know about kenya airways flights from gaborone to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights from gaborone to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-from-gaborone-to-nairobi
-primary_keyword: kenya airways flights from gaborone to nairobi
+primary_keyword: 'kenya airways flights from gaborone to nairobi'
 secondary_keywords:
-- flight from kenya to germany price
-- flights from kenya to hungary
-- flights from kenya to istanbul
-- flights from kenya to japan
-- flights from kenya to kuwait
+- 'flight from kenya to germany price'
+- 'flights from kenya to hungary'
+- 'flights from kenya to istanbul'
+- 'flights from kenya to japan'
+- 'flights from kenya to kuwait'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

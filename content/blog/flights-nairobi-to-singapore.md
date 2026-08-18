@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Singapore: Complete Guide'
-description: Everything you need to know about flights nairobi to singapore, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to singapore, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-singapore
-primary_keyword: flights nairobi to singapore
+primary_keyword: 'flights nairobi to singapore'
 secondary_keywords:
-- flights from rwanda to kenya today
-- flights to kenya from sfo
-- flights from kenya to victoria falls
-- flight from kenya to washington dc
-- flights from nbo to yto
+- 'flights from rwanda to kenya today'
+- 'flights to kenya from sfo'
+- 'flights from kenya to victoria falls'
+- 'flight from kenya to washington dc'
+- 'flights from nbo to yto'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

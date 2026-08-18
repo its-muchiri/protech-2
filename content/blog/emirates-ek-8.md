@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Ek 8: Complete Guide'
-description: Everything you need to know about emirates ek 8, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates ek 8, including routes, airlines, booking tips, and fares.'
 slug: emirates-ek-8
-primary_keyword: emirates ek 8
+primary_keyword: 'emirates ek 8'
 secondary_keywords:
-- flights from nairobi to dubai today
-- flights from nairobi to ethiopia
-- airlines that fly to nairobi
-- google flights from nairobi
-- flights from heathrow to nairobi
+- 'flights from nairobi to dubai today'
+- 'flights from nairobi to ethiopia'
+- 'airlines that fly to nairobi'
+- 'google flights from nairobi'
+- 'flights from heathrow to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

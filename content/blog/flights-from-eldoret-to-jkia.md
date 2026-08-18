@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Eldoret to Jkia: Complete Guide'
-description: Everything you need to know about flights from eldoret to jkia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from eldoret to jkia, including routes, airlines, booking tips, and fares.'
 slug: flights-from-eldoret-to-jkia
-primary_keyword: flights from eldoret to jkia
+primary_keyword: 'flights from eldoret to jkia'
 secondary_keywords:
-- emirates flight status contact number
-- emirates flights from south africa to india ticket price
-- emirates flights from tehran today
-- emirates flights from vienna to dubai
-- emirates flights from which terminal in dubai
+- 'emirates flight status contact number'
+- 'emirates flights from south africa to india ticket price'
+- 'emirates flights from tehran today'
+- 'emirates flights from vienna to dubai'
+- 'emirates flights from which terminal in dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

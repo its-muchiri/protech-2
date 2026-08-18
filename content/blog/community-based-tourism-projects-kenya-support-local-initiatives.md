@@ -1,14 +1,14 @@
 ---
 title: 'Community Based Tourism Projects Kenya Support Local Initiatives: Complete Guide'
-description: Kenya safari guide covering community based tourism projects kenya support local initiatives, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering community based tourism projects kenya support local initiatives, including what is included, pricing, and booking advice.'
 slug: community-based-tourism-projects-kenya-support-local-initiatives
-primary_keyword: Community based tourism projects Kenya support local initiatives
+primary_keyword: 'Community based tourism projects Kenya support local initiatives'
 secondary_keywords:
-- Kenya photographic safari tours specialized guides / vehicles
-- Kenya safari and beach combined tours Masai Mara and Diani
-- Best hiking trails near Thika / Kiambu Karura Forest / Kereita Forest Ziplining
-- Hell''s Gate National Park day trip cycling / hiking tour price
-- Go Kenya Tours and Safaris packages
+- 'Kenya photographic safari tours specialized guides / vehicles'
+- 'Kenya safari and beach combined tours Masai Mara and Diani'
+- 'Best hiking trails near Thika / Kiambu Karura Forest / Kereita Forest Ziplining'
+- 'Hell''''s Gate National Park day trip cycling / hiking tour price'
+- 'Go Kenya Tours and Safaris packages'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

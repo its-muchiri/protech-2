@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nbo to Yyc: Complete Guide'
-description: Everything you need to know about flights from nbo to yyc, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nbo to yyc, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nbo-to-yyc
-primary_keyword: flights from nbo to yyc
+primary_keyword: 'flights from nbo to yyc'
 secondary_keywords:
-- emirates flights 201
-- emirates flight 369
-- emirates flight from dubai to nairobi
-- emirates flight 6
-- emirates flight 823
+- 'emirates flights 201'
+- 'emirates flight 369'
+- 'emirates flight from dubai to nairobi'
+- 'emirates flight 6'
+- 'emirates flight 823'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 653: Complete Guide'
-description: Everything you need to know about emirates flight 653, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 653, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-653
-primary_keyword: emirates flight 653
+primary_keyword: 'emirates flight 653'
 secondary_keywords:
-- does turkish airlines allow pets in business class
-- turkish airlines in nairobi
-- turkish airlines nairobi to london
-- turkish airlines flight status nairobi to istanbul
-- emirates airlines contact number nairobi kenya
+- 'does turkish airlines allow pets in business class'
+- 'turkish airlines in nairobi'
+- 'turkish airlines nairobi to london'
+- 'turkish airlines flight status nairobi to istanbul'
+- 'emirates airlines contact number nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

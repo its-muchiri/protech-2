@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Ottawa: Complete Guide'
-description: Everything you need to know about flights nairobi to ottawa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to ottawa, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-ottawa
-primary_keyword: flights nairobi to ottawa
+primary_keyword: 'flights nairobi to ottawa'
 secondary_keywords:
-- 8 flights
-- emirates flights from amsterdam
-- emirates flights from beirut
-- cheapest emirates flights from dubai
-- emirates flights from edinburgh
+- '8 flights'
+- 'emirates flights from amsterdam'
+- 'emirates flights from beirut'
+- 'cheapest emirates flights from dubai'
+- 'emirates flights from edinburgh'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

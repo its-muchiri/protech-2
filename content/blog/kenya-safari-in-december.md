@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari in December: Complete Guide'
-description: Kenya safari guide covering kenya safari in december, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari in december, including what is included, pricing, and booking advice.'
 slug: kenya-safari-in-december
-primary_keyword: Kenya safari in December
+primary_keyword: 'Kenya safari in December'
 secondary_keywords:
-- Wild dog safari Kenya (rare)
-- Kenya safari from USA
-- Kenya safari in March
-- Best Kenya tour operators
-- Independent Kenya safari booking
+- 'Wild dog safari Kenya (rare)'
+- 'Kenya safari from USA'
+- 'Kenya safari in March'
+- 'Best Kenya tour operators'
+- 'Independent Kenya safari booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

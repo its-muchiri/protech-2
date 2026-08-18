@@ -1,14 +1,14 @@
 ---
 title: 'Price List 6 Day Group Joining Nakuru Mara Safari: Complete Guide'
-description: Kenya safari guide covering price list 6 day group joining nakuru mara safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering price list 6 day group joining nakuru mara safari, including what is included, pricing, and booking advice.'
 slug: price-list-6-day-group-joining-nakuru-mara-safari
-primary_keyword: Price list 6 day group joining Nakuru Mara safari
+primary_keyword: 'Price list 6 day group joining Nakuru Mara safari'
 secondary_keywords:
-- Compare budget Kenya safari packages price
-- Cross border safari Kenya Tanzania operator
-- Last minute August migration package availability
-- custom safari quote Kenya
-- Kenya safari package with international flights book
+- 'Compare budget Kenya safari packages price'
+- 'Cross border safari Kenya Tanzania operator'
+- 'Last minute August migration package availability'
+- 'custom safari quote Kenya'
+- 'Kenya safari package with international flights book'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

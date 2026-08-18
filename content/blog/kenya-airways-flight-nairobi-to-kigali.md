@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight Nairobi To.kigali: Complete Guide'
-description: Everything you need to know about kenya airways flight nairobi to.kigali, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight nairobi to.kigali, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-nairobi-to-kigali
-primary_keyword: kenya airways flight nairobi to.kigali
+primary_keyword: 'kenya airways flight nairobi to.kigali'
 secondary_keywords:
-- south africa flights from kenya
-- flights from kenya to uae
-- flights from las vegas to kenya
-- flights from wichita ks to nairobi kenya
-- flights from seiyun yemen to nairobi kenya
+- 'south africa flights from kenya'
+- 'flights from kenya to uae'
+- 'flights from las vegas to kenya'
+- 'flights from wichita ks to nairobi kenya'
+- 'flights from seiyun yemen to nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

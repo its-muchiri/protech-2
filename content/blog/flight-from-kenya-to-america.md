@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kenya to America: Complete Guide'
-description: Everything you need to know about flight from kenya to america, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kenya to america, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kenya-to-america
-primary_keyword: flight from kenya to america
+primary_keyword: 'flight from kenya to america'
 secondary_keywords:
-- how much is a flight from nairobi to dubai emirates
-- emirates flights nairobi to london
-- emirates from nairobi to dubai price
-- emirates ek 720
-- how much is kenya airways to dubai
+- 'how much is a flight from nairobi to dubai emirates'
+- 'emirates flights nairobi to london'
+- 'emirates from nairobi to dubai price'
+- 'emirates ek 720'
+- 'how much is kenya airways to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

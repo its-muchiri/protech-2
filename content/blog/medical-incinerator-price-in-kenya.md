@@ -1,14 +1,14 @@
 ---
 title: 'Medical Incinerator Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to medical incinerator price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to medical incinerator price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: medical-incinerator-price-in-kenya
-primary_keyword: Medical incinerator price in Kenya
+primary_keyword: 'Medical incinerator price in Kenya'
 secondary_keywords:
-- Autoclave sterilizer price in Kenya
-- Surgical and Theatre Equipment
-- Electric operating table for sale in Nairobi
-- Hospital steam sterilizer (autoclave) price in Kenya
-- Hospital Fowler bed price in Kenya
+- 'Autoclave sterilizer price in Kenya'
+- 'Surgical and Theatre Equipment'
+- 'Electric operating table for sale in Nairobi'
+- 'Hospital steam sterilizer (autoclave) price in Kenya'
+- 'Hospital Fowler bed price in Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

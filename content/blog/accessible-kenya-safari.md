@@ -1,14 +1,14 @@
 ---
 title: 'Accessible Kenya Safari: Complete Guide'
-description: Kenya safari guide covering accessible kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering accessible kenya safari, including what is included, pricing, and booking advice.'
 slug: accessible-kenya-safari
-primary_keyword: Accessible Kenya safari
+primary_keyword: 'Accessible Kenya safari'
 secondary_keywords:
-- Confirm availability 5 day budget safari Kenya August
-- Immediate quote Kenya custom safari package 14 days
-- Buy 4 day Amboseli Kilimanjaro view package deal
-- Secure 12 day premium family safari package Sarova lodges
-- Secure 6 day Saruni Samburu lodge package deal
+- 'Confirm availability 5 day budget safari Kenya August'
+- 'Immediate quote Kenya custom safari package 14 days'
+- 'Buy 4 day Amboseli Kilimanjaro view package deal'
+- 'Secure 12 day premium family safari package Sarova lodges'
+- 'Secure 6 day Saruni Samburu lodge package deal'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

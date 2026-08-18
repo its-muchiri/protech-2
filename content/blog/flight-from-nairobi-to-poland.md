@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Poland: Complete Guide'
-description: Everything you need to know about flight from nairobi to poland, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to poland, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-poland
-primary_keyword: flight from nairobi to poland
+primary_keyword: 'flight from nairobi to poland'
 secondary_keywords:
-- flights nairobi to portugal
-- qatar flights to nairobi today
-- nairobi to rome flights
-- flights nairobi to tel aviv
-- nairobi to uganda flights
+- 'flights nairobi to portugal'
+- 'qatar flights to nairobi today'
+- 'nairobi to rome flights'
+- 'flights nairobi to tel aviv'
+- 'nairobi to uganda flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

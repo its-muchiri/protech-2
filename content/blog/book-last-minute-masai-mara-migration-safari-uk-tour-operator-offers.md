@@ -1,14 +1,14 @@
 ---
 title: 'Book Last Minute Masai Mara Migration Safari UK Tour Operator Offers: Complete Guide'
-description: Kenya safari guide covering book last minute masai mara migration safari uk tour operator offers, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book last minute masai mara migration safari uk tour operator offers, including what is included, pricing, and booking advice.'
 slug: book-last-minute-masai-mara-migration-safari-uk-tour-operator-offers
-primary_keyword: Book last minute Masai Mara migration safari UK tour operator offers
+primary_keyword: 'Book last minute Masai Mara migration safari UK tour operator offers'
 secondary_keywords:
-- Reserve Kenya safari guide training course participation UK career development tourism focus
-- Find Kenya safari tour with professional wildlife artist workshop UK creative travel booking
-- Kenya vacation safari
-- Tsavo East safari
-- Kakamega Forest safari
+- 'Reserve Kenya safari guide training course participation UK career development tourism focus'
+- 'Find Kenya safari tour with professional wildlife artist workshop UK creative travel booking'
+- 'Kenya vacation safari'
+- 'Tsavo East safari'
+- 'Kakamega Forest safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

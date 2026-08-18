@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Vacancy Checker Online Booking: Complete Guide'
-description: Kenya safari guide covering kenya safari vacancy checker online booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari vacancy checker online booking, including what is included, pricing, and booking advice.'
 slug: kenya-safari-vacancy-checker-online-booking
-primary_keyword: Kenya safari vacancy checker online booking
+primary_keyword: 'Kenya safari vacancy checker online booking'
 secondary_keywords:
-- Shared safari Kenya package booking
-- Best East Africa combined safari packages
-- December holiday family safari package Kenya book
-- Check availability  Kenya safari
-- All-inclusive Kenya safari package deals
+- 'Shared safari Kenya package booking'
+- 'Best East Africa combined safari packages'
+- 'December holiday family safari package Kenya book'
+- 'Check availability  Kenya safari'
+- 'All-inclusive Kenya safari package deals'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

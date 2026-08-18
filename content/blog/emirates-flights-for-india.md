@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights for India: Complete Guide'
-description: Everything you need to know about emirates flights for india, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights for india, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-for-india
-primary_keyword: emirates flights for india
+primary_keyword: 'emirates flights for india'
 secondary_keywords:
-- kenya airways google flights
-- kq inaugural flight to new york
-- kq flights nairobi to johannesburg
-- kq flights from lusaka to nairobi today
-- kq flights nairobi to kisumu
+- 'kenya airways google flights'
+- 'kq inaugural flight to new york'
+- 'kq flights nairobi to johannesburg'
+- 'kq flights from lusaka to nairobi today'
+- 'kq flights nairobi to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

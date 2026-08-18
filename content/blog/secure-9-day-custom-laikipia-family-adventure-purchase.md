@@ -1,14 +1,14 @@
 ---
 title: 'Secure 9 Day Custom Laikipia Family Adventure Purchase: Complete Guide'
-description: Kenya safari guide covering secure 9 day custom laikipia family adventure purchase, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering secure 9 day custom laikipia family adventure purchase, including what is included, pricing, and booking advice.'
 slug: secure-9-day-custom-laikipia-family-adventure-purchase
-primary_keyword: Secure 9 day custom Laikipia family adventure purchase
+primary_keyword: 'Secure 9 day custom Laikipia family adventure purchase'
 secondary_keywords:
-- Kenya safari package including transfers quote
-- All-inclusive safari Kenya book
-- Book group joining 6 day budget camping package Kenya
-- Buy 8 day accessible Kenya safari package quote
-- Quote for 9 day Kenya small group safari package tour
+- 'Kenya safari package including transfers quote'
+- 'All-inclusive safari Kenya book'
+- 'Book group joining 6 day budget camping package Kenya'
+- 'Buy 8 day accessible Kenya safari package quote'
+- 'Quote for 9 day Kenya small group safari package tour'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Cost Difference Masai Mara National Reserve Vs Private Conservancy Safari UK Benefits Comparison: Complete Guide'
-description: Kenya safari guide covering cost difference masai mara national reserve vs private conservancy safari uk benefits comparison, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering cost difference masai mara national reserve vs private conservancy safari uk benefits comparison, including what is included, pricing, and booking advice.'
 slug: cost-difference-masai-mara-national-reserve-vs-private-conservancy-safari-uk-benefits-comparison
-primary_keyword: Cost difference Masai Mara National Reserve vs private conservancy safari UK benefits comparison
+primary_keyword: 'Cost difference Masai Mara National Reserve vs private conservancy safari UK benefits comparison'
 secondary_keywords:
-- Fly-in safari cost vs driving safari Kenya time saving
-- KATO certified tour operators benefits code of conduct
-- Horse riding safari Kenya Chyulu Hills / Laikipia ranches
-- Cross border safari Kenya and Tanzania Serengeti / Ngorongoro combined tour operators
-- Purchase fly-in safari Kenya Masai Mara online USA
+- 'Fly-in safari cost vs driving safari Kenya time saving'
+- 'KATO certified tour operators benefits code of conduct'
+- 'Horse riding safari Kenya Chyulu Hills / Laikipia ranches'
+- 'Cross border safari Kenya and Tanzania Serengeti / Ngorongoro combined tour operators'
+- 'Purchase fly-in safari Kenya Masai Mara online USA'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

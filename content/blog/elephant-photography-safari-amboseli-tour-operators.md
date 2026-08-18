@@ -1,14 +1,14 @@
 ---
 title: 'Elephant Photography Safari Amboseli Tour Operators: Complete Guide'
-description: Kenya safari guide covering elephant photography safari amboseli tour operators, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering elephant photography safari amboseli tour operators, including what is included, pricing, and booking advice.'
 slug: elephant-photography-safari-amboseli-tour-operators
-primary_keyword: Elephant photography safari Amboseli tour operators
+primary_keyword: 'Elephant photography safari Amboseli tour operators'
 secondary_keywords:
-- Buy 14 day Kenya grand safari package
-- Laikipia luxury safari package booking
-- Exclusive Kenya safari experience booking
-- Kenya safari package for family with kids
-- Honeymoon deals Kenya safari resorts
+- 'Buy 14 day Kenya grand safari package'
+- 'Laikipia luxury safari package booking'
+- 'Exclusive Kenya safari experience booking'
+- 'Kenya safari package for family with kids'
+- 'Honeymoon deals Kenya safari resorts'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

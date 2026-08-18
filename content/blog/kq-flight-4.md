@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight 4: Complete Guide'
-description: Everything you need to know about kq flight 4, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight 4, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-4
-primary_keyword: kq flight 4
+primary_keyword: 'kq flight 4'
 secondary_keywords:
-- kq flights schedule to eldoret from nairobi
-- kq flight attendant salary
-- kq flight booking contacts
-- kq flights contacts
-- kq flights from nairobi to cape town
+- 'kq flights schedule to eldoret from nairobi'
+- 'kq flight attendant salary'
+- 'kq flight booking contacts'
+- 'kq flights contacts'
+- 'kq flights from nairobi to cape town'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

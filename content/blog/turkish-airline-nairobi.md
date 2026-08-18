@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airline Nairobi: Complete Guide'
-description: Everything you need to know about turkish airline nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airline nairobi, including routes, airlines, booking tips, and fares.'
 slug: turkish-airline-nairobi
-primary_keyword: turkish airline nairobi
+primary_keyword: 'turkish airline nairobi'
 secondary_keywords:
-- fly emirates kenya
-- emirates 722
-- ethiopian airlines lounge nairobi airport
-- ethiopian airlines from nairobi to doha
-- ethiopian airlines nairobi office
+- 'fly emirates kenya'
+- 'emirates 722'
+- 'ethiopian airlines lounge nairobi airport'
+- 'ethiopian airlines from nairobi to doha'
+- 'ethiopian airlines nairobi office'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

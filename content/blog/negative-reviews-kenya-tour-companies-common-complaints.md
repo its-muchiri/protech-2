@@ -1,14 +1,14 @@
 ---
 title: 'Negative Reviews Kenya Tour Companies Common Complaints: Complete Guide'
-description: Kenya safari guide covering negative reviews kenya tour companies common complaints, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering negative reviews kenya tour companies common complaints, including what is included, pricing, and booking advice.'
 slug: negative-reviews-kenya-tour-companies-common-complaints
-primary_keyword: Negative reviews Kenya tour companies common complaints
+primary_keyword: 'Negative reviews Kenya tour companies common complaints'
 secondary_keywords:
-- Lake Turkana expedition tour companies
-- 7 day family safari beach combo company
-- Student discount safari Kenya
-- Fourteen Falls tour guide Thika
-- Halal safari tour operators Kenya
+- 'Lake Turkana expedition tour companies'
+- '7 day family safari beach combo company'
+- 'Student discount safari Kenya'
+- 'Fourteen Falls tour guide Thika'
+- 'Halal safari tour operators Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

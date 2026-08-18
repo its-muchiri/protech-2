@@ -1,14 +1,14 @@
 ---
 title: 'Which Flights Go to Mombasa from Nairobi: Complete Guide'
-description: Everything you need to know about which flights go to mombasa from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about which flights go to mombasa from nairobi, including routes, airlines, booking tips, and fares.'
 slug: which-flights-go-to-mombasa-from-nairobi
-primary_keyword: which flights go to mombasa from nairobi
+primary_keyword: 'which flights go to mombasa from nairobi'
 secondary_keywords:
-- nairobi to columbus oh flights
-- nairobi to kampala flights price
-- flights nairobi to riyadh
-- flights nairobi to sfo
-- flights nairobi to uk
+- 'nairobi to columbus oh flights'
+- 'nairobi to kampala flights price'
+- 'flights nairobi to riyadh'
+- 'flights nairobi to sfo'
+- 'flights nairobi to uk'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

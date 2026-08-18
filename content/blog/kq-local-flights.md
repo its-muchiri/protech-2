@@ -1,14 +1,14 @@
 ---
 title: 'Kq Local Flights: Complete Guide'
-description: Everything you need to know about kq local flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq local flights, including routes, airlines, booking tips, and fares.'
 slug: kq-local-flights
-primary_keyword: kq local flights
+primary_keyword: 'kq local flights'
 secondary_keywords:
-- flights to kenya in july
-- flights to kenya in may
-- flights to kenya one way
-- flight attendant courses in kenya requirements
-- flights kenya to tanzania
+- 'flights to kenya in july'
+- 'flights to kenya in may'
+- 'flights to kenya one way'
+- 'flight attendant courses in kenya requirements'
+- 'flights kenya to tanzania'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

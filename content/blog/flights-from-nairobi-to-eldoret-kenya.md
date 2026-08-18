@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Eldoret Kenya: Complete Guide'
-description: Everything you need to know about flights from nairobi to eldoret kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to eldoret kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-eldoret-kenya
-primary_keyword: flights from nairobi to eldoret kenya
+primary_keyword: 'flights from nairobi to eldoret kenya'
 secondary_keywords:
-- cheap flights from kenya
-- are there direct flights from kenya to uk
-- flights to kenya from boston
-- cheap flights from kenya to dubai
-- flights from kenya to ethiopia
+- 'cheap flights from kenya'
+- 'are there direct flights from kenya to uk'
+- 'flights to kenya from boston'
+- 'cheap flights from kenya to dubai'
+- 'flights from kenya to ethiopia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

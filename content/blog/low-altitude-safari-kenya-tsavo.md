@@ -1,14 +1,14 @@
 ---
 title: 'Low Altitude Safari Kenya (Tsavo): Complete Guide'
-description: Kenya safari guide covering low altitude safari kenya (tsavo), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering low altitude safari kenya (tsavo), including what is included, pricing, and booking advice.'
 slug: low-altitude-safari-kenya-tsavo
-primary_keyword: Low altitude safari Kenya (Tsavo)
+primary_keyword: 'Low altitude safari Kenya (Tsavo)'
 secondary_keywords:
-- Kenya wellness safari retreat booking UK spa lodge
-- Meru National Park safari cost Europe Elsa''s Kopje booking
-- Private Kenya safari quote UK couple honeymoon
-- Reliable Kenya safari company USA booking BBB rating
-- Kenya safari operator safety record check USA
+- 'Kenya wellness safari retreat booking UK spa lodge'
+- 'Meru National Park safari cost Europe Elsa''''s Kopje booking'
+- 'Private Kenya safari quote UK couple honeymoon'
+- 'Reliable Kenya safari company USA booking BBB rating'
+- 'Kenya safari operator safety record check USA'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

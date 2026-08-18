@@ -1,14 +1,14 @@
 ---
 title: 'Find Kenya Safari Operator with Carbon Offsetting Program UK Sustainable Travel Booking Choice: Complete Guide'
-description: Kenya safari guide covering find kenya safari operator with carbon offsetting program uk sustainable travel booking choice, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering find kenya safari operator with carbon offsetting program uk sustainable travel booking choice, including what is included, pricing, and booking advice.'
 slug: find-kenya-safari-operator-with-carbon-offsetting-program-uk-sustainable-travel-booking-choice
-primary_keyword: Find Kenya safari operator with carbon offsetting program UK sustainable travel booking choice
+primary_keyword: 'Find Kenya safari operator with carbon offsetting program UK sustainable travel booking choice'
 secondary_keywords:
-- Kenya safari package for family with kids
-- Honeymoon deals Kenya safari resorts
-- Budget fly-in safari Kenya options book
-- Nairobi start multi-country safari package book
-- Book off-season Kenya safari discount package
+- 'Kenya safari package for family with kids'
+- 'Honeymoon deals Kenya safari resorts'
+- 'Budget fly-in safari Kenya options book'
+- 'Nairobi start multi-country safari package book'
+- 'Book off-season Kenya safari discount package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

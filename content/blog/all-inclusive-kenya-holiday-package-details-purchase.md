@@ -1,14 +1,14 @@
 ---
 title: 'All-inclusive Kenya Holiday Package Details Purchase: Complete Guide'
-description: Kenya safari guide covering all-inclusive kenya holiday package details purchase, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering all-inclusive kenya holiday package details purchase, including what is included, pricing, and booking advice.'
 slug: all-inclusive-kenya-holiday-package-details-purchase
-primary_keyword: All-inclusive Kenya holiday package details purchase
+primary_keyword: 'All-inclusive Kenya holiday package details purchase'
 secondary_keywords:
-- Reserve 5 day Serena Lodges circuit package Kenya
-- Buy 5 day Fairmont Mara Safari Club package offer
-- Get final cost 7 day Masai Mara fly-in package August booking
-- Reserve guaranteed window seat safari vehicle package Kenya
-- International tour operators in Kenya
+- 'Reserve 5 day Serena Lodges circuit package Kenya'
+- 'Buy 5 day Fairmont Mara Safari Club package offer'
+- 'Get final cost 7 day Masai Mara fly-in package August booking'
+- 'Reserve guaranteed window seat safari vehicle package Kenya'
+- 'International tour operators in Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

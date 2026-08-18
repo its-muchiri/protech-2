@@ -1,14 +1,14 @@
 ---
 title: 'Internet Access Kenya Safari: Complete Guide'
-description: Kenya safari guide covering internet access kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering internet access kenya safari, including what is included, pricing, and booking advice.'
 slug: internet-access-kenya-safari
-primary_keyword: Internet access Kenya safari
+primary_keyword: 'Internet access Kenya safari'
 secondary_keywords:
-- LGBTQ+ friendly Kenya safari
-- Is Kenya safe for safari
-- What animals will I see Kenya safari
-- See Big Five Samburu safari lodge
-- Safety for solo female traveler Nairobi safari
+- 'LGBTQ+ friendly Kenya safari'
+- 'Is Kenya safe for safari'
+- 'What animals will I see Kenya safari'
+- 'See Big Five Samburu safari lodge'
+- 'Safety for solo female traveler Nairobi safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

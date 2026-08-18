@@ -1,14 +1,14 @@
 ---
 title: 'Flight Zagreb Nairobi: Complete Guide'
-description: Everything you need to know about flight zagreb nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight zagreb nairobi, including routes, airlines, booking tips, and fares.'
 slug: flight-zagreb-nairobi
-primary_keyword: flight zagreb nairobi
+primary_keyword: 'flight zagreb nairobi'
 secondary_keywords:
-- flight from nairobi to eldoret price
-- flight time from nairobi to france
-- flight from nairobi to goma
-- flight from nairobi to hong kong
-- flight from nairobi to johannesburg
+- 'flight from nairobi to eldoret price'
+- 'flight time from nairobi to france'
+- 'flight from nairobi to goma'
+- 'flight from nairobi to hong kong'
+- 'flight from nairobi to johannesburg'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

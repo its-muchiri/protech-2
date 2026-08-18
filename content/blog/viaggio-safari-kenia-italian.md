@@ -1,14 +1,14 @@
 ---
 title: 'Viaggio Safari Kenia (Italian): Complete Guide'
-description: Kenya safari guide covering viaggio safari kenia (italian), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering viaggio safari kenia (italian), including what is included, pricing, and booking advice.'
 slug: viaggio-safari-kenia-italian
-primary_keyword: Viaggio safari Kenia (Italian)
+primary_keyword: 'Viaggio safari Kenia (Italian)'
 secondary_keywords:
-- Kenya safari travel restrictions (Historically important)
-- Conservation fees Kenya parks
-- Enquire Kenya safari package rates
-- Confirm Kenya safari reservation
-- Short Kenya safari package (3-5 days) booking
+- 'Kenya safari travel restrictions (Historically important)'
+- 'Conservation fees Kenya parks'
+- 'Enquire Kenya safari package rates'
+- 'Confirm Kenya safari reservation'
+- 'Short Kenya safari package (3-5 days) booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

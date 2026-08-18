@@ -1,14 +1,14 @@
 ---
 title: 'Aberdares Lodge Safari Package Bundle Offer: Complete Guide'
-description: Kenya safari guide covering aberdares lodge safari package bundle offer, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering aberdares lodge safari package bundle offer, including what is included, pricing, and booking advice.'
 slug: aberdares-lodge-safari-package-bundle-offer
-primary_keyword: Aberdares lodge safari package bundle offer
+primary_keyword: 'Aberdares lodge safari package bundle offer'
 secondary_keywords:
-- Early bird booking Kenya safari package
-- Best Kenya safari package deals online
-- Book fly-in Kenya safari package all inclusive
-- Reserve Lake Nakuru package
-- Book 7 day luxury Masai Mara package
+- 'Early bird booking Kenya safari package'
+- 'Best Kenya safari package deals online'
+- 'Book fly-in Kenya safari package all inclusive'
+- 'Reserve Lake Nakuru package'
+- 'Book 7 day luxury Masai Mara package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

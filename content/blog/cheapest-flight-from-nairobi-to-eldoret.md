@@ -1,14 +1,14 @@
 ---
 title: 'Cheapest Flight from Nairobi to Eldoret: Complete Guide'
-description: Everything you need to know about cheapest flight from nairobi to eldoret, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheapest flight from nairobi to eldoret, including routes, airlines, booking tips, and fares.'
 slug: cheapest-flight-from-nairobi-to-eldoret
-primary_keyword: cheapest flight from nairobi to eldoret
+primary_keyword: 'cheapest flight from nairobi to eldoret'
 secondary_keywords:
-- ethiopian airlines phone number nairobi
-- ethiopian airlines contact number kenya
-- turkish airlines flight schedule to nairobi
-- flight ticket from kenya to south africa
-- flight booking agents in kenya
+- 'ethiopian airlines phone number nairobi'
+- 'ethiopian airlines contact number kenya'
+- 'turkish airlines flight schedule to nairobi'
+- 'flight ticket from kenya to south africa'
+- 'flight booking agents in kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

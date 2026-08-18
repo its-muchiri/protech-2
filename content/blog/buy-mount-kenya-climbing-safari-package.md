@@ -1,14 +1,14 @@
 ---
 title: 'Buy Mount Kenya Climbing Safari Package: Complete Guide'
-description: Kenya safari guide covering buy mount kenya climbing safari package, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy mount kenya climbing safari package, including what is included, pricing, and booking advice.'
 slug: buy-mount-kenya-climbing-safari-package
-primary_keyword: Buy Mount Kenya climbing safari package
+primary_keyword: 'Buy Mount Kenya climbing safari package'
 secondary_keywords:
-- Reserve Kenya photographic tour private tuition pro guide UK specialist company booking
-- Reserve Nairobi city tour Giraffe Centre & Karen Blixen Museum plus safari package UK price
-- Purchase corporate incentive travel Kenya safari package Europe group rates quote request
-- Find Kenya safari operator with carbon offsetting program UK sustainable travel booking choice
-- Book electric vehicle safari Kenya eco-lodge package UK sustainable transport options availability
+- 'Reserve Kenya photographic tour private tuition pro guide UK specialist company booking'
+- 'Reserve Nairobi city tour Giraffe Centre & Karen Blixen Museum plus safari package UK price'
+- 'Purchase corporate incentive travel Kenya safari package Europe group rates quote request'
+- 'Find Kenya safari operator with carbon offsetting program UK sustainable travel booking choice'
+- 'Book electric vehicle safari Kenya eco-lodge package UK sustainable transport options availability'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

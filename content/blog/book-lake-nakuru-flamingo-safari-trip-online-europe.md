@@ -1,14 +1,14 @@
 ---
 title: 'Book Lake Nakuru Flamingo Safari Trip Online Europe: Complete Guide'
-description: Kenya safari guide covering book lake nakuru flamingo safari trip online europe, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book lake nakuru flamingo safari trip online europe, including what is included, pricing, and booking advice.'
 slug: book-lake-nakuru-flamingo-safari-trip-online-europe
-primary_keyword: Book Lake Nakuru flamingo safari trip online Europe
+primary_keyword: 'Book Lake Nakuru flamingo safari trip online Europe'
 secondary_keywords:
-- One week Kenya wildlife tour budget enquiry
-- Budget for 8 day private photographic Samburu tour
-- Lake Nakuru safari tour early bird promotion
-- Honeymoon Kenya safari package sale price
-- Masai Mara tour package details
+- 'One week Kenya wildlife tour budget enquiry'
+- 'Budget for 8 day private photographic Samburu tour'
+- 'Lake Nakuru safari tour early bird promotion'
+- 'Honeymoon Kenya safari package sale price'
+- 'Masai Mara tour package details'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

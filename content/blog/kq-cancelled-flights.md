@@ -1,14 +1,14 @@
 ---
 title: 'Kq Cancelled Flights: Complete Guide'
-description: Everything you need to know about kq cancelled flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq cancelled flights, including routes, airlines, booking tips, and fares.'
 slug: kq-cancelled-flights
-primary_keyword: kq cancelled flights
+primary_keyword: 'kq cancelled flights'
 secondary_keywords:
-- jambojet flights from mombasa to nairobi ticket price
-- kq flights from mombasa to dubai
-- flights from mombasa to manchester
-- flight from nairobi to mombasa one way
-- does qatar airways fly to mombasa
+- 'jambojet flights from mombasa to nairobi ticket price'
+- 'kq flights from mombasa to dubai'
+- 'flights from mombasa to manchester'
+- 'flight from nairobi to mombasa one way'
+- 'does qatar airways fly to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

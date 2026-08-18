@@ -1,14 +1,14 @@
 ---
 title: 'German Speaking Guide Kenya Safari Booking Online: Complete Guide'
-description: Kenya safari guide covering german speaking guide kenya safari booking online, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering german speaking guide kenya safari booking online, including what is included, pricing, and booking advice.'
 slug: german-speaking-guide-kenya-safari-booking-online
-primary_keyword: German speaking guide Kenya safari booking online
+primary_keyword: 'German speaking guide Kenya safari booking online'
 secondary_keywords:
-- Discount Kenya safari
-- Luxury tented camps Kenya
-- Hot air balloon safari Kenya
-- Star gazing Kenya safari
-- Best place to see  Kenya
+- 'Discount Kenya safari'
+- 'Luxury tented camps Kenya'
+- 'Hot air balloon safari Kenya'
+- 'Star gazing Kenya safari'
+- 'Best place to see  Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

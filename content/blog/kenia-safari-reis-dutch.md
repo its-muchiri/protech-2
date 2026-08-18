@@ -1,14 +1,14 @@
 ---
 title: 'Kenia Safari Reis (Dutch): Complete Guide'
-description: Kenya safari guide covering kenia safari reis (dutch), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenia safari reis (dutch), including what is included, pricing, and booking advice.'
 slug: kenia-safari-reis-dutch
-primary_keyword: Kenia safari reis (Dutch)
+primary_keyword: 'Kenia safari reis (Dutch)'
 secondary_keywords:
-- Safari Kenia (German/Spanish/etc.)
-- Open top jeep safari Kenya
-- Book Kenya safari tour
-- Contact Kenya safari operator for booking
-- 7 day Kenya classic safari package booking
+- 'Safari Kenia (German/Spanish/etc.)'
+- 'Open top jeep safari Kenya'
+- 'Book Kenya safari tour'
+- 'Contact Kenya safari operator for booking'
+- '7 day Kenya classic safari package booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

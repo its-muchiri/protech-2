@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights to Bali from Uk: Complete Guide'
-description: Everything you need to know about emirates flights to bali from uk, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights to bali from uk, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-to-bali-from-uk
-primary_keyword: emirates flights to bali from uk
+primary_keyword: 'emirates flights to bali from uk'
 secondary_keywords:
-- emirates jkia nairobi
-- emirates shoes nairobi
-- emirates flights to kenya from london
-- emirates flight from kenya to dubai price tomorrow
-- emirates offices in kenya
+- 'emirates jkia nairobi'
+- 'emirates shoes nairobi'
+- 'emirates flights to kenya from london'
+- 'emirates flight from kenya to dubai price tomorrow'
+- 'emirates offices in kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

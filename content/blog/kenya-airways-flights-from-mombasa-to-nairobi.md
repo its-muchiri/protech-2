@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights from Mombasa to Nairobi: Complete Guide'
-description: Everything you need to know about kenya airways flights from mombasa to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights from mombasa to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-from-mombasa-to-nairobi
-primary_keyword: kenya airways flights from mombasa to nairobi
+primary_keyword: 'kenya airways flights from mombasa to nairobi'
 secondary_keywords:
-- emirates nairobi phone number
-- emirates 720
-- emirates vs kenya airways
-- emirates flight from kenya to dubai today
-- emirates kenya number
+- 'emirates nairobi phone number'
+- 'emirates 720'
+- 'emirates vs kenya airways'
+- 'emirates flight from kenya to dubai today'
+- 'emirates kenya number'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

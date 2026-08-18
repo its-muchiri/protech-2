@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Bangui: Complete Guide'
-description: Everything you need to know about kq flights to bangui, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to bangui, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-bangui
-primary_keyword: kq flights to bangui
+primary_keyword: 'kq flights to bangui'
 secondary_keywords:
-- non stop flights from new york to nairobi
-- first class flight from nairobi to mombasa
-- flights from nairobi to bangkok thailand
-- flights from mombasa to arusha tanzania
-- flights brussels mombasa
+- 'non stop flights from new york to nairobi'
+- 'first class flight from nairobi to mombasa'
+- 'flights from nairobi to bangkok thailand'
+- 'flights from mombasa to arusha tanzania'
+- 'flights brussels mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

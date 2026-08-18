@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Wajir to Nairobi: Complete Guide'
-description: Everything you need to know about flight from wajir to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from wajir to nairobi, including routes, airlines, booking tips, and fares.'
 slug: flight-from-wajir-to-nairobi
-primary_keyword: flight from wajir to nairobi
+primary_keyword: 'flight from wajir to nairobi'
 secondary_keywords:
-- flights from kenya to australia
-- flights from kenya to south africa today
-- flights from brisbane to nairobi kenya
-- cheap flights from kenya to australia
-- flights from kenya to england
+- 'flights from kenya to australia'
+- 'flights from kenya to south africa today'
+- 'flights from brisbane to nairobi kenya'
+- 'cheap flights from kenya to australia'
+- 'flights from kenya to england'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

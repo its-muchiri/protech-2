@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Faisalabad to Dubai United Arab Emirates: Complete Guide'
-description: Everything you need to know about flights from faisalabad to dubai united arab emirates, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from faisalabad to dubai united arab emirates, including routes, airlines, booking tips, and fares.'
 slug: flights-from-faisalabad-to-dubai-united-arab-emirates
-primary_keyword: flights from faisalabad to dubai united arab emirates
+primary_keyword: 'flights from faisalabad to dubai united arab emirates'
 secondary_keywords:
-- kq history
-- kq flights to johannesburg today
-- kenya airways flights live
-- kq mayfly flight schedule today
-- kenya airways cheapest flight offers
+- 'kq history'
+- 'kq flights to johannesburg today'
+- 'kenya airways flights live'
+- 'kq mayfly flight schedule today'
+- 'kenya airways cheapest flight offers'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

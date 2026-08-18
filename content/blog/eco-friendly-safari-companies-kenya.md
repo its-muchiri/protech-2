@@ -1,14 +1,14 @@
 ---
 title: 'Eco-friendly Safari Companies Kenya: Complete Guide'
-description: Kenya safari guide covering eco-friendly safari companies kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering eco-friendly safari companies kenya, including what is included, pricing, and booking advice.'
 slug: eco-friendly-safari-companies-kenya
-primary_keyword: Eco-friendly safari companies Kenya
+primary_keyword: 'Eco-friendly safari companies Kenya'
 secondary_keywords:
-- Find best Kenya safari tour operator for senior citizens Europe accessibility comfort reviews
-- Buy adventure Kenya safari white water rafting Tana River add-on UK operator booking
-- Reserve Lake Turkana fishing safari expedition Kenya Europe remote adventure booking logistics
-- Find diabetic friendly Kenya safari planning assistance USA meal management operator support
-- Book Menengai Crater hike safari day trip Nakuru Kenya Europe geology focus cost
+- 'Find best Kenya safari tour operator for senior citizens Europe accessibility comfort reviews'
+- 'Buy adventure Kenya safari white water rafting Tana River add-on UK operator booking'
+- 'Reserve Lake Turkana fishing safari expedition Kenya Europe remote adventure booking logistics'
+- 'Find diabetic friendly Kenya safari planning assistance USA meal management operator support'
+- 'Book Menengai Crater hike safari day trip Nakuru Kenya Europe geology focus cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,13 +1,13 @@
 ---
 title: 'Best Amboseli Tour Operators Kenya: Complete Guide'
-description: Kenya safari guide covering best amboseli tour operators kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering best amboseli tour operators kenya, including what is included, pricing, and booking advice.'
 slug: best-amboseli-tour-operators-kenya
-primary_keyword: Best Amboseli tour operators Kenya
+primary_keyword: 'Best Amboseli tour operators Kenya'
 secondary_keywords:
-- Halal safari Kenya
-- Kenya safari packing list
-- Electricity Kenya safari lodges
-- Guided bird watching safari Lake Nakuru Kenya
+- 'Halal safari Kenya'
+- 'Kenya safari packing list'
+- 'Electricity Kenya safari lodges'
+- 'Guided bird watching safari Lake Nakuru Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

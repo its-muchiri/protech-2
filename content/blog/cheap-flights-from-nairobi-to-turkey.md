@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Nairobi to Turkey: Complete Guide'
-description: Everything you need to know about cheap flights from nairobi to turkey, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from nairobi to turkey, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-nairobi-to-turkey
-primary_keyword: cheap flights from nairobi to turkey
+primary_keyword: 'cheap flights from nairobi to turkey'
 secondary_keywords:
-- time taken by flight from nairobi to mombasa
-- safarilink flight from ukunda to nairobi
-- flight from nairobi to windhoek
-- flight distance from nairobi to new york
-- flight from nairobi to nyeri
+- 'time taken by flight from nairobi to mombasa'
+- 'safarilink flight from ukunda to nairobi'
+- 'flight from nairobi to windhoek'
+- 'flight distance from nairobi to new york'
+- 'flight from nairobi to nyeri'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

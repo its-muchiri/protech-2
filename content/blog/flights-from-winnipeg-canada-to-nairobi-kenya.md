@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Winnipeg Canada to Nairobi Kenya: Complete Guide'
-description: Everything you need to know about flights from winnipeg canada to nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from winnipeg canada to nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-winnipeg-canada-to-nairobi-kenya
-primary_keyword: flights from winnipeg canada to nairobi kenya
+primary_keyword: 'flights from winnipeg canada to nairobi kenya'
 secondary_keywords:
-- emirates flight from kenya to uk
-- emirates flight from kenya to usa ticket price
-- emirates to dubai from kenya
-- ethiopian airlines flight from nairobi to addis ababa today
-- ethiopian airlines from nairobi to doha price
+- 'emirates flight from kenya to uk'
+- 'emirates flight from kenya to usa ticket price'
+- 'emirates to dubai from kenya'
+- 'ethiopian airlines flight from nairobi to addis ababa today'
+- 'ethiopian airlines from nairobi to doha price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

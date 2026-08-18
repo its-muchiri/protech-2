@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight from Kenya to Usa: Complete Guide'
-description: Everything you need to know about emirates flight from kenya to usa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight from kenya to usa, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-from-kenya-to-usa
-primary_keyword: emirates flight from kenya to usa
+primary_keyword: 'emirates flight from kenya to usa'
 secondary_keywords:
-- when will emirates resume flights from adelaide 2023
-- emirates flights from tehran to toronto
-- emirates flights from venice to dubai
-- emirates flights from washington dc
-- emirates flights from yyz
+- 'when will emirates resume flights from adelaide 2023'
+- 'emirates flights from tehran to toronto'
+- 'emirates flights from venice to dubai'
+- 'emirates flights from washington dc'
+- 'emirates flights from yyz'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

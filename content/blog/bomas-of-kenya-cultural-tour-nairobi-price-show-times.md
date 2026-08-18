@@ -1,14 +1,14 @@
 ---
 title: 'Bomas of Kenya Cultural Tour Nairobi Price / Show Times: Complete Guide'
-description: Kenya safari guide covering bomas of kenya cultural tour nairobi price / show times, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering bomas of kenya cultural tour nairobi price / show times, including what is included, pricing, and booking advice.'
 slug: bomas-of-kenya-cultural-tour-nairobi-price-show-times
-primary_keyword: Bomas of Kenya cultural tour Nairobi price / show times
+primary_keyword: 'Bomas of Kenya cultural tour Nairobi price / show times'
 secondary_keywords:
-- Mount Kenya climbing tour operators Chogoria route
-- Small group safari tours Kenya
-- Diani Beach kitesurfing schools/tour packages
-- Camel safari Samburu tour companies
-- Budget & Price Related Searches
+- 'Mount Kenya climbing tour operators Chogoria route'
+- 'Small group safari tours Kenya'
+- 'Diani Beach kitesurfing schools/tour packages'
+- 'Camel safari Samburu tour companies'
+- 'Budget & Price Related Searches'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

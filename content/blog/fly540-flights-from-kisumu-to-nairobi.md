@@ -1,14 +1,14 @@
 ---
 title: 'Fly540 Flights from Kisumu to Nairobi: Complete Guide'
-description: Everything you need to know about fly540 flights from kisumu to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about fly540 flights from kisumu to nairobi, including routes, airlines, booking tips, and fares.'
 slug: fly540-flights-from-kisumu-to-nairobi
-primary_keyword: fly540 flights from kisumu to nairobi
+primary_keyword: 'fly540 flights from kisumu to nairobi'
 secondary_keywords:
-- how long is a flight from nairobi to new york
-- air ticket from nairobi to turkey
-- turkish airlines frankfurt nairobi
-- turkish airlines lounge nairobi kenya
-- what is turkish airlines pnr
+- 'how long is a flight from nairobi to new york'
+- 'air ticket from nairobi to turkey'
+- 'turkish airlines frankfurt nairobi'
+- 'turkish airlines lounge nairobi kenya'
+- 'what is turkish airlines pnr'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

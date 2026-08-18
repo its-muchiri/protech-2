@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Botswana: Complete Guide'
-description: Everything you need to know about flights from kenya to botswana, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to botswana, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-botswana
-primary_keyword: flights from kenya to botswana
+primary_keyword: 'flights from kenya to botswana'
 secondary_keywords:
-- flight from kenya to qatar price
-- flight from kenya to rwanda time
-- south africa flights from kenya
-- flights from kenya to uae
-- flights from las vegas to kenya
+- 'flight from kenya to qatar price'
+- 'flight from kenya to rwanda time'
+- 'south africa flights from kenya'
+- 'flights from kenya to uae'
+- 'flights from las vegas to kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

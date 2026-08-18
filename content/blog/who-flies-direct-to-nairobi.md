@@ -1,14 +1,14 @@
 ---
 title: 'Who Flies Direct to Nairobi: Complete Guide'
-description: Everything you need to know about who flies direct to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about who flies direct to nairobi, including routes, airlines, booking tips, and fares.'
 slug: who-flies-direct-to-nairobi
-primary_keyword: who flies direct to nairobi
+primary_keyword: 'who flies direct to nairobi'
 secondary_keywords:
-- emirates flight query
-- emirates flights from rome to dubai today
-- flights from surat to dubai united arab emirates
-- emirates flights from usa to europe
-- flights from vijayawada to dubai united arab emirates
+- 'emirates flight query'
+- 'emirates flights from rome to dubai today'
+- 'flights from surat to dubai united arab emirates'
+- 'emirates flights from usa to europe'
+- 'flights from vijayawada to dubai united arab emirates'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

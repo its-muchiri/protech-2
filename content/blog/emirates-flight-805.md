@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 805: Complete Guide'
-description: Everything you need to know about emirates flight 805, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 805, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-805
-primary_keyword: emirates flight 805
+primary_keyword: 'emirates flight 805'
 secondary_keywords:
-- kq flights mombasa
-- kq flight nairobi to new york
-- kq flight rates
-- kq flights to senegal
-- kq flights from nairobi to london
+- 'kq flights mombasa'
+- 'kq flight nairobi to new york'
+- 'kq flight rates'
+- 'kq flights to senegal'
+- 'kq flights from nairobi to london'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

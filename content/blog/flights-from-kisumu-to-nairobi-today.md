@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kisumu to Nairobi Today: Complete Guide'
-description: Everything you need to know about flights from kisumu to nairobi today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kisumu to nairobi today, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kisumu-to-nairobi-today
-primary_keyword: flights from kisumu to nairobi today
+primary_keyword: 'flights from kisumu to nairobi today'
 secondary_keywords:
-- emirates flight from nairobi to ahmedabad
-- emirates flight from nairobi to dubai price
-- emirates flight from kenya to usa
-- emirates airways nairobi
-- emirates nairobi flight cancellation
+- 'emirates flight from nairobi to ahmedabad'
+- 'emirates flight from nairobi to dubai price'
+- 'emirates flight from kenya to usa'
+- 'emirates airways nairobi'
+- 'emirates nairobi flight cancellation'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

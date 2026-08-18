@@ -1,14 +1,14 @@
 ---
 title: 'Flight Ticket to Kenya Price: Complete Guide'
-description: Everything you need to know about flight ticket to kenya price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight ticket to kenya price, including routes, airlines, booking tips, and fares.'
 slug: flight-ticket-to-kenya-price
-primary_keyword: flight ticket to kenya price
+primary_keyword: 'flight ticket to kenya price'
 secondary_keywords:
-- flights from mombasa to malindi
-- flight from mombasa to nairobi time
-- kq flights to mombasa prices from nairobi
-- skyward flights from mombasa to nairobi ticket price
-- mombasa flights from wilson
+- 'flights from mombasa to malindi'
+- 'flight from mombasa to nairobi time'
+- 'kq flights to mombasa prices from nairobi'
+- 'skyward flights from mombasa to nairobi ticket price'
+- 'mombasa flights from wilson'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

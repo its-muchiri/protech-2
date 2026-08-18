@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Sydney: Complete Guide'
-description: Everything you need to know about flights from nairobi to sydney, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to sydney, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-sydney
-primary_keyword: flights from nairobi to sydney
+primary_keyword: 'flights from nairobi to sydney'
 secondary_keywords:
-- what is turkish airlines pnr
-- turkish airlines to nairobi
-- ethiopian airlines offices in nairobi
-- ethiopian airlines nairobi to johannesburg price
-- ethiopian airlines customer service nairobi
+- 'what is turkish airlines pnr'
+- 'turkish airlines to nairobi'
+- 'ethiopian airlines offices in nairobi'
+- 'ethiopian airlines nairobi to johannesburg price'
+- 'ethiopian airlines customer service nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

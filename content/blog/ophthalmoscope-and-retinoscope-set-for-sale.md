@@ -1,14 +1,14 @@
 ---
 title: 'Ophthalmoscope and Retinoscope Set for Sale: 2026 Price Guide'
-description: Kenya buying guide to ophthalmoscope and retinoscope set for sale. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to ophthalmoscope and retinoscope set for sale. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: ophthalmoscope-and-retinoscope-set-for-sale
-primary_keyword: Ophthalmoscope and retinoscope set for sale
+primary_keyword: 'Ophthalmoscope and retinoscope set for sale'
 secondary_keywords:
-- Best MRI machine for orthopedic imaging price
-- Mindray BC-series hematology analyzer suppliers
-- Olympus microscope suppliers in Mombasa
-- Analytical balance for sale in Eldoret
-- Cardiothoracic surgery instruments suppliers in Nairobi
+- 'Best MRI machine for orthopedic imaging price'
+- 'Mindray BC-series hematology analyzer suppliers'
+- 'Olympus microscope suppliers in Mombasa'
+- 'Analytical balance for sale in Eldoret'
+- 'Cardiothoracic surgery instruments suppliers in Nairobi'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

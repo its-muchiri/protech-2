@@ -1,14 +1,14 @@
 ---
 title: 'Buy 4 Day Tsavo Lodge Safari Package from Mombasa: Complete Guide'
-description: Kenya safari guide covering buy 4 day tsavo lodge safari package from mombasa, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy 4 day tsavo lodge safari package from mombasa, including what is included, pricing, and booking advice.'
 slug: buy-4-day-tsavo-lodge-safari-package-from-mombasa
-primary_keyword: Buy 4 day Tsavo lodge safari package from Mombasa
+primary_keyword: 'Buy 4 day Tsavo lodge safari package from Mombasa'
 secondary_keywords:
-- Best time hot air balloon Masai Mara
-- Avoid tourist traps Kenya safari
-- Kenia reisen safari (German)
-- Open top jeep safari Kenya
-- Book Kenya safari tour
+- 'Best time hot air balloon Masai Mara'
+- 'Avoid tourist traps Kenya safari'
+- 'Kenia reisen safari (German)'
+- 'Open top jeep safari Kenya'
+- 'Book Kenya safari tour'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

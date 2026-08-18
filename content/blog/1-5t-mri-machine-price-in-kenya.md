@@ -1,14 +1,14 @@
 ---
 title: '1.5T MRI Machine Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to 1.5t mri machine price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to 1.5t mri machine price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: 1-5t-mri-machine-price-in-kenya
-primary_keyword: 1.5T MRI machine price in Kenya
+primary_keyword: '1.5T MRI machine price in Kenya'
 secondary_keywords:
-- Syringe pump and infusion pump price
-- Portable dental chair for mobile camps
-- Laser therapy machine for pain relief
-- Portable oxygen cylinder refilling services
-- Related Services & Strategic Queries
+- 'Syringe pump and infusion pump price'
+- 'Portable dental chair for mobile camps'
+- 'Laser therapy machine for pain relief'
+- 'Portable oxygen cylinder refilling services'
+- 'Related Services & Strategic Queries'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

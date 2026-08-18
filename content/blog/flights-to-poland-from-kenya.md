@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Poland from Kenya: Complete Guide'
-description: Everything you need to know about flights to poland from kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to poland from kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-to-poland-from-kenya
-primary_keyword: flights to poland from kenya
+primary_keyword: 'flights to poland from kenya'
 secondary_keywords:
-- flights from nairobi to lilongwe malawi
-- flights from nairobi to malindi jambojet
-- flights from nairobi to nairobi
-- flights from or tambo to nairobi
-- cheap flights from nairobi to poland
+- 'flights from nairobi to lilongwe malawi'
+- 'flights from nairobi to malindi jambojet'
+- 'flights from nairobi to nairobi'
+- 'flights from or tambo to nairobi'
+- 'cheap flights from nairobi to poland'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Cost of Flight from Nairobi to Kakamega: Complete Guide'
-description: Everything you need to know about cost of flight from nairobi to kakamega, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cost of flight from nairobi to kakamega, including routes, airlines, booking tips, and fares.'
 slug: cost-of-flight-from-nairobi-to-kakamega
-primary_keyword: cost of flight from nairobi to kakamega
+primary_keyword: 'cost of flight from nairobi to kakamega'
 secondary_keywords:
-- emirates airline kenya nairobi photos
-- emirates 9 west
-- emirates contacts in nairobi
-- emirates holidays nairobi
-- emirates recruitment nairobi
+- 'emirates airline kenya nairobi photos'
+- 'emirates 9 west'
+- 'emirates contacts in nairobi'
+- 'emirates holidays nairobi'
+- 'emirates recruitment nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

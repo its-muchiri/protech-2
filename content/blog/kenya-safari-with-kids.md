@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari with Kids: Complete Guide'
-description: Kenya safari guide covering kenya safari with kids, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari with kids, including what is included, pricing, and booking advice.'
 slug: kenya-safari-with-kids
-primary_keyword: Kenya safari with kids
+primary_keyword: 'Kenya safari with kids'
 secondary_keywords:
-- Tipping guide Kenya safari
-- Camping sites Kenya parks
-- Things to do on Kenya safari
-- Lion safari Kenya
-- Kenya coastal safari
+- 'Tipping guide Kenya safari'
+- 'Camping sites Kenya parks'
+- 'Things to do on Kenya safari'
+- 'Lion safari Kenya'
+- 'Kenya coastal safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

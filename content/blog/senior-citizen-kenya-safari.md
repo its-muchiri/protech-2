@@ -1,14 +1,14 @@
 ---
 title: 'Senior Citizen Kenya Safari: Complete Guide'
-description: Kenya safari guide covering senior citizen kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering senior citizen kenya safari, including what is included, pricing, and booking advice.'
 slug: senior-citizen-kenya-safari
-primary_keyword: Senior citizen Kenya safari
+primary_keyword: 'Senior citizen Kenya safari'
 secondary_keywords:
-- Specific Safari Types (Luxury, Budget, Family, Honeymoon, Private, Group, etc.)
-- Short Kenya safari tour (3-day/4-day) booking USA
-- Nairobi departure Kenya safari packages Europe start city
-- Book Kenya safari from London Heathrow flights included deals
-- Netherlands (Nederland) to Kenya safari packages booking
+- 'Specific Safari Types (Luxury, Budget, Family, Honeymoon, Private, Group, etc.)'
+- 'Short Kenya safari tour (3-day/4-day) booking USA'
+- 'Nairobi departure Kenya safari packages Europe start city'
+- 'Book Kenya safari from London Heathrow flights included deals'
+- 'Netherlands (Nederland) to Kenya safari packages booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

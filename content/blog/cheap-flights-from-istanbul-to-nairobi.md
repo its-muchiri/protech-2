@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Istanbul to Nairobi: Complete Guide'
-description: Everything you need to know about cheap flights from istanbul to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from istanbul to nairobi, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-istanbul-to-nairobi
-primary_keyword: cheap flights from istanbul to nairobi
+primary_keyword: 'cheap flights from istanbul to nairobi'
 secondary_keywords:
-- cost of flight from nairobi to kakamega
-- air arabia flight from nairobi to sharjah price
-- return flight from nairobi to dubai price
-- air india flight from delhi to nairobi status
-- flight from nairobi to uk cost
+- 'cost of flight from nairobi to kakamega'
+- 'air arabia flight from nairobi to sharjah price'
+- 'return flight from nairobi to dubai price'
+- 'air india flight from delhi to nairobi status'
+- 'flight from nairobi to uk cost'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

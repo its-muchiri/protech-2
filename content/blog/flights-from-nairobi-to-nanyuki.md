@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Nanyuki: Complete Guide'
-description: Everything you need to know about flights from nairobi to nanyuki, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to nanyuki, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-nanyuki
-primary_keyword: flights from nairobi to nanyuki
+primary_keyword: 'flights from nairobi to nanyuki'
 secondary_keywords:
-- kenya airways flight nairobi to.kigali
-- kenya airways flight schedule from nairobi to mombasa
-- kenya airways flights from nairobi to south africa price
-- flight from nairobi to zanzibar
-- air india flight from nairobi to delhi status
+- 'kenya airways flight nairobi to.kigali'
+- 'kenya airways flight schedule from nairobi to mombasa'
+- 'kenya airways flights from nairobi to south africa price'
+- 'flight from nairobi to zanzibar'
+- 'air india flight from nairobi to delhi status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

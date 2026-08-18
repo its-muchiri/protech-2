@@ -1,14 +1,14 @@
 ---
 title: 'Community Based Safari Kenya: Complete Guide'
-description: Kenya safari guide covering community based safari kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering community based safari kenya, including what is included, pricing, and booking advice.'
 slug: community-based-safari-kenya
-primary_keyword: Community based safari Kenya
+primary_keyword: 'Community based safari Kenya'
 secondary_keywords:
-- Two week Kenya safari
-- Kenya safari price per day
-- Tsavo lodges
-- Birding tours Kenya
-- Rhino safari Kenya
+- 'Two week Kenya safari'
+- 'Kenya safari price per day'
+- 'Tsavo lodges'
+- 'Birding tours Kenya'
+- 'Rhino safari Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

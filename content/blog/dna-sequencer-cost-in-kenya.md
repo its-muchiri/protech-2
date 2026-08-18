@@ -1,14 +1,14 @@
 ---
 title: 'DNA Sequencer Cost in Kenya: 2026 Price Guide'
-description: Kenya buying guide to dna sequencer cost in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to dna sequencer cost in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: dna-sequencer-cost-in-kenya
-primary_keyword: DNA sequencer cost in Kenya
+primary_keyword: 'DNA sequencer cost in Kenya'
 secondary_keywords:
-- Medical equipment installation and training services
-- X-ray machine quality assurance services
-- Laboratory equipment suppliers in Meru
-- Defibrillator price in Nakuru town
-- Hospital bed manufacturers in Thika
+- 'Medical equipment installation and training services'
+- 'X-ray machine quality assurance services'
+- 'Laboratory equipment suppliers in Meru'
+- 'Defibrillator price in Nakuru town'
+- 'Hospital bed manufacturers in Thika'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

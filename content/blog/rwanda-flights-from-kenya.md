@@ -1,14 +1,14 @@
 ---
 title: 'Rwanda Flights from Kenya: Complete Guide'
-description: Everything you need to know about rwanda flights from kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about rwanda flights from kenya, including routes, airlines, booking tips, and fares.'
 slug: rwanda-flights-from-kenya
-primary_keyword: rwanda flights from kenya
+primary_keyword: 'rwanda flights from kenya'
 secondary_keywords:
-- flights from nairobi to entebbe today
-- flights for nairobi
-- flights from nairobi to goma
-- flights from nairobi to helsinki
-- indigo flights from nairobi to mumbai
+- 'flights from nairobi to entebbe today'
+- 'flights for nairobi'
+- 'flights from nairobi to goma'
+- 'flights from nairobi to helsinki'
+- 'indigo flights from nairobi to mumbai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Russia: Complete Guide'
-description: Everything you need to know about flights from kenya to russia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to russia, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-russia
-primary_keyword: flights from kenya to russia
+primary_keyword: 'flights from kenya to russia'
 secondary_keywords:
-- what airlines fly to ethiopia
-- flights nairobi to
-- flights nairobi to amboseli
-- flights nairobi to brisbane
-- flights nairobi to california
+- 'what airlines fly to ethiopia'
+- 'flights nairobi to'
+- 'flights nairobi to amboseli'
+- 'flights nairobi to brisbane'
+- 'flights nairobi to california'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

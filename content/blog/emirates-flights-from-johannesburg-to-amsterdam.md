@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Johannesburg to Amsterdam: Complete Guide'
-description: Everything you need to know about emirates flights from johannesburg to amsterdam, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from johannesburg to amsterdam, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-johannesburg-to-amsterdam
-primary_keyword: emirates flights from johannesburg to amsterdam
+primary_keyword: 'emirates flights from johannesburg to amsterdam'
 secondary_keywords:
-- return flight from nairobi to dubai
-- safarilink flight from nairobi to mombasa
-- flight from nairobi to usa hours
-- flight from nairobi to watamu
-- cheap flight from nairobi to mombasa
+- 'return flight from nairobi to dubai'
+- 'safarilink flight from nairobi to mombasa'
+- 'flight from nairobi to usa hours'
+- 'flight from nairobi to watamu'
+- 'cheap flight from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

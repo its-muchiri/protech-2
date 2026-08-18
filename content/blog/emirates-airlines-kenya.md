@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Airlines Kenya: Complete Guide'
-description: Everything you need to know about emirates airlines kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates airlines kenya, including routes, airlines, booking tips, and fares.'
 slug: emirates-airlines-kenya
-primary_keyword: emirates airlines kenya
+primary_keyword: 'emirates airlines kenya'
 secondary_keywords:
-- kq flight amsterdam to nairobi
-- kenya airways flights bookings
-- kq flights cancelled
-- kq flight disruptions jkia fuel
-- kq eldoret flights
+- 'kq flight amsterdam to nairobi'
+- 'kenya airways flights bookings'
+- 'kq flights cancelled'
+- 'kq flight disruptions jkia fuel'
+- 'kq eldoret flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Masai Mara Park Fees 2025 Citizens/residents/non-residents: Complete Guide'
-description: Kenya safari guide covering masai mara park fees 2025 citizens/residents/non-residents, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering masai mara park fees 2025 citizens/residents/non-residents, including what is included, pricing, and booking advice.'
 slug: masai-mara-park-fees-2025-citizens-residents-non-residents
-primary_keyword: Masai Mara park fees 2025 citizens/residents/non-residents
+primary_keyword: 'Masai Mara park fees 2025 citizens/residents/non-residents'
 secondary_keywords:
-- Kenya safari cancellation policy
-- Viaggio safari Kenia (Italian)
-- Swahili phrases for safari
-- Buy Kenya safari package
-- Kenya safari availability check and book
+- 'Kenya safari cancellation policy'
+- 'Viaggio safari Kenia (Italian)'
+- 'Swahili phrases for safari'
+- 'Buy Kenya safari package'
+- 'Kenya safari availability check and book'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

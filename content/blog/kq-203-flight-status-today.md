@@ -1,14 +1,14 @@
 ---
 title: 'Kq 203 Flight Status Today: Complete Guide'
-description: Everything you need to know about kq 203 flight status today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 203 flight status today, including routes, airlines, booking tips, and fares.'
 slug: kq-203-flight-status-today
-primary_keyword: kq 203 flight status today
+primary_keyword: 'kq 203 flight status today'
 secondary_keywords:
-- flights from mombasa to ethiopia
-- flights from mombasa to germany
-- flights to mombasa from heathrow
-- flights from mombasa to jkia
-- flights from mombasa to kitale
+- 'flights from mombasa to ethiopia'
+- 'flights from mombasa to germany'
+- 'flights to mombasa from heathrow'
+- 'flights from mombasa to jkia'
+- 'flights from mombasa to kitale'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

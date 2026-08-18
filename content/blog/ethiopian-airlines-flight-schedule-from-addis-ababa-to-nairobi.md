@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Flight Schedule from Addis Ababa to Nairobi: Complete Guide'
-description: Everything you need to know about ethiopian airlines flight schedule from addis ababa to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines flight schedule from addis ababa to nairobi, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-flight-schedule-from-addis-ababa-to-nairobi
-primary_keyword: ethiopian airlines flight schedule from addis ababa to nairobi
+primary_keyword: 'ethiopian airlines flight schedule from addis ababa to nairobi'
 secondary_keywords:
-- flights from london to kisumu kenya
-- flight from kisumu to maasai mara
-- skyward flights from kisumu to nairobi
-- kq flights from eldoret to nairobi price
-- flights in eldoret
+- 'flights from london to kisumu kenya'
+- 'flight from kisumu to maasai mara'
+- 'skyward flights from kisumu to nairobi'
+- 'kq flights from eldoret to nairobi price'
+- 'flights in eldoret'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Routes: Complete Guide'
-description: Everything you need to know about turkish airlines routes, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines routes, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-routes
-primary_keyword: turkish airlines routes
+primary_keyword: 'turkish airlines routes'
 secondary_keywords:
-- kq 117 flight status
-- kq 2 flight
-- kq 487 flight status
-- kq 584 flight status
-- kq886 flight status
+- 'kq 117 flight status'
+- 'kq 2 flight'
+- 'kq 487 flight status'
+- 'kq 584 flight status'
+- 'kq886 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

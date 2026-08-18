@@ -1,14 +1,14 @@
 ---
 title: 'Somak Safaris Kenya UK Based Operator: Complete Guide'
-description: Kenya safari guide covering somak safaris kenya uk based operator, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering somak safaris kenya uk based operator, including what is included, pricing, and booking advice.'
 slug: somak-safaris-kenya-uk-based-operator
-primary_keyword: Somak Safaris Kenya UK based operator
+primary_keyword: 'Somak Safaris Kenya UK based operator'
 secondary_keywords:
-- Budget safari lodges Kenya
-- Eco lodges Kenya safari
-- Masai Mara balloon safari
-- Big Five safari Kenya
-- Rare animals Kenya safari
+- 'Budget safari lodges Kenya'
+- 'Eco lodges Kenya safari'
+- 'Masai Mara balloon safari'
+- 'Big Five safari Kenya'
+- 'Rare animals Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

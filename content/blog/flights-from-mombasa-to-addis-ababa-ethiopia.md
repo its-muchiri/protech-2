@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Addis Ababa Ethiopia: Complete Guide'
-description: Everything you need to know about flights from mombasa to addis ababa ethiopia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to addis ababa ethiopia, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-addis-ababa-ethiopia
-primary_keyword: flights from mombasa to addis ababa ethiopia
+primary_keyword: 'flights from mombasa to addis ababa ethiopia'
 secondary_keywords:
-- emirates flights from toronto to dubai schedule
-- emirates flights from vancouver to dubai
-- emirates flight from washington dc to dubai
-- emirates flights from new york to europe
-- emirates flight from zimbabwe to dubai
+- 'emirates flights from toronto to dubai schedule'
+- 'emirates flights from vancouver to dubai'
+- 'emirates flight from washington dc to dubai'
+- 'emirates flights from new york to europe'
+- 'emirates flight from zimbabwe to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

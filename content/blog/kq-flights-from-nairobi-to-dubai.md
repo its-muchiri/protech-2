@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from Nairobi to Dubai: Complete Guide'
-description: Everything you need to know about kq flights from nairobi to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from nairobi to dubai, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-nairobi-to-dubai
-primary_keyword: kq flights from nairobi to dubai
+primary_keyword: 'kq flights from nairobi to dubai'
 secondary_keywords:
-- kq flights eldoret to nairobi
-- kq flight status
-- kq airlines contact number
-- kq kisumu flight schedule
-- kq flights from london to nairobi today
+- 'kq flights eldoret to nairobi'
+- 'kq flight status'
+- 'kq airlines contact number'
+- 'kq kisumu flight schedule'
+- 'kq flights from london to nairobi today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

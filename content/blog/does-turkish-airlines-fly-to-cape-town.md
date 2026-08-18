@@ -1,14 +1,14 @@
 ---
 title: 'Does Turkish Airlines Fly to Cape Town: Complete Guide'
-description: Everything you need to know about does turkish airlines fly to cape town, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about does turkish airlines fly to cape town, including routes, airlines, booking tips, and fares.'
 slug: does-turkish-airlines-fly-to-cape-town
-primary_keyword: does turkish airlines fly to cape town
+primary_keyword: 'does turkish airlines fly to cape town'
 secondary_keywords:
-- how much is a flight from nairobi to america
-- flights from mombasa to arusha
-- flights from boston to mombasa kenya
-- flights to mombasa cost
-- flights to mombasa direct
+- 'how much is a flight from nairobi to america'
+- 'flights from mombasa to arusha'
+- 'flights from boston to mombasa kenya'
+- 'flights to mombasa cost'
+- 'flights to mombasa direct'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

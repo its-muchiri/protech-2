@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Rdu: Complete Guide'
-description: Everything you need to know about flights from nairobi to rdu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to rdu, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-rdu
-primary_keyword: flights from nairobi to rdu
+primary_keyword: 'flights from nairobi to rdu'
 secondary_keywords:
-- flights nairobi to garissa
-- flights nairobi to heathrow
-- flight time nairobi to india
-- jambojet flights nairobi to kisumu
-- kenya airways flights nairobi to lamu
+- 'flights nairobi to garissa'
+- 'flights nairobi to heathrow'
+- 'flight time nairobi to india'
+- 'jambojet flights nairobi to kisumu'
+- 'kenya airways flights nairobi to lamu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Recommended Kenya Tour Operators for Migration Safari Viewing: Complete Guide'
-description: Kenya safari guide covering recommended kenya tour operators for migration safari viewing, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering recommended kenya tour operators for migration safari viewing, including what is included, pricing, and booking advice.'
 slug: recommended-kenya-tour-operators-for-migration-safari-viewing
-primary_keyword: Recommended Kenya tour operators for migration safari viewing
+primary_keyword: 'Recommended Kenya tour operators for migration safari viewing'
 secondary_keywords:
-- Eco lodges Kenya safari
-- Masai Mara balloon safari
-- Big Five safari Kenya
-- Rare animals Kenya safari
-- Drive Nairobi to Amboseli safari
+- 'Eco lodges Kenya safari'
+- 'Masai Mara balloon safari'
+- 'Big Five safari Kenya'
+- 'Rare animals Kenya safari'
+- 'Drive Nairobi to Amboseli safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

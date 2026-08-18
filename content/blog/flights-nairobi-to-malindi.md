@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Malindi: Complete Guide'
-description: Everything you need to know about flights nairobi to malindi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to malindi, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-malindi
-primary_keyword: flights nairobi to malindi
+primary_keyword: 'flights nairobi to malindi'
 secondary_keywords:
-- flights from winnipeg canada to nairobi kenya
-- flights from yemen to kenya
-- flights from nairobi kenya to bulawayo zimbabwe
-- cheap flights from kenya to uganda
-- kq flights from nairobi to mombasa
+- 'flights from winnipeg canada to nairobi kenya'
+- 'flights from yemen to kenya'
+- 'flights from nairobi kenya to bulawayo zimbabwe'
+- 'cheap flights from kenya to uganda'
+- 'kq flights from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

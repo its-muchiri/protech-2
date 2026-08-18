@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Holidays from UK Book Online ABTA/ATOL Protected: Complete Guide'
-description: Kenya safari guide covering kenya safari holidays from uk book online abta/atol protected, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari holidays from uk book online abta/atol protected, including what is included, pricing, and booking advice.'
 slug: kenya-safari-holidays-from-uk-book-online-abta-atol-protected
-primary_keyword: Kenya safari holidays from UK book online ABTA/ATOL protected
+primary_keyword: 'Kenya safari holidays from UK book online ABTA/ATOL protected'
 secondary_keywords:
-- Purchase 7 day all-inclusive Governors Camp package deal Masai Mara
-- Secure 7 day fly-in safari package Finch Hattons Tsavo West deal booking
-- Destination Management Companies (DMCs) Kenya list
-- Combine Amboseli Tsavo safari 5 day itinerary
-- Meru National Park safari lodges Elsa''s Kopje price
+- 'Purchase 7 day all-inclusive Governors Camp package deal Masai Mara'
+- 'Secure 7 day fly-in safari package Finch Hattons Tsavo West deal booking'
+- 'Destination Management Companies (DMCs) Kenya list'
+- 'Combine Amboseli Tsavo safari 5 day itinerary'
+- 'Meru National Park safari lodges Elsa''''s Kopje price'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

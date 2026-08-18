@@ -1,14 +1,14 @@
 ---
 title: 'Google Flights Nairobi to Cape Town: Complete Guide'
-description: Everything you need to know about google flights nairobi to cape town, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about google flights nairobi to cape town, including routes, airlines, booking tips, and fares.'
 slug: google-flights-nairobi-to-cape-town
-primary_keyword: google flights nairobi to cape town
+primary_keyword: 'google flights nairobi to cape town'
 secondary_keywords:
-- emirates flights from orlando to dubai
-- emirates flights from pakistan to london
-- emirates flight questions
-- emirates flights from rome to melbourne
-- emirates flights from singapore to dubai
+- 'emirates flights from orlando to dubai'
+- 'emirates flights from pakistan to london'
+- 'emirates flight questions'
+- 'emirates flights from rome to melbourne'
+- 'emirates flights from singapore to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

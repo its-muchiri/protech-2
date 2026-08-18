@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Ticket Price from Addis Ababa to Nairobi Today: Complete Guide'
-description: Everything you need to know about ethiopian airlines ticket price from addis ababa to nairobi today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines ticket price from addis ababa to nairobi today, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-ticket-price-from-addis-ababa-to-nairobi-today
-primary_keyword: ethiopian airlines ticket price from addis ababa to nairobi today
+primary_keyword: 'ethiopian airlines ticket price from addis ababa to nairobi today'
 secondary_keywords:
-- kenya airways fare from kenya to usa
-- flight from nairobi to addis ababa
-- a flight from nairobi to mombasa
-- ba flight from nairobi today
-- cheapest flight from nairobi to china
+- 'kenya airways fare from kenya to usa'
+- 'flight from nairobi to addis ababa'
+- 'a flight from nairobi to mombasa'
+- 'ba flight from nairobi today'
+- 'cheapest flight from nairobi to china'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

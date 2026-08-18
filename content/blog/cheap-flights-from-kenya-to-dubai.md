@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Kenya to Dubai: Complete Guide'
-description: Everything you need to know about cheap flights from kenya to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from kenya to dubai, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-kenya-to-dubai
-primary_keyword: cheap flights from kenya to dubai
+primary_keyword: 'cheap flights from kenya to dubai'
 secondary_keywords:
-- kenya airways flights from nairobi to ahmedabad
-- kenya airways flight from cape town to nairobi
-- kenya airways flights from nairobi to lagos
-- kenya airways flight from nairobi to london today price
-- kenya airways flight from mombasa to nairobi today
+- 'kenya airways flights from nairobi to ahmedabad'
+- 'kenya airways flight from cape town to nairobi'
+- 'kenya airways flights from nairobi to lagos'
+- 'kenya airways flight from nairobi to london today price'
+- 'kenya airways flight from mombasa to nairobi today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

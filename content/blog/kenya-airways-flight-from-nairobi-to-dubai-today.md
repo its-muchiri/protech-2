@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from Nairobi to Dubai Today: Complete Guide'
-description: Everything you need to know about kenya airways flight from nairobi to dubai today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from nairobi to dubai today, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-nairobi-to-dubai-today
-primary_keyword: kenya airways flight from nairobi to dubai today
+primary_keyword: 'kenya airways flight from nairobi to dubai today'
 secondary_keywords:
-- emirates flights for pakistan
-- emirates flights from glasgow to abu dhabi
-- how many emirates flights from toronto to dubai
-- emirates flights from italy to dubai
-- emirates flights from dubai to johannesburg today
+- 'emirates flights for pakistan'
+- 'emirates flights from glasgow to abu dhabi'
+- 'how many emirates flights from toronto to dubai'
+- 'emirates flights from italy to dubai'
+- 'emirates flights from dubai to johannesburg today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

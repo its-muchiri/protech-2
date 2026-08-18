@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from South Africa Today: Complete Guide'
-description: Everything you need to know about kq flights from south africa today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from south africa today, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-south-africa-today
-primary_keyword: kq flights from south africa today
+primary_keyword: 'kq flights from south africa today'
 secondary_keywords:
-- kq flights from eldoret to nairobi today
-- eldoret flights
-- kq flights to dubai
-- kq flights to abidjan
-- kq flight schedule
+- 'kq flights from eldoret to nairobi today'
+- 'eldoret flights'
+- 'kq flights to dubai'
+- 'kq flights to abidjan'
+- 'kq flight schedule'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

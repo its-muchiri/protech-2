@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Juba: Complete Guide'
-description: Everything you need to know about kq flights to juba, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to juba, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-juba
-primary_keyword: kq flights to juba
+primary_keyword: 'kq flights to juba'
 secondary_keywords:
-- cheap flights nairobi to kuala lumpur
-- zurich to nairobi flights
-- cheap flights nairobi to ukunda
-- emirates flights from adelaide to dubai
-- emirates flights from beirut to dubai
+- 'cheap flights nairobi to kuala lumpur'
+- 'zurich to nairobi flights'
+- 'cheap flights nairobi to ukunda'
+- 'emirates flights from adelaide to dubai'
+- 'emirates flights from beirut to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

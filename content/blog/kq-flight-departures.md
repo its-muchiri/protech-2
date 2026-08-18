@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight Departures: Complete Guide'
-description: Everything you need to know about kq flight departures, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight departures, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-departures
-primary_keyword: kq flight departures
+primary_keyword: 'kq flight departures'
 secondary_keywords:
-- how many emirates flights from glasgow
-- emirates flights to india from dubai
-- emirates flights from kochi to dubai
-- emirates flights from lusaka to harare
-- emirates flights to australia from manchester
+- 'how many emirates flights from glasgow'
+- 'emirates flights to india from dubai'
+- 'emirates flights from kochi to dubai'
+- 'emirates flights from lusaka to harare'
+- 'emirates flights to australia from manchester'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

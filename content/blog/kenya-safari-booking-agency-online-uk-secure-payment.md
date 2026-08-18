@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Booking Agency Online UK Secure Payment: Complete Guide'
-description: Kenya safari guide covering kenya safari booking agency online uk secure payment, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari booking agency online uk secure payment, including what is included, pricing, and booking advice.'
 slug: kenya-safari-booking-agency-online-uk-secure-payment
-primary_keyword: Kenya safari booking agency online UK secure payment
+primary_keyword: 'Kenya safari booking agency online UK secure payment'
 secondary_keywords:
-- Masai Mara safari companies from Nairobi
-- Watamu marine park snorkeling tours
-- Fly-in safari operators Kenya Mara North
-- Activity-Specific Searches
-- Rock climbing tours Hell''s Gate
+- 'Masai Mara safari companies from Nairobi'
+- 'Watamu marine park snorkeling tours'
+- 'Fly-in safari operators Kenya Mara North'
+- 'Activity-Specific Searches'
+- 'Rock climbing tours Hell''''s Gate'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

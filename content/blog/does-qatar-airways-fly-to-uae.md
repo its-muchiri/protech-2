@@ -1,14 +1,14 @@
 ---
 title: 'Does Qatar Airways Fly to Uae: Complete Guide'
-description: Everything you need to know about does qatar airways fly to uae, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about does qatar airways fly to uae, including routes, airlines, booking tips, and fares.'
 slug: does-qatar-airways-fly-to-uae
-primary_keyword: does qatar airways fly to uae
+primary_keyword: 'does qatar airways fly to uae'
 secondary_keywords:
-- 748 flights from nairobi to mombasa
-- flights from mombasa to lamu
-- are there direct flights from london to mombasa
-- flights from mombasa to cairo
-- flights from mombasa to diani
+- '748 flights from nairobi to mombasa'
+- 'flights from mombasa to lamu'
+- 'are there direct flights from london to mombasa'
+- 'flights from mombasa to cairo'
+- 'flights from mombasa to diani'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

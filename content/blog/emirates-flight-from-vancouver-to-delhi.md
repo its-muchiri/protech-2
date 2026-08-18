@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight from Vancouver to Delhi: Complete Guide'
-description: Everything you need to know about emirates flight from vancouver to delhi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight from vancouver to delhi, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-from-vancouver-to-delhi
-primary_keyword: emirates flight from vancouver to delhi
+primary_keyword: 'emirates flight from vancouver to delhi'
 secondary_keywords:
-- emirates flights from amsterdam
-- emirates flights from beirut
-- cheapest emirates flights from dubai
-- emirates flights from edinburgh
-- emirates flights first class
+- 'emirates flights from amsterdam'
+- 'emirates flights from beirut'
+- 'cheapest emirates flights from dubai'
+- 'emirates flights from edinburgh'
+- 'emirates flights first class'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

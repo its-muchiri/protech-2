@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Nairobi from Johannesburg: Complete Guide'
-description: Everything you need to know about flights to nairobi from johannesburg, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to nairobi from johannesburg, including routes, airlines, booking tips, and fares.'
 slug: flights-to-nairobi-from-johannesburg
-primary_keyword: flights to nairobi from johannesburg
+primary_keyword: 'flights to nairobi from johannesburg'
 secondary_keywords:
-- flights nairobi to loisaba
-- nairobi to malindi flights
-- nairobi to namibia flights
-- flights nairobi to phuket
-- flights to qatar from nairobi
+- 'flights nairobi to loisaba'
+- 'nairobi to malindi flights'
+- 'nairobi to namibia flights'
+- 'flights nairobi to phuket'
+- 'flights to qatar from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Dental Chair with Full Unit Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to dental chair with full unit price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to dental chair with full unit price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: dental-chair-with-full-unit-price-in-kenya
-primary_keyword: Dental chair with full unit price in Kenya
+primary_keyword: 'Dental chair with full unit price in Kenya'
 secondary_keywords:
-- Used physiotherapy machines for sale in Kenya
-- Second-hand dental chair for sale in Kisumu
-- Dental autoclave sterilizer price in Kenya
-- Veterinary hematology analyzer price in Nairobi
-- Veterinary consumables and pharmaceuticals in Kenya
+- 'Used physiotherapy machines for sale in Kenya'
+- 'Second-hand dental chair for sale in Kisumu'
+- 'Dental autoclave sterilizer price in Kenya'
+- 'Veterinary hematology analyzer price in Nairobi'
+- 'Veterinary consumables and pharmaceuticals in Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

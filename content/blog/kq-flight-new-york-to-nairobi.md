@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight New York to Nairobi: Complete Guide'
-description: Everything you need to know about kq flight new york to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight new york to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-new-york-to-nairobi
-primary_keyword: kq flight new york to nairobi
+primary_keyword: 'kq flight new york to nairobi'
 secondary_keywords:
-- cheapest emirates flights from london
-- emirates flights from edinburgh to dubai
-- emirates flights food
-- emirates flights from glasgow to dubai today
-- emirates flights from heathrow terminal
+- 'cheapest emirates flights from london'
+- 'emirates flights from edinburgh to dubai'
+- 'emirates flights food'
+- 'emirates flights from glasgow to dubai today'
+- 'emirates flights from heathrow terminal'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

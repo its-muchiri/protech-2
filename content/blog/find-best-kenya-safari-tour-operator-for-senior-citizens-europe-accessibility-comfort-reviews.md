@@ -1,14 +1,14 @@
 ---
 title: 'Find Best Kenya Safari Tour Operator for Senior Citizens Europe Accessibility Comfort Reviews: Complete Guide'
-description: Kenya safari guide covering find best kenya safari tour operator for senior citizens europe accessibility comfort reviews, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering find best kenya safari tour operator for senior citizens europe accessibility comfort reviews, including what is included, pricing, and booking advice.'
 slug: find-best-kenya-safari-tour-operator-for-senior-citizens-europe-accessibility-comfort-reviews
-primary_keyword: Find best Kenya safari tour operator for senior citizens Europe accessibility comfort reviews
+primary_keyword: 'Find best Kenya safari tour operator for senior citizens Europe accessibility comfort reviews'
 secondary_keywords:
-- Best Kenya honeymoon tour operators
-- Kenya safari flash sale booking
-- Kenya fly-in circuit safari package buy
-- Dry season Kenya safari package deals
-- Compare packages from Kenya safari companies
+- 'Best Kenya honeymoon tour operators'
+- 'Kenya safari flash sale booking'
+- 'Kenya fly-in circuit safari package buy'
+- 'Dry season Kenya safari package deals'
+- 'Compare packages from Kenya safari companies'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

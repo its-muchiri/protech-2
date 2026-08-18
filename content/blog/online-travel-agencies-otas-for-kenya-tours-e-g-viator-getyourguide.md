@@ -1,14 +1,14 @@
 ---
 title: 'Online Travel Agencies (OTAs) for Kenya Tours (e.g., Viator, GetYourGuide): Complete Guide'
-description: Kenya safari guide covering online travel agencies (otas) for kenya tours (e.g., viator, getyourguide), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering online travel agencies (otas) for kenya tours (e.g., viator, getyourguide), including what is included, pricing, and booking advice.'
 slug: online-travel-agencies-otas-for-kenya-tours-e-g-viator-getyourguide
-primary_keyword: Online travel agencies (OTAs) for Kenya tours (e.g., Viator, GetYourGuide)
+primary_keyword: 'Online travel agencies (OTAs) for Kenya tours (e.g., Viator, GetYourGuide)'
 secondary_keywords:
-- Luxury Masai Mara safari deals
-- Kenya luxury honeymoon safari package
-- Anniversary safari package Kenya booking
-- Last minute Kenya safari package deals
-- Amboseli Tsavo East West package booking
+- 'Luxury Masai Mara safari deals'
+- 'Kenya luxury honeymoon safari package'
+- 'Anniversary safari package Kenya booking'
+- 'Last minute Kenya safari package deals'
+- 'Amboseli Tsavo East West package booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

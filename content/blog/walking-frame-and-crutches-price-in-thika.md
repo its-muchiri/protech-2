@@ -1,14 +1,14 @@
 ---
 title: 'Walking Frame and Crutches Price in Thika: 2026 Price Guide'
-description: Kenya buying guide to walking frame and crutches price in thika. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to walking frame and crutches price in thika. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: walking-frame-and-crutches-price-in-thika
-primary_keyword: Walking frame and crutches price in Thika
+primary_keyword: 'Walking frame and crutches price in Thika'
 secondary_keywords:
-- cryo storage equipment Kenya
-- HDU equipment Kenya
-- medical equipment financing Kenya
-- infection control products for clinics Kenya
-- medical equipment for remote areas Kenya
+- 'cryo storage equipment Kenya'
+- 'HDU equipment Kenya'
+- 'medical equipment financing Kenya'
+- 'infection control products for clinics Kenya'
+- 'medical equipment for remote areas Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kq 3 Flight Status: Complete Guide'
-description: Everything you need to know about kq 3 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 3 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq-3-flight-status
-primary_keyword: kq 3 flight status
+primary_keyword: 'kq 3 flight status'
 secondary_keywords:
-- kq flights arrivals
-- kq flights to amsterdam
-- kenya airways flight schedule
-- kq check in for international flights
-- kq direct flights
+- 'kq flights arrivals'
+- 'kq flights to amsterdam'
+- 'kenya airways flight schedule'
+- 'kq check in for international flights'
+- 'kq direct flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

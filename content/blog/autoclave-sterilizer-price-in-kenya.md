@@ -1,14 +1,14 @@
 ---
 title: 'Autoclave Sterilizer Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to autoclave sterilizer price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to autoclave sterilizer price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: autoclave-sterilizer-price-in-kenya
-primary_keyword: Autoclave sterilizer price in Kenya
+primary_keyword: 'Autoclave sterilizer price in Kenya'
 secondary_keywords:
-- Roche Cobas chemistry analyzer suppliers in Nairobi
-- Centrifuge tube distributors in Nairobi
-- DNA sequencer cost in Kenya
-- Operating theatre table price in Kenya
-- Biphasic defibrillator with monitor price
+- 'Roche Cobas chemistry analyzer suppliers in Nairobi'
+- 'Centrifuge tube distributors in Nairobi'
+- 'DNA sequencer cost in Kenya'
+- 'Operating theatre table price in Kenya'
+- 'Biphasic defibrillator with monitor price'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

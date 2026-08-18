@@ -1,14 +1,14 @@
 ---
 title: 'How Far Is Ethiopia from Kenya by Plane: Complete Guide'
-description: Everything you need to know about how far is ethiopia from kenya by plane, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how far is ethiopia from kenya by plane, including routes, airlines, booking tips, and fares.'
 slug: how-far-is-ethiopia-from-kenya-by-plane
-primary_keyword: how far is ethiopia from kenya by plane
+primary_keyword: 'how far is ethiopia from kenya by plane'
 secondary_keywords:
-- ticket from kenya to uganda
-- which airlines are flying to kenya
-- cheap flights from beirut to kenya in dollars today
-- domestic flights in kenya
-- flights to kenya from manchester
+- 'ticket from kenya to uganda'
+- 'which airlines are flying to kenya'
+- 'cheap flights from beirut to kenya in dollars today'
+- 'domestic flights in kenya'
+- 'flights to kenya from manchester'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

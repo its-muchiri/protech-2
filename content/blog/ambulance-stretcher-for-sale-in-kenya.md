@@ -1,14 +1,14 @@
 ---
 title: 'Ambulance Stretcher for Sale in Kenya: 2026 Price Guide'
-description: Kenya buying guide to ambulance stretcher for sale in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to ambulance stretcher for sale in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: ambulance-stretcher-for-sale-in-kenya
-primary_keyword: Ambulance stretcher for sale in Kenya
+primary_keyword: 'Ambulance stretcher for sale in Kenya'
 secondary_keywords:
-- Clinical chemistry analyzer cost in Kenya
-- Microhematocrit centrifuge in Kenya
-- Blood bank refrigerator price in Kenya
-- Dental surgical instruments in Mombasa
-- 5-parameter patient monitor suppliers in Mombasa
+- 'Clinical chemistry analyzer cost in Kenya'
+- 'Microhematocrit centrifuge in Kenya'
+- 'Blood bank refrigerator price in Kenya'
+- 'Dental surgical instruments in Mombasa'
+- '5-parameter patient monitor suppliers in Mombasa'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

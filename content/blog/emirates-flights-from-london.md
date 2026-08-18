@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from London: Complete Guide'
-description: Everything you need to know about emirates flights from london, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from london, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-london
-primary_keyword: emirates flights from london
+primary_keyword: 'emirates flights from london'
 secondary_keywords:
-- kenya airways flight from nairobi to usa
-- kenya airways flights from nairobi to ahmedabad
-- kenya airways flight from cape town to nairobi
-- kenya airways flights from nairobi to lagos
-- kenya airways flight from nairobi to london today price
+- 'kenya airways flight from nairobi to usa'
+- 'kenya airways flights from nairobi to ahmedabad'
+- 'kenya airways flight from cape town to nairobi'
+- 'kenya airways flights from nairobi to lagos'
+- 'kenya airways flight from nairobi to london today price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

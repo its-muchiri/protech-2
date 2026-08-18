@@ -1,14 +1,14 @@
 ---
 title: 'Air India Flight from Nairobi to Mumbai: Complete Guide'
-description: Everything you need to know about air india flight from nairobi to mumbai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about air india flight from nairobi to mumbai, including routes, airlines, booking tips, and fares.'
 slug: air-india-flight-from-nairobi-to-mumbai
-primary_keyword: air india flight from nairobi to mumbai
+primary_keyword: 'air india flight from nairobi to mumbai'
 secondary_keywords:
-- harare to nairobi flights
-- flights nairobi to juba
-- flights nairobi to kitale
-- flights nairobi to lamu island
-- nairobi to mombasa flights
+- 'harare to nairobi flights'
+- 'flights nairobi to juba'
+- 'flights nairobi to kitale'
+- 'flights nairobi to lamu island'
+- 'nairobi to mombasa flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

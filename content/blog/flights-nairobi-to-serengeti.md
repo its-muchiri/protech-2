@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Serengeti: Complete Guide'
-description: Everything you need to know about flights nairobi to serengeti, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to serengeti, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-serengeti
-primary_keyword: flights nairobi to serengeti
+primary_keyword: 'flights nairobi to serengeti'
 secondary_keywords:
-- turkish airlines routes
-- turkish airlines airport contact number
-- turkish airlines in nairobi offices
-- turkish airlines mombasa
-- turkish airlines nairobi terminal
+- 'turkish airlines routes'
+- 'turkish airlines airport contact number'
+- 'turkish airlines in nairobi offices'
+- 'turkish airlines mombasa'
+- 'turkish airlines nairobi terminal'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

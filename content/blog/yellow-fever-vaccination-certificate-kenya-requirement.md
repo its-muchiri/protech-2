@@ -1,14 +1,14 @@
 ---
 title: 'Yellow Fever Vaccination Certificate Kenya Requirement: Complete Guide'
-description: Kenya safari guide covering yellow fever vaccination certificate kenya requirement, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering yellow fever vaccination certificate kenya requirement, including what is included, pricing, and booking advice.'
 slug: yellow-fever-vaccination-certificate-kenya-requirement
-primary_keyword: Yellow fever vaccination certificate Kenya requirement
+primary_keyword: 'Yellow fever vaccination certificate Kenya requirement'
 secondary_keywords:
-- Great Rift Valley safari Kenya
-- Kenia safari precios (Spanish)
-- Kenya safari documentaries
-- Get Kenya safari quote
-- Finalize Kenya safari booking
+- 'Great Rift Valley safari Kenya'
+- 'Kenia safari precios (Spanish)'
+- 'Kenya safari documentaries'
+- 'Get Kenya safari quote'
+- 'Finalize Kenya safari booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

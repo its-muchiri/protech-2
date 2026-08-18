@@ -1,14 +1,14 @@
 ---
 title: 'Medical Weighing Scale for Adults: 2026 Price Guide'
-description: Kenya buying guide to medical weighing scale for adults. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to medical weighing scale for adults. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: medical-weighing-scale-for-adults
-primary_keyword: Medical weighing scale for adults
+primary_keyword: 'Medical weighing scale for adults'
 secondary_keywords:
-- Posture mirror for clinic
-- Dental X-ray film and developer suppliers
-- How much does it cost to set up a dental clinic in Kenya
-- Animal cages and kennels for a vet clinic
-- CPAP machine for sleep apnea for sale in Kisumu
+- 'Posture mirror for clinic'
+- 'Dental X-ray film and developer suppliers'
+- 'How much does it cost to set up a dental clinic in Kenya'
+- 'Animal cages and kennels for a vet clinic'
+- 'CPAP machine for sleep apnea for sale in Kisumu'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'TENS Machine Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to tens machine price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to tens machine price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: tens-machine-price-in-kenya
-primary_keyword: TENS machine price in Kenya
+primary_keyword: 'TENS machine price in Kenya'
 secondary_keywords:
-- Financing options for an MRI machine in Kenya
-- Hematology analyzer price in Kenya
-- Binocular microscope price in Kenya
-- Water bath for laboratory in Kisumu
-- ENT instrument set for a clinic in Kisumu
+- 'Financing options for an MRI machine in Kenya'
+- 'Hematology analyzer price in Kenya'
+- 'Binocular microscope price in Kenya'
+- 'Water bath for laboratory in Kisumu'
+- 'ENT instrument set for a clinic in Kisumu'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

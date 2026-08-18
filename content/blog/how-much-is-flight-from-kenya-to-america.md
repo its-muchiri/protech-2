@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is Flight from Kenya to America: Complete Guide'
-description: Everything you need to know about how much is flight from kenya to america, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is flight from kenya to america, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-flight-from-kenya-to-america
-primary_keyword: how much is flight from kenya to america
+primary_keyword: 'how much is flight from kenya to america'
 secondary_keywords:
-- air india flight from nairobi to mumbai
-- british airways flight from nairobi to london
-- cheapest flight from nairobi to mombasa
-- domestic flight from nairobi to mombasa price in ksh
-- flight for nairobi
+- 'air india flight from nairobi to mumbai'
+- 'british airways flight from nairobi to london'
+- 'cheapest flight from nairobi to mombasa'
+- 'domestic flight from nairobi to mombasa price in ksh'
+- 'flight for nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

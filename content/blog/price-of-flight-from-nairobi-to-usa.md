@@ -1,14 +1,14 @@
 ---
 title: 'Price of Flight from Nairobi to Usa: Complete Guide'
-description: Everything you need to know about price of flight from nairobi to usa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about price of flight from nairobi to usa, including routes, airlines, booking tips, and fares.'
 slug: price-of-flight-from-nairobi-to-usa
-primary_keyword: price of flight from nairobi to usa
+primary_keyword: 'price of flight from nairobi to usa'
 secondary_keywords:
-- nairobi to lamu flights
-- mumbai to nairobi flights
-- flights nairobi to ottawa
-- nairobi to kisumu flights price
-- qatar airways flights to nairobi today
+- 'nairobi to lamu flights'
+- 'mumbai to nairobi flights'
+- 'flights nairobi to ottawa'
+- 'nairobi to kisumu flights price'
+- 'qatar airways flights to nairobi today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

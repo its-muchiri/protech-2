@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Tented Safari: Complete Guide'
-description: Kenya safari guide covering kenya tented safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya tented safari, including what is included, pricing, and booking advice.'
 slug: kenya-tented-safari
-primary_keyword: Kenya tented safari
+primary_keyword: 'Kenya tented safari'
 secondary_keywords:
-- Buy all-inclusive Kenya safari deal USA 2025
-- Kenya safari packages cost from UK 2025
-- Get quote for custom Kenya safari UK specialist
-- Kenya photographic safari workshop booking UK pro guide
-- Specific Locations (Masai Mara, Amboseli, Tsavo, Samburu, Nakuru, Laikipia, etc.)
+- 'Buy all-inclusive Kenya safari deal USA 2025'
+- 'Kenya safari packages cost from UK 2025'
+- 'Get quote for custom Kenya safari UK specialist'
+- 'Kenya photographic safari workshop booking UK pro guide'
+- 'Specific Locations (Masai Mara, Amboseli, Tsavo, Samburu, Nakuru, Laikipia, etc.)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

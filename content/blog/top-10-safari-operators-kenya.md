@@ -1,14 +1,14 @@
 ---
 title: 'Top 10 Safari Operators Kenya: Complete Guide'
-description: Kenya safari guide covering top 10 safari operators kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering top 10 safari operators kenya, including what is included, pricing, and booking advice.'
 slug: top-10-safari-operators-kenya
-primary_keyword: Top 10 safari operators Kenya
+primary_keyword: 'Top 10 safari operators Kenya'
 secondary_keywords:
-- Purchase Kenya safari star gazing experience package USA dark sky locations lodges booking
-- Reserve Olorgesailie Prehistoric Site tour safari add-on Kenya Europe archaeology enthusiasts booking
-- See Kenya safari
-- Meru National Park safari
-- Kenya parks safari tour
+- 'Purchase Kenya safari star gazing experience package USA dark sky locations lodges booking'
+- 'Reserve Olorgesailie Prehistoric Site tour safari add-on Kenya Europe archaeology enthusiasts booking'
+- 'See Kenya safari'
+- 'Meru National Park safari'
+- 'Kenya parks safari tour'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

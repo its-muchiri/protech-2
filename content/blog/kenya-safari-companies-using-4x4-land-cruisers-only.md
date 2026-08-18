@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Companies Using 4x4 Land Cruisers Only: Complete Guide'
-description: Kenya safari guide covering kenya safari companies using 4x4 land cruisers only, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari companies using 4x4 land cruisers only, including what is included, pricing, and booking advice.'
 slug: kenya-safari-companies-using-4x4-land-cruisers-only
-primary_keyword: Kenya safari companies using 4x4 Land Cruisers only
+primary_keyword: 'Kenya safari companies using 4x4 Land Cruisers only'
 secondary_keywords:
-- Kenya Association of Tour Operators (KATO) members directory
-- View Mount Kilimanjaro Amboseli best lodges (e.g., Ol Tukai, Tortilis Camp)
-- Mount Kenya National Park hiking tours Sirimon route lodges
-- Solo traveler safari Kenya group joining options cost
-- Fly 540 / Jambojet flights to Diani / Malindi price
+- 'Kenya Association of Tour Operators (KATO) members directory'
+- 'View Mount Kilimanjaro Amboseli best lodges (e.g., Ol Tukai, Tortilis Camp)'
+- 'Mount Kenya National Park hiking tours Sirimon route lodges'
+- 'Solo traveler safari Kenya group joining options cost'
+- 'Fly 540 / Jambojet flights to Diani / Malindi price'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

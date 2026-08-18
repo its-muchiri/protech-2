@@ -1,14 +1,14 @@
 ---
 title: 'Book Safari Near Nairobi National Park Day Trip Price: Complete Guide'
-description: Kenya safari guide covering book safari near nairobi national park day trip price, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book safari near nairobi national park day trip price, including what is included, pricing, and booking advice.'
 slug: book-safari-near-nairobi-national-park-day-trip-price
-primary_keyword: Book safari near Nairobi National Park day trip price
+primary_keyword: 'Book safari near Nairobi National Park day trip price'
 secondary_keywords:
-- Nairobi National Park half day game drive price / booking
-- Kenya photographic safari tours specialized guides / vehicles
-- Kenya safari and beach combined tours Masai Mara and Diani
-- Best hiking trails near Thika / Kiambu Karura Forest / Kereita Forest Ziplining
-- Day trip to Lake Naivasha from Nairobi / Thika boat ride / Crescent Island cost
+- 'Nairobi National Park half day game drive price / booking'
+- 'Kenya photographic safari tours specialized guides / vehicles'
+- 'Kenya safari and beach combined tours Masai Mara and Diani'
+- 'Best hiking trails near Thika / Kiambu Karura Forest / Kereita Forest Ziplining'
+- 'Day trip to Lake Naivasha from Nairobi / Thika boat ride / Crescent Island cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

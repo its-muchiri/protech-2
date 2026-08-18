@@ -1,14 +1,14 @@
 ---
 title: 'Purchase Private Guided Kenya Safari Booking: Complete Guide'
-description: Kenya safari guide covering purchase private guided kenya safari booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase private guided kenya safari booking, including what is included, pricing, and booking advice.'
 slug: purchase-private-guided-kenya-safari-booking
-primary_keyword: Purchase private guided Kenya safari booking
+primary_keyword: 'Purchase private guided Kenya safari booking'
 secondary_keywords:
-- Secure fly-in Kenya safari package purchase
-- Kenya safari holiday rates enquiry
-- 5 day Amboseli Tsavo combo package rates
-- Cost estimate 10 day budget Kenya Tanzania camping safari
-- Amboseli tour package offers last minute
+- 'Secure fly-in Kenya safari package purchase'
+- 'Kenya safari holiday rates enquiry'
+- '5 day Amboseli Tsavo combo package rates'
+- 'Cost estimate 10 day budget Kenya Tanzania camping safari'
+- 'Amboseli tour package offers last minute'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

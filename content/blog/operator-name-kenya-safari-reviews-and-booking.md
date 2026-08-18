@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Reviews and Booking: Complete Guide'
-description: Kenya safari guide covering  kenya safari reviews and booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering  kenya safari reviews and booking, including what is included, pricing, and booking advice.'
 slug: operator-name-kenya-safari-reviews-and-booking
-primary_keyword: Kenya safari reviews and booking
+primary_keyword: 'Kenya safari reviews and booking'
 secondary_keywords:
-- Group Kenya safari package offers Europe discount
-- Kenya honeymoon safari all-inclusive deals booking
-- Book Kenya horseback riding safari package UK Laikipia
-- Masai Mara migration river crossing tour booking dates 2025
-- All-inclusive Kenya safari from UK cost July 2025
+- 'Group Kenya safari package offers Europe discount'
+- 'Kenya honeymoon safari all-inclusive deals booking'
+- 'Book Kenya horseback riding safari package UK Laikipia'
+- 'Masai Mara migration river crossing tour booking dates 2025'
+- 'All-inclusive Kenya safari from UK cost July 2025'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

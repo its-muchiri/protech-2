@@ -1,14 +1,14 @@
 ---
 title: 'Safe Kenya Safari Tours Booking Certified Guides USA: Complete Guide'
-description: Kenya safari guide covering safe kenya safari tours booking certified guides usa, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering safe kenya safari tours booking certified guides usa, including what is included, pricing, and booking advice.'
 slug: safe-kenya-safari-tours-booking-certified-guides-usa
-primary_keyword: Safe Kenya safari tours booking certified guides USA
+primary_keyword: 'Safe Kenya safari tours booking certified guides USA'
 secondary_keywords:
-- Kenya fly-in safari packages price comparison UK
-- Tsavo East & West safari tour booking Europe red elephants
-- Book safari Taita Hills Wildlife Sanctuary UK Salt Lick Lodge
-- Direct flights London to Nairobi + Kenya safari package UK
-- Budget Kenya safari tour agency Europe reviews affordable
+- 'Kenya fly-in safari packages price comparison UK'
+- 'Tsavo East & West safari tour booking Europe red elephants'
+- 'Book safari Taita Hills Wildlife Sanctuary UK Salt Lick Lodge'
+- 'Direct flights London to Nairobi + Kenya safari package UK'
+- 'Budget Kenya safari tour agency Europe reviews affordable'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

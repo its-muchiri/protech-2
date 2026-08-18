@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Eldoret to Lodwar: Complete Guide'
-description: Everything you need to know about flights from eldoret to lodwar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from eldoret to lodwar, including routes, airlines, booking tips, and fares.'
 slug: flights-from-eldoret-to-lodwar
-primary_keyword: flights from eldoret to lodwar
+primary_keyword: 'flights from eldoret to lodwar'
 secondary_keywords:
-- emirates flights 202
-- emirates flight 368
-- emirates flight 413
-- emirates flight 606
-- emirates flight 804
+- 'emirates flights 202'
+- 'emirates flight 368'
+- 'emirates flight 413'
+- 'emirates flight 606'
+- 'emirates flight 804'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

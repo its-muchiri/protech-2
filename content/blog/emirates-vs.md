@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Vs: Complete Guide'
-description: Everything you need to know about emirates vs, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates vs, including routes, airlines, booking tips, and fares.'
 slug: emirates-vs
-primary_keyword: emirates vs
+primary_keyword: 'emirates vs'
 secondary_keywords:
-- flights from muscat oman to mombasa kenya
-- flights from mombasa to riyadh
-- flights from mombasa to ukunda
-- flights zurich mombasa
-- flights from kisumu to wilson airport
+- 'flights from muscat oman to mombasa kenya'
+- 'flights from mombasa to riyadh'
+- 'flights from mombasa to ukunda'
+- 'flights zurich mombasa'
+- 'flights from kisumu to wilson airport'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

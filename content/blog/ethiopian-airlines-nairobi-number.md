@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Nairobi Number: Complete Guide'
-description: Everything you need to know about ethiopian airlines nairobi number, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines nairobi number, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-nairobi-number
-primary_keyword: ethiopian airlines nairobi number
+primary_keyword: 'ethiopian airlines nairobi number'
 secondary_keywords:
-- emirates flights from mumbai to dubai
-- emirates flights to thailand from newcastle
-- emirates flights from paris to dubai
-- emirates flight quotes
-- emirates flights from riyadh to dubai
+- 'emirates flights from mumbai to dubai'
+- 'emirates flights to thailand from newcastle'
+- 'emirates flights from paris to dubai'
+- 'emirates flight quotes'
+- 'emirates flights from riyadh to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

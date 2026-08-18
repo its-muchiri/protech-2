@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from Nairobi to China Price: Complete Guide'
-description: Everything you need to know about kq flights from nairobi to china price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from nairobi to china price, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-nairobi-to-china-price
-primary_keyword: kq flights from nairobi to china price
+primary_keyword: 'kq flights from nairobi to china price'
 secondary_keywords:
-- cheap flights from mombasa to dar es salaam
-- flights from mombasa to entebbe
-- flights from mombasa to nairobi today
-- flights from houston to mombasa kenya
-- flights from mombasa to jeddah
+- 'cheap flights from mombasa to dar es salaam'
+- 'flights from mombasa to entebbe'
+- 'flights from mombasa to nairobi today'
+- 'flights from houston to mombasa kenya'
+- 'flights from mombasa to jeddah'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

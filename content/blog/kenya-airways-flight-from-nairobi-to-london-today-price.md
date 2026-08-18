@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from Nairobi to London Today Price: Complete Guide'
-description: Everything you need to know about kenya airways flight from nairobi to london today price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from nairobi to london today price, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-nairobi-to-london-today-price
-primary_keyword: kenya airways flight from nairobi to london today price
+primary_keyword: 'kenya airways flight from nairobi to london today price'
 secondary_keywords:
-- 8 emirates
-- qatar airways flight from nairobi to doha today
-- nairobi qatar flights
-- how much flight from nairobi to qatar
-- qatar airways nairobi office opening hours
+- '8 emirates'
+- 'qatar airways flight from nairobi to doha today'
+- 'nairobi qatar flights'
+- 'how much flight from nairobi to qatar'
+- 'qatar airways nairobi office opening hours'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Book Safari Taita Hills Wildlife Sanctuary UK Salt Lick Lodge: Complete Guide'
-description: Kenya safari guide covering book safari taita hills wildlife sanctuary uk salt lick lodge, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book safari taita hills wildlife sanctuary uk salt lick lodge, including what is included, pricing, and booking advice.'
 slug: book-safari-taita-hills-wildlife-sanctuary-uk-salt-lick-lodge
-primary_keyword: Book safari Taita Hills Wildlife Sanctuary UK Salt Lick Lodge
+primary_keyword: 'Book safari Taita Hills Wildlife Sanctuary UK Salt Lick Lodge'
 secondary_keywords:
-- Kenya wellness safari retreat booking UK spa lodge
-- Meru National Park safari cost Europe Elsa''s Kopje booking
-- Masai Mara safari booking from USA dates & availability
-- Kenya travel agents specializing in safaris Europe based
-- Independent travel agent Kenya safari booking Europe
+- 'Kenya wellness safari retreat booking UK spa lodge'
+- 'Meru National Park safari cost Europe Elsa''''s Kopje booking'
+- 'Masai Mara safari booking from USA dates & availability'
+- 'Kenya travel agents specializing in safaris Europe based'
+- 'Independent travel agent Kenya safari booking Europe'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

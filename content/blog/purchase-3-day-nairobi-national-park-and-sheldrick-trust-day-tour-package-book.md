@@ -1,14 +1,14 @@
 ---
 title: 'Purchase 3 Day Nairobi National Park & Sheldrick Trust Day Tour Package Book: Complete Guide'
-description: Kenya safari guide covering purchase 3 day nairobi national park & sheldrick trust day tour package book, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase 3 day nairobi national park & sheldrick trust day tour package book, including what is included, pricing, and booking advice.'
 slug: purchase-3-day-nairobi-national-park-and-sheldrick-trust-day-tour-package-book
-primary_keyword: Purchase 3 day Nairobi National Park & Sheldrick Trust day tour package book
+primary_keyword: 'Purchase 3 day Nairobi National Park & Sheldrick Trust day tour package book'
 secondary_keywords:
-- Book luxury Kenya safari package
-- Bespoke Kenya luxury safari operator
-- Couples safari package Kenya reserve
-- Affordable 7 day Kenya safari booking
-- Masai Mara Lake Nakuru safari package deal
+- 'Book luxury Kenya safari package'
+- 'Bespoke Kenya luxury safari operator'
+- 'Couples safari package Kenya reserve'
+- 'Affordable 7 day Kenya safari booking'
+- 'Masai Mara Lake Nakuru safari package deal'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

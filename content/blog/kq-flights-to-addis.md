@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Addis: Complete Guide'
-description: Everything you need to know about kq flights to addis, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to addis, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-addis
-primary_keyword: kq flights to addis
+primary_keyword: 'kq flights to addis'
 secondary_keywords:
-- how many destinations does kenya airways fly to
-- kq flight from nairobi to new york
-- kq flight from lagos to nairobi
-- kq direct flight from kenya to usa
-- kq flight from nairobi to kigali
+- 'how many destinations does kenya airways fly to'
+- 'kq flight from nairobi to new york'
+- 'kq flight from lagos to nairobi'
+- 'kq direct flight from kenya to usa'
+- 'kq flight from nairobi to kigali'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

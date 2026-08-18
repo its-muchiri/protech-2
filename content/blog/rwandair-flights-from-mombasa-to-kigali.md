@@ -1,14 +1,14 @@
 ---
 title: 'Rwandair Flights from Mombasa to Kigali: Complete Guide'
-description: Everything you need to know about rwandair flights from mombasa to kigali, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about rwandair flights from mombasa to kigali, including routes, airlines, booking tips, and fares.'
 slug: rwandair-flights-from-mombasa-to-kigali
-primary_keyword: rwandair flights from mombasa to kigali
+primary_keyword: 'rwandair flights from mombasa to kigali'
 secondary_keywords:
-- kenya airways flights johannesburg to nairobi
-- kq flights london to nairobi
-- kenya airways flights mombasa to nairobi
-- kq flight online booking
-- kenya airways reward flights
+- 'kenya airways flights johannesburg to nairobi'
+- 'kq flights london to nairobi'
+- 'kenya airways flights mombasa to nairobi'
+- 'kq flight online booking'
+- 'kenya airways reward flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

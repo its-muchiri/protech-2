@@ -1,14 +1,14 @@
 ---
 title: '5-parameter Patient Monitor (ECG, NIBP, SpO2, Resp, Temp): 2026 Price Guide'
-description: Kenya buying guide to 5-parameter patient monitor (ecg, nibp, spo2, resp, temp). Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to 5-parameter patient monitor (ecg, nibp, spo2, resp, temp). Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: 5-parameter-patient-monitor-ecg-nibp-spo2-resp-temp
-primary_keyword: 5-parameter patient monitor (ECG, NIBP, SpO2, Resp, Temp)
+primary_keyword: '5-parameter patient monitor (ECG, NIBP, SpO2, Resp, Temp)'
 secondary_keywords:
-- ICU ventilator price in Kenya
-- Combination therapy unit (IFT, TENS, US) cost
-- Wax bath for physiotherapy cost
-- Apex locator for endodontics price
-- Dental consumables and materials suppliers in Kisumu
+- 'ICU ventilator price in Kenya'
+- 'Combination therapy unit (IFT, TENS, US) cost'
+- 'Wax bath for physiotherapy cost'
+- 'Apex locator for endodontics price'
+- 'Dental consumables and materials suppliers in Kisumu'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

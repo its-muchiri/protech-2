@@ -1,14 +1,14 @@
 ---
 title: 'One Week Kenya Wildlife Tour Budget Enquiry: Complete Guide'
-description: Kenya safari guide covering one week kenya wildlife tour budget enquiry, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering one week kenya wildlife tour budget enquiry, including what is included, pricing, and booking advice.'
 slug: one-week-kenya-wildlife-tour-budget-enquiry
-primary_keyword: One week Kenya wildlife tour budget enquiry
+primary_keyword: 'One week Kenya wildlife tour budget enquiry'
 secondary_keywords:
-- Choose best value Kenya budget safari operator package
-- Book Kenya safari departing  quote needed
-- Reserve 15 day grand Kenya overland truck budget group package booking
-- Reliable Kenya travel agencies near Thika
-- Private tour companies Kenya custom itineraries
+- 'Choose best value Kenya budget safari operator package'
+- 'Book Kenya safari departing  quote needed'
+- 'Reserve 15 day grand Kenya overland truck budget group package booking'
+- 'Reliable Kenya travel agencies near Thika'
+- 'Private tour companies Kenya custom itineraries'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

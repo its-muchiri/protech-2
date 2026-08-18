@@ -1,14 +1,14 @@
 ---
 title: 'A Flight from Nairobi to Mombasa: Complete Guide'
-description: Everything you need to know about a flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about a flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.'
 slug: a-flight-from-nairobi-to-mombasa
-primary_keyword: a flight from nairobi to mombasa
+primary_keyword: 'a flight from nairobi to mombasa'
 secondary_keywords:
-- flights in mombasa
-- jambojet flights from mombasa to nairobi
-- kq flights from mombasa to nairobi today price
-- flights from mombasa to mumbai
-- flights to mombasa from muscat oman
+- 'flights in mombasa'
+- 'jambojet flights from mombasa to nairobi'
+- 'kq flights from mombasa to nairobi today price'
+- 'flights from mombasa to mumbai'
+- 'flights to mombasa from muscat oman'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

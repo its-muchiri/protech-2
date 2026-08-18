@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Atlanta: Complete Guide'
-description: Everything you need to know about flights nairobi to atlanta, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to atlanta, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-atlanta
-primary_keyword: flights nairobi to atlanta
+primary_keyword: 'flights nairobi to atlanta'
 secondary_keywords:
-- flights from kisumu to entebbe
-- flights kisumu kenya to mombasa kenya
-- flights from kisumu to masai mara
-- is there a direct flight from kisumu to mombasa
-- jambojet flights from eldoret to mombasa
+- 'flights from kisumu to entebbe'
+- 'flights kisumu kenya to mombasa kenya'
+- 'flights from kisumu to masai mara'
+- 'is there a direct flight from kisumu to mombasa'
+- 'jambojet flights from eldoret to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

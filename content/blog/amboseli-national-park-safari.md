@@ -1,14 +1,14 @@
 ---
 title: 'Amboseli National Park Safari: Complete Guide'
-description: Kenya safari guide covering amboseli national park safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering amboseli national park safari, including what is included, pricing, and booking advice.'
 slug: amboseli-national-park-safari
-primary_keyword: Amboseli National Park safari
+primary_keyword: 'Amboseli National Park safari'
 secondary_keywords:
-- ATOL protected Kenya safari
-- Halal safari Kenya
-- Kenya safari packing list
-- Electricity Kenya safari lodges
-- Guided bird watching safari Lake Nakuru Kenya
+- 'ATOL protected Kenya safari'
+- 'Halal safari Kenya'
+- 'Kenya safari packing list'
+- 'Electricity Kenya safari lodges'
+- 'Guided bird watching safari Lake Nakuru Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

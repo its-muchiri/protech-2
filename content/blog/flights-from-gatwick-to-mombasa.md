@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Gatwick to Mombasa: Complete Guide'
-description: Everything you need to know about flights from gatwick to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from gatwick to mombasa, including routes, airlines, booking tips, and fares.'
 slug: flights-from-gatwick-to-mombasa
-primary_keyword: flights from gatwick to mombasa
+primary_keyword: 'flights from gatwick to mombasa'
 secondary_keywords:
-- emirates flights from usa to dubai
-- emirates flight from vietnam to dubai
-- emirates flights from hyderabad to washington dc
-- emirates direct flights from new york
-- emirates flights to new zealand from sydney
+- 'emirates flights from usa to dubai'
+- 'emirates flight from vietnam to dubai'
+- 'emirates flights from hyderabad to washington dc'
+- 'emirates direct flights from new york'
+- 'emirates flights to new zealand from sydney'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

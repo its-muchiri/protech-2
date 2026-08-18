@@ -1,14 +1,14 @@
 ---
 title: 'Kq 204 Flight Status: Complete Guide'
-description: Everything you need to know about kq 204 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 204 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq-204-flight-status
-primary_keyword: kq 204 flight status
+primary_keyword: 'kq 204 flight status'
 secondary_keywords:
-- emirates flights from florida
-- emirates flights from gatwick to dubai today
-- emirates flights from hyderabad to dubai
-- emirates flights from india to usa
-- emirates flights from johannesburg to paris
+- 'emirates flights from florida'
+- 'emirates flights from gatwick to dubai today'
+- 'emirates flights from hyderabad to dubai'
+- 'emirates flights from india to usa'
+- 'emirates flights from johannesburg to paris'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

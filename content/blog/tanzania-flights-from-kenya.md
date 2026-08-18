@@ -1,14 +1,14 @@
 ---
 title: 'Tanzania Flights from Kenya: Complete Guide'
-description: Everything you need to know about tanzania flights from kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about tanzania flights from kenya, including routes, airlines, booking tips, and fares.'
 slug: tanzania-flights-from-kenya
-primary_keyword: tanzania flights from kenya
+primary_keyword: 'tanzania flights from kenya'
 secondary_keywords:
-- cheap flights from nairobi to frankfurt germany
-- flights from nairobi to galkayo
-- homa bay flights from nairobi
-- flights to italy from nairobi
-- jambojet flights from nairobi to kisumu
+- 'cheap flights from nairobi to frankfurt germany'
+- 'flights from nairobi to galkayo'
+- 'homa bay flights from nairobi'
+- 'flights to italy from nairobi'
+- 'jambojet flights from nairobi to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

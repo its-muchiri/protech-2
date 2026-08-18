@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Eldoret to Nairobi Jambojet: Complete Guide'
-description: Everything you need to know about flights from eldoret to nairobi jambojet, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from eldoret to nairobi jambojet, including routes, airlines, booking tips, and fares.'
 slug: flights-from-eldoret-to-nairobi-jambojet
-primary_keyword: flights from eldoret to nairobi jambojet
+primary_keyword: 'flights from eldoret to nairobi jambojet'
 secondary_keywords:
-- flight from nairobi to uganda
-- flight from nairobi to vietnam
-- flight time from wajir to nairobi
-- flight zagreb nairobi
-- cost of flight from nairobi to usa
+- 'flight from nairobi to uganda'
+- 'flight from nairobi to vietnam'
+- 'flight time from wajir to nairobi'
+- 'flight zagreb nairobi'
+- 'cost of flight from nairobi to usa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

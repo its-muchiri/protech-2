@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights Nairobi to Entebbe: Complete Guide'
-description: Everything you need to know about kq flights nairobi to entebbe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights nairobi to entebbe, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-nairobi-to-entebbe
-primary_keyword: kq flights nairobi to entebbe
+primary_keyword: 'kq flights nairobi to entebbe'
 secondary_keywords:
-- kq 584 flight status
-- kq886 flight status
-- how many airlines fly to dubai
-- emirates airline kenya nairobi photos
-- emirates 9 west
+- 'kq 584 flight status'
+- 'kq886 flight status'
+- 'how many airlines fly to dubai'
+- 'emirates airline kenya nairobi photos'
+- 'emirates 9 west'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Adventure Safari: Complete Guide'
-description: Kenya safari guide covering kenya adventure safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya adventure safari, including what is included, pricing, and booking advice.'
 slug: kenya-adventure-safari
-primary_keyword: Kenya adventure safari
+primary_keyword: 'Kenya adventure safari'
 secondary_keywords:
-- Luxury Kenya safari holiday package buy
-- Find reliable Kenya tour operator package deal
-- Buy photographic safari package camera gear rental included (niche)
-- Compare all-inclusive Kenya safari deals booking
-- Reserve school holiday family safari package Kenya cost
+- 'Luxury Kenya safari holiday package buy'
+- 'Find reliable Kenya tour operator package deal'
+- 'Buy photographic safari package camera gear rental included (niche)'
+- 'Compare all-inclusive Kenya safari deals booking'
+- 'Reserve school holiday family safari package Kenya cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

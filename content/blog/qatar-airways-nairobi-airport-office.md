@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways Nairobi Airport Office: Complete Guide'
-description: Everything you need to know about qatar airways nairobi airport office, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways nairobi airport office, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-nairobi-airport-office
-primary_keyword: qatar airways nairobi airport office
+primary_keyword: 'qatar airways nairobi airport office'
 secondary_keywords:
-- cheap flights to kenya from perth
-- flights from qatar to kenya today
-- flights from raleigh to kenya
-- turkey flights from kenya
-- flights from kenya to cape verde
+- 'cheap flights to kenya from perth'
+- 'flights from qatar to kenya today'
+- 'flights from raleigh to kenya'
+- 'turkey flights from kenya'
+- 'flights from kenya to cape verde'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

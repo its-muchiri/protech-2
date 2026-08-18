@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Phone Number Nairobi: Complete Guide'
-description: Everything you need to know about ethiopian airlines phone number nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines phone number nairobi, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-phone-number-nairobi
-primary_keyword: ethiopian airlines phone number nairobi
+primary_keyword: 'ethiopian airlines phone number nairobi'
 secondary_keywords:
-- how much does a flight to kenya cost
-- cheapest local flights in kenya
-- ethiopian airlines in kenya
-- flights to kenya heathrow
-- cheap flights to kenya in june
+- 'how much does a flight to kenya cost'
+- 'cheapest local flights in kenya'
+- 'ethiopian airlines in kenya'
+- 'flights to kenya heathrow'
+- 'cheap flights to kenya in june'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Portable Electrotherapy Device for Home Use: 2026 Price Guide'
-description: Kenya buying guide to portable electrotherapy device for home use. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to portable electrotherapy device for home use. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: portable-electrotherapy-device-for-home-use
-primary_keyword: Portable electrotherapy device for home use
+primary_keyword: 'Portable electrotherapy device for home use'
 secondary_keywords:
-- IV fluids Kenya 500ml price
-- medical scrubs Kenya uniform
-- nebulizer kits Kenya cost
-- dressing packs Kenya sterile
-- isolation gowns Kenya
+- 'IV fluids Kenya 500ml price'
+- 'medical scrubs Kenya uniform'
+- 'nebulizer kits Kenya cost'
+- 'dressing packs Kenya sterile'
+- 'isolation gowns Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

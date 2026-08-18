@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Goma: Complete Guide'
-description: Everything you need to know about flights nairobi to goma, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to goma, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-goma
-primary_keyword: flights nairobi to goma
+primary_keyword: 'flights nairobi to goma'
 secondary_keywords:
-- kenya airways flight from nairobi to dubai
-- is kenya airways a good airline
-- kenya airways flight schedule nairobi to harare today
-- kenya airways flight price from nairobi to kisumu
-- kenya airways flight from mauritius to nairobi
+- 'kenya airways flight from nairobi to dubai'
+- 'is kenya airways a good airline'
+- 'kenya airways flight schedule nairobi to harare today'
+- 'kenya airways flight price from nairobi to kisumu'
+- 'kenya airways flight from mauritius to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

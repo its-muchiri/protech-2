@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to New Zealand: Complete Guide'
-description: Everything you need to know about flights from nairobi to new zealand, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to new zealand, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-new-zealand
-primary_keyword: flights from nairobi to new zealand
+primary_keyword: 'flights from nairobi to new zealand'
 secondary_keywords:
-- jambojet flights nairobi to mombasa
-- kenya airways flights nairobi to mombasa
-- flights nairobi to mumbai
-- flights nairobi to namibia
-- nairobi to columbus oh flights
+- 'jambojet flights nairobi to mombasa'
+- 'kenya airways flights nairobi to mombasa'
+- 'flights nairobi to mumbai'
+- 'flights nairobi to namibia'
+- 'nairobi to columbus oh flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

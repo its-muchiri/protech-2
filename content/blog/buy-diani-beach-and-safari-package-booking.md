@@ -1,14 +1,14 @@
 ---
 title: 'Buy Diani Beach and Safari Package Booking: Complete Guide'
-description: Kenya safari guide covering buy diani beach and safari package booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy diani beach and safari package booking, including what is included, pricing, and booking advice.'
 slug: buy-diani-beach-and-safari-package-booking
-primary_keyword: Buy Diani beach and safari package booking
+primary_keyword: 'Buy Diani beach and safari package booking'
 secondary_keywords:
-- Reserve Kenya safari with beach extension Zanzibar flights & transfers included USA package cost
-- Buy Kenya safari drone photography permit application assistance and tour UK regulations cost
-- Reserve Kenya safari guide training course participation UK career development tourism focus
-- Find Kenya safari tour with professional wildlife artist workshop UK creative travel booking
-- Kenya vacation safari
+- 'Reserve Kenya safari with beach extension Zanzibar flights & transfers included USA package cost'
+- 'Buy Kenya safari drone photography permit application assistance and tour UK regulations cost'
+- 'Reserve Kenya safari guide training course participation UK career development tourism focus'
+- 'Find Kenya safari tour with professional wildlife artist workshop UK creative travel booking'
+- 'Kenya vacation safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

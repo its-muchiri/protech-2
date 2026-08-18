@@ -1,14 +1,14 @@
 ---
 title: 'Get Quote Kenya Safari Online: Complete Guide'
-description: Kenya safari guide covering get quote kenya safari online, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering get quote kenya safari online, including what is included, pricing, and booking advice.'
 slug: get-quote-kenya-safari-online
-primary_keyword: Get quote Kenya safari online
+primary_keyword: 'Get quote Kenya safari online'
 secondary_keywords:
-- Buy exclusive use safari lodge package Kenya family
-- Get best available rate Kenya safari package 5 days book
-- Kenya travel consultants Nairobi
-- Nairobi NP game drive operators
-- Taita Hills Wildlife Sanctuary tours Voi
+- 'Buy exclusive use safari lodge package Kenya family'
+- 'Get best available rate Kenya safari package 5 days book'
+- 'Kenya travel consultants Nairobi'
+- 'Nairobi NP game drive operators'
+- 'Taita Hills Wildlife Sanctuary tours Voi'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

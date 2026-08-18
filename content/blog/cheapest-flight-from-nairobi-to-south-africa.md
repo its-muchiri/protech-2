@@ -1,14 +1,14 @@
 ---
 title: 'Cheapest Flight from Nairobi to South Africa: Complete Guide'
-description: Everything you need to know about cheapest flight from nairobi to south africa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheapest flight from nairobi to south africa, including routes, airlines, booking tips, and fares.'
 slug: cheapest-flight-from-nairobi-to-south-africa
-primary_keyword: cheapest flight from nairobi to south africa
+primary_keyword: 'cheapest flight from nairobi to south africa'
 secondary_keywords:
-- flights from nairobi to dominican republic
-- flights from nairobi to spain
-- flights from nairobi to us
-- flights from vancouver to nairobi
-- flights from ukunda to nairobi wilson
+- 'flights from nairobi to dominican republic'
+- 'flights from nairobi to spain'
+- 'flights from nairobi to us'
+- 'flights from vancouver to nairobi'
+- 'flights from ukunda to nairobi wilson'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

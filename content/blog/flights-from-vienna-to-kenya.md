@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Vienna to Kenya: Complete Guide'
-description: Everything you need to know about flights from vienna to kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from vienna to kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-vienna-to-kenya
-primary_keyword: flights from vienna to kenya
+primary_keyword: 'flights from vienna to kenya'
 secondary_keywords:
-- kq flight from lagos to nairobi today
-- kq flight from new york to nairobi today
-- kq flight from nairobi to juba
-- kq direct flight from nairobi to new york
-- kenya airways flight from nairobi to heathrow today
+- 'kq flight from lagos to nairobi today'
+- 'kq flight from new york to nairobi today'
+- 'kq flight from nairobi to juba'
+- 'kq direct flight from nairobi to new york'
+- 'kenya airways flight from nairobi to heathrow today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

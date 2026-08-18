@@ -1,14 +1,14 @@
 ---
 title: 'Mount Kenya Safari: Complete Guide'
-description: Kenya safari guide covering mount kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering mount kenya safari, including what is included, pricing, and booking advice.'
 slug: mount-kenya-safari
-primary_keyword: Mount Kenya safari
+primary_keyword: 'Mount Kenya safari'
 secondary_keywords:
-- Book Kenya safari online comparison sites (SafariBookings, TourRadar)
-- Using Mpesa for payments Kenya safari
-- Kenya bird watching safari specialists expert guides
-- Day trips from Kiambu County tour operators
-- Book private Kenya safari online quote UK
+- 'Book Kenya safari online comparison sites (SafariBookings, TourRadar)'
+- 'Using Mpesa for payments Kenya safari'
+- 'Kenya bird watching safari specialists expert guides'
+- 'Day trips from Kiambu County tour operators'
+- 'Book private Kenya safari online quote UK'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

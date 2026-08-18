@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to London: Complete Guide'
-description: Everything you need to know about flights nairobi to london, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to london, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-london
-primary_keyword: flights nairobi to london
+primary_keyword: 'flights nairobi to london'
 secondary_keywords:
-- charter flights to mombasa from uk
-- how much is flight from mombasa to nairobi
-- airlines from kisumu to nairobi
-- kisumu to nairobi flight time
-- jambojet flights from kisumu to nairobi timetable
+- 'charter flights to mombasa from uk'
+- 'how much is flight from mombasa to nairobi'
+- 'airlines from kisumu to nairobi'
+- 'kisumu to nairobi flight time'
+- 'jambojet flights from kisumu to nairobi timetable'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

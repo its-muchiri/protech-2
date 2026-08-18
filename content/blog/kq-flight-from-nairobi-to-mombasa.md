@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Nairobi to Mombasa: Complete Guide'
-description: Everything you need to know about kq flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-nairobi-to-mombasa
-primary_keyword: kq flight from nairobi to mombasa
+primary_keyword: 'kq flight from nairobi to mombasa'
 secondary_keywords:
-- cost of flight from nairobi to homa bay
-- price of flight from nairobi to usa
-- return flight from nairobi to mombasa price
-- singapore flight from nairobi
-- flight from nairobi to uae
+- 'cost of flight from nairobi to homa bay'
+- 'price of flight from nairobi to usa'
+- 'return flight from nairobi to mombasa price'
+- 'singapore flight from nairobi'
+- 'flight from nairobi to uae'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

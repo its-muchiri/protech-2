@@ -1,14 +1,14 @@
 ---
 title: 'Fly Emirates Flights from Dubai: Complete Guide'
-description: Everything you need to know about fly emirates flights from dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about fly emirates flights from dubai, including routes, airlines, booking tips, and fares.'
 slug: fly-emirates-flights-from-dubai
-primary_keyword: fly emirates flights from dubai
+primary_keyword: 'fly emirates flights from dubai'
 secondary_keywords:
-- emirates flights 2023
-- emirates flight 3
-- emirates flight 435
-- emirates flight 614
-- emirates flight 818
+- 'emirates flights 2023'
+- 'emirates flight 3'
+- 'emirates flight 435'
+- 'emirates flight 614'
+- 'emirates flight 818'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

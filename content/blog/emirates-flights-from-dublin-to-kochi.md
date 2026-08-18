@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Dublin to Kochi: Complete Guide'
-description: Everything you need to know about emirates flights from dublin to kochi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from dublin to kochi, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-dublin-to-kochi
-primary_keyword: emirates flights from dublin to kochi
+primary_keyword: 'emirates flights from dublin to kochi'
 secondary_keywords:
-- emirates flights from singapore
-- emirates flights from uk to dubai
-- emirates flight from vancouver to delhi
-- emirates flights from gatwick which terminal
-- flights from new york to dubai emirates
+- 'emirates flights from singapore'
+- 'emirates flights from uk to dubai'
+- 'emirates flight from vancouver to delhi'
+- 'emirates flights from gatwick which terminal'
+- 'flights from new york to dubai emirates'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Egypt: Complete Guide'
-description: Everything you need to know about flight from nairobi to egypt, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to egypt, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-egypt
-primary_keyword: flight from nairobi to egypt
+primary_keyword: 'flight from nairobi to egypt'
 secondary_keywords:
-- kq flights from nairobi to cape town
-- kq flights eldoret to nairobi
-- kq flight status
-- kq airlines contact number
-- kq kisumu flight schedule
+- 'kq flights from nairobi to cape town'
+- 'kq flights eldoret to nairobi'
+- 'kq flight status'
+- 'kq airlines contact number'
+- 'kq kisumu flight schedule'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

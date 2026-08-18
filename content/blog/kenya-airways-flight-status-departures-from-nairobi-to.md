@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight Status Departures from Nairobi to: Complete Guide'
-description: Everything you need to know about kenya airways flight status departures from nairobi to, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight status departures from nairobi to, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-status-departures-from-nairobi-to
-primary_keyword: kenya airways flight status departures from nairobi to
+primary_keyword: 'kenya airways flight status departures from nairobi to'
 secondary_keywords:
-- turkish airlines departures nairobi today
-- turkish airlines lounge in nairobi
-- nairobi to istanbul flight status
-- turkish airline from turkey to nairobi
-- emirates number kenya
+- 'turkish airlines departures nairobi today'
+- 'turkish airlines lounge in nairobi'
+- 'nairobi to istanbul flight status'
+- 'turkish airline from turkey to nairobi'
+- 'emirates number kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Medical Equipment Installation and Training Services: 2026 Price Guide'
-description: Kenya buying guide to medical equipment installation and training services. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to medical equipment installation and training services. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: medical-equipment-installation-and-training-services
-primary_keyword: Medical equipment installation and training services
+primary_keyword: 'Medical equipment installation and training services'
 secondary_keywords:
-- Laboratory equipment suppliers in Meru
-- Defibrillator price in Nakuru town
-- Hospital bed manufacturers in Thika
-- Medical incinerator price in Kenya
-- CT scanner service contracts and maintenance in Kenya
+- 'Laboratory equipment suppliers in Meru'
+- 'Defibrillator price in Nakuru town'
+- 'Hospital bed manufacturers in Thika'
+- 'Medical incinerator price in Kenya'
+- 'CT scanner service contracts and maintenance in Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

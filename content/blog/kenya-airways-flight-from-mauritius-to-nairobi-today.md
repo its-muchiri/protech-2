@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from Mauritius to Nairobi Today: Complete Guide'
-description: Everything you need to know about kenya airways flight from mauritius to nairobi today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from mauritius to nairobi today, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-mauritius-to-nairobi-today
-primary_keyword: kenya airways flight from mauritius to nairobi today
+primary_keyword: 'kenya airways flight from mauritius to nairobi today'
 secondary_keywords:
-- flights from kenya to japan
-- flights from kenya to kuwait
-- flights from kenya to london today
-- flights from mombasa kenya to maputo mozambique
-- flights from kenya to zanzibar
+- 'flights from kenya to japan'
+- 'flights from kenya to kuwait'
+- 'flights from kenya to london today'
+- 'flights from mombasa kenya to maputo mozambique'
+- 'flights from kenya to zanzibar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

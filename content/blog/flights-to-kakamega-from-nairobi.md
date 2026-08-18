@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Kakamega from Nairobi: Complete Guide'
-description: Everything you need to know about flights to kakamega from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to kakamega from nairobi, including routes, airlines, booking tips, and fares.'
 slug: flights-to-kakamega-from-nairobi
-primary_keyword: flights to kakamega from nairobi
+primary_keyword: 'flights to kakamega from nairobi'
 secondary_keywords:
-- emirates flights from vancouver
-- emirates flights from which country
-- emirates flight from yyz to dxb
-- emirates flights from zimbabwe to uk price today
-- emirates flight 005
+- 'emirates flights from vancouver'
+- 'emirates flights from which country'
+- 'emirates flight from yyz to dxb'
+- 'emirates flights from zimbabwe to uk price today'
+- 'emirates flight 005'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

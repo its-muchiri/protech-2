@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Amsterdam Time: Complete Guide'
-description: Everything you need to know about flight from nairobi to amsterdam time, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to amsterdam time, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-amsterdam-time
-primary_keyword: flight from nairobi to amsterdam time
+primary_keyword: 'flight from nairobi to amsterdam time'
 secondary_keywords:
-- emirates flights to uk from south africa
-- emirates flights to bali from south africa
-- emirates flights from lusaka to china
-- emirates flights from europe to dubai
-- emirates flights for india
+- 'emirates flights to uk from south africa'
+- 'emirates flights to bali from south africa'
+- 'emirates flights from lusaka to china'
+- 'emirates flights from europe to dubai'
+- 'emirates flights for india'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

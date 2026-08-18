@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from Dubai to Nairobi Today: Complete Guide'
-description: Everything you need to know about kq flights from dubai to nairobi today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from dubai to nairobi today, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-dubai-to-nairobi-today
-primary_keyword: kq flights from dubai to nairobi today
+primary_keyword: 'kq flights from dubai to nairobi today'
 secondary_keywords:
-- flight time from nairobi to frankfurt
-- flight from nairobi to greece
-- flight from nairobi to hanoi
-- indigo flight from nairobi
-- flight time from nairobi to johannesburg
+- 'flight time from nairobi to frankfurt'
+- 'flight from nairobi to greece'
+- 'flight from nairobi to hanoi'
+- 'indigo flight from nairobi'
+- 'flight time from nairobi to johannesburg'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

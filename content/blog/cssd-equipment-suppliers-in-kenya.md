@@ -1,14 +1,14 @@
 ---
 title: 'CSSD Equipment Suppliers in Kenya: 2026 Price Guide'
-description: Kenya buying guide to cssd equipment suppliers in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to cssd equipment suppliers in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: cssd-equipment-suppliers-in-kenya
-primary_keyword: CSSD equipment suppliers in Kenya
+primary_keyword: 'CSSD equipment suppliers in Kenya'
 secondary_keywords:
-- gauze rolls Kenya sterile
-- hand wash medical Kenya
-- specimen collection containers Kenya
-- sterile dressing kits Kenya
-- pharmaceutical supplies Kenya
+- 'gauze rolls Kenya sterile'
+- 'hand wash medical Kenya'
+- 'specimen collection containers Kenya'
+- 'sterile dressing kits Kenya'
+- 'pharmaceutical supplies Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

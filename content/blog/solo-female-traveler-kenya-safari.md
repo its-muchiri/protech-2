@@ -1,14 +1,14 @@
 ---
 title: 'Solo Female Traveler Kenya Safari: Complete Guide'
-description: Kenya safari guide covering solo female traveler kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering solo female traveler kenya safari, including what is included, pricing, and booking advice.'
 slug: solo-female-traveler-kenya-safari
-primary_keyword: Solo female traveler Kenya safari
+primary_keyword: 'Solo female traveler Kenya safari'
 secondary_keywords:
-- Kenya bird watching safari tours USA specialist booking
-- Book Masai Mara safari online UK migration season
-- Lake Naivasha boat safari booking Hell''s Gate tour USA
-- European travel agency Kenya safari booking reliable
-- Compare Kenya tour operator packages UK cost & inclusions
+- 'Kenya bird watching safari tours USA specialist booking'
+- 'Book Masai Mara safari online UK migration season'
+- 'Lake Naivasha boat safari booking Hell''''s Gate tour USA'
+- 'European travel agency Kenya safari booking reliable'
+- 'Compare Kenya tour operator packages UK cost & inclusions'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

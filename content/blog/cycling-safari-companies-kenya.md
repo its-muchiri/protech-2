@@ -1,14 +1,14 @@
 ---
 title: 'Cycling Safari Companies Kenya: Complete Guide'
-description: Kenya safari guide covering cycling safari companies kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering cycling safari companies kenya, including what is included, pricing, and booking advice.'
 slug: cycling-safari-companies-kenya
-primary_keyword: Cycling safari companies Kenya
+primary_keyword: 'Cycling safari companies Kenya'
 secondary_keywords:
-- Luxury family fly-in safari Laikipia Ol Pejeta combo
-- Tour company offering airport pickup JKIA direct to Mara
-- Book African safari package Kenya
-- Secure Aberdares treetop lodge package
-- Buy 4 day Masai Mara express tour booking
+- 'Luxury family fly-in safari Laikipia Ol Pejeta combo'
+- 'Tour company offering airport pickup JKIA direct to Mara'
+- 'Book African safari package Kenya'
+- 'Secure Aberdares treetop lodge package'
+- 'Buy 4 day Masai Mara express tour booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

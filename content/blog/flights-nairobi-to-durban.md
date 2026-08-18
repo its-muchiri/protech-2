@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Durban: Complete Guide'
-description: Everything you need to know about flights nairobi to durban, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to durban, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-durban
-primary_keyword: flights nairobi to durban
+primary_keyword: 'flights nairobi to durban'
 secondary_keywords:
-- emirates flights from dubai to johannesburg today
-- flights from kozhikode to dubai united arab emirates
-- emirates flights from manila
-- emirates flights from orlando to india
-- emirates flights from pakistan to uk
+- 'emirates flights from dubai to johannesburg today'
+- 'flights from kozhikode to dubai united arab emirates'
+- 'emirates flights from manila'
+- 'emirates flights from orlando to india'
+- 'emirates flights from pakistan to uk'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

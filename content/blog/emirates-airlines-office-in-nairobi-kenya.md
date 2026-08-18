@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Airlines Office in Nairobi Kenya: Complete Guide'
-description: Everything you need to know about emirates airlines office in nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates airlines office in nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: emirates-airlines-office-in-nairobi-kenya
-primary_keyword: emirates airlines office in nairobi kenya
+primary_keyword: 'emirates airlines office in nairobi kenya'
 secondary_keywords:
-- flight from nairobi to comoros
-- flight from nairobi to dublin
-- flight from nairobi to frankfurt
-- flight from nairobi to ghana
-- flight from nairobi to hargeisa
+- 'flight from nairobi to comoros'
+- 'flight from nairobi to dublin'
+- 'flight from nairobi to frankfurt'
+- 'flight from nairobi to ghana'
+- 'flight from nairobi to hargeisa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

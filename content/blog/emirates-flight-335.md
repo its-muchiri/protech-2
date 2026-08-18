@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 335: Complete Guide'
-description: Everything you need to know about emirates flight 335, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 335, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-335
-primary_keyword: emirates flight 335
+primary_keyword: 'emirates flight 335'
 secondary_keywords:
-- available flights from nairobi to mombasa tomorrow
-- ba flights from nairobi to london heathrow
-- cheap flights from nairobi to london
-- diani flights from nairobi
-- emirates flights from nairobi
+- 'available flights from nairobi to mombasa tomorrow'
+- 'ba flights from nairobi to london heathrow'
+- 'cheap flights from nairobi to london'
+- 'diani flights from nairobi'
+- 'emirates flights from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

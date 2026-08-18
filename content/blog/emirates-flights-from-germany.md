@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Germany: Complete Guide'
-description: Everything you need to know about emirates flights from germany, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from germany, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-germany
-primary_keyword: emirates flights from germany
+primary_keyword: 'emirates flights from germany'
 secondary_keywords:
-- flights schedule from seiyun yemen to nairobi kenya
-- cheapest flights kenya
-- how much is flight from kenya to tanzania
-- cheap flights from nairobi
-- air arabia flights from nairobi to dubai
+- 'flights schedule from seiyun yemen to nairobi kenya'
+- 'cheapest flights kenya'
+- 'how much is flight from kenya to tanzania'
+- 'cheap flights from nairobi'
+- 'air arabia flights from nairobi to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

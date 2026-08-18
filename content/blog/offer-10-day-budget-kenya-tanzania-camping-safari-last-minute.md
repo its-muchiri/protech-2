@@ -1,14 +1,14 @@
 ---
 title: 'Offer 10 Day Budget Kenya Tanzania Camping Safari Last Minute: Complete Guide'
-description: Kenya safari guide covering offer 10 day budget kenya tanzania camping safari last minute, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering offer 10 day budget kenya tanzania camping safari last minute, including what is included, pricing, and booking advice.'
 slug: offer-10-day-budget-kenya-tanzania-camping-safari-last-minute
-primary_keyword: Offer 10 day budget Kenya Tanzania camping safari last minute
+primary_keyword: 'Offer 10 day budget Kenya Tanzania camping safari last minute'
 secondary_keywords:
-- Book short 3-day Amboseli fly-in safari from Nairobi UK price includes flights
-- Purchase off-the-beaten-path Northern Kenya safari tour UK Turkana expedition cost
-- Find French-speaking driver-guide Kenya safari package booking Europe reliable operator needed
-- Book Kenya safari with horse riding Chyulu Hills package UK experienced riders only lodge booking
-- Buy Kenya safari filming permit assistance and logistics support UK production company rates
+- 'Book short 3-day Amboseli fly-in safari from Nairobi UK price includes flights'
+- 'Purchase off-the-beaten-path Northern Kenya safari tour UK Turkana expedition cost'
+- 'Find French-speaking driver-guide Kenya safari package booking Europe reliable operator needed'
+- 'Book Kenya safari with horse riding Chyulu Hills package UK experienced riders only lodge booking'
+- 'Buy Kenya safari filming permit assistance and logistics support UK production company rates'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

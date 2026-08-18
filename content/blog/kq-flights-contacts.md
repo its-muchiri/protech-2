@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights Contacts: Complete Guide'
-description: Everything you need to know about kq flights contacts, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights contacts, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-contacts
-primary_keyword: kq flights contacts
+primary_keyword: 'kq flights contacts'
 secondary_keywords:
-- flights from mombasa kenya to nairobi kenya
-- flights leaving mombasa to zanzibar direct
-- flights from mombasa to maasai mara
-- flights from nairobi to mombasa prices today
-- cheap flights from riyadh to mombasa
+- 'flights from mombasa kenya to nairobi kenya'
+- 'flights leaving mombasa to zanzibar direct'
+- 'flights from mombasa to maasai mara'
+- 'flights from nairobi to mombasa prices today'
+- 'cheap flights from riyadh to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

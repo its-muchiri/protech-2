@@ -1,14 +1,14 @@
 ---
 title: 'Reliable Kenya Budget Safari Operators Trustpilot Europe: Complete Guide'
-description: Kenya safari guide covering reliable kenya budget safari operators trustpilot europe, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reliable kenya budget safari operators trustpilot europe, including what is included, pricing, and booking advice.'
 slug: reliable-kenya-budget-safari-operators-trustpilot-europe
-primary_keyword: Reliable Kenya budget safari operators Trustpilot Europe
+primary_keyword: 'Reliable Kenya budget safari operators Trustpilot Europe'
 secondary_keywords:
-- Kenya safari deals
-- Luxury safari lodges Kenya
-- Kenya game drives
-- Bush breakfast Kenya safari
-- Bird species Kenya safari
+- 'Kenya safari deals'
+- 'Luxury safari lodges Kenya'
+- 'Kenya game drives'
+- 'Bush breakfast Kenya safari'
+- 'Bird species Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

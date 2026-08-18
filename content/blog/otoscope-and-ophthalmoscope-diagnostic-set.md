@@ -1,14 +1,14 @@
 ---
 title: 'Otoscope and Ophthalmoscope Diagnostic Set: 2026 Price Guide'
-description: Kenya buying guide to otoscope and ophthalmoscope diagnostic set. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to otoscope and ophthalmoscope diagnostic set. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: otoscope-and-ophthalmoscope-diagnostic-set
-primary_keyword: Otoscope and ophthalmoscope diagnostic set
+primary_keyword: 'Otoscope and ophthalmoscope diagnostic set'
 secondary_keywords:
-- hospital beds Kenya price
-- defibrillators Kenya price
-- incubators medical Kenya
-- treadmill medical Kenya
-- commode chairs Kenya price
+- 'hospital beds Kenya price'
+- 'defibrillators Kenya price'
+- 'incubators medical Kenya'
+- 'treadmill medical Kenya'
+- 'commode chairs Kenya price'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

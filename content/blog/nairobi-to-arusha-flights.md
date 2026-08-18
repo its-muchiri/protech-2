@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi to Arusha Flights: Complete Guide'
-description: Everything you need to know about nairobi to arusha flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about nairobi to arusha flights, including routes, airlines, booking tips, and fares.'
 slug: nairobi-to-arusha-flights
-primary_keyword: nairobi to arusha flights
+primary_keyword: 'nairobi to arusha flights'
 secondary_keywords:
-- flights from nbo to eldoret
-- flight from eldoret to zanzibar
-- kq flights to arusha
-- kq flights to bujumbura
-- kq flight crash
+- 'flights from nbo to eldoret'
+- 'flight from eldoret to zanzibar'
+- 'kq flights to arusha'
+- 'kq flights to bujumbura'
+- 'kq flight crash'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

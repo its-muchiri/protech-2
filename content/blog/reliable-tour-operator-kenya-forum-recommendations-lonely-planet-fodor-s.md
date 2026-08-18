@@ -1,14 +1,14 @@
 ---
-title: 'Reliable Tour Operator Kenya Forum Recommendations (Lonely Planet, Fodor's): Complete Guide'
-description: Kenya safari guide covering reliable tour operator kenya forum recommendations (lonely planet, fodors), including what is included, pricing, and booking advice.
+title: 'Reliable Tour Operator Kenya Forum Recommendations (Lonely Planet, Fodor''s): Complete Guide'
+description: 'Kenya safari guide covering reliable tour operator kenya forum recommendations (lonely planet, fodors), including what is included, pricing, and booking advice.'
 slug: reliable-tour-operator-kenya-forum-recommendations-lonely-planet-fodor-s
-primary_keyword: Reliable tour operator Kenya forum recommendations (Lonely Planet, Fodor's)
+primary_keyword: 'Reliable tour operator Kenya forum recommendations (Lonely Planet, Fodor''s)'
 secondary_keywords:
-- Kenya safari Easter package offers USA
-- Book Kenya migration safari tour Masai Mara Europe 2025
-- Samburu Reserve safari deals UK Samburu Special Five
-- Origin-Specific Queries (UK, USA, Europe, Germany, France, etc.)
-- Book Kenya safari departing Frankfurt Europe cost
+- 'Kenya safari Easter package offers USA'
+- 'Book Kenya migration safari tour Masai Mara Europe 2025'
+- 'Samburu Reserve safari deals UK Samburu Special Five'
+- 'Origin-Specific Queries (UK, USA, Europe, Germany, France, etc.)'
+- 'Book Kenya safari departing Frankfurt Europe cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

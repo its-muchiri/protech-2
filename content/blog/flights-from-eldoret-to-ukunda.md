@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Eldoret to Ukunda: Complete Guide'
-description: Everything you need to know about flights from eldoret to ukunda, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from eldoret to ukunda, including routes, airlines, booking tips, and fares.'
 slug: flights-from-eldoret-to-ukunda
-primary_keyword: flights from eldoret to ukunda
+primary_keyword: 'flights from eldoret to ukunda'
 secondary_keywords:
-- are there flights from qatar to kenya
-- flights from rwanda to kenya today
-- flights to kenya from sfo
-- flights from kenya to victoria falls
-- flight from kenya to washington dc
+- 'are there flights from qatar to kenya'
+- 'flights from rwanda to kenya today'
+- 'flights to kenya from sfo'
+- 'flights from kenya to victoria falls'
+- 'flight from kenya to washington dc'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

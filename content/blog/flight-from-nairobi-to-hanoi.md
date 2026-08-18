@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Hanoi: Complete Guide'
-description: Everything you need to know about flight from nairobi to hanoi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to hanoi, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-hanoi
-primary_keyword: flight from nairobi to hanoi
+primary_keyword: 'flight from nairobi to hanoi'
 secondary_keywords:
-- flights from nairobi to abu dhabi
-- flights from nairobi to brisbane australia
-- flights from nairobi to canada
-- flights from nairobi to diani
-- flights from nairobi to edmonton
+- 'flights from nairobi to abu dhabi'
+- 'flights from nairobi to brisbane australia'
+- 'flights from nairobi to canada'
+- 'flights from nairobi to diani'
+- 'flights from nairobi to edmonton'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

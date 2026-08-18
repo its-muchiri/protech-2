@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from Nairobi to Addis Ababa: Complete Guide'
-description: Everything you need to know about kq flights from nairobi to addis ababa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from nairobi to addis ababa, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-nairobi-to-addis-ababa
-primary_keyword: kq flights from nairobi to addis ababa
+primary_keyword: 'kq flights from nairobi to addis ababa'
 secondary_keywords:
-- cheap flights from nairobi to cairo
-- kenya to ethiopia flight price
-- flight price from nairobi to ethiopia
-- cheap flights nairobi to mombasa
-- flights nairobi to addis
+- 'cheap flights from nairobi to cairo'
+- 'kenya to ethiopia flight price'
+- 'flight price from nairobi to ethiopia'
+- 'cheap flights nairobi to mombasa'
+- 'flights nairobi to addis'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

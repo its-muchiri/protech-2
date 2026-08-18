@@ -1,14 +1,14 @@
 ---
 title: 'Best Luxury Kenya Safari Packages Reviews Conde Nast UK: Complete Guide'
-description: Kenya safari guide covering best luxury kenya safari packages reviews conde nast uk, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering best luxury kenya safari packages reviews conde nast uk, including what is included, pricing, and booking advice.'
 slug: best-luxury-kenya-safari-packages-reviews-conde-nast-uk
-primary_keyword: Best luxury Kenya safari packages reviews Conde Nast UK
+primary_keyword: 'Best luxury Kenya safari packages reviews Conde Nast UK'
 secondary_keywords:
-- Romantic Kenya safari package deals
-- Discounted Kenya safari tours purchase
-- Kenya Zanzibar beach safari package deal
-- Book Northern circuit Kenya safari package
-- Masai Mara tour cost
+- 'Romantic Kenya safari package deals'
+- 'Discounted Kenya safari tours purchase'
+- 'Kenya Zanzibar beach safari package deal'
+- 'Book Northern circuit Kenya safari package'
+- 'Masai Mara tour cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

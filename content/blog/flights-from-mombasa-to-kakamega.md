@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Kakamega: Complete Guide'
-description: Everything you need to know about flights from mombasa to kakamega, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to kakamega, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-kakamega
-primary_keyword: flights from mombasa to kakamega
+primary_keyword: 'flights from mombasa to kakamega'
 secondary_keywords:
-- emirates flights from kenya to australia
-- flights to france from kenya
-- ghana flights from kenya
-- kenya to hargeisa flight
-- flight from kenya to india time
+- 'emirates flights from kenya to australia'
+- 'flights to france from kenya'
+- 'ghana flights from kenya'
+- 'kenya to hargeisa flight'
+- 'flight from kenya to india time'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

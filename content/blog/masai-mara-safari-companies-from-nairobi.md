@@ -1,14 +1,14 @@
 ---
 title: 'Masai Mara Safari Companies from Nairobi: Complete Guide'
-description: Kenya safari guide covering masai mara safari companies from nairobi, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering masai mara safari companies from nairobi, including what is included, pricing, and booking advice.'
 slug: masai-mara-safari-companies-from-nairobi
-primary_keyword: Masai Mara safari companies from Nairobi
+primary_keyword: 'Masai Mara safari companies from Nairobi'
 secondary_keywords:
-- Over 50s safari tours Kenya
-- Tea plantation tours Limuru operators
-- One month Kenya volunteer tour program
-- Compare prices Kenya safari companies
-- Companies offering tours from Jomo Kenyatta Airport (JKIA)
+- 'Over 50s safari tours Kenya'
+- 'Tea plantation tours Limuru operators'
+- 'One month Kenya volunteer tour program'
+- 'Compare prices Kenya safari companies'
+- 'Companies offering tours from Jomo Kenyatta Airport (JKIA)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

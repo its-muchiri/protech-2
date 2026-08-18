@@ -1,14 +1,14 @@
 ---
 title: 'Request Price List Kenya Safari Packages: Complete Guide'
-description: Kenya safari guide covering request price list kenya safari packages, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering request price list kenya safari packages, including what is included, pricing, and booking advice.'
 slug: request-price-list-kenya-safari-packages
-primary_keyword: Request price list Kenya safari packages
+primary_keyword: 'Request price list Kenya safari packages'
 secondary_keywords:
-- Leopard spotting Kenya safari
-- Kenya safari and beach
-- Kenya safari from Dubai
-- Kenya safari in October
-- Custom Kenya safari quote
+- 'Leopard spotting Kenya safari'
+- 'Kenya safari and beach'
+- 'Kenya safari from Dubai'
+- 'Kenya safari in October'
+- 'Custom Kenya safari quote'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

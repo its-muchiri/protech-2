@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Entebbe Today: Complete Guide'
-description: Everything you need to know about kq flights to entebbe today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to entebbe today, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-entebbe-today
-primary_keyword: kq flights to entebbe today
+primary_keyword: 'kq flights to entebbe today'
 secondary_keywords:
-- flight from nairobi to belgium
-- flight from nairobi to chicago
-- flight from nairobi to delhi
-- etihad flight from nairobi to abu dhabi
-- flight from frankfurt to nairobi today
+- 'flight from nairobi to belgium'
+- 'flight from nairobi to chicago'
+- 'flight from nairobi to delhi'
+- 'etihad flight from nairobi to abu dhabi'
+- 'flight from frankfurt to nairobi today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

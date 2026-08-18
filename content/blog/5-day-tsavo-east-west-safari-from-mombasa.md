@@ -1,14 +1,14 @@
 ---
 title: '5 Day Tsavo East West Safari from Mombasa: Complete Guide'
-description: Kenya safari guide covering 5 day tsavo east west safari from mombasa, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering 5 day tsavo east west safari from mombasa, including what is included, pricing, and booking advice.'
 slug: 5-day-tsavo-east-west-safari-from-mombasa
-primary_keyword: 5 day Tsavo East West safari from Mombasa
+primary_keyword: '5 day Tsavo East West safari from Mombasa'
 secondary_keywords:
-- Purchase 5 day Amboseli fly-in package now
-- Book Valentine''s romantic safari package Kenya
-- Quote & Book 7 day fly-in Governors Camp package
-- Reserve 10 day Offbeat Safaris mobile camping package
-- Book 5 star all-inclusive Kenya safari package deal online
+- 'Purchase 5 day Amboseli fly-in package now'
+- 'Book Valentine''''s romantic safari package Kenya'
+- 'Quote & Book 7 day fly-in Governors Camp package'
+- 'Reserve 10 day Offbeat Safaris mobile camping package'
+- 'Book 5 star all-inclusive Kenya safari package deal online'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

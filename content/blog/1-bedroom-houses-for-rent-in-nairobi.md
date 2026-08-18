@@ -1,14 +1,14 @@
 ---
 title: '1 Bedroom Houses for Rent in Nairobi: Complete Guide'
-description: Everything you need to know about 1 bedroom houses for rent in nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about 1 bedroom houses for rent in nairobi, including routes, airlines, booking tips, and fares.'
 slug: 1-bedroom-houses-for-rent-in-nairobi
-primary_keyword: 1 bedroom houses for rent in nairobi
+primary_keyword: '1 bedroom houses for rent in nairobi'
 secondary_keywords:
-- flight nairobi from london
-- flights from nairobi to mauritius
-- flights from nairobi to new delhi
-- flights from nairobi to oslo
-- flights from nairobi to portugal
+- 'flight nairobi from london'
+- 'flights from nairobi to mauritius'
+- 'flights from nairobi to new delhi'
+- 'flights from nairobi to oslo'
+- 'flights from nairobi to portugal'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

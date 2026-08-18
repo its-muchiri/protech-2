@@ -1,14 +1,14 @@
 ---
 title: 'Safari Camp with Pool Kenya: Complete Guide'
-description: Kenya safari guide covering safari camp with pool kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering safari camp with pool kenya, including what is included, pricing, and booking advice.'
 slug: safari-camp-with-pool-kenya
-primary_keyword: Safari camp with pool Kenya
+primary_keyword: 'Safari camp with pool Kenya'
 secondary_keywords:
-- Samburu cultural village visit tour package
-- Kiambethu Tea Farm tour Limuru booking / price from Nairobi / Thika
-- Gamewatchers Safaris Porini Camps price / reviews
-- Kenya tour package cancellation policy refund options
-- Internal flights Kenya Safarilink / AirKenya schedule / price
+- 'Samburu cultural village visit tour package'
+- 'Kiambethu Tea Farm tour Limuru booking / price from Nairobi / Thika'
+- 'Gamewatchers Safaris Porini Camps price / reviews'
+- 'Kenya tour package cancellation policy refund options'
+- 'Internal flights Kenya Safarilink / AirKenya schedule / price'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

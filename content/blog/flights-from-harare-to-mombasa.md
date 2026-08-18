@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Harare to Mombasa: Complete Guide'
-description: Everything you need to know about flights from harare to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from harare to mombasa, including routes, airlines, booking tips, and fares.'
 slug: flights-from-harare-to-mombasa
-primary_keyword: flights from harare to mombasa
+primary_keyword: 'flights from harare to mombasa'
 secondary_keywords:
-- flights nairobi to dc
-- flights nairobi to frankfurt
-- google flights nairobi to entebbe
-- houston to nairobi flights
-- flights nairobi to jfk
+- 'flights nairobi to dc'
+- 'flights nairobi to frankfurt'
+- 'google flights nairobi to entebbe'
+- 'houston to nairobi flights'
+- 'flights nairobi to jfk'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

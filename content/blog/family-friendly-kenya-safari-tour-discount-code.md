@@ -1,14 +1,14 @@
 ---
 title: 'Family Friendly Kenya Safari Tour Discount Code: Complete Guide'
-description: Kenya safari guide covering family friendly kenya safari tour discount code, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering family friendly kenya safari tour discount code, including what is included, pricing, and booking advice.'
 slug: family-friendly-kenya-safari-tour-discount-code
-primary_keyword: Family friendly Kenya safari tour discount code
+primary_keyword: 'Family friendly Kenya safari tour discount code'
 secondary_keywords:
-- Book 4 day Masai Mara safari package
-- Cost of 3 day Amboseli safari package
-- Samburu special five safari package price
-- Mahali Mzuri safari package deal
-- Luxury honeymoon safari Kenya cost
+- 'Book 4 day Masai Mara safari package'
+- 'Cost of 3 day Amboseli safari package'
+- 'Samburu special five safari package price'
+- 'Mahali Mzuri safari package deal'
+- 'Luxury honeymoon safari Kenya cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

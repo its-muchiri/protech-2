@@ -1,14 +1,14 @@
 ---
 title: 'Book Kenya Safari Package for : Complete Guide'
-description: Kenya safari guide covering book kenya safari package for , including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book kenya safari package for , including what is included, pricing, and booking advice.'
 slug: book-kenya-safari-package-for-specific-month-year
-primary_keyword: Book Kenya safari package for
+primary_keyword: 'Book Kenya safari package for'
 secondary_keywords:
-- All-inclusive Kenya honeymoon package price USA luxury lodges Mara
-- Reserve specialist bird watching tour package Lake Baringo Kenya USA expert guide hire
-- Book Samburu special five photography safari package Europe expert guide availability
-- Book budget overland truck safari Nairobi to Cape Town including Kenya section UK price duration
-- Book Kenya safari focused on western Kenya rainforest Kakamega primate tracking Europe birding tours
+- 'All-inclusive Kenya honeymoon package price USA luxury lodges Mara'
+- 'Reserve specialist bird watching tour package Lake Baringo Kenya USA expert guide hire'
+- 'Book Samburu special five photography safari package Europe expert guide availability'
+- 'Book budget overland truck safari Nairobi to Cape Town including Kenya section UK price duration'
+- 'Book Kenya safari focused on western Kenya rainforest Kakamega primate tracking Europe birding tours'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

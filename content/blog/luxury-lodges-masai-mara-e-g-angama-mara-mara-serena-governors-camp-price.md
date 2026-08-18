@@ -1,14 +1,14 @@
 ---
 title: 'Luxury Lodges Masai Mara (e.g., Angama Mara, Mara Serena, Governors Camp) Price: Complete Guide'
-description: Kenya safari guide covering luxury lodges masai mara (e.g., angama mara, mara serena, governors camp) price, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering luxury lodges masai mara (e.g., angama mara, mara serena, governors camp) price, including what is included, pricing, and booking advice.'
 slug: luxury-lodges-masai-mara-e-g-angama-mara-mara-serena-governors-camp-price
-primary_keyword: Luxury lodges Masai Mara (e.g., Angama Mara, Mara Serena, Governors Camp) price
+primary_keyword: 'Luxury lodges Masai Mara (e.g., Angama Mara, Mara Serena, Governors Camp) price'
 secondary_keywords:
-- Tailor-made Kenya safari
-- Camel safari Kenya
-- 8 day Kenya safari
-- Kenya safari offers
-- Kenya tented camps
+- 'Tailor-made Kenya safari'
+- 'Camel safari Kenya'
+- '8 day Kenya safari'
+- 'Kenya safari offers'
+- 'Kenya tented camps'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

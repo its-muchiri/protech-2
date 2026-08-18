@@ -1,14 +1,14 @@
 ---
 title: 'Karen Blixen Museum Tour Nairobi Price: Complete Guide'
-description: Kenya safari guide covering karen blixen museum tour nairobi price, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering karen blixen museum tour nairobi price, including what is included, pricing, and booking advice.'
 slug: karen-blixen-museum-tour-nairobi-price
-primary_keyword: Karen Blixen Museum tour Nairobi price
+primary_keyword: 'Karen Blixen Museum tour Nairobi price'
 secondary_keywords:
-- Last minute Kenya safari deals UK departing next week
-- Check Kenya safari tour availability calendar Europe
-- Safe Kenya safari tours booking certified guides USA
-- Availability check Kenya fly-in safari Governors Camp Masai Mara UK July 2025
-- Get quote for multi-generational family safari Kenya wheelchair accessible lodge UK
+- 'Last minute Kenya safari deals UK departing next week'
+- 'Check Kenya safari tour availability calendar Europe'
+- 'Safe Kenya safari tours booking certified guides USA'
+- 'Availability check Kenya fly-in safari Governors Camp Masai Mara UK July 2025'
+- 'Get quote for multi-generational family safari Kenya wheelchair accessible lodge UK'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

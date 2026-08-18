@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from Abuja to Nairobi: Complete Guide'
-description: Everything you need to know about kenya airways flight from abuja to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from abuja to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-abuja-to-nairobi
-primary_keyword: kenya airways flight from abuja to nairobi
+primary_keyword: 'kenya airways flight from abuja to nairobi'
 secondary_keywords:
-- flight from nairobi to columbus ohio
-- price of flight from nairobi to mombasa
-- rwandair flight from nairobi to kigali
-- safarilink flight from nairobi to kisumu
-- flight from nairobi to ukunda
+- 'flight from nairobi to columbus ohio'
+- 'price of flight from nairobi to mombasa'
+- 'rwandair flight from nairobi to kigali'
+- 'safarilink flight from nairobi to kisumu'
+- 'flight from nairobi to ukunda'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

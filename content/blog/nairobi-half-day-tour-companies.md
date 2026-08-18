@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi Half-day Tour Companies: Complete Guide'
-description: Kenya safari guide covering nairobi half-day tour companies, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering nairobi half-day tour companies, including what is included, pricing, and booking advice.'
 slug: nairobi-half-day-tour-companies
-primary_keyword: Nairobi half-day tour companies
+primary_keyword: 'Nairobi half-day tour companies'
 secondary_keywords:
-- Kenya safari package including park fees cost
-- Samburu safari operator quote
-- (Continue generating variations by combining elements like Duration + Location + Type + Intent Word)
-- Reserve 8 day Kenya birding package specialist guide
-- Cost of 5 day Samburu Intrepids family package
+- 'Kenya safari package including park fees cost'
+- 'Samburu safari operator quote'
+- '(Continue generating variations by combining elements like Duration + Location + Type + Intent Word)'
+- 'Reserve 8 day Kenya birding package specialist guide'
+- 'Cost of 5 day Samburu Intrepids family package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

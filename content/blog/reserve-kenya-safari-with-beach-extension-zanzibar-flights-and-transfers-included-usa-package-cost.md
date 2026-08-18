@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Kenya Safari with Beach Extension Zanzibar Flights & Transfers Included USA Package Cost: Complete Guide'
-description: Kenya safari guide covering reserve kenya safari with beach extension zanzibar flights & transfers included usa package cost, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve kenya safari with beach extension zanzibar flights & transfers included usa package cost, including what is included, pricing, and booking advice.'
 slug: reserve-kenya-safari-with-beach-extension-zanzibar-flights-and-transfers-included-usa-package-cost
-primary_keyword: Reserve Kenya safari with beach extension Zanzibar flights & transfers included USA package cost
+primary_keyword: 'Reserve Kenya safari with beach extension Zanzibar flights & transfers included USA package cost'
 secondary_keywords:
-- Time-Sensitive/Urgency (Last minute, Availability, Specific dates/months)
-- Book Kenya safari for specific dates  USA
-- Check Kenya tour operator license and reviews online UK
-- Book small group safari Lake Nakuru & Naivasha Kenya from Germany agency
-- Book responsible eco-safari tour Basecamp Masai Mara Kenya Europe sustainable travel award
+- 'Time-Sensitive/Urgency (Last minute, Availability, Specific dates/months)'
+- 'Book Kenya safari for specific dates  USA'
+- 'Check Kenya tour operator license and reviews online UK'
+- 'Book small group safari Lake Nakuru & Naivasha Kenya from Germany agency'
+- 'Book responsible eco-safari tour Basecamp Masai Mara Kenya Europe sustainable travel award'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

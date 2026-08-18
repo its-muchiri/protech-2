@@ -1,14 +1,14 @@
 ---
 title: 'Laboratory Refrigerator and Freezer Cost in Mombasa: 2026 Price Guide'
-description: Kenya buying guide to laboratory refrigerator and freezer cost in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to laboratory refrigerator and freezer cost in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: laboratory-refrigerator-and-freezer-cost-in-mombasa
-primary_keyword: Laboratory refrigerator and freezer cost in Mombasa
+primary_keyword: 'Laboratory refrigerator and freezer cost in Mombasa'
 secondary_keywords:
-- specimen collection containers Kenya
-- sterile dressing kits Kenya
-- pharmaceutical supplies Kenya
-- portable nebulizer Kenya
-- patient monitors Kenya price
+- 'specimen collection containers Kenya'
+- 'sterile dressing kits Kenya'
+- 'pharmaceutical supplies Kenya'
+- 'portable nebulizer Kenya'
+- 'patient monitors Kenya price'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

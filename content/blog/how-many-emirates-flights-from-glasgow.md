@@ -1,14 +1,14 @@
 ---
 title: 'How Many Emirates Flights from Glasgow: Complete Guide'
-description: Everything you need to know about how many emirates flights from glasgow, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how many emirates flights from glasgow, including routes, airlines, booking tips, and fares.'
 slug: how-many-emirates-flights-from-glasgow
-primary_keyword: how many emirates flights from glasgow
+primary_keyword: 'how many emirates flights from glasgow'
 secondary_keywords:
-- kenya airways flight from lagos to nairobi
-- kenya airways flight from nairobi to eldoret ticket price
-- flight from nairobi to kisumu
-- air india flight from nairobi to delhi price
-- flight from nairobi to belgium
+- 'kenya airways flight from lagos to nairobi'
+- 'kenya airways flight from nairobi to eldoret ticket price'
+- 'flight from nairobi to kisumu'
+- 'air india flight from nairobi to delhi price'
+- 'flight from nairobi to belgium'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

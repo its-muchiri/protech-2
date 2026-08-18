@@ -1,14 +1,14 @@
 ---
 title: 'How Many Emirates Flights from London to Dubai Per Day: Complete Guide'
-description: Everything you need to know about how many emirates flights from london to dubai per day, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how many emirates flights from london to dubai per day, including routes, airlines, booking tips, and fares.'
 slug: how-many-emirates-flights-from-london-to-dubai-per-day
-primary_keyword: how many emirates flights from london to dubai per day
+primary_keyword: 'how many emirates flights from london to dubai per day'
 secondary_keywords:
-- flight from nairobi to philadelphia
-- flight from nairobi to russia
-- flight from nairobi to sweden
-- how long is the flight from nairobi to london
-- flight from nairobi to vienna
+- 'flight from nairobi to philadelphia'
+- 'flight from nairobi to russia'
+- 'flight from nairobi to sweden'
+- 'how long is the flight from nairobi to london'
+- 'flight from nairobi to vienna'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

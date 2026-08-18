@@ -1,14 +1,14 @@
 ---
 title: 'Giraffe Centre Nairobi Visit: Complete Guide'
-description: Kenya safari guide covering giraffe centre nairobi visit, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering giraffe centre nairobi visit, including what is included, pricing, and booking advice.'
 slug: giraffe-centre-nairobi-visit
-primary_keyword: Giraffe Centre Nairobi visit
+primary_keyword: 'Giraffe Centre Nairobi visit'
 secondary_keywords:
-- Luxury family safari Kenya Christmas
-- Self drive 4x4 rental Kenya safari (risky, needs research)
-- Kenya safari hidden costs
-- Voyage safari Kenya (French)
-- Kenya shillings exchange rate safari
+- 'Luxury family safari Kenya Christmas'
+- 'Self drive 4x4 rental Kenya safari (risky, needs research)'
+- 'Kenya safari hidden costs'
+- 'Voyage safari Kenya (French)'
+- 'Kenya shillings exchange rate safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 407: Complete Guide'
-description: Everything you need to know about emirates flight 407, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 407, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-407
-primary_keyword: emirates flight 407
+primary_keyword: 'emirates flight 407'
 secondary_keywords:
-- kenya airways google flights
-- kq inaugural flight to new york
-- kq flights nairobi to johannesburg
-- kq flights from lusaka to nairobi today
-- kq flights nairobi to kisumu
+- 'kenya airways google flights'
+- 'kq inaugural flight to new york'
+- 'kq flights nairobi to johannesburg'
+- 'kq flights from lusaka to nairobi today'
+- 'kq flights nairobi to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

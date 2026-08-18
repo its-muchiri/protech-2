@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is It from Nairobi to Mombasa by Flight: Complete Guide'
-description: Everything you need to know about how much is it from nairobi to mombasa by flight, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is it from nairobi to mombasa by flight, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-it-from-nairobi-to-mombasa-by-flight
-primary_keyword: how much is it from nairobi to mombasa by flight
+primary_keyword: 'how much is it from nairobi to mombasa by flight'
 secondary_keywords:
-- flight ticket to kenya from ghana
-- how much is a round trip ticket to kenya
-- kenya airways book with miles
-- who flies to kenya
-- does ba fly to nairobi
+- 'flight ticket to kenya from ghana'
+- 'how much is a round trip ticket to kenya'
+- 'kenya airways book with miles'
+- 'who flies to kenya'
+- 'does ba fly to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

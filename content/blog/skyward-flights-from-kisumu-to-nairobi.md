@@ -1,14 +1,14 @@
 ---
 title: 'Skyward Flights from Kisumu to Nairobi: Complete Guide'
-description: Everything you need to know about skyward flights from kisumu to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about skyward flights from kisumu to nairobi, including routes, airlines, booking tips, and fares.'
 slug: skyward-flights-from-kisumu-to-nairobi
-primary_keyword: skyward flights from kisumu to nairobi
+primary_keyword: 'skyward flights from kisumu to nairobi'
 secondary_keywords:
-- flights operating in kenya
-- flights from kenya to rwanda
-- flights kenya to australia
-- flights nairobi zanzibar
-- cheap flights from kenya
+- 'flights operating in kenya'
+- 'flights from kenya to rwanda'
+- 'flights kenya to australia'
+- 'flights nairobi zanzibar'
+- 'cheap flights from kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

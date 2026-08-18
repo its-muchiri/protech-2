@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Cayman Islands: Complete Guide'
-description: Everything you need to know about flights from nairobi to cayman islands, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to cayman islands, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-cayman-islands
-primary_keyword: flights from nairobi to cayman islands
+primary_keyword: 'flights from nairobi to cayman islands'
 secondary_keywords:
-- local flights in kenya today
-- flights to kenya november 2025
-- qatar airways in nairobi
-- flights kenya to south africa
-- flights within kenya
+- 'local flights in kenya today'
+- 'flights to kenya november 2025'
+- 'qatar airways in nairobi'
+- 'flights kenya to south africa'
+- 'flights within kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

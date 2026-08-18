@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Accra: Complete Guide'
-description: Everything you need to know about flights from nairobi to accra, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to accra, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-accra
-primary_keyword: flights from nairobi to accra
+primary_keyword: 'flights from nairobi to accra'
 secondary_keywords:
-- emirates kenya airways
-- emirates ticket from dubai to kenya
-- fly emirates headquarters
-- emirates shoes kenya
-- ethiopian airlines flight from nairobi to addis ababa
+- 'emirates kenya airways'
+- 'emirates ticket from dubai to kenya'
+- 'fly emirates headquarters'
+- 'emirates shoes kenya'
+- 'ethiopian airlines flight from nairobi to addis ababa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

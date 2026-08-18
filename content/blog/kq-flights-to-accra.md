@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Accra: Complete Guide'
-description: Everything you need to know about kq flights to accra, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to accra, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-accra
-primary_keyword: kq flights to accra
+primary_keyword: 'kq flights to accra'
 secondary_keywords:
-- emirates flight 0221
-- emirates flights from newcastle 2023
-- emirates flight 333
-- emirates flight 412
-- emirates flight 513
+- 'emirates flight 0221'
+- 'emirates flights from newcastle 2023'
+- 'emirates flight 333'
+- 'emirates flight 412'
+- 'emirates flight 513'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

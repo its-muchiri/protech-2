@@ -1,14 +1,14 @@
 ---
 title: 'UK Travel Advice Kenya Safari Booking Safe Operators: Complete Guide'
-description: Kenya safari guide covering uk travel advice kenya safari booking safe operators, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering uk travel advice kenya safari booking safe operators, including what is included, pricing, and booking advice.'
 slug: uk-travel-advice-kenya-safari-booking-safe-operators
-primary_keyword: UK travel advice Kenya safari booking safe operators
+primary_keyword: 'UK travel advice Kenya safari booking safe operators'
 secondary_keywords:
-- Weekend trips from Kiambu travel agency
-- Tour operators with driver-guides fluent in
-- Affordable 7 day camping safari Kenya Tanzania migration season
-- KATO operator for accessible safari van hire Nairobi
-- Reserve Kenya safari online booking
+- 'Weekend trips from Kiambu travel agency'
+- 'Tour operators with driver-guides fluent in'
+- 'Affordable 7 day camping safari Kenya Tanzania migration season'
+- 'KATO operator for accessible safari van hire Nairobi'
+- 'Reserve Kenya safari online booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Honeymoon Kenya Safari: Complete Guide'
-description: Kenya safari guide covering honeymoon kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering honeymoon kenya safari, including what is included, pricing, and booking advice.'
 slug: honeymoon-kenya-safari
-primary_keyword: Honeymoon Kenya safari
+primary_keyword: 'Honeymoon Kenya safari'
 secondary_keywords:
-- Find luxury train safari Rovos Rail style Kenya (limited options) booking agent USA
-- Top Kenya safari
-- Safari Lake Nakuru flamingos
-- Sweetwaters Chimpanzee Sanctuary visit
-- Kenya photo safari tour
+- 'Find luxury train safari Rovos Rail style Kenya (limited options) booking agent USA'
+- 'Top Kenya safari'
+- 'Safari Lake Nakuru flamingos'
+- 'Sweetwaters Chimpanzee Sanctuary visit'
+- 'Kenya photo safari tour'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

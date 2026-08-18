@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is the Flight 748 from Nairobi to Kisumu: Complete Guide'
-description: Everything you need to know about how much is the flight 748 from nairobi to kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is the flight 748 from nairobi to kisumu, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-the-flight-748-from-nairobi-to-kisumu
-primary_keyword: how much is the flight 748 from nairobi to kisumu
+primary_keyword: 'how much is the flight 748 from nairobi to kisumu'
 secondary_keywords:
-- emirates flight from washington dc to dubai
-- emirates flights from new york to europe
-- emirates flight from zimbabwe to dubai
-- emirates flights 19 august
-- emirates flights 2023
+- 'emirates flight from washington dc to dubai'
+- 'emirates flights from new york to europe'
+- 'emirates flight from zimbabwe to dubai'
+- 'emirates flights 19 august'
+- 'emirates flights 2023'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

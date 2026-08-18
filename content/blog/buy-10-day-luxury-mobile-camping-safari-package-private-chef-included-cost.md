@@ -1,14 +1,14 @@
 ---
 title: 'Buy 10 Day Luxury Mobile Camping Safari Package Private Chef Included Cost: Complete Guide'
-description: Kenya safari guide covering buy 10 day luxury mobile camping safari package private chef included cost, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy 10 day luxury mobile camping safari package private chef included cost, including what is included, pricing, and booking advice.'
 slug: buy-10-day-luxury-mobile-camping-safari-package-private-chef-included-cost
-primary_keyword: Buy 10 day luxury mobile camping safari package private chef included cost
+primary_keyword: 'Buy 10 day luxury mobile camping safari package private chef included cost'
 secondary_keywords:
-- Book safari Taita Hills Wildlife Sanctuary UK Salt Lick Lodge
-- Direct flights London to Nairobi + Kenya safari package UK
-- Budget Kenya safari tour agency Europe reviews affordable
-- Book Kenya safari July 2025 migration Mara crossing Europe
-- Kenya safari vacancy checker online booking
+- 'Book safari Taita Hills Wildlife Sanctuary UK Salt Lick Lodge'
+- 'Direct flights London to Nairobi + Kenya safari package UK'
+- 'Budget Kenya safari tour agency Europe reviews affordable'
+- 'Book Kenya safari July 2025 migration Mara crossing Europe'
+- 'Kenya safari vacancy checker online booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: '540 Flight from Nairobi to Eldoret: Complete Guide'
-description: Everything you need to know about 540 flight from nairobi to eldoret, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about 540 flight from nairobi to eldoret, including routes, airlines, booking tips, and fares.'
 slug: 540-flight-from-nairobi-to-eldoret
-primary_keyword: 540 flight from nairobi to eldoret
+primary_keyword: '540 flight from nairobi to eldoret'
 secondary_keywords:
-- fly emirates kenya contacts
-- how far is ethiopia from kenya by plane
-- ethiopian airlines contact nairobi telephone number
-- jambojet flight from nairobi to kisumu
-- ethiopian airlines from doha to nairobi price two way ticket
+- 'fly emirates kenya contacts'
+- 'how far is ethiopia from kenya by plane'
+- 'ethiopian airlines contact nairobi telephone number'
+- 'jambojet flight from nairobi to kisumu'
+- 'ethiopian airlines from doha to nairobi price two way ticket'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

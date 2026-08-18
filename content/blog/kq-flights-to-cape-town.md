@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Cape Town: Complete Guide'
-description: Everything you need to know about kq flights to cape town, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to cape town, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-cape-town
-primary_keyword: kq flights to cape town
+primary_keyword: 'kq flights to cape town'
 secondary_keywords:
-- flights from kisumu to kitale
-- flights from kisumu to mwanza
-- is kisumu safe
-- flights from eldoret to nairobi today
-- flight from eldoret to nairobi how much
+- 'flights from kisumu to kitale'
+- 'flights from kisumu to mwanza'
+- 'is kisumu safe'
+- 'flights from eldoret to nairobi today'
+- 'flight from eldoret to nairobi how much'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

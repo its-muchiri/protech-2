@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Nairobi to Johannesburg: Complete Guide'
-description: Everything you need to know about kq flight from nairobi to johannesburg, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from nairobi to johannesburg, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-nairobi-to-johannesburg
-primary_keyword: kq flight from nairobi to johannesburg
+primary_keyword: 'kq flight from nairobi to johannesburg'
 secondary_keywords:
-- flights from nairobi to uk today
-- cheap flights from vienna to nairobi
-- flights from nairobi to zurich
-- flights to zanzibar from nairobi precision air
-- cheap flights from nairobi to mombasa
+- 'flights from nairobi to uk today'
+- 'cheap flights from vienna to nairobi'
+- 'flights from nairobi to zurich'
+- 'flights to zanzibar from nairobi precision air'
+- 'cheap flights from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

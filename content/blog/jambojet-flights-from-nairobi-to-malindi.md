@@ -1,14 +1,14 @@
 ---
 title: 'Jambojet Flights from Nairobi to Malindi: Complete Guide'
-description: Everything you need to know about jambojet flights from nairobi to malindi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about jambojet flights from nairobi to malindi, including routes, airlines, booking tips, and fares.'
 slug: jambojet-flights-from-nairobi-to-malindi
-primary_keyword: jambojet flights from nairobi to malindi
+primary_keyword: 'jambojet flights from nairobi to malindi'
 secondary_keywords:
-- flights nairobi to amsterdam
-- flights nairobi to bangkok
-- brisbane to nairobi flights
-- cheap flights nairobi to zanzibar
-- flight nairobi to ethiopia
+- 'flights nairobi to amsterdam'
+- 'flights nairobi to bangkok'
+- 'brisbane to nairobi flights'
+- 'cheap flights nairobi to zanzibar'
+- 'flight nairobi to ethiopia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

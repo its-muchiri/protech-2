@@ -1,14 +1,14 @@
 ---
 title: 'Off-season Safari Deals Kenya Companies: Complete Guide'
-description: Kenya safari guide covering off-season safari deals kenya companies, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering off-season safari deals kenya companies, including what is included, pricing, and booking advice.'
 slug: off-season-safari-deals-kenya-companies
-primary_keyword: Off-season safari deals Kenya companies
+primary_keyword: 'Off-season safari deals Kenya companies'
 secondary_keywords:
-- Kenya safari from Dubai
-- Kenya safari in October
-- Custom Kenya safari quote
-- LGBTQ+ friendly Kenya safari
-- Is Kenya safe for safari
+- 'Kenya safari from Dubai'
+- 'Kenya safari in October'
+- 'Custom Kenya safari quote'
+- 'LGBTQ+ friendly Kenya safari'
+- 'Is Kenya safe for safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

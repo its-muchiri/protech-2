@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Delhi: Complete Guide'
-description: Everything you need to know about flights nairobi to delhi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to delhi, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-delhi
-primary_keyword: flights nairobi to delhi
+primary_keyword: 'flights nairobi to delhi'
 secondary_keywords:
-- jambojet flights nairobi to malindi
-- kenya airways flights nairobi to dar es salaam
-- flights nairobi to mauritius
-- flights nairobi to nakuru
-- orlando to nairobi flights
+- 'jambojet flights nairobi to malindi'
+- 'kenya airways flights nairobi to dar es salaam'
+- 'flights nairobi to mauritius'
+- 'flights nairobi to nakuru'
+- 'orlando to nairobi flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flight Nairobi to Zanzibar Precision Air: Complete Guide'
-description: Everything you need to know about flight nairobi to zanzibar precision air, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight nairobi to zanzibar precision air, including routes, airlines, booking tips, and fares.'
 slug: flight-nairobi-to-zanzibar-precision-air
-primary_keyword: flight nairobi to zanzibar precision air
+primary_keyword: 'flight nairobi to zanzibar precision air'
 secondary_keywords:
-- flights nairobi to spain
-- flights nairobi to ukunda
-- fly nairobi to vipingo
-- nairobi to washington dc flights
-- nairobi to zanzibar google flights
+- 'flights nairobi to spain'
+- 'flights nairobi to ukunda'
+- 'fly nairobi to vipingo'
+- 'nairobi to washington dc flights'
+- 'nairobi to zanzibar google flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

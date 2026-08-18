@@ -1,14 +1,14 @@
 ---
 title: 'ECG Machine Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to ecg machine price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to ecg machine price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: ecg-machine-price-in-kenya
-primary_keyword: ECG machine price in Kenya
+primary_keyword: 'ECG machine price in Kenya'
 secondary_keywords:
-- Bronchoscopy tower for pulmonology unit
-- Binocular laboratory microscope price in Kenya
-- Surgical, Theatre & CSSD Equipment
-- Surgical instrument trolley and Mayo stand
-- 5-function ICU bed with mattress cost in Mombasa
+- 'Bronchoscopy tower for pulmonology unit'
+- 'Binocular laboratory microscope price in Kenya'
+- 'Surgical, Theatre & CSSD Equipment'
+- 'Surgical instrument trolley and Mayo stand'
+- '5-function ICU bed with mattress cost in Mombasa'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kenya to Ohio: Complete Guide'
-description: Everything you need to know about flight from kenya to ohio, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kenya to ohio, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kenya-to-ohio
-primary_keyword: flight from kenya to ohio
+primary_keyword: 'flight from kenya to ohio'
 secondary_keywords:
-- kq pilot requirements
-- kenya airways increase flights to new york
-- kq flights kisumu to nairobi
-- kq flights from london today
-- kq flights nairobi to mombasa today
+- 'kq pilot requirements'
+- 'kenya airways increase flights to new york'
+- 'kq flights kisumu to nairobi'
+- 'kq flights from london today'
+- 'kq flights nairobi to mombasa today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

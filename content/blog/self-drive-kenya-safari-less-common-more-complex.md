@@ -1,14 +1,14 @@
 ---
 title: 'Self-drive Kenya Safari (less Common, More Complex): Complete Guide'
-description: Kenya safari guide covering self-drive kenya safari (less common, more complex), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering self-drive kenya safari (less common, more complex), including what is included, pricing, and booking advice.'
 slug: self-drive-kenya-safari-less-common-more-complex
-primary_keyword: Self-drive Kenya safari (less common, more complex)
+primary_keyword: 'Self-drive Kenya safari (less common, more complex)'
 secondary_keywords:
-- Average cost Kenya safari
-- Best safari lodges Kenya
-- Safari camp with pool Kenya
-- Sundowners Kenya safari
-- Flamingo safari Lake Nakuru
+- 'Average cost Kenya safari'
+- 'Best safari lodges Kenya'
+- 'Safari camp with pool Kenya'
+- 'Sundowners Kenya safari'
+- 'Flamingo safari Lake Nakuru'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

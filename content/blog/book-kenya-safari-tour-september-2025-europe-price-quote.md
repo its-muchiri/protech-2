@@ -1,14 +1,14 @@
 ---
 title: 'Book Kenya Safari Tour September 2025 Europe Price Quote: Complete Guide'
-description: Kenya safari guide covering book kenya safari tour september 2025 europe price quote, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book kenya safari tour september 2025 europe price quote, including what is included, pricing, and booking advice.'
 slug: book-kenya-safari-tour-september-2025-europe-price-quote
-primary_keyword: Book Kenya safari tour September 2025 Europe price quote
+primary_keyword: 'Book Kenya safari tour September 2025 Europe price quote'
 secondary_keywords:
-- Book camel trekking safari northern Kenya Samburu Europe traditional experience cost
-- Buy Mount Longonot hike safari day trip package USA Rift Valley views cost
-- Safari Kenya
-- Kenya travel safari
-- Laikipia safari
+- 'Book camel trekking safari northern Kenya Samburu Europe traditional experience cost'
+- 'Buy Mount Longonot hike safari day trip package USA Rift Valley views cost'
+- 'Safari Kenya'
+- 'Kenya travel safari'
+- 'Laikipia safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

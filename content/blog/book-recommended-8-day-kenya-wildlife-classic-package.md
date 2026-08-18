@@ -1,14 +1,14 @@
 ---
 title: 'Book Recommended 8 Day Kenya Wildlife Classic Package: Complete Guide'
-description: Kenya safari guide covering book recommended 8 day kenya wildlife classic package, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book recommended 8 day kenya wildlife classic package, including what is included, pricing, and booking advice.'
 slug: book-recommended-8-day-kenya-wildlife-classic-package
-primary_keyword: Book recommended 8 day Kenya wildlife classic package
+primary_keyword: 'Book recommended 8 day Kenya wildlife classic package'
 secondary_keywords:
-- Kenya safari package book (e.g., Serena, Sarova, Sopa)
-- Secure walking safari package armed ranger included price
-- Review and book recommended Kenya honeymoon package
-- Quote for 10 day budget camping Kenya Tanzania combo tour August
-- Book 10 day compare Serena vs Sarova lodges Kenya safari package price
+- 'Kenya safari package book (e.g., Serena, Sarova, Sopa)'
+- 'Secure walking safari package armed ranger included price'
+- 'Review and book recommended Kenya honeymoon package'
+- 'Quote for 10 day budget camping Kenya Tanzania combo tour August'
+- 'Book 10 day compare Serena vs Sarova lodges Kenya safari package price'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

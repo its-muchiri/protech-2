@@ -1,14 +1,14 @@
 ---
 title: '4 Day Samburu Reserve Safari Package Deal: Complete Guide'
-description: Kenya safari guide covering 4 day samburu reserve safari package deal, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering 4 day samburu reserve safari package deal, including what is included, pricing, and booking advice.'
 slug: 4-day-samburu-reserve-safari-package-deal
-primary_keyword: 4 day Samburu reserve safari package deal
+primary_keyword: '4 day Samburu reserve safari package deal'
 secondary_keywords:
-- Book last available spots Kenya Christmas safari package
-- Reserve now pay later Kenya safari package (if offered)
-- (Continuing with more diverse high-intent combinations)
-- Get quote 7 day Loisaba Tented Camp Laikipia package
-- Buy 13 day comprehensive Kenya safari tour package
+- 'Book last available spots Kenya Christmas safari package'
+- 'Reserve now pay later Kenya safari package (if offered)'
+- '(Continuing with more diverse high-intent combinations)'
+- 'Get quote 7 day Loisaba Tented Camp Laikipia package'
+- 'Buy 13 day comprehensive Kenya safari tour package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

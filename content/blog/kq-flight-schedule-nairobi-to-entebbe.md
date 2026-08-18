@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight Schedule Nairobi to Entebbe: Complete Guide'
-description: Everything you need to know about kq flight schedule nairobi to entebbe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight schedule nairobi to entebbe, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-schedule-nairobi-to-entebbe
-primary_keyword: kq flight schedule nairobi to entebbe
+primary_keyword: 'kq flight schedule nairobi to entebbe'
 secondary_keywords:
-- flight kq 115
-- kq 005 flight status
-- kq 202 flight status
-- kq307 flight status
-- kq 511 flight status
+- 'flight kq 115'
+- 'kq 005 flight status'
+- 'kq 202 flight status'
+- 'kq307 flight status'
+- 'kq 511 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Cultural Visit Maasai Village Amboseli Safari: Complete Guide'
-description: Kenya safari guide covering cultural visit maasai village amboseli safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering cultural visit maasai village amboseli safari, including what is included, pricing, and booking advice.'
 slug: cultural-visit-maasai-village-amboseli-safari
-primary_keyword: Cultural visit Maasai village Amboseli safari
+primary_keyword: 'Cultural visit Maasai village Amboseli safari'
 secondary_keywords:
-- Book guided Kenya safari tour
-- 8 day Kenya discovery tour package
-- Samburu reserve safari package booking
-- Book luxury Kenya safari package
-- Bespoke Kenya luxury safari operator
+- 'Book guided Kenya safari tour'
+- '8 day Kenya discovery tour package'
+- 'Samburu reserve safari package booking'
+- 'Book luxury Kenya safari package'
+- 'Bespoke Kenya luxury safari operator'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

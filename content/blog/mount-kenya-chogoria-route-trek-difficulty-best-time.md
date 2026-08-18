@@ -1,14 +1,14 @@
 ---
 title: 'Mount Kenya Chogoria Route Trek Difficulty / Best Time: Complete Guide'
-description: Kenya safari guide covering mount kenya chogoria route trek difficulty / best time, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering mount kenya chogoria route trek difficulty / best time, including what is included, pricing, and booking advice.'
 slug: mount-kenya-chogoria-route-trek-difficulty-best-time
-primary_keyword: Mount Kenya Chogoria route trek difficulty / best time
+primary_keyword: 'Mount Kenya Chogoria route trek difficulty / best time'
 secondary_keywords:
-- Aberdares treetop lodge package sale price
-- Luxury tented camp safari discount booking
-- Lake Nakuru tour package cost 4 days
-- Reserve tour  Kenya branch
-- Buy full board Kenya lodge safari package online
+- 'Aberdares treetop lodge package sale price'
+- 'Luxury tented camp safari discount booking'
+- 'Lake Nakuru tour package cost 4 days'
+- 'Reserve tour  Kenya branch'
+- 'Buy full board Kenya lodge safari package online'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

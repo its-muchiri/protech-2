@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Eldoret to Nairobi: Complete Guide'
-description: Everything you need to know about cheap flights from eldoret to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from eldoret to nairobi, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-eldoret-to-nairobi
-primary_keyword: cheap flights from eldoret to nairobi
+primary_keyword: 'cheap flights from eldoret to nairobi'
 secondary_keywords:
-- flights from beirut to kenya
-- cheap flights from kenya to uk
-- flights from kenya to edmonton
-- kenya airways flights from freetown to accra
-- flight from kenya to ghana price
+- 'flights from beirut to kenya'
+- 'cheap flights from kenya to uk'
+- 'flights from kenya to edmonton'
+- 'kenya airways flights from freetown to accra'
+- 'flight from kenya to ghana price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

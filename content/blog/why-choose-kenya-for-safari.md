@@ -1,14 +1,14 @@
 ---
 title: 'Why Choose Kenya for Safari: Complete Guide'
-description: Kenya safari guide covering why choose kenya for safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering why choose kenya for safari, including what is included, pricing, and booking advice.'
 slug: why-choose-kenya-for-safari
-primary_keyword: Why choose Kenya for safari
+primary_keyword: 'Why choose Kenya for safari'
 secondary_keywords:
-- Luxury fly-in Kenya safari quote
-- Child friendly safari lodge package Kenya booking
-- Budget Kenya safari package book
-- Compare budget Kenya safari packages price
-- Cross border safari Kenya Tanzania operator
+- 'Luxury fly-in Kenya safari quote'
+- 'Child friendly safari lodge package Kenya booking'
+- 'Budget Kenya safari package book'
+- 'Compare budget Kenya safari packages price'
+- 'Cross border safari Kenya Tanzania operator'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

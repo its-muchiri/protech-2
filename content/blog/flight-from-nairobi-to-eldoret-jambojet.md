@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Eldoret Jambojet: Complete Guide'
-description: Everything you need to know about flight from nairobi to eldoret jambojet, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to eldoret jambojet, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-eldoret-jambojet
-primary_keyword: flight from nairobi to eldoret jambojet
+primary_keyword: 'flight from nairobi to eldoret jambojet'
 secondary_keywords:
-- emirates flight 602
-- emirates flight 817
-- qatar flight from nairobi
-- how much is a flight ticket from nairobi to qatar
-- qatar flight from doha to nairobi today
+- 'emirates flight 602'
+- 'emirates flight 817'
+- 'qatar flight from nairobi'
+- 'how much is a flight ticket from nairobi to qatar'
+- 'qatar flight from doha to nairobi today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

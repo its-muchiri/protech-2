@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Rwanda to Nairobi: Complete Guide'
-description: Everything you need to know about kq flight from rwanda to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from rwanda to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-rwanda-to-nairobi
-primary_keyword: kq flight from rwanda to nairobi
+primary_keyword: 'kq flight from rwanda to nairobi'
 secondary_keywords:
-- kq 304 flight status
-- kq 494
-- kq 602 flight status
-- flights from nairobi to dubai united arab emirates
-- emirates flight from nairobi to dubai yesterday
+- 'kq 304 flight status'
+- 'kq 494'
+- 'kq 602 flight status'
+- 'flights from nairobi to dubai united arab emirates'
+- 'emirates flight from nairobi to dubai yesterday'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

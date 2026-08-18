@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Newark: Complete Guide'
-description: Everything you need to know about emirates flights from newark, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from newark, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-newark
-primary_keyword: emirates flights from newark
+primary_keyword: 'emirates flights from newark'
 secondary_keywords:
-- flights from mombasa to cape town
-- flights from mombasa to dubai
-- cheap flights from entebbe to mombasa
-- flights from gatwick to mombasa
-- flights from mombasa to milan italy
+- 'flights from mombasa to cape town'
+- 'flights from mombasa to dubai'
+- 'cheap flights from entebbe to mombasa'
+- 'flights from gatwick to mombasa'
+- 'flights from mombasa to milan italy'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

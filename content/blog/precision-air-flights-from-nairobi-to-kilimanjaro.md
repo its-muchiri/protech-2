@@ -1,14 +1,14 @@
 ---
 title: 'Precision Air Flights from Nairobi to Kilimanjaro: Complete Guide'
-description: Everything you need to know about precision air flights from nairobi to kilimanjaro, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about precision air flights from nairobi to kilimanjaro, including routes, airlines, booking tips, and fares.'
 slug: precision-air-flights-from-nairobi-to-kilimanjaro
-primary_keyword: precision air flights from nairobi to kilimanjaro
+primary_keyword: 'precision air flights from nairobi to kilimanjaro'
 secondary_keywords:
-- flight in nairobi kenya
-- flights to kenya qatar
-- how much is the flight ticket to kenya
-- usa flights from kenya
-- flight attendant jobs in kenya 2025
+- 'flight in nairobi kenya'
+- 'flights to kenya qatar'
+- 'how much is the flight ticket to kenya'
+- 'usa flights from kenya'
+- 'flight attendant jobs in kenya 2025'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

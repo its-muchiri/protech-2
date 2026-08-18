@@ -1,14 +1,14 @@
 ---
 title: 'Service Level Agreement Kenya Tour Operator Contract Terms: Complete Guide'
-description: Kenya safari guide covering service level agreement kenya tour operator contract terms, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering service level agreement kenya tour operator contract terms, including what is included, pricing, and booking advice.'
 slug: service-level-agreement-kenya-tour-operator-contract-terms
-primary_keyword: Service level agreement Kenya tour operator contract terms
+primary_keyword: 'Service level agreement Kenya tour operator contract terms'
 secondary_keywords:
-- Hire 4x4 Land Cruiser with driver guide Kenya daily rate
-- Kenya safari company reviews SafariBookings verified reviews
-- Kenya yoga retreat safari lodges offering wellness programs
-- East African residents safari deals Kenya / Tanzania / Uganda
-- Reserve Kenya wildlife tour package UK cost
+- 'Hire 4x4 Land Cruiser with driver guide Kenya daily rate'
+- 'Kenya safari company reviews SafariBookings verified reviews'
+- 'Kenya yoga retreat safari lodges offering wellness programs'
+- 'East African residents safari deals Kenya / Tanzania / Uganda'
+- 'Reserve Kenya wildlife tour package UK cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

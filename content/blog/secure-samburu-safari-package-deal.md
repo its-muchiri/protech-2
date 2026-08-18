@@ -1,14 +1,14 @@
 ---
 title: 'Secure Samburu Safari Package Deal: Complete Guide'
-description: Kenya safari guide covering secure samburu safari package deal, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering secure samburu safari package deal, including what is included, pricing, and booking advice.'
 slug: secure-samburu-safari-package-deal
-primary_keyword: Secure Samburu safari package deal
+primary_keyword: 'Secure Samburu safari package deal'
 secondary_keywords:
-- Purchase Nairobi start Kenya safari package
-- Reserve 15 day Kenya ultimate safari booking
-- Buy bird watching Kenya safari package
-- Get quote Kenya safari online
-- One week Kenya wildlife tour budget enquiry
+- 'Purchase Nairobi start Kenya safari package'
+- 'Reserve 15 day Kenya ultimate safari booking'
+- 'Buy bird watching Kenya safari package'
+- 'Get quote Kenya safari online'
+- 'One week Kenya wildlife tour budget enquiry'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

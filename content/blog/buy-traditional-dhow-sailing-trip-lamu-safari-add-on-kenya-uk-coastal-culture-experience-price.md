@@ -1,14 +1,14 @@
 ---
 title: 'Buy Traditional Dhow Sailing Trip Lamu Safari Add-on Kenya UK Coastal Culture Experience Price: Complete Guide'
-description: Kenya safari guide covering buy traditional dhow sailing trip lamu safari add-on kenya uk coastal culture experience price, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy traditional dhow sailing trip lamu safari add-on kenya uk coastal culture experience price, including what is included, pricing, and booking advice.'
 slug: buy-traditional-dhow-sailing-trip-lamu-safari-add-on-kenya-uk-coastal-culture-experience-price
-primary_keyword: Buy traditional dhow sailing trip Lamu safari add-on Kenya UK coastal culture experience price
+primary_keyword: 'Buy traditional dhow sailing trip Lamu safari add-on Kenya UK coastal culture experience price'
 secondary_keywords:
-- Easter holiday Kenya safari package buy
-- Kenya safari reviews and booking
-- Kenya safari package price match
-- Kenya safari package including transfers quote
-- All-inclusive safari Kenya book
+- 'Easter holiday Kenya safari package buy'
+- 'Kenya safari reviews and booking'
+- 'Kenya safari package price match'
+- 'Kenya safari package including transfers quote'
+- 'All-inclusive safari Kenya book'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

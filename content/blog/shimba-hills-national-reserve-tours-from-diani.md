@@ -1,14 +1,14 @@
 ---
 title: 'Shimba Hills National Reserve Tours from Diani: Complete Guide'
-description: Kenya safari guide covering shimba hills national reserve tours from diani, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering shimba hills national reserve tours from diani, including what is included, pricing, and booking advice.'
 slug: shimba-hills-national-reserve-tours-from-diani
-primary_keyword: Shimba Hills National Reserve tours from Diani
+primary_keyword: 'Shimba Hills National Reserve tours from Diani'
 secondary_keywords:
-- Viaggio safari Kenia (Italian)
-- Swahili phrases for safari
-- Buy Kenya safari package
-- Kenya safari availability check and book
-- 10 day Kenya safari adventure package deal
+- 'Viaggio safari Kenia (Italian)'
+- 'Swahili phrases for safari'
+- 'Buy Kenya safari package'
+- 'Kenya safari availability check and book'
+- '10 day Kenya safari adventure package deal'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

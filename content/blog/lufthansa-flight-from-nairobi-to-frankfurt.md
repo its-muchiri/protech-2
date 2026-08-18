@@ -1,14 +1,14 @@
 ---
 title: 'Lufthansa Flight from Nairobi to Frankfurt: Complete Guide'
-description: Everything you need to know about lufthansa flight from nairobi to frankfurt, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about lufthansa flight from nairobi to frankfurt, including routes, airlines, booking tips, and fares.'
 slug: lufthansa-flight-from-nairobi-to-frankfurt
-primary_keyword: lufthansa flight from nairobi to frankfurt
+primary_keyword: 'lufthansa flight from nairobi to frankfurt'
 secondary_keywords:
-- google flights nairobi to entebbe
-- houston to nairobi flights
-- flights nairobi to jfk
-- flights nairobi to kilifi
-- flights nairobi to london today
+- 'google flights nairobi to entebbe'
+- 'houston to nairobi flights'
+- 'flights nairobi to jfk'
+- 'flights nairobi to kilifi'
+- 'flights nairobi to london today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Qatar from Kenya: Complete Guide'
-description: Everything you need to know about qatar from kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar from kenya, including routes, airlines, booking tips, and fares.'
 slug: qatar-from-kenya
-primary_keyword: qatar from kenya
+primary_keyword: 'qatar from kenya'
 secondary_keywords:
-- flights from nairobi to addis ababa
-- air arabia flights from nairobi to ahmedabad
-- ba flights from nairobi
-- cheap flights from nairobi to kisumu
-- flights from nairobi to eldoret
+- 'flights from nairobi to addis ababa'
+- 'air arabia flights from nairobi to ahmedabad'
+- 'ba flights from nairobi'
+- 'cheap flights from nairobi to kisumu'
+- 'flights from nairobi to eldoret'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Dubai to Nairobi Today Timetable: Complete Guide'
-description: Everything you need to know about kq flight from dubai to nairobi today timetable, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from dubai to nairobi today timetable, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-dubai-to-nairobi-today-timetable
-primary_keyword: kq flight from dubai to nairobi today timetable
+primary_keyword: 'kq flight from dubai to nairobi today timetable'
 secondary_keywords:
-- cheap flights from kansas city to nairobi kenya
-- flights from lagos to nairobi kenya
-- cheap flights from melbourne to nairobi kenya
-- flight from kenya to oman price
-- flights from kenya to paris
+- 'cheap flights from kansas city to nairobi kenya'
+- 'flights from lagos to nairobi kenya'
+- 'cheap flights from melbourne to nairobi kenya'
+- 'flight from kenya to oman price'
+- 'flights from kenya to paris'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

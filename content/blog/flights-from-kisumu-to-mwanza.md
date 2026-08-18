@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kisumu to Mwanza: Complete Guide'
-description: Everything you need to know about flights from kisumu to mwanza, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kisumu to mwanza, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kisumu-to-mwanza
-primary_keyword: flights from kisumu to mwanza
+primary_keyword: 'flights from kisumu to mwanza'
 secondary_keywords:
-- flights nairobi to migori
-- new york to nairobi flights
-- flights nairobi to perth australia
-- flight charges from nairobi to qatar
-- rwandair flights nairobi to kigali
+- 'flights nairobi to migori'
+- 'new york to nairobi flights'
+- 'flights nairobi to perth australia'
+- 'flight charges from nairobi to qatar'
+- 'rwandair flights nairobi to kigali'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
-title: 'Lake Naivasha Boat Safari Booking Hell's Gate Tour USA: Complete Guide'
-description: Kenya safari guide covering lake naivasha boat safari booking hells gate tour usa, including what is included, pricing, and booking advice.
+title: 'Lake Naivasha Boat Safari Booking Hell''s Gate Tour USA: Complete Guide'
+description: 'Kenya safari guide covering lake naivasha boat safari booking hells gate tour usa, including what is included, pricing, and booking advice.'
 slug: lake-naivasha-boat-safari-booking-hell-s-gate-tour-usa
-primary_keyword: Lake Naivasha boat safari booking Hell's Gate tour USA
+primary_keyword: 'Lake Naivasha boat safari booking Hell''s Gate tour USA'
 secondary_keywords:
-- Kenya safari package special offers
-- 9 day migration special safari discount booking
-- Deal 4 day Tsavo lodge safari package from Mombasa online
-- Honeymoon Kenya holiday package deal reserve
-- package quote (e.g., Governors', Kicheche, Porini)
+- 'Kenya safari package special offers'
+- '9 day migration special safari discount booking'
+- 'Deal 4 day Tsavo lodge safari package from Mombasa online'
+- 'Honeymoon Kenya holiday package deal reserve'
+- 'package quote (e.g., Governors'', Kicheche, Porini)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

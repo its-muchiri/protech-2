@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Abuja: Complete Guide'
-description: Everything you need to know about flights nairobi to abuja, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to abuja, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-abuja
-primary_keyword: flights nairobi to abuja
+primary_keyword: 'flights nairobi to abuja'
 secondary_keywords:
-- emirates flights from kochi to dubai
-- emirates flights from lusaka to harare
-- emirates flights to australia from manchester
-- emirates flight from or tambo to dubai
-- emirates flights from zimbabwe to uk price
+- 'emirates flights from kochi to dubai'
+- 'emirates flights from lusaka to harare'
+- 'emirates flights to australia from manchester'
+- 'emirates flight from or tambo to dubai'
+- 'emirates flights from zimbabwe to uk price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

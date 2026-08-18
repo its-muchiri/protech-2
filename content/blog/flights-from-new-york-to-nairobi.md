@@ -1,14 +1,14 @@
 ---
 title: 'Flights from New York to Nairobi: Complete Guide'
-description: Everything you need to know about flights from new york to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from new york to nairobi, including routes, airlines, booking tips, and fares.'
 slug: flights-from-new-york-to-nairobi
-primary_keyword: flights from new york to nairobi
+primary_keyword: 'flights from new york to nairobi'
 secondary_keywords:
-- flights from mombasa to mauritius
-- cost of flights from nairobi to mombasa
-- flights rome mombasa
-- flights from mombasa to uk
-- flights to mombasa kenya from zanzibar
+- 'flights from mombasa to mauritius'
+- 'cost of flights from nairobi to mombasa'
+- 'flights rome mombasa'
+- 'flights from mombasa to uk'
+- 'flights to mombasa kenya from zanzibar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

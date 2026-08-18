@@ -1,14 +1,14 @@
 ---
 title: 'Lake Naivasha Boat Tour Operators: Complete Guide'
-description: Kenya safari guide covering lake naivasha boat tour operators, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering lake naivasha boat tour operators, including what is included, pricing, and booking advice.'
 slug: lake-naivasha-boat-tour-operators
-primary_keyword: Lake Naivasha boat tour operators
+primary_keyword: 'Lake Naivasha boat tour operators'
 secondary_keywords:
-- Reserve 6 day family fun safari package Ol Pejeta Mara
-- Reserve seats 12 day group overland Kenya package
-- Final payment Kenya honeymoon safari package booking
-- Buy now special offer 5 day Samburu safari package
-- Reserve 9 day Porini Camps eco-safari package Kenya
+- 'Reserve 6 day family fun safari package Ol Pejeta Mara'
+- 'Reserve seats 12 day group overland Kenya package'
+- 'Final payment Kenya honeymoon safari package booking'
+- 'Buy now special offer 5 day Samburu safari package'
+- 'Reserve 9 day Porini Camps eco-safari package Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

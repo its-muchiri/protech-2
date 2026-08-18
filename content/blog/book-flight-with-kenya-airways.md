@@ -1,14 +1,14 @@
 ---
 title: 'Book Flight with Kenya Airways: Complete Guide'
-description: Everything you need to know about book flight with kenya airways, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about book flight with kenya airways, including routes, airlines, booking tips, and fares.'
 slug: book-flight-with-kenya-airways
-primary_keyword: book flight with kenya airways
+primary_keyword: 'book flight with kenya airways'
 secondary_keywords:
-- orlando to nairobi flights
-- nairobi to malindi flights price
-- flights nairobi to rwanda
-- flights nairobi to spain
-- flights nairobi to ukunda
+- 'orlando to nairobi flights'
+- 'nairobi to malindi flights price'
+- 'flights nairobi to rwanda'
+- 'flights nairobi to spain'
+- 'flights nairobi to ukunda'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

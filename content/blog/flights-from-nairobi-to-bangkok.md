@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Bangkok: Complete Guide'
-description: Everything you need to know about flights from nairobi to bangkok, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to bangkok, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-bangkok
-primary_keyword: flights from nairobi to bangkok
+primary_keyword: 'flights from nairobi to bangkok'
 secondary_keywords:
-- flights from mombasa to nairobi wilson airport
-- flights from nairobi to new zealand
-- flights from nairobi to mombasa today
-- how long is a flight from nairobi to usa
-- flights from mombasa to addis ababa ethiopia
+- 'flights from mombasa to nairobi wilson airport'
+- 'flights from nairobi to new zealand'
+- 'flights from nairobi to mombasa today'
+- 'how long is a flight from nairobi to usa'
+- 'flights from mombasa to addis ababa ethiopia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights to Europe from Dubai: Complete Guide'
-description: Everything you need to know about emirates flights to europe from dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights to europe from dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-to-europe-from-dubai
-primary_keyword: emirates flights to europe from dubai
+primary_keyword: 'emirates flights to europe from dubai'
 secondary_keywords:
-- kq flight disruptions jkia
-- kq flights from entebbe to nairobi today
-- kq galiot
-- i-fly air kenya
-- kq flights to kinshasa
+- 'kq flight disruptions jkia'
+- 'kq flights from entebbe to nairobi today'
+- 'kq galiot'
+- 'i-fly air kenya'
+- 'kq flights to kinshasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

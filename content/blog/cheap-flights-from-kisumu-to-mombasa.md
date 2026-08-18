@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Kisumu to Mombasa: Complete Guide'
-description: Everything you need to know about cheap flights from kisumu to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from kisumu to mombasa, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-kisumu-to-mombasa
-primary_keyword: cheap flights from kisumu to mombasa
+primary_keyword: 'cheap flights from kisumu to mombasa'
 secondary_keywords:
-- flights from edmonton to nairobi kenya
-- flights from kenya to greece
-- flights from kenya to heathrow today
-- kenya airways flights from heathrow to nairobi
-- flights to israel from kenya
+- 'flights from edmonton to nairobi kenya'
+- 'flights from kenya to greece'
+- 'flights from kenya to heathrow today'
+- 'kenya airways flights from heathrow to nairobi'
+- 'flights to israel from kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

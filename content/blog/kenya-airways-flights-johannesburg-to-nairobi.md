@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights Johannesburg to Nairobi: Complete Guide'
-description: Everything you need to know about kenya airways flights johannesburg to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights johannesburg to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-johannesburg-to-nairobi
-primary_keyword: kenya airways flights johannesburg to nairobi
+primary_keyword: 'kenya airways flights johannesburg to nairobi'
 secondary_keywords:
-- which airlines fly from nairobi to malindi
-- flights from mombasa to nairobi
-- are there flights from mombasa to malindi
-- does ba fly to botswana
-- cheapest flights from mombasa to eldoret
+- 'which airlines fly from nairobi to malindi'
+- 'flights from mombasa to nairobi'
+- 'are there flights from mombasa to malindi'
+- 'does ba fly to botswana'
+- 'cheapest flights from mombasa to eldoret'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

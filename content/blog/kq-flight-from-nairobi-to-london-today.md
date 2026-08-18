@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Nairobi to London Today: Complete Guide'
-description: Everything you need to know about kq flight from nairobi to london today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from nairobi to london today, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-nairobi-to-london-today
-primary_keyword: kq flight from nairobi to london today
+primary_keyword: 'kq flight from nairobi to london today'
 secondary_keywords:
-- kq flights from nairobi to mombasa today
-- kq 3 flight status
-- addis ababa to nairobi flight kenya airways
-- kq flight from dubai to nairobi today
-- flight number kenya airways
+- 'kq flights from nairobi to mombasa today'
+- 'kq 3 flight status'
+- 'addis ababa to nairobi flight kenya airways'
+- 'kq flight from dubai to nairobi today'
+- 'flight number kenya airways'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

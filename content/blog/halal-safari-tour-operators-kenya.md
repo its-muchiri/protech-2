@@ -1,14 +1,14 @@
 ---
 title: 'Halal Safari Tour Operators Kenya: Complete Guide'
-description: Kenya safari guide covering halal safari tour operators kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering halal safari tour operators kenya, including what is included, pricing, and booking advice.'
 slug: halal-safari-tour-operators-kenya
-primary_keyword: Halal safari tour operators Kenya
+primary_keyword: 'Halal safari tour operators Kenya'
 secondary_keywords:
-- Masai Mara migration river crossing tour booking dates 2025
-- All-inclusive Kenya safari from UK cost July 2025
-- UK travel advice Kenya safari booking safe operators
-- Top rated Kenya safari specialists UK experts
-- Reserve Kenya safari Easter 2026 UK family package availability
+- 'Masai Mara migration river crossing tour booking dates 2025'
+- 'All-inclusive Kenya safari from UK cost July 2025'
+- 'UK travel advice Kenya safari booking safe operators'
+- 'Top rated Kenya safari specialists UK experts'
+- 'Reserve Kenya safari Easter 2026 UK family package availability'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

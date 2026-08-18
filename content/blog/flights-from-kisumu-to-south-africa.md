@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kisumu to South Africa: Complete Guide'
-description: Everything you need to know about flights from kisumu to south africa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kisumu to south africa, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kisumu-to-south-africa
-primary_keyword: flights from kisumu to south africa
+primary_keyword: 'flights from kisumu to south africa'
 secondary_keywords:
-- kenya airways flights nairobi to lamu
-- flights nairobi to melbourne
-- flights nairobi to new delhi
-- nairobi to oslo flights
-- flights nairobi to qatar
+- 'kenya airways flights nairobi to lamu'
+- 'flights nairobi to melbourne'
+- 'flights nairobi to new delhi'
+- 'nairobi to oslo flights'
+- 'flights nairobi to qatar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

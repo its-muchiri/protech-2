@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Windhoek: Complete Guide'
-description: Everything you need to know about flight from nairobi to windhoek, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to windhoek, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-windhoek
-primary_keyword: flight from nairobi to windhoek
+primary_keyword: 'flight from nairobi to windhoek'
 secondary_keywords:
-- jkia emirates terminal
-- emirates skycargo nairobi contacts
-- emirates flight from kenya
-- emirates flight from kenya to dubai price
-- how much is the flight from kenya to dubai
+- 'jkia emirates terminal'
+- 'emirates skycargo nairobi contacts'
+- 'emirates flight from kenya'
+- 'emirates flight from kenya to dubai price'
+- 'how much is the flight from kenya to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

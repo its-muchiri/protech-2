@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Blog: Complete Guide'
-description: Kenya safari guide covering kenya safari blog, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari blog, including what is included, pricing, and booking advice.'
 slug: kenya-safari-blog
-primary_keyword: Kenya safari blog
+primary_keyword: 'Kenya safari blog'
 secondary_keywords:
-- Destination Management Companies (DMCs) Kenya list
-- Combine Amboseli Tsavo safari 5 day itinerary
-- Meru National Park safari lodges Elsa''s Kopje price
-- Bird watching tours Kenya Rift Valley lakes / Kakamega Forest
-- Water sports Diani Beach kitesurfing / diving operators price
+- 'Destination Management Companies (DMCs) Kenya list'
+- 'Combine Amboseli Tsavo safari 5 day itinerary'
+- 'Meru National Park safari lodges Elsa''''s Kopje price'
+- 'Bird watching tours Kenya Rift Valley lakes / Kakamega Forest'
+- 'Water sports Diani Beach kitesurfing / diving operators price'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Off-season Kenya Safari: Complete Guide'
-description: Kenya safari guide covering off-season kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering off-season kenya safari, including what is included, pricing, and booking advice.'
 slug: off-season-kenya-safari
-primary_keyword: Off-season Kenya safari
+primary_keyword: 'Off-season Kenya safari'
 secondary_keywords:
-- Buy custom Kenya safari trip
-- Purchase Kenya multi-park circuit booking
-- Reserve 9 day migration special safari booking
-- Buy lodge safari package Kenya
-- Cost of Kenya safari tour
+- 'Buy custom Kenya safari trip'
+- 'Purchase Kenya multi-park circuit booking'
+- 'Reserve 9 day migration special safari booking'
+- 'Buy lodge safari package Kenya'
+- 'Cost of Kenya safari tour'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

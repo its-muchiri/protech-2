@@ -1,14 +1,14 @@
 ---
 title: 'Shimba Hills National Reserve Day Trip from Diani Beach: Complete Guide'
-description: Kenya safari guide covering shimba hills national reserve day trip from diani beach, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering shimba hills national reserve day trip from diani beach, including what is included, pricing, and booking advice.'
 slug: shimba-hills-national-reserve-day-trip-from-diani-beach
-primary_keyword: Shimba Hills National Reserve day trip from Diani Beach
+primary_keyword: 'Shimba Hills National Reserve day trip from Diani Beach'
 secondary_keywords:
-- Find student discount Kenya safari tour operator UK budget camping deals verification needed
-- Book rhino naming ceremony experience Kenya safari package USA conservation donation event
-- Purchase Kenya safari star gazing experience package USA dark sky locations lodges booking
-- Reserve Olorgesailie Prehistoric Site tour safari add-on Kenya Europe archaeology enthusiasts booking
-- See Kenya safari
+- 'Find student discount Kenya safari tour operator UK budget camping deals verification needed'
+- 'Book rhino naming ceremony experience Kenya safari package USA conservation donation event'
+- 'Purchase Kenya safari star gazing experience package USA dark sky locations lodges booking'
+- 'Reserve Olorgesailie Prehistoric Site tour safari add-on Kenya Europe archaeology enthusiasts booking'
+- 'See Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

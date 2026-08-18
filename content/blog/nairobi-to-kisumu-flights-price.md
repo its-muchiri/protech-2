@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi to Kisumu Flights Price: Complete Guide'
-description: Everything you need to know about nairobi to kisumu flights price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about nairobi to kisumu flights price, including routes, airlines, booking tips, and fares.'
 slug: nairobi-to-kisumu-flights-price
-primary_keyword: nairobi to kisumu flights price
+primary_keyword: 'nairobi to kisumu flights price'
 secondary_keywords:
-- kq flight booking price
-- kq flights check in
-- kq flights dar to nairobi
-- kq flights entebbe to nairobi
-- what airline is go to gate
+- 'kq flight booking price'
+- 'kq flights check in'
+- 'kq flights dar to nairobi'
+- 'kq flights entebbe to nairobi'
+- 'what airline is go to gate'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

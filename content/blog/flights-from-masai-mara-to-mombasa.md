@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Masai Mara to Mombasa: Complete Guide'
-description: Everything you need to know about flights from masai mara to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from masai mara to mombasa, including routes, airlines, booking tips, and fares.'
 slug: flights-from-masai-mara-to-mombasa
-primary_keyword: flights from masai mara to mombasa
+primary_keyword: 'flights from masai mara to mombasa'
 secondary_keywords:
-- qatar airways recruitment nairobi kenya
-- qatar airways nairobi project
-- kenya airways flights from accra to freetown
-- kq flight from dubai to nairobi today timetable
-- kq flight from jfk to nairobi
+- 'qatar airways recruitment nairobi kenya'
+- 'qatar airways nairobi project'
+- 'kenya airways flights from accra to freetown'
+- 'kq flight from dubai to nairobi today timetable'
+- 'kq flight from jfk to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Has Ba65 Flight from London from Nairobi Departed: Complete Guide'
-description: Everything you need to know about has ba65 flight from london from nairobi departed, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about has ba65 flight from london from nairobi departed, including routes, airlines, booking tips, and fares.'
 slug: has-ba65-flight-from-london-from-nairobi-departed
-primary_keyword: has ba65 flight from london from nairobi departed
+primary_keyword: 'has ba65 flight from london from nairobi departed'
 secondary_keywords:
-- emirates flights from vienna
-- emirates flights from which terminal
-- emirates flights from new york to dubai
-- emirates flights from zimbabwe
-- emirates flight 0409
+- 'emirates flights from vienna'
+- 'emirates flights from which terminal'
+- 'emirates flights from new york to dubai'
+- 'emirates flights from zimbabwe'
+- 'emirates flight 0409'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

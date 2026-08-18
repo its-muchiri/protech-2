@@ -1,14 +1,14 @@
 ---
 title: 'Book Recommended Kenya Safari Operator Tour: Complete Guide'
-description: Kenya safari guide covering book recommended kenya safari operator tour, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book recommended kenya safari operator tour, including what is included, pricing, and booking advice.'
 slug: book-recommended-kenya-safari-operator-tour
-primary_keyword: Book recommended Kenya safari operator tour
+primary_keyword: 'Book recommended Kenya safari operator tour'
 secondary_keywords:
-- Book Tsavo tour deal
-- Quote tailor-made Kenya package
-- Buy 6 day fly-in Masai Mara honeymoon package luxury camp
-- Book 3 day express Masai Mara fly-in package deal
-- Get quote 7 day fly-in safari Lewa Conservancy package
+- 'Book Tsavo tour deal'
+- 'Quote tailor-made Kenya package'
+- 'Buy 6 day fly-in Masai Mara honeymoon package luxury camp'
+- 'Book 3 day express Masai Mara fly-in package deal'
+- 'Get quote 7 day fly-in safari Lewa Conservancy package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

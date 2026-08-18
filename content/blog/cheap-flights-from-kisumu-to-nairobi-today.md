@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Kisumu to Nairobi Today: Complete Guide'
-description: Everything you need to know about cheap flights from kisumu to nairobi today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from kisumu to nairobi today, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-kisumu-to-nairobi-today
-primary_keyword: cheap flights from kisumu to nairobi today
+primary_keyword: 'cheap flights from kisumu to nairobi today'
 secondary_keywords:
-- flight from nairobi to india
-- jambojet flight from nairobi to eldoret
-- flight from nairobi to london heathrow
-- flight from nairobi to mauritius
-- flight ticket from nigeria to nairobi
+- 'flight from nairobi to india'
+- 'jambojet flight from nairobi to eldoret'
+- 'flight from nairobi to london heathrow'
+- 'flight from nairobi to mauritius'
+- 'flight ticket from nigeria to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

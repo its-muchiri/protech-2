@@ -1,14 +1,14 @@
 ---
 title: '6 Day Samburu Nakuru Safari Sale Price: Complete Guide'
-description: Kenya safari guide covering 6 day samburu nakuru safari sale price, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering 6 day samburu nakuru safari sale price, including what is included, pricing, and booking advice.'
 slug: 6-day-samburu-nakuru-safari-sale-price
-primary_keyword: 6 day Samburu Nakuru safari sale price
+primary_keyword: '6 day Samburu Nakuru safari sale price'
 secondary_keywords:
-- Amboseli view Kilimanjaro safari package book
-- Governors Camp Masai Mara package booking
-- Book Kenya honeymoon safari package
-- Kenya safari package offers
-- Kenya Uganda gorilla safari package cost
+- 'Amboseli view Kilimanjaro safari package book'
+- 'Governors Camp Masai Mara package booking'
+- 'Book Kenya honeymoon safari package'
+- 'Kenya safari package offers'
+- 'Kenya Uganda gorilla safari package cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

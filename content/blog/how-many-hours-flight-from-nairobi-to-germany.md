@@ -1,14 +1,14 @@
 ---
 title: 'How Many Hours Flight from Nairobi to Germany: Complete Guide'
-description: Everything you need to know about how many hours flight from nairobi to germany, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how many hours flight from nairobi to germany, including routes, airlines, booking tips, and fares.'
 slug: how-many-hours-flight-from-nairobi-to-germany
-primary_keyword: how many hours flight from nairobi to germany
+primary_keyword: 'how many hours flight from nairobi to germany'
 secondary_keywords:
-- kenya airways flight from cape town to nairobi
-- kenya airways flights from nairobi to lagos
-- kenya airways flight from nairobi to london today price
-- kenya airways flight from mombasa to nairobi today
-- kenya airways flight 507
+- 'kenya airways flight from cape town to nairobi'
+- 'kenya airways flights from nairobi to lagos'
+- 'kenya airways flight from nairobi to london today price'
+- 'kenya airways flight from mombasa to nairobi today'
+- 'kenya airways flight 507'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

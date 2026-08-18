@@ -1,14 +1,14 @@
 ---
 title: 'Cost of Flight from Nairobi to Nanyuki: Complete Guide'
-description: Everything you need to know about cost of flight from nairobi to nanyuki, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cost of flight from nairobi to nanyuki, including routes, airlines, booking tips, and fares.'
 slug: cost-of-flight-from-nairobi-to-nanyuki
-primary_keyword: cost of flight from nairobi to nanyuki
+primary_keyword: 'cost of flight from nairobi to nanyuki'
 secondary_keywords:
-- flights from kenya to uk today
-- how many airlines are in kenya
-- flight kenya london
-- flights to kenya in november
-- qatar airways in kenya
+- 'flights from kenya to uk today'
+- 'how many airlines are in kenya'
+- 'flight kenya london'
+- 'flights to kenya in november'
+- 'qatar airways in kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

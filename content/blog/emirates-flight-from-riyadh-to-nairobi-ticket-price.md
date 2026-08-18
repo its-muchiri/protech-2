@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight from Riyadh to Nairobi Ticket Price: Complete Guide'
-description: Everything you need to know about emirates flight from riyadh to nairobi ticket price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight from riyadh to nairobi ticket price, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-from-riyadh-to-nairobi-ticket-price
-primary_keyword: emirates flight from riyadh to nairobi ticket price
+primary_keyword: 'emirates flight from riyadh to nairobi ticket price'
 secondary_keywords:
-- emirates flights from europe to usa
-- emirates baggage rules for international flights from india
-- emirates flights from glasgow to dubai
-- how many emirates flights from manchester to dubai
-- emirates flights from south africa to india
+- 'emirates flights from europe to usa'
+- 'emirates baggage rules for international flights from india'
+- 'emirates flights from glasgow to dubai'
+- 'how many emirates flights from manchester to dubai'
+- 'emirates flights from south africa to india'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

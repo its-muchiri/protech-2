@@ -1,14 +1,14 @@
 ---
 title: 'Wheelchair Friendly Kenya Safari: Complete Guide'
-description: Kenya safari guide covering wheelchair friendly kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering wheelchair friendly kenya safari, including what is included, pricing, and booking advice.'
 slug: wheelchair-friendly-kenya-safari
-primary_keyword: Wheelchair friendly Kenya safari
+primary_keyword: 'Wheelchair friendly Kenya safari'
 secondary_keywords:
-- Overcrowded Masai Mara safari
-- Pangolin safari Kenya (extremely difficult sighting)
-- Wilson Airport Nairobi safari flights
-- Best travel pillow Kenya safari flight
-- Cost estimate Kenya safari package
+- 'Overcrowded Masai Mara safari'
+- 'Pangolin safari Kenya (extremely difficult sighting)'
+- 'Wilson Airport Nairobi safari flights'
+- 'Best travel pillow Kenya safari flight'
+- 'Cost estimate Kenya safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

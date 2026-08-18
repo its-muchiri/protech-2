@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight Status Contact Number: Complete Guide'
-description: Everything you need to know about emirates flight status contact number, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight status contact number, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-status-contact-number
-primary_keyword: emirates flight status contact number
+primary_keyword: 'emirates flight status contact number'
 secondary_keywords:
-- emirates flight from dubai to nairobi today status
-- emirates nairobi number
-- emirates nairobi terminal
-- emirates airline kenya photos
-- emirates flight time from dubai to kenya
+- 'emirates flight from dubai to nairobi today status'
+- 'emirates nairobi number'
+- 'emirates nairobi terminal'
+- 'emirates airline kenya photos'
+- 'emirates flight time from dubai to kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

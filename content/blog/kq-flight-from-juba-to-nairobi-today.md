@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Juba to Nairobi Today: Complete Guide'
-description: Everything you need to know about kq flight from juba to nairobi today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from juba to nairobi today, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-juba-to-nairobi-today
-primary_keyword: kq flight from juba to nairobi today
+primary_keyword: 'kq flight from juba to nairobi today'
 secondary_keywords:
-- does turkish airlines fly to orlando
-- flight ticket from kenya to qatar
-- domestic flight booking in kenya
-- kenya airways mombasa to nairobi price
-- kenya international flights
+- 'does turkish airlines fly to orlando'
+- 'flight ticket from kenya to qatar'
+- 'domestic flight booking in kenya'
+- 'kenya airways mombasa to nairobi price'
+- 'kenya international flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

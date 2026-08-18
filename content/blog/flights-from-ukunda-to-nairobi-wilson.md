@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Ukunda to Nairobi Wilson: Complete Guide'
-description: Everything you need to know about flights from ukunda to nairobi wilson, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from ukunda to nairobi wilson, including routes, airlines, booking tips, and fares.'
 slug: flights-from-ukunda-to-nairobi-wilson
-primary_keyword: flights from ukunda to nairobi wilson
+primary_keyword: 'flights from ukunda to nairobi wilson'
 secondary_keywords:
-- zanzibar flights from mombasa
-- flights from kisumu to nairobi today
-- flights from kisumu to eldoret
-- flights from nairobi to kisumu jambojet
-- safari link flights from nairobi to kisumu
+- 'zanzibar flights from mombasa'
+- 'flights from kisumu to nairobi today'
+- 'flights from kisumu to eldoret'
+- 'flights from nairobi to kisumu jambojet'
+- 'safari link flights from nairobi to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

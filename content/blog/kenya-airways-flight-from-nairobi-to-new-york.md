@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from Nairobi to New York: Complete Guide'
-description: Everything you need to know about kenya airways flight from nairobi to new york, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from nairobi to new york, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-nairobi-to-new-york
-primary_keyword: kenya airways flight from nairobi to new york
+primary_keyword: 'kenya airways flight from nairobi to new york'
 secondary_keywords:
-- kq flights entebbe to nairobi
-- what airline is go to gate
-- kq flights images
-- kq kisumu flight schedule today
-- kq flights mombasa to nairobi
+- 'kq flights entebbe to nairobi'
+- 'what airline is go to gate'
+- 'kq flights images'
+- 'kq kisumu flight schedule today'
+- 'kq flights mombasa to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

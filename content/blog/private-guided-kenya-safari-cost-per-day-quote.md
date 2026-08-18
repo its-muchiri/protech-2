@@ -1,14 +1,14 @@
 ---
 title: 'Private Guided Kenya Safari Cost Per Day Quote: Complete Guide'
-description: Kenya safari guide covering private guided kenya safari cost per day quote, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering private guided kenya safari cost per day quote, including what is included, pricing, and booking advice.'
 slug: private-guided-kenya-safari-cost-per-day-quote
-primary_keyword: Private guided Kenya safari cost per day quote
+primary_keyword: 'Private guided Kenya safari cost per day quote'
 secondary_keywords:
-- Tour companies Westlands Nairobi office
-- Tour company booking SGR tickets Nairobi Mombasa
-- Luxury family fly-in safari Laikipia Ol Pejeta combo
-- Tour company offering airport pickup JKIA direct to Mara
-- Book African safari package Kenya
+- 'Tour companies Westlands Nairobi office'
+- 'Tour company booking SGR tickets Nairobi Mombasa'
+- 'Luxury family fly-in safari Laikipia Ol Pejeta combo'
+- 'Tour company offering airport pickup JKIA direct to Mara'
+- 'Book African safari package Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

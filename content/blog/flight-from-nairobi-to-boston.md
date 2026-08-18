@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Boston: Complete Guide'
-description: Everything you need to know about flight from nairobi to boston, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to boston, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-boston
-primary_keyword: flight from nairobi to boston
+primary_keyword: 'flight from nairobi to boston'
 secondary_keywords:
-- emirates flights from glasgow to dubai today
-- emirates flights from heathrow terminal
-- emirates flights from iad today
-- emirates flights from johannesburg to delhi
-- flights from kuwait city to dubai united arab emirates
+- 'emirates flights from glasgow to dubai today'
+- 'emirates flights from heathrow terminal'
+- 'emirates flights from iad today'
+- 'emirates flights from johannesburg to delhi'
+- 'flights from kuwait city to dubai united arab emirates'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

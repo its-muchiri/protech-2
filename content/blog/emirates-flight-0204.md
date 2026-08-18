@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 0204: Complete Guide'
-description: Everything you need to know about emirates flight 0204, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 0204, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-0204
-primary_keyword: emirates flight 0204
+primary_keyword: 'emirates flight 0204'
 secondary_keywords:
-- kq 305
-- kenya airways flight arrivals nairobi
-- kq flight from nairobi to entebbe
-- kenya airways flight schedule jfk to nairobi
-- kq flight from london to nairobi today
+- 'kq 305'
+- 'kenya airways flight arrivals nairobi'
+- 'kq flight from nairobi to entebbe'
+- 'kenya airways flight schedule jfk to nairobi'
+- 'kq flight from london to nairobi today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

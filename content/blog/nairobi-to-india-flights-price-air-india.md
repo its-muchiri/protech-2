@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi to India Flights Price Air India: Complete Guide'
-description: Everything you need to know about nairobi to india flights price air india, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about nairobi to india flights price air india, including routes, airlines, booking tips, and fares.'
 slug: nairobi-to-india-flights-price-air-india
-primary_keyword: nairobi to india flights price air india
+primary_keyword: 'nairobi to india flights price air india'
 secondary_keywords:
-- zurich to nairobi flights
-- cheap flights nairobi to ukunda
-- emirates flights from adelaide to dubai
-- emirates flights from beirut to dubai
-- emirates flights from colombo to dubai
+- 'zurich to nairobi flights'
+- 'cheap flights nairobi to ukunda'
+- 'emirates flights from adelaide to dubai'
+- 'emirates flights from beirut to dubai'
+- 'emirates flights from colombo to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from Mombasa: Complete Guide'
-description: Everything you need to know about kq flights from mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from mombasa, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-mombasa
-primary_keyword: kq flights from mombasa
+primary_keyword: 'kq flights from mombasa'
 secondary_keywords:
-- emirates flights from johannesburg to dublin
-- emirates flights from london to dubai
-- emirates flights from manchester to dubai which terminal
-- emirates flights from oslo to dubai
-- emirates flights from phoenix to dubai
+- 'emirates flights from johannesburg to dublin'
+- 'emirates flights from london to dubai'
+- 'emirates flights from manchester to dubai which terminal'
+- 'emirates flights from oslo to dubai'
+- 'emirates flights from phoenix to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

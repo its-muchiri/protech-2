@@ -1,14 +1,14 @@
 ---
 title: 'Tea Plantation Tours Limuru Operators: Complete Guide'
-description: Kenya safari guide covering tea plantation tours limuru operators, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering tea plantation tours limuru operators, including what is included, pricing, and booking advice.'
 slug: tea-plantation-tours-limuru-operators
-primary_keyword: Tea plantation tours Limuru operators
+primary_keyword: 'Tea plantation tours Limuru operators'
 secondary_keywords:
-- Best Masai Mara safari package operator
-- Top luxury safari camps Kenya package
-- All-inclusive family safari Kenya buy
-- Low cost Kenya safari holiday booking
-- Book Kenya Tanzania safari package
+- 'Best Masai Mara safari package operator'
+- 'Top luxury safari camps Kenya package'
+- 'All-inclusive family safari Kenya buy'
+- 'Low cost Kenya safari holiday booking'
+- 'Book Kenya Tanzania safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

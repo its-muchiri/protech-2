@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Eldoret to Uganda: Complete Guide'
-description: Everything you need to know about flights from eldoret to uganda, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from eldoret to uganda, including routes, airlines, booking tips, and fares.'
 slug: flights-from-eldoret-to-uganda
-primary_keyword: flights from eldoret to uganda
+primary_keyword: 'flights from eldoret to uganda'
 secondary_keywords:
-- flights to kenya mombasa
-- flights to kenya price
-- flights from nairobi kenya to rome italy
-- flights to kenya uk
-- flights to zambia from nairobi
+- 'flights to kenya mombasa'
+- 'flights to kenya price'
+- 'flights from nairobi kenya to rome italy'
+- 'flights to kenya uk'
+- 'flights to zambia from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

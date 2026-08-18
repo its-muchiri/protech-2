@@ -1,14 +1,14 @@
 ---
 title: 'Anesthesia Machine for Sale in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to anesthesia machine for sale in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to anesthesia machine for sale in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: anesthesia-machine-for-sale-in-nairobi
-primary_keyword: Anesthesia machine for sale in Nairobi
+primary_keyword: 'Anesthesia machine for sale in Nairobi'
 secondary_keywords:
-- Canine and feline blood pressure monitor
-- Milking machine price in Kenya
-- AED (Automated External Defibrillator) price in Kenya
-- Trial lens set and frame suppliers
-- Wound dressing and bandages bulk purchase
+- 'Canine and feline blood pressure monitor'
+- 'Milking machine price in Kenya'
+- 'AED (Automated External Defibrillator) price in Kenya'
+- 'Trial lens set and frame suppliers'
+- 'Wound dressing and bandages bulk purchase'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

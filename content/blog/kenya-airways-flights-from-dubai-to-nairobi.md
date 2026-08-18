@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights from Dubai to Nairobi: Complete Guide'
-description: Everything you need to know about kenya airways flights from dubai to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights from dubai to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-from-dubai-to-nairobi
-primary_keyword: kenya airways flights from dubai to nairobi
+primary_keyword: 'kenya airways flights from dubai to nairobi'
 secondary_keywords:
-- one way flight from nairobi to kisumu
-- kenya airways flight from nairobi to kampala
-- kenya airways flight from abuja to nairobi
-- kenya airways direct flights from nairobi
-- kenya airways flight schedule from johannesburg to nairobi today
+- 'one way flight from nairobi to kisumu'
+- 'kenya airways flight from nairobi to kampala'
+- 'kenya airways flight from abuja to nairobi'
+- 'kenya airways direct flights from nairobi'
+- 'kenya airways flight schedule from johannesburg to nairobi today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

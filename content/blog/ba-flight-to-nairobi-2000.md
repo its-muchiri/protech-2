@@ -1,14 +1,14 @@
 ---
 title: 'Ba Flight to Nairobi 2000: Complete Guide'
-description: Everything you need to know about ba flight to nairobi 2000, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ba flight to nairobi 2000, including routes, airlines, booking tips, and fares.'
 slug: ba-flight-to-nairobi-2000
-primary_keyword: ba flight to nairobi 2000
+primary_keyword: 'ba flight to nairobi 2000'
 secondary_keywords:
-- nairobi to cape town flights
-- flights nairobi to vienna
-- flights to nairobi wilson
-- flight nairobi to zanzibar precision air
-- 2 bedroom nairobi west
+- 'nairobi to cape town flights'
+- 'flights nairobi to vienna'
+- 'flights to nairobi wilson'
+- 'flight nairobi to zanzibar precision air'
+- '2 bedroom nairobi west'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

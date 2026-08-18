@@ -1,14 +1,14 @@
 ---
 title: 'Reserve 5 Day Family Lodge Amboseli Package Christmas  Deal: Complete Guide'
-description: Kenya safari guide covering reserve 5 day family lodge amboseli package christmas  deal, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve 5 day family lodge amboseli package christmas  deal, including what is included, pricing, and booking advice.'
 slug: reserve-5-day-family-lodge-amboseli-package-christmas-year-deal
-primary_keyword: Reserve 5 day family lodge Amboseli package Christmas  deal
+primary_keyword: 'Reserve 5 day family lodge Amboseli package Christmas  deal'
 secondary_keywords:
-- Mombasa North Coast hotels packages (Nyali, Bamburi)
-- Climb Point Lenana Mount Kenya guided tour cost
-- Community based tourism projects Kenya support local initiatives
-- Bonfire Adventures Kenya safari packages price list / reviews
-- Southern Cross Safaris Kenya Mombasa based
+- 'Mombasa North Coast hotels packages (Nyali, Bamburi)'
+- 'Climb Point Lenana Mount Kenya guided tour cost'
+- 'Community based tourism projects Kenya support local initiatives'
+- 'Bonfire Adventures Kenya safari packages price list / reviews'
+- 'Southern Cross Safaris Kenya Mombasa based'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

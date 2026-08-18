@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kisumu to Homa Bay: Complete Guide'
-description: Everything you need to know about flights from kisumu to homa bay, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kisumu to homa bay, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kisumu-to-homa-bay
-primary_keyword: flights from kisumu to homa bay
+primary_keyword: 'flights from kisumu to homa bay'
 secondary_keywords:
-- flights from kisumu to lodwar
-- flights to kisumu prices
-- who flies to zambia
-- cheapest flights from eldoret to mombasa
-- flight from nairobi to eldoret jambojet price today
+- 'flights from kisumu to lodwar'
+- 'flights to kisumu prices'
+- 'who flies to zambia'
+- 'cheapest flights from eldoret to mombasa'
+- 'flight from nairobi to eldoret jambojet price today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

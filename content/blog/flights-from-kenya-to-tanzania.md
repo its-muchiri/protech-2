@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Tanzania: Complete Guide'
-description: Everything you need to know about flights from kenya to tanzania, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to tanzania, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-tanzania
-primary_keyword: flights from kenya to tanzania
+primary_keyword: 'flights from kenya to tanzania'
 secondary_keywords:
-- kq flights to abidjan
-- kq flight schedule
-- kq flights to canada
-- kq flights to dar es salaam
-- kenya airways google flights
+- 'kq flights to abidjan'
+- 'kq flight schedule'
+- 'kq flights to canada'
+- 'kq flights to dar es salaam'
+- 'kenya airways google flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

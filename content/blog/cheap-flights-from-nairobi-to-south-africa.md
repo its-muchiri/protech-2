@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Nairobi to South Africa: Complete Guide'
-description: Everything you need to know about cheap flights from nairobi to south africa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from nairobi to south africa, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-nairobi-to-south-africa
-primary_keyword: cheap flights from nairobi to south africa
+primary_keyword: 'cheap flights from nairobi to south africa'
 secondary_keywords:
-- flights from kenya to barbados
-- flights from kenya to cape town
-- flights from kenya to dar es salaam
-- flight from kenya to estonia
-- flights from san francisco to nairobi kenya
+- 'flights from kenya to barbados'
+- 'flights from kenya to cape town'
+- 'flights from kenya to dar es salaam'
+- 'flight from kenya to estonia'
+- 'flights from san francisco to nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

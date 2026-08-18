@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Dar Es Salaam: Complete Guide'
-description: Everything you need to know about flights from mombasa to dar es salaam, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to dar es salaam, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-dar-es-salaam
-primary_keyword: flights from mombasa to dar es salaam
+primary_keyword: 'flights from mombasa to dar es salaam'
 secondary_keywords:
-- cost of flight from nairobi to diani
-- price of flight from nairobi to eldoret
-- return flight from nairobi to zanzibar
-- skyward flight from nairobi to mombasa
-- flight from nairobi to us
+- 'cost of flight from nairobi to diani'
+- 'price of flight from nairobi to eldoret'
+- 'return flight from nairobi to zanzibar'
+- 'skyward flight from nairobi to mombasa'
+- 'flight from nairobi to us'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

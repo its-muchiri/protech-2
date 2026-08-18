@@ -1,14 +1,14 @@
 ---
 title: 'Ethical Maasai Village Tour Operator Near Mara: Complete Guide'
-description: Kenya safari guide covering ethical maasai village tour operator near mara, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering ethical maasai village tour operator near mara, including what is included, pricing, and booking advice.'
 slug: ethical-maasai-village-tour-operator-near-mara
-primary_keyword: Ethical Maasai village tour operator near Mara
+primary_keyword: 'Ethical Maasai village tour operator near Mara'
 secondary_keywords:
-- Select Kenya Tanzania combo package itinerary quote
-- Buy package for Kenya public holiday weekend deal
-- Buy 4 day Lake Nakuru Sopa Lodge birding package deal online
-- Top rated safari companies Kenya SafariBookings
-- Masai Mara National Reserve safari packages 3 days 2 nights from Nairobi
+- 'Select Kenya Tanzania combo package itinerary quote'
+- 'Buy package for Kenya public holiday weekend deal'
+- 'Buy 4 day Lake Nakuru Sopa Lodge birding package deal online'
+- 'Top rated safari companies Kenya SafariBookings'
+- 'Masai Mara National Reserve safari packages 3 days 2 nights from Nairobi'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Solo Traveler Kenya Safari: Complete Guide'
-description: Kenya safari guide covering solo traveler kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering solo traveler kenya safari, including what is included, pricing, and booking advice.'
 slug: solo-traveler-kenya-safari
-primary_keyword: Solo traveler Kenya safari
+primary_keyword: 'Solo traveler Kenya safari'
 secondary_keywords:
-- Reliable company for Lake Nakuru day trip from Thika town
-- Taita Hills Sanctuary night game drive operators
-- Reserve bespoke Kenya safari experience
-- Book Mara North Conservancy package
-- Secure 10 day Kenya Tanzania combined tour
+- 'Reliable company for Lake Nakuru day trip from Thika town'
+- 'Taita Hills Sanctuary night game drive operators'
+- 'Reserve bespoke Kenya safari experience'
+- 'Book Mara North Conservancy package'
+- 'Secure 10 day Kenya Tanzania combined tour'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

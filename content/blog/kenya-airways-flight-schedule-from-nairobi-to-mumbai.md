@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight Schedule from Nairobi to Mumbai: Complete Guide'
-description: Everything you need to know about kenya airways flight schedule from nairobi to mumbai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight schedule from nairobi to mumbai, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-schedule-from-nairobi-to-mumbai
-primary_keyword: kenya airways flight schedule from nairobi to mumbai
+primary_keyword: 'kenya airways flight schedule from nairobi to mumbai'
 secondary_keywords:
-- flights from ottawa to nairobi kenya
-- flights to kenya from perth
-- qatar flights from kenya
-- return flights to kenya from uk
-- flights from seattle to nairobi kenya
+- 'flights from ottawa to nairobi kenya'
+- 'flights to kenya from perth'
+- 'qatar flights from kenya'
+- 'return flights to kenya from uk'
+- 'flights from seattle to nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

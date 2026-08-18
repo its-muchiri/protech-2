@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways from Nairobi to New York: Complete Guide'
-description: Everything you need to know about kenya airways from nairobi to new york, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways from nairobi to new york, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-from-nairobi-to-new-york
-primary_keyword: kenya airways from nairobi to new york
+primary_keyword: 'kenya airways from nairobi to new york'
 secondary_keywords:
-- ethiopian airlines nairobi to accra
-- ethiopian airlines agent in nairobi
-- qatar airways from nairobi to doha
-- does turkish airlines fly to dubai
-- flight booking in kenya
+- 'ethiopian airlines nairobi to accra'
+- 'ethiopian airlines agent in nairobi'
+- 'qatar airways from nairobi to doha'
+- 'does turkish airlines fly to dubai'
+- 'flight booking in kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

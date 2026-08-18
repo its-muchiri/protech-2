@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Nairobi to London: Complete Guide'
-description: Everything you need to know about turkish airlines nairobi to london, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines nairobi to london, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-nairobi-to-london
-primary_keyword: turkish airlines nairobi to london
+primary_keyword: 'turkish airlines nairobi to london'
 secondary_keywords:
-- turkish airlines office in nairobi kenya
-- turkish airlines nach nairobi
-- turkish airlines to nairobi today
-- emirates westlands
-- ethiopian airlines flights from addis ababa to nairobi price
+- 'turkish airlines office in nairobi kenya'
+- 'turkish airlines nach nairobi'
+- 'turkish airlines to nairobi today'
+- 'emirates westlands'
+- 'ethiopian airlines flights from addis ababa to nairobi price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

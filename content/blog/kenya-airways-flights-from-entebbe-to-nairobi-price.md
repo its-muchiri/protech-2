@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights from Entebbe to Nairobi Price: Complete Guide'
-description: Everything you need to know about kenya airways flights from entebbe to nairobi price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights from entebbe to nairobi price, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-from-entebbe-to-nairobi-price
-primary_keyword: kenya airways flights from entebbe to nairobi price
+primary_keyword: 'kenya airways flights from entebbe to nairobi price'
 secondary_keywords:
-- flights from kenya to uganda
-- flights from nairobi to vipingo
-- flights from winnipeg to nairobi kenya
-- flights from new york to kenya
-- zanzibar flights from kenya
+- 'flights from kenya to uganda'
+- 'flights from nairobi to vipingo'
+- 'flights from winnipeg to nairobi kenya'
+- 'flights from new york to kenya'
+- 'zanzibar flights from kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

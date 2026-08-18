@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Frankfurt to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from frankfurt to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from frankfurt to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-frankfurt-to-dubai
-primary_keyword: emirates flights from frankfurt to dubai
+primary_keyword: 'emirates flights from frankfurt to dubai'
 secondary_keywords:
-- turkish airlines to nairobi today
-- emirates westlands
-- ethiopian airlines flights from addis ababa to nairobi price
-- ethiopian airlines cargo office nairobi
-- turkish airlines nairobi airport terminal
+- 'turkish airlines to nairobi today'
+- 'emirates westlands'
+- 'ethiopian airlines flights from addis ababa to nairobi price'
+- 'ethiopian airlines cargo office nairobi'
+- 'turkish airlines nairobi airport terminal'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

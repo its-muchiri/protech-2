@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from Eldoret to Mombasa: Complete Guide'
-description: Everything you need to know about kq flights from eldoret to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from eldoret to mombasa, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-eldoret-to-mombasa
-primary_keyword: kq flights from eldoret to mombasa
+primary_keyword: 'kq flights from eldoret to mombasa'
 secondary_keywords:
-- cheapest emirates flights from dubai
-- emirates flights from edinburgh
-- emirates flights first class
-- emirates flights from gatwick terminal
-- emirates flights from harare to london
+- 'cheapest emirates flights from dubai'
+- 'emirates flights from edinburgh'
+- 'emirates flights first class'
+- 'emirates flights from gatwick terminal'
+- 'emirates flights from harare to london'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

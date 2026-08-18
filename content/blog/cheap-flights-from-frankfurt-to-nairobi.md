@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Frankfurt to Nairobi: Complete Guide'
-description: Everything you need to know about cheap flights from frankfurt to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from frankfurt to nairobi, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-frankfurt-to-nairobi
-primary_keyword: cheap flights from frankfurt to nairobi
+primary_keyword: 'cheap flights from frankfurt to nairobi'
 secondary_keywords:
-- cheap flights from kansas city to nairobi kenya
-- flights from lagos to nairobi kenya
-- cheap flights from melbourne to nairobi kenya
-- flight from kenya to oman price
-- flights from kenya to paris
+- 'cheap flights from kansas city to nairobi kenya'
+- 'flights from lagos to nairobi kenya'
+- 'cheap flights from melbourne to nairobi kenya'
+- 'flight from kenya to oman price'
+- 'flights from kenya to paris'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

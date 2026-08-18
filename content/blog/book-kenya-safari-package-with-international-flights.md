@@ -1,14 +1,14 @@
 ---
 title: 'Book Kenya Safari Package with International Flights: Complete Guide'
-description: Kenya safari guide covering book kenya safari package with international flights, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book kenya safari package with international flights, including what is included, pricing, and booking advice.'
 slug: book-kenya-safari-package-with-international-flights
-primary_keyword: Book Kenya safari package with international flights
+primary_keyword: 'Book Kenya safari package with international flights'
 secondary_keywords:
-- Masai Mara conservancy safari (e.g., Mara North, Olare Motorogi) benefits
-- Samburu National Reserve safari packages price Samburu Intrepids
-- Kenya fly-in safari packages Masai Mara / Samburu cost
-- Mombasa North Coast hotels packages (Nyali, Bamburi)
-- Climb Point Lenana Mount Kenya guided tour cost
+- 'Masai Mara conservancy safari (e.g., Mara North, Olare Motorogi) benefits'
+- 'Samburu National Reserve safari packages price Samburu Intrepids'
+- 'Kenya fly-in safari packages Masai Mara / Samburu cost'
+- 'Mombasa North Coast hotels packages (Nyali, Bamburi)'
+- 'Climb Point Lenana Mount Kenya guided tour cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

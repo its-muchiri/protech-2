@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways from Nairobi to Doha: Complete Guide'
-description: Everything you need to know about qatar airways from nairobi to doha, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways from nairobi to doha, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-from-nairobi-to-doha
-primary_keyword: qatar airways from nairobi to doha
+primary_keyword: 'qatar airways from nairobi to doha'
 secondary_keywords:
-- cheapest flights from kenya to qatar
-- flights from riyadh to kenya
-- flights to kenya from sydney
-- us flights from kenya
-- flights from vienna to kenya
+- 'cheapest flights from kenya to qatar'
+- 'flights from riyadh to kenya'
+- 'flights to kenya from sydney'
+- 'us flights from kenya'
+- 'flights from vienna to kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

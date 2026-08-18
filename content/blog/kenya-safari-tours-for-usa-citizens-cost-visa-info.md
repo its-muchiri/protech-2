@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Tours for USA Citizens Cost Visa Info: Complete Guide'
-description: Kenya safari guide covering kenya safari tours for usa citizens cost visa info, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari tours for usa citizens cost visa info, including what is included, pricing, and booking advice.'
 slug: kenya-safari-tours-for-usa-citizens-cost-visa-info
-primary_keyword: Kenya safari tours for USA citizens cost visa info
+primary_keyword: 'Kenya safari tours for USA citizens cost visa info'
 secondary_keywords:
-- Kenya safari with kids
-- Custom Kenya safari
-- Horseback safari Kenya
-- One week Kenya safari
-- Kenya safari deals
+- 'Kenya safari with kids'
+- 'Custom Kenya safari'
+- 'Horseback safari Kenya'
+- 'One week Kenya safari'
+- 'Kenya safari deals'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

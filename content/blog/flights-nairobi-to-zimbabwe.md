@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Zimbabwe: Complete Guide'
-description: Everything you need to know about flights nairobi to zimbabwe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to zimbabwe, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-zimbabwe
-primary_keyword: flights nairobi to zimbabwe
+primary_keyword: 'flights nairobi to zimbabwe'
 secondary_keywords:
-- emirates flights from south africa to india ticket price
-- emirates flights from tehran today
-- emirates flights from vienna to dubai
-- emirates flights from which terminal in dubai
-- emirates flights from new york to milan
+- 'emirates flights from south africa to india ticket price'
+- 'emirates flights from tehran today'
+- 'emirates flights from vienna to dubai'
+- 'emirates flights from which terminal in dubai'
+- 'emirates flights from new york to milan'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

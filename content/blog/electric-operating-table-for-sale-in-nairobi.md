@@ -1,14 +1,14 @@
 ---
 title: 'Electric Operating Table for Sale in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to electric operating table for sale in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to electric operating table for sale in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: electric-operating-table-for-sale-in-nairobi
-primary_keyword: Electric operating table for sale in Nairobi
+primary_keyword: 'Electric operating table for sale in Nairobi'
 secondary_keywords:
-- home blood pressure monitor recommendations Kenya
-- nebulizer rental Kenya
-- medical equipment suppliers list Kenya
-- eye clinic equipment Kenya
-- home health medical devices Kenya
+- 'home blood pressure monitor recommendations Kenya'
+- 'nebulizer rental Kenya'
+- 'medical equipment suppliers list Kenya'
+- 'eye clinic equipment Kenya'
+- 'home health medical devices Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is a Flight from Kenya to China: Complete Guide'
-description: Everything you need to know about how much is a flight from kenya to china, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is a flight from kenya to china, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-a-flight-from-kenya-to-china
-primary_keyword: how much is a flight from kenya to china
+primary_keyword: 'how much is a flight from kenya to china'
 secondary_keywords:
-- kenya airways flight from nairobi to accra today
-- kq flight from nairobi to eldoret
-- kenya airways mumbai to nairobi flight status
-- kq flight from london to nairobi
-- kq flight schedule nairobi to mombasa
+- 'kenya airways flight from nairobi to accra today'
+- 'kq flight from nairobi to eldoret'
+- 'kenya airways mumbai to nairobi flight status'
+- 'kq flight from london to nairobi'
+- 'kq flight schedule nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

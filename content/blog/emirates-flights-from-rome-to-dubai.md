@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Rome to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from rome to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from rome to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-rome-to-dubai
-primary_keyword: emirates flights from rome to dubai
+primary_keyword: 'emirates flights from rome to dubai'
 secondary_keywords:
-- cheap flights from nairobi to frankfurt germany
-- flights from nairobi to galkayo
-- homa bay flights from nairobi
-- flights to italy from nairobi
-- jambojet flights from nairobi to kisumu
+- 'cheap flights from nairobi to frankfurt germany'
+- 'flights from nairobi to galkayo'
+- 'homa bay flights from nairobi'
+- 'flights to italy from nairobi'
+- 'jambojet flights from nairobi to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

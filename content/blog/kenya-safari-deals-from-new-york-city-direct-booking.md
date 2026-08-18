@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Deals from New York City Direct Booking: Complete Guide'
-description: Kenya safari guide covering kenya safari deals from new york city direct booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari deals from new york city direct booking, including what is included, pricing, and booking advice.'
 slug: kenya-safari-deals-from-new-york-city-direct-booking
-primary_keyword: Kenya safari deals from New York City direct booking
+primary_keyword: 'Kenya safari deals from New York City direct booking'
 secondary_keywords:
-- Luxury tented camp safari Kenya price comparison
-- Short Kenya safari 2 day / 3 day options from Nairobi
-- Mount Kenya Chogoria route trek difficulty / best time
-- Luo cultural tours Kisumu Lake Victoria
-- Thika pineapple farms tour local operators
+- 'Luxury tented camp safari Kenya price comparison'
+- 'Short Kenya safari 2 day / 3 day options from Nairobi'
+- 'Mount Kenya Chogoria route trek difficulty / best time'
+- 'Luo cultural tours Kisumu Lake Victoria'
+- 'Thika pineapple farms tour local operators'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

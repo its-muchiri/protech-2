@@ -1,14 +1,14 @@
 ---
 title: 'Book Kenya Safari Departing Frankfurt Europe Cost: Complete Guide'
-description: Kenya safari guide covering book kenya safari departing frankfurt europe cost, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book kenya safari departing frankfurt europe cost, including what is included, pricing, and booking advice.'
 slug: book-kenya-safari-departing-frankfurt-europe-cost
-primary_keyword: Book Kenya safari departing Frankfurt Europe cost
+primary_keyword: 'Book Kenya safari departing Frankfurt Europe cost'
 secondary_keywords:
-- Buy 14 day Kenya grand safari package
-- Laikipia luxury safari package booking
-- Exclusive Kenya safari experience booking
-- Kenya safari package for family with kids
-- Honeymoon deals Kenya safari resorts
+- 'Buy 14 day Kenya grand safari package'
+- 'Laikipia luxury safari package booking'
+- 'Exclusive Kenya safari experience booking'
+- 'Kenya safari package for family with kids'
+- 'Honeymoon deals Kenya safari resorts'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

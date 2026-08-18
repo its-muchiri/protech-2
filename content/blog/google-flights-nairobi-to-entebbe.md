@@ -1,14 +1,14 @@
 ---
 title: 'Google Flights Nairobi to Entebbe: Complete Guide'
-description: Everything you need to know about google flights nairobi to entebbe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about google flights nairobi to entebbe, including routes, airlines, booking tips, and fares.'
 slug: google-flights-nairobi-to-entebbe
-primary_keyword: google flights nairobi to entebbe
+primary_keyword: 'google flights nairobi to entebbe'
 secondary_keywords:
-- kq flight reservation
-- kq flights from south africa today timetable
-- kq flights to zambia
-- kq 117 flight status
-- kq 2 flight
+- 'kq flight reservation'
+- 'kq flights from south africa today timetable'
+- 'kq flights to zambia'
+- 'kq 117 flight status'
+- 'kq 2 flight'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

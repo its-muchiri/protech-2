@@ -1,14 +1,14 @@
 ---
 title: 'Hidden Costs Kenya Safari: Complete Guide'
-description: Kenya safari guide covering hidden costs kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering hidden costs kenya safari, including what is included, pricing, and booking advice.'
 slug: hidden-costs-kenya-safari
-primary_keyword: Hidden costs Kenya safari
+primary_keyword: 'Hidden costs Kenya safari'
 secondary_keywords:
-- Zebra migration Kenya
-- Kenya Tanzania safari combo
-- Best month for Kenya safari
-- Christmas Kenya safari
-- ATOL protected Kenya safari
+- 'Zebra migration Kenya'
+- 'Kenya Tanzania safari combo'
+- 'Best month for Kenya safari'
+- 'Christmas Kenya safari'
+- 'ATOL protected Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

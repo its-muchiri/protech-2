@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Flight from Nairobi to Addis Ababa: Complete Guide'
-description: Everything you need to know about ethiopian airlines flight from nairobi to addis ababa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines flight from nairobi to addis ababa, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-flight-from-nairobi-to-addis-ababa
-primary_keyword: ethiopian airlines flight from nairobi to addis ababa
+primary_keyword: 'ethiopian airlines flight from nairobi to addis ababa'
 secondary_keywords:
-- flights from mombasa to singapore
-- cheap flights from uganda to mombasa
-- flights from kisumu
-- does british airways fly to kolkata
-- flights from kisumu to entebbe
+- 'flights from mombasa to singapore'
+- 'cheap flights from uganda to mombasa'
+- 'flights from kisumu'
+- 'does british airways fly to kolkata'
+- 'flights from kisumu to entebbe'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

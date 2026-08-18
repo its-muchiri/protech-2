@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Lodwar: Complete Guide'
-description: Everything you need to know about flight from nairobi to lodwar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to lodwar, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-lodwar
-primary_keyword: flight from nairobi to lodwar
+primary_keyword: 'flight from nairobi to lodwar'
 secondary_keywords:
-- emirates flight 407 pilots
-- emirates flight 501
-- emirates flight 730
-- 8 emirates
-- qatar airways flight from nairobi to doha today
+- 'emirates flight 407 pilots'
+- 'emirates flight 501'
+- 'emirates flight 730'
+- '8 emirates'
+- 'qatar airways flight from nairobi to doha today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

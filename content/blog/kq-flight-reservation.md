@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight Reservation: Complete Guide'
-description: Everything you need to know about kq flight reservation, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight reservation, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-reservation
-primary_keyword: kq flight reservation
+primary_keyword: 'kq flight reservation'
 secondary_keywords:
-- nairobi to jeddah flights saudi airlines
-- nairobi to bali flights
-- cheap flights nairobi to malindi
-- flights nairobi to edinburgh
-- flights to nairobi from entebbe
+- 'nairobi to jeddah flights saudi airlines'
+- 'nairobi to bali flights'
+- 'cheap flights nairobi to malindi'
+- 'flights nairobi to edinburgh'
+- 'flights to nairobi from entebbe'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Nairobi from Uk: Complete Guide'
-description: Everything you need to know about flights to nairobi from uk, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to nairobi from uk, including routes, airlines, booking tips, and fares.'
 slug: flights-to-nairobi-from-uk
-primary_keyword: flights to nairobi from uk
+primary_keyword: 'flights to nairobi from uk'
 secondary_keywords:
-- dar to nairobi flights price
-- flights nairobi to rome
-- flights nairobi to seronera
-- flights from toronto to nairobi
-- fly nairobi to victoria falls
+- 'dar to nairobi flights price'
+- 'flights nairobi to rome'
+- 'flights nairobi to seronera'
+- 'flights from toronto to nairobi'
+- 'fly nairobi to victoria falls'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

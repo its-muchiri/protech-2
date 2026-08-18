@@ -1,14 +1,14 @@
 ---
 title: 'Mombasa Flights from Wilson: Complete Guide'
-description: Everything you need to know about mombasa flights from wilson, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about mombasa flights from wilson, including routes, airlines, booking tips, and fares.'
 slug: mombasa-flights-from-wilson
-primary_keyword: mombasa flights from wilson
+primary_keyword: 'mombasa flights from wilson'
 secondary_keywords:
-- flights from nairobi to perth
-- qatar airways flights from nairobi to doha
-- flights to rwanda from nairobi
-- skyward flights from nairobi to eldoret
-- ukunda flights from nairobi
+- 'flights from nairobi to perth'
+- 'qatar airways flights from nairobi to doha'
+- 'flights to rwanda from nairobi'
+- 'skyward flights from nairobi to eldoret'
+- 'ukunda flights from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

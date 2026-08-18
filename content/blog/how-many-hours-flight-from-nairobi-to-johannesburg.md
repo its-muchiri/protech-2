@@ -1,14 +1,14 @@
 ---
 title: 'How Many Hours Flight from Nairobi to Johannesburg: Complete Guide'
-description: Everything you need to know about how many hours flight from nairobi to johannesburg, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how many hours flight from nairobi to johannesburg, including routes, airlines, booking tips, and fares.'
 slug: how-many-hours-flight-from-nairobi-to-johannesburg
-primary_keyword: how many hours flight from nairobi to johannesburg
+primary_keyword: 'how many hours flight from nairobi to johannesburg'
 secondary_keywords:
-- south africa flights from kenya price
-- uganda flights from kenya
-- cheapest flights from vilnius to nairobi kenya
-- flights from winnipeg canada to nairobi kenya
-- flights from yemen to kenya
+- 'south africa flights from kenya price'
+- 'uganda flights from kenya'
+- 'cheapest flights from vilnius to nairobi kenya'
+- 'flights from winnipeg canada to nairobi kenya'
+- 'flights from yemen to kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

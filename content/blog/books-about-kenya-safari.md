@@ -1,14 +1,14 @@
 ---
 title: 'Books About Kenya Safari: Complete Guide'
-description: Kenya safari guide covering books about kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering books about kenya safari, including what is included, pricing, and booking advice.'
 slug: books-about-kenya-safari
-primary_keyword: Books about Kenya safari
+primary_keyword: 'Books about Kenya safari'
 secondary_keywords:
-- Purchase off-the-beaten-path Northern Kenya safari tour UK Turkana expedition cost
-- Find French-speaking driver-guide Kenya safari package booking Europe reliable operator needed
-- Book Kenya safari with horse riding Chyulu Hills package UK experienced riders only lodge booking
-- Buy Kenya safari filming permit assistance and logistics support UK production company rates
-- Reserve Nairobi Railway Museum visit safari add-on UK history transport enthusiasts booking
+- 'Purchase off-the-beaten-path Northern Kenya safari tour UK Turkana expedition cost'
+- 'Find French-speaking driver-guide Kenya safari package booking Europe reliable operator needed'
+- 'Book Kenya safari with horse riding Chyulu Hills package UK experienced riders only lodge booking'
+- 'Buy Kenya safari filming permit assistance and logistics support UK production company rates'
+- 'Reserve Nairobi Railway Museum visit safari add-on UK history transport enthusiasts booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

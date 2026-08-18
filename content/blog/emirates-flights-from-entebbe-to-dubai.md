@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Entebbe to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from entebbe to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from entebbe to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-entebbe-to-dubai
-primary_keyword: emirates flights from entebbe to dubai
+primary_keyword: 'emirates flights from entebbe to dubai'
 secondary_keywords:
-- emirates flights from europe to dubai
-- emirates flights for india
-- emirates flights from germany
-- how many emirates flights from london to dubai
-- emirates flights from israel
+- 'emirates flights from europe to dubai'
+- 'emirates flights for india'
+- 'emirates flights from germany'
+- 'how many emirates flights from london to dubai'
+- 'emirates flights from israel'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

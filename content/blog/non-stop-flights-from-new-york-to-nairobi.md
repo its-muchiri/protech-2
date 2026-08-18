@@ -1,14 +1,14 @@
 ---
 title: 'Non Stop Flights from New York to Nairobi: Complete Guide'
-description: Everything you need to know about non stop flights from new york to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about non stop flights from new york to nairobi, including routes, airlines, booking tips, and fares.'
 slug: non-stop-flights-from-new-york-to-nairobi
-primary_keyword: non stop flights from new york to nairobi
+primary_keyword: 'non stop flights from new york to nairobi'
 secondary_keywords:
-- flights from nairobi to netherlands
-- flights from nairobi to new orleans
-- flights from perth to nairobi
-- flights from nairobi to romania
-- flights from nairobi to seattle
+- 'flights from nairobi to netherlands'
+- 'flights from nairobi to new orleans'
+- 'flights from perth to nairobi'
+- 'flights from nairobi to romania'
+- 'flights from nairobi to seattle'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

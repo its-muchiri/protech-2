@@ -1,14 +1,14 @@
 ---
 title: 'Malindi Travel Agency Beach Holidays: Complete Guide'
-description: Kenya safari guide covering malindi travel agency beach holidays, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering malindi travel agency beach holidays, including what is included, pricing, and booking advice.'
 slug: malindi-travel-agency-beach-holidays
-primary_keyword: Malindi travel agency beach holidays
+primary_keyword: 'Malindi travel agency beach holidays'
 secondary_keywords:
-- Responsible tourism operators Kenya cultural sensitivity
-- Intrepid Travel Kenya tours family / overland reviews
-- Big Time Safaris Kenya packages
-- Last minute Kenya safari deals Nairobi departures
-- Eco-rating for Kenya safari lodges / camps Ecotourism Kenya certification
+- 'Responsible tourism operators Kenya cultural sensitivity'
+- 'Intrepid Travel Kenya tours family / overland reviews'
+- 'Big Time Safaris Kenya packages'
+- 'Last minute Kenya safari deals Nairobi departures'
+- 'Eco-rating for Kenya safari lodges / camps Ecotourism Kenya certification'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

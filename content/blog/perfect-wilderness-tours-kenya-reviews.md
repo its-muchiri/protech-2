@@ -1,14 +1,14 @@
 ---
 title: 'Perfect Wilderness Tours Kenya Reviews: Complete Guide'
-description: Kenya safari guide covering perfect wilderness tours kenya reviews, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering perfect wilderness tours kenya reviews, including what is included, pricing, and booking advice.'
 slug: perfect-wilderness-tours-kenya-reviews
-primary_keyword: Perfect Wilderness Tours Kenya reviews
+primary_keyword: 'Perfect Wilderness Tours Kenya reviews'
 secondary_keywords:
-- Homestay experience Kenya rural village booking
-- Bountiful Safaris Kenya packages Diani / Masai Mara deals
-- Meektrails Safaris Kenya reviews / price
-- Last minute Kenya safari deals Nairobi departures
-- Eco-rating for Kenya safari lodges / camps Ecotourism Kenya certification
+- 'Homestay experience Kenya rural village booking'
+- 'Bountiful Safaris Kenya packages Diani / Masai Mara deals'
+- 'Meektrails Safaris Kenya reviews / price'
+- 'Last minute Kenya safari deals Nairobi departures'
+- 'Eco-rating for Kenya safari lodges / camps Ecotourism Kenya certification'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

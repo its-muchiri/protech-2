@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Nairobi to New York: Complete Guide'
-description: Everything you need to know about emirates nairobi to new york, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates nairobi to new york, including routes, airlines, booking tips, and fares.'
 slug: emirates-nairobi-to-new-york
-primary_keyword: emirates nairobi to new york
+primary_keyword: 'emirates nairobi to new york'
 secondary_keywords:
-- emirates flights from us to europe
-- emirates flights from warsaw to dubai
-- does emirates fly from boston
-- emirates flights from zanzibar to dubai
-- emirates flight 0221
+- 'emirates flights from us to europe'
+- 'emirates flights from warsaw to dubai'
+- 'does emirates fly from boston'
+- 'emirates flights from zanzibar to dubai'
+- 'emirates flight 0221'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

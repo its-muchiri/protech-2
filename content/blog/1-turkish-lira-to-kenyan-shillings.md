@@ -1,14 +1,14 @@
 ---
 title: '1 Turkish Lira to Kenyan Shillings: Complete Guide'
-description: Everything you need to know about 1 turkish lira to kenyan shillings, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about 1 turkish lira to kenyan shillings, including routes, airlines, booking tips, and fares.'
 slug: 1-turkish-lira-to-kenyan-shillings
-primary_keyword: 1 turkish lira to kenyan shillings
+primary_keyword: '1 turkish lira to kenyan shillings'
 secondary_keywords:
-- egypt flights from kenya
-- flights from frankfurt to kenya
-- germany flights from kenya
-- flight from kenya to hungary price
-- flights from nigeria to kenya is how much
+- 'egypt flights from kenya'
+- 'flights from frankfurt to kenya'
+- 'germany flights from kenya'
+- 'flight from kenya to hungary price'
+- 'flights from nigeria to kenya is how much'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

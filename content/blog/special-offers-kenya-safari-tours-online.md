@@ -1,14 +1,14 @@
 ---
 title: 'Special Offers Kenya Safari Tours Online: Complete Guide'
-description: Kenya safari guide covering special offers kenya safari tours online, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering special offers kenya safari tours online, including what is included, pricing, and booking advice.'
 slug: special-offers-kenya-safari-tours-online
-primary_keyword: Special offers Kenya safari tours online
+primary_keyword: 'Special offers Kenya safari tours online'
 secondary_keywords:
-- Tsavo West safari
-- Masai Mara conservancy safari
-- Honeymoon Kenya safari
-- Group Kenya safari
-- Short Kenya safari
+- 'Tsavo West safari'
+- 'Masai Mara conservancy safari'
+- 'Honeymoon Kenya safari'
+- 'Group Kenya safari'
+- 'Short Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

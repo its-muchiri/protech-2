@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Nairobi Istanbul: Complete Guide'
-description: Everything you need to know about turkish airlines nairobi istanbul, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines nairobi istanbul, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-nairobi-istanbul
-primary_keyword: turkish airlines nairobi istanbul
+primary_keyword: 'turkish airlines nairobi istanbul'
 secondary_keywords:
-- flights from nairobi kenya to maputo mozambique
-- flights from nairobi to lusaka
-- flights from nairobi to mogadishu
-- flights from nairobi to netherlands
-- flights from nairobi to new orleans
+- 'flights from nairobi kenya to maputo mozambique'
+- 'flights from nairobi to lusaka'
+- 'flights from nairobi to mogadishu'
+- 'flights from nairobi to netherlands'
+- 'flights from nairobi to new orleans'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

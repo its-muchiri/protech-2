@@ -1,14 +1,14 @@
 ---
 title: 'CR System for X-ray Price in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to cr system for x-ray price in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to cr system for x-ray price in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: cr-system-for-x-ray-price-in-nairobi
-primary_keyword: CR system for X-ray price in Nairobi
+primary_keyword: 'CR system for X-ray price in Nairobi'
 secondary_keywords:
-- Dental chair for sale in Eldoret
-- ECG machine suppliers in Meru
-- Lab equipment calibration in Eldoret
-- Ambulance fabrication companies in Nairobi
-- 1.5 Tesla MRI machine price in Kenya
+- 'Dental chair for sale in Eldoret'
+- 'ECG machine suppliers in Meru'
+- 'Lab equipment calibration in Eldoret'
+- 'Ambulance fabrication companies in Nairobi'
+- '1.5 Tesla MRI machine price in Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Secure Online Booking Platform Kenya Safari USA Trusted: Complete Guide'
-description: Kenya safari guide covering secure online booking platform kenya safari usa trusted, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering secure online booking platform kenya safari usa trusted, including what is included, pricing, and booking advice.'
 slug: secure-online-booking-platform-kenya-safari-usa-trusted
-primary_keyword: Secure online booking platform Kenya safari USA trusted
+primary_keyword: 'Secure online booking platform Kenya safari USA trusted'
 secondary_keywords:
-- Pollman''s Tours & Safaris Kenya contact / services
-- Perfect Wilderness Tours Kenya reviews
-- Tipping guide for safari driver / lodge staff Kenya
-- Customer testimonials Kenya safari companies video reviews
-- Agricultural tours Kenya coffee / tea plantations visit Thika region
+- 'Pollman''''s Tours & Safaris Kenya contact / services'
+- 'Perfect Wilderness Tours Kenya reviews'
+- 'Tipping guide for safari driver / lodge staff Kenya'
+- 'Customer testimonials Kenya safari companies video reviews'
+- 'Agricultural tours Kenya coffee / tea plantations visit Thika region'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

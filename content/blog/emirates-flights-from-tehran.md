@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Tehran: Complete Guide'
-description: Everything you need to know about emirates flights from tehran, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from tehran, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-tehran
-primary_keyword: emirates flights from tehran
+primary_keyword: 'emirates flights from tehran'
 secondary_keywords:
-- flights nairobi to canada
-- flights nairobi to dublin
-- cheap flights from entebbe to nairobi
-- google flights nairobi to london
-- harare to nairobi flights
+- 'flights nairobi to canada'
+- 'flights nairobi to dublin'
+- 'cheap flights from entebbe to nairobi'
+- 'google flights nairobi to london'
+- 'harare to nairobi flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

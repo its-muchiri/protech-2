@@ -1,14 +1,14 @@
 ---
 title: 'Book Flight from Nairobi to Kisumu: Complete Guide'
-description: Everything you need to know about book flight from nairobi to kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about book flight from nairobi to kisumu, including routes, airlines, booking tips, and fares.'
 slug: book-flight-from-nairobi-to-kisumu
-primary_keyword: book flight from nairobi to kisumu
+primary_keyword: 'book flight from nairobi to kisumu'
 secondary_keywords:
-- flights from nairobi to brussels
-- flights from nairobi to columbus ohio
-- flights from nairobi to doha
-- ethiopian airlines flights from nairobi to dubai
-- flights from frankfurt to nairobi
+- 'flights from nairobi to brussels'
+- 'flights from nairobi to columbus ohio'
+- 'flights from nairobi to doha'
+- 'ethiopian airlines flights from nairobi to dubai'
+- 'flights from frankfurt to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

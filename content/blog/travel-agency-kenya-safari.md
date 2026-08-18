@@ -1,14 +1,14 @@
 ---
 title: 'Travel Agency Kenya Safari: Complete Guide'
-description: Kenya safari guide covering travel agency kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering travel agency kenya safari, including what is included, pricing, and booking advice.'
 slug: travel-agency-kenya-safari
-primary_keyword: Travel agency Kenya safari
+primary_keyword: 'Travel agency Kenya safari'
 secondary_keywords:
-- Mount Kenya Chogoria route trek difficulty / best time
-- Luo cultural tours Kisumu Lake Victoria
-- Thika pineapple farms tour local operators
-- Somak Safaris Kenya UK based operator
-- Kenya e-Visa application official website / cost 2025
+- 'Mount Kenya Chogoria route trek difficulty / best time'
+- 'Luo cultural tours Kisumu Lake Victoria'
+- 'Thika pineapple farms tour local operators'
+- 'Somak Safaris Kenya UK based operator'
+- 'Kenya e-Visa application official website / cost 2025'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

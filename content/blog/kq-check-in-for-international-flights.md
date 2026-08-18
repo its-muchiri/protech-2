@@ -1,14 +1,14 @@
 ---
 title: 'Kq Check in for International Flights: Complete Guide'
-description: Everything you need to know about kq check in for international flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq check in for international flights, including routes, airlines, booking tips, and fares.'
 slug: kq-check-in-for-international-flights
-primary_keyword: kq check in for international flights
+primary_keyword: 'kq check in for international flights'
 secondary_keywords:
-- ethiopian airlines fares
-- turkish airlines istanbul to nairobi today
-- flight ticket from kenya to uk
-- flight booking sites in kenya
-- ticket from kenya to canada
+- 'ethiopian airlines fares'
+- 'turkish airlines istanbul to nairobi today'
+- 'flight ticket from kenya to uk'
+- 'flight booking sites in kenya'
+- 'ticket from kenya to canada'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

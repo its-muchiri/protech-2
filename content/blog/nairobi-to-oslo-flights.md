@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi to Oslo Flights: Complete Guide'
-description: Everything you need to know about nairobi to oslo flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about nairobi to oslo flights, including routes, airlines, booking tips, and fares.'
 slug: nairobi-to-oslo-flights
-primary_keyword: nairobi to oslo flights
+primary_keyword: 'nairobi to oslo flights'
 secondary_keywords:
-- flights kenya to dubai
-- flights with kenya airways
-- 748 flights to mombasa
-- are there direct flights from kenya to usa
-- flights from kenya to brazil
+- 'flights kenya to dubai'
+- 'flights with kenya airways'
+- '748 flights to mombasa'
+- 'are there direct flights from kenya to usa'
+- 'flights from kenya to brazil'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

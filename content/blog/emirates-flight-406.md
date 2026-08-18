@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 406: Complete Guide'
-description: Everything you need to know about emirates flight 406, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 406, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-406
-primary_keyword: emirates flight 406
+primary_keyword: 'emirates flight 406'
 secondary_keywords:
-- kq flights to germany
-- kq international flights
-- kenya airways jfk flights
-- kq flights to lagos
-- kq flights nairobi to mombasa
+- 'kq flights to germany'
+- 'kq international flights'
+- 'kenya airways jfk flights'
+- 'kq flights to lagos'
+- 'kq flights nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Tabletop Pulse Oximeter for Hospital: 2026 Price Guide'
-description: Kenya buying guide to tabletop pulse oximeter for hospital. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to tabletop pulse oximeter for hospital. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: tabletop-pulse-oximeter-for-hospital
-primary_keyword: Tabletop pulse oximeter for hospital
+primary_keyword: 'Tabletop pulse oximeter for hospital'
 secondary_keywords:
-- Veterinary surgical instrument kit price
-- 5-litre oxygen concentrator for sale in Nairobi
-- Ambulance equipment and supplies list
-- Phacoemulsification machine for cataract surgery
-- Absorbable sutures price list
+- 'Veterinary surgical instrument kit price'
+- '5-litre oxygen concentrator for sale in Nairobi'
+- 'Ambulance equipment and supplies list'
+- 'Phacoemulsification machine for cataract surgery'
+- 'Absorbable sutures price list'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Buy 8 Day Kenya Discovery Package Online: Complete Guide'
-description: Kenya safari guide covering buy 8 day kenya discovery package online, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy 8 day kenya discovery package online, including what is included, pricing, and booking advice.'
 slug: buy-8-day-kenya-discovery-package-online
-primary_keyword: Buy 8 day Kenya discovery package online
+primary_keyword: 'Buy 8 day Kenya discovery package online'
 secondary_keywords:
-- Masai Mara park fees 2025 citizens/residents/non-residents
-- Ol Pejeta Conservancy day trip from Nanyuki / Nairobi chimpanzee sanctuary tour
-- Family safari Kenya deals child friendly lodges
-- Malindi beach hotels deals Italian influence
-- Mount Longonot hike day trip from Nairobi / Thika price / guide
+- 'Masai Mara park fees 2025 citizens/residents/non-residents'
+- 'Ol Pejeta Conservancy day trip from Nanyuki / Nairobi chimpanzee sanctuary tour'
+- 'Family safari Kenya deals child friendly lodges'
+- 'Malindi beach hotels deals Italian influence'
+- 'Mount Longonot hike day trip from Nairobi / Thika price / guide'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

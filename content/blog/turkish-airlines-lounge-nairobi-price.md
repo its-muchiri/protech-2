@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Lounge Nairobi Price: Complete Guide'
-description: Everything you need to know about turkish airlines lounge nairobi price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines lounge nairobi price, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-lounge-nairobi-price
-primary_keyword: turkish airlines lounge nairobi price
+primary_keyword: 'turkish airlines lounge nairobi price'
 secondary_keywords:
-- how much is emirates flight from kenya to dubai
-- emirates store kenya
-- ethiopian airlines flight schedule from nairobi
-- ethiopian airlines from nairobi to cape town
-- ethiopian airlines from nairobi to johannesburg
+- 'how much is emirates flight from kenya to dubai'
+- 'emirates store kenya'
+- 'ethiopian airlines flight schedule from nairobi'
+- 'ethiopian airlines from nairobi to cape town'
+- 'ethiopian airlines from nairobi to johannesburg'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

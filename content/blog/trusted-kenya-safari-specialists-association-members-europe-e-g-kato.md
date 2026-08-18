@@ -1,14 +1,14 @@
 ---
 title: 'Trusted Kenya Safari Specialists Association Members Europe (e.g., KATO): Complete Guide'
-description: Kenya safari guide covering trusted kenya safari specialists association members europe (e.g., kato), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering trusted kenya safari specialists association members europe (e.g., kato), including what is included, pricing, and booking advice.'
 slug: trusted-kenya-safari-specialists-association-members-europe-e-g-kato
-primary_keyword: Trusted Kenya safari specialists association members Europe (e.g., KATO)
+primary_keyword: 'Trusted Kenya safari specialists association members Europe (e.g., KATO)'
 secondary_keywords:
-- Book 14 day ultimate East Africa luxury package quote
-- Compare and book Kenya safari packages online
-- Confirmed itinerary cost 7 day Masai Mara booking
-- Reserve accessible safari package Kenya quote needed
-- Buy 6 day Mara Engai Wilderness Lodge package deal
+- 'Book 14 day ultimate East Africa luxury package quote'
+- 'Compare and book Kenya safari packages online'
+- 'Confirmed itinerary cost 7 day Masai Mara booking'
+- 'Reserve accessible safari package Kenya quote needed'
+- 'Buy 6 day Mara Engai Wilderness Lodge package deal'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

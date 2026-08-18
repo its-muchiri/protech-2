@@ -1,14 +1,14 @@
 ---
 title: 'Flight 540 Nairobi to Malindi: Complete Guide'
-description: Everything you need to know about flight 540 nairobi to malindi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight 540 nairobi to malindi, including routes, airlines, booking tips, and fares.'
 slug: flight-540-nairobi-to-malindi
-primary_keyword: flight 540 nairobi to malindi
+primary_keyword: 'flight 540 nairobi to malindi'
 secondary_keywords:
-- round trip flights to nairobi kenya
-- flights nairobi to tanzania
-- flights nairobi to vipingo
-- flights nairobi to washington dc
-- yvr to nairobi flights
+- 'round trip flights to nairobi kenya'
+- 'flights nairobi to tanzania'
+- 'flights nairobi to vipingo'
+- 'flights nairobi to washington dc'
+- 'yvr to nairobi flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

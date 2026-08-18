@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines from Nairobi to Addis Ababa: Complete Guide'
-description: Everything you need to know about ethiopian airlines from nairobi to addis ababa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines from nairobi to addis ababa, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-from-nairobi-to-addis-ababa
-primary_keyword: ethiopian airlines from nairobi to addis ababa
+primary_keyword: 'ethiopian airlines from nairobi to addis ababa'
 secondary_keywords:
-- emirates flights from tehran to toronto
-- emirates flights from venice to dubai
-- emirates flights from washington dc
-- emirates flights from yyz
-- emirates flights from zurich to dubai
+- 'emirates flights from tehran to toronto'
+- 'emirates flights from venice to dubai'
+- 'emirates flights from washington dc'
+- 'emirates flights from yyz'
+- 'emirates flights from zurich to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

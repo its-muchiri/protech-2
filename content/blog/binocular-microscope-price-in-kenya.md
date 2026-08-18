@@ -1,14 +1,14 @@
 ---
 title: 'Binocular Microscope Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to binocular microscope price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to binocular microscope price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: binocular-microscope-price-in-kenya
-primary_keyword: Binocular microscope price in Kenya
+primary_keyword: 'Binocular microscope price in Kenya'
 secondary_keywords:
-- respirators medical Kenya
-- laboratory glassware Kenya
-- prosthetic limbs Kenya
-- ophthalmoscope price Kenya
-- emergency crash cart Kenya
+- 'respirators medical Kenya'
+- 'laboratory glassware Kenya'
+- 'prosthetic limbs Kenya'
+- 'ophthalmoscope price Kenya'
+- 'emergency crash cart Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

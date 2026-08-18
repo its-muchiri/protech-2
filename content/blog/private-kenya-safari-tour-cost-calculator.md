@@ -1,14 +1,14 @@
 ---
 title: 'Private Kenya Safari Tour Cost Calculator: Complete Guide'
-description: Kenya safari guide covering private kenya safari tour cost calculator, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering private kenya safari tour cost calculator, including what is included, pricing, and booking advice.'
 slug: private-kenya-safari-tour-cost-calculator
-primary_keyword: Private Kenya safari tour cost calculator
+primary_keyword: 'Private Kenya safari tour cost calculator'
 secondary_keywords:
-- Day trips from Thika tour organizers
-- Airport transfer included safari packages Kenya
-- KATO registered company for Amboseli private photography tour
-- Reviews for  vs  family safari Kenya
-- Buy guided Kenya safari tour
+- 'Day trips from Thika tour organizers'
+- 'Airport transfer included safari packages Kenya'
+- 'KATO registered company for Amboseli private photography tour'
+- 'Reviews for  vs  family safari Kenya'
+- 'Buy guided Kenya safari tour'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

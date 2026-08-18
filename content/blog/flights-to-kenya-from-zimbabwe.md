@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Kenya from Zimbabwe: Complete Guide'
-description: Everything you need to know about flights to kenya from zimbabwe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to kenya from zimbabwe, including routes, airlines, booking tips, and fares.'
 slug: flights-to-kenya-from-zimbabwe
-primary_keyword: flights to kenya from zimbabwe
+primary_keyword: 'flights to kenya from zimbabwe'
 secondary_keywords:
-- cheapest flight from nairobi to south africa
-- how many hours flight from nairobi to zanzibar
-- cheapest flight from nairobi to johannesburg
-- 540 flight from nairobi to mombasa today
-- flight from nairobi to kinshasa
+- 'cheapest flight from nairobi to south africa'
+- 'how many hours flight from nairobi to zanzibar'
+- 'cheapest flight from nairobi to johannesburg'
+- '540 flight from nairobi to mombasa today'
+- 'flight from nairobi to kinshasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

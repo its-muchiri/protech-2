@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Accommodation: Complete Guide'
-description: Kenya safari guide covering kenya safari accommodation, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari accommodation, including what is included, pricing, and booking advice.'
 slug: kenya-safari-accommodation
-primary_keyword: Kenya safari accommodation
+primary_keyword: 'Kenya safari accommodation'
 secondary_keywords:
-- Reserve private safari vehicle package
-- Cost of 7 day Samburu Laikipia luxury package
-- Price for 7 day Governors Camp Collection package Masai Mara
-- Buy 6 day mid-range Amboseli Nakuru Mara package
-- Quote for 8 day Kenya highlights private tour package
+- 'Reserve private safari vehicle package'
+- 'Cost of 7 day Samburu Laikipia luxury package'
+- 'Price for 7 day Governors Camp Collection package Masai Mara'
+- 'Buy 6 day mid-range Amboseli Nakuru Mara package'
+- 'Quote for 8 day Kenya highlights private tour package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

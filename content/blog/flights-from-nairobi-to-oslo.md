@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Oslo: Complete Guide'
-description: Everything you need to know about flights from nairobi to oslo, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to oslo, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-oslo
-primary_keyword: flights from nairobi to oslo
+primary_keyword: 'flights from nairobi to oslo'
 secondary_keywords:
-- cheap flights from heathrow to nairobi kenya
-- flights from kenya to italy
-- cheap flights from johannesburg to nairobi kenya
-- flights from kuala lumpur to nairobi kenya
-- flights to kenya from lax
+- 'cheap flights from heathrow to nairobi kenya'
+- 'flights from kenya to italy'
+- 'cheap flights from johannesburg to nairobi kenya'
+- 'flights from kuala lumpur to nairobi kenya'
+- 'flights to kenya from lax'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

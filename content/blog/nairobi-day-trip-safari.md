@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi Day Trip Safari: Complete Guide'
-description: Kenya safari guide covering nairobi day trip safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering nairobi day trip safari, including what is included, pricing, and booking advice.'
 slug: nairobi-day-trip-safari
-primary_keyword: Nairobi day trip safari
+primary_keyword: 'Nairobi day trip safari'
 secondary_keywords:
-- Bespoke Kenya luxury safari operator
-- Couples safari package Kenya reserve
-- Affordable 7 day Kenya safari booking
-- Masai Mara Lake Nakuru safari package deal
-- Easter holiday Kenya safari package buy
+- 'Bespoke Kenya luxury safari operator'
+- 'Couples safari package Kenya reserve'
+- 'Affordable 7 day Kenya safari booking'
+- 'Masai Mara Lake Nakuru safari package deal'
+- 'Easter holiday Kenya safari package buy'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

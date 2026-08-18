@@ -1,14 +1,14 @@
 ---
 title: 'Location-Specific Variations: 2026 Price Guide'
-description: Kenya buying guide to location-specific variations. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to location-specific variations. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: location-specific-variations
-primary_keyword: Location-Specific Variations
+primary_keyword: 'Location-Specific Variations'
 secondary_keywords:
-- Fetal monitor / CTG machine price in Kenya
-- Bubble CPAP machine for neonates
-- Portable electrotherapy device for home use
-- Affordable dental chair for a new clinic in Nairobi
-- Used dental X-ray machine for sale in Kisumu
+- 'Fetal monitor / CTG machine price in Kenya'
+- 'Bubble CPAP machine for neonates'
+- 'Portable electrotherapy device for home use'
+- 'Affordable dental chair for a new clinic in Nairobi'
+- 'Used dental X-ray machine for sale in Kisumu'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

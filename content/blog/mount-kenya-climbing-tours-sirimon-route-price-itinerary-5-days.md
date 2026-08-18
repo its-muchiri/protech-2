@@ -1,14 +1,14 @@
 ---
 title: 'Mount Kenya Climbing Tours Sirimon Route Price / Itinerary 5 Days: Complete Guide'
-description: Kenya safari guide covering mount kenya climbing tours sirimon route price / itinerary 5 days, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering mount kenya climbing tours sirimon route price / itinerary 5 days, including what is included, pricing, and booking advice.'
 slug: mount-kenya-climbing-tours-sirimon-route-price-itinerary-5-days
-primary_keyword: Mount Kenya climbing tours Sirimon route price / itinerary 5 days
+primary_keyword: 'Mount Kenya climbing tours Sirimon route price / itinerary 5 days'
 secondary_keywords:
-- Finch Hattons Tsavo luxury package quote
-- Private Kenya honeymoon safari quote
-- Overland truck safari Kenya package price
-- Tsavo Mombasa beach safari package quote
-- September Kenya migration safari cost
+- 'Finch Hattons Tsavo luxury package quote'
+- 'Private Kenya honeymoon safari quote'
+- 'Overland truck safari Kenya package price'
+- 'Tsavo Mombasa beach safari package quote'
+- 'September Kenya migration safari cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

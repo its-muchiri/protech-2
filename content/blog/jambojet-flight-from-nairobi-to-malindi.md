@@ -1,14 +1,14 @@
 ---
 title: 'Jambojet Flight from Nairobi to Malindi: Complete Guide'
-description: Everything you need to know about jambojet flight from nairobi to malindi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about jambojet flight from nairobi to malindi, including routes, airlines, booking tips, and fares.'
 slug: jambojet-flight-from-nairobi-to-malindi
-primary_keyword: jambojet flight from nairobi to malindi
+primary_keyword: 'jambojet flight from nairobi to malindi'
 secondary_keywords:
-- fly540 flights from kisumu to nairobi
-- flights from nairobi to masai mara game reserve
-- flights from harare to nairobi
-- flights from nairobi to johannesburg today
-- flights from nairobi kenya to maputo mozambique
+- 'fly540 flights from kisumu to nairobi'
+- 'flights from nairobi to masai mara game reserve'
+- 'flights from harare to nairobi'
+- 'flights from nairobi to johannesburg today'
+- 'flights from nairobi kenya to maputo mozambique'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

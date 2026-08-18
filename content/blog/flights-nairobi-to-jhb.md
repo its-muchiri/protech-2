@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Jhb: Complete Guide'
-description: Everything you need to know about flights nairobi to jhb, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to jhb, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-jhb
-primary_keyword: flights nairobi to jhb
+primary_keyword: 'flights nairobi to jhb'
 secondary_keywords:
-- which airlines fly to eldoret
-- flight from eldoret to kitale
-- flights from nbo to eldoret
-- flight from eldoret to zanzibar
-- kq flights to arusha
+- 'which airlines fly to eldoret'
+- 'flight from eldoret to kitale'
+- 'flights from nbo to eldoret'
+- 'flight from eldoret to zanzibar'
+- 'kq flights to arusha'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

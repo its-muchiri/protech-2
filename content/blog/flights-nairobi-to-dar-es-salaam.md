@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Dar Es Salaam: Complete Guide'
-description: Everything you need to know about flights nairobi to dar es salaam, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to dar es salaam, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-dar-es-salaam
-primary_keyword: flights nairobi to dar es salaam
+primary_keyword: 'flights nairobi to dar es salaam'
 secondary_keywords:
-- flights from nairobi to vancouver
-- flights from nairobi to washington dc
-- flights from nairobi kenya to seiyun yemen
-- how much is flight from nairobi to usa
-- flights from nairobi to amman jordan
+- 'flights from nairobi to vancouver'
+- 'flights from nairobi to washington dc'
+- 'flights from nairobi kenya to seiyun yemen'
+- 'how much is flight from nairobi to usa'
+- 'flights from nairobi to amman jordan'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

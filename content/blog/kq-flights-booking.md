@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights Booking: Complete Guide'
-description: Everything you need to know about kq flights booking, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights booking, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-booking
-primary_keyword: kq flights booking
+primary_keyword: 'kq flights booking'
 secondary_keywords:
-- eldoret flights from nairobi
-- flights from nairobi to san francisco
-- flights from nairobi to homa bay
-- flights from nairobi to india
-- flights from nairobi to jeddah
+- 'eldoret flights from nairobi'
+- 'flights from nairobi to san francisco'
+- 'flights from nairobi to homa bay'
+- 'flights from nairobi to india'
+- 'flights from nairobi to jeddah'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

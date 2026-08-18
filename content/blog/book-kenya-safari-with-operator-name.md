@@ -1,14 +1,14 @@
 ---
 title: 'Book Kenya Safari with : Complete Guide'
-description: Kenya safari guide covering book kenya safari with , including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book kenya safari with , including what is included, pricing, and booking advice.'
 slug: book-kenya-safari-with-operator-name
-primary_keyword: Book Kenya safari with
+primary_keyword: 'Book Kenya safari with'
 secondary_keywords:
-- Kenya tented camps
-- Night game drive Kenya
-- Photography workshop Kenya safari
-- Kenya wildlife viewing
-- Kenya Zanzibar safari
+- 'Kenya tented camps'
+- 'Night game drive Kenya'
+- 'Photography workshop Kenya safari'
+- 'Kenya wildlife viewing'
+- 'Kenya Zanzibar safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

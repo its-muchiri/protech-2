@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Watamu: Complete Guide'
-description: Everything you need to know about flights from mombasa to watamu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to watamu, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-watamu
-primary_keyword: flights from mombasa to watamu
+primary_keyword: 'flights from mombasa to watamu'
 secondary_keywords:
-- flights from nairobi kenya to santorini greece
-- flights from nairobi to lagos
-- flights from nairobi to minneapolis
-- flights from nairobi to nyc
-- flights from nairobi to or tambo
+- 'flights from nairobi kenya to santorini greece'
+- 'flights from nairobi to lagos'
+- 'flights from nairobi to minneapolis'
+- 'flights from nairobi to nyc'
+- 'flights from nairobi to or tambo'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

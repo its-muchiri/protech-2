@@ -1,14 +1,14 @@
 ---
 title: '11 Day Kenya Safari: Complete Guide'
-description: Kenya safari guide covering 11 day kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering 11 day kenya safari, including what is included, pricing, and booking advice.'
 slug: 11-day-kenya-safari
-primary_keyword: 11 day Kenya safari
+primary_keyword: '11 day Kenya safari'
 secondary_keywords:
-- Masai Mara lodges
-- Cultural tours Kenya safari
-- Wildebeest migration Kenya timing
-- Wild dog safari Kenya (rare)
-- Kenya safari from USA
+- 'Masai Mara lodges'
+- 'Cultural tours Kenya safari'
+- 'Wildebeest migration Kenya timing'
+- 'Wild dog safari Kenya (rare)'
+- 'Kenya safari from USA'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

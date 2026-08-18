@@ -1,14 +1,14 @@
 ---
 title: 'Online Travel Agency (OTA) Kenya Safari Booking Deals: Complete Guide'
-description: Kenya safari guide covering online travel agency (ota) kenya safari booking deals, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering online travel agency (ota) kenya safari booking deals, including what is included, pricing, and booking advice.'
 slug: online-travel-agency-ota-kenya-safari-booking-deals
-primary_keyword: Online travel agency (OTA) Kenya safari booking deals
+primary_keyword: 'Online travel agency (OTA) Kenya safari booking deals'
 secondary_keywords:
-- Cost estimate Kenya safari package
-- 5 day Kenya highlights tour package cost
-- Get quote for 6 day Kenya family safari package
-- Lake Nakuru rhino safari package quote
-- Ol Jogi Conservancy luxury safari booking
+- 'Cost estimate Kenya safari package'
+- '5 day Kenya highlights tour package cost'
+- 'Get quote for 6 day Kenya family safari package'
+- 'Lake Nakuru rhino safari package quote'
+- 'Ol Jogi Conservancy luxury safari booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

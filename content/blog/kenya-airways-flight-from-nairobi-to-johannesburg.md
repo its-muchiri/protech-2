@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from Nairobi to Johannesburg: Complete Guide'
-description: Everything you need to know about kenya airways flight from nairobi to johannesburg, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from nairobi to johannesburg, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-nairobi-to-johannesburg
-primary_keyword: kenya airways flight from nairobi to johannesburg
+primary_keyword: 'kenya airways flight from nairobi to johannesburg'
 secondary_keywords:
-- cheap flights from kenya to usa
-- dubai flights from kenya price
-- kenya airways flights from entebbe to nairobi
-- flights from frankfurt to nairobi kenya
-- flights from accra ghana to nairobi kenya
+- 'cheap flights from kenya to usa'
+- 'dubai flights from kenya price'
+- 'kenya airways flights from entebbe to nairobi'
+- 'flights from frankfurt to nairobi kenya'
+- 'flights from accra ghana to nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

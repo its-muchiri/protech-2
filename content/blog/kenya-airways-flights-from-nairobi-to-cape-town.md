@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights from Nairobi to Cape Town: Complete Guide'
-description: Everything you need to know about kenya airways flights from nairobi to cape town, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights from nairobi to cape town, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-from-nairobi-to-cape-town
-primary_keyword: kenya airways flights from nairobi to cape town
+primary_keyword: 'kenya airways flights from nairobi to cape town'
 secondary_keywords:
-- emirates flights qantas
-- emirates flights from rome
-- emirates flights from sydney today
-- emirates flights from usa
-- emirates flights from venice
+- 'emirates flights qantas'
+- 'emirates flights from rome'
+- 'emirates flights from sydney today'
+- 'emirates flights from usa'
+- 'emirates flights from venice'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

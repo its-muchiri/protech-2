@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to South Africa: Complete Guide'
-description: Everything you need to know about flights nairobi to south africa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to south africa, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-south-africa
-primary_keyword: flights nairobi to south africa
+primary_keyword: 'flights nairobi to south africa'
 secondary_keywords:
-- kq 610
-- does emirates have domestic flights
-- which terminal is emirates
-- emirates first class price from nairobi to dubai
-- emirates contact nairobi
+- 'kq 610'
+- 'does emirates have domestic flights'
+- 'which terminal is emirates'
+- 'emirates first class price from nairobi to dubai'
+- 'emirates contact nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

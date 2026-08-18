@@ -1,14 +1,14 @@
 ---
 title: 'Cost of Kenya Safari Tour: Complete Guide'
-description: Kenya safari guide covering cost of kenya safari tour, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering cost of kenya safari tour, including what is included, pricing, and booking advice.'
 slug: cost-of-kenya-safari-tour
-primary_keyword: Cost of Kenya safari tour
+primary_keyword: 'Cost of Kenya safari tour'
 secondary_keywords:
-- Photography workshop Kenya safari
-- Kenya wildlife viewing
-- Kenya Zanzibar safari
-- Kenya safari wet season
-- Shoulder season Kenya safari
+- 'Photography workshop Kenya safari'
+- 'Kenya wildlife viewing'
+- 'Kenya Zanzibar safari'
+- 'Kenya safari wet season'
+- 'Shoulder season Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

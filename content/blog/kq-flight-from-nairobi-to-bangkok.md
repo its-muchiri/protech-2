@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Nairobi to Bangkok: Complete Guide'
-description: Everything you need to know about kq flight from nairobi to bangkok, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from nairobi to bangkok, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-nairobi-to-bangkok
-primary_keyword: kq flight from nairobi to bangkok
+primary_keyword: 'kq flight from nairobi to bangkok'
 secondary_keywords:
-- how long is a flight from nairobi to qatar
-- qatar airways nairobi email
-- qatar airways from nairobi to london
-- qatar airways nairobi recruitment
-- kq flights from nairobi to kisumu
+- 'how long is a flight from nairobi to qatar'
+- 'qatar airways nairobi email'
+- 'qatar airways from nairobi to london'
+- 'qatar airways nairobi recruitment'
+- 'kq flights from nairobi to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

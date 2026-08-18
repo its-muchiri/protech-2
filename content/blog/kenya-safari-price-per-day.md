@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Price Per Day: Complete Guide'
-description: Kenya safari guide covering kenya safari price per day, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari price per day, including what is included, pricing, and booking advice.'
 slug: kenya-safari-price-per-day
-primary_keyword: Kenya safari price per day
+primary_keyword: 'Kenya safari price per day'
 secondary_keywords:
-- 7 day Kenya classic safari package booking
-- Book Amboseli National Park tour package
-- Drive Nairobi Masai Mara safari package deal
-- Segera Retreat Laikipia package buy
-- Kenya safari and beach honeymoon package buy
+- '7 day Kenya classic safari package booking'
+- 'Book Amboseli National Park tour package'
+- 'Drive Nairobi Masai Mara safari package deal'
+- 'Segera Retreat Laikipia package buy'
+- 'Kenya safari and beach honeymoon package buy'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

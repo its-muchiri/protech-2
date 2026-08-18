@@ -1,14 +1,14 @@
 ---
-title: 'Rock Climbing Hell's Gate: Complete Guide'
-description: Kenya safari guide covering rock climbing hells gate, including what is included, pricing, and booking advice.
+title: 'Rock Climbing Hell''s Gate: Complete Guide'
+description: 'Kenya safari guide covering rock climbing hells gate, including what is included, pricing, and booking advice.'
 slug: rock-climbing-hell-s-gate
-primary_keyword: Rock climbing Hell's Gate
+primary_keyword: 'Rock climbing Hell''s Gate'
 secondary_keywords:
-- Compare Kenyan tour operators prices and packages
-- Best time for Great Wildebeest Migration Masai Mara 2025/2026
-- Tsavo safari including SGR train Madaraka Express package
-- Kenya budget camping safari reviews
-- Senior citizen safari tours Kenya comfortable pace
+- 'Compare Kenyan tour operators prices and packages'
+- 'Best time for Great Wildebeest Migration Masai Mara 2025/2026'
+- 'Tsavo safari including SGR train Madaraka Express package'
+- 'Kenya budget camping safari reviews'
+- 'Senior citizen safari tours Kenya comfortable pace'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

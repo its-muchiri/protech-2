@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi to Kuala Lumpur Flights: Complete Guide'
-description: Everything you need to know about nairobi to kuala lumpur flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about nairobi to kuala lumpur flights, including routes, airlines, booking tips, and fares.'
 slug: nairobi-to-kuala-lumpur-flights
-primary_keyword: nairobi to kuala lumpur flights
+primary_keyword: 'nairobi to kuala lumpur flights'
 secondary_keywords:
-- flights from kenya to saudi arabia
-- flights from kenya to uganda
-- flights from nairobi to vipingo
-- flights from winnipeg to nairobi kenya
-- flights from new york to kenya
+- 'flights from kenya to saudi arabia'
+- 'flights from kenya to uganda'
+- 'flights from nairobi to vipingo'
+- 'flights from winnipeg to nairobi kenya'
+- 'flights from new york to kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

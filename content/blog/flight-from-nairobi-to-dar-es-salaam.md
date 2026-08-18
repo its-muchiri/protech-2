@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Dar Es Salaam: Complete Guide'
-description: Everything you need to know about flight from nairobi to dar es salaam, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to dar es salaam, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-dar-es-salaam
-primary_keyword: flight from nairobi to dar es salaam
+primary_keyword: 'flight from nairobi to dar es salaam'
 secondary_keywords:
-- flight in nairobi kenya
-- flights to kenya qatar
-- how much is the flight ticket to kenya
-- usa flights from kenya
-- flight attendant jobs in kenya 2025
+- 'flight in nairobi kenya'
+- 'flights to kenya qatar'
+- 'how much is the flight ticket to kenya'
+- 'usa flights from kenya'
+- 'flight attendant jobs in kenya 2025'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

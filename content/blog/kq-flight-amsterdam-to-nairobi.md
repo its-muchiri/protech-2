@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight Amsterdam to Nairobi: Complete Guide'
-description: Everything you need to know about kq flight amsterdam to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight amsterdam to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-amsterdam-to-nairobi
-primary_keyword: kq flight amsterdam to nairobi
+primary_keyword: 'kq flight amsterdam to nairobi'
 secondary_keywords:
-- flights leaving mombasa to zanzibar direct
-- flights from mombasa to maasai mara
-- flights from nairobi to mombasa prices today
-- cheap flights from riyadh to mombasa
-- flights from nairobi to ukunda mombasa
+- 'flights leaving mombasa to zanzibar direct'
+- 'flights from mombasa to maasai mara'
+- 'flights from nairobi to mombasa prices today'
+- 'cheap flights from riyadh to mombasa'
+- 'flights from nairobi to ukunda mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

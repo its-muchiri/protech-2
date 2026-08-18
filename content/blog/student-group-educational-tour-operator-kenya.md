@@ -1,14 +1,14 @@
 ---
 title: 'Student Group Educational Tour Operator Kenya: Complete Guide'
-description: Kenya safari guide covering student group educational tour operator kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering student group educational tour operator kenya, including what is included, pricing, and booking advice.'
 slug: student-group-educational-tour-operator-kenya
-primary_keyword: Student group educational tour operator Kenya
+primary_keyword: 'Student group educational tour operator Kenya'
 secondary_keywords:
-- Buy discounted off-peak Kenya safari package April
-- Quote all-in price 10 day family safari Kenya December
-- Price and book 6 day Ashnil Samburu Mara package
-- Reserve 7 day Richard''s River Camp private conservancy package
-- Secure booking ultra-luxury Kenya tented suite package
+- 'Buy discounted off-peak Kenya safari package April'
+- 'Quote all-in price 10 day family safari Kenya December'
+- 'Price and book 6 day Ashnil Samburu Mara package'
+- 'Reserve 7 day Richard''''s River Camp private conservancy package'
+- 'Secure booking ultra-luxury Kenya tented suite package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

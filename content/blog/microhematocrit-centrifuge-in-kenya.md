@@ -1,14 +1,14 @@
 ---
 title: 'Microhematocrit Centrifuge in Kenya: 2026 Price Guide'
-description: Kenya buying guide to microhematocrit centrifuge in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to microhematocrit centrifuge in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: microhematocrit-centrifuge-in-kenya
-primary_keyword: Microhematocrit centrifuge in Kenya
+primary_keyword: 'Microhematocrit centrifuge in Kenya'
 secondary_keywords:
-- Woodpecker ultrasonic scaler price
-- Digital radiography (DR) system for vets
-- Veterinary weighing scale for large animals
-- Glucometer and blood pressure monitor wholesale price
-- Auto refractometer cost in Kenya
+- 'Woodpecker ultrasonic scaler price'
+- 'Digital radiography (DR) system for vets'
+- 'Veterinary weighing scale for large animals'
+- 'Glucometer and blood pressure monitor wholesale price'
+- 'Auto refractometer cost in Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

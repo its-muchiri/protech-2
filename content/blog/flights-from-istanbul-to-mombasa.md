@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Istanbul to Mombasa: Complete Guide'
-description: Everything you need to know about flights from istanbul to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from istanbul to mombasa, including routes, airlines, booking tips, and fares.'
 slug: flights-from-istanbul-to-mombasa
-primary_keyword: flights from istanbul to mombasa
+primary_keyword: 'flights from istanbul to mombasa'
 secondary_keywords:
-- google flights nairobi to johannesburg
-- flights nairobi to italy
-- flights to nairobi jambojet
-- kenya airways flights nairobi to entebbe price
-- nairobi to lodwar flights
+- 'google flights nairobi to johannesburg'
+- 'flights nairobi to italy'
+- 'flights to nairobi jambojet'
+- 'kenya airways flights nairobi to entebbe price'
+- 'nairobi to lodwar flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

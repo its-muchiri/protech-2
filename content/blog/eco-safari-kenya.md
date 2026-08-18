@@ -1,14 +1,14 @@
 ---
 title: 'Eco Safari Kenya: Complete Guide'
-description: Kenya safari guide covering eco safari kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering eco safari kenya, including what is included, pricing, and booking advice.'
 slug: eco-safari-kenya
-primary_keyword: Eco safari Kenya
+primary_keyword: 'Eco safari Kenya'
 secondary_keywords:
-- Book luxury Kenya safari lodge UK exclusive
-- Extended Kenya safari (14-day+) cost Europe itinerary
-- Mount Kenya safari tours booking UK climb options
-- Kenya safari deals from New York City direct booking
-- Italy (Italia) Kenya safari tour operators price
+- 'Book luxury Kenya safari lodge UK exclusive'
+- 'Extended Kenya safari (14-day+) cost Europe itinerary'
+- 'Mount Kenya safari tours booking UK climb options'
+- 'Kenya safari deals from New York City direct booking'
+- 'Italy (Italia) Kenya safari tour operators price'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

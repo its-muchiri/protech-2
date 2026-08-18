@@ -1,14 +1,14 @@
 ---
 title: 'Buy Guaranteed Kenya Safari Departure UK: Complete Guide'
-description: Kenya safari guide covering buy guaranteed kenya safari departure uk, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy guaranteed kenya safari departure uk, including what is included, pricing, and booking advice.'
 slug: buy-guaranteed-kenya-safari-departure-uk
-primary_keyword: Buy guaranteed Kenya safari departure UK
+primary_keyword: 'Buy guaranteed Kenya safari departure UK'
 secondary_keywords:
-- Budget Kenya camping safari cost estimate
-- Kenya safari package deals
-- 3 day Kenya safari package deals
-- Fly-in Kenya safari package sale
-- Ol Pejeta family safari itinerary price
+- 'Budget Kenya camping safari cost estimate'
+- 'Kenya safari package deals'
+- '3 day Kenya safari package deals'
+- 'Fly-in Kenya safari package sale'
+- 'Ol Pejeta family safari itinerary price'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

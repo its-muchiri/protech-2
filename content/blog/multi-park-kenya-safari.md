@@ -1,14 +1,14 @@
 ---
 title: 'Multi-park Kenya Safari: Complete Guide'
-description: Kenya safari guide covering multi-park kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering multi-park kenya safari, including what is included, pricing, and booking advice.'
 slug: multi-park-kenya-safari
-primary_keyword: Multi-park Kenya safari
+primary_keyword: 'Multi-park Kenya safari'
 secondary_keywords:
-- Quote for 10 day budget camping Kenya Tanzania combo tour August
-- Book 10 day compare Serena vs Sarova lodges Kenya safari package price
-- Sustainable tourism certified tour operators Kenya
-- Luxury lodges Masai Mara (e.g., Angama Mara, Mara Serena, Governors Camp) price
-- Rhino sanctuary Lake Nakuru best viewing times
+- 'Quote for 10 day budget camping Kenya Tanzania combo tour August'
+- 'Book 10 day compare Serena vs Sarova lodges Kenya safari package price'
+- 'Sustainable tourism certified tour operators Kenya'
+- 'Luxury lodges Masai Mara (e.g., Angama Mara, Mara Serena, Governors Camp) price'
+- 'Rhino sanctuary Lake Nakuru best viewing times'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

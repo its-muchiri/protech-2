@@ -1,14 +1,14 @@
 ---
 title: 'Book Samburu Special Five Photography Safari Package Europe Expert Guide Availability: Complete Guide'
-description: Kenya safari guide covering book samburu special five photography safari package europe expert guide availability, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book samburu special five photography safari package europe expert guide availability, including what is included, pricing, and booking advice.'
 slug: book-samburu-special-five-photography-safari-package-europe-expert-guide-availability
-primary_keyword: Book Samburu special five photography safari package Europe expert guide availability
+primary_keyword: 'Book Samburu special five photography safari package Europe expert guide availability'
 secondary_keywords:
-- Purchase Kenya safari star gazing experience package USA dark sky locations lodges booking
-- Reserve Olorgesailie Prehistoric Site tour safari add-on Kenya Europe archaeology enthusiasts booking
-- See Kenya safari
-- Meru National Park safari
-- Kenya parks safari tour
+- 'Purchase Kenya safari star gazing experience package USA dark sky locations lodges booking'
+- 'Reserve Olorgesailie Prehistoric Site tour safari add-on Kenya Europe archaeology enthusiasts booking'
+- 'See Kenya safari'
+- 'Meru National Park safari'
+- 'Kenya parks safari tour'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

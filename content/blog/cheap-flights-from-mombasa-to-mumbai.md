@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Mombasa to Mumbai: Complete Guide'
-description: Everything you need to know about cheap flights from mombasa to mumbai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from mombasa to mumbai, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-mombasa-to-mumbai
-primary_keyword: cheap flights from mombasa to mumbai
+primary_keyword: 'cheap flights from mombasa to mumbai'
 secondary_keywords:
-- flights from nairobi to kisumu prices
-- how much is a flight from kisumu to nairobi
-- does kenya airways fly to eldoret
-- flight from eldoret to kakuma
-- kq flights from nairobi to eldoret price today
+- 'flights from nairobi to kisumu prices'
+- 'how much is a flight from kisumu to nairobi'
+- 'does kenya airways fly to eldoret'
+- 'flight from eldoret to kakuma'
+- 'kq flights from nairobi to eldoret price today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'MRI Machine Installation and RF Shielding in Kenya: 2026 Price Guide'
-description: Kenya buying guide to mri machine installation and rf shielding in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to mri machine installation and rf shielding in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: mri-machine-installation-and-rf-shielding-in-kenya
-primary_keyword: MRI machine installation and RF shielding in Kenya
+primary_keyword: 'MRI machine installation and RF shielding in Kenya'
 secondary_keywords:
-- Veterinary hematology analyzer price in Nairobi
-- Veterinary consumables and pharmaceuticals in Kenya
-- Hospital bed for home use rental in Nairobi
-- Ophthalmoscope and retinoscope set for sale
-- N95 and surgical masks bulk suppliers
+- 'Veterinary hematology analyzer price in Nairobi'
+- 'Veterinary consumables and pharmaceuticals in Kenya'
+- 'Hospital bed for home use rental in Nairobi'
+- 'Ophthalmoscope and retinoscope set for sale'
+- 'N95 and surgical masks bulk suppliers'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

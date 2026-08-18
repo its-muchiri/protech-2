@@ -1,14 +1,14 @@
 ---
 title: 'Short Kenya Safari 2 Day / 3 Day Options from Nairobi: Complete Guide'
-description: Kenya safari guide covering short kenya safari 2 day / 3 day options from nairobi, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering short kenya safari 2 day / 3 day options from nairobi, including what is included, pricing, and booking advice.'
 slug: short-kenya-safari-2-day-3-day-options-from-nairobi
-primary_keyword: Short Kenya safari 2 day / 3 day options from Nairobi
+primary_keyword: 'Short Kenya safari 2 day / 3 day options from Nairobi'
 secondary_keywords:
-- Secure private guide Kenya safari package 8 days
-- Reserve 5 day Serena Lodges circuit package Kenya
-- Buy 5 day Fairmont Mara Safari Club package offer
-- Get final cost 7 day Masai Mara fly-in package August booking
-- Reserve guaranteed window seat safari vehicle package Kenya
+- 'Secure private guide Kenya safari package 8 days'
+- 'Reserve 5 day Serena Lodges circuit package Kenya'
+- 'Buy 5 day Fairmont Mara Safari Club package offer'
+- 'Get final cost 7 day Masai Mara fly-in package August booking'
+- 'Reserve guaranteed window seat safari vehicle package Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Tanzania Bans Kq Flights: Complete Guide'
-description: Everything you need to know about tanzania bans kq flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about tanzania bans kq flights, including routes, airlines, booking tips, and fares.'
 slug: tanzania-bans-kq-flights
-primary_keyword: tanzania bans kq flights
+primary_keyword: 'tanzania bans kq flights'
 secondary_keywords:
-- cheap flights from kisumu to mombasa
-- cheap flights from kisumu to nairobi today
-- how much is flight from kisumu to mombasa
-- kq flights from kisumu to nairobi timetable
-- airfare from kisumu to nairobi
+- 'cheap flights from kisumu to mombasa'
+- 'cheap flights from kisumu to nairobi today'
+- 'how much is flight from kisumu to mombasa'
+- 'kq flights from kisumu to nairobi timetable'
+- 'airfare from kisumu to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

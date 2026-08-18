@@ -1,14 +1,14 @@
 ---
 title: 'Mount Kenya Technical Climbing Guides: Complete Guide'
-description: Kenya safari guide covering mount kenya technical climbing guides, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering mount kenya technical climbing guides, including what is included, pricing, and booking advice.'
 slug: mount-kenya-technical-climbing-guides
-primary_keyword: Mount Kenya technical climbing guides
+primary_keyword: 'Mount Kenya technical climbing guides'
 secondary_keywords:
-- Book Kenya conservation safari experience USA rhino focus
-- Book safari near Nairobi National Park day trip price
-- Masai Mara safari booking from USA dates & availability
-- Kenya travel agents specializing in safaris Europe based
-- Independent travel agent Kenya safari booking Europe
+- 'Book Kenya conservation safari experience USA rhino focus'
+- 'Book safari near Nairobi National Park day trip price'
+- 'Masai Mara safari booking from USA dates & availability'
+- 'Kenya travel agents specializing in safaris Europe based'
+- 'Independent travel agent Kenya safari booking Europe'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

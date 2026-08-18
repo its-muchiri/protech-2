@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kenya to Qatar Price: Complete Guide'
-description: Everything you need to know about flight from kenya to qatar price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kenya to qatar price, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kenya-to-qatar-price
-primary_keyword: flight from kenya to qatar price
+primary_keyword: 'flight from kenya to qatar price'
 secondary_keywords:
-- flights from kenya to birmingham
-- flights from kenya to chicago
-- flights from kenya to dublin
-- emirates flights from kenya to dubai
-- flights from finland to kenya
+- 'flights from kenya to birmingham'
+- 'flights from kenya to chicago'
+- 'flights from kenya to dublin'
+- 'emirates flights from kenya to dubai'
+- 'flights from finland to kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

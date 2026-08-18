@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Deals: Complete Guide'
-description: Kenya safari guide covering kenya safari deals, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari deals, including what is included, pricing, and booking advice.'
 slug: kenya-safari-deals
-primary_keyword: Kenya safari deals
+primary_keyword: 'Kenya safari deals'
 secondary_keywords:
-- Kenya vacation safari
-- Tsavo East safari
-- Kakamega Forest safari
-- Child-friendly Kenya safari
-- Tailor-made Kenya safari
+- 'Kenya vacation safari'
+- 'Tsavo East safari'
+- 'Kakamega Forest safari'
+- 'Child-friendly Kenya safari'
+- 'Tailor-made Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

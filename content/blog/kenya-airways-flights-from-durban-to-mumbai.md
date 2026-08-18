@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights from Durban to Mumbai: Complete Guide'
-description: Everything you need to know about kenya airways flights from durban to mumbai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights from durban to mumbai, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-from-durban-to-mumbai
-primary_keyword: kenya airways flights from durban to mumbai
+primary_keyword: 'kenya airways flights from durban to mumbai'
 secondary_keywords:
-- kq flights dar to nairobi
-- kq flights entebbe to nairobi
-- what airline is go to gate
-- kq flights images
-- kq kisumu flight schedule today
+- 'kq flights dar to nairobi'
+- 'kq flights entebbe to nairobi'
+- 'what airline is go to gate'
+- 'kq flights images'
+- 'kq kisumu flight schedule today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

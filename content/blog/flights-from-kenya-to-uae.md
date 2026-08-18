@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Uae: Complete Guide'
-description: Everything you need to know about flights from kenya to uae, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to uae, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-uae
-primary_keyword: flights from kenya to uae
+primary_keyword: 'flights from kenya to uae'
 secondary_keywords:
-- last flight from nairobi to mombasa
-- flight from nairobi to mogadishu
-- flight from nairobi to oslo
-- flight from nairobi to pakistan
-- flight from nairobi to costa rica
+- 'last flight from nairobi to mombasa'
+- 'flight from nairobi to mogadishu'
+- 'flight from nairobi to oslo'
+- 'flight from nairobi to pakistan'
+- 'flight from nairobi to costa rica'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

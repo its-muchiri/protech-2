@@ -1,14 +1,14 @@
 ---
 title: 'Sq612 Flight Status: Complete Guide'
-description: Everything you need to know about sq612 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about sq612 flight status, including routes, airlines, booking tips, and fares.'
 slug: sq612-flight-status
-primary_keyword: sq612 flight status
+primary_keyword: 'sq612 flight status'
 secondary_keywords:
-- flights from mombasa to ukunda
-- flights zurich mombasa
-- flights from kisumu to wilson airport
-- flights from kisumu to diani
-- flights in kisumu
+- 'flights from mombasa to ukunda'
+- 'flights zurich mombasa'
+- 'flights from kisumu to wilson airport'
+- 'flights from kisumu to diani'
+- 'flights in kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

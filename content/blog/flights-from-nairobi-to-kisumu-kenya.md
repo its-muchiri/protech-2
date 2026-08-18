@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Kisumu Kenya: Complete Guide'
-description: Everything you need to know about flights from nairobi to kisumu kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to kisumu kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-kisumu-kenya
-primary_keyword: flights from nairobi to kisumu kenya
+primary_keyword: 'flights from nairobi to kisumu kenya'
 secondary_keywords:
-- safarilink flights from kisumu to nairobi today timetable
-- available flights from eldoret to nairobi
-- flights from eldoret to isiolo
-- kq flights from eldoret
-- which flights go to eldoret
+- 'safarilink flights from kisumu to nairobi today timetable'
+- 'available flights from eldoret to nairobi'
+- 'flights from eldoret to isiolo'
+- 'kq flights from eldoret'
+- 'which flights go to eldoret'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

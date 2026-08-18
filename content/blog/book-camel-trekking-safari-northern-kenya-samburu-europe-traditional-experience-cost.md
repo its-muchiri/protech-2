@@ -1,14 +1,14 @@
 ---
 title: 'Book Camel Trekking Safari Northern Kenya Samburu Europe Traditional Experience Cost: Complete Guide'
-description: Kenya safari guide covering book camel trekking safari northern kenya samburu europe traditional experience cost, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book camel trekking safari northern kenya samburu europe traditional experience cost, including what is included, pricing, and booking advice.'
 slug: book-camel-trekking-safari-northern-kenya-samburu-europe-traditional-experience-cost
-primary_keyword: Book camel trekking safari northern Kenya Samburu Europe traditional experience cost
+primary_keyword: 'Book camel trekking safari northern Kenya Samburu Europe traditional experience cost'
 secondary_keywords:
-- Amboseli Tsavo East West package booking
-- Book Kenya safari package for
-- Direct booking Kenya safari
-- Secure best price Kenya safari tour
-- Birding specialist guide package Kenya book
+- 'Amboseli Tsavo East West package booking'
+- 'Book Kenya safari package for'
+- 'Direct booking Kenya safari'
+- 'Secure best price Kenya safari tour'
+- 'Birding specialist guide package Kenya book'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Kenya: Complete Guide'
-description: Everything you need to know about emirates kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates kenya, including routes, airlines, booking tips, and fares.'
 slug: emirates-kenya
-primary_keyword: emirates kenya
+primary_keyword: 'emirates kenya'
 secondary_keywords:
-- kenya airways 1st class
-- flight from nairobi to amsterdam
-- flight from nairobi to bujumbura
-- ba flight from nairobi to london today
-- cheapest flight from nairobi to kisumu
+- 'kenya airways 1st class'
+- 'flight from nairobi to amsterdam'
+- 'flight from nairobi to bujumbura'
+- 'ba flight from nairobi to london today'
+- 'cheapest flight from nairobi to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

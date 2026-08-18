@@ -1,14 +1,14 @@
 ---
 title: 'Flight 540 Nairobi to Mombasa: Complete Guide'
-description: Everything you need to know about flight 540 nairobi to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight 540 nairobi to mombasa, including routes, airlines, booking tips, and fares.'
 slug: flight-540-nairobi-to-mombasa
-primary_keyword: flight 540 nairobi to mombasa
+primary_keyword: 'flight 540 nairobi to mombasa'
 secondary_keywords:
-- flight from kenya to france price
-- flights from kenya to gambia
-- flights from kenya to heathrow
-- kenya airways flights to london heathrow from nairobi
-- flights from kenya to johannesburg
+- 'flight from kenya to france price'
+- 'flights from kenya to gambia'
+- 'flights from kenya to heathrow'
+- 'kenya airways flights to london heathrow from nairobi'
+- 'flights from kenya to johannesburg'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kenya to Indonesia: Complete Guide'
-description: Everything you need to know about flight from kenya to indonesia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kenya to indonesia, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kenya-to-indonesia
-primary_keyword: flight from kenya to indonesia
+primary_keyword: 'flight from kenya to indonesia'
 secondary_keywords:
-- the cheapest flight from nairobi to dubai
-- flight time from nairobi to usa
-- what time is the last flight from nairobi to kisumu
-- flight duration from nairobi to new york
-- book flight from nairobi to mombasa
+- 'the cheapest flight from nairobi to dubai'
+- 'flight time from nairobi to usa'
+- 'what time is the last flight from nairobi to kisumu'
+- 'flight duration from nairobi to new york'
+- 'book flight from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

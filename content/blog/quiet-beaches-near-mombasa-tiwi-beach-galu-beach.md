@@ -1,14 +1,14 @@
 ---
 title: 'Quiet Beaches Near Mombasa Tiwi Beach / Galu Beach: Complete Guide'
-description: Kenya safari guide covering quiet beaches near mombasa tiwi beach / galu beach, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering quiet beaches near mombasa tiwi beach / galu beach, including what is included, pricing, and booking advice.'
 slug: quiet-beaches-near-mombasa-tiwi-beach-galu-beach
-primary_keyword: Quiet beaches near Mombasa Tiwi Beach / Galu Beach
+primary_keyword: 'Quiet beaches near Mombasa Tiwi Beach / Galu Beach'
 secondary_keywords:
-- Book 3 day Kenya safari package
-- Reserve express fly-in safari package (2-3 days)
-- Secure 14 day honeymoon Kenya beach safari booking
-- Tsavo East West safari rates request
-- Budget Kenya camping safari cost estimate
+- 'Book 3 day Kenya safari package'
+- 'Reserve express fly-in safari package (2-3 days)'
+- 'Secure 14 day honeymoon Kenya beach safari booking'
+- 'Tsavo East West safari rates request'
+- 'Budget Kenya camping safari cost estimate'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Toronto to Nairobi: Complete Guide'
-description: Everything you need to know about flights from toronto to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from toronto to nairobi, including routes, airlines, booking tips, and fares.'
 slug: flights-from-toronto-to-nairobi
-primary_keyword: flights from toronto to nairobi
+primary_keyword: 'flights from toronto to nairobi'
 secondary_keywords:
-- flights from nairobi to ndola
-- flights from nairobi to ontario
-- flights from nairobi to mombasa prices
-- flights from nairobi to rabat
-- flights from nairobi to sydney australia
+- 'flights from nairobi to ndola'
+- 'flights from nairobi to ontario'
+- 'flights from nairobi to mombasa prices'
+- 'flights from nairobi to rabat'
+- 'flights from nairobi to sydney australia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

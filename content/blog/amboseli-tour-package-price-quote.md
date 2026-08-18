@@ -1,14 +1,14 @@
 ---
 title: 'Amboseli Tour Package Price Quote: Complete Guide'
-description: Kenya safari guide covering amboseli tour package price quote, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering amboseli tour package price quote, including what is included, pricing, and booking advice.'
 slug: amboseli-tour-package-price-quote
-primary_keyword: Amboseli tour package price quote
+primary_keyword: 'Amboseli tour package price quote'
 secondary_keywords:
-- Kenya tour package discounts
-- Ol Donyo Sabuk day hike tour company Thika
-- Kenya safari companies with child-friendly guides
-- Compare prices Mount Kenya Sirimon route climb operators
-- Price for private Land Cruiser hire with driver guide Kenya 7 days
+- 'Kenya tour package discounts'
+- 'Ol Donyo Sabuk day hike tour company Thika'
+- 'Kenya safari companies with child-friendly guides'
+- 'Compare prices Mount Kenya Sirimon route climb operators'
+- 'Price for private Land Cruiser hire with driver guide Kenya 7 days'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

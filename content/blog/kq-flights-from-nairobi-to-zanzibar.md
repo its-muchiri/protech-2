@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from Nairobi to Zanzibar: Complete Guide'
-description: Everything you need to know about kq flights from nairobi to zanzibar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from nairobi to zanzibar, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-nairobi-to-zanzibar
-primary_keyword: kq flights from nairobi to zanzibar
+primary_keyword: 'kq flights from nairobi to zanzibar'
 secondary_keywords:
-- flight from kenya to estonia
-- flights from san francisco to nairobi kenya
-- guangzhou to kenya flight
-- flight from kenya to haiti
-- flight from kenya to indonesia
+- 'flight from kenya to estonia'
+- 'flights from san francisco to nairobi kenya'
+- 'guangzhou to kenya flight'
+- 'flight from kenya to haiti'
+- 'flight from kenya to indonesia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

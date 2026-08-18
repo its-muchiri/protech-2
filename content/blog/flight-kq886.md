@@ -1,14 +1,14 @@
 ---
 title: 'Flight Kq886: Complete Guide'
-description: Everything you need to know about flight kq886, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight kq886, including routes, airlines, booking tips, and fares.'
 slug: flight-kq886
-primary_keyword: flight kq886
+primary_keyword: 'flight kq886'
 secondary_keywords:
-- kenya airways flights from nairobi to entebbe
-- cheap flights to nairobi from london
-- flights from nairobi to new york
-- flights from nairobi to abuja nigeria
-- flights from nairobi to philadelphia
+- 'kenya airways flights from nairobi to entebbe'
+- 'cheap flights to nairobi from london'
+- 'flights from nairobi to new york'
+- 'flights from nairobi to abuja nigeria'
+- 'flights from nairobi to philadelphia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

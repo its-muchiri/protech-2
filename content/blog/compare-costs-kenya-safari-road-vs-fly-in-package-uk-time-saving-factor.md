@@ -1,14 +1,14 @@
 ---
 title: 'Compare Costs Kenya Safari Road Vs Fly-in Package UK Time Saving Factor: Complete Guide'
-description: Kenya safari guide covering compare costs kenya safari road vs fly-in package uk time saving factor, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering compare costs kenya safari road vs fly-in package uk time saving factor, including what is included, pricing, and booking advice.'
 slug: compare-costs-kenya-safari-road-vs-fly-in-package-uk-time-saving-factor
-primary_keyword: Compare costs Kenya safari road vs fly-in package UK time saving factor
+primary_keyword: 'Compare costs Kenya safari road vs fly-in package UK time saving factor'
 secondary_keywords:
-- Purchase private Kenya safari package
-- Reserve Chyulu Hills exclusive safari booking
-- Book one week Kenya wildlife tour reservation
-- Purchase private guided Kenya safari booking
-- Secure 9 day custom Laikipia family adventure purchase
+- 'Purchase private Kenya safari package'
+- 'Reserve Chyulu Hills exclusive safari booking'
+- 'Book one week Kenya wildlife tour reservation'
+- 'Purchase private guided Kenya safari booking'
+- 'Secure 9 day custom Laikipia family adventure purchase'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

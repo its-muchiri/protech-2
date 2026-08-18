@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights Schedule: Complete Guide'
-description: Everything you need to know about kq flights schedule, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights schedule, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-schedule
-primary_keyword: kq flights schedule
+primary_keyword: 'kq flights schedule'
 secondary_keywords:
-- flights from mombasa to heathrow
-- flights to mombasa in december
-- jambojet flights from mombasa to nairobi today timetable
-- flights from mombasa to london
-- flights from mombasa to malindi kenya
+- 'flights from mombasa to heathrow'
+- 'flights to mombasa in december'
+- 'jambojet flights from mombasa to nairobi today timetable'
+- 'flights from mombasa to london'
+- 'flights from mombasa to malindi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

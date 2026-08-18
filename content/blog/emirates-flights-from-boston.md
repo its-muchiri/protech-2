@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Boston: Complete Guide'
-description: Everything you need to know about emirates flights from boston, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from boston, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-boston
-primary_keyword: emirates flights from boston
+primary_keyword: 'emirates flights from boston'
 secondary_keywords:
-- qatar airways lounge nairobi airport
-- cheap flight from nairobi to qatar
-- qatar flight from doha to nairobi
-- cost of flight from nairobi to qatar
-- kq flight from addis to nairobi
+- 'qatar airways lounge nairobi airport'
+- 'cheap flight from nairobi to qatar'
+- 'qatar flight from doha to nairobi'
+- 'cost of flight from nairobi to qatar'
+- 'kq flight from addis to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

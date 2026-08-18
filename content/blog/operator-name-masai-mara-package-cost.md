@@ -1,14 +1,14 @@
 ---
 title: 'Masai Mara Package Cost: Complete Guide'
-description: Kenya safari guide covering  masai mara package cost, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering  masai mara package cost, including what is included, pricing, and booking advice.'
 slug: operator-name-masai-mara-package-cost
-primary_keyword: Masai Mara package cost
+primary_keyword: 'Masai Mara package cost'
 secondary_keywords:
-- Rhino safari Kenya
-- Safari starting Nairobi
-- Kenya safari from Australia
-- Kenya safari in May
-- Local Kenya safari operators
+- 'Rhino safari Kenya'
+- 'Safari starting Nairobi'
+- 'Kenya safari from Australia'
+- 'Kenya safari in May'
+- 'Local Kenya safari operators'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

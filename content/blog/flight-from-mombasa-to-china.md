@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Mombasa to China: Complete Guide'
-description: Everything you need to know about flight from mombasa to china, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from mombasa to china, including routes, airlines, booking tips, and fares.'
 slug: flight-from-mombasa-to-china
-primary_keyword: flight from mombasa to china
+primary_keyword: 'flight from mombasa to china'
 secondary_keywords:
-- cheap flights from nairobi to addis ababa
-- ethiopia to kenya flight time
-- ethiopian airlines flight from nairobi to addis ababa price
-- ethiopian airlines flight 302 videos
-- flights nairobi to atlanta
+- 'cheap flights from nairobi to addis ababa'
+- 'ethiopia to kenya flight time'
+- 'ethiopian airlines flight from nairobi to addis ababa price'
+- 'ethiopian airlines flight 302 videos'
+- 'flights nairobi to atlanta'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

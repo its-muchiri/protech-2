@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Nairobi Airport: Complete Guide'
-description: Everything you need to know about ethiopian airlines nairobi airport, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines nairobi airport, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-nairobi-airport
-primary_keyword: ethiopian airlines nairobi airport
+primary_keyword: 'ethiopian airlines nairobi airport'
 secondary_keywords:
-- kq flights to entebbe today
-- kq flights to heathrow
-- kq flight jfk to nbo
-- kq flights to kigali
-- kq flight map
+- 'kq flights to entebbe today'
+- 'kq flights to heathrow'
+- 'kq flight jfk to nbo'
+- 'kq flights to kigali'
+- 'kq flight map'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

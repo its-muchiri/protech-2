@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights to New Zealand from Birmingham: Complete Guide'
-description: Everything you need to know about emirates flights to new zealand from birmingham, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights to new zealand from birmingham, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-to-new-zealand-from-birmingham
-primary_keyword: emirates flights to new zealand from birmingham
+primary_keyword: 'emirates flights to new zealand from birmingham'
 secondary_keywords:
-- kq flight from dubai to nairobi today timetable
-- kq flight from jfk to nairobi
-- kq airline online check in
-- kq 305
-- kenya airways flight arrivals nairobi
+- 'kq flight from dubai to nairobi today timetable'
+- 'kq flight from jfk to nairobi'
+- 'kq airline online check in'
+- 'kq 305'
+- 'kenya airways flight arrivals nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'How Much Does It Cost to Set Up a Dental Clinic in Kenya: 2026 Price Guide'
-description: Kenya buying guide to how much does it cost to set up a dental clinic in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to how much does it cost to set up a dental clinic in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: how-much-does-it-cost-to-set-up-a-dental-clinic-in-kenya
-primary_keyword: How much does it cost to set up a dental clinic in Kenya
+primary_keyword: 'How much does it cost to set up a dental clinic in Kenya'
 secondary_keywords:
-- Tooth extraction forceps set cost
-- Veterinary dental scaling unit price
-- Oxygen cylinder refilling services in Nairobi
-- Laryngoscope and intubation set suppliers
-- Audiometer for hearing test cost
+- 'Tooth extraction forceps set cost'
+- 'Veterinary dental scaling unit price'
+- 'Oxygen cylinder refilling services in Nairobi'
+- 'Laryngoscope and intubation set suppliers'
+- 'Audiometer for hearing test cost'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

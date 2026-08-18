@@ -1,14 +1,14 @@
 ---
 title: 'Fly Emirates Kenya Contacts: Complete Guide'
-description: Everything you need to know about fly emirates kenya contacts, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about fly emirates kenya contacts, including routes, airlines, booking tips, and fares.'
 slug: fly-emirates-kenya-contacts
-primary_keyword: fly emirates kenya contacts
+primary_keyword: 'fly emirates kenya contacts'
 secondary_keywords:
-- kq flight schedule
-- kq flights to canada
-- kq flights to dar es salaam
-- kenya airways google flights
-- kq inaugural flight to new york
+- 'kq flight schedule'
+- 'kq flights to canada'
+- 'kq flights to dar es salaam'
+- 'kenya airways google flights'
+- 'kq inaugural flight to new york'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

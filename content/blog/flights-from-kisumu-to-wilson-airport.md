@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kisumu to Wilson Airport: Complete Guide'
-description: Everything you need to know about flights from kisumu to wilson airport, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kisumu to wilson airport, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kisumu-to-wilson-airport
-primary_keyword: flights from kisumu to wilson airport
+primary_keyword: 'flights from kisumu to wilson airport'
 secondary_keywords:
-- kq flight schedule
-- kq flights to canada
-- kq flights to dar es salaam
-- kenya airways google flights
-- kq inaugural flight to new york
+- 'kq flight schedule'
+- 'kq flights to canada'
+- 'kq flights to dar es salaam'
+- 'kenya airways google flights'
+- 'kq inaugural flight to new york'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Livingstone Zambia: Complete Guide'
-description: Everything you need to know about flights from nairobi to livingstone zambia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to livingstone zambia, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-livingstone-zambia
-primary_keyword: flights from nairobi to livingstone zambia
+primary_keyword: 'flights from nairobi to livingstone zambia'
 secondary_keywords:
-- flight from nairobi to prague
-- flight from nairobi to rabat
-- flight from nairobi to sydney
-- the cost of flight from nairobi to mombasa
-- flight from nairobi to victoria falls
+- 'flight from nairobi to prague'
+- 'flight from nairobi to rabat'
+- 'flight from nairobi to sydney'
+- 'the cost of flight from nairobi to mombasa'
+- 'flight from nairobi to victoria falls'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

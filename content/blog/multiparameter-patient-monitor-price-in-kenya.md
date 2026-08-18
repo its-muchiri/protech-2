@@ -1,14 +1,14 @@
 ---
 title: 'Multiparameter Patient Monitor Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to multiparameter patient monitor price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to multiparameter patient monitor price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: multiparameter-patient-monitor-price-in-kenya
-primary_keyword: Multiparameter patient monitor price in Kenya
+primary_keyword: 'Multiparameter patient monitor price in Kenya'
 secondary_keywords:
-- Visual acuity chart / Snellen chart
-- Blood collection tubes (vacutainers) suppliers
-- Body bags wholesale price in Kenya
-- Medical oxygen plant installation cost in Kenya
-- Best medical equipment companies in Kenya
+- 'Visual acuity chart / Snellen chart'
+- 'Blood collection tubes (vacutainers) suppliers'
+- 'Body bags wholesale price in Kenya'
+- 'Medical oxygen plant installation cost in Kenya'
+- 'Best medical equipment companies in Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

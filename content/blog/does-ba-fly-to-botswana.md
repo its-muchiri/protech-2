@@ -1,14 +1,14 @@
 ---
 title: 'Does Ba Fly to Botswana: Complete Guide'
-description: Everything you need to know about does ba fly to botswana, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about does ba fly to botswana, including routes, airlines, booking tips, and fares.'
 slug: does-ba-fly-to-botswana
-primary_keyword: does ba fly to botswana
+primary_keyword: 'does ba fly to botswana'
 secondary_keywords:
-- kq flight from lagos to nairobi
-- kq direct flight from kenya to usa
-- kq flight from nairobi to kigali
-- kq flight from nairobi to dubai price
-- flight to kenya time
+- 'kq flight from lagos to nairobi'
+- 'kq direct flight from kenya to usa'
+- 'kq flight from nairobi to kigali'
+- 'kq flight from nairobi to dubai price'
+- 'flight to kenya time'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

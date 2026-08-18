@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Ord: Complete Guide'
-description: Everything you need to know about emirates flights from ord, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from ord, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-ord
-primary_keyword: emirates flights from ord
+primary_keyword: 'emirates flights from ord'
 secondary_keywords:
-- emirates flights from yyz
-- emirates flights from zurich to dubai
-- emirates flight 028
-- emirates flights 2024
-- emirates flight 318
+- 'emirates flights from yyz'
+- 'emirates flights from zurich to dubai'
+- 'emirates flight 028'
+- 'emirates flights 2024'
+- 'emirates flight 318'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

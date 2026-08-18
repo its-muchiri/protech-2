@@ -1,14 +1,14 @@
 ---
-title: 'All Inclusive Kenya Safari Packages Definition / What's Included: Complete Guide'
-description: Kenya safari guide covering all inclusive kenya safari packages definition / whats included, including what is included, pricing, and booking advice.
+title: 'All Inclusive Kenya Safari Packages Definition / What''s Included: Complete Guide'
+description: 'Kenya safari guide covering all inclusive kenya safari packages definition / whats included, including what is included, pricing, and booking advice.'
 slug: all-inclusive-kenya-safari-packages-definition-what-s-included
-primary_keyword: All inclusive Kenya safari packages definition / what's included
+primary_keyword: 'All inclusive Kenya safari packages definition / what''s included'
 secondary_keywords:
-- Adventure camping Kenya safari
-- Kenya currency safari
-- When is the wildebeest migration in Kenya
-- Cultural visit Maasai village Amboseli safari
-- Problems with Kenya safari booking
+- 'Adventure camping Kenya safari'
+- 'Kenya currency safari'
+- 'When is the wildebeest migration in Kenya'
+- 'Cultural visit Maasai village Amboseli safari'
+- 'Problems with Kenya safari booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

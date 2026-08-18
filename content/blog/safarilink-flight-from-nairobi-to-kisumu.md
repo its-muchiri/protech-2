@@ -1,14 +1,14 @@
 ---
 title: 'Safarilink Flight from Nairobi to Kisumu: Complete Guide'
-description: Everything you need to know about safarilink flight from nairobi to kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about safarilink flight from nairobi to kisumu, including routes, airlines, booking tips, and fares.'
 slug: safarilink-flight-from-nairobi-to-kisumu
-primary_keyword: safarilink flight from nairobi to kisumu
+primary_keyword: 'safarilink flight from nairobi to kisumu'
 secondary_keywords:
-- flights to kisumu kenya
-- flights from kisumu to nairobi tomorrow
-- flights from kisumu to zanzibar
-- flights from eldoret to wilson airport
-- international flights from eldoret
+- 'flights to kisumu kenya'
+- 'flights from kisumu to nairobi tomorrow'
+- 'flights from kisumu to zanzibar'
+- 'flights from eldoret to wilson airport'
+- 'international flights from eldoret'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

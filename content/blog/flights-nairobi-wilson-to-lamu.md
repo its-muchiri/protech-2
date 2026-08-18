@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi Wilson to Lamu: Complete Guide'
-description: Everything you need to know about flights nairobi wilson to lamu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi wilson to lamu, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-wilson-to-lamu
-primary_keyword: flights nairobi wilson to lamu
+primary_keyword: 'flights nairobi wilson to lamu'
 secondary_keywords:
-- emirates airline kenya nairobi photos
-- emirates 9 west
-- emirates contacts in nairobi
-- emirates holidays nairobi
-- emirates recruitment nairobi
+- 'emirates airline kenya nairobi photos'
+- 'emirates 9 west'
+- 'emirates contacts in nairobi'
+- 'emirates holidays nairobi'
+- 'emirates recruitment nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

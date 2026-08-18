@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights Qantas Points: Complete Guide'
-description: Everything you need to know about emirates flights qantas points, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights qantas points, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-qantas-points
-primary_keyword: emirates flights qantas points
+primary_keyword: 'emirates flights qantas points'
 secondary_keywords:
-- airlines in nairobi kenya
-- does qatar airways fly to kenya
-- flights from kenya to south korea
-- uk flights from kenya
-- flight attendant jobs in kenya 2023
+- 'airlines in nairobi kenya'
+- 'does qatar airways fly to kenya'
+- 'flights from kenya to south korea'
+- 'uk flights from kenya'
+- 'flight attendant jobs in kenya 2023'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

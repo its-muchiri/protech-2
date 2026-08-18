@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Skycargo Nairobi: Complete Guide'
-description: Everything you need to know about emirates skycargo nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates skycargo nairobi, including routes, airlines, booking tips, and fares.'
 slug: emirates-skycargo-nairobi
-primary_keyword: emirates skycargo nairobi
+primary_keyword: 'emirates skycargo nairobi'
 secondary_keywords:
-- flights to frankfurt from mombasa kenya
-- flight from nairobi to mombasa how much
-- flight from kisumu to mombasa is how much
-- mombasa flights from jkia
-- flight from mombasa to lagos
+- 'flights to frankfurt from mombasa kenya'
+- 'flight from nairobi to mombasa how much'
+- 'flight from kisumu to mombasa is how much'
+- 'mombasa flights from jkia'
+- 'flight from mombasa to lagos'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

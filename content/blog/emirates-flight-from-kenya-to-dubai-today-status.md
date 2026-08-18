@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight from Kenya to Dubai Today Status: Complete Guide'
-description: Everything you need to know about emirates flight from kenya to dubai today status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight from kenya to dubai today status, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-from-kenya-to-dubai-today-status
-primary_keyword: emirates flight from kenya to dubai today status
+primary_keyword: 'emirates flight from kenya to dubai today status'
 secondary_keywords:
-- flights to kisumu from jkia
-- kisumu flights
-- renegade flights from kisumu to nairobi
-- cheap flights from eldoret to nairobi
-- flight from eldoret to entebbe
+- 'flights to kisumu from jkia'
+- 'kisumu flights'
+- 'renegade flights from kisumu to nairobi'
+- 'cheap flights from eldoret to nairobi'
+- 'flight from eldoret to entebbe'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Kenya Holiday Safari Booking: Complete Guide'
-description: Kenya safari guide covering reserve kenya holiday safari booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve kenya holiday safari booking, including what is included, pricing, and booking advice.'
 slug: reserve-kenya-holiday-safari-booking
-primary_keyword: Reserve Kenya holiday safari booking
+primary_keyword: 'Reserve Kenya holiday safari booking'
 secondary_keywords:
-- Nairobi city tour including KICC viewpoint price
-- Kobo Safaris DMC Kenya services
-- Fly-in safari cost vs driving safari Kenya time saving
-- KATO certified tour operators benefits code of conduct
-- Horse riding safari Kenya Chyulu Hills / Laikipia ranches
+- 'Nairobi city tour including KICC viewpoint price'
+- 'Kobo Safaris DMC Kenya services'
+- 'Fly-in safari cost vs driving safari Kenya time saving'
+- 'KATO certified tour operators benefits code of conduct'
+- 'Horse riding safari Kenya Chyulu Hills / Laikipia ranches'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

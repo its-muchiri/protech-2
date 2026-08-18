@@ -1,14 +1,14 @@
 ---
 title: 'Find Kenya Safari Tour Including Nairobi Craft Market Shopping UK Souvenir Buying Guide: Complete Guide'
-description: Kenya safari guide covering find kenya safari tour including nairobi craft market shopping uk souvenir buying guide, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering find kenya safari tour including nairobi craft market shopping uk souvenir buying guide, including what is included, pricing, and booking advice.'
 slug: find-kenya-safari-tour-including-nairobi-craft-market-shopping-uk-souvenir-buying-guide
-primary_keyword: Find Kenya safari tour including Nairobi craft market shopping UK souvenir buying guide
+primary_keyword: 'Find Kenya safari tour including Nairobi craft market shopping UK souvenir buying guide'
 secondary_keywords:
-- Kenya safari tours
-- Visit Kenya safari
-- Nairobi National Park safari
-- Luxury Kenya safari
-- Kenya air safari
+- 'Kenya safari tours'
+- 'Visit Kenya safari'
+- 'Nairobi National Park safari'
+- 'Luxury Kenya safari'
+- 'Kenya air safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

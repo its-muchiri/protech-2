@@ -1,14 +1,14 @@
 ---
 title: 'Purchase Short Kenya Safari Package (3-5 Days): Complete Guide'
-description: Kenya safari guide covering purchase short kenya safari package (3-5 days), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase short kenya safari package (3-5 days), including what is included, pricing, and booking advice.'
 slug: purchase-short-kenya-safari-package-3-5-days
-primary_keyword: Purchase short Kenya safari package (3-5 days)
+primary_keyword: 'Purchase short Kenya safari package (3-5 days)'
 secondary_keywords:
-- Off season Kenya safari deals April
-- Kenya safari scams
-- Bat Eared Fox safari Kenya
-- Drive times between Kenya parks
-- Community tourism projects Kenya safari
+- 'Off season Kenya safari deals April'
+- 'Kenya safari scams'
+- 'Bat Eared Fox safari Kenya'
+- 'Drive times between Kenya parks'
+- 'Community tourism projects Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

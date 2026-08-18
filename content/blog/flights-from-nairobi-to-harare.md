@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Harare: Complete Guide'
-description: Everything you need to know about flights from nairobi to harare, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to harare, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-harare
-primary_keyword: flights from nairobi to harare
+primary_keyword: 'flights from nairobi to harare'
 secondary_keywords:
-- emirates flights from entebbe to dubai
-- emirates flights for today
-- emirates flights from glasgow today
-- emirates flights from hyderabad
-- emirates flights from india to dubai
+- 'emirates flights from entebbe to dubai'
+- 'emirates flights for today'
+- 'emirates flights from glasgow today'
+- 'emirates flights from hyderabad'
+- 'emirates flights from india to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

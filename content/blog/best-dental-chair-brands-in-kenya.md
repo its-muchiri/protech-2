@@ -1,14 +1,14 @@
 ---
 title: 'Best Dental Chair Brands in Kenya: 2026 Price Guide'
-description: Kenya buying guide to best dental chair brands in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to best dental chair brands in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: best-dental-chair-brands-in-kenya
-primary_keyword: Best dental chair brands in Kenya
+primary_keyword: 'Best dental chair brands in Kenya'
 secondary_keywords:
-- hydroponics equipment suppliers in Kenya
-- portable ventilator for mass casualty
-- teledermatology equipment for sale
-- healthcare products Kenya
-- medical supply companies Kenya
+- 'hydroponics equipment suppliers in Kenya'
+- 'portable ventilator for mass casualty'
+- 'teledermatology equipment for sale'
+- 'healthcare products Kenya'
+- 'medical supply companies Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

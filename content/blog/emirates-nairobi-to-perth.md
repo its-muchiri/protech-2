@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Nairobi to Perth: Complete Guide'
-description: Everything you need to know about emirates nairobi to perth, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates nairobi to perth, including routes, airlines, booking tips, and fares.'
 slug: emirates-nairobi-to-perth
-primary_keyword: emirates nairobi to perth
+primary_keyword: 'emirates nairobi to perth'
 secondary_keywords:
-- flights from kenya to victoria falls
-- flight from kenya to washington dc
-- flights from nbo to yto
-- flights from kenya to zimbabwe
-- how much is flight from kenya to usa
+- 'flights from kenya to victoria falls'
+- 'flight from kenya to washington dc'
+- 'flights from nbo to yto'
+- 'flights from kenya to zimbabwe'
+- 'how much is flight from kenya to usa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

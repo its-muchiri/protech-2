@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Usa Today: Complete Guide'
-description: Everything you need to know about flights from nairobi to usa today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to usa today, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-usa-today
-primary_keyword: flights from nairobi to usa today
+primary_keyword: 'flights from nairobi to usa today'
 secondary_keywords:
-- cheap direct flights from nairobi to london heathrow
-- flights from nairobi to entebbe uganda
-- etihad flights from nairobi
-- flights from nairobi to ghana
-- flights from nairobi to hong kong
+- 'cheap direct flights from nairobi to london heathrow'
+- 'flights from nairobi to entebbe uganda'
+- 'etihad flights from nairobi'
+- 'flights from nairobi to ghana'
+- 'flights from nairobi to hong kong'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

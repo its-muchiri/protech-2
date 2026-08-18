@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is Flight from Nairobi to Turkey: Complete Guide'
-description: Everything you need to know about how much is flight from nairobi to turkey, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is flight from nairobi to turkey, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-flight-from-nairobi-to-turkey
-primary_keyword: how much is flight from nairobi to turkey
+primary_keyword: 'how much is flight from nairobi to turkey'
 secondary_keywords:
-- flights from nairobi to winnipeg
-- flights from nairobi kenya to new york ny
-- how much is flight from nairobi to mombasa
-- flights from nairobi to cairo egypt
-- flights from mombasa to addis ababa
+- 'flights from nairobi to winnipeg'
+- 'flights from nairobi kenya to new york ny'
+- 'how much is flight from nairobi to mombasa'
+- 'flights from nairobi to cairo egypt'
+- 'flights from mombasa to addis ababa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

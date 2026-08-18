@@ -1,14 +1,14 @@
 ---
-title: 'Meru National Park Safari Cost Europe Elsa's Kopje Booking: Complete Guide'
-description: Kenya safari guide covering meru national park safari cost europe elsas kopje booking, including what is included, pricing, and booking advice.
+title: 'Meru National Park Safari Cost Europe Elsa''s Kopje Booking: Complete Guide'
+description: 'Kenya safari guide covering meru national park safari cost europe elsas kopje booking, including what is included, pricing, and booking advice.'
 slug: meru-national-park-safari-cost-europe-elsa-s-kopje-booking
-primary_keyword: Meru National Park safari cost Europe Elsa's Kopje booking
+primary_keyword: 'Meru National Park safari cost Europe Elsa''s Kopje booking'
 secondary_keywords:
-- Buy 8 day accessible Kenya safari package quote
-- Quote for 9 day Kenya small group safari package tour
-- Get deal 12 day Kenya Tanzania migration combo package booking
-- Purchase voucher Kenya family safari package
-- Buy discounted off-peak Kenya safari package April
+- 'Buy 8 day accessible Kenya safari package quote'
+- 'Quote for 9 day Kenya small group safari package tour'
+- 'Get deal 12 day Kenya Tanzania migration combo package booking'
+- 'Purchase voucher Kenya family safari package'
+- 'Buy discounted off-peak Kenya safari package April'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Mombasa Safari Packages: Complete Guide'
-description: Kenya safari guide covering mombasa safari packages, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering mombasa safari packages, including what is included, pricing, and booking advice.'
 slug: mombasa-safari-packages
-primary_keyword: Mombasa safari packages
+primary_keyword: 'Mombasa safari packages'
 secondary_keywords:
-- Ol Pejeta Conservancy day trip from Nanyuki / Nairobi chimpanzee sanctuary tour
-- Family safari Kenya deals child friendly lodges
-- Malindi beach hotels deals Italian influence
-- Mount Longonot hike day trip from Nairobi / Thika price / guide
-- Day trip Nairobi National Park tour company price
+- 'Ol Pejeta Conservancy day trip from Nanyuki / Nairobi chimpanzee sanctuary tour'
+- 'Family safari Kenya deals child friendly lodges'
+- 'Malindi beach hotels deals Italian influence'
+- 'Mount Longonot hike day trip from Nairobi / Thika price / guide'
+- 'Day trip Nairobi National Park tour company price'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

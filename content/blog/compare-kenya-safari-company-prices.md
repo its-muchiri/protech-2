@@ -1,14 +1,14 @@
 ---
 title: 'Compare Kenya Safari Company Prices: Complete Guide'
-description: Kenya safari guide covering compare kenya safari company prices, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering compare kenya safari company prices, including what is included, pricing, and booking advice.'
 slug: compare-kenya-safari-company-prices
-primary_keyword: Compare Kenya safari company prices
+primary_keyword: 'Compare Kenya safari company prices'
 secondary_keywords:
-- Fourteen Falls tour guide Thika
-- Halal safari tour operators Kenya
-- Diani beach holiday all inclusive package wheelchair accessible company
-- Best company for last minute day trip Nairobi National Park
-- Purchase private Kenya safari package
+- 'Fourteen Falls tour guide Thika'
+- 'Halal safari tour operators Kenya'
+- 'Diani beach holiday all inclusive package wheelchair accessible company'
+- 'Best company for last minute day trip Nairobi National Park'
+- 'Purchase private Kenya safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Top Kenya Safari: Complete Guide'
-description: Kenya safari guide covering top kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering top kenya safari, including what is included, pricing, and booking advice.'
 slug: top-kenya-safari
-primary_keyword: Top Kenya safari
+primary_keyword: 'Top Kenya safari'
 secondary_keywords:
-- See large elephant herds Kenya
-- Kenya safari from Diani Beach
-- Kenya safari from India
-- Kenya safari in August (Migration)
-- Kenya safari packages
+- 'See large elephant herds Kenya'
+- 'Kenya safari from Diani Beach'
+- 'Kenya safari from India'
+- 'Kenya safari in August (Migration)'
+- 'Kenya safari packages'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

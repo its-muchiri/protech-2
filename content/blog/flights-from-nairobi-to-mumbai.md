@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Mumbai: Complete Guide'
-description: Everything you need to know about flights from nairobi to mumbai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to mumbai, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-mumbai
-primary_keyword: flights from nairobi to mumbai
+primary_keyword: 'flights from nairobi to mumbai'
 secondary_keywords:
-- flights to kericho
-- flights in kenya today
-- planes in kenya
-- flight attendant jobs in kenya salary
-- us flights to kenya
+- 'flights to kericho'
+- 'flights in kenya today'
+- 'planes in kenya'
+- 'flight attendant jobs in kenya salary'
+- 'us flights to kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

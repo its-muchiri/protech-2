@@ -1,14 +1,14 @@
 ---
 title: 'Linen Trolley for Hospital Use: 2026 Price Guide'
-description: Kenya buying guide to linen trolley for hospital use. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to linen trolley for hospital use. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: linen-trolley-for-hospital-use
-primary_keyword: Linen trolley for hospital use
+primary_keyword: 'Linen trolley for hospital use'
 secondary_keywords:
-- Fingertip pulse oximeter for sale
-- TENS machine price in Kenya
-- CP walker for children with special needs price
-- Dental stool for dentist and assistant price
-- Amalgamator for dental fillings in Eldoret
+- 'Fingertip pulse oximeter for sale'
+- 'TENS machine price in Kenya'
+- 'CP walker for children with special needs price'
+- 'Dental stool for dentist and assistant price'
+- 'Amalgamator for dental fillings in Eldoret'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

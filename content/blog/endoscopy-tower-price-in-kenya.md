@@ -1,14 +1,14 @@
 ---
 title: 'Endoscopy Tower Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to endoscopy tower price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to endoscopy tower price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: endoscopy-tower-price-in-kenya
-primary_keyword: Endoscopy tower price in Kenya
+primary_keyword: 'Endoscopy tower price in Kenya'
 secondary_keywords:
-- surgical gown price Kenya
-- medical equipment spare parts Kenya
-- durable medical equipment Kenya
-- patient monitoring systems Kenya
-- medical consumables distributors Kenya
+- 'surgical gown price Kenya'
+- 'medical equipment spare parts Kenya'
+- 'durable medical equipment Kenya'
+- 'patient monitoring systems Kenya'
+- 'medical consumables distributors Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

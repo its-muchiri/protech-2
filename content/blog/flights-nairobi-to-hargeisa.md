@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Hargeisa: Complete Guide'
-description: Everything you need to know about flights nairobi to hargeisa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to hargeisa, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-hargeisa
-primary_keyword: flights nairobi to hargeisa
+primary_keyword: 'flights nairobi to hargeisa'
 secondary_keywords:
-- emirates flight 209 from athens to new york
-- emirates flight 335
-- emirates flight 408
-- emirates flight 585
-- emirates flight 762
+- 'emirates flight 209 from athens to new york'
+- 'emirates flight 335'
+- 'emirates flight 408'
+- 'emirates flight 585'
+- 'emirates flight 762'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

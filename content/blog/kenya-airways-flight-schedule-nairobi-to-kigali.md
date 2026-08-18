@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight Schedule Nairobi to Kigali: Complete Guide'
-description: Everything you need to know about kenya airways flight schedule nairobi to kigali, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight schedule nairobi to kigali, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-schedule-nairobi-to-kigali
-primary_keyword: kenya airways flight schedule nairobi to kigali
+primary_keyword: 'kenya airways flight schedule nairobi to kigali'
 secondary_keywords:
-- skyward flights nairobi to mombasa
-- flights nairobi to usa
-- nairobi to vipingo flights
-- cheap flights nairobi to mumbai
-- nairobi to zimbabwe flights
+- 'skyward flights nairobi to mombasa'
+- 'flights nairobi to usa'
+- 'nairobi to vipingo flights'
+- 'cheap flights nairobi to mumbai'
+- 'nairobi to zimbabwe flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

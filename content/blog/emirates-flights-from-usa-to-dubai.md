@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Usa to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from usa to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from usa to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-usa-to-dubai
-primary_keyword: emirates flights from usa to dubai
+primary_keyword: 'emirates flights from usa to dubai'
 secondary_keywords:
-- flights from mombasa to riyadh
-- flights from mombasa to ukunda
-- flights zurich mombasa
-- flights from kisumu to wilson airport
-- flights from kisumu to diani
+- 'flights from mombasa to riyadh'
+- 'flights from mombasa to ukunda'
+- 'flights zurich mombasa'
+- 'flights from kisumu to wilson airport'
+- 'flights from kisumu to diani'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Dubai to Uk Today: Complete Guide'
-description: Everything you need to know about emirates flights from dubai to uk today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from dubai to uk today, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-dubai-to-uk-today
-primary_keyword: emirates flights from dubai to uk today
+primary_keyword: 'emirates flights from dubai to uk today'
 secondary_keywords:
-- kq flight from kenya to dubai
-- flights to ukunda from jkia
-- kq flight from nairobi to dubai
-- kq flight from nairobi to dubai ticket price
-- kq flight from johannesburg to nairobi
+- 'kq flight from kenya to dubai'
+- 'flights to ukunda from jkia'
+- 'kq flight from nairobi to dubai'
+- 'kq flight from nairobi to dubai ticket price'
+- 'kq flight from johannesburg to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

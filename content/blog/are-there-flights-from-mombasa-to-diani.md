@@ -1,14 +1,14 @@
 ---
 title: 'Are There Flights from Mombasa to Diani: Complete Guide'
-description: Everything you need to know about are there flights from mombasa to diani, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about are there flights from mombasa to diani, including routes, airlines, booking tips, and fares.'
 slug: are-there-flights-from-mombasa-to-diani
-primary_keyword: are there flights from mombasa to diani
+primary_keyword: 'are there flights from mombasa to diani'
 secondary_keywords:
-- emirates return ticket from nairobi to dubai
-- emirates from kenya to dubai
-- emirates kenya careers
-- emirates holidays kenya
-- emirates plane
+- 'emirates return ticket from nairobi to dubai'
+- 'emirates from kenya to dubai'
+- 'emirates kenya careers'
+- 'emirates holidays kenya'
+- 'emirates plane'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

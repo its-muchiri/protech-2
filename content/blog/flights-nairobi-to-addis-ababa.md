@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Addis Ababa: Complete Guide'
-description: Everything you need to know about flights nairobi to addis ababa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to addis ababa, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-addis-ababa
-primary_keyword: flights nairobi to addis ababa
+primary_keyword: 'flights nairobi to addis ababa'
 secondary_keywords:
-- flights nairobi to accra
-- flights nairobi to boston
-- flights nairobi to cairo
-- flights nairobi to dar es salaam
-- fly nairobi to eldoret
+- 'flights nairobi to accra'
+- 'flights nairobi to boston'
+- 'flights nairobi to cairo'
+- 'flights nairobi to dar es salaam'
+- 'fly nairobi to eldoret'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

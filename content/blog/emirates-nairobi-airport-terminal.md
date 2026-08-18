@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Nairobi Airport Terminal: Complete Guide'
-description: Everything you need to know about emirates nairobi airport terminal, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates nairobi airport terminal, including routes, airlines, booking tips, and fares.'
 slug: emirates-nairobi-airport-terminal
-primary_keyword: emirates nairobi airport terminal
+primary_keyword: 'emirates nairobi airport terminal'
 secondary_keywords:
-- flights from nairobi to japan
-- kq flights from nairobi to china
-- lufthansa flights from nairobi
-- masai mara flights from nairobi
-- flights to nigeria from nairobi
+- 'flights from nairobi to japan'
+- 'kq flights from nairobi to china'
+- 'lufthansa flights from nairobi'
+- 'masai mara flights from nairobi'
+- 'flights to nigeria from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

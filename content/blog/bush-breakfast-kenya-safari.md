@@ -1,14 +1,14 @@
 ---
 title: 'Bush Breakfast Kenya Safari: Complete Guide'
-description: Kenya safari guide covering bush breakfast kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering bush breakfast kenya safari, including what is included, pricing, and booking advice.'
 slug: bush-breakfast-kenya-safari
-primary_keyword: Bush breakfast Kenya safari
+primary_keyword: 'Bush breakfast Kenya safari'
 secondary_keywords:
-- Luxury lodge safari Kenya with balloon ride included operator
-- Book Kenya safari tour package
-- Secure Samburu safari package deal
-- Book Mombasa start Tsavo safari tour
-- Secure 21 day comprehensive Kenya trip purchase
+- 'Luxury lodge safari Kenya with balloon ride included operator'
+- 'Book Kenya safari tour package'
+- 'Secure Samburu safari package deal'
+- 'Book Mombasa start Tsavo safari tour'
+- 'Secure 21 day comprehensive Kenya trip purchase'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

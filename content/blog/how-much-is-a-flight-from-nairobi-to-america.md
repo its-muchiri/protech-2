@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is a Flight from Nairobi to America: Complete Guide'
-description: Everything you need to know about how much is a flight from nairobi to america, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is a flight from nairobi to america, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-a-flight-from-nairobi-to-america
-primary_keyword: how much is a flight from nairobi to america
+primary_keyword: 'how much is a flight from nairobi to america'
 secondary_keywords:
-- kenya airways flights bookings
-- kq flights cancelled
-- kq flight disruptions jkia fuel
-- kq eldoret flights
-- flight kq
+- 'kenya airways flights bookings'
+- 'kq flights cancelled'
+- 'kq flight disruptions jkia fuel'
+- 'kq eldoret flights'
+- 'flight kq'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

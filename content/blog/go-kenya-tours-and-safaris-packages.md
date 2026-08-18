@@ -1,14 +1,14 @@
 ---
 title: 'Go Kenya Tours and Safaris Packages: Complete Guide'
-description: Kenya safari guide covering go kenya tours and safaris packages, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering go kenya tours and safaris packages, including what is included, pricing, and booking advice.'
 slug: go-kenya-tours-and-safaris-packages
-primary_keyword: Go Kenya Tours and Safaris packages
+primary_keyword: 'Go Kenya Tours and Safaris packages'
 secondary_keywords:
-- Sundowners Kenya safari
-- Flamingo safari Lake Nakuru
-- East Africa safari Kenya Tanzania
-- Kenya safari weather
-- New Year Kenya safari
+- 'Sundowners Kenya safari'
+- 'Flamingo safari Lake Nakuru'
+- 'East Africa safari Kenya Tanzania'
+- 'Kenya safari weather'
+- 'New Year Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

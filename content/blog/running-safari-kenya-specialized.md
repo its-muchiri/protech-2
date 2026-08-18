@@ -1,14 +1,14 @@
 ---
 title: 'Running Safari Kenya (specialized): Complete Guide'
-description: Kenya safari guide covering running safari kenya (specialized), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering running safari kenya (specialized), including what is included, pricing, and booking advice.'
 slug: running-safari-kenya-specialized
-primary_keyword: Running safari Kenya (specialized)
+primary_keyword: 'Running safari Kenya (specialized)'
 secondary_keywords:
-- Best Kenya safari package deals online
-- Book fly-in Kenya safari package all inclusive
-- Reserve Lake Nakuru package
-- Book 7 day luxury Masai Mara package
-- Cost of 15 day comprehensive Kenya safari package premium
+- 'Best Kenya safari package deals online'
+- 'Book fly-in Kenya safari package all inclusive'
+- 'Reserve Lake Nakuru package'
+- 'Book 7 day luxury Masai Mara package'
+- 'Cost of 15 day comprehensive Kenya safari package premium'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

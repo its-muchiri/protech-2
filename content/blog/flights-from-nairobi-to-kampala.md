@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Kampala: Complete Guide'
-description: Everything you need to know about flights from nairobi to kampala, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to kampala, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-kampala
-primary_keyword: flights from nairobi to kampala
+primary_keyword: 'flights from nairobi to kampala'
 secondary_keywords:
-- emirates flights from melbourne
-- emirates flights to uk from nz
-- emirates flights from perth
-- emirates flights qantas
-- emirates flights from rome
+- 'emirates flights from melbourne'
+- 'emirates flights to uk from nz'
+- 'emirates flights from perth'
+- 'emirates flights qantas'
+- 'emirates flights from rome'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

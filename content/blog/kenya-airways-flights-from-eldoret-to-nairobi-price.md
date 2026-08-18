@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights from Eldoret to Nairobi Price: Complete Guide'
-description: Everything you need to know about kenya airways flights from eldoret to nairobi price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights from eldoret to nairobi price, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-from-eldoret-to-nairobi-price
-primary_keyword: kenya airways flights from eldoret to nairobi price
+primary_keyword: 'kenya airways flights from eldoret to nairobi price'
 secondary_keywords:
-- kq flights from eldoret
-- skyward flights from eldoret to nairobi
-- kq flights arrivals
-- kq flights to amsterdam
-- kenya airways flight schedule
+- 'kq flights from eldoret'
+- 'skyward flights from eldoret to nairobi'
+- 'kq flights arrivals'
+- 'kq flights to amsterdam'
+- 'kenya airways flight schedule'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

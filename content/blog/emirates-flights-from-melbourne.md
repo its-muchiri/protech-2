@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Melbourne: Complete Guide'
-description: Everything you need to know about emirates flights from melbourne, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from melbourne, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-melbourne
-primary_keyword: emirates flights from melbourne
+primary_keyword: 'emirates flights from melbourne'
 secondary_keywords:
-- flight from nairobi to elwak
-- flight from frankfurt to nairobi
-- flight from garissa to nairobi
-- how much is a flight from nairobi to kisumu
-- flight from nairobi to jamaica
+- 'flight from nairobi to elwak'
+- 'flight from frankfurt to nairobi'
+- 'flight from garissa to nairobi'
+- 'how much is a flight from nairobi to kisumu'
+- 'flight from nairobi to jamaica'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

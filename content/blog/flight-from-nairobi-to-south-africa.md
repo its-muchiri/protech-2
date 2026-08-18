@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to South Africa: Complete Guide'
-description: Everything you need to know about flight from nairobi to south africa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to south africa, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-south-africa
-primary_keyword: flight from nairobi to south africa
+primary_keyword: 'flight from nairobi to south africa'
 secondary_keywords:
-- flights from kenya to uk today
-- how many airlines are in kenya
-- flight kenya london
-- flights to kenya in november
-- qatar airways in kenya
+- 'flights from kenya to uk today'
+- 'how many airlines are in kenya'
+- 'flight kenya london'
+- 'flights to kenya in november'
+- 'qatar airways in kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

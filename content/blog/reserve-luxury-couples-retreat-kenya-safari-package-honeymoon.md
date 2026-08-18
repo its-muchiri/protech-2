@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Luxury Couples Retreat Kenya Safari Package Honeymoon: Complete Guide'
-description: Kenya safari guide covering reserve luxury couples retreat kenya safari package honeymoon, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve luxury couples retreat kenya safari package honeymoon, including what is included, pricing, and booking advice.'
 slug: reserve-luxury-couples-retreat-kenya-safari-package-honeymoon
-primary_keyword: Reserve luxury couples retreat Kenya safari package honeymoon
+primary_keyword: 'Reserve luxury couples retreat Kenya safari package honeymoon'
 secondary_keywords:
-- Book 4 day Hell''s Gate Naivasha adventure package
-- Quote for 6 day Tsavo Man Eaters Trail package
-- Secure booking 7 day Kenya safari package
-- Purchase 5 day Amboseli fly-in package now
-- Book Valentine''s romantic safari package Kenya
+- 'Book 4 day Hell''''s Gate Naivasha adventure package'
+- 'Quote for 6 day Tsavo Man Eaters Trail package'
+- 'Secure booking 7 day Kenya safari package'
+- 'Purchase 5 day Amboseli fly-in package now'
+- 'Book Valentine''''s romantic safari package Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

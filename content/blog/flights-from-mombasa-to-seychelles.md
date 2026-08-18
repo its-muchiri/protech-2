@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Seychelles: Complete Guide'
-description: Everything you need to know about flights from mombasa to seychelles, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to seychelles, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-seychelles
-primary_keyword: flights from mombasa to seychelles
+primary_keyword: 'flights from mombasa to seychelles'
 secondary_keywords:
-- cheap flights from nairobi to london
-- diani flights from nairobi
-- emirates flights from nairobi
-- flights from nairobi to garissa
-- flights from nairobi to harare
+- 'cheap flights from nairobi to london'
+- 'diani flights from nairobi'
+- 'emirates flights from nairobi'
+- 'flights from nairobi to garissa'
+- 'flights from nairobi to harare'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

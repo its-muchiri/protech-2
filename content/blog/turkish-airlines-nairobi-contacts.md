@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Nairobi Contacts: Complete Guide'
-description: Everything you need to know about turkish airlines nairobi contacts, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines nairobi contacts, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-nairobi-contacts
-primary_keyword: turkish airlines nairobi contacts
+primary_keyword: 'turkish airlines nairobi contacts'
 secondary_keywords:
-- ord to nairobi flights
-- flight time nairobi to qatar
-- flights to nairobi return
-- skyward flights nairobi to mombasa
-- flights nairobi to usa
+- 'ord to nairobi flights'
+- 'flight time nairobi to qatar'
+- 'flights to nairobi return'
+- 'skyward flights nairobi to mombasa'
+- 'flights nairobi to usa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

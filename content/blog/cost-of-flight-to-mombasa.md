@@ -1,14 +1,14 @@
 ---
 title: 'Cost of Flight to Mombasa: Complete Guide'
-description: Everything you need to know about cost of flight to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cost of flight to mombasa, including routes, airlines, booking tips, and fares.'
 slug: cost-of-flight-to-mombasa
-primary_keyword: cost of flight to mombasa
+primary_keyword: 'cost of flight to mombasa'
 secondary_keywords:
-- cheap flights from kenya to uk
-- flights from kenya to edmonton
-- kenya airways flights from freetown to accra
-- flight from kenya to ghana price
-- flights from kenya to hungary
+- 'cheap flights from kenya to uk'
+- 'flights from kenya to edmonton'
+- 'kenya airways flights from freetown to accra'
+- 'flight from kenya to ghana price'
+- 'flights from kenya to hungary'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Barcelona: Complete Guide'
-description: Everything you need to know about emirates flights from barcelona, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from barcelona, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-barcelona
-primary_keyword: emirates flights from barcelona
+primary_keyword: 'emirates flights from barcelona'
 secondary_keywords:
-- flights nairobi to kampala
-- flights nairobi to lodwar
-- flights nairobi to masai mara
-- nairobi to nanyuki flights
-- flights nairobi to prague
+- 'flights nairobi to kampala'
+- 'flights nairobi to lodwar'
+- 'flights nairobi to masai mara'
+- 'nairobi to nanyuki flights'
+- 'flights nairobi to prague'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

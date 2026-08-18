@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights to South Africa: Complete Guide'
-description: Everything you need to know about kenya airways flights to south africa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights to south africa, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-to-south-africa
-primary_keyword: kenya airways flights to south africa
+primary_keyword: 'kenya airways flights to south africa'
 secondary_keywords:
-- ethiopian airlines nairobi to lilongwe
-- ethiopian airlines contact number nairobi
-- turkish airline from nairobi to istanbul
-- flight ticket from kenya to canada
-- flight ticket to kenya from south africa
+- 'ethiopian airlines nairobi to lilongwe'
+- 'ethiopian airlines contact number nairobi'
+- 'turkish airline from nairobi to istanbul'
+- 'flight ticket from kenya to canada'
+- 'flight ticket to kenya from south africa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

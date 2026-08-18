@@ -1,14 +1,14 @@
 ---
 title: 'Catheters and Urine Bags Suppliers in Kisumu: 2026 Price Guide'
-description: Kenya buying guide to catheters and urine bags suppliers in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to catheters and urine bags suppliers in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: catheters-and-urine-bags-suppliers-in-kisumu
-primary_keyword: Catheters and urine bags suppliers in Kisumu
+primary_keyword: 'Catheters and urine bags suppliers in Kisumu'
 secondary_keywords:
-- urine bags Kenya price
-- sterilization wraps Kenya
-- medical tape Kenya brands
-- crepe bandages Kenya price
-- surgical spirit price Nairobi
+- 'urine bags Kenya price'
+- 'sterilization wraps Kenya'
+- 'medical tape Kenya brands'
+- 'crepe bandages Kenya price'
+- 'surgical spirit price Nairobi'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

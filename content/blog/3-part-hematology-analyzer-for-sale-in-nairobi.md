@@ -1,14 +1,14 @@
 ---
 title: '3-part Hematology Analyzer for Sale in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to 3-part hematology analyzer for sale in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to 3-part hematology analyzer for sale in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: 3-part-hematology-analyzer-for-sale-in-nairobi
-primary_keyword: 3-part hematology analyzer for sale in Nairobi
+primary_keyword: '3-part hematology analyzer for sale in Nairobi'
 secondary_keywords:
-- ELISA reader and washer system cost
-- Biosafety cabinet Class II for sale
-- Biphasic defibrillator with monitor for OT
-- 1-crank manual hospital bed for sale
-- Medicine and dressing trolley suppliers
+- 'ELISA reader and washer system cost'
+- 'Biosafety cabinet Class II for sale'
+- 'Biphasic defibrillator with monitor for OT'
+- '1-crank manual hospital bed for sale'
+- 'Medicine and dressing trolley suppliers'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

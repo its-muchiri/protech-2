@@ -1,14 +1,14 @@
 ---
 title: 'Flight Kq 3: Complete Guide'
-description: Everything you need to know about flight kq 3, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight kq 3, including routes, airlines, booking tips, and fares.'
 slug: flight-kq-3
-primary_keyword: flight kq 3
+primary_keyword: 'flight kq 3'
 secondary_keywords:
-- jambojet flights from nairobi to malindi
-- kq flights from nairobi to dar es salaam
-- flights from nairobi to masai mara
-- flights from nairobi to namibia
-- flights from nairobi to oman
+- 'jambojet flights from nairobi to malindi'
+- 'kq flights from nairobi to dar es salaam'
+- 'flights from nairobi to masai mara'
+- 'flights from nairobi to namibia'
+- 'flights from nairobi to oman'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

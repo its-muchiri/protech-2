@@ -1,14 +1,14 @@
 ---
 title: 'Aneroid BP Machine for Clinics: 2026 Price Guide'
-description: Kenya buying guide to aneroid bp machine for clinics. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to aneroid bp machine for clinics. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: aneroid-bp-machine-for-clinics
-primary_keyword: Aneroid BP machine for clinics
+primary_keyword: 'Aneroid BP machine for clinics'
 secondary_keywords:
-- Best medical equipment companies in Kenya
-- Anesthesia machine calibration services
-- Hospital beds for sale in Thika
-- Ophthalmic equipment for sale in Kitale
-- Medical equipment importers in Industrial Area, Nairobi
+- 'Best medical equipment companies in Kenya'
+- 'Anesthesia machine calibration services'
+- 'Hospital beds for sale in Thika'
+- 'Ophthalmic equipment for sale in Kitale'
+- 'Medical equipment importers in Industrial Area, Nairobi'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

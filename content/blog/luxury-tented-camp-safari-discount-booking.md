@@ -1,14 +1,14 @@
 ---
 title: 'Luxury Tented Camp Safari Discount Booking: Complete Guide'
-description: Kenya safari guide covering luxury tented camp safari discount booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering luxury tented camp safari discount booking, including what is included, pricing, and booking advice.'
 slug: luxury-tented-camp-safari-discount-booking
-primary_keyword: Luxury tented camp safari discount booking
+primary_keyword: 'Luxury tented camp safari discount booking'
 secondary_keywords:
-- Kenya safari with private guide
-- Kenya visa for safari
-- Language spoken Kenya safari
-- Kenya safari tour operator reviews Tripadvisor
-- 4 day Samburu reserve safari package deal
+- 'Kenya safari with private guide'
+- 'Kenya visa for safari'
+- 'Language spoken Kenya safari'
+- 'Kenya safari tour operator reviews Tripadvisor'
+- '4 day Samburu reserve safari package deal'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Easter Kenya Safari: Complete Guide'
-description: Kenya safari guide covering easter kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering easter kenya safari, including what is included, pricing, and booking advice.'
 slug: easter-kenya-safari
-primary_keyword: Easter Kenya safari
+primary_keyword: 'Easter Kenya safari'
 secondary_keywords:
-- Gorilla trekking tours from Kenya combined Uganda / Rwanda trip
-- Tours starting from Wilson Airport Nairobi fly-in safaris
-- Purchase Kenya honeymoon safari package online
-- Kenya safari holiday offers Europe early booking
-- All-inclusive lodge safari Kenya cost per night
+- 'Gorilla trekking tours from Kenya combined Uganda / Rwanda trip'
+- 'Tours starting from Wilson Airport Nairobi fly-in safaris'
+- 'Purchase Kenya honeymoon safari package online'
+- 'Kenya safari holiday offers Europe early booking'
+- 'All-inclusive lodge safari Kenya cost per night'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

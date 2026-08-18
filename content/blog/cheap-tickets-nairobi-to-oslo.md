@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Tickets Nairobi to Oslo: Complete Guide'
-description: Everything you need to know about cheap tickets nairobi to oslo, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap tickets nairobi to oslo, including routes, airlines, booking tips, and fares.'
 slug: cheap-tickets-nairobi-to-oslo
-primary_keyword: cheap tickets nairobi to oslo
+primary_keyword: 'cheap tickets nairobi to oslo'
 secondary_keywords:
-- £5 in kenya shillings
-- air arabia flights from kenya to dubai
-- flights from kenya to boston
-- flights from kenya to cuba
-- flights from kenya to djibouti
+- '£5 in kenya shillings'
+- 'air arabia flights from kenya to dubai'
+- 'flights from kenya to boston'
+- 'flights from kenya to cuba'
+- 'flights from kenya to djibouti'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Tours: Complete Guide'
-description: Kenya safari guide covering kenya safari tours, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari tours, including what is included, pricing, and booking advice.'
 slug: kenya-safari-tours
-primary_keyword: Kenya safari tours
+primary_keyword: 'Kenya safari tours'
 secondary_keywords:
-- Family friendly Kenya safari tour discount code
-- Kenya safari package itinerary 7 days
-- Fly-in Masai Mara trip package reserve
-- Buy Kenya tour package park fees included cost
-- Purchase small group photography safari package Kenya booking
+- 'Family friendly Kenya safari tour discount code'
+- 'Kenya safari package itinerary 7 days'
+- 'Fly-in Masai Mara trip package reserve'
+- 'Buy Kenya tour package park fees included cost'
+- 'Purchase small group photography safari package Kenya booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

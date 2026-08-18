@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight from Nairobi to Dubai Time: Complete Guide'
-description: Everything you need to know about emirates flight from nairobi to dubai time, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight from nairobi to dubai time, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-from-nairobi-to-dubai-time
-primary_keyword: emirates flight from nairobi to dubai time
+primary_keyword: 'emirates flight from nairobi to dubai time'
 secondary_keywords:
-- flights to frankfurt from mombasa kenya
-- flight from nairobi to mombasa how much
-- flight from kisumu to mombasa is how much
-- mombasa flights from jkia
-- flight from mombasa to lagos
+- 'flights to frankfurt from mombasa kenya'
+- 'flight from nairobi to mombasa how much'
+- 'flight from kisumu to mombasa is how much'
+- 'mombasa flights from jkia'
+- 'flight from mombasa to lagos'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

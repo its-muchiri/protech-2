@@ -1,14 +1,14 @@
 ---
 title: 'Direct Booking Kenya Safari Lodge  Package: Complete Guide'
-description: Kenya safari guide covering direct booking kenya safari lodge  package, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering direct booking kenya safari lodge  package, including what is included, pricing, and booking advice.'
 slug: direct-booking-kenya-safari-lodge-lodge-name-package
-primary_keyword: Direct booking Kenya safari lodge  package
+primary_keyword: 'Direct booking Kenya safari lodge  package'
 secondary_keywords:
-- Kenya safari package deals
-- 3 day Kenya safari package deals
-- Fly-in Kenya safari package sale
-- Ol Pejeta family safari itinerary price
-- Buy package from KATO registered Kenya operator
+- 'Kenya safari package deals'
+- '3 day Kenya safari package deals'
+- 'Fly-in Kenya safari package sale'
+- 'Ol Pejeta family safari itinerary price'
+- 'Buy package from KATO registered Kenya operator'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

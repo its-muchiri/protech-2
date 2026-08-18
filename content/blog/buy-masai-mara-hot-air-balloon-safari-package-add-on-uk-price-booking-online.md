@@ -1,14 +1,14 @@
 ---
 title: 'Buy Masai Mara Hot Air Balloon Safari Package Add-on UK Price Booking Online: Complete Guide'
-description: Kenya safari guide covering buy masai mara hot air balloon safari package add-on uk price booking online, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy masai mara hot air balloon safari package add-on uk price booking online, including what is included, pricing, and booking advice.'
 slug: buy-masai-mara-hot-air-balloon-safari-package-add-on-uk-price-booking-online
-primary_keyword: Buy Masai Mara hot air balloon safari package add-on UK price booking online
+primary_keyword: 'Buy Masai Mara hot air balloon safari package add-on UK price booking online'
 secondary_keywords:
-- Quote 7 day Kicheche Camps migration special package July booking
-- Ethical tour companies Kenya community focus
-- Fly-in safari Masai Mara Wilson Airport cost
-- Lake Nakuru lodges price (Sarova Lion Hill, Lake Nakuru Lodge)
-- All-inclusive luxury safari Kenya what''s included
+- 'Quote 7 day Kicheche Camps migration special package July booking'
+- 'Ethical tour companies Kenya community focus'
+- 'Fly-in safari Masai Mara Wilson Airport cost'
+- 'Lake Nakuru lodges price (Sarova Lion Hill, Lake Nakuru Lodge)'
+- 'All-inclusive luxury safari Kenya what''''s included'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

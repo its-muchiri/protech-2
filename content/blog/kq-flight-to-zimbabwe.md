@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight to Zimbabwe: Complete Guide'
-description: Everything you need to know about kq flight to zimbabwe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight to zimbabwe, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-to-zimbabwe
-primary_keyword: kq flight to zimbabwe
+primary_keyword: 'kq flight to zimbabwe'
 secondary_keywords:
-- kq flights to johannesburg today timetable
-- kq flights to lamu
-- kq flights to malindi from nairobi
-- kq flights to mombasa prices
-- kq flights schedule
+- 'kq flights to johannesburg today timetable'
+- 'kq flights to lamu'
+- 'kq flights to malindi from nairobi'
+- 'kq flights to mombasa prices'
+- 'kq flights schedule'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Fourteen Falls Tour Guide Thika: Complete Guide'
-description: Kenya safari guide covering fourteen falls tour guide thika, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering fourteen falls tour guide thika, including what is included, pricing, and booking advice.'
 slug: fourteen-falls-tour-guide-thika
-primary_keyword: Fourteen Falls tour guide Thika
+primary_keyword: 'Fourteen Falls tour guide Thika'
 secondary_keywords:
-- Quote for 4 day Elsa''s Kopje Meru package booking
-- Book scientific research participation safari package (niche)
-- Sustainable tour operators Kenya
-- Samburu National Reserve tour packages
-- Meru National Park safari companies
+- 'Quote for 4 day Elsa''''s Kopje Meru package booking'
+- 'Book scientific research participation safari package (niche)'
+- 'Sustainable tour operators Kenya'
+- 'Samburu National Reserve tour packages'
+- 'Meru National Park safari companies'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

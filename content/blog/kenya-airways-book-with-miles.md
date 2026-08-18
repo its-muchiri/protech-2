@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Book with Miles: Complete Guide'
-description: Everything you need to know about kenya airways book with miles, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways book with miles, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-book-with-miles
-primary_keyword: kenya airways book with miles
+primary_keyword: 'kenya airways book with miles'
 secondary_keywords:
-- flights nairobi to kisumu kenya
-- nairobi to lamu flights
-- mumbai to nairobi flights
-- flights nairobi to ottawa
-- nairobi to kisumu flights price
+- 'flights nairobi to kisumu kenya'
+- 'nairobi to lamu flights'
+- 'mumbai to nairobi flights'
+- 'flights nairobi to ottawa'
+- 'nairobi to kisumu flights price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

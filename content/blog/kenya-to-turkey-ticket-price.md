@@ -1,14 +1,14 @@
 ---
 title: 'Kenya to Turkey Ticket Price: Complete Guide'
-description: Everything you need to know about kenya to turkey ticket price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya to turkey ticket price, including routes, airlines, booking tips, and fares.'
 slug: kenya-to-turkey-ticket-price
-primary_keyword: kenya to turkey ticket price
+primary_keyword: 'kenya to turkey ticket price'
 secondary_keywords:
-- cost of flight from nairobi to usa
-- 540 flight from nairobi to mombasa
-- how much is the flight 748 from nairobi to kisumu
-- turkish airlines nairobi airport
-- turkish airlines nairobi
+- 'cost of flight from nairobi to usa'
+- '540 flight from nairobi to mombasa'
+- 'how much is the flight 748 from nairobi to kisumu'
+- 'turkish airlines nairobi airport'
+- 'turkish airlines nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

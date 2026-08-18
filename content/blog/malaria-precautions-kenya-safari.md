@@ -1,14 +1,14 @@
 ---
 title: 'Malaria Precautions Kenya Safari: Complete Guide'
-description: Kenya safari guide covering malaria precautions kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering malaria precautions kenya safari, including what is included, pricing, and booking advice.'
 slug: malaria-precautions-kenya-safari
-primary_keyword: Malaria precautions Kenya safari
+primary_keyword: 'Malaria precautions Kenya safari'
 secondary_keywords:
-- Kenya safari holiday sale
-- 6 day Samburu Nakuru safari sale price
-- Discount 5 day family fly-in Amboseli package early bird
-- Aberdares lodge safari package bundle offer
-- Direct booking Kenya safari lodge  package
+- 'Kenya safari holiday sale'
+- '6 day Samburu Nakuru safari sale price'
+- 'Discount 5 day family fly-in Amboseli package early bird'
+- 'Aberdares lodge safari package bundle offer'
+- 'Direct booking Kenya safari lodge  package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

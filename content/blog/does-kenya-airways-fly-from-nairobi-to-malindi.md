@@ -1,14 +1,14 @@
 ---
 title: 'Does Kenya Airways Fly from Nairobi to Malindi: Complete Guide'
-description: Everything you need to know about does kenya airways fly from nairobi to malindi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about does kenya airways fly from nairobi to malindi, including routes, airlines, booking tips, and fares.'
 slug: does-kenya-airways-fly-from-nairobi-to-malindi
-primary_keyword: does kenya airways fly from nairobi to malindi
+primary_keyword: 'does kenya airways fly from nairobi to malindi'
 secondary_keywords:
-- 540 flight from nairobi to eldoret today
-- turkish airlines from nairobi
-- turkish airlines nairobi contact
-- are airlines flying to turkey
-- kenya airways phone number
+- '540 flight from nairobi to eldoret today'
+- 'turkish airlines from nairobi'
+- 'turkish airlines nairobi contact'
+- 'are airlines flying to turkey'
+- 'kenya airways phone number'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

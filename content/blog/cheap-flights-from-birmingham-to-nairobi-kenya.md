@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Birmingham to Nairobi Kenya: Complete Guide'
-description: Everything you need to know about cheap flights from birmingham to nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from birmingham to nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-birmingham-to-nairobi-kenya
-primary_keyword: cheap flights from birmingham to nairobi kenya
+primary_keyword: 'cheap flights from birmingham to nairobi kenya'
 secondary_keywords:
-- flights from gatwick to mombasa
-- flights from mombasa to milan italy
-- jambojet flights from mombasa to nairobi ticket price
-- kq flights from mombasa to dubai
-- flights from mombasa to manchester
+- 'flights from gatwick to mombasa'
+- 'flights from mombasa to milan italy'
+- 'jambojet flights from mombasa to nairobi ticket price'
+- 'kq flights from mombasa to dubai'
+- 'flights from mombasa to manchester'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

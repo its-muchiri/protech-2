@@ -1,14 +1,14 @@
 ---
 title: 'Luxury Kenya Safari All-inclusive Price: Complete Guide'
-description: Kenya safari guide covering luxury kenya safari all-inclusive price, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering luxury kenya safari all-inclusive price, including what is included, pricing, and booking advice.'
 slug: luxury-kenya-safari-all-inclusive-price
-primary_keyword: Luxury Kenya safari all-inclusive price
+primary_keyword: 'Luxury Kenya safari all-inclusive price'
 secondary_keywords:
-- Cost of 3 day Amboseli safari package
-- Samburu special five safari package price
-- Mahali Mzuri safari package deal
-- Luxury honeymoon safari Kenya cost
-- Best value Kenya safari package cost
+- 'Cost of 3 day Amboseli safari package'
+- 'Samburu special five safari package price'
+- 'Mahali Mzuri safari package deal'
+- 'Luxury honeymoon safari Kenya cost'
+- 'Best value Kenya safari package cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

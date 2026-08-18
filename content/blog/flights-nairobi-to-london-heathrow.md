@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to London Heathrow: Complete Guide'
-description: Everything you need to know about flights nairobi to london heathrow, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to london heathrow, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-london-heathrow
-primary_keyword: flights nairobi to london heathrow
+primary_keyword: 'flights nairobi to london heathrow'
 secondary_keywords:
-- flights in kenya today
-- planes in kenya
-- flight attendant jobs in kenya salary
-- us flights to kenya
-- flights to kenya 2025
+- 'flights in kenya today'
+- 'planes in kenya'
+- 'flight attendant jobs in kenya salary'
+- 'us flights to kenya'
+- 'flights to kenya 2025'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

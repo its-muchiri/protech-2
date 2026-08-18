@@ -1,14 +1,14 @@
 ---
 title: 'Uganda Airlines Flights from Nairobi to Entebbe Today: Complete Guide'
-description: Everything you need to know about uganda airlines flights from nairobi to entebbe today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about uganda airlines flights from nairobi to entebbe today, including routes, airlines, booking tips, and fares.'
 slug: uganda-airlines-flights-from-nairobi-to-entebbe-today
-primary_keyword: uganda airlines flights from nairobi to entebbe today
+primary_keyword: 'uganda airlines flights from nairobi to entebbe today'
 secondary_keywords:
-- cheap flights from nairobi to kinshasa
-- flight from mombasa to saudi arabia
-- which airlines fly direct to mombasa
-- cheap flights from mombasa to kisumu
-- flights from mombasa to ethiopia
+- 'cheap flights from nairobi to kinshasa'
+- 'flight from mombasa to saudi arabia'
+- 'which airlines fly direct to mombasa'
+- 'cheap flights from mombasa to kisumu'
+- 'flights from mombasa to ethiopia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to London Today: Complete Guide'
-description: Everything you need to know about flights nairobi to london today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to london today, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-london-today
-primary_keyword: flights nairobi to london today
+primary_keyword: 'flights nairobi to london today'
 secondary_keywords:
-- kq galiot
-- i-fly air kenya
-- kq flights to kinshasa
-- kq flights meaning
-- kq flight nairobi to eldoret
+- 'kq galiot'
+- 'i-fly air kenya'
+- 'kq flights to kinshasa'
+- 'kq flights meaning'
+- 'kq flight nairobi to eldoret'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

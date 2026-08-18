@@ -1,14 +1,14 @@
 ---
 title: 'Purchase Private Kenya Safari Package: Complete Guide'
-description: Kenya safari guide covering purchase private kenya safari package, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase private kenya safari package, including what is included, pricing, and booking advice.'
 slug: purchase-private-kenya-safari-package
-primary_keyword: Purchase private Kenya safari package
+primary_keyword: 'Purchase private Kenya safari package'
 secondary_keywords:
-- Best luxury Masai Mara package to book
-- Purchase last minute Kenya safari package deal
-- Book 5 day Samburu Special Five photographic tour package expert guide
-- Best tour companies in Kenya reviews TripAdvisor
-- Travel agents Thika booking Kenya tours
+- 'Best luxury Masai Mara package to book'
+- 'Purchase last minute Kenya safari package deal'
+- 'Book 5 day Samburu Special Five photographic tour package expert guide'
+- 'Best tour companies in Kenya reviews TripAdvisor'
+- 'Travel agents Thika booking Kenya tours'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

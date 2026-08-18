@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Zanzibar: Complete Guide'
-description: Everything you need to know about flights nairobi to zanzibar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to zanzibar, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-zanzibar
-primary_keyword: flights nairobi to zanzibar
+primary_keyword: 'flights nairobi to zanzibar'
 secondary_keywords:
-- flights from nairobi wilson to mombasa
-- cheap flights from nairobi to south africa
-- cheap flights from nairobi to europe
-- which airlines fly from nairobi to malindi
-- flights from mombasa to nairobi
+- 'flights from nairobi wilson to mombasa'
+- 'cheap flights from nairobi to south africa'
+- 'cheap flights from nairobi to europe'
+- 'which airlines fly from nairobi to malindi'
+- 'flights from mombasa to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

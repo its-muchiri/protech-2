@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Greece: Complete Guide'
-description: Everything you need to know about flights nairobi to greece, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to greece, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-greece
-primary_keyword: flights nairobi to greece
+primary_keyword: 'flights nairobi to greece'
 secondary_keywords:
-- kq flight to zimbabwe
-- kq 115 flight status
-- kq 256
-- kq 417 flight status
-- kq 533 flight status
+- 'kq flight to zimbabwe'
+- 'kq 115 flight status'
+- 'kq 256'
+- 'kq 417 flight status'
+- 'kq 533 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

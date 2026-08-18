@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Arusha: Complete Guide'
-description: Everything you need to know about flight from nairobi to arusha, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to arusha, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-arusha
-primary_keyword: flight from nairobi to arusha
+primary_keyword: 'flight from nairobi to arusha'
 secondary_keywords:
-- flights to kenya from johannesburg
-- international flights in kenya
-- flights leaving kenya today
-- flights to kenya news
-- qatar flights to nairobi
+- 'flights to kenya from johannesburg'
+- 'international flights in kenya'
+- 'flights leaving kenya today'
+- 'flights to kenya news'
+- 'qatar flights to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

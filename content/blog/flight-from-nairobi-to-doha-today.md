@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Doha Today: Complete Guide'
-description: Everything you need to know about flight from nairobi to doha today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to doha today, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-doha-today
-primary_keyword: flight from nairobi to doha today
+primary_keyword: 'flight from nairobi to doha today'
 secondary_keywords:
-- flights from dar es salaam to mombasa kenya
-- which flights go to mombasa from nairobi
-- flights in mombasa
-- jambojet flights from mombasa to nairobi
-- kq flights from mombasa to nairobi today price
+- 'flights from dar es salaam to mombasa kenya'
+- 'which flights go to mombasa from nairobi'
+- 'flights in mombasa'
+- 'jambojet flights from mombasa to nairobi'
+- 'kq flights from mombasa to nairobi today price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

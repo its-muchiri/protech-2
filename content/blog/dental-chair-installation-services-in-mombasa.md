@@ -1,14 +1,14 @@
 ---
 title: 'Dental Chair Installation Services in Mombasa: 2026 Price Guide'
-description: Kenya buying guide to dental chair installation services in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to dental chair installation services in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: dental-chair-installation-services-in-mombasa
-primary_keyword: Dental chair installation services in Mombasa
+primary_keyword: 'Dental chair installation services in Mombasa'
 secondary_keywords:
-- Major orthopedic surgery instrument set
-- Hospital bedside locker and overbed table set
-- Hospital linen trolley suppliers
-- CPAP and BiPAP machine for sleep apnea
-- NSK dental handpiece price in Nairobi
+- 'Major orthopedic surgery instrument set'
+- 'Hospital bedside locker and overbed table set'
+- 'Hospital linen trolley suppliers'
+- 'CPAP and BiPAP machine for sleep apnea'
+- 'NSK dental handpiece price in Nairobi'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

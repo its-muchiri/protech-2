@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Hyderabad to Washington Dc: Complete Guide'
-description: Everything you need to know about emirates flights from hyderabad to washington dc, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from hyderabad to washington dc, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-hyderabad-to-washington-dc
-primary_keyword: emirates flights from hyderabad to washington dc
+primary_keyword: 'emirates flights from hyderabad to washington dc'
 secondary_keywords:
-- kq flights from
-- kq flights from dar es salaam to nairobi
-- kenya airways flights from harare to dubai
-- kq flight from nairobi to lagos
-- kq flight from new york
+- 'kq flights from'
+- 'kq flights from dar es salaam to nairobi'
+- 'kenya airways flights from harare to dubai'
+- 'kq flight from nairobi to lagos'
+- 'kq flight from new york'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

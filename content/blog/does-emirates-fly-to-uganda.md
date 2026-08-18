@@ -1,14 +1,14 @@
 ---
 title: 'Does Emirates Fly to Uganda: Complete Guide'
-description: Everything you need to know about does emirates fly to uganda, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about does emirates fly to uganda, including routes, airlines, booking tips, and fares.'
 slug: does-emirates-fly-to-uganda
-primary_keyword: does emirates fly to uganda
+primary_keyword: 'does emirates fly to uganda'
 secondary_keywords:
-- flights to israel from kenya
-- cheap flights from jeddah to kenya
-- kenya airways flights from kinshasa to nairobi
-- flights from lagos to kenya
-- cheap flights from manchester to mombasa kenya
+- 'flights to israel from kenya'
+- 'cheap flights from jeddah to kenya'
+- 'kenya airways flights from kinshasa to nairobi'
+- 'flights from lagos to kenya'
+- 'cheap flights from manchester to mombasa kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

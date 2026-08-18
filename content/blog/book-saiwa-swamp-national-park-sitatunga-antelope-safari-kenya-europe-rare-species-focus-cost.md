@@ -1,14 +1,14 @@
 ---
 title: 'Book Saiwa Swamp National Park Sitatunga Antelope Safari Kenya Europe Rare Species Focus Cost: Complete Guide'
-description: Kenya safari guide covering book saiwa swamp national park sitatunga antelope safari kenya europe rare species focus cost, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book saiwa swamp national park sitatunga antelope safari kenya europe rare species focus cost, including what is included, pricing, and booking advice.'
 slug: book-saiwa-swamp-national-park-sitatunga-antelope-safari-kenya-europe-rare-species-focus-cost
-primary_keyword: Book Saiwa Swamp National Park sitatunga antelope safari Kenya Europe rare species focus cost
+primary_keyword: 'Book Saiwa Swamp National Park sitatunga antelope safari Kenya Europe rare species focus cost'
 secondary_keywords:
-- Kenya fly-in safari packages Masai Mara / Samburu cost
-- Mombasa North Coast hotels packages (Nyali, Bamburi)
-- Climb Point Lenana Mount Kenya guided tour cost
-- Community based tourism projects Kenya support local initiatives
-- Bonfire Adventures Kenya safari packages price list / reviews
+- 'Kenya fly-in safari packages Masai Mara / Samburu cost'
+- 'Mombasa North Coast hotels packages (Nyali, Bamburi)'
+- 'Climb Point Lenana Mount Kenya guided tour cost'
+- 'Community based tourism projects Kenya support local initiatives'
+- 'Bonfire Adventures Kenya safari packages price list / reviews'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

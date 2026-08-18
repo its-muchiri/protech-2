@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kenya to Ghana Today: Complete Guide'
-description: Everything you need to know about flight from kenya to ghana today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kenya to ghana today, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kenya-to-ghana-today
-primary_keyword: flight from kenya to ghana today
+primary_keyword: 'flight from kenya to ghana today'
 secondary_keywords:
-- flights nairobi to london today
-- nairobi to mombasa flights price
-- nairobi to nakuru flights
-- flight nairobi to pemba island
-- qatar airways flights to nairobi
+- 'flights nairobi to london today'
+- 'nairobi to mombasa flights price'
+- 'nairobi to nakuru flights'
+- 'flight nairobi to pemba island'
+- 'qatar airways flights to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

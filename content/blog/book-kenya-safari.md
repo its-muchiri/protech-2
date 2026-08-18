@@ -1,14 +1,14 @@
 ---
 title: 'Book Kenya Safari: Complete Guide'
-description: Kenya safari guide covering book kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book kenya safari, including what is included, pricing, and booking advice.'
 slug: book-kenya-safari
-primary_keyword: Book Kenya safari
+primary_keyword: 'Book Kenya safari'
 secondary_keywords:
-- Book Amboseli safari holiday package UK
-- Buy guaranteed Kenya safari departure UK
-- Group Kenya safari package offers Europe discount
-- Kenya honeymoon safari all-inclusive deals booking
-- Book Kenya horseback riding safari package UK Laikipia
+- 'Book Amboseli safari holiday package UK'
+- 'Buy guaranteed Kenya safari departure UK'
+- 'Group Kenya safari package offers Europe discount'
+- 'Kenya honeymoon safari all-inclusive deals booking'
+- 'Book Kenya horseback riding safari package UK Laikipia'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

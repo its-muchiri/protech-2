@@ -1,14 +1,14 @@
 ---
 title: 'Return Flight from Nairobi to Mombasa Price: Complete Guide'
-description: Everything you need to know about return flight from nairobi to mombasa price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about return flight from nairobi to mombasa price, including routes, airlines, booking tips, and fares.'
 slug: return-flight-from-nairobi-to-mombasa-price
-primary_keyword: return flight from nairobi to mombasa price
+primary_keyword: 'return flight from nairobi to mombasa price'
 secondary_keywords:
-- ethiopian airlines nairobi telephone number
-- turkish flight from nairobi
-- turkish airlines flight to nairobi
-- flight ticket from kenya to nigeria
-- local flight booking in kenya
+- 'ethiopian airlines nairobi telephone number'
+- 'turkish flight from nairobi'
+- 'turkish airlines flight to nairobi'
+- 'flight ticket from kenya to nigeria'
+- 'local flight booking in kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

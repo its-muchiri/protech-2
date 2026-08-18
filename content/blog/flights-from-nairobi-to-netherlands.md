@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Netherlands: Complete Guide'
-description: Everything you need to know about flights from nairobi to netherlands, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to netherlands, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-netherlands
-primary_keyword: flights from nairobi to netherlands
+primary_keyword: 'flights from nairobi to netherlands'
 secondary_keywords:
-- emirates flights from lax
-- emirates flights from manchester to dubai today
-- emirates flights from orlando today
-- emirates flights from philippines
-- flights from quetta to dubai united arab emirates
+- 'emirates flights from lax'
+- 'emirates flights from manchester to dubai today'
+- 'emirates flights from orlando today'
+- 'emirates flights from philippines'
+- 'flights from quetta to dubai united arab emirates'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

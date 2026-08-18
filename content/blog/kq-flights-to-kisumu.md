@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Kisumu: Complete Guide'
-description: Everything you need to know about kq flights to kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to kisumu, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-kisumu
-primary_keyword: kq flights to kisumu
+primary_keyword: 'kq flights to kisumu'
 secondary_keywords:
-- cheap flights from wilson airport to eldoret
-- flight to eldoret price
-- flights from eldoret to malindi
-- flights from eldoret to ukunda
-- kq flight amsterdam to nairobi
+- 'cheap flights from wilson airport to eldoret'
+- 'flight to eldoret price'
+- 'flights from eldoret to malindi'
+- 'flights from eldoret to ukunda'
+- 'kq flight amsterdam to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

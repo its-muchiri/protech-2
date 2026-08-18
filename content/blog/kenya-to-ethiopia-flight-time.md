@@ -1,14 +1,14 @@
 ---
 title: 'Kenya to Ethiopia Flight Time: Complete Guide'
-description: Everything you need to know about kenya to ethiopia flight time, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya to ethiopia flight time, including routes, airlines, booking tips, and fares.'
 slug: kenya-to-ethiopia-flight-time
-primary_keyword: kenya to ethiopia flight time
+primary_keyword: 'kenya to ethiopia flight time'
 secondary_keywords:
-- does emirates fly to uganda
-- emirates arrivals nairobi
-- emirates flight from dubai to nairobi today status
-- emirates nairobi number
-- emirates nairobi terminal
+- 'does emirates fly to uganda'
+- 'emirates arrivals nairobi'
+- 'emirates flight from dubai to nairobi today status'
+- 'emirates nairobi number'
+- 'emirates nairobi terminal'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

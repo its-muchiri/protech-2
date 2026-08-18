@@ -1,14 +1,14 @@
 ---
 title: '10 Day Kenya Safari Itinerary Package Book: Complete Guide'
-description: Kenya safari guide covering 10 day kenya safari itinerary package book, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering 10 day kenya safari itinerary package book, including what is included, pricing, and booking advice.'
 slug: 10-day-kenya-safari-itinerary-package-book
-primary_keyword: 10 day Kenya safari itinerary package book
+primary_keyword: '10 day Kenya safari itinerary package book'
 secondary_keywords:
-- Reserve Kenya photographic hide safari tour Europe
-- Kenya multiple parks safari circuit package price UK
-- Luxury Kenya safari for US travelers price comparison sites
-- Tour Operator Seeking (Tour operator, Safari company, Travel agent, Booking agency)
-- Online travel agency (OTA) Kenya safari booking deals
+- 'Reserve Kenya photographic hide safari tour Europe'
+- 'Kenya multiple parks safari circuit package price UK'
+- 'Luxury Kenya safari for US travelers price comparison sites'
+- 'Tour Operator Seeking (Tour operator, Safari company, Travel agent, Booking agency)'
+- 'Online travel agency (OTA) Kenya safari booking deals'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

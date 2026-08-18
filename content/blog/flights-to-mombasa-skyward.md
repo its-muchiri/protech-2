@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Mombasa Skyward: Complete Guide'
-description: Everything you need to know about flights to mombasa skyward, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to mombasa skyward, including routes, airlines, booking tips, and fares.'
 slug: flights-to-mombasa-skyward
-primary_keyword: flights to mombasa skyward
+primary_keyword: 'flights to mombasa skyward'
 secondary_keywords:
-- flights nairobi to vipingo
-- flights nairobi to washington dc
-- yvr to nairobi flights
-- 1 naira to kenya shillings
-- nairobi 88
+- 'flights nairobi to vipingo'
+- 'flights nairobi to washington dc'
+- 'yvr to nairobi flights'
+- '1 naira to kenya shillings'
+- 'nairobi 88'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

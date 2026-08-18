@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Stockholm: Complete Guide'
-description: Everything you need to know about flights from nairobi to stockholm, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to stockholm, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-stockholm
-primary_keyword: flights from nairobi to stockholm
+primary_keyword: 'flights from nairobi to stockholm'
 secondary_keywords:
-- emirates flights from zurich
-- emirates flight 0408
-- emirates flights 2025
-- emirates flight 338
-- emirates flight 406
+- 'emirates flights from zurich'
+- 'emirates flight 0408'
+- 'emirates flights 2025'
+- 'emirates flight 338'
+- 'emirates flight 406'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

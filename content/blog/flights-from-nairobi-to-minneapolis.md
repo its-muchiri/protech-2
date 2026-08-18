@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Minneapolis: Complete Guide'
-description: Everything you need to know about flights from nairobi to minneapolis, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to minneapolis, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-minneapolis
-primary_keyword: flights from nairobi to minneapolis
+primary_keyword: 'flights from nairobi to minneapolis'
 secondary_keywords:
-- flight from nairobi to kinshasa
-- turkish airline nairobi
-- how do i track a turkish airlines flight
-- turkish airlines contact number nairobi kenya
-- turkish airlines pnr not working
+- 'flight from nairobi to kinshasa'
+- 'turkish airline nairobi'
+- 'how do i track a turkish airlines flight'
+- 'turkish airlines contact number nairobi kenya'
+- 'turkish airlines pnr not working'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

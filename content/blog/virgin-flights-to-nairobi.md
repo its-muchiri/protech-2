@@ -1,14 +1,14 @@
 ---
 title: 'Virgin Flights to Nairobi: Complete Guide'
-description: Everything you need to know about virgin flights to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about virgin flights to nairobi, including routes, airlines, booking tips, and fares.'
 slug: virgin-flights-to-nairobi
-primary_keyword: virgin flights to nairobi
+primary_keyword: 'virgin flights to nairobi'
 secondary_keywords:
-- flights from kisumu to entebbe
-- flights kisumu kenya to mombasa kenya
-- flights from kisumu to masai mara
-- is there a direct flight from kisumu to mombasa
-- jambojet flights from eldoret to mombasa
+- 'flights from kisumu to entebbe'
+- 'flights kisumu kenya to mombasa kenya'
+- 'flights from kisumu to masai mara'
+- 'is there a direct flight from kisumu to mombasa'
+- 'jambojet flights from eldoret to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

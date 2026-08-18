@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Germany: Complete Guide'
-description: Everything you need to know about flight from nairobi to germany, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to germany, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-germany
-primary_keyword: flight from nairobi to germany
+primary_keyword: 'flight from nairobi to germany'
 secondary_keywords:
-- flight from goma to nairobi
-- how much is a flight from nairobi to malindi
-- flight from nairobi to jersey
-- flight from nairobi to lodwar
-- flight from nairobi to masai mara
+- 'flight from goma to nairobi'
+- 'how much is a flight from nairobi to malindi'
+- 'flight from nairobi to jersey'
+- 'flight from nairobi to lodwar'
+- 'flight from nairobi to masai mara'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

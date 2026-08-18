@@ -1,14 +1,14 @@
 ---
 title: 'Infant Weighing Scale Price: 2026 Price Guide'
-description: Kenya buying guide to infant weighing scale price. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to infant weighing scale price. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: infant-weighing-scale-price
-primary_keyword: Infant weighing scale price
+primary_keyword: 'Infant weighing scale price'
 secondary_keywords:
-- Emergency crash cart for a clinic (fully equipped)
-- Ophthalmic operating microscope price
-- Surgical sutures and staples price in Nairobi
-- Mortuary trolley and body lifter
-- Nurse call system for hospitals price
+- 'Emergency crash cart for a clinic (fully equipped)'
+- 'Ophthalmic operating microscope price'
+- 'Surgical sutures and staples price in Nairobi'
+- 'Mortuary trolley and body lifter'
+- 'Nurse call system for hospitals price'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

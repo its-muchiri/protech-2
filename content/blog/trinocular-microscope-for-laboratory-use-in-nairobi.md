@@ -1,14 +1,14 @@
 ---
 title: 'Trinocular Microscope for Laboratory Use in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to trinocular microscope for laboratory use in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to trinocular microscope for laboratory use in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: trinocular-microscope-for-laboratory-use-in-nairobi
-primary_keyword: Trinocular microscope for laboratory use in Nairobi
+primary_keyword: 'Trinocular microscope for laboratory use in Nairobi'
 secondary_keywords:
-- Continuous Passive Motion (CPM) machine for knee
-- Intraoral camera for dental diagnosis
-- Tooth extraction forceps set cost
-- Veterinary operating table cost in Nairobi
-- Portable oxygen cylinder for home use
+- 'Continuous Passive Motion (CPM) machine for knee'
+- 'Intraoral camera for dental diagnosis'
+- 'Tooth extraction forceps set cost'
+- 'Veterinary operating table cost in Nairobi'
+- 'Portable oxygen cylinder for home use'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

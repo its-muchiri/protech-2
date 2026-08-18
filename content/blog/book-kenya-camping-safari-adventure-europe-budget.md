@@ -1,14 +1,14 @@
 ---
 title: 'Book Kenya Camping Safari Adventure Europe Budget: Complete Guide'
-description: Kenya safari guide covering book kenya camping safari adventure europe budget, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book kenya camping safari adventure europe budget, including what is included, pricing, and booking advice.'
 slug: book-kenya-camping-safari-adventure-europe-budget
-primary_keyword: Book Kenya camping safari adventure Europe budget
+primary_keyword: 'Book Kenya camping safari adventure Europe budget'
 secondary_keywords:
-- Cycling safari companies Kenya
-- Single day excursions from Thika tour company
-- Private safari cost Kenya couple
-- Specific Needs & Logistics Searches
-- Kenya self-drive tour planning companies
+- 'Cycling safari companies Kenya'
+- 'Single day excursions from Thika tour company'
+- 'Private safari cost Kenya couple'
+- 'Specific Needs & Logistics Searches'
+- 'Kenya self-drive tour planning companies'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

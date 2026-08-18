@@ -1,14 +1,14 @@
 ---
 title: 'Auto Refractometer Cost in Kenya: 2026 Price Guide'
-description: Kenya buying guide to auto refractometer cost in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to auto refractometer cost in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: auto-refractometer-cost-in-kenya
-primary_keyword: Auto refractometer cost in Kenya
+primary_keyword: 'Auto refractometer cost in Kenya'
 secondary_keywords:
-- Dental CBCT scan machine for sale in Kenya
-- Dental instrument set price in Kenya
-- Veterinary patient monitor suppliers
-- Portable oxygen concentrator cost in Mombasa
-- First aid kits for workplace and schools in Eldoret
+- 'Dental CBCT scan machine for sale in Kenya'
+- 'Dental instrument set price in Kenya'
+- 'Veterinary patient monitor suppliers'
+- 'Portable oxygen concentrator cost in Mombasa'
+- 'First aid kits for workplace and schools in Eldoret'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

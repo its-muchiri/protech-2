@@ -1,14 +1,14 @@
 ---
 title: 'Budget Camping Safari Tsavo East Red Elephants: Complete Guide'
-description: Kenya safari guide covering budget camping safari tsavo east red elephants, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering budget camping safari tsavo east red elephants, including what is included, pricing, and booking advice.'
 slug: budget-camping-safari-tsavo-east-red-elephants
-primary_keyword: Budget camping safari Tsavo East red elephants
+primary_keyword: 'Budget camping safari Tsavo East red elephants'
 secondary_keywords:
-- Best luxury Masai Mara package to book
-- Purchase last minute Kenya safari package deal
-- Book 5 day Samburu Special Five photographic tour package expert guide
-- Best tour companies in Kenya reviews TripAdvisor
-- Travel agents Thika booking Kenya tours
+- 'Best luxury Masai Mara package to book'
+- 'Purchase last minute Kenya safari package deal'
+- 'Book 5 day Samburu Special Five photographic tour package expert guide'
+- 'Best tour companies in Kenya reviews TripAdvisor'
+- 'Travel agents Thika booking Kenya tours'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

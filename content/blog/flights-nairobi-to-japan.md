@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Japan: Complete Guide'
-description: Everything you need to know about flights nairobi to japan, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to japan, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-japan
-primary_keyword: flights nairobi to japan
+primary_keyword: 'flights nairobi to japan'
 secondary_keywords:
-- how much is emirates flight from kenya to dubai
-- emirates store kenya
-- ethiopian airlines flight schedule from nairobi
-- ethiopian airlines from nairobi to cape town
-- ethiopian airlines from nairobi to johannesburg
+- 'how much is emirates flight from kenya to dubai'
+- 'emirates store kenya'
+- 'ethiopian airlines flight schedule from nairobi'
+- 'ethiopian airlines from nairobi to cape town'
+- 'ethiopian airlines from nairobi to johannesburg'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight from Zimbabwe to Dubai: Complete Guide'
-description: Everything you need to know about emirates flight from zimbabwe to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight from zimbabwe to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-from-zimbabwe-to-dubai
-primary_keyword: emirates flight from zimbabwe to dubai
+primary_keyword: 'emirates flight from zimbabwe to dubai'
 secondary_keywords:
-- kq flights cancelled
-- kq flight disruptions jkia fuel
-- kq eldoret flights
-- flight kq
-- i-fly air booking
+- 'kq flights cancelled'
+- 'kq flight disruptions jkia fuel'
+- 'kq eldoret flights'
+- 'flight kq'
+- 'i-fly air booking'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

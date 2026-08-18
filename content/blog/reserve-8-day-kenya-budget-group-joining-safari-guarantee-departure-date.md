@@ -1,14 +1,14 @@
 ---
 title: 'Reserve 8 Day Kenya Budget Group Joining Safari Guarantee Departure : Complete Guide'
-description: Kenya safari guide covering reserve 8 day kenya budget group joining safari guarantee departure , including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve 8 day kenya budget group joining safari guarantee departure , including what is included, pricing, and booking advice.'
 slug: reserve-8-day-kenya-budget-group-joining-safari-guarantee-departure-date
-primary_keyword: Reserve 8 day Kenya budget group joining safari guarantee departure
+primary_keyword: 'Reserve 8 day Kenya budget group joining safari guarantee departure'
 secondary_keywords:
-- Book group joining 6 day budget camping package Kenya
-- Buy 8 day accessible Kenya safari package quote
-- Quote for 9 day Kenya small group safari package tour
-- Get deal 12 day Kenya Tanzania migration combo package booking
-- Purchase voucher Kenya family safari package
+- 'Book group joining 6 day budget camping package Kenya'
+- 'Buy 8 day accessible Kenya safari package quote'
+- 'Quote for 9 day Kenya small group safari package tour'
+- 'Get deal 12 day Kenya Tanzania migration combo package booking'
+- 'Purchase voucher Kenya family safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

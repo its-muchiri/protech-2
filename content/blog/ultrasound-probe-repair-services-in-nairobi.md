@@ -1,14 +1,14 @@
 ---
 title: 'Ultrasound Probe Repair Services in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to ultrasound probe repair services in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to ultrasound probe repair services in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: ultrasound-probe-repair-services-in-nairobi
-primary_keyword: Ultrasound probe repair services in Nairobi
+primary_keyword: 'Ultrasound probe repair services in Nairobi'
 secondary_keywords:
-- Reagent rental agreement for hematology analyzers in Kenya
-- Vertical steam sterilizer for a lab in Kisumu
-- Anesthesia machine with ventilator price
-- Ophthalmic surgical instrument set price
-- Ambulance stretcher (collapsible) cost
+- 'Reagent rental agreement for hematology analyzers in Kenya'
+- 'Vertical steam sterilizer for a lab in Kisumu'
+- 'Anesthesia machine with ventilator price'
+- 'Ophthalmic surgical instrument set price'
+- 'Ambulance stretcher (collapsible) cost'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

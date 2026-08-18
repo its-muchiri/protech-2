@@ -1,14 +1,14 @@
 ---
 title: 'Cultural Tours Kenya Safari: Complete Guide'
-description: Kenya safari guide covering cultural tours kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering cultural tours kenya safari, including what is included, pricing, and booking advice.'
 slug: cultural-tours-kenya-safari
-primary_keyword: Cultural tours Kenya safari
+primary_keyword: 'Cultural tours Kenya safari'
 secondary_keywords:
-- Ol Pejeta conservancy tour operators Nanyuki
-- Ruma National Park tour companies Kisumu
-- Bird watching specialized tour operators Kenya
-- Bomas of Kenya cultural show tours
-- 4 day Amboseli Lake Nakuru safari company
+- 'Ol Pejeta conservancy tour operators Nanyuki'
+- 'Ruma National Park tour companies Kisumu'
+- 'Bird watching specialized tour operators Kenya'
+- 'Bomas of Kenya cultural show tours'
+- '4 day Amboseli Lake Nakuru safari company'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

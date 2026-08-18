@@ -1,14 +1,14 @@
 ---
 title: 'Affordable CT Scan Machine for a Small Hospital in Nakuru: 2026 Price Guide'
-description: Kenya buying guide to affordable ct scan machine for a small hospital in nakuru. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to affordable ct scan machine for a small hospital in nakuru. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: affordable-ct-scan-machine-for-a-small-hospital-in-nakuru
-primary_keyword: Affordable CT scan machine for a small hospital in Nakuru
+primary_keyword: 'Affordable CT scan machine for a small hospital in Nakuru'
 secondary_keywords:
-- Pulse oximeter price in Kenya
-- Physiotherapy and Rehabilitation Equipment
-- Resistance bands and tubes for therapy in Eldoret
-- Used A-dec dental chair for sale
-- Dental air compressor and suction unit cost
+- 'Pulse oximeter price in Kenya'
+- 'Physiotherapy and Rehabilitation Equipment'
+- 'Resistance bands and tubes for therapy in Eldoret'
+- 'Used A-dec dental chair for sale'
+- 'Dental air compressor and suction unit cost'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

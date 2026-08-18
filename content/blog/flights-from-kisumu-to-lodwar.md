@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kisumu to Lodwar: Complete Guide'
-description: Everything you need to know about flights from kisumu to lodwar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kisumu to lodwar, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kisumu-to-lodwar
-primary_keyword: flights from kisumu to lodwar
+primary_keyword: 'flights from kisumu to lodwar'
 secondary_keywords:
-- flights from nairobi to china
-- flights from nairobi to dubai
-- flights from nairobi to edinburgh
-- cheap flights from nairobi to frankfurt germany
-- flights from nairobi to galkayo
+- 'flights from nairobi to china'
+- 'flights from nairobi to dubai'
+- 'flights from nairobi to edinburgh'
+- 'cheap flights from nairobi to frankfurt germany'
+- 'flights from nairobi to galkayo'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

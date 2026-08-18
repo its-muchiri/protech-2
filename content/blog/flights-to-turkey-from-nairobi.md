@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Turkey from Nairobi: Complete Guide'
-description: Everything you need to know about flights to turkey from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to turkey from nairobi, including routes, airlines, booking tips, and fares.'
 slug: flights-to-turkey-from-nairobi
-primary_keyword: flights to turkey from nairobi
+primary_keyword: 'flights to turkey from nairobi'
 secondary_keywords:
-- how long is the flight from nairobi to johannesburg
-- flight from nairobi to nakuru
-- cost of flight from nairobi to kakamega
-- air arabia flight from nairobi to sharjah price
-- return flight from nairobi to dubai price
+- 'how long is the flight from nairobi to johannesburg'
+- 'flight from nairobi to nakuru'
+- 'cost of flight from nairobi to kakamega'
+- 'air arabia flight from nairobi to sharjah price'
+- 'return flight from nairobi to dubai price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

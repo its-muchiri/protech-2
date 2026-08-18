@@ -1,14 +1,14 @@
 ---
 title: 'Egypt Air Flight from Nairobi to Cairo: Complete Guide'
-description: Everything you need to know about egypt air flight from nairobi to cairo, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about egypt air flight from nairobi to cairo, including routes, airlines, booking tips, and fares.'
 slug: egypt-air-flight-from-nairobi-to-cairo
-primary_keyword: egypt air flight from nairobi to cairo
+primary_keyword: 'egypt air flight from nairobi to cairo'
 secondary_keywords:
-- kq flying blue miles
-- kq flight charges
-- kq flight diverted
-- kq flights to entebbe today timetable
-- kq flight from harare to nairobi
+- 'kq flying blue miles'
+- 'kq flight charges'
+- 'kq flight diverted'
+- 'kq flights to entebbe today timetable'
+- 'kq flight from harare to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

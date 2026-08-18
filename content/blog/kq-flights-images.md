@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights Images: Complete Guide'
-description: Everything you need to know about kq flights images, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights images, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-images
-primary_keyword: kq flights images
+primary_keyword: 'kq flights images'
 secondary_keywords:
-- flight from nairobi to boston
-- flight from nairobi to china
-- flight from nairobi to diani
-- flight from nairobi to edmonton
-- how long is a flight from frankfurt to nairobi
+- 'flight from nairobi to boston'
+- 'flight from nairobi to china'
+- 'flight from nairobi to diani'
+- 'flight from nairobi to edmonton'
+- 'how long is a flight from frankfurt to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

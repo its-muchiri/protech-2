@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Kenya Contact Number: Complete Guide'
-description: Everything you need to know about emirates kenya contact number, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates kenya contact number, including routes, airlines, booking tips, and fares.'
 slug: emirates-kenya-contact-number
-primary_keyword: emirates kenya contact number
+primary_keyword: 'emirates kenya contact number'
 secondary_keywords:
-- emirates flight 373
-- emirates flight 434
-- emirates flight 612 status
-- emirates flight 7
-- emirates flight 904
+- 'emirates flight 373'
+- 'emirates flight 434'
+- 'emirates flight 612 status'
+- 'emirates flight 7'
+- 'emirates flight 904'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

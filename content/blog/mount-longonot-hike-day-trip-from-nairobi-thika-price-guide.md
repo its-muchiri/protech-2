@@ -1,14 +1,14 @@
 ---
 title: 'Mount Longonot Hike Day Trip from Nairobi / Thika Price / Guide: Complete Guide'
-description: Kenya safari guide covering mount longonot hike day trip from nairobi / thika price / guide, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering mount longonot hike day trip from nairobi / thika price / guide, including what is included, pricing, and booking advice.'
 slug: mount-longonot-hike-day-trip-from-nairobi-thika-price-guide
-primary_keyword: Mount Longonot hike day trip from Nairobi / Thika price / guide
+primary_keyword: 'Mount Longonot hike day trip from Nairobi / Thika price / guide'
 secondary_keywords:
-- Online travel agency (OTA) Kenya safari booking deals
-- Kenya safari tour dates and prices USA 2025 calendar
-- Best value Kenya safari packages money saving tips UK
-- All-inclusive Kenya honeymoon package price USA luxury lodges Mara
-- Reserve specialist bird watching tour package Lake Baringo Kenya USA expert guide hire
+- 'Online travel agency (OTA) Kenya safari booking deals'
+- 'Kenya safari tour dates and prices USA 2025 calendar'
+- 'Best value Kenya safari packages money saving tips UK'
+- 'All-inclusive Kenya honeymoon package price USA luxury lodges Mara'
+- 'Reserve specialist bird watching tour package Lake Baringo Kenya USA expert guide hire'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

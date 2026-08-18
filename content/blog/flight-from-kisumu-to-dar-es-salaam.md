@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kisumu to Dar Es Salaam: Complete Guide'
-description: Everything you need to know about flight from kisumu to dar es salaam, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kisumu to dar es salaam, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kisumu-to-dar-es-salaam
-primary_keyword: flight from kisumu to dar es salaam
+primary_keyword: 'flight from kisumu to dar es salaam'
 secondary_keywords:
-- thailand flights from kenya
-- flights from nairobi to victoria falls
-- flights from windhoek to kenya
-- flights from nbo to yyz
-- flights from nairobi to zimbabwe
+- 'thailand flights from kenya'
+- 'flights from nairobi to victoria falls'
+- 'flights from windhoek to kenya'
+- 'flights from nbo to yyz'
+- 'flights from nairobi to zimbabwe'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

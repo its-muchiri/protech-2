@@ -1,14 +1,14 @@
 ---
 title: 'Family Friendly Beach Resorts Kenya Kids Club / Activities: Complete Guide'
-description: Kenya safari guide covering family friendly beach resorts kenya kids club / activities, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering family friendly beach resorts kenya kids club / activities, including what is included, pricing, and booking advice.'
 slug: family-friendly-beach-resorts-kenya-kids-club-activities
-primary_keyword: Family friendly beach resorts Kenya kids club / activities
+primary_keyword: 'Family friendly beach resorts Kenya kids club / activities'
 secondary_keywords:
-- Book one week Kenya wildlife tour reservation
-- Purchase private guided Kenya safari booking
-- Secure 9 day custom Laikipia family adventure purchase
-- Meru National Park package price estimate
-- Lodge safari package Kenya rates request
+- 'Book one week Kenya wildlife tour reservation'
+- 'Purchase private guided Kenya safari booking'
+- 'Secure 9 day custom Laikipia family adventure purchase'
+- 'Meru National Park package price estimate'
+- 'Lodge safari package Kenya rates request'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

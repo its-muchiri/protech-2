@@ -1,14 +1,14 @@
 ---
 title: 'C-arm Compatible Operating Table Cost: 2026 Price Guide'
-description: Kenya buying guide to c-arm compatible operating table cost. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to c-arm compatible operating table cost. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: c-arm-compatible-operating-table-cost
-primary_keyword: C-arm compatible operating table cost
+primary_keyword: 'C-arm compatible operating table cost'
 secondary_keywords:
-- X-ray film and chemicals in Nairobi
-- Medical weighing scale for adults
-- Biomedical engineering services in Nairobi
-- Medical equipment donations to Kenya
-- Oxygen concentrator repair in Eldoret
+- 'X-ray film and chemicals in Nairobi'
+- 'Medical weighing scale for adults'
+- 'Biomedical engineering services in Nairobi'
+- 'Medical equipment donations to Kenya'
+- 'Oxygen concentrator repair in Eldoret'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

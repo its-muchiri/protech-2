@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi to Dar Es Salaam Flights: Complete Guide'
-description: Everything you need to know about nairobi to dar es salaam flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about nairobi to dar es salaam flights, including routes, airlines, booking tips, and fares.'
 slug: nairobi-to-dar-es-salaam-flights
-primary_keyword: nairobi to dar es salaam flights
+primary_keyword: 'nairobi to dar es salaam flights'
 secondary_keywords:
-- emirates flights from birmingham to dubai
-- emirates flights from chicago
-- emirates flights from dubai today
-- emirates flights from edinburgh to perth australia
-- emirates flights from france
+- 'emirates flights from birmingham to dubai'
+- 'emirates flights from chicago'
+- 'emirates flights from dubai today'
+- 'emirates flights from edinburgh to perth australia'
+- 'emirates flights from france'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

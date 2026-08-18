@@ -1,14 +1,14 @@
 ---
 title: 'Senior Kenya Safari Tours: Complete Guide'
-description: Kenya safari guide covering senior kenya safari tours, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering senior kenya safari tours, including what is included, pricing, and booking advice.'
 slug: senior-kenya-safari-tours
-primary_keyword: Senior Kenya safari tours
+primary_keyword: 'Senior Kenya safari tours'
 secondary_keywords:
-- Finalize Kenya safari booking
-- 12 day East Africa safari package booking
-- Meru National Park safari package reserve
-- 5-star Kenya safari lodge package
-- Family friendly Kenya safari deals
+- 'Finalize Kenya safari booking'
+- '12 day East Africa safari package booking'
+- 'Meru National Park safari package reserve'
+- '5-star Kenya safari lodge package'
+- 'Family friendly Kenya safari deals'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

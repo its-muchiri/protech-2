@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Nyeri: Complete Guide'
-description: Everything you need to know about flight from nairobi to nyeri, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to nyeri, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-nyeri
-primary_keyword: flight from nairobi to nyeri
+primary_keyword: 'flight from nairobi to nyeri'
 secondary_keywords:
-- flight rates from kisumu to nairobi
-- flights to kisumu from jkia
-- kisumu flights
-- renegade flights from kisumu to nairobi
-- cheap flights from eldoret to nairobi
+- 'flight rates from kisumu to nairobi'
+- 'flights to kisumu from jkia'
+- 'kisumu flights'
+- 'renegade flights from kisumu to nairobi'
+- 'cheap flights from eldoret to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

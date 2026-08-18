@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Morocco: Complete Guide'
-description: Everything you need to know about flights nairobi to morocco, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to morocco, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-morocco
-primary_keyword: flights nairobi to morocco
+primary_keyword: 'flights nairobi to morocco'
 secondary_keywords:
-- flight from mombasa to isiolo
-- jambojet flights from mombasa to nairobi tomorrow
-- kq flights from mombasa
-- flights from mombasa to masai mara
-- flight from mombasa to new york
+- 'flight from mombasa to isiolo'
+- 'jambojet flights from mombasa to nairobi tomorrow'
+- 'kq flights from mombasa'
+- 'flights from mombasa to masai mara'
+- 'flight from mombasa to new york'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Edinburgh: Complete Guide'
-description: Everything you need to know about emirates flights from edinburgh, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from edinburgh, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-edinburgh
-primary_keyword: emirates flights from edinburgh
+primary_keyword: 'emirates flights from edinburgh'
 secondary_keywords:
-- flights from kenya to hong kong
-- flight from kenya to israel
-- flights from kenya to jordan
-- flight from kenya to south korea price
-- flights from kenya to lebanon
+- 'flights from kenya to hong kong'
+- 'flight from kenya to israel'
+- 'flights from kenya to jordan'
+- 'flight from kenya to south korea price'
+- 'flights from kenya to lebanon'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

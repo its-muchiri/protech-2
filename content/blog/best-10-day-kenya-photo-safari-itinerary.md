@@ -1,14 +1,14 @@
 ---
 title: 'Best 10 Day Kenya Photo Safari Itinerary: Complete Guide'
-description: Kenya safari guide covering best 10 day kenya photo safari itinerary, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering best 10 day kenya photo safari itinerary, including what is included, pricing, and booking advice.'
 slug: best-10-day-kenya-photo-safari-itinerary
-primary_keyword: Best 10 day Kenya photo safari itinerary
+primary_keyword: 'Best 10 day Kenya photo safari itinerary'
 secondary_keywords:
-- Reserve with trusted Kenya safari operator package
-- Final cost 12 day Kenya Tanzania luxury migration package
-- Buy 10 day Kenya wildlife photography tour package led by
-- Book 8 day Gamewatchers Safaris Porini circuit package
-- Reserve private jet Kenya safari package quote
+- 'Reserve with trusted Kenya safari operator package'
+- 'Final cost 12 day Kenya Tanzania luxury migration package'
+- 'Buy 10 day Kenya wildlife photography tour package led by'
+- 'Book 8 day Gamewatchers Safaris Porini circuit package'
+- 'Reserve private jet Kenya safari package quote'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

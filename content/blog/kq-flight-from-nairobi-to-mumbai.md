@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Nairobi to Mumbai: Complete Guide'
-description: Everything you need to know about kq flight from nairobi to mumbai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from nairobi to mumbai, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-nairobi-to-mumbai
-primary_keyword: kq flight from nairobi to mumbai
+primary_keyword: 'kq flight from nairobi to mumbai'
 secondary_keywords:
-- jambojet flights from kisumu to nairobi timetable
-- last flight from kisumu to nairobi
-- flights to kisumu renegade
-- flights from eldoret
-- cost of flight from eldoret to mombasa
+- 'jambojet flights from kisumu to nairobi timetable'
+- 'last flight from kisumu to nairobi'
+- 'flights to kisumu renegade'
+- 'flights from eldoret'
+- 'cost of flight from eldoret to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Travel Insurance for Kenya Safari World Nomads / SafetyWing Review: Complete Guide'
-description: Kenya safari guide covering travel insurance for kenya safari world nomads / safetywing review, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering travel insurance for kenya safari world nomads / safetywing review, including what is included, pricing, and booking advice.'
 slug: travel-insurance-for-kenya-safari-world-nomads-safetywing-review
-primary_keyword: Travel insurance for Kenya safari World Nomads / SafetyWing review
+primary_keyword: 'Travel insurance for Kenya safari World Nomads / SafetyWing review'
 secondary_keywords:
-- Kenia safari reis (Dutch)
-- Books about Kenya safari
-- Kenya safari package price quote
-- Book last minute Kenya safari deal
-- Buy 14 day Kenya grand safari package
+- 'Kenia safari reis (Dutch)'
+- 'Books about Kenya safari'
+- 'Kenya safari package price quote'
+- 'Book last minute Kenya safari deal'
+- 'Buy 14 day Kenya grand safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flight 540 Nairobi to Dar Es Salaam: Complete Guide'
-description: Everything you need to know about flight 540 nairobi to dar es salaam, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight 540 nairobi to dar es salaam, including routes, airlines, booking tips, and fares.'
 slug: flight-540-nairobi-to-dar-es-salaam
-primary_keyword: flight 540 nairobi to dar es salaam
+primary_keyword: 'flight 540 nairobi to dar es salaam'
 secondary_keywords:
-- flight from mombasa to china
-- flights from mombasa to durban
-- flights from mombasa to frankfurt germany
-- flights from mombasa to london heathrow
-- flight from nairobi to mombasa is how much
+- 'flight from mombasa to china'
+- 'flights from mombasa to durban'
+- 'flights from mombasa to frankfurt germany'
+- 'flights from mombasa to london heathrow'
+- 'flight from nairobi to mombasa is how much'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

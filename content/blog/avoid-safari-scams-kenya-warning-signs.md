@@ -1,14 +1,14 @@
 ---
 title: 'Avoid Safari Scams Kenya Warning Signs: Complete Guide'
-description: Kenya safari guide covering avoid safari scams kenya warning signs, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering avoid safari scams kenya warning signs, including what is included, pricing, and booking advice.'
 slug: avoid-safari-scams-kenya-warning-signs
-primary_keyword: Avoid safari scams Kenya warning signs
+primary_keyword: 'Avoid safari scams Kenya warning signs'
 secondary_keywords:
-- Overland truck tour companies Nairobi start
-- White water rafting Tana River companies
-- Weekend getaway safari deals from Nairobi
-- Kenya safari payment options Mpesa credit card
-- Safari companies with Nairobi city center office
+- 'Overland truck tour companies Nairobi start'
+- 'White water rafting Tana River companies'
+- 'Weekend getaway safari deals from Nairobi'
+- 'Kenya safari payment options Mpesa credit card'
+- 'Safari companies with Nairobi city center office'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

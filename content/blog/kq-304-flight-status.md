@@ -1,14 +1,14 @@
 ---
 title: 'Kq 304 Flight Status: Complete Guide'
-description: Everything you need to know about kq 304 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 304 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq-304-flight-status
-primary_keyword: kq 304 flight status
+primary_keyword: 'kq 304 flight status'
 secondary_keywords:
-- emirates flights from uk to zimbabwe
-- flights from vancouver to dubai emirates
-- emirates flights from heathrow to dubai which terminal
-- flights from cape town to new york emirates
-- emirates flight 0210
+- 'emirates flights from uk to zimbabwe'
+- 'flights from vancouver to dubai emirates'
+- 'emirates flights from heathrow to dubai which terminal'
+- 'flights from cape town to new york emirates'
+- 'emirates flight 0210'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

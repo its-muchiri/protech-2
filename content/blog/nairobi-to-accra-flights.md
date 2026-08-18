@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi to Accra Flights: Complete Guide'
-description: Everything you need to know about nairobi to accra flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about nairobi to accra flights, including routes, airlines, booking tips, and fares.'
 slug: nairobi-to-accra-flights
-primary_keyword: nairobi to accra flights
+primary_keyword: 'nairobi to accra flights'
 secondary_keywords:
-- kq flight from nairobi to entebbe
-- kenya airways flight schedule jfk to nairobi
-- kq flight from london to nairobi today
-- kenya airways flight schedule nairobi to harare
-- kenya airways flight from nairobi to dubai
+- 'kq flight from nairobi to entebbe'
+- 'kenya airways flight schedule jfk to nairobi'
+- 'kq flight from london to nairobi today'
+- 'kenya airways flight schedule nairobi to harare'
+- 'kenya airways flight from nairobi to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

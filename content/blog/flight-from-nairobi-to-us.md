@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Us: Complete Guide'
-description: Everything you need to know about flight from nairobi to us, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to us, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-us
-primary_keyword: flight from nairobi to us
+primary_keyword: 'flight from nairobi to us'
 secondary_keywords:
-- flights nairobi to dakar
-- cairo to nairobi flights egyptair
-- google flights nairobi to mombasa
-- hyderabad to nairobi flights
-- flights nairobi to jeddah
+- 'flights nairobi to dakar'
+- 'cairo to nairobi flights egyptair'
+- 'google flights nairobi to mombasa'
+- 'hyderabad to nairobi flights'
+- 'flights nairobi to jeddah'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

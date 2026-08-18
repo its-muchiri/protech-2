@@ -1,14 +1,14 @@
 ---
 title: 'Air India Flight from Nairobi to Ahmedabad: Complete Guide'
-description: Everything you need to know about air india flight from nairobi to ahmedabad, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about air india flight from nairobi to ahmedabad, including routes, airlines, booking tips, and fares.'
 slug: air-india-flight-from-nairobi-to-ahmedabad
-primary_keyword: air india flight from nairobi to ahmedabad
+primary_keyword: 'air india flight from nairobi to ahmedabad'
 secondary_keywords:
-- ethiopian airlines flights from nairobi to dubai price
-- ethiopian airlines nairobi to mumbai
-- ethiopian airlines fares
-- turkish airlines istanbul to nairobi today
-- flight ticket from kenya to uk
+- 'ethiopian airlines flights from nairobi to dubai price'
+- 'ethiopian airlines nairobi to mumbai'
+- 'ethiopian airlines fares'
+- 'turkish airlines istanbul to nairobi today'
+- 'flight ticket from kenya to uk'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

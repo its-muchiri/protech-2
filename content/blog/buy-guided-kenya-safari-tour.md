@@ -1,14 +1,14 @@
 ---
 title: 'Buy Guided Kenya Safari Tour: Complete Guide'
-description: Kenya safari guide covering buy guided kenya safari tour, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy guided kenya safari tour, including what is included, pricing, and booking advice.'
 slug: buy-guided-kenya-safari-tour
-primary_keyword: Buy guided Kenya safari tour
+primary_keyword: 'Buy guided Kenya safari tour'
 secondary_keywords:
-- Spirit of Kenya safari reviews customized tours
-- All inclusive Kenya safari packages definition / what''s included
-- Kenya shillings exchange rate USD / EUR / GBP
-- Service level agreement Kenya tour operator contract terms
-- Travel agents in Thika town booking safaris Elisa Travel Agency
+- 'Spirit of Kenya safari reviews customized tours'
+- 'All inclusive Kenya safari packages definition / what''''s included'
+- 'Kenya shillings exchange rate USD / EUR / GBP'
+- 'Service level agreement Kenya tour operator contract terms'
+- 'Travel agents in Thika town booking safaris Elisa Travel Agency'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

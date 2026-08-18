@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Rwanda to Kenya Today: Complete Guide'
-description: Everything you need to know about flights from rwanda to kenya today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from rwanda to kenya today, including routes, airlines, booking tips, and fares.'
 slug: flights-from-rwanda-to-kenya-today
-primary_keyword: flights from rwanda to kenya today
+primary_keyword: 'flights from rwanda to kenya today'
 secondary_keywords:
-- kq307 flight status
-- kq 511 flight status
-- kq 625 flight status
-- emirates flight from nairobi to ahmedabad
-- emirates flight from nairobi to dubai price
+- 'kq307 flight status'
+- 'kq 511 flight status'
+- 'kq 625 flight status'
+- 'emirates flight from nairobi to ahmedabad'
+- 'emirates flight from nairobi to dubai price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

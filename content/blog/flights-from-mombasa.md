@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa: Complete Guide'
-description: Everything you need to know about flights from mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa
-primary_keyword: flights from mombasa
+primary_keyword: 'flights from mombasa'
 secondary_keywords:
-- emirates flights from jfk today
-- emirates flights from dubai to kochi today
-- emirates flights from mumbai to dubai
-- emirates flights to thailand from newcastle
-- emirates flights from paris to dubai
+- 'emirates flights from jfk today'
+- 'emirates flights from dubai to kochi today'
+- 'emirates flights from mumbai to dubai'
+- 'emirates flights to thailand from newcastle'
+- 'emirates flights from paris to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

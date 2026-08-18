@@ -1,14 +1,14 @@
 ---
 title: 'Kq307 Flight Status: Complete Guide'
-description: Everything you need to know about kq307 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq307 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq307-flight-status
-primary_keyword: kq307 flight status
+primary_keyword: 'kq307 flight status'
 secondary_keywords:
-- nairobi to ethiopia flight time
-- ethiopian airlines in nairobi
-- ethiopian airlines nairobi office contacts whatsapp number
-- how much is flight from kenya to ethiopia
-- flights nairobi to london
+- 'nairobi to ethiopia flight time'
+- 'ethiopian airlines in nairobi'
+- 'ethiopian airlines nairobi office contacts whatsapp number'
+- 'how much is flight from kenya to ethiopia'
+- 'flights nairobi to london'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

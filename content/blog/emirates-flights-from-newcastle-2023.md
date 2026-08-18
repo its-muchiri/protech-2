@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Newcastle 2023: Complete Guide'
-description: Everything you need to know about emirates flights from newcastle 2023, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from newcastle 2023, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-newcastle-2023
-primary_keyword: emirates flights from newcastle 2023
+primary_keyword: 'emirates flights from newcastle 2023'
 secondary_keywords:
-- flight from nairobi to zimbabwe
-- flight from nairobi to bahamas
-- flight 540 nairobi to diani
-- how much flight from kenya to usa
-- turkish airlines nairobi office phone number
+- 'flight from nairobi to zimbabwe'
+- 'flight from nairobi to bahamas'
+- 'flight 540 nairobi to diani'
+- 'how much flight from kenya to usa'
+- 'turkish airlines nairobi office phone number'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

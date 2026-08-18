@@ -1,14 +1,14 @@
 ---
 title: 'Zanzibar Flight from Nairobi: Complete Guide'
-description: Everything you need to know about zanzibar flight from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about zanzibar flight from nairobi, including routes, airlines, booking tips, and fares.'
 slug: zanzibar-flight-from-nairobi
-primary_keyword: zanzibar flight from nairobi
+primary_keyword: 'zanzibar flight from nairobi'
 secondary_keywords:
-- kenya airways flight from bangkok to nairobi
-- kenya airways flight schedule nairobi to harare tomorrow
-- kenya airways flight schedule nairobi to kigali
-- kenya airways flight from mumbai to nairobi
-- kenya airways fare from kenya to usa
+- 'kenya airways flight from bangkok to nairobi'
+- 'kenya airways flight schedule nairobi to harare tomorrow'
+- 'kenya airways flight schedule nairobi to kigali'
+- 'kenya airways flight from mumbai to nairobi'
+- 'kenya airways fare from kenya to usa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

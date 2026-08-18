@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Rwanda: Complete Guide'
-description: Everything you need to know about kq flights to rwanda, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to rwanda, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-rwanda
-primary_keyword: kq flights to rwanda
+primary_keyword: 'kq flights to rwanda'
 secondary_keywords:
-- price of flight from nairobi to mombasa
-- rwandair flight from nairobi to kigali
-- safarilink flight from nairobi to kisumu
-- flight from nairobi to ukunda
-- flights from nairobi to vipingo ridge
+- 'price of flight from nairobi to mombasa'
+- 'rwandair flight from nairobi to kigali'
+- 'safarilink flight from nairobi to kisumu'
+- 'flight from nairobi to ukunda'
+- 'flights from nairobi to vipingo ridge'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

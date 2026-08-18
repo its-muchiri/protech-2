@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight Schedule: Complete Guide'
-description: Everything you need to know about kq flight schedule, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight schedule, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-schedule
-primary_keyword: kq flight schedule
+primary_keyword: 'kq flight schedule'
 secondary_keywords:
-- kq flight 003
-- kq103 flight status
-- does kq fly to ukunda
-- kq 414 flight status
-- kq 554 flight status
+- 'kq flight 003'
+- 'kq103 flight status'
+- 'does kq fly to ukunda'
+- 'kq 414 flight status'
+- 'kq 554 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

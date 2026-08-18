@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Kenya Email Address Nairobi: Complete Guide'
-description: Everything you need to know about emirates kenya email address nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates kenya email address nairobi, including routes, airlines, booking tips, and fares.'
 slug: emirates-kenya-email-address-nairobi
-primary_keyword: emirates kenya email address nairobi
+primary_keyword: 'emirates kenya email address nairobi'
 secondary_keywords:
-- cheap flights from kenya to dubai
-- flights from kenya to ethiopia
-- flights to ethiopia from kenya
-- flights from kenya to ghana
-- flights from gatwick to kenya
+- 'cheap flights from kenya to dubai'
+- 'flights from kenya to ethiopia'
+- 'flights to ethiopia from kenya'
+- 'flights from kenya to ghana'
+- 'flights from gatwick to kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

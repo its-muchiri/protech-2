@@ -1,14 +1,14 @@
 ---
 title: 'Compare All-inclusive Kenya Safari Deals Booking: Complete Guide'
-description: Kenya safari guide covering compare all-inclusive kenya safari deals booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering compare all-inclusive kenya safari deals booking, including what is included, pricing, and booking advice.'
 slug: compare-all-inclusive-kenya-safari-deals-booking
-primary_keyword: Compare all-inclusive Kenya safari deals booking
+primary_keyword: 'Compare all-inclusive Kenya safari deals booking'
 secondary_keywords:
-- Kenya safari specialist
-- Adventure camping Kenya safari
-- Kenya currency safari
-- When is the wildebeest migration in Kenya
-- Cultural visit Maasai village Amboseli safari
+- 'Kenya safari specialist'
+- 'Adventure camping Kenya safari'
+- 'Kenya currency safari'
+- 'When is the wildebeest migration in Kenya'
+- 'Cultural visit Maasai village Amboseli safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

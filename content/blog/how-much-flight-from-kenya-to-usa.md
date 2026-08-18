@@ -1,14 +1,14 @@
 ---
 title: 'How Much Flight from Kenya to Usa: Complete Guide'
-description: Everything you need to know about how much flight from kenya to usa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much flight from kenya to usa, including routes, airlines, booking tips, and fares.'
 slug: how-much-flight-from-kenya-to-usa
-primary_keyword: how much flight from kenya to usa
+primary_keyword: 'how much flight from kenya to usa'
 secondary_keywords:
-- flight from mombasa to lagos
-- flights from mombasa to mauritius
-- cost of flights from nairobi to mombasa
-- flights rome mombasa
-- flights from mombasa to uk
+- 'flight from mombasa to lagos'
+- 'flights from mombasa to mauritius'
+- 'cost of flights from nairobi to mombasa'
+- 'flights rome mombasa'
+- 'flights from mombasa to uk'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

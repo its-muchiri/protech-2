@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Uganda: Complete Guide'
-description: Everything you need to know about kq flights to uganda, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to uganda, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-uganda
-primary_keyword: kq flights to uganda
+primary_keyword: 'kq flights to uganda'
 secondary_keywords:
-- flights from nairobi to vancouver
-- flights from nairobi to washington dc
-- flights from nairobi kenya to seiyun yemen
-- how much is flight from nairobi to usa
-- flights from nairobi to amman jordan
+- 'flights from nairobi to vancouver'
+- 'flights from nairobi to washington dc'
+- 'flights from nairobi kenya to seiyun yemen'
+- 'how much is flight from nairobi to usa'
+- 'flights from nairobi to amman jordan'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

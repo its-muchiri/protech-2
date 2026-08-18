@@ -1,14 +1,14 @@
 ---
 title: 'Plane Ticket from Kenya to Qatar: Complete Guide'
-description: Everything you need to know about plane ticket from kenya to qatar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about plane ticket from kenya to qatar, including routes, airlines, booking tips, and fares.'
 slug: plane-ticket-from-kenya-to-qatar
-primary_keyword: plane ticket from kenya to qatar
+primary_keyword: 'plane ticket from kenya to qatar'
 secondary_keywords:
-- flights from kenya to australia
-- flights from kenya to south africa today
-- flights from brisbane to nairobi kenya
-- cheap flights from kenya to australia
-- flights from kenya to england
+- 'flights from kenya to australia'
+- 'flights from kenya to south africa today'
+- 'flights from brisbane to nairobi kenya'
+- 'cheap flights from kenya to australia'
+- 'flights from kenya to england'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

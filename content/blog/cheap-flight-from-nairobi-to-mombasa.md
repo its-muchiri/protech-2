@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flight from Nairobi to Mombasa: Complete Guide'
-description: Everything you need to know about cheap flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.'
 slug: cheap-flight-from-nairobi-to-mombasa
-primary_keyword: cheap flight from nairobi to mombasa
+primary_keyword: 'cheap flight from nairobi to mombasa'
 secondary_keywords:
-- flight from nairobi to hargeisa
-- flight from nairobi to eldoret is how much
-- jambojet flight from nairobi to malindi
-- flight from nairobi to luanda angola
-- flight from nairobi to moyale price
+- 'flight from nairobi to hargeisa'
+- 'flight from nairobi to eldoret is how much'
+- 'jambojet flight from nairobi to malindi'
+- 'flight from nairobi to luanda angola'
+- 'flight from nairobi to moyale price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

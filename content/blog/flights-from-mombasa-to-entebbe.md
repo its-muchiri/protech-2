@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Entebbe: Complete Guide'
-description: Everything you need to know about flights from mombasa to entebbe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to entebbe, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-entebbe
-primary_keyword: flights from mombasa to entebbe
+primary_keyword: 'flights from mombasa to entebbe'
 secondary_keywords:
-- kenya airways flights from cape town to nairobi
-- kq flight from jfk to nairobi today
-- kq flight from kenya to canada
-- flights from ukunda
-- how much is kq flight from nairobi to kisumu
+- 'kenya airways flights from cape town to nairobi'
+- 'kq flight from jfk to nairobi today'
+- 'kq flight from kenya to canada'
+- 'flights from ukunda'
+- 'how much is kq flight from nairobi to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

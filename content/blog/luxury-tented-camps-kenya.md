@@ -1,14 +1,14 @@
 ---
 title: 'Luxury Tented Camps Kenya: Complete Guide'
-description: Kenya safari guide covering luxury tented camps kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering luxury tented camps kenya, including what is included, pricing, and booking advice.'
 slug: luxury-tented-camps-kenya
-primary_keyword: Luxury tented camps Kenya
+primary_keyword: 'Luxury tented camps Kenya'
 secondary_keywords:
-- What to pack for Kenya safari
-- Can I drink tap water Kenya safari
-- Wheelchair accessible Amboseli safari tour
-- Compare prices Kenya safari operators KATO
-- Agro-tourism safari Kenya
+- 'What to pack for Kenya safari'
+- 'Can I drink tap water Kenya safari'
+- 'Wheelchair accessible Amboseli safari tour'
+- 'Compare prices Kenya safari operators KATO'
+- 'Agro-tourism safari Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

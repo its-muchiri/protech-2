@@ -1,14 +1,14 @@
 ---
 title: 'Fly Nairobi to Victoria Falls: Complete Guide'
-description: Everything you need to know about fly nairobi to victoria falls, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about fly nairobi to victoria falls, including routes, airlines, booking tips, and fares.'
 slug: fly-nairobi-to-victoria-falls
-primary_keyword: fly nairobi to victoria falls
+primary_keyword: 'fly nairobi to victoria falls'
 secondary_keywords:
-- turkish airlines flight status nairobi to istanbul
-- emirates airlines contact number nairobi kenya
-- ethiopian airlines flights from nairobi to dubai price
-- ethiopian airlines nairobi to mumbai
-- ethiopian airlines fares
+- 'turkish airlines flight status nairobi to istanbul'
+- 'emirates airlines contact number nairobi kenya'
+- 'ethiopian airlines flights from nairobi to dubai price'
+- 'ethiopian airlines nairobi to mumbai'
+- 'ethiopian airlines fares'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

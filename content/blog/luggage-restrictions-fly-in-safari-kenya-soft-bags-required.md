@@ -1,14 +1,14 @@
 ---
 title: 'Luggage Restrictions Fly-in Safari Kenya Soft Bags Required: Complete Guide'
-description: Kenya safari guide covering luggage restrictions fly-in safari kenya soft bags required, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering luggage restrictions fly-in safari kenya soft bags required, including what is included, pricing, and booking advice.'
 slug: luggage-restrictions-fly-in-safari-kenya-soft-bags-required
-primary_keyword: Luggage restrictions fly-in safari Kenya soft bags required
+primary_keyword: 'Luggage restrictions fly-in safari Kenya soft bags required'
 secondary_keywords:
-- Senior citizen Kenya safari
-- 15 day Kenya safari
-- Affordable luxury safari Kenya
-- Samburu lodges
-- Rhino sanctuary Kenya visit
+- 'Senior citizen Kenya safari'
+- '15 day Kenya safari'
+- 'Affordable luxury safari Kenya'
+- 'Samburu lodges'
+- 'Rhino sanctuary Kenya visit'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

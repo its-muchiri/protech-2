@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Vijayawada to Dubai United Arab Emirates: Complete Guide'
-description: Everything you need to know about flights from vijayawada to dubai united arab emirates, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from vijayawada to dubai united arab emirates, including routes, airlines, booking tips, and fares.'
 slug: flights-from-vijayawada-to-dubai-united-arab-emirates
-primary_keyword: flights from vijayawada to dubai united arab emirates
+primary_keyword: 'flights from vijayawada to dubai united arab emirates'
 secondary_keywords:
-- flights to kenya in august
-- cargo flights in kenya
-- flights to kenya expedia
-- flights to kenya from glasgow
-- flights to kenya in june
+- 'flights to kenya in august'
+- 'cargo flights in kenya'
+- 'flights to kenya expedia'
+- 'flights to kenya from glasgow'
+- 'flights to kenya in june'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

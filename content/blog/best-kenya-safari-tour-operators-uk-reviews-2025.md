@@ -1,14 +1,14 @@
 ---
 title: 'Best Kenya Safari Tour Operators UK Reviews 2025: Complete Guide'
-description: Kenya safari guide covering best kenya safari tour operators uk reviews 2025, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering best kenya safari tour operators uk reviews 2025, including what is included, pricing, and booking advice.'
 slug: best-kenya-safari-tour-operators-uk-reviews-2025
-primary_keyword: Best Kenya safari tour operators UK reviews 2025
+primary_keyword: 'Best Kenya safari tour operators UK reviews 2025'
 secondary_keywords:
-- Book senior friendly Kenya safari package easy pace
-- Compare fly-in vs overland Kenya safari package cost buy
-- Reserve 5 day family lodge Amboseli package Christmas  deal
-- Quote 7 day Kicheche Camps migration special package July booking
-- Ethical tour companies Kenya community focus
+- 'Book senior friendly Kenya safari package easy pace'
+- 'Compare fly-in vs overland Kenya safari package cost buy'
+- 'Reserve 5 day family lodge Amboseli package Christmas  deal'
+- 'Quote 7 day Kicheche Camps migration special package July booking'
+- 'Ethical tour companies Kenya community focus'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Hospital Curtains and Tracks in Eldoret: 2026 Price Guide'
-description: Kenya buying guide to hospital curtains and tracks in eldoret. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to hospital curtains and tracks in eldoret. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: hospital-curtains-and-tracks-in-eldoret
-primary_keyword: Hospital curtains and tracks in Eldoret
+primary_keyword: 'Hospital curtains and tracks in Eldoret'
 secondary_keywords:
-- incubators medical Kenya
-- treadmill medical Kenya
-- commode chairs Kenya price
-- surgical suction pumps Kenya
-- hospital waiting chairs Kenya
+- 'incubators medical Kenya'
+- 'treadmill medical Kenya'
+- 'commode chairs Kenya price'
+- 'surgical suction pumps Kenya'
+- 'hospital waiting chairs Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

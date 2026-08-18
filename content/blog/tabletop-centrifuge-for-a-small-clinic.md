@@ -1,14 +1,14 @@
 ---
 title: 'Tabletop Centrifuge for a Small Clinic: 2026 Price Guide'
-description: Kenya buying guide to tabletop centrifuge for a small clinic. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to tabletop centrifuge for a small clinic. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: tabletop-centrifuge-for-a-small-clinic
-primary_keyword: Tabletop centrifuge for a small clinic
+primary_keyword: 'Tabletop centrifuge for a small clinic'
 secondary_keywords:
-- sterile dressing kits Kenya
-- pharmaceutical supplies Kenya
-- portable nebulizer Kenya
-- patient monitors Kenya price
-- blood bank fridge Kenya
+- 'sterile dressing kits Kenya'
+- 'pharmaceutical supplies Kenya'
+- 'portable nebulizer Kenya'
+- 'patient monitors Kenya price'
+- 'blood bank fridge Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

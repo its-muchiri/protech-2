@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Mombasa: Complete Guide'
-description: Everything you need to know about turkish airlines mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines mombasa, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-mombasa
-primary_keyword: turkish airlines mombasa
+primary_keyword: 'turkish airlines mombasa'
 secondary_keywords:
-- how many emirates flights from toronto to dubai
-- emirates flights from italy to dubai
-- emirates flights from dubai to johannesburg today
-- flights from kozhikode to dubai united arab emirates
-- emirates flights from manila
+- 'how many emirates flights from toronto to dubai'
+- 'emirates flights from italy to dubai'
+- 'emirates flights from dubai to johannesburg today'
+- 'flights from kozhikode to dubai united arab emirates'
+- 'emirates flights from manila'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flying Blue Contacts Nairobi: Complete Guide'
-description: Everything you need to know about kenya airways flying blue contacts nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flying blue contacts nairobi, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flying-blue-contacts-nairobi
-primary_keyword: kenya airways flying blue contacts nairobi
+primary_keyword: 'kenya airways flying blue contacts nairobi'
 secondary_keywords:
-- ethiopian airlines nairobi to mumbai
-- ethiopian airlines fares
-- turkish airlines istanbul to nairobi today
-- flight ticket from kenya to uk
-- flight booking sites in kenya
+- 'ethiopian airlines nairobi to mumbai'
+- 'ethiopian airlines fares'
+- 'turkish airlines istanbul to nairobi today'
+- 'flight ticket from kenya to uk'
+- 'flight booking sites in kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

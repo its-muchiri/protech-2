@@ -1,14 +1,14 @@
 ---
 title: 'Purchase All-inclusive Fly-in Safari Package Kenya Cost: Complete Guide'
-description: Kenya safari guide covering purchase all-inclusive fly-in safari package kenya cost, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase all-inclusive fly-in safari package kenya cost, including what is included, pricing, and booking advice.'
 slug: purchase-all-inclusive-fly-in-safari-package-kenya-cost
-primary_keyword: Purchase all-inclusive fly-in safari package Kenya cost
+primary_keyword: 'Purchase all-inclusive fly-in safari package Kenya cost'
 secondary_keywords:
-- Purchase 3 day Nairobi National Park & Sheldrick Trust day tour package book
-- Online travel agencies (OTAs) for Kenya tours (e.g., Viator, GetYourGuide)
-- Masai Mara park fees 2025 citizens/residents/non-residents
-- Ol Pejeta Conservancy day trip from Nanyuki / Nairobi chimpanzee sanctuary tour
-- Family safari Kenya deals child friendly lodges
+- 'Purchase 3 day Nairobi National Park & Sheldrick Trust day tour package book'
+- 'Online travel agencies (OTAs) for Kenya tours (e.g., Viator, GetYourGuide)'
+- 'Masai Mara park fees 2025 citizens/residents/non-residents'
+- 'Ol Pejeta Conservancy day trip from Nanyuki / Nairobi chimpanzee sanctuary tour'
+- 'Family safari Kenya deals child friendly lodges'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

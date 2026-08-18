@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Entebbe Today: Complete Guide'
-description: Everything you need to know about flights from nairobi to entebbe today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to entebbe today, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-entebbe-today
-primary_keyword: flights from nairobi to entebbe today
+primary_keyword: 'flights from nairobi to entebbe today'
 secondary_keywords:
-- kq flight from nairobi to entebbe
-- kenya airways flight schedule jfk to nairobi
-- kq flight from london to nairobi today
-- kenya airways flight schedule nairobi to harare
-- kenya airways flight from nairobi to dubai
+- 'kq flight from nairobi to entebbe'
+- 'kenya airways flight schedule jfk to nairobi'
+- 'kq flight from london to nairobi today'
+- 'kenya airways flight schedule nairobi to harare'
+- 'kenya airways flight from nairobi to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

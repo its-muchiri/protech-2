@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Garissa: Complete Guide'
-description: Everything you need to know about flights nairobi to garissa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to garissa, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-garissa
-primary_keyword: flights nairobi to garissa
+primary_keyword: 'flights nairobi to garissa'
 secondary_keywords:
-- emirates flight from nairobi to dubai yesterday
-- does emirates fly to colombo
-- emirates lounge nairobi airport
-- emirates dxb nairobi
-- emirates nairobi lounge
+- 'emirates flight from nairobi to dubai yesterday'
+- 'does emirates fly to colombo'
+- 'emirates lounge nairobi airport'
+- 'emirates dxb nairobi'
+- 'emirates nairobi lounge'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Mogadishu: Complete Guide'
-description: Everything you need to know about flights nairobi to mogadishu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to mogadishu, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-mogadishu
-primary_keyword: flights nairobi to mogadishu
+primary_keyword: 'flights nairobi to mogadishu'
 secondary_keywords:
-- emirates ek 8
-- how long is flight from nairobi to qatar
-- does qatar airways fly direct to toronto
-- qatar airways frankfurt nairobi
-- qatar airways nairobi office contacts
+- 'emirates ek 8'
+- 'how long is flight from nairobi to qatar'
+- 'does qatar airways fly direct to toronto'
+- 'qatar airways frankfurt nairobi'
+- 'qatar airways nairobi office contacts'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

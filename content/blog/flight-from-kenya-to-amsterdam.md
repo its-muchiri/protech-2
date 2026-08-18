@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kenya to Amsterdam: Complete Guide'
-description: Everything you need to know about flight from kenya to amsterdam, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kenya to amsterdam, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kenya-to-amsterdam
-primary_keyword: flight from kenya to amsterdam
+primary_keyword: 'flight from kenya to amsterdam'
 secondary_keywords:
-- emirates holidays nairobi
-- emirates recruitment nairobi
-- fly emirates from kenya to dubai
-- emirates kenya contacts
-- emirates flight from kenya to uk
+- 'emirates holidays nairobi'
+- 'emirates recruitment nairobi'
+- 'fly emirates from kenya to dubai'
+- 'emirates kenya contacts'
+- 'emirates flight from kenya to uk'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

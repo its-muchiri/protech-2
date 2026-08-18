@@ -1,14 +1,14 @@
 ---
 title: 'Self Drive 4x4 Rental Kenya Safari (risky, Needs Research): Complete Guide'
-description: Kenya safari guide covering self drive 4x4 rental kenya safari (risky, needs research), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering self drive 4x4 rental kenya safari (risky, needs research), including what is included, pricing, and booking advice.'
 slug: self-drive-4x4-rental-kenya-safari-risky-needs-research
-primary_keyword: Self drive 4x4 rental Kenya safari (risky, needs research)
+primary_keyword: 'Self drive 4x4 rental Kenya safari (risky, needs research)'
 secondary_keywords:
-- Senior Kenya safari tours
-- What is the best Kenya safari
-- Travel insurance for Kenya safari
-- Budget camping safari Kenya solo traveler
-- Budget overland truck safari Nairobi start
+- 'Senior Kenya safari tours'
+- 'What is the best Kenya safari'
+- 'Travel insurance for Kenya safari'
+- 'Budget camping safari Kenya solo traveler'
+- 'Budget overland truck safari Nairobi start'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

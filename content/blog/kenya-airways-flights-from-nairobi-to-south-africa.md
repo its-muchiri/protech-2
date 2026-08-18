@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights from Nairobi to South Africa: Complete Guide'
-description: Everything you need to know about kenya airways flights from nairobi to south africa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights from nairobi to south africa, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-from-nairobi-to-south-africa
-primary_keyword: kenya airways flights from nairobi to south africa
+primary_keyword: 'kenya airways flights from nairobi to south africa'
 secondary_keywords:
-- emirates flights from zanzibar to dubai
-- emirates flight 0221
-- emirates flights from newcastle 2023
-- emirates flight 333
-- emirates flight 412
+- 'emirates flights from zanzibar to dubai'
+- 'emirates flight 0221'
+- 'emirates flights from newcastle 2023'
+- 'emirates flight 333'
+- 'emirates flight 412'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

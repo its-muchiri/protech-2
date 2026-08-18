@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Mombasa from Birmingham: Complete Guide'
-description: Everything you need to know about flights to mombasa from birmingham, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to mombasa from birmingham, including routes, airlines, booking tips, and fares.'
 slug: flights-to-mombasa-from-birmingham
-primary_keyword: flights to mombasa from birmingham
+primary_keyword: 'flights to mombasa from birmingham'
 secondary_keywords:
-- flights from mombasa to kilimanjaro
-- cheap flights to mombasa from london
-- flights from mombasa to nairobi jambojet
-- flight from kisumu to mombasa price in ksh
-- flights from mombasa to singapore
+- 'flights from mombasa to kilimanjaro'
+- 'cheap flights to mombasa from london'
+- 'flights from mombasa to nairobi jambojet'
+- 'flight from kisumu to mombasa price in ksh'
+- 'flights from mombasa to singapore'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

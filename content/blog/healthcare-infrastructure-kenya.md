@@ -1,14 +1,14 @@
 ---
 title: 'BEST Healthcare Infrastructure Kenya: 2026 Price Guide'
-description: Kenya buying guide to healthcare infrastructure kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to healthcare infrastructure kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: healthcare-infrastructure-kenya
-primary_keyword: healthcare infrastructure Kenya
+primary_keyword: 'healthcare infrastructure Kenya'
 secondary_keywords:
-- Hospital incinerator manufacturers in Kenya
-- Malaria RDTs bulk price for NGOs
-- Vaccine refrigerator and freezer price
-- Industrial washing machine for hospital laundry
-- Medical equipment trade-in programs Kenya
+- 'Hospital incinerator manufacturers in Kenya'
+- 'Malaria RDTs bulk price for NGOs'
+- 'Vaccine refrigerator and freezer price'
+- 'Industrial washing machine for hospital laundry'
+- 'Medical equipment trade-in programs Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

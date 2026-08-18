@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Tehran Today: Complete Guide'
-description: Everything you need to know about emirates flights from tehran today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from tehran today, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-tehran-today
-primary_keyword: emirates flights from tehran today
+primary_keyword: 'emirates flights from tehran today'
 secondary_keywords:
-- flights nairobi to london today
-- nairobi to mombasa flights price
-- nairobi to nakuru flights
-- flight nairobi to pemba island
-- qatar airways flights to nairobi
+- 'flights nairobi to london today'
+- 'nairobi to mombasa flights price'
+- 'nairobi to nakuru flights'
+- 'flight nairobi to pemba island'
+- 'qatar airways flights to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

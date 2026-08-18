@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Venice: Complete Guide'
-description: Everything you need to know about emirates flights from venice, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from venice, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-venice
-primary_keyword: emirates flights from venice
+primary_keyword: 'emirates flights from venice'
 secondary_keywords:
-- return flight from nairobi to dubai price
-- air india flight from delhi to nairobi status
-- flight from nairobi to uk cost
-- flight from nairobi to washington dc
-- flight yaounde to nairobi
+- 'return flight from nairobi to dubai price'
+- 'air india flight from delhi to nairobi status'
+- 'flight from nairobi to uk cost'
+- 'flight from nairobi to washington dc'
+- 'flight yaounde to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

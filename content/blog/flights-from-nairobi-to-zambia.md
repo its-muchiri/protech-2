@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Zambia: Complete Guide'
-description: Everything you need to know about flights from nairobi to zambia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to zambia, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-zambia
-primary_keyword: flights from nairobi to zambia
+primary_keyword: 'flights from nairobi to zambia'
 secondary_keywords:
-- flights nairobi to kigali
-- flights nairobi to lusaka
-- flights nairobi to migori
-- new york to nairobi flights
-- flights nairobi to perth australia
+- 'flights nairobi to kigali'
+- 'flights nairobi to lusaka'
+- 'flights nairobi to migori'
+- 'new york to nairobi flights'
+- 'flights nairobi to perth australia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

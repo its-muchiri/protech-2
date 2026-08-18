@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Nairobi Office Phone Number: Complete Guide'
-description: Everything you need to know about turkish airlines nairobi office phone number, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines nairobi office phone number, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-nairobi-office-phone-number
-primary_keyword: turkish airlines nairobi office phone number
+primary_keyword: 'turkish airlines nairobi office phone number'
 secondary_keywords:
-- kq flight from nairobi to mombasa price
-- kenya airways flight schedule nairobi to mumbai
-- kenya airways flights from nairobi to amsterdam
-- kenya airways flying blue contacts nairobi
-- is kenya airways safe
+- 'kq flight from nairobi to mombasa price'
+- 'kenya airways flight schedule nairobi to mumbai'
+- 'kenya airways flights from nairobi to amsterdam'
+- 'kenya airways flying blue contacts nairobi'
+- 'is kenya airways safe'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

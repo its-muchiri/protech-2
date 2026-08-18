@@ -1,14 +1,14 @@
 ---
 title: 'Ticket from Kenya to Germany: Complete Guide'
-description: Everything you need to know about ticket from kenya to germany, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ticket from kenya to germany, including routes, airlines, booking tips, and fares.'
 slug: ticket-from-kenya-to-germany
-primary_keyword: ticket from kenya to germany
+primary_keyword: 'ticket from kenya to germany'
 secondary_keywords:
-- flights to mombasa cost
-- flights to mombasa direct
-- flights from mombasa to johannesburg
-- flight from nairobi to mombasa how many hours
-- international flights from mombasa
+- 'flights to mombasa cost'
+- 'flights to mombasa direct'
+- 'flights from mombasa to johannesburg'
+- 'flight from nairobi to mombasa how many hours'
+- 'international flights from mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

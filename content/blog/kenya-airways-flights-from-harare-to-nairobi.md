@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights from Harare to Nairobi: Complete Guide'
-description: Everything you need to know about kenya airways flights from harare to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights from harare to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-from-harare-to-nairobi
-primary_keyword: kenya airways flights from harare to nairobi
+primary_keyword: 'kenya airways flights from harare to nairobi'
 secondary_keywords:
-- flights from perth to nairobi kenya
-- are there flights from qatar to kenya
-- flights from rwanda to kenya today
-- flights to kenya from sfo
-- flights from kenya to victoria falls
+- 'flights from perth to nairobi kenya'
+- 'are there flights from qatar to kenya'
+- 'flights from rwanda to kenya today'
+- 'flights to kenya from sfo'
+- 'flights from kenya to victoria falls'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

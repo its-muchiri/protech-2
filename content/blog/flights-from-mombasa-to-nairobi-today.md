@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Nairobi Today: Complete Guide'
-description: Everything you need to know about flights from mombasa to nairobi today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to nairobi today, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-nairobi-today
-primary_keyword: flights from mombasa to nairobi today
+primary_keyword: 'flights from mombasa to nairobi today'
 secondary_keywords:
-- flights from mombasa to seychelles
-- flights from uganda to mombasa
-- how much is a flight from mombasa to nairobi
-- does british airways fly to kazakhstan
-- flight prices from kisumu to nairobi
+- 'flights from mombasa to seychelles'
+- 'flights from uganda to mombasa'
+- 'how much is a flight from mombasa to nairobi'
+- 'does british airways fly to kazakhstan'
+- 'flight prices from kisumu to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: '64-slice Refurbished CT Scanner Cost in Kenya: 2026 Price Guide'
-description: Kenya buying guide to 64-slice refurbished ct scanner cost in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to 64-slice refurbished ct scanner cost in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: 64-slice-refurbished-ct-scanner-cost-in-kenya
-primary_keyword: 64-slice refurbished CT scanner cost in Kenya
+primary_keyword: '64-slice refurbished CT scanner cost in Kenya'
 secondary_keywords:
-- cheap medical equipment Kenya
-- medical supplies Kisumu
-- latex gloves Kenya box price
-- IV fluids Kenya 500ml price
-- medical scrubs Kenya uniform
+- 'cheap medical equipment Kenya'
+- 'medical supplies Kisumu'
+- 'latex gloves Kenya box price'
+- 'IV fluids Kenya 500ml price'
+- 'medical scrubs Kenya uniform'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

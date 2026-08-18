@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Eldoret to Nairobi Time: Complete Guide'
-description: Everything you need to know about flight from eldoret to nairobi time, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from eldoret to nairobi time, including routes, airlines, booking tips, and fares.'
 slug: flight-from-eldoret-to-nairobi-time
-primary_keyword: flight from eldoret to nairobi time
+primary_keyword: 'flight from eldoret to nairobi time'
 secondary_keywords:
-- ethiopian airlines phone number nairobi
-- ethiopian airlines contact number kenya
-- turkish airlines flight schedule to nairobi
-- flight ticket from kenya to south africa
-- flight booking agents in kenya
+- 'ethiopian airlines phone number nairobi'
+- 'ethiopian airlines contact number kenya'
+- 'turkish airlines flight schedule to nairobi'
+- 'flight ticket from kenya to south africa'
+- 'flight booking agents in kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

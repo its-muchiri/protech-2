@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Brisbane Australia: Complete Guide'
-description: Everything you need to know about flights from nairobi to brisbane australia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to brisbane australia, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-brisbane-australia
-primary_keyword: flights from nairobi to brisbane australia
+primary_keyword: 'flights from nairobi to brisbane australia'
 secondary_keywords:
-- flight from nairobi to houston tx
-- indigo flight from nairobi to mumbai
-- jambojet flight from nairobi to lamu
-- last flight from nairobi to mombasa
-- flight from nairobi to mogadishu
+- 'flight from nairobi to houston tx'
+- 'indigo flight from nairobi to mumbai'
+- 'jambojet flight from nairobi to lamu'
+- 'last flight from nairobi to mombasa'
+- 'flight from nairobi to mogadishu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

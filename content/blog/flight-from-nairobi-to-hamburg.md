@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Hamburg: Complete Guide'
-description: Everything you need to know about flight from nairobi to hamburg, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to hamburg, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-hamburg
-primary_keyword: flight from nairobi to hamburg
+primary_keyword: 'flight from nairobi to hamburg'
 secondary_keywords:
-- kq flight to qatar
-- kq flight status lhr to nbo
-- wb flight
-- kq 001
-- kq 203 flight status today
+- 'kq flight to qatar'
+- 'kq flight status lhr to nbo'
+- 'wb flight'
+- 'kq 001'
+- 'kq 203 flight status today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

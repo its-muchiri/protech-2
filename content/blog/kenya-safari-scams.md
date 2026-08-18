@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Scams: Complete Guide'
-description: Kenya safari guide covering kenya safari scams, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari scams, including what is included, pricing, and booking advice.'
 slug: kenya-safari-scams
-primary_keyword: Kenya safari scams
+primary_keyword: 'Kenya safari scams'
 secondary_keywords:
-- Kenya tented camps
-- Night game drive Kenya
-- Photography workshop Kenya safari
-- Kenya wildlife viewing
-- Kenya Zanzibar safari
+- 'Kenya tented camps'
+- 'Night game drive Kenya'
+- 'Photography workshop Kenya safari'
+- 'Kenya wildlife viewing'
+- 'Kenya Zanzibar safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

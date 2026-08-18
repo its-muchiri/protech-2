@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Is in Which Country: Complete Guide'
-description: Everything you need to know about emirates is in which country, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates is in which country, including routes, airlines, booking tips, and fares.'
 slug: emirates-is-in-which-country
-primary_keyword: emirates is in which country
+primary_keyword: 'emirates is in which country'
 secondary_keywords:
-- 540 flight from nairobi to lodwar today
-- turkish airlines from nairobi to istanbul
-- turkish airlines nairobi contact number
-- flight from nairobi to turkey
-- kenya to turkey ticket price
+- '540 flight from nairobi to lodwar today'
+- 'turkish airlines from nairobi to istanbul'
+- 'turkish airlines nairobi contact number'
+- 'flight from nairobi to turkey'
+- 'kenya to turkey ticket price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

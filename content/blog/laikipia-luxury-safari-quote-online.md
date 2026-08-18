@@ -1,14 +1,14 @@
 ---
 title: 'Laikipia Luxury Safari Quote Online: Complete Guide'
-description: Kenya safari guide covering laikipia luxury safari quote online, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering laikipia luxury safari quote online, including what is included, pricing, and booking advice.'
 slug: laikipia-luxury-safari-quote-online
-primary_keyword: Laikipia luxury safari quote online
+primary_keyword: 'Laikipia luxury safari quote online'
 secondary_keywords:
-- Buy Laikipia luxury safari booking
-- Secure Great Rift Valley lakes tour booking
-- Buy weekend Kenya safari getaway booking
-- Reserve 5 day family fly-in Amboseli package
-- Amboseli tour package price quote
+- 'Buy Laikipia luxury safari booking'
+- 'Secure Great Rift Valley lakes tour booking'
+- 'Buy weekend Kenya safari getaway booking'
+- 'Reserve 5 day family fly-in Amboseli package'
+- 'Amboseli tour package price quote'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: '540 Flight from Nairobi to Lodwar: Complete Guide'
-description: Everything you need to know about 540 flight from nairobi to lodwar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about 540 flight from nairobi to lodwar, including routes, airlines, booking tips, and fares.'
 slug: 540-flight-from-nairobi-to-lodwar
-primary_keyword: 540 flight from nairobi to lodwar
+primary_keyword: '540 flight from nairobi to lodwar'
 secondary_keywords:
-- flights nairobi to jhb
-- flights nairobi to kilimanjaro airport
-- london to nairobi direct flights
-- mogadishu to nairobi flights time
-- flights to nairobi one way
+- 'flights nairobi to jhb'
+- 'flights nairobi to kilimanjaro airport'
+- 'london to nairobi direct flights'
+- 'mogadishu to nairobi flights time'
+- 'flights to nairobi one way'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

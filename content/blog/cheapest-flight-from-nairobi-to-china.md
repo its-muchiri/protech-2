@@ -1,14 +1,14 @@
 ---
 title: 'Cheapest Flight from Nairobi to China: Complete Guide'
-description: Everything you need to know about cheapest flight from nairobi to china, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheapest flight from nairobi to china, including routes, airlines, booking tips, and fares.'
 slug: cheapest-flight-from-nairobi-to-china
-primary_keyword: cheapest flight from nairobi to china
+primary_keyword: 'cheapest flight from nairobi to china'
 secondary_keywords:
-- emirates flight 953
-- qatar airways arrival nairobi today
-- qatar airways careers nairobi cabin crew
-- qatar airways nairobi jobs
-- qatar airways nairobi office address
+- 'emirates flight 953'
+- 'qatar airways arrival nairobi today'
+- 'qatar airways careers nairobi cabin crew'
+- 'qatar airways nairobi jobs'
+- 'qatar airways nairobi office address'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi to Homa Bay Flights: Complete Guide'
-description: Everything you need to know about nairobi to homa bay flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about nairobi to homa bay flights, including routes, airlines, booking tips, and fares.'
 slug: nairobi-to-homa-bay-flights
-primary_keyword: nairobi to homa bay flights
+primary_keyword: 'nairobi to homa bay flights'
 secondary_keywords:
-- flight from eldoret to entebbe
-- kq flights from eldoret to nairobi
-- kq flights from nairobi to eldoret price tomorrow
-- kq flights to kisumu
-- kq flights from south africa today
+- 'flight from eldoret to entebbe'
+- 'kq flights from eldoret to nairobi'
+- 'kq flights from nairobi to eldoret price tomorrow'
+- 'kq flights to kisumu'
+- 'kq flights from south africa today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

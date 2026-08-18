@@ -1,14 +1,14 @@
 ---
 title: 'Time-Sensitive/Urgency (Last Minute, Availability, Specific Dates/months): Complete Guide'
-description: Kenya safari guide covering time-sensitive/urgency (last minute, availability, specific dates/months), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering time-sensitive/urgency (last minute, availability, specific dates/months), including what is included, pricing, and booking advice.'
 slug: time-sensitive-urgency-last-minute-availability-specific-dates-months
-primary_keyword: Time-Sensitive/Urgency (Last minute, Availability, Specific dates/months)
+primary_keyword: 'Time-Sensitive/Urgency (Last minute, Availability, Specific dates/months)'
 secondary_keywords:
-- Angama Mara safari package cost
-- Romantic Kenya safari package deals
-- Discounted Kenya safari tours purchase
-- Kenya Zanzibar beach safari package deal
-- Book Northern circuit Kenya safari package
+- 'Angama Mara safari package cost'
+- 'Romantic Kenya safari package deals'
+- 'Discounted Kenya safari tours purchase'
+- 'Kenya Zanzibar beach safari package deal'
+- 'Book Northern circuit Kenya safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

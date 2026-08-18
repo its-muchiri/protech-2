@@ -1,14 +1,14 @@
 ---
 title: 'Book Senior Friendly Kenya Safari Package Easy Pace: Complete Guide'
-description: Kenya safari guide covering book senior friendly kenya safari package easy pace, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book senior friendly kenya safari package easy pace, including what is included, pricing, and booking advice.'
 slug: book-senior-friendly-kenya-safari-package-easy-pace
-primary_keyword: Book senior friendly Kenya safari package easy pace
+primary_keyword: 'Book senior friendly Kenya safari package easy pace'
 secondary_keywords:
-- August Masai Mara migration package deals
-- Reserve tour with  Kenya
-- Choose best Kenya safari tour operator
-- Cultural experience included Kenya safari package booking
-- Budget Kenya tour package deal
+- 'August Masai Mara migration package deals'
+- 'Reserve tour with  Kenya'
+- 'Choose best Kenya safari tour operator'
+- 'Cultural experience included Kenya safari package booking'
+- 'Budget Kenya tour package deal'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

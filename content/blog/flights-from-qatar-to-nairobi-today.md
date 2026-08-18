@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Qatar to Nairobi Today: Complete Guide'
-description: Everything you need to know about flights from qatar to nairobi today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from qatar to nairobi today, including routes, airlines, booking tips, and fares.'
 slug: flights-from-qatar-to-nairobi-today
-primary_keyword: flights from qatar to nairobi today
+primary_keyword: 'flights from qatar to nairobi today'
 secondary_keywords:
-- flights to kisumu prices
-- who flies to zambia
-- cheapest flights from eldoret to mombasa
-- flight from nairobi to eldoret jambojet price today
-- flight from eldoret to nairobi time
+- 'flights to kisumu prices'
+- 'who flies to zambia'
+- 'cheapest flights from eldoret to mombasa'
+- 'flight from nairobi to eldoret jambojet price today'
+- 'flight from eldoret to nairobi time'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

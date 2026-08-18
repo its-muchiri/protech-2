@@ -1,14 +1,14 @@
 ---
 title: 'Flights from or Tambo to Kenya: Complete Guide'
-description: Everything you need to know about flights from or tambo to kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from or tambo to kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-or-tambo-to-kenya
-primary_keyword: flights from or tambo to kenya
+primary_keyword: 'flights from or tambo to kenya'
 secondary_keywords:
-- qatar airways recruitment nairobi kenya
-- qatar airways nairobi project
-- kenya airways flights from accra to freetown
-- kq flight from dubai to nairobi today timetable
-- kq flight from jfk to nairobi
+- 'qatar airways recruitment nairobi kenya'
+- 'qatar airways nairobi project'
+- 'kenya airways flights from accra to freetown'
+- 'kq flight from dubai to nairobi today timetable'
+- 'kq flight from jfk to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

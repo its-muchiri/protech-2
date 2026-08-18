@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Addis: Complete Guide'
-description: Everything you need to know about flights nairobi to addis, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to addis, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-addis
-primary_keyword: flights nairobi to addis
+primary_keyword: 'flights nairobi to addis'
 secondary_keywords:
-- flights from nairobi to uk
-- flights from nairobi to las vegas
-- flights from kisumu to nairobi wilson
-- flight from nairobi to zanzibar time
-- flights to nairobi today
+- 'flights from nairobi to uk'
+- 'flights from nairobi to las vegas'
+- 'flights from kisumu to nairobi wilson'
+- 'flight from nairobi to zanzibar time'
+- 'flights to nairobi today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

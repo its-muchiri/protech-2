@@ -1,14 +1,14 @@
 ---
 title: 'Luxury Family Fly-in Safari Laikipia Ol Pejeta Combo: Complete Guide'
-description: Kenya safari guide covering luxury family fly-in safari laikipia ol pejeta combo, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering luxury family fly-in safari laikipia ol pejeta combo, including what is included, pricing, and booking advice.'
 slug: luxury-family-fly-in-safari-laikipia-ol-pejeta-combo
-primary_keyword: Luxury family fly-in safari Laikipia Ol Pejeta combo
+primary_keyword: 'Luxury family fly-in safari Laikipia Ol Pejeta combo'
 secondary_keywords:
-- Secure 21 day comprehensive Kenya trip purchase
-- Reserve Great Migration safari package booking
-- Request price list Kenya safari packages
-- Cost per person 8 day Kenya discovery package
-- Price list 6 day group joining Nakuru Mara safari
+- 'Secure 21 day comprehensive Kenya trip purchase'
+- 'Reserve Great Migration safari package booking'
+- 'Request price list Kenya safari packages'
+- 'Cost per person 8 day Kenya discovery package'
+- 'Price list 6 day group joining Nakuru Mara safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

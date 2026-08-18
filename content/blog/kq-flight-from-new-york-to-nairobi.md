@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from New York to Nairobi: Complete Guide'
-description: Everything you need to know about kq flight from new york to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from new york to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-new-york-to-nairobi
-primary_keyword: kq flight from new york to nairobi
+primary_keyword: 'kq flight from new york to nairobi'
 secondary_keywords:
-- jkia flight from nairobi to mombasa
-- flight from nairobi to london today
-- flight from nairobi to malindi price
-- flight from nairobi to oman
-- flight from nairobi to prague
+- 'jkia flight from nairobi to mombasa'
+- 'flight from nairobi to london today'
+- 'flight from nairobi to malindi price'
+- 'flight from nairobi to oman'
+- 'flight from nairobi to prague'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

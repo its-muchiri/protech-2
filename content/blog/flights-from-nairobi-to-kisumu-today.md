@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Kisumu Today: Complete Guide'
-description: Everything you need to know about flights from nairobi to kisumu today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to kisumu today, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-kisumu-today
-primary_keyword: flights from nairobi to kisumu today
+primary_keyword: 'flights from nairobi to kisumu today'
 secondary_keywords:
-- how many airlines are in kenya
-- flight kenya london
-- flights to kenya in november
-- qatar airways in kenya
-- flights kenya to johannesburg
+- 'how many airlines are in kenya'
+- 'flight kenya london'
+- 'flights to kenya in november'
+- 'qatar airways in kenya'
+- 'flights kenya to johannesburg'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 0210: Complete Guide'
-description: Everything you need to know about emirates flight 0210, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 0210, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-0210
-primary_keyword: emirates flight 0210
+primary_keyword: 'emirates flight 0210'
 secondary_keywords:
-- kenya airways flight from nairobi to dar es salaam
-- kenya airways flight from nairobi to heathrow
-- kenya airways flight from nairobi to london today
-- kenya airways flight from nairobi to new york
-- kq flight from kisumu to nairobi
+- 'kenya airways flight from nairobi to dar es salaam'
+- 'kenya airways flight from nairobi to heathrow'
+- 'kenya airways flight from nairobi to london today'
+- 'kenya airways flight from nairobi to new york'
+- 'kq flight from kisumu to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

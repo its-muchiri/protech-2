@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari for First-timers: Complete Guide'
-description: Kenya safari guide covering kenya safari for first-timers, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari for first-timers, including what is included, pricing, and booking advice.'
 slug: kenya-safari-for-first-timers
-primary_keyword: Kenya safari for first-timers
+primary_keyword: 'Kenya safari for first-timers'
 secondary_keywords:
-- Kenya safari from India
-- Kenya safari in August (Migration)
-- Kenya safari packages
-- Senior Kenya safari tours
-- What is the best Kenya safari
+- 'Kenya safari from India'
+- 'Kenya safari in August (Migration)'
+- 'Kenya safari packages'
+- 'Senior Kenya safari tours'
+- 'What is the best Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

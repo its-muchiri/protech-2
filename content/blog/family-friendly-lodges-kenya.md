@@ -1,14 +1,14 @@
 ---
 title: 'Family Friendly Lodges Kenya: Complete Guide'
-description: Kenya safari guide covering family friendly lodges kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering family friendly lodges kenya, including what is included, pricing, and booking advice.'
 slug: family-friendly-lodges-kenya
-primary_keyword: Family friendly lodges Kenya
+primary_keyword: 'Family friendly lodges Kenya'
 secondary_keywords:
-- Family safari lodge with kids club Kenya
-- Birding specialist guide Kenya Aberdares
-- Fly fishing Mount Kenya safari
-- Kenya safari map
-- Impact of climate change Kenya safari
+- 'Family safari lodge with kids club Kenya'
+- 'Birding specialist guide Kenya Aberdares'
+- 'Fly fishing Mount Kenya safari'
+- 'Kenya safari map'
+- 'Impact of climate change Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

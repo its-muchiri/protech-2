@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is Flight from Mombasa to Nairobi: Complete Guide'
-description: Everything you need to know about how much is flight from mombasa to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is flight from mombasa to nairobi, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-flight-from-mombasa-to-nairobi
-primary_keyword: how much is flight from mombasa to nairobi
+primary_keyword: 'how much is flight from mombasa to nairobi'
 secondary_keywords:
-- flight from kisumu to kigali
-- flights from kisumu to migori
-- safarilink flights from kisumu to nairobi today timetable
-- available flights from eldoret to nairobi
-- flights from eldoret to isiolo
+- 'flight from kisumu to kigali'
+- 'flights from kisumu to migori'
+- 'safarilink flights from kisumu to nairobi today timetable'
+- 'available flights from eldoret to nairobi'
+- 'flights from eldoret to isiolo'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

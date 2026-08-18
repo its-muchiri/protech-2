@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Departures Nairobi Today: Complete Guide'
-description: Everything you need to know about turkish airlines departures nairobi today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines departures nairobi today, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-departures-nairobi-today
-primary_keyword: turkish airlines departures nairobi today
+primary_keyword: 'turkish airlines departures nairobi today'
 secondary_keywords:
-- emirates from kenya
-- emirates booking kenya
-- emirates flight kenya to dubai
-- emirates airlines kenya office
-- 1 dubai currency to kenyan shillings
+- 'emirates from kenya'
+- 'emirates booking kenya'
+- 'emirates flight kenya to dubai'
+- 'emirates airlines kenya office'
+- '1 dubai currency to kenyan shillings'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

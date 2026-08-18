@@ -1,14 +1,14 @@
 ---
 title: 'All-inclusive Kenya Safari Packages Price Comparison: Complete Guide'
-description: Kenya safari guide covering all-inclusive kenya safari packages price comparison, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering all-inclusive kenya safari packages price comparison, including what is included, pricing, and booking advice.'
 slug: all-inclusive-kenya-safari-packages-price-comparison
-primary_keyword: All-inclusive Kenya safari packages price comparison
+primary_keyword: 'All-inclusive Kenya safari packages price comparison'
 secondary_keywords:
-- Reserve Lake Nakuru package
-- Book 7 day luxury Masai Mara package
-- Cost of 15 day comprehensive Kenya safari package premium
-- Quote for 7 day Kenya golf and safari package
-- Reserve 13 day Kenya grand tour all-inclusive package
+- 'Reserve Lake Nakuru package'
+- 'Book 7 day luxury Masai Mara package'
+- 'Cost of 15 day comprehensive Kenya safari package premium'
+- 'Quote for 7 day Kenya golf and safari package'
+- 'Reserve 13 day Kenya grand tour all-inclusive package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

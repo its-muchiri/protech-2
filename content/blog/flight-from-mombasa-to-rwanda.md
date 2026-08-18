@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Mombasa to Rwanda: Complete Guide'
-description: Everything you need to know about flight from mombasa to rwanda, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from mombasa to rwanda, including routes, airlines, booking tips, and fares.'
 slug: flight-from-mombasa-to-rwanda
-primary_keyword: flight from mombasa to rwanda
+primary_keyword: 'flight from mombasa to rwanda'
 secondary_keywords:
-- emirates flights from bangalore to dubai
-- emirates flights from cairo to dubai
-- emirates flights from dubai to manchester today
-- emirates flights to europe from dubai
-- does emirates fly to frankfurt
+- 'emirates flights from bangalore to dubai'
+- 'emirates flights from cairo to dubai'
+- 'emirates flights from dubai to manchester today'
+- 'emirates flights to europe from dubai'
+- 'does emirates fly to frankfurt'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

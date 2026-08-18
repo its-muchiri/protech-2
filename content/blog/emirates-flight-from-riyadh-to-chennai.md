@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight from Riyadh to Chennai: Complete Guide'
-description: Everything you need to know about emirates flight from riyadh to chennai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight from riyadh to chennai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-from-riyadh-to-chennai
-primary_keyword: emirates flight from riyadh to chennai
+primary_keyword: 'emirates flight from riyadh to chennai'
 secondary_keywords:
-- ethiopian airlines nairobi office
-- qatar airways flight from kenya to doha
-- flights nairobi to kisumu
-- kenya airways flights to nairobi
-- ba flights nairobi to london
+- 'ethiopian airlines nairobi office'
+- 'qatar airways flight from kenya to doha'
+- 'flights nairobi to kisumu'
+- 'kenya airways flights to nairobi'
+- 'ba flights nairobi to london'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

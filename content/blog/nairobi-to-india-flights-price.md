@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi to India Flights Price: Complete Guide'
-description: Everything you need to know about nairobi to india flights price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about nairobi to india flights price, including routes, airlines, booking tips, and fares.'
 slug: nairobi-to-india-flights-price
-primary_keyword: nairobi to india flights price
+primary_keyword: 'nairobi to india flights price'
 secondary_keywords:
-- flights from saudi arabia to nairobi
-- ba flights nairobi to london today
-- cheap flights nairobi to dubai
-- nairobi to dar es salaam flights
-- flights to nairobi from mombasa
+- 'flights from saudi arabia to nairobi'
+- 'ba flights nairobi to london today'
+- 'cheap flights nairobi to dubai'
+- 'nairobi to dar es salaam flights'
+- 'flights to nairobi from mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Secure Honeymoon Kenya Safari Package Online: Complete Guide'
-description: Kenya safari guide covering secure honeymoon kenya safari package online, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering secure honeymoon kenya safari package online, including what is included, pricing, and booking advice.'
 slug: secure-honeymoon-kenya-safari-package-online
-primary_keyword: Secure honeymoon Kenya safari package online
+primary_keyword: 'Secure honeymoon Kenya safari package online'
 secondary_keywords:
-- All-inclusive Kenya safari package deals
-- Book Tsavo tour deal
-- Quote tailor-made Kenya package
-- Buy 6 day fly-in Masai Mara honeymoon package luxury camp
-- Book 3 day express Masai Mara fly-in package deal
+- 'All-inclusive Kenya safari package deals'
+- 'Book Tsavo tour deal'
+- 'Quote tailor-made Kenya package'
+- 'Buy 6 day fly-in Masai Mara honeymoon package luxury camp'
+- 'Book 3 day express Masai Mara fly-in package deal'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

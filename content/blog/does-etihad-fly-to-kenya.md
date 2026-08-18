@@ -1,14 +1,14 @@
 ---
 title: 'Does Etihad Fly to Kenya: Complete Guide'
-description: Everything you need to know about does etihad fly to kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about does etihad fly to kenya, including routes, airlines, booking tips, and fares.'
 slug: does-etihad-fly-to-kenya
-primary_keyword: does etihad fly to kenya
+primary_keyword: 'does etihad fly to kenya'
 secondary_keywords:
-- nairobi to bali flights
-- cheap flights nairobi to malindi
-- flights nairobi to edinburgh
-- flights to nairobi from entebbe
-- google flights nairobi to toronto
+- 'nairobi to bali flights'
+- 'cheap flights nairobi to malindi'
+- 'flights nairobi to edinburgh'
+- 'flights to nairobi from entebbe'
+- 'google flights nairobi to toronto'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

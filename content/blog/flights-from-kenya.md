@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya: Complete Guide'
-description: Everything you need to know about flights from kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya
-primary_keyword: flights from kenya
+primary_keyword: 'flights from kenya'
 secondary_keywords:
-- how much is the flight 748 from nairobi to kisumu
-- turkish airlines nairobi airport
-- turkish airlines nairobi
-- how do i confirm my flight with turkish airlines
-- turkish airlines nairobi phone number
+- 'how much is the flight 748 from nairobi to kisumu'
+- 'turkish airlines nairobi airport'
+- 'turkish airlines nairobi'
+- 'how do i confirm my flight with turkish airlines'
+- 'turkish airlines nairobi phone number'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights Cancelled: Complete Guide'
-description: Everything you need to know about kq flights cancelled, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights cancelled, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-cancelled
-primary_keyword: kq flights cancelled
+primary_keyword: 'kq flights cancelled'
 secondary_keywords:
-- kq 414 flight status
-- kq 554 flight status
-- kq 882 flight status
-- emirates airlines nairobi contacts
-- emirates airlines nairobi office phone number
+- 'kq 414 flight status'
+- 'kq 554 flight status'
+- 'kq 882 flight status'
+- 'emirates airlines nairobi contacts'
+- 'emirates airlines nairobi office phone number'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

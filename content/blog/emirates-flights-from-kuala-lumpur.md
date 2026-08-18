@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Kuala Lumpur: Complete Guide'
-description: Everything you need to know about emirates flights from kuala lumpur, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from kuala lumpur, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-kuala-lumpur
-primary_keyword: emirates flights from kuala lumpur
+primary_keyword: 'emirates flights from kuala lumpur'
 secondary_keywords:
-- flight ticket to kenya from lagos
-- ticket from kenya to south africa
-- flights in kenya
-- flights in wilson airport
-- flights to kenya cheap
+- 'flight ticket to kenya from lagos'
+- 'ticket from kenya to south africa'
+- 'flights in kenya'
+- 'flights in wilson airport'
+- 'flights to kenya cheap'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

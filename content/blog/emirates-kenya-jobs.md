@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Kenya Jobs: Complete Guide'
-description: Everything you need to know about emirates kenya jobs, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates kenya jobs, including routes, airlines, booking tips, and fares.'
 slug: emirates-kenya-jobs
-primary_keyword: emirates kenya jobs
+primary_keyword: 'emirates kenya jobs'
 secondary_keywords:
-- 540 flight from nairobi to lodwar today
-- turkish airlines from nairobi to istanbul
-- turkish airlines nairobi contact number
-- flight from nairobi to turkey
-- kenya to turkey ticket price
+- '540 flight from nairobi to lodwar today'
+- 'turkish airlines from nairobi to istanbul'
+- 'turkish airlines nairobi contact number'
+- 'flight from nairobi to turkey'
+- 'kenya to turkey ticket price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

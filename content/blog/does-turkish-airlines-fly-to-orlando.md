@@ -1,14 +1,14 @@
 ---
 title: 'Does Turkish Airlines Fly to Orlando: Complete Guide'
-description: Everything you need to know about does turkish airlines fly to orlando, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about does turkish airlines fly to orlando, including routes, airlines, booking tips, and fares.'
 slug: does-turkish-airlines-fly-to-orlando
-primary_keyword: does turkish airlines fly to orlando
+primary_keyword: 'does turkish airlines fly to orlando'
 secondary_keywords:
-- flights from nbo to yyc
-- flights from nairobi to zambia
-- flights from south africa to kenya today
-- international flights from nairobi
-- flights from nairobi to accra ghana
+- 'flights from nbo to yyc'
+- 'flights from nairobi to zambia'
+- 'flights from south africa to kenya today'
+- 'international flights from nairobi'
+- 'flights from nairobi to accra ghana'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Cultural Safari: Complete Guide'
-description: Kenya safari guide covering kenya cultural safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya cultural safari, including what is included, pricing, and booking advice.'
 slug: kenya-cultural-safari
-primary_keyword: Kenya cultural safari
+primary_keyword: 'Kenya cultural safari'
 secondary_keywords:
-- Book Kenya family safari package
-- Family adventure safari package Kenya
-- Promo code Kenya safari package
-- East Africa highlights tour package cost
-- Green season Kenya safari package booking
+- 'Book Kenya family safari package'
+- 'Family adventure safari package Kenya'
+- 'Promo code Kenya safari package'
+- 'East Africa highlights tour package cost'
+- 'Green season Kenya safari package booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

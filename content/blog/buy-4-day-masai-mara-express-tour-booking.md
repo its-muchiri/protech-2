@@ -1,14 +1,14 @@
 ---
 title: 'Buy 4 Day Masai Mara Express Tour Booking: Complete Guide'
-description: Kenya safari guide covering buy 4 day masai mara express tour booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy 4 day masai mara express tour booking, including what is included, pricing, and booking advice.'
 slug: buy-4-day-masai-mara-express-tour-booking
-primary_keyword: Buy 4 day Masai Mara express tour booking
+primary_keyword: 'Buy 4 day Masai Mara express tour booking'
 secondary_keywords:
-- Get custom Kenya safari package quote
-- 5 day Samburu safari package price
-- Amboseli view Kilimanjaro safari package book
-- Governors Camp Masai Mara package booking
-- Book Kenya honeymoon safari package
+- 'Get custom Kenya safari package quote'
+- '5 day Samburu safari package price'
+- 'Amboseli view Kilimanjaro safari package book'
+- 'Governors Camp Masai Mara package booking'
+- 'Book Kenya honeymoon safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

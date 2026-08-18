@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from Nairobi to Lagos Today: Complete Guide'
-description: Everything you need to know about kenya airways flight from nairobi to lagos today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from nairobi to lagos today, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-nairobi-to-lagos-today
-primary_keyword: kenya airways flight from nairobi to lagos today
+primary_keyword: 'kenya airways flight from nairobi to lagos today'
 secondary_keywords:
-- flights from frankfurt to kenya
-- germany flights from kenya
-- flight from kenya to hungary price
-- flights from nigeria to kenya is how much
-- flights from kenya to jfk today
+- 'flights from frankfurt to kenya'
+- 'germany flights from kenya'
+- 'flight from kenya to hungary price'
+- 'flights from nigeria to kenya is how much'
+- 'flights from kenya to jfk today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Cost of Flight from Nairobi to Homa Bay: Complete Guide'
-description: Everything you need to know about cost of flight from nairobi to homa bay, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cost of flight from nairobi to homa bay, including routes, airlines, booking tips, and fares.'
 slug: cost-of-flight-from-nairobi-to-homa-bay
-primary_keyword: cost of flight from nairobi to homa bay
+primary_keyword: 'cost of flight from nairobi to homa bay'
 secondary_keywords:
-- flight from nairobi to victoria falls
-- what is the cost of flight from nairobi to mombasa
-- flight from nairobi to zimbabwe
-- flight from nairobi to bahamas
-- flight 540 nairobi to diani
+- 'flight from nairobi to victoria falls'
+- 'what is the cost of flight from nairobi to mombasa'
+- 'flight from nairobi to zimbabwe'
+- 'flight from nairobi to bahamas'
+- 'flight 540 nairobi to diani'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

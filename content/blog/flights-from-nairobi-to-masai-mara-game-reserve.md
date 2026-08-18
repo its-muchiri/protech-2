@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Masai Mara Game Reserve: Complete Guide'
-description: Everything you need to know about flights from nairobi to masai mara game reserve, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to masai mara game reserve, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-masai-mara-game-reserve
-primary_keyword: flights from nairobi to masai mara game reserve
+primary_keyword: 'flights from nairobi to masai mara game reserve'
 secondary_keywords:
-- emirates flights from south africa to usa prices
-- emirates flights from dubai to birmingham today
-- cheapest emirates flights from london
-- emirates flights from edinburgh to dubai
-- emirates flights food
+- 'emirates flights from south africa to usa prices'
+- 'emirates flights from dubai to birmingham today'
+- 'cheapest emirates flights from london'
+- 'emirates flights from edinburgh to dubai'
+- 'emirates flights food'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Book Electric Vehicle Safari Kenya Eco-lodge Package UK Sustainable Transport Options Availability: Complete Guide'
-description: Kenya safari guide covering book electric vehicle safari kenya eco-lodge package uk sustainable transport options availability, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book electric vehicle safari kenya eco-lodge package uk sustainable transport options availability, including what is included, pricing, and booking advice.'
 slug: book-electric-vehicle-safari-kenya-eco-lodge-package-uk-sustainable-transport-options-availability
-primary_keyword: Book electric vehicle safari Kenya eco-lodge package UK sustainable transport options availability
+primary_keyword: 'Book electric vehicle safari Kenya eco-lodge package UK sustainable transport options availability'
 secondary_keywords:
-- Lock in rate for 10 day Kenya premium package
-- Get quote 5 day Kenya budget camping joining safari
-- Buy value package 10 day multi-park Kenya safari
-- Price 14 day Elewana Collection SkySafari Kenya package
-- Reserve 9 day Joy''s Camp Shaba Samburu package deal
+- 'Lock in rate for 10 day Kenya premium package'
+- 'Get quote 5 day Kenya budget camping joining safari'
+- 'Buy value package 10 day multi-park Kenya safari'
+- 'Price 14 day Elewana Collection SkySafari Kenya package'
+- 'Reserve 9 day Joy''''s Camp Shaba Samburu package deal'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

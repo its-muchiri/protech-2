@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight Schedule from Johannesburg to Nairobi: Complete Guide'
-description: Everything you need to know about kenya airways flight schedule from johannesburg to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight schedule from johannesburg to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-schedule-from-johannesburg-to-nairobi
-primary_keyword: kenya airways flight schedule from johannesburg to nairobi
+primary_keyword: 'kenya airways flight schedule from johannesburg to nairobi'
 secondary_keywords:
-- kenya airways in kenya
-- local flights in kenya today
-- flights to kenya november 2025
-- qatar airways in nairobi
-- flights kenya to south africa
+- 'kenya airways in kenya'
+- 'local flights in kenya today'
+- 'flights to kenya november 2025'
+- 'qatar airways in nairobi'
+- 'flights kenya to south africa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

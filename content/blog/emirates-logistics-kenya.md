@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Logistics Kenya: Complete Guide'
-description: Everything you need to know about emirates logistics kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates logistics kenya, including routes, airlines, booking tips, and fares.'
 slug: emirates-logistics-kenya
-primary_keyword: emirates logistics kenya
+primary_keyword: 'emirates logistics kenya'
 secondary_keywords:
-- ethiopian airlines flights from nairobi to dubai price
-- ethiopian airlines nairobi to mumbai
-- ethiopian airlines fares
-- turkish airlines istanbul to nairobi today
-- flight ticket from kenya to uk
+- 'ethiopian airlines flights from nairobi to dubai price'
+- 'ethiopian airlines nairobi to mumbai'
+- 'ethiopian airlines fares'
+- 'turkish airlines istanbul to nairobi today'
+- 'flight ticket from kenya to uk'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

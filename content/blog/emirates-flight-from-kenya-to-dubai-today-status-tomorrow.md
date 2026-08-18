@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight from Kenya to Dubai Today Status Tomorrow: Complete Guide'
-description: Everything you need to know about emirates flight from kenya to dubai today status tomorrow, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight from kenya to dubai today status tomorrow, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-from-kenya-to-dubai-today-status-tomorrow
-primary_keyword: emirates flight from kenya to dubai today status tomorrow
+primary_keyword: 'emirates flight from kenya to dubai today status tomorrow'
 secondary_keywords:
-- flights nairobi to sfo
-- flights nairobi to uk
-- nairobi to victoria falls flights
-- nairobi to windhoek flights
-- nairobi to zanzibar google flights
+- 'flights nairobi to sfo'
+- 'flights nairobi to uk'
+- 'nairobi to victoria falls flights'
+- 'nairobi to windhoek flights'
+- 'nairobi to zanzibar google flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

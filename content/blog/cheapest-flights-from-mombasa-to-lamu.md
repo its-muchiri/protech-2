@@ -1,14 +1,14 @@
 ---
 title: 'Cheapest Flights from Mombasa to Lamu: Complete Guide'
-description: Everything you need to know about cheapest flights from mombasa to lamu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheapest flights from mombasa to lamu, including routes, airlines, booking tips, and fares.'
 slug: cheapest-flights-from-mombasa-to-lamu
-primary_keyword: cheapest flights from mombasa to lamu
+primary_keyword: 'cheapest flights from mombasa to lamu'
 secondary_keywords:
-- kenya airways flights nairobi to london
-- flights nairobi to mogadishu
-- flight nairobi to nigeria
-- ord to nairobi flights
-- flight time nairobi to qatar
+- 'kenya airways flights nairobi to london'
+- 'flights nairobi to mogadishu'
+- 'flight nairobi to nigeria'
+- 'ord to nairobi flights'
+- 'flight time nairobi to qatar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

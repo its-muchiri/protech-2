@@ -1,14 +1,14 @@
 ---
 title: 'How Long Is a Flight from Nairobi to New York: Complete Guide'
-description: Everything you need to know about how long is a flight from nairobi to new york, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how long is a flight from nairobi to new york, including routes, airlines, booking tips, and fares.'
 slug: how-long-is-a-flight-from-nairobi-to-new-york
-primary_keyword: how long is a flight from nairobi to new york
+primary_keyword: 'how long is a flight from nairobi to new york'
 secondary_keywords:
-- emirates kenya contact number
-- emirates flights kenya
-- emirates kenya office
-- 1 uae dirham to kenyan shillings
-- ethiopian airlines nairobi airport office
+- 'emirates kenya contact number'
+- 'emirates flights kenya'
+- 'emirates kenya office'
+- '1 uae dirham to kenyan shillings'
+- 'ethiopian airlines nairobi airport office'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

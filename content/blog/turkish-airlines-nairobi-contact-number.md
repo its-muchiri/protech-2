@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Nairobi Contact Number: Complete Guide'
-description: Everything you need to know about turkish airlines nairobi contact number, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines nairobi contact number, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-nairobi-contact-number
-primary_keyword: turkish airlines nairobi contact number
+primary_keyword: 'turkish airlines nairobi contact number'
 secondary_keywords:
-- cheap flights from nairobi to amsterdam
-- cheap flights from nairobi to australia
-- flights from nairobi to kampala
-- safarilink flights from mombasa to nairobi
-- are there flights from mombasa to lamu
+- 'cheap flights from nairobi to amsterdam'
+- 'cheap flights from nairobi to australia'
+- 'flights from nairobi to kampala'
+- 'safarilink flights from mombasa to nairobi'
+- 'are there flights from mombasa to lamu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

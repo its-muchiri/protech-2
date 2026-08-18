@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Kisumu Kenya: Complete Guide'
-description: Everything you need to know about flights to kisumu kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to kisumu kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-to-kisumu-kenya
-primary_keyword: flights to kisumu kenya
+primary_keyword: 'flights to kisumu kenya'
 secondary_keywords:
-- flights to kenya uk
-- flights to zambia from nairobi
-- cheapest flights from kenya
-- are there direct flights from kenya to canada
-- cheap flights from birmingham to nairobi kenya
+- 'flights to kenya uk'
+- 'flights to zambia from nairobi'
+- 'cheapest flights from kenya'
+- 'are there direct flights from kenya to canada'
+- 'cheap flights from birmingham to nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from Nairobi to Eldoret Price Today: Complete Guide'
-description: Everything you need to know about kq flights from nairobi to eldoret price today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from nairobi to eldoret price today, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-nairobi-to-eldoret-price-today
-primary_keyword: kq flights from nairobi to eldoret price today
+primary_keyword: 'kq flights from nairobi to eldoret price today'
 secondary_keywords:
-- emirates flight 17
-- emirates airline 2 letter code
-- what planes do emirates use
-- emirates flight 524
-- emirates flights 777
+- 'emirates flight 17'
+- 'emirates airline 2 letter code'
+- 'what planes do emirates use'
+- 'emirates flight 524'
+- 'emirates flights 777'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

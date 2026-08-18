@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Nairobi to Accra: Complete Guide'
-description: Everything you need to know about ethiopian airlines nairobi to accra, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines nairobi to accra, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-nairobi-to-accra
-primary_keyword: ethiopian airlines nairobi to accra
+primary_keyword: 'ethiopian airlines nairobi to accra'
 secondary_keywords:
-- flights from kisumu to nairobi wilson
-- flight from nairobi to zanzibar time
-- flights to nairobi today
-- how much is a flight from nairobi to new york
-- flights from mombasa to amsterdam
+- 'flights from kisumu to nairobi wilson'
+- 'flight from nairobi to zanzibar time'
+- 'flights to nairobi today'
+- 'how much is a flight from nairobi to new york'
+- 'flights from mombasa to amsterdam'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Are There Direct Flights from Kenya to Canada: Complete Guide'
-description: Everything you need to know about are there direct flights from kenya to canada, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about are there direct flights from kenya to canada, including routes, airlines, booking tips, and fares.'
 slug: are-there-direct-flights-from-kenya-to-canada
-primary_keyword: are there direct flights from kenya to canada
+primary_keyword: 'are there direct flights from kenya to canada'
 secondary_keywords:
-- emirates flights from perth
-- emirates flights qantas
-- emirates flights from rome
-- emirates flights from sydney today
-- emirates flights from usa
+- 'emirates flights from perth'
+- 'emirates flights qantas'
+- 'emirates flights from rome'
+- 'emirates flights from sydney today'
+- 'emirates flights from usa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

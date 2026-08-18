@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Eldoret to Kisumu: Complete Guide'
-description: Everything you need to know about flights from eldoret to kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from eldoret to kisumu, including routes, airlines, booking tips, and fares.'
 slug: flights-from-eldoret-to-kisumu
-primary_keyword: flights from eldoret to kisumu
+primary_keyword: 'flights from eldoret to kisumu'
 secondary_keywords:
-- flight from nairobi to vancouver
-- what time is the first flight from nairobi to mombasa
-- flight from nairobi to zambia
-- how much is flight from nairobi to lagos
-- flight 540 nairobi to kisumu price today
+- 'flight from nairobi to vancouver'
+- 'what time is the first flight from nairobi to mombasa'
+- 'flight from nairobi to zambia'
+- 'how much is flight from nairobi to lagos'
+- 'flight 540 nairobi to kisumu price today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

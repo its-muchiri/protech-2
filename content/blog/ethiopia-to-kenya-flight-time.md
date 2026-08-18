@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopia to Kenya Flight Time: Complete Guide'
-description: Everything you need to know about ethiopia to kenya flight time, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopia to kenya flight time, including routes, airlines, booking tips, and fares.'
 slug: ethiopia-to-kenya-flight-time
-primary_keyword: ethiopia to kenya flight time
+primary_keyword: 'ethiopia to kenya flight time'
 secondary_keywords:
-- flights kenya zanzibar
-- cheap flights from kenya to london
-- are there direct flights from kenya to australia
-- ba flights from kenya to london
-- cheap flights from kenya to usa
+- 'flights kenya zanzibar'
+- 'cheap flights from kenya to london'
+- 'are there direct flights from kenya to australia'
+- 'ba flights from kenya to london'
+- 'cheap flights from kenya to usa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

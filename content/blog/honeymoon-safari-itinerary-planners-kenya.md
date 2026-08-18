@@ -1,14 +1,14 @@
 ---
 title: 'Honeymoon Safari Itinerary Planners Kenya: Complete Guide'
-description: Kenya safari guide covering honeymoon safari itinerary planners kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering honeymoon safari itinerary planners kenya, including what is included, pricing, and booking advice.'
 slug: honeymoon-safari-itinerary-planners-kenya
-primary_keyword: Honeymoon safari itinerary planners Kenya
+primary_keyword: 'Honeymoon safari itinerary planners Kenya'
 secondary_keywords:
-- Reliable Kenya safari company USA booking BBB rating
-- Kenya safari operator safety record check USA
-- Confirm Kenya safari lodge availability and reserve online
-- Reliable migration safari booking Kenya operator reviews Europe
-- Purchase reliable Tsavo East & West safari package Europe reviews family friendly
+- 'Reliable Kenya safari company USA booking BBB rating'
+- 'Kenya safari operator safety record check USA'
+- 'Confirm Kenya safari lodge availability and reserve online'
+- 'Reliable migration safari booking Kenya operator reviews Europe'
+- 'Purchase reliable Tsavo East & West safari package Europe reviews family friendly'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

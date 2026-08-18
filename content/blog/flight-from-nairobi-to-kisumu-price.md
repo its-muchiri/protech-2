@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Kisumu Price: Complete Guide'
-description: Everything you need to know about flight from nairobi to kisumu price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to kisumu price, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-kisumu-price
-primary_keyword: flight from nairobi to kisumu price
+primary_keyword: 'flight from nairobi to kisumu price'
 secondary_keywords:
-- emirates flight from riyadh to nairobi timetable
-- emirates flight from kenya to dubai today status
-- emirates flight from kenya to dubai today status tomorrow
-- how much is emirates from kenya to dubai
-- fly emirates kenya
+- 'emirates flight from riyadh to nairobi timetable'
+- 'emirates flight from kenya to dubai today status'
+- 'emirates flight from kenya to dubai today status tomorrow'
+- 'how much is emirates from kenya to dubai'
+- 'fly emirates kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

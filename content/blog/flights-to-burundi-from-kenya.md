@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Burundi from Kenya: Complete Guide'
-description: Everything you need to know about flights to burundi from kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to burundi from kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-to-burundi-from-kenya
-primary_keyword: flights to burundi from kenya
+primary_keyword: 'flights to burundi from kenya'
 secondary_keywords:
-- kenya airways flight schedule from accra to nairobi price
-- kenya airways flight from entebbe to nairobi
-- kenya airways flight nairobi to.kigali
-- kenya airways flight schedule from nairobi to mombasa
-- kenya airways flights from nairobi to south africa price
+- 'kenya airways flight schedule from accra to nairobi price'
+- 'kenya airways flight from entebbe to nairobi'
+- 'kenya airways flight nairobi to.kigali'
+- 'kenya airways flight schedule from nairobi to mombasa'
+- 'kenya airways flights from nairobi to south africa price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

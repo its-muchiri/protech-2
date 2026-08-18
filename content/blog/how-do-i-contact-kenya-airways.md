@@ -1,14 +1,14 @@
 ---
 title: 'How Do I Contact Kenya Airways: Complete Guide'
-description: Everything you need to know about how do i contact kenya airways, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how do i contact kenya airways, including routes, airlines, booking tips, and fares.'
 slug: how-do-i-contact-kenya-airways
-primary_keyword: how do i contact kenya airways
+primary_keyword: 'how do i contact kenya airways'
 secondary_keywords:
-- flights from kenya to italy
-- cheap flights from johannesburg to nairobi kenya
-- flights from kuala lumpur to nairobi kenya
-- flights to kenya from lax
-- mauritius flights from kenya
+- 'flights from kenya to italy'
+- 'cheap flights from johannesburg to nairobi kenya'
+- 'flights from kuala lumpur to nairobi kenya'
+- 'flights to kenya from lax'
+- 'mauritius flights from kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

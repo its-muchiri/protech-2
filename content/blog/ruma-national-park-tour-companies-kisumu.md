@@ -1,14 +1,14 @@
 ---
 title: 'Ruma National Park Tour Companies Kisumu: Complete Guide'
-description: Kenya safari guide covering ruma national park tour companies kisumu, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering ruma national park tour companies kisumu, including what is included, pricing, and booking advice.'
 slug: ruma-national-park-tour-companies-kisumu
-primary_keyword: Ruma National Park tour companies Kisumu
+primary_keyword: 'Ruma National Park tour companies Kisumu'
 secondary_keywords:
-- Pangolin safari Kenya (extremely difficult sighting)
-- Wilson Airport Nairobi safari flights
-- Best travel pillow Kenya safari flight
-- Cost estimate Kenya safari package
-- 5 day Kenya highlights tour package cost
+- 'Pangolin safari Kenya (extremely difficult sighting)'
+- 'Wilson Airport Nairobi safari flights'
+- 'Best travel pillow Kenya safari flight'
+- 'Cost estimate Kenya safari package'
+- '5 day Kenya highlights tour package cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

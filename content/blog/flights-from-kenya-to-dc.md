@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Dc: Complete Guide'
-description: Everything you need to know about flights from kenya to dc, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to dc, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-dc
-primary_keyword: flights from kenya to dc
+primary_keyword: 'flights from kenya to dc'
 secondary_keywords:
-- turkish airlines nach nairobi
-- turkish airlines to nairobi today
-- emirates westlands
-- ethiopian airlines flights from addis ababa to nairobi price
-- ethiopian airlines cargo office nairobi
+- 'turkish airlines nach nairobi'
+- 'turkish airlines to nairobi today'
+- 'emirates westlands'
+- 'ethiopian airlines flights from addis ababa to nairobi price'
+- 'ethiopian airlines cargo office nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

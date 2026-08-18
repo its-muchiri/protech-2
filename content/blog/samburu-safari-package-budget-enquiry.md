@@ -1,14 +1,14 @@
 ---
 title: 'Samburu Safari Package Budget Enquiry: Complete Guide'
-description: Kenya safari guide covering samburu safari package budget enquiry, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering samburu safari package budget enquiry, including what is included, pricing, and booking advice.'
 slug: samburu-safari-package-budget-enquiry
-primary_keyword: Samburu safari package budget enquiry
+primary_keyword: 'Samburu safari package budget enquiry'
 secondary_keywords:
-- Purchase budget Kenya safari tour Europe best price
-- Book multi-park Kenya safari itinerary UK
-- 7-day Kenya safari package price list UK
-- Book Kenya camping safari adventure Europe overland
-- Kenya wellness safari retreat booking UK spa lodge
+- 'Purchase budget Kenya safari tour Europe best price'
+- 'Book multi-park Kenya safari itinerary UK'
+- '7-day Kenya safari package price list UK'
+- 'Book Kenya camping safari adventure Europe overland'
+- 'Kenya wellness safari retreat booking UK spa lodge'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

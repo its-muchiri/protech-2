@@ -1,14 +1,14 @@
 ---
 title: 'Toshiba CT Scanner for Sale in Eldoret: 2026 Price Guide'
-description: Kenya buying guide to toshiba ct scanner for sale in eldoret. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to toshiba ct scanner for sale in eldoret. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: toshiba-ct-scanner-for-sale-in-eldoret
-primary_keyword: Toshiba CT scanner for sale in Eldoret
+primary_keyword: 'Toshiba CT scanner for sale in Eldoret'
 secondary_keywords:
-- medical equipment for correctional facilities
-- diagnostic equipment Kenya
-- Kenya medical market overview
-- medical supplies near me Kenya
-- adhesive bandages Kenya bulk
+- 'medical equipment for correctional facilities'
+- 'diagnostic equipment Kenya'
+- 'Kenya medical market overview'
+- 'medical supplies near me Kenya'
+- 'adhesive bandages Kenya bulk'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

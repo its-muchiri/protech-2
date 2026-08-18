@@ -1,14 +1,14 @@
 ---
 title: 'Hospital Bed for Home Use Rental in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to hospital bed for home use rental in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to hospital bed for home use rental in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: hospital-bed-for-home-use-rental-in-nairobi
-primary_keyword: Hospital bed for home use rental in Nairobi
+primary_keyword: 'Hospital bed for home use rental in Nairobi'
 secondary_keywords:
-- diabetic test strips cheapest Kenya
-- KEMSA procurement tenders
-- private hospital equipment Kenya
-- medical furniture manufacturers Kenya
-- 32-slice CT scanner for sale in Nairobi
+- 'diabetic test strips cheapest Kenya'
+- 'KEMSA procurement tenders'
+- 'private hospital equipment Kenya'
+- 'medical furniture manufacturers Kenya'
+- '32-slice CT scanner for sale in Nairobi'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

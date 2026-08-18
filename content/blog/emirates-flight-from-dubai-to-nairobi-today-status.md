@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight from Dubai to Nairobi Today Status: Complete Guide'
-description: Everything you need to know about emirates flight from dubai to nairobi today status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight from dubai to nairobi today status, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-from-dubai-to-nairobi-today-status
-primary_keyword: emirates flight from dubai to nairobi today status
+primary_keyword: 'emirates flight from dubai to nairobi today status'
 secondary_keywords:
-- kq nbo ebb
-- emirates flight from nairobi to dubai time
-- emirates flight status nairobi to dubai
-- emirates nairobi airport
-- emirates dubai nairobi flight status
+- 'kq nbo ebb'
+- 'emirates flight from nairobi to dubai time'
+- 'emirates flight status nairobi to dubai'
+- 'emirates nairobi airport'
+- 'emirates dubai nairobi flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

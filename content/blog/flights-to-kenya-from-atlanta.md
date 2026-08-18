@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Kenya from Atlanta: Complete Guide'
-description: Everything you need to know about flights to kenya from atlanta, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to kenya from atlanta, including routes, airlines, booking tips, and fares.'
 slug: flights-to-kenya-from-atlanta
-primary_keyword: flights to kenya from atlanta
+primary_keyword: 'flights to kenya from atlanta'
 secondary_keywords:
-- flights from nairobi to oklahoma
-- flights from nairobi to port louis
-- flights from nairobi to riyadh
-- flights from nairobi to seychelles
-- safarilink flights from kisumu to nairobi
+- 'flights from nairobi to oklahoma'
+- 'flights from nairobi to port louis'
+- 'flights from nairobi to riyadh'
+- 'flights from nairobi to seychelles'
+- 'safarilink flights from kisumu to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

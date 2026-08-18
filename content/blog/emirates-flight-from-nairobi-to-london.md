@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight from Nairobi to London: Complete Guide'
-description: Everything you need to know about emirates flight from nairobi to london, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight from nairobi to london, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-from-nairobi-to-london
-primary_keyword: emirates flight from nairobi to london
+primary_keyword: 'emirates flight from nairobi to london'
 secondary_keywords:
-- turkish airlines nairobi opening hours
-- turkish airlines lounge nairobi photos
-- turkish airlines customer service nairobi
-- emirates airlines offices in nairobi
-- cheapest flights from nairobi to addis ababa
+- 'turkish airlines nairobi opening hours'
+- 'turkish airlines lounge nairobi photos'
+- 'turkish airlines customer service nairobi'
+- 'emirates airlines offices in nairobi'
+- 'cheapest flights from nairobi to addis ababa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

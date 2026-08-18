@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Airlines Nairobi Contacts: Complete Guide'
-description: Everything you need to know about emirates airlines nairobi contacts, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates airlines nairobi contacts, including routes, airlines, booking tips, and fares.'
 slug: emirates-airlines-nairobi-contacts
-primary_keyword: emirates airlines nairobi contacts
+primary_keyword: 'emirates airlines nairobi contacts'
 secondary_keywords:
-- flight from nairobi to mombasa hours
-- flights from isiolo to mombasa
-- flights from mombasa kenya to nairobi kenya
-- flights leaving mombasa to zanzibar direct
-- flights from mombasa to maasai mara
+- 'flight from nairobi to mombasa hours'
+- 'flights from isiolo to mombasa'
+- 'flights from mombasa kenya to nairobi kenya'
+- 'flights leaving mombasa to zanzibar direct'
+- 'flights from mombasa to maasai mara'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

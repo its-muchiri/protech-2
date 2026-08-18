@@ -1,14 +1,14 @@
 ---
 title: 'Romantic Kenya Safari: Complete Guide'
-description: Kenya safari guide covering romantic kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering romantic kenya safari, including what is included, pricing, and booking advice.'
 slug: romantic-kenya-safari
-primary_keyword: Romantic Kenya safari
+primary_keyword: 'Romantic Kenya safari'
 secondary_keywords:
-- Tsavo East West safari rates request
-- Budget Kenya camping safari cost estimate
-- Kenya safari package deals
-- 3 day Kenya safari package deals
-- Fly-in Kenya safari package sale
+- 'Tsavo East West safari rates request'
+- 'Budget Kenya camping safari cost estimate'
+- 'Kenya safari package deals'
+- '3 day Kenya safari package deals'
+- 'Fly-in Kenya safari package sale'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

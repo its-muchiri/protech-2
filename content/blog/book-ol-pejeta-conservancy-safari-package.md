@@ -1,14 +1,14 @@
 ---
 title: 'Book Ol Pejeta Conservancy Safari Package: Complete Guide'
-description: Kenya safari guide covering book ol pejeta conservancy safari package, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book ol pejeta conservancy safari package, including what is included, pricing, and booking advice.'
 slug: book-ol-pejeta-conservancy-safari-package
-primary_keyword: Book Ol Pejeta Conservancy safari package
+primary_keyword: 'Book Ol Pejeta Conservancy safari package'
 secondary_keywords:
-- Reserve 5 day Lake Nakuru Aberdares package operator
-- Book 5 day Tsavo West Finch Hattons luxury package
-- Cost of 3 day basic camping Masai Mara package buy
-- Reserve 6 day family fun safari package Ol Pejeta Mara
-- Reserve seats 12 day group overland Kenya package
+- 'Reserve 5 day Lake Nakuru Aberdares package operator'
+- 'Book 5 day Tsavo West Finch Hattons luxury package'
+- 'Cost of 3 day basic camping Masai Mara package buy'
+- 'Reserve 6 day family fun safari package Ol Pejeta Mara'
+- 'Reserve seats 12 day group overland Kenya package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

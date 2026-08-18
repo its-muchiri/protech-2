@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Christmas Deals 2025 UK: Complete Guide'
-description: Kenya safari guide covering kenya safari christmas deals 2025 uk, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari christmas deals 2025 uk, including what is included, pricing, and booking advice.'
 slug: kenya-safari-christmas-deals-2025-uk
-primary_keyword: Kenya safari Christmas deals 2025 UK
+primary_keyword: 'Kenya safari Christmas deals 2025 UK'
 secondary_keywords:
-- Tsavo lodges
-- Birding tours Kenya
-- Rhino safari Kenya
-- Safari starting Nairobi
-- Kenya safari from Australia
+- 'Tsavo lodges'
+- 'Birding tours Kenya'
+- 'Rhino safari Kenya'
+- 'Safari starting Nairobi'
+- 'Kenya safari from Australia'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

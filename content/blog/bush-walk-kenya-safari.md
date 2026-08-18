@@ -1,14 +1,14 @@
 ---
 title: 'Bush Walk Kenya Safari: Complete Guide'
-description: Kenya safari guide covering bush walk kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering bush walk kenya safari, including what is included, pricing, and booking advice.'
 slug: bush-walk-kenya-safari
-primary_keyword: Bush walk Kenya safari
+primary_keyword: 'Bush walk Kenya safari'
 secondary_keywords:
-- Kenya family safari deals Europe based operators
-- Best Kenya safari tour operators UK reviews 2025
-- Niche Kenya safari operator (e.g., photographic, birding) UK
-- Immediate booking confirmation Kenya safari tour online
-- Top 10 Kenya luxury safari lodges booking rates USA
+- 'Kenya family safari deals Europe based operators'
+- 'Best Kenya safari tour operators UK reviews 2025'
+- 'Niche Kenya safari operator (e.g., photographic, birding) UK'
+- 'Immediate booking confirmation Kenya safari tour online'
+- 'Top 10 Kenya luxury safari lodges booking rates USA'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

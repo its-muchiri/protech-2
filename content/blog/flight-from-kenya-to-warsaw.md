@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kenya to Warsaw: Complete Guide'
-description: Everything you need to know about flight from kenya to warsaw, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kenya to warsaw, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kenya-to-warsaw
-primary_keyword: flight from kenya to warsaw
+primary_keyword: 'flight from kenya to warsaw'
 secondary_keywords:
-- flights nairobi to jhb
-- flights nairobi to kilimanjaro airport
-- london to nairobi direct flights
-- mogadishu to nairobi flights time
-- flights to nairobi one way
+- 'flights nairobi to jhb'
+- 'flights nairobi to kilimanjaro airport'
+- 'london to nairobi direct flights'
+- 'mogadishu to nairobi flights time'
+- 'flights to nairobi one way'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

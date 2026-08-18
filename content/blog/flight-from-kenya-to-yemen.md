@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kenya to Yemen: Complete Guide'
-description: Everything you need to know about flight from kenya to yemen, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kenya to yemen, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kenya-to-yemen
-primary_keyword: flight from kenya to yemen
+primary_keyword: 'flight from kenya to yemen'
 secondary_keywords:
-- kq flights to heathrow
-- kq flight jfk to nbo
-- kq flights to kigali
-- kq flight map
-- kq flights to nairobi
+- 'kq flights to heathrow'
+- 'kq flight jfk to nbo'
+- 'kq flights to kigali'
+- 'kq flight map'
+- 'kq flights to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Find Kenya Safari Tour with Hot Springs Visit Package USA Lake Bogoria Deals: Complete Guide'
-description: Kenya safari guide covering find kenya safari tour with hot springs visit package usa lake bogoria deals, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering find kenya safari tour with hot springs visit package usa lake bogoria deals, including what is included, pricing, and booking advice.'
 slug: find-kenya-safari-tour-with-hot-springs-visit-package-usa-lake-bogoria-deals
-primary_keyword: Find Kenya safari tour with hot springs visit package USA Lake Bogoria deals
+primary_keyword: 'Find Kenya safari tour with hot springs visit package USA Lake Bogoria deals'
 secondary_keywords:
-- Wilson Airport Nairobi safari flights
-- Best travel pillow Kenya safari flight
-- Cost estimate Kenya safari package
-- 5 day Kenya highlights tour package cost
-- Get quote for 6 day Kenya family safari package
+- 'Wilson Airport Nairobi safari flights'
+- 'Best travel pillow Kenya safari flight'
+- 'Cost estimate Kenya safari package'
+- '5 day Kenya highlights tour package cost'
+- 'Get quote for 6 day Kenya family safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Reserve School Holiday Family Safari Package Kenya Cost: Complete Guide'
-description: Kenya safari guide covering reserve school holiday family safari package kenya cost, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve school holiday family safari package kenya cost, including what is included, pricing, and booking advice.'
 slug: reserve-school-holiday-family-safari-package-kenya-cost
-primary_keyword: Reserve school holiday family safari package Kenya cost
+primary_keyword: 'Reserve school holiday family safari package Kenya cost'
 secondary_keywords:
-- Secure 9 day custom Laikipia family adventure purchase
-- Meru National Park package price estimate
-- Lodge safari package Kenya rates request
-- Last minute Kenya safari deals
-- One week Kenya wildlife tour special offers
+- 'Secure 9 day custom Laikipia family adventure purchase'
+- 'Meru National Park package price estimate'
+- 'Lodge safari package Kenya rates request'
+- 'Last minute Kenya safari deals'
+- 'One week Kenya wildlife tour special offers'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

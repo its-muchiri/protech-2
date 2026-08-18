@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Lagos Today: Complete Guide'
-description: Everything you need to know about flight from nairobi to lagos today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to lagos today, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-lagos-today
-primary_keyword: flight from nairobi to lagos today
+primary_keyword: 'flight from nairobi to lagos today'
 secondary_keywords:
-- watamu flights from nairobi
-- flights from nairobi to zanzibar today
-- flights to nairobi 2025
-- how much is a flight from nairobi to america
-- flights from mombasa to arusha
+- 'watamu flights from nairobi'
+- 'flights from nairobi to zanzibar today'
+- 'flights to nairobi 2025'
+- 'how much is a flight from nairobi to america'
+- 'flights from mombasa to arusha'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

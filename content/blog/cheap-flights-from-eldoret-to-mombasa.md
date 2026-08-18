@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Eldoret to Mombasa: Complete Guide'
-description: Everything you need to know about cheap flights from eldoret to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from eldoret to mombasa, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-eldoret-to-mombasa
-primary_keyword: cheap flights from eldoret to mombasa
+primary_keyword: 'cheap flights from eldoret to mombasa'
 secondary_keywords:
-- flights from frankfurt to kenya
-- germany flights from kenya
-- flight from kenya to hungary price
-- flights from nigeria to kenya is how much
-- flights from kenya to jfk today
+- 'flights from frankfurt to kenya'
+- 'germany flights from kenya'
+- 'flight from kenya to hungary price'
+- 'flights from nigeria to kenya is how much'
+- 'flights from kenya to jfk today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Phuket: Complete Guide'
-description: Everything you need to know about flights from nairobi to phuket, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to phuket, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-phuket
-primary_keyword: flights from nairobi to phuket
+primary_keyword: 'flights from nairobi to phuket'
 secondary_keywords:
-- flights from mombasa to mauritius
-- cost of flights from nairobi to mombasa
-- flights rome mombasa
-- flights from mombasa to uk
-- flights to mombasa kenya from zanzibar
+- 'flights from mombasa to mauritius'
+- 'cost of flights from nairobi to mombasa'
+- 'flights rome mombasa'
+- 'flights from mombasa to uk'
+- 'flights to mombasa kenya from zanzibar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

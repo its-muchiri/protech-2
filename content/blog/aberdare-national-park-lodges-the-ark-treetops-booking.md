@@ -1,14 +1,14 @@
 ---
 title: 'Aberdare National Park Lodges (The Ark, Treetops) Booking: Complete Guide'
-description: Kenya safari guide covering aberdare national park lodges (the ark, treetops) booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering aberdare national park lodges (the ark, treetops) booking, including what is included, pricing, and booking advice.'
 slug: aberdare-national-park-lodges-the-ark-treetops-booking
-primary_keyword: Aberdare National Park lodges (The Ark, Treetops) booking
+primary_keyword: 'Aberdare National Park lodges (The Ark, Treetops) booking'
 secondary_keywords:
-- Get custom Kenya safari package quote
-- 5 day Samburu safari package price
-- Amboseli view Kilimanjaro safari package book
-- Governors Camp Masai Mara package booking
-- Book Kenya honeymoon safari package
+- 'Get custom Kenya safari package quote'
+- '5 day Samburu safari package price'
+- 'Amboseli view Kilimanjaro safari package book'
+- 'Governors Camp Masai Mara package booking'
+- 'Book Kenya honeymoon safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

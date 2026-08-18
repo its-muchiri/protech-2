@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 417: Complete Guide'
-description: Everything you need to know about emirates flight 417, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 417, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-417
-primary_keyword: emirates flight 417
+primary_keyword: 'emirates flight 417'
 secondary_keywords:
-- kq flights to johannesburg today timetable
-- kq flights to lamu
-- kq flights to malindi from nairobi
-- kq flights to mombasa prices
-- kq flights schedule
+- 'kq flights to johannesburg today timetable'
+- 'kq flights to lamu'
+- 'kq flights to malindi from nairobi'
+- 'kq flights to mombasa prices'
+- 'kq flights schedule'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

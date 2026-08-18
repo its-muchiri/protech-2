@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kenya to Ghana Price: Complete Guide'
-description: Everything you need to know about flight from kenya to ghana price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kenya to ghana price, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kenya-to-ghana-price
-primary_keyword: flight from kenya to ghana price
+primary_keyword: 'flight from kenya to ghana price'
 secondary_keywords:
-- emirates flight 612 status
-- emirates flight 7
-- emirates flight 904
-- qatar airways flight from nairobi
-- qatar airways contacts nairobi phone number
+- 'emirates flight 612 status'
+- 'emirates flight 7'
+- 'emirates flight 904'
+- 'qatar airways flight from nairobi'
+- 'qatar airways contacts nairobi phone number'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

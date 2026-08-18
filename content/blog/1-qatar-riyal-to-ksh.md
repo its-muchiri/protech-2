@@ -1,14 +1,14 @@
 ---
 title: '1 Qatar Riyal to Ksh: Complete Guide'
-description: Everything you need to know about 1 qatar riyal to ksh, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about 1 qatar riyal to ksh, including routes, airlines, booking tips, and fares.'
 slug: 1-qatar-riyal-to-ksh
-primary_keyword: 1 qatar riyal to ksh
+primary_keyword: '1 qatar riyal to ksh'
 secondary_keywords:
-- ethiopian airline ticket from kenya to qatar
-- flights nairobi to malindi
-- uganda airlines flights from entebbe to nairobi
-- flights nairobi to blantyre
-- flights nairobi to colombo
+- 'ethiopian airline ticket from kenya to qatar'
+- 'flights nairobi to malindi'
+- 'uganda airlines flights from entebbe to nairobi'
+- 'flights nairobi to blantyre'
+- 'flights nairobi to colombo'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

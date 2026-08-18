@@ -1,14 +1,14 @@
 ---
 title: 'Multi-day Trekking Tour Operators Kenya: Complete Guide'
-description: Kenya safari guide covering multi-day trekking tour operators kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering multi-day trekking tour operators kenya, including what is included, pricing, and booking advice.'
 slug: multi-day-trekking-tour-operators-kenya
-primary_keyword: Multi-day trekking tour operators Kenya
+primary_keyword: 'Multi-day trekking tour operators Kenya'
 secondary_keywords:
-- Ruma National Park tour companies Kisumu
-- Bird watching specialized tour operators Kenya
-- Bomas of Kenya cultural show tours
-- 4 day Amboseli Lake Nakuru safari company
-- Kenya tour package discounts
+- 'Ruma National Park tour companies Kisumu'
+- 'Bird watching specialized tour operators Kenya'
+- 'Bomas of Kenya cultural show tours'
+- '4 day Amboseli Lake Nakuru safari company'
+- 'Kenya tour package discounts'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

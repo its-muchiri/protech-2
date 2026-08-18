@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Office in Nairobi Kenya: Complete Guide'
-description: Everything you need to know about turkish airlines office in nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines office in nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-office-in-nairobi-kenya
-primary_keyword: turkish airlines office in nairobi kenya
+primary_keyword: 'turkish airlines office in nairobi kenya'
 secondary_keywords:
-- kq flight from dubai to nairobi today timetable
-- kq flight from jfk to nairobi
-- kq airline online check in
-- kq 305
-- kenya airways flight arrivals nairobi
+- 'kq flight from dubai to nairobi today timetable'
+- 'kq flight from jfk to nairobi'
+- 'kq airline online check in'
+- 'kq 305'
+- 'kenya airways flight arrivals nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

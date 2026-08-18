@@ -1,14 +1,14 @@
 ---
 title: 'Buy Mount Longonot Hike Safari Day Trip Package USA Rift Valley Views Cost: Complete Guide'
-description: Kenya safari guide covering buy mount longonot hike safari day trip package usa rift valley views cost, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy mount longonot hike safari day trip package usa rift valley views cost, including what is included, pricing, and booking advice.'
 slug: buy-mount-longonot-hike-safari-day-trip-package-usa-rift-valley-views-cost
-primary_keyword: Buy Mount Longonot hike safari day trip package USA Rift Valley views cost
+primary_keyword: 'Buy Mount Longonot hike safari day trip package USA Rift Valley views cost'
 secondary_keywords:
-- Kakamega Forest bird watching tour operators
-- Kenya cultural immersion tour companies
-- Maasai village visit ethical tour operators
-- 5 day Kenya highlights tour operator
-- Kenya tour package discounts
+- 'Kakamega Forest bird watching tour operators'
+- 'Kenya cultural immersion tour companies'
+- 'Maasai village visit ethical tour operators'
+- '5 day Kenya highlights tour operator'
+- 'Kenya tour package discounts'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Lake Naivasha Safari: Complete Guide'
-description: Kenya safari guide covering lake naivasha safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering lake naivasha safari, including what is included, pricing, and booking advice.'
 slug: lake-naivasha-safari
-primary_keyword: Lake Naivasha safari
+primary_keyword: 'Lake Naivasha safari'
 secondary_keywords:
-- Budget Kenya safari tour agency Europe reviews affordable
-- Book Kenya safari July 2025 migration Mara crossing Europe
-- Kenya safari vacancy checker online booking
-- Best rated small group Kenya safari tours Europe value
-- Reserve recommended Laikipia conservancy walking safari Europe operator eco focus
+- 'Budget Kenya safari tour agency Europe reviews affordable'
+- 'Book Kenya safari July 2025 migration Mara crossing Europe'
+- 'Kenya safari vacancy checker online booking'
+- 'Best rated small group Kenya safari tours Europe value'
+- 'Reserve recommended Laikipia conservancy walking safari Europe operator eco focus'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

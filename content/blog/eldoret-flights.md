@@ -1,14 +1,14 @@
 ---
 title: 'Eldoret Flights: Complete Guide'
-description: Everything you need to know about eldoret flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about eldoret flights, including routes, airlines, booking tips, and fares.'
 slug: eldoret-flights
-primary_keyword: eldoret flights
+primary_keyword: 'eldoret flights'
 secondary_keywords:
-- does ethiopian airlines fly to dublin
-- nairobi to turkey flight time
-- flight booking agents in nairobi
-- flight duration from kenya to usa
-- kenya to dubai flight cost
+- 'does ethiopian airlines fly to dublin'
+- 'nairobi to turkey flight time'
+- 'flight booking agents in nairobi'
+- 'flight duration from kenya to usa'
+- 'kenya to dubai flight cost'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

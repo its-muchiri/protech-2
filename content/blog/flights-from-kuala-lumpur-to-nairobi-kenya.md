@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kuala Lumpur to Nairobi Kenya: Complete Guide'
-description: Everything you need to know about flights from kuala lumpur to nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kuala lumpur to nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kuala-lumpur-to-nairobi-kenya
-primary_keyword: flights from kuala lumpur to nairobi kenya
+primary_keyword: 'flights from kuala lumpur to nairobi kenya'
 secondary_keywords:
-- british airways flights from nairobi to london
-- flights from nairobi to casablanca
-- flights from nairobi to delhi
-- emirates flights from nairobi to london
-- cheap flights from frankfurt to nairobi
+- 'british airways flights from nairobi to london'
+- 'flights from nairobi to casablanca'
+- 'flights from nairobi to delhi'
+- 'emirates flights from nairobi to london'
+- 'cheap flights from frankfurt to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

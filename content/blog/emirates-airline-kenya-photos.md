@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Airline Kenya Photos: Complete Guide'
-description: Everything you need to know about emirates airline kenya photos, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates airline kenya photos, including routes, airlines, booking tips, and fares.'
 slug: emirates-airline-kenya-photos
-primary_keyword: emirates airline kenya photos
+primary_keyword: 'emirates airline kenya photos'
 secondary_keywords:
-- kq flights to johannesburg
-- kq flight lhr to nbo
-- kq mayfly flight schedule
-- kq flight offers
-- kq 205 flight review
+- 'kq flights to johannesburg'
+- 'kq flight lhr to nbo'
+- 'kq mayfly flight schedule'
+- 'kq flight offers'
+- 'kq 205 flight review'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

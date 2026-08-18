@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to London Today: Complete Guide'
-description: Everything you need to know about flight from nairobi to london today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to london today, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-london-today
-primary_keyword: flight from nairobi to london today
+primary_keyword: 'flight from nairobi to london today'
 secondary_keywords:
-- book a flight from nairobi to mombasa
-- flight 540 nairobi to mombasa price in kenya shillings today
-- 748 flight from mombasa to nairobi
-- turkish airlines app not working
-- turkey to kenya flight time
+- 'book a flight from nairobi to mombasa'
+- 'flight 540 nairobi to mombasa price in kenya shillings today'
+- '748 flight from mombasa to nairobi'
+- 'turkish airlines app not working'
+- 'turkey to kenya flight time'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

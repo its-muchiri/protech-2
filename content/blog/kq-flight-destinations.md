@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight Destinations: Complete Guide'
-description: Everything you need to know about kq flight destinations, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight destinations, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-destinations
-primary_keyword: kq flight destinations
+primary_keyword: 'kq flight destinations'
 secondary_keywords:
-- kq flight from cape town to nairobi today
-- kq flight from entebbe
-- kenya airways flights from juba to nairobi
-- kenya airways flights from uk
-- flights to kakamega from nairobi
+- 'kq flight from cape town to nairobi today'
+- 'kq flight from entebbe'
+- 'kenya airways flights from juba to nairobi'
+- 'kenya airways flights from uk'
+- 'flights to kakamega from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

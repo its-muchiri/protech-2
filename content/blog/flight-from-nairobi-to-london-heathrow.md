@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to London Heathrow: Complete Guide'
-description: Everything you need to know about flight from nairobi to london heathrow, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to london heathrow, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-london-heathrow
-primary_keyword: flight from nairobi to london heathrow
+primary_keyword: 'flight from nairobi to london heathrow'
 secondary_keywords:
-- emirates flights from florida
-- emirates flights from gatwick to dubai today
-- emirates flights from hyderabad to dubai
-- emirates flights from india to usa
-- emirates flights from johannesburg to paris
+- 'emirates flights from florida'
+- 'emirates flights from gatwick to dubai today'
+- 'emirates flights from hyderabad to dubai'
+- 'emirates flights from india to usa'
+- 'emirates flights from johannesburg to paris'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

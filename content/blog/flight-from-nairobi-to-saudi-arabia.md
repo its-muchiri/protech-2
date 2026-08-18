@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Saudi Arabia: Complete Guide'
-description: Everything you need to know about flight from nairobi to saudi arabia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to saudi arabia, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-saudi-arabia
-primary_keyword: flight from nairobi to saudi arabia
+primary_keyword: 'flight from nairobi to saudi arabia'
 secondary_keywords:
-- flights to mombasa kenya from paris france
-- flights from harare to mombasa
-- flights from istanbul to mombasa
-- flights from mombasa to kampala
-- lamu flights from mombasa
+- 'flights to mombasa kenya from paris france'
+- 'flights from harare to mombasa'
+- 'flights from istanbul to mombasa'
+- 'flights from mombasa to kampala'
+- 'lamu flights from mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

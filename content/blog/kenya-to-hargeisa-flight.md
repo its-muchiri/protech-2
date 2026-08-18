@@ -1,14 +1,14 @@
 ---
 title: 'Kenya to Hargeisa Flight: Complete Guide'
-description: Everything you need to know about kenya to hargeisa flight, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya to hargeisa flight, including routes, airlines, booking tips, and fares.'
 slug: kenya-to-hargeisa-flight
-primary_keyword: kenya to hargeisa flight
+primary_keyword: 'kenya to hargeisa flight'
 secondary_keywords:
-- ethiopian airlines from nairobi to doha price
-- ethiopian airlines office nairobi location
-- price of flight from nairobi to dubai
-- cheap flights nairobi to london
-- flights nairobi to abuja
+- 'ethiopian airlines from nairobi to doha price'
+- 'ethiopian airlines office nairobi location'
+- 'price of flight from nairobi to dubai'
+- 'cheap flights nairobi to london'
+- 'flights nairobi to abuja'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Spain: Complete Guide'
-description: Everything you need to know about flights nairobi to spain, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to spain, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-spain
-primary_keyword: flights nairobi to spain
+primary_keyword: 'flights nairobi to spain'
 secondary_keywords:
-- kenya airways flight from new york to nairobi schedule
-- kenya airways flights from nairobi to dar es salaam
-- flight from nairobi to amboseli
-- flight from nairobi to botswana
-- flight from nairobi to canada
+- 'kenya airways flight from new york to nairobi schedule'
+- 'kenya airways flights from nairobi to dar es salaam'
+- 'flight from nairobi to amboseli'
+- 'flight from nairobi to botswana'
+- 'flight from nairobi to canada'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kq 353 Flight Status: Complete Guide'
-description: Everything you need to know about kq 353 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 353 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq-353-flight-status
-primary_keyword: kq 353 flight status
+primary_keyword: 'kq 353 flight status'
 secondary_keywords:
-- flights to kenya in may
-- flights to kenya one way
-- flight attendant courses in kenya requirements
-- flights kenya to tanzania
-- flights kenya zanzibar
+- 'flights to kenya in may'
+- 'flights to kenya one way'
+- 'flight attendant courses in kenya requirements'
+- 'flights kenya to tanzania'
+- 'flights kenya zanzibar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

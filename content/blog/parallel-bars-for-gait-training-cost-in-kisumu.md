@@ -1,14 +1,14 @@
 ---
 title: 'Parallel Bars for Gait Training Cost in Kisumu: 2026 Price Guide'
-description: Kenya buying guide to parallel bars for gait training cost in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to parallel bars for gait training cost in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: parallel-bars-for-gait-training-cost-in-kisumu
-primary_keyword: Parallel bars for gait training cost in Kisumu
+primary_keyword: 'Parallel bars for gait training cost in Kisumu'
 secondary_keywords:
-- 5-function ICU bed with mattress cost in Mombasa
-- Baby cot and bassinet for hospital maternity ward
-- Medical oxygen concentrator (10L) price in Nairobi
-- Dental OPG machine for sale in Mombasa
-- Auto refractometer and keratometer cost
+- '5-function ICU bed with mattress cost in Mombasa'
+- 'Baby cot and bassinet for hospital maternity ward'
+- 'Medical oxygen concentrator (10L) price in Nairobi'
+- 'Dental OPG machine for sale in Mombasa'
+- 'Auto refractometer and keratometer cost'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

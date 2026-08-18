@@ -1,14 +1,14 @@
 ---
 title: 'Buy Top Rated Kenya Big Five Lodge Safari Package UK Online Secure Booking: Complete Guide'
-description: Kenya safari guide covering buy top rated kenya big five lodge safari package uk online secure booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy top rated kenya big five lodge safari package uk online secure booking, including what is included, pricing, and booking advice.'
 slug: buy-top-rated-kenya-big-five-lodge-safari-package-uk-online-secure-booking
-primary_keyword: Buy top rated Kenya Big Five lodge safari package UK online secure booking
+primary_keyword: 'Buy top rated Kenya Big Five lodge safari package UK online secure booking'
 secondary_keywords:
-- Samburu cultural village visit tour package
-- Kiambethu Tea Farm tour Limuru booking / price from Nairobi / Thika
-- Gamewatchers Safaris Porini Camps price / reviews
-- Kenya tour package cancellation policy refund options
-- Internal flights Kenya Safarilink / AirKenya schedule / price
+- 'Samburu cultural village visit tour package'
+- 'Kiambethu Tea Farm tour Limuru booking / price from Nairobi / Thika'
+- 'Gamewatchers Safaris Porini Camps price / reviews'
+- 'Kenya tour package cancellation policy refund options'
+- 'Internal flights Kenya Safarilink / AirKenya schedule / price'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

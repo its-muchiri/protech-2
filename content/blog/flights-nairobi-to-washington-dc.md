@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Washington Dc: Complete Guide'
-description: Everything you need to know about flights nairobi to washington dc, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to washington dc, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-washington-dc
-primary_keyword: flights nairobi to washington dc
+primary_keyword: 'flights nairobi to washington dc'
 secondary_keywords:
-- which airlines fly from nairobi to ukunda
-- kq flights from mombasa to nairobi today
-- are there direct flights from mombasa to zanzibar
-- does british airways fly to bangladesh
-- cheap flights from mombasa to mumbai
+- 'which airlines fly from nairobi to ukunda'
+- 'kq flights from mombasa to nairobi today'
+- 'are there direct flights from mombasa to zanzibar'
+- 'does british airways fly to bangladesh'
+- 'cheap flights from mombasa to mumbai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

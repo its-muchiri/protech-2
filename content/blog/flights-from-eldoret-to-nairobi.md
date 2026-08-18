@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Eldoret to Nairobi: Complete Guide'
-description: Everything you need to know about flights from eldoret to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from eldoret to nairobi, including routes, airlines, booking tips, and fares.'
 slug: flights-from-eldoret-to-nairobi
-primary_keyword: flights from eldoret to nairobi
+primary_keyword: 'flights from eldoret to nairobi'
 secondary_keywords:
-- emirates flights from amsterdam
-- emirates flights from beirut
-- cheapest emirates flights from dubai
-- emirates flights from edinburgh
-- emirates flights first class
+- 'emirates flights from amsterdam'
+- 'emirates flights from beirut'
+- 'cheapest emirates flights from dubai'
+- 'emirates flights from edinburgh'
+- 'emirates flights first class'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

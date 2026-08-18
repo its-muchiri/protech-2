@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from Uganda to Kenya Today: Complete Guide'
-description: Everything you need to know about kq flights from uganda to kenya today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from uganda to kenya today, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-uganda-to-kenya-today
-primary_keyword: kq flights from uganda to kenya today
+primary_keyword: 'kq flights from uganda to kenya today'
 secondary_keywords:
-- emirates flights from kolkata to dubai
-- emirates flights from larnaca
-- emirates flights from newcastle
-- emirates flight from orlando to dubai today
-- emirates flights from johannesburg to dubai price
+- 'emirates flights from kolkata to dubai'
+- 'emirates flights from larnaca'
+- 'emirates flights from newcastle'
+- 'emirates flight from orlando to dubai today'
+- 'emirates flights from johannesburg to dubai price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

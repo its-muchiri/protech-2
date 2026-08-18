@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Jfk to Nairobi: Complete Guide'
-description: Everything you need to know about kq flight from jfk to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from jfk to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-jfk-to-nairobi
-primary_keyword: kq flight from jfk to nairobi
+primary_keyword: 'kq flight from jfk to nairobi'
 secondary_keywords:
-- ethiopian airlines nairobi to mumbai
-- ethiopian airlines fares
-- turkish airlines istanbul to nairobi today
-- flight ticket from kenya to uk
-- flight booking sites in kenya
+- 'ethiopian airlines nairobi to mumbai'
+- 'ethiopian airlines fares'
+- 'turkish airlines istanbul to nairobi today'
+- 'flight ticket from kenya to uk'
+- 'flight booking sites in kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

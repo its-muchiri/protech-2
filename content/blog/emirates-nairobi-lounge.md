@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Nairobi Lounge: Complete Guide'
-description: Everything you need to know about emirates nairobi lounge, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates nairobi lounge, including routes, airlines, booking tips, and fares.'
 slug: emirates-nairobi-lounge
-primary_keyword: emirates nairobi lounge
+primary_keyword: 'emirates nairobi lounge'
 secondary_keywords:
-- kq first class
-- kq 353 flight status
-- kq 416 flight status
-- kq 613 flight status
-- emirates flights from perth to nairobi
+- 'kq first class'
+- 'kq 353 flight status'
+- 'kq 416 flight status'
+- 'kq 613 flight status'
+- 'emirates flights from perth to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

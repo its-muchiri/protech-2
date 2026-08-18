@@ -1,14 +1,14 @@
 ---
 title: 'Reclining Wheelchair Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to reclining wheelchair price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to reclining wheelchair price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: reclining-wheelchair-price-in-kenya
-primary_keyword: Reclining wheelchair price in Kenya
+primary_keyword: 'Reclining wheelchair price in Kenya'
 secondary_keywords:
-- CO2 incubator for cell culture price
-- Neurosurgery instruments cost in Kenya
-- Double dome surgical light price
-- Autoclave validation and testing services in Nairobi
-- Hospital bed rental services in Nairobi
+- 'CO2 incubator for cell culture price'
+- 'Neurosurgery instruments cost in Kenya'
+- 'Double dome surgical light price'
+- 'Autoclave validation and testing services in Nairobi'
+- 'Hospital bed rental services in Nairobi'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kq 509 Flight Status: Complete Guide'
-description: Everything you need to know about kq 509 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 509 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq-509-flight-status
-primary_keyword: kq 509 flight status
+primary_keyword: 'kq 509 flight status'
 secondary_keywords:
-- kenya airways reward flights
-- tanzania suspends kq flights
-- kq flight 003
-- kq103 flight status
-- does kq fly to ukunda
+- 'kenya airways reward flights'
+- 'tanzania suspends kq flights'
+- 'kq flight 003'
+- 'kq103 flight status'
+- 'does kq fly to ukunda'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

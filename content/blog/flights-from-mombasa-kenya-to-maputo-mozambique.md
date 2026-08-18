@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa Kenya to Maputo Mozambique: Complete Guide'
-description: Everything you need to know about flights from mombasa kenya to maputo mozambique, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa kenya to maputo mozambique, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-kenya-to-maputo-mozambique
-primary_keyword: flights from mombasa kenya to maputo mozambique
+primary_keyword: 'flights from mombasa kenya to maputo mozambique'
 secondary_keywords:
-- cheap flights from nairobi to guangzhou
-- cheap flights from nairobi to london heathrow
-- flights from nairobi to johannesburg
-- flights from nairobi kenya to brazzaville congo
-- flights from nairobi to lodwar
+- 'cheap flights from nairobi to guangzhou'
+- 'cheap flights from nairobi to london heathrow'
+- 'flights from nairobi to johannesburg'
+- 'flights from nairobi kenya to brazzaville congo'
+- 'flights from nairobi to lodwar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

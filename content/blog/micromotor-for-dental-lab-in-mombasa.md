@@ -1,14 +1,14 @@
 ---
 title: 'Micromotor for Dental Lab in Mombasa: 2026 Price Guide'
-description: Kenya buying guide to micromotor for dental lab in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to micromotor for dental lab in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: micromotor-for-dental-lab-in-mombasa
-primary_keyword: Micromotor for dental lab in Mombasa
+primary_keyword: 'Micromotor for dental lab in Mombasa'
 secondary_keywords:
-- cheap medical equipment Kenya
-- medical supplies Kisumu
-- latex gloves Kenya box price
-- IV fluids Kenya 500ml price
-- medical scrubs Kenya uniform
+- 'cheap medical equipment Kenya'
+- 'medical supplies Kisumu'
+- 'latex gloves Kenya box price'
+- 'IV fluids Kenya 500ml price'
+- 'medical scrubs Kenya uniform'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

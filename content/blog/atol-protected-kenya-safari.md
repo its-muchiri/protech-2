@@ -1,14 +1,14 @@
 ---
 title: 'ATOL Protected Kenya Safari: Complete Guide'
-description: Kenya safari guide covering atol protected kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering atol protected kenya safari, including what is included, pricing, and booking advice.'
 slug: atol-protected-kenya-safari
-primary_keyword: ATOL protected Kenya safari
+primary_keyword: 'ATOL protected Kenya safari'
 secondary_keywords:
-- Specific Locations (Masai Mara, Amboseli, Tsavo, Samburu, Nakuru, Laikipia, etc.)
-- Aberdare National Park tree lodge safari booking UK
-- Kenya tour operators for UK market recommendations
-- Book with local Kenya safari operator direct price
-- Time-Sensitive/Urgency (Last minute, Availability, Specific dates/months)
+- 'Specific Locations (Masai Mara, Amboseli, Tsavo, Samburu, Nakuru, Laikipia, etc.)'
+- 'Aberdare National Park tree lodge safari booking UK'
+- 'Kenya tour operators for UK market recommendations'
+- 'Book with local Kenya safari operator direct price'
+- 'Time-Sensitive/Urgency (Last minute, Availability, Specific dates/months)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

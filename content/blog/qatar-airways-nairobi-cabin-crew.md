@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways Nairobi Cabin Crew: Complete Guide'
-description: Everything you need to know about qatar airways nairobi cabin crew, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways nairobi cabin crew, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-nairobi-cabin-crew
-primary_keyword: qatar airways nairobi cabin crew
+primary_keyword: 'qatar airways nairobi cabin crew'
 secondary_keywords:
-- flight from kisumu to maasai mara
-- skyward flights from kisumu to nairobi
-- kq flights from eldoret to nairobi price
-- flights in eldoret
-- kq flights from eldoret to mombasa
+- 'flight from kisumu to maasai mara'
+- 'skyward flights from kisumu to nairobi'
+- 'kq flights from eldoret to nairobi price'
+- 'flights in eldoret'
+- 'kq flights from eldoret to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

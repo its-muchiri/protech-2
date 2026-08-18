@@ -1,14 +1,14 @@
 ---
 title: 'Klm Flights from Kenya to Amsterdam: Complete Guide'
-description: Everything you need to know about klm flights from kenya to amsterdam, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about klm flights from kenya to amsterdam, including routes, airlines, booking tips, and fares.'
 slug: klm-flights-from-kenya-to-amsterdam
-primary_keyword: klm flights from kenya to amsterdam
+primary_keyword: 'klm flights from kenya to amsterdam'
 secondary_keywords:
-- rwandair flights from nairobi to kigali ticket price
-- south african airways flights from nairobi to johannesburg
-- flight from nairobi to usa price
-- flights from nairobi wilson to kisumu
-- flights from nairobi to wajir
+- 'rwandair flights from nairobi to kigali ticket price'
+- 'south african airways flights from nairobi to johannesburg'
+- 'flight from nairobi to usa price'
+- 'flights from nairobi wilson to kisumu'
+- 'flights from nairobi to wajir'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

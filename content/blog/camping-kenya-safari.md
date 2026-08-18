@@ -1,14 +1,14 @@
 ---
 title: 'Camping Kenya Safari: Complete Guide'
-description: Kenya safari guide covering camping kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering camping kenya safari, including what is included, pricing, and booking advice.'
 slug: camping-kenya-safari
-primary_keyword: Camping Kenya safari
+primary_keyword: 'Camping Kenya safari'
 secondary_keywords:
-- Special offers Kenya safari tours online
-- Kenya adventure safari packages cost UK (hiking, biking)
-- Kenya coast safari (Mombasa/Diani departure) deals USA booking
-- Best Kenya safari packages for European travelers reviews
-- German speaking guide Kenya safari booking online
+- 'Special offers Kenya safari tours online'
+- 'Kenya adventure safari packages cost UK (hiking, biking)'
+- 'Kenya coast safari (Mombasa/Diani departure) deals USA booking'
+- 'Best Kenya safari packages for European travelers reviews'
+- 'German speaking guide Kenya safari booking online'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

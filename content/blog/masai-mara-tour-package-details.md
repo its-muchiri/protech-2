@@ -1,14 +1,14 @@
 ---
 title: 'Masai Mara Tour Package Details: Complete Guide'
-description: Kenya safari guide covering masai mara tour package details, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering masai mara tour package details, including what is included, pricing, and booking advice.'
 slug: masai-mara-tour-package-details
-primary_keyword: Masai Mara tour package details
+primary_keyword: 'Masai Mara tour package details'
 secondary_keywords:
-- Mid-range 10 day Kenya highlights tour itinerary company
-- Secure Kenya safari trip reservation
-- Buy Laikipia luxury safari booking
-- Secure Great Rift Valley lakes tour booking
-- Buy weekend Kenya safari getaway booking
+- 'Mid-range 10 day Kenya highlights tour itinerary company'
+- 'Secure Kenya safari trip reservation'
+- 'Buy Laikipia luxury safari booking'
+- 'Secure Great Rift Valley lakes tour booking'
+- 'Buy weekend Kenya safari getaway booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

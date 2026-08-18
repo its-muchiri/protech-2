@@ -1,14 +1,14 @@
 ---
 title: 'Book Amboseli Cultural Manyatta Stay Safari Package Europe Immersive Experience Booking: Complete Guide'
-description: Kenya safari guide covering book amboseli cultural manyatta stay safari package europe immersive experience booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book amboseli cultural manyatta stay safari package europe immersive experience booking, including what is included, pricing, and booking advice.'
 slug: book-amboseli-cultural-manyatta-stay-safari-package-europe-immersive-experience-booking
-primary_keyword: Book Amboseli cultural manyatta stay safari package Europe immersive experience booking
+primary_keyword: 'Book Amboseli cultural manyatta stay safari package Europe immersive experience booking'
 secondary_keywords:
-- Internal flights Kenya Safarilink / AirKenya schedule / price
-- Gorilla trekking tours from Kenya combined Uganda / Rwanda trip
-- Tours starting from Wilson Airport Nairobi fly-in safaris
-- Purchase Kenya honeymoon safari package online
-- Kenya safari holiday offers Europe early booking
+- 'Internal flights Kenya Safarilink / AirKenya schedule / price'
+- 'Gorilla trekking tours from Kenya combined Uganda / Rwanda trip'
+- 'Tours starting from Wilson Airport Nairobi fly-in safaris'
+- 'Purchase Kenya honeymoon safari package online'
+- 'Kenya safari holiday offers Europe early booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

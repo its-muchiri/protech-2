@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Reward Flights: Complete Guide'
-description: Everything you need to know about kenya airways reward flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways reward flights, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-reward-flights
-primary_keyword: kenya airways reward flights
+primary_keyword: 'kenya airways reward flights'
 secondary_keywords:
-- flights from beirut to nairobi
-- cheap flights from nairobi to johannesburg
-- flights from nairobi to eldoret today
-- flights from nairobi to freetown
-- flights from nairobi to geneva
+- 'flights from beirut to nairobi'
+- 'cheap flights from nairobi to johannesburg'
+- 'flights from nairobi to eldoret today'
+- 'flights from nairobi to freetown'
+- 'flights from nairobi to geneva'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

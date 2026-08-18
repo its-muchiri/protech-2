@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Usa Price: Complete Guide'
-description: Everything you need to know about flight from nairobi to usa price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to usa price, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-usa-price
-primary_keyword: flight from nairobi to usa price
+primary_keyword: 'flight from nairobi to usa price'
 secondary_keywords:
-- emirates kenya visa
-- ethiopian airlines flight status to nairobi
-- ethiopian airlines cargo nairobi
-- jambo jet flight from nairobi to eldoret
-- ethiopian airlines from doha to nairobi price one way ticket
+- 'emirates kenya visa'
+- 'ethiopian airlines flight status to nairobi'
+- 'ethiopian airlines cargo nairobi'
+- 'jambo jet flight from nairobi to eldoret'
+- 'ethiopian airlines from doha to nairobi price one way ticket'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

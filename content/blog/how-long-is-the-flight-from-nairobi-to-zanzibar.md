@@ -1,14 +1,14 @@
 ---
 title: 'How Long Is the Flight from Nairobi to Zanzibar: Complete Guide'
-description: Everything you need to know about how long is the flight from nairobi to zanzibar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how long is the flight from nairobi to zanzibar, including routes, airlines, booking tips, and fares.'
 slug: how-long-is-the-flight-from-nairobi-to-zanzibar
-primary_keyword: how long is the flight from nairobi to zanzibar
+primary_keyword: 'how long is the flight from nairobi to zanzibar'
 secondary_keywords:
-- flights to nairobi one way
-- nairobi to china flights price
-- does kenya airways fly to new york
-- flights nairobi to samburu
-- flights from nairobi to toronto canada
+- 'flights to nairobi one way'
+- 'nairobi to china flights price'
+- 'does kenya airways fly to new york'
+- 'flights nairobi to samburu'
+- 'flights from nairobi to toronto canada'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

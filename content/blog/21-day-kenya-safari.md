@@ -1,14 +1,14 @@
 ---
 title: '21 Day Kenya Safari: Complete Guide'
-description: Kenya safari guide covering 21 day kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering 21 day kenya safari, including what is included, pricing, and booking advice.'
 slug: 21-day-kenya-safari
-primary_keyword: 21 day Kenya safari
+primary_keyword: '21 day Kenya safari'
 secondary_keywords:
-- Angama Mara safari package cost
-- Romantic Kenya safari package deals
-- Discounted Kenya safari tours purchase
-- Kenya Zanzibar beach safari package deal
-- Book Northern circuit Kenya safari package
+- 'Angama Mara safari package cost'
+- 'Romantic Kenya safari package deals'
+- 'Discounted Kenya safari tours purchase'
+- 'Kenya Zanzibar beach safari package deal'
+- 'Book Northern circuit Kenya safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

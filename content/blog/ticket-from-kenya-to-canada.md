@@ -1,14 +1,14 @@
 ---
 title: 'Ticket from Kenya to Canada: Complete Guide'
-description: Everything you need to know about ticket from kenya to canada, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ticket from kenya to canada, including routes, airlines, booking tips, and fares.'
 slug: ticket-from-kenya-to-canada
-primary_keyword: ticket from kenya to canada
+primary_keyword: 'ticket from kenya to canada'
 secondary_keywords:
-- flights kenya to cape town
-- x in kenya
-- dubai flights from kenya
-- are there direct flights from kenya to china
-- bali flights from kenya
+- 'flights kenya to cape town'
+- 'x in kenya'
+- 'dubai flights from kenya'
+- 'are there direct flights from kenya to china'
+- 'bali flights from kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

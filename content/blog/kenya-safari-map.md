@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Map: Complete Guide'
-description: Kenya safari guide covering kenya safari map, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari map, including what is included, pricing, and booking advice.'
 slug: kenya-safari-map
-primary_keyword: Kenya safari map
+primary_keyword: 'Kenya safari map'
 secondary_keywords:
-- Bespoke safari planner Kenya
-- Nairobi National Park half-day tour company
-- Saiwa Swamp National Park tours Kitale
-- Walking safari operators Laikipia
-- Lake Turkana expedition tour companies
+- 'Bespoke safari planner Kenya'
+- 'Nairobi National Park half-day tour company'
+- 'Saiwa Swamp National Park tours Kitale'
+- 'Walking safari operators Laikipia'
+- 'Lake Turkana expedition tour companies'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

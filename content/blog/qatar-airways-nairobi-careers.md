@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways Nairobi Careers: Complete Guide'
-description: Everything you need to know about qatar airways nairobi careers, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways nairobi careers, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-nairobi-careers
-primary_keyword: qatar airways nairobi careers
+primary_keyword: 'qatar airways nairobi careers'
 secondary_keywords:
-- flights from nairobi kenya to brazzaville congo
-- flights from nairobi to lodwar
-- flights from nairobi to manchester uk
-- flights from nairobi to ndola
-- flights from nairobi to ontario
+- 'flights from nairobi kenya to brazzaville congo'
+- 'flights from nairobi to lodwar'
+- 'flights from nairobi to manchester uk'
+- 'flights from nairobi to ndola'
+- 'flights from nairobi to ontario'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

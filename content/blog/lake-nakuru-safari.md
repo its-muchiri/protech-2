@@ -1,14 +1,14 @@
 ---
 title: 'Lake Nakuru Safari: Complete Guide'
-description: Kenya safari guide covering lake nakuru safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering lake nakuru safari, including what is included, pricing, and booking advice.'
 slug: lake-nakuru-safari
-primary_keyword: Lake Nakuru safari
+primary_keyword: 'Lake Nakuru safari'
 secondary_keywords:
-- Secure Great Rift Valley lakes tour booking
-- Buy weekend Kenya safari getaway booking
-- Reserve 5 day family fly-in Amboseli package
-- Amboseli tour package price quote
-- Luxury Kenya safari package price quote
+- 'Secure Great Rift Valley lakes tour booking'
+- 'Buy weekend Kenya safari getaway booking'
+- 'Reserve 5 day family fly-in Amboseli package'
+- 'Amboseli tour package price quote'
+- 'Luxury Kenya safari package price quote'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

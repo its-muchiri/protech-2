@@ -1,14 +1,14 @@
 ---
 title: 'Safarilink Flights from Kisumu to Nairobi Price: Complete Guide'
-description: Everything you need to know about safarilink flights from kisumu to nairobi price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about safarilink flights from kisumu to nairobi price, including routes, airlines, booking tips, and fares.'
 slug: safarilink-flights-from-kisumu-to-nairobi-price
-primary_keyword: safarilink flights from kisumu to nairobi price
+primary_keyword: 'safarilink flights from kisumu to nairobi price'
 secondary_keywords:
-- flights from nairobi to diani beach
-- flights from nairobi to eldoret kenya
-- who flies direct to nairobi
-- garissa flights from nairobi
-- flights from nairobi to london heathrow
+- 'flights from nairobi to diani beach'
+- 'flights from nairobi to eldoret kenya'
+- 'who flies direct to nairobi'
+- 'garissa flights from nairobi'
+- 'flights from nairobi to london heathrow'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from London to Nairobi Today: Complete Guide'
-description: Everything you need to know about kq flight from london to nairobi today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from london to nairobi today, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-london-to-nairobi-today
-primary_keyword: kq flight from london to nairobi today
+primary_keyword: 'kq flight from london to nairobi today'
 secondary_keywords:
-- flight from nairobi to eldoret jambojet
-- flight time from nairobi to victoria falls
-- flight from nairobi to germany price
-- flight from nairobi to hamburg
-- flight from nairobi to juba
+- 'flight from nairobi to eldoret jambojet'
+- 'flight time from nairobi to victoria falls'
+- 'flight from nairobi to germany price'
+- 'flight from nairobi to hamburg'
+- 'flight from nairobi to juba'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

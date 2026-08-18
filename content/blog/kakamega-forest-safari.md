@@ -1,14 +1,14 @@
 ---
 title: 'Kakamega Forest Safari: Complete Guide'
-description: Kenya safari guide covering kakamega forest safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kakamega forest safari, including what is included, pricing, and booking advice.'
 slug: kakamega-forest-safari
-primary_keyword: Kakamega Forest safari
+primary_keyword: 'Kakamega Forest safari'
 secondary_keywords:
-- Kenya safari vs South Africa safari
-- Off season Kenya safari deals April
-- Kenya safari scams
-- Bat Eared Fox safari Kenya
-- Drive times between Kenya parks
+- 'Kenya safari vs South Africa safari'
+- 'Off season Kenya safari deals April'
+- 'Kenya safari scams'
+- 'Bat Eared Fox safari Kenya'
+- 'Drive times between Kenya parks'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

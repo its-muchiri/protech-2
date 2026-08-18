@@ -1,14 +1,14 @@
 ---
 title: 'ECG Machine Repair in Kisumu: 2026 Price Guide'
-description: Kenya buying guide to ecg machine repair in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to ecg machine repair in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: ecg-machine-repair-in-kisumu
-primary_keyword: ECG machine repair in Kisumu
+primary_keyword: 'ECG machine repair in Kisumu'
 secondary_keywords:
-- Analytical balance and weighing scale for lab use
-- Electrosurgical unit (diathermy machine) price
-- Autoclave tape and sterilization pouches wholesale
-- Commode wheelchair for elderly patient
-- Double channel infusion pump for sale
+- 'Analytical balance and weighing scale for lab use'
+- 'Electrosurgical unit (diathermy machine) price'
+- 'Autoclave tape and sterilization pouches wholesale'
+- 'Commode wheelchair for elderly patient'
+- 'Double channel infusion pump for sale'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

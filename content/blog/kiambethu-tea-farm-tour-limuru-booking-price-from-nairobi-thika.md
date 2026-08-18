@@ -1,14 +1,14 @@
 ---
 title: 'Kiambethu Tea Farm Tour Limuru Booking / Price from Nairobi / Thika: Complete Guide'
-description: Kenya safari guide covering kiambethu tea farm tour limuru booking / price from nairobi / thika, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kiambethu tea farm tour limuru booking / price from nairobi / thika, including what is included, pricing, and booking advice.'
 slug: kiambethu-tea-farm-tour-limuru-booking-price-from-nairobi-thika
-primary_keyword: Kiambethu Tea Farm tour Limuru booking / price from Nairobi / Thika
+primary_keyword: 'Kiambethu Tea Farm tour Limuru booking / price from Nairobi / Thika'
 secondary_keywords:
-- Multi-day trekking tour operators Kenya
-- Location-Based Searches (Thika/Kiambu/Nairobi Focus)
-- Kenya safari companies using 4x4 Land Cruisers only
-- Safari vehicle hire with driver Nairobi company
-- Luxury lodge safari Kenya with balloon ride included operator
+- 'Multi-day trekking tour operators Kenya'
+- 'Location-Based Searches (Thika/Kiambu/Nairobi Focus)'
+- 'Kenya safari companies using 4x4 Land Cruisers only'
+- 'Safari vehicle hire with driver Nairobi company'
+- 'Luxury lodge safari Kenya with balloon ride included operator'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

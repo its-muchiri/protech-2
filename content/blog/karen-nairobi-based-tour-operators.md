@@ -1,14 +1,14 @@
 ---
 title: 'Karen Nairobi Based Tour Operators: Complete Guide'
-description: Kenya safari guide covering karen nairobi based tour operators, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering karen nairobi based tour operators, including what is included, pricing, and booking advice.'
 slug: karen-nairobi-based-tour-operators
-primary_keyword: Karen Nairobi based tour operators
+primary_keyword: 'Karen Nairobi based tour operators'
 secondary_keywords:
-- Masai Mara safari online booking
-- Book all-inclusive Kenya safari
-- Book 7 day Masai Mara fly-in package
-- Best Masai Mara safari package operator
-- Top luxury safari camps Kenya package
+- 'Masai Mara safari online booking'
+- 'Book all-inclusive Kenya safari'
+- 'Book 7 day Masai Mara fly-in package'
+- 'Best Masai Mara safari package operator'
+- 'Top luxury safari camps Kenya package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

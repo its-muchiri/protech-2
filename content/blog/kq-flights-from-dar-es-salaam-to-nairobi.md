@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from Dar Es Salaam to Nairobi: Complete Guide'
-description: Everything you need to know about kq flights from dar es salaam to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from dar es salaam to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-dar-es-salaam-to-nairobi
-primary_keyword: kq flights from dar es salaam to nairobi
+primary_keyword: 'kq flights from dar es salaam to nairobi'
 secondary_keywords:
-- how much is kq flight from nairobi to dubai
-- kenya airways flight from nairobi to lagos
-- kenya airways flight from nairobi to paris
-- kq flight schedule from nairobi to mombasa
-- kenya airways flight from accra to nairobi today
+- 'how much is kq flight from nairobi to dubai'
+- 'kenya airways flight from nairobi to lagos'
+- 'kenya airways flight from nairobi to paris'
+- 'kq flight schedule from nairobi to mombasa'
+- 'kenya airways flight from accra to nairobi today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

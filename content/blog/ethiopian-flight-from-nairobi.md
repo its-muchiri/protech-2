@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Flight from Nairobi: Complete Guide'
-description: Everything you need to know about ethiopian flight from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian flight from nairobi, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-flight-from-nairobi
-primary_keyword: ethiopian flight from nairobi
+primary_keyword: 'ethiopian flight from nairobi'
 secondary_keywords:
-- kq flight from nairobi to juba
-- kq direct flight from nairobi to new york
-- kenya airways flight from nairobi to heathrow today
-- kenya airways flight from nairobi to london
-- one way flight from nairobi to kisumu
+- 'kq flight from nairobi to juba'
+- 'kq direct flight from nairobi to new york'
+- 'kenya airways flight from nairobi to heathrow today'
+- 'kenya airways flight from nairobi to london'
+- 'one way flight from nairobi to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

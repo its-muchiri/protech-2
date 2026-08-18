@@ -1,14 +1,14 @@
 ---
 title: 'Kisumu Flights: Complete Guide'
-description: Everything you need to know about kisumu flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kisumu flights, including routes, airlines, booking tips, and fares.'
 slug: kisumu-flights
-primary_keyword: kisumu flights
+primary_keyword: 'kisumu flights'
 secondary_keywords:
-- flights from kenya to jhb
-- flight from kenya to hong kong
-- flights from kenya to lusaka
-- flights from kenya to maldives
-- kenya airways flights from addis ababa to nairobi
+- 'flights from kenya to jhb'
+- 'flight from kenya to hong kong'
+- 'flights from kenya to lusaka'
+- 'flights from kenya to maldives'
+- 'kenya airways flights from addis ababa to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

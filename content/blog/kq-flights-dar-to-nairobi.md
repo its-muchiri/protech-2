@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights Dar to Nairobi: Complete Guide'
-description: Everything you need to know about kq flights dar to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights dar to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-dar-to-nairobi
-primary_keyword: kq flights dar to nairobi
+primary_keyword: 'kq flights dar to nairobi'
 secondary_keywords:
-- turkish airlines flight status nairobi to istanbul
-- emirates airlines contact number nairobi kenya
-- ethiopian airlines flights from nairobi to dubai price
-- ethiopian airlines nairobi to mumbai
-- ethiopian airlines fares
+- 'turkish airlines flight status nairobi to istanbul'
+- 'emirates airlines contact number nairobi kenya'
+- 'ethiopian airlines flights from nairobi to dubai price'
+- 'ethiopian airlines nairobi to mumbai'
+- 'ethiopian airlines fares'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

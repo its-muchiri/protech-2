@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kenya to Oslo: Complete Guide'
-description: Everything you need to know about flight from kenya to oslo, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kenya to oslo, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kenya-to-oslo
-primary_keyword: flight from kenya to oslo
+primary_keyword: 'flight from kenya to oslo'
 secondary_keywords:
-- orlando to nairobi flights
-- nairobi to malindi flights price
-- flights nairobi to rwanda
-- flights nairobi to spain
-- flights nairobi to ukunda
+- 'orlando to nairobi flights'
+- 'nairobi to malindi flights price'
+- 'flights nairobi to rwanda'
+- 'flights nairobi to spain'
+- 'flights nairobi to ukunda'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

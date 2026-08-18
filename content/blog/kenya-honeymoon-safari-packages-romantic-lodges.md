@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Honeymoon Safari Packages Romantic Lodges: Complete Guide'
-description: Kenya safari guide covering kenya honeymoon safari packages romantic lodges, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya honeymoon safari packages romantic lodges, including what is included, pricing, and booking advice.'
 slug: kenya-honeymoon-safari-packages-romantic-lodges
-primary_keyword: Kenya honeymoon safari packages romantic lodges
+primary_keyword: 'Kenya honeymoon safari packages romantic lodges'
 secondary_keywords:
-- Low season Kenya safari price Europe (April/May)
-- Kenya Big Five safari holiday deals USA guaranteed sightings
-- Lake Nakuru flamingo safari price USA rhino sanctuary
-- Kenya safari holidays from UK book online ABTA/ATOL protected
-- Cost of Kenya safari from Manchester UK agent quote
+- 'Low season Kenya safari price Europe (April/May)'
+- 'Kenya Big Five safari holiday deals USA guaranteed sightings'
+- 'Lake Nakuru flamingo safari price USA rhino sanctuary'
+- 'Kenya safari holidays from UK book online ABTA/ATOL protected'
+- 'Cost of Kenya safari from Manchester UK agent quote'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

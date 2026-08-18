@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Nairobi Flights Suspension: Complete Guide'
-description: Everything you need to know about ethiopian airlines nairobi flights suspension, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines nairobi flights suspension, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-nairobi-flights-suspension
-primary_keyword: ethiopian airlines nairobi flights suspension
+primary_keyword: 'ethiopian airlines nairobi flights suspension'
 secondary_keywords:
-- how long is a flight from frankfurt to nairobi
-- how many hours flight from nairobi to germany
-- how much is flight from nairobi to zanzibar
-- flight from nairobi to johannesburg time
-- flight from nairobi to lagos
+- 'how long is a flight from frankfurt to nairobi'
+- 'how many hours flight from nairobi to germany'
+- 'how much is flight from nairobi to zanzibar'
+- 'flight from nairobi to johannesburg time'
+- 'flight from nairobi to lagos'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

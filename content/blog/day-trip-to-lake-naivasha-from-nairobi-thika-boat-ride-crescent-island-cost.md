@@ -1,14 +1,14 @@
 ---
 title: 'Day Trip to Lake Naivasha from Nairobi / Thika Boat Ride / Crescent Island Cost: Complete Guide'
-description: Kenya safari guide covering day trip to lake naivasha from nairobi / thika boat ride / crescent island cost, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering day trip to lake naivasha from nairobi / thika boat ride / crescent island cost, including what is included, pricing, and booking advice.'
 slug: day-trip-to-lake-naivasha-from-nairobi-thika-boat-ride-crescent-island-cost
-primary_keyword: Day trip to Lake Naivasha from Nairobi / Thika boat ride / Crescent Island cost
+primary_keyword: 'Day trip to Lake Naivasha from Nairobi / Thika boat ride / Crescent Island cost'
 secondary_keywords:
-- Visit Mzima Springs Tsavo West tour package
-- Lake Naivasha boat ride hippo tour price
-- Accessible safari Kenya wheelchair friendly lodges / vehicles
-- Budget beach hotels Mombasa North Coast backpacker options
-- Lamu cultural festival dates and tours 2025
+- 'Visit Mzima Springs Tsavo West tour package'
+- 'Lake Naivasha boat ride hippo tour price'
+- 'Accessible safari Kenya wheelchair friendly lodges / vehicles'
+- 'Budget beach hotels Mombasa North Coast backpacker options'
+- 'Lamu cultural festival dates and tours 2025'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

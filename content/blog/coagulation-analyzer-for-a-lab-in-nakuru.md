@@ -1,14 +1,14 @@
 ---
 title: 'Coagulation Analyzer for a Lab in Nakuru: 2026 Price Guide'
-description: Kenya buying guide to coagulation analyzer for a lab in nakuru. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to coagulation analyzer for a lab in nakuru. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: coagulation-analyzer-for-a-lab-in-nakuru
-primary_keyword: Coagulation analyzer for a lab in Nakuru
+primary_keyword: 'Coagulation analyzer for a lab in Nakuru'
 secondary_keywords:
-- Boat ambulance equipment suppliers
-- Spirometer for lung function test price
-- Portable suction machine for ambulance
-- PACS system for radiology department price
-- dental model trimmer for lab
+- 'Boat ambulance equipment suppliers'
+- 'Spirometer for lung function test price'
+- 'Portable suction machine for ambulance'
+- 'PACS system for radiology department price'
+- 'dental model trimmer for lab'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

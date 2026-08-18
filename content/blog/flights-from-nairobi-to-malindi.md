@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Malindi: Complete Guide'
-description: Everything you need to know about flights from nairobi to malindi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to malindi, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-malindi
-primary_keyword: flights from nairobi to malindi
+primary_keyword: 'flights from nairobi to malindi'
 secondary_keywords:
-- kq flights to accra
-- tanzania bans kq flights
-- kq cheap flights
-- kq flights to dubai from nairobi
-- kq flights to guangzhou
+- 'kq flights to accra'
+- 'tanzania bans kq flights'
+- 'kq cheap flights'
+- 'kq flights to dubai from nairobi'
+- 'kq flights to guangzhou'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

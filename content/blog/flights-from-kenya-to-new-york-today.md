@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to New York Today: Complete Guide'
-description: Everything you need to know about flights from kenya to new york today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to new york today, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-new-york-today
-primary_keyword: flights from kenya to new york today
+primary_keyword: 'flights from kenya to new york today'
 secondary_keywords:
-- kq 483 flight status
-- sq611 flight status
-- kq 886
-- emirates flight from nairobi to dubai price in kenya shillings
-- kenya airways to dubai flight status
+- 'kq 483 flight status'
+- 'sq611 flight status'
+- 'kq 886'
+- 'emirates flight from nairobi to dubai price in kenya shillings'
+- 'kenya airways to dubai flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

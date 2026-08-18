@@ -1,14 +1,14 @@
 ---
 title: 'Tanzania Suspends Kq Flights: Complete Guide'
-description: Everything you need to know about tanzania suspends kq flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about tanzania suspends kq flights, including routes, airlines, booking tips, and fares.'
 slug: tanzania-suspends-kq-flights
-primary_keyword: tanzania suspends kq flights
+primary_keyword: 'tanzania suspends kq flights'
 secondary_keywords:
-- cost of flight from eldoret to mombasa
-- flights to eldoret kenya
-- flights from nairobi to eldoret price
-- kq flights to mombasa
-- kq flights to south africa
+- 'cost of flight from eldoret to mombasa'
+- 'flights to eldoret kenya'
+- 'flights from nairobi to eldoret price'
+- 'kq flights to mombasa'
+- 'kq flights to south africa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

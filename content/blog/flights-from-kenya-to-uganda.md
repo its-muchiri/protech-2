@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Uganda: Complete Guide'
-description: Everything you need to know about flights from kenya to uganda, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to uganda, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-uganda
-primary_keyword: flights from kenya to uganda
+primary_keyword: 'flights from kenya to uganda'
 secondary_keywords:
-- flights from hyderabad to nairobi kenya
-- flights from kenya to jamaica
-- flights from jfk to nairobi kenya
-- flights from nairobi to kitale kenya
-- cheap flights from london to nairobi kenya
+- 'flights from hyderabad to nairobi kenya'
+- 'flights from kenya to jamaica'
+- 'flights from jfk to nairobi kenya'
+- 'flights from nairobi to kitale kenya'
+- 'cheap flights from london to nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

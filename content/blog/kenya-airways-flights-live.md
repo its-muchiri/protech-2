@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights Live: Complete Guide'
-description: Everything you need to know about kenya airways flights live, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights live, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-live
-primary_keyword: kenya airways flights live
+primary_keyword: 'kenya airways flights live'
 secondary_keywords:
-- emirates flights from edinburgh to perth australia
-- emirates flights from france
-- emirates flights to greece from newark
-- how many emirates flights from london to dubai each week
-- cheap flights to india from toronto emirates
+- 'emirates flights from edinburgh to perth australia'
+- 'emirates flights from france'
+- 'emirates flights to greece from newark'
+- 'how many emirates flights from london to dubai each week'
+- 'cheap flights to india from toronto emirates'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

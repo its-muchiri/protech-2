@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Valencia: Complete Guide'
-description: Everything you need to know about flights from nairobi to valencia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to valencia, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-valencia
-primary_keyword: flights from nairobi to valencia
+primary_keyword: 'flights from nairobi to valencia'
 secondary_keywords:
-- skyward flights from kisumu to nairobi
-- kq flights from eldoret to nairobi price
-- flights in eldoret
-- kq flights from eldoret to mombasa
-- skyward flights from eldoret to nairobi
+- 'skyward flights from kisumu to nairobi'
+- 'kq flights from eldoret to nairobi price'
+- 'flights in eldoret'
+- 'kq flights from eldoret to mombasa'
+- 'skyward flights from eldoret to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

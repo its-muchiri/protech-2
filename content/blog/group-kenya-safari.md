@@ -1,14 +1,14 @@
 ---
 title: 'Group Kenya Safari: Complete Guide'
-description: Kenya safari guide covering group kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering group kenya safari, including what is included, pricing, and booking advice.'
 slug: group-kenya-safari
-primary_keyword: Group Kenya safari
+primary_keyword: 'Group Kenya safari'
 secondary_keywords:
-- Cycling safari Kenya
-- Zebra migration Kenya
-- Kenya Tanzania safari combo
-- Best month for Kenya safari
-- Christmas Kenya safari
+- 'Cycling safari Kenya'
+- 'Zebra migration Kenya'
+- 'Kenya Tanzania safari combo'
+- 'Best month for Kenya safari'
+- 'Christmas Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

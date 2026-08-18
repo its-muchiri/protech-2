@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from Nairobi to Eldoret Ticket Price: Complete Guide'
-description: Everything you need to know about kenya airways flight from nairobi to eldoret ticket price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from nairobi to eldoret ticket price, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-nairobi-to-eldoret-ticket-price
-primary_keyword: kenya airways flight from nairobi to eldoret ticket price
+primary_keyword: 'kenya airways flight from nairobi to eldoret ticket price'
 secondary_keywords:
-- emirates flights from uk
-- emirates flights from vietnam
-- emirates fly from which terminal
-- emirates flights from new york to johannesburg
-- emirates flights to new zealand from uk
+- 'emirates flights from uk'
+- 'emirates flights from vietnam'
+- 'emirates fly from which terminal'
+- 'emirates flights from new york to johannesburg'
+- 'emirates flights to new zealand from uk'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

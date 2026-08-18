@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Accra Ghana: Complete Guide'
-description: Everything you need to know about flights from nairobi to accra ghana, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to accra ghana, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-accra-ghana
-primary_keyword: flights from nairobi to accra ghana
+primary_keyword: 'flights from nairobi to accra ghana'
 secondary_keywords:
-- ethiopian airlines from nairobi to addis ababa
-- cheap flights from nairobi to addis ababa
-- ethiopia to kenya flight time
-- ethiopian airlines flight from nairobi to addis ababa price
-- ethiopian airlines flight 302 videos
+- 'ethiopian airlines from nairobi to addis ababa'
+- 'cheap flights from nairobi to addis ababa'
+- 'ethiopia to kenya flight time'
+- 'ethiopian airlines flight from nairobi to addis ababa price'
+- 'ethiopian airlines flight 302 videos'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

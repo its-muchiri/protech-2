@@ -1,14 +1,14 @@
 ---
 title: 'Ol Pejeta Family Safari Itinerary Price: Complete Guide'
-description: Kenya safari guide covering ol pejeta family safari itinerary price, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering ol pejeta family safari itinerary price, including what is included, pricing, and booking advice.'
 slug: ol-pejeta-family-safari-itinerary-price
-primary_keyword: Ol Pejeta family safari itinerary price
+primary_keyword: 'Ol Pejeta family safari itinerary price'
 secondary_keywords:
-- Fly camp accommodation Kenya
-- Fishing safari Kenya (e.g., Lake Turkana)
-- Cheetah safari Kenya
-- Mombasa safari packages
-- International flights Kenya safari
+- 'Fly camp accommodation Kenya'
+- 'Fishing safari Kenya (e.g., Lake Turkana)'
+- 'Cheetah safari Kenya'
+- 'Mombasa safari packages'
+- 'International flights Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

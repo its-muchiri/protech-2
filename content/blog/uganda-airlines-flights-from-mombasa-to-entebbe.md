@@ -1,14 +1,14 @@
 ---
 title: 'Uganda Airlines Flights from Mombasa to Entebbe: Complete Guide'
-description: Everything you need to know about uganda airlines flights from mombasa to entebbe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about uganda airlines flights from mombasa to entebbe, including routes, airlines, booking tips, and fares.'
 slug: uganda-airlines-flights-from-mombasa-to-entebbe
-primary_keyword: uganda airlines flights from mombasa to entebbe
+primary_keyword: 'uganda airlines flights from mombasa to entebbe'
 secondary_keywords:
-- qatar airways nairobi cabin crew
-- how much is a flight from nairobi to qatar
-- qatar airways nairobi office working hours
-- 1 qatar riyal to ksh
-- kenya airways cargo flight schedule
+- 'qatar airways nairobi cabin crew'
+- 'how much is a flight from nairobi to qatar'
+- 'qatar airways nairobi office working hours'
+- '1 qatar riyal to ksh'
+- 'kenya airways cargo flight schedule'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

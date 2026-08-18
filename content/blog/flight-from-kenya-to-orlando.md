@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kenya to Orlando: Complete Guide'
-description: Everything you need to know about flight from kenya to orlando, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kenya to orlando, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kenya-to-orlando
-primary_keyword: flight from kenya to orlando
+primary_keyword: 'flight from kenya to orlando'
 secondary_keywords:
-- turkish airlines nairobi office hours
-- turkish airlines nairobi lounge
-- turkish airlines how long for refund
-- emirates airlines kenya
-- ethiopian airlines payment methods
+- 'turkish airlines nairobi office hours'
+- 'turkish airlines nairobi lounge'
+- 'turkish airlines how long for refund'
+- 'emirates airlines kenya'
+- 'ethiopian airlines payment methods'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Urine Chemistry Analyzer Price in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to urine chemistry analyzer price in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to urine chemistry analyzer price in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: urine-chemistry-analyzer-price-in-nairobi
-primary_keyword: Urine chemistry analyzer price in Nairobi
+primary_keyword: 'Urine chemistry analyzer price in Nairobi'
 secondary_keywords:
-- Medical equipment leasing vs buying in Kenya
-- CPR manikins for first aid training
-- Dental X-ray sensor repair services
-- IVF lab equipment suppliers in Nairobi
-- bone densitometry services in Nairobi cost
+- 'Medical equipment leasing vs buying in Kenya'
+- 'CPR manikins for first aid training'
+- 'Dental X-ray sensor repair services'
+- 'IVF lab equipment suppliers in Nairobi'
+- 'bone densitometry services in Nairobi cost'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

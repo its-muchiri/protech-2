@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Qatar: Complete Guide'
-description: Everything you need to know about flights nairobi to qatar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to qatar, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-qatar
-primary_keyword: flights nairobi to qatar
+primary_keyword: 'flights nairobi to qatar'
 secondary_keywords:
-- ethiopian airlines nairobi to addis ababa schedule
-- ethiopian airline terminal in nairobi
-- ethiopian airlines nairobi flights suspension
-- flights to turkey from nairobi
-- flight ticket kenya to dubai
+- 'ethiopian airlines nairobi to addis ababa schedule'
+- 'ethiopian airline terminal in nairobi'
+- 'ethiopian airlines nairobi flights suspension'
+- 'flights to turkey from nairobi'
+- 'flight ticket kenya to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

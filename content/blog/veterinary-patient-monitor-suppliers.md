@@ -1,14 +1,14 @@
 ---
 title: 'Veterinary Patient Monitor Suppliers: 2026 Price Guide'
-description: Kenya buying guide to veterinary patient monitor suppliers. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to veterinary patient monitor suppliers. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: veterinary-patient-monitor-suppliers
-primary_keyword: Veterinary patient monitor suppliers
+primary_keyword: 'Veterinary patient monitor suppliers'
 secondary_keywords:
-- Portable hemoglobin meter price
-- intraoral scanner price in Kenya
-- custom branded lab coats suppliers
-- geriatric care equipment suppliers
-- solar power solutions for rural clinics
+- 'Portable hemoglobin meter price'
+- 'intraoral scanner price in Kenya'
+- 'custom branded lab coats suppliers'
+- 'geriatric care equipment suppliers'
+- 'solar power solutions for rural clinics'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

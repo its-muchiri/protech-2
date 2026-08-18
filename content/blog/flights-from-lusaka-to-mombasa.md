@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Lusaka to Mombasa: Complete Guide'
-description: Everything you need to know about flights from lusaka to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from lusaka to mombasa, including routes, airlines, booking tips, and fares.'
 slug: flights-from-lusaka-to-mombasa
-primary_keyword: flights from lusaka to mombasa
+primary_keyword: 'flights from lusaka to mombasa'
 secondary_keywords:
-- flight from eldoret to kakuma
-- kq flights from nairobi to eldoret price today
-- kq flights
-- kq flights from nairobi to addis ababa
-- kq flights to bangkok
+- 'flight from eldoret to kakuma'
+- 'kq flights from nairobi to eldoret price today'
+- 'kq flights'
+- 'kq flights from nairobi to addis ababa'
+- 'kq flights to bangkok'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

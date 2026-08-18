@@ -1,14 +1,14 @@
 ---
 title: 'Visit Mzima Springs Tsavo West Tour Package: Complete Guide'
-description: Kenya safari guide covering visit mzima springs tsavo west tour package, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering visit mzima springs tsavo west tour package, including what is included, pricing, and booking advice.'
 slug: visit-mzima-springs-tsavo-west-tour-package
-primary_keyword: Visit Mzima Springs Tsavo West tour package
+primary_keyword: 'Visit Mzima Springs Tsavo West tour package'
 secondary_keywords:
-- Book Kenya safari package with international flights
-- Secure Kenya safari package for family with young children quote
-- Reserve New Year luxury Kenya safari deal
-- Purchase 6 day mid-range tented camp Masai Mara Nakuru package KATO operator
-- Secure 9 day Laikipia Borana Conservancy luxury horseback safari package reserve
+- 'Book Kenya safari package with international flights'
+- 'Secure Kenya safari package for family with young children quote'
+- 'Reserve New Year luxury Kenya safari deal'
+- 'Purchase 6 day mid-range tented camp Masai Mara Nakuru package KATO operator'
+- 'Secure 9 day Laikipia Borana Conservancy luxury horseback safari package reserve'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Mortuary Equipment Installation Services: 2026 Price Guide'
-description: Kenya buying guide to mortuary equipment installation services. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to mortuary equipment installation services. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: mortuary-equipment-installation-services
-primary_keyword: Mortuary equipment installation services
+primary_keyword: 'Mortuary equipment installation services'
 secondary_keywords:
-- Liquid oxygen tank installation for hospitals
-- EEG machine for neurology clinic price
-- Colposcope for gynecology clinic for sale
-- Mobile app for booking lab tests equipment
-- dental porcelain furnace cost
+- 'Liquid oxygen tank installation for hospitals'
+- 'EEG machine for neurology clinic price'
+- 'Colposcope for gynecology clinic for sale'
+- 'Mobile app for booking lab tests equipment'
+- 'dental porcelain furnace cost'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

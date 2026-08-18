@@ -1,14 +1,14 @@
 ---
 title: 'Open MRI Scanner Cost in Kenya: 2026 Price Guide'
-description: Kenya buying guide to open mri scanner cost in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to open mri scanner cost in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: open-mri-scanner-cost-in-kenya
-primary_keyword: Open MRI scanner cost in Kenya
+primary_keyword: 'Open MRI scanner cost in Kenya'
 secondary_keywords:
-- medical device regulations Kenya KEBS
-- innovative medical devices Kenya
-- radiology equipment suppliers Kenya
-- medical equipment suppliers in Nairobi
-- 5D ultrasound machine cost in Mombasa
+- 'medical device regulations Kenya KEBS'
+- 'innovative medical devices Kenya'
+- 'radiology equipment suppliers Kenya'
+- 'medical equipment suppliers in Nairobi'
+- '5D ultrasound machine cost in Mombasa'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

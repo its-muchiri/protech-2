@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Copenhagen: Complete Guide'
-description: Everything you need to know about flights from nairobi to copenhagen, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to copenhagen, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-copenhagen
-primary_keyword: flights from nairobi to copenhagen
+primary_keyword: 'flights from nairobi to copenhagen'
 secondary_keywords:
-- flights from eldoret
-- cost of flight from eldoret to mombasa
-- flights to eldoret kenya
-- flights from nairobi to eldoret price
-- kq flights to mombasa
+- 'flights from eldoret'
+- 'cost of flight from eldoret to mombasa'
+- 'flights to eldoret kenya'
+- 'flights from nairobi to eldoret price'
+- 'kq flights to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

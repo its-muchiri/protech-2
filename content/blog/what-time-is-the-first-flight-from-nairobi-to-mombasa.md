@@ -1,14 +1,14 @@
 ---
 title: 'What Time Is the First Flight from Nairobi to Mombasa: Complete Guide'
-description: Everything you need to know about what time is the first flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about what time is the first flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.'
 slug: what-time-is-the-first-flight-from-nairobi-to-mombasa
-primary_keyword: what time is the first flight from nairobi to mombasa
+primary_keyword: 'what time is the first flight from nairobi to mombasa'
 secondary_keywords:
-- flights from varanasi to dubai united arab emirates
-- emirates airlines x
-- emirates flights from london to dubai yesterday
-- emirates flight 0202
-- emirates flight 15
+- 'flights from varanasi to dubai united arab emirates'
+- 'emirates airlines x'
+- 'emirates flights from london to dubai yesterday'
+- 'emirates flight 0202'
+- 'emirates flight 15'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

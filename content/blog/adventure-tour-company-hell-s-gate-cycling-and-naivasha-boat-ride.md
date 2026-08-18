@@ -1,14 +1,14 @@
 ---
-title: 'Adventure Tour Company Hell's Gate Cycling and Naivasha Boat Ride: Complete Guide'
-description: Kenya safari guide covering adventure tour company hells gate cycling and naivasha boat ride, including what is included, pricing, and booking advice.
+title: 'Adventure Tour Company Hell''s Gate Cycling and Naivasha Boat Ride: Complete Guide'
+description: 'Kenya safari guide covering adventure tour company hells gate cycling and naivasha boat ride, including what is included, pricing, and booking advice.'
 slug: adventure-tour-company-hell-s-gate-cycling-and-naivasha-boat-ride
-primary_keyword: Adventure tour company Hell's Gate cycling and Naivasha boat ride
+primary_keyword: 'Adventure tour company Hell''s Gate cycling and Naivasha boat ride'
 secondary_keywords:
-- Masai Mara balloon safari booking companies
-- Cycling safari companies Kenya
-- Single day excursions from Thika tour company
-- Private safari cost Kenya couple
-- Specific Needs & Logistics Searches
+- 'Masai Mara balloon safari booking companies'
+- 'Cycling safari companies Kenya'
+- 'Single day excursions from Thika tour company'
+- 'Private safari cost Kenya couple'
+- 'Specific Needs & Logistics Searches'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

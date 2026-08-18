@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Ethiopia to Kenya: Complete Guide'
-description: Everything you need to know about flight from ethiopia to kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from ethiopia to kenya, including routes, airlines, booking tips, and fares.'
 slug: flight-from-ethiopia-to-kenya
-primary_keyword: flight from ethiopia to kenya
+primary_keyword: 'flight from ethiopia to kenya'
 secondary_keywords:
-- emirates airline passenger information
-- emirates flights from london to new york
-- emirates flight 0406
-- emirates flight 206 from jfk
-- emirates flight 332
+- 'emirates airline passenger information'
+- 'emirates flights from london to new york'
+- 'emirates flight 0406'
+- 'emirates flight 206 from jfk'
+- 'emirates flight 332'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

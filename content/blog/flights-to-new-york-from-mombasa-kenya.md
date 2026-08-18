@@ -1,14 +1,14 @@
 ---
 title: 'Flights to New York from Mombasa Kenya: Complete Guide'
-description: Everything you need to know about flights to new york from mombasa kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to new york from mombasa kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-to-new-york-from-mombasa-kenya
-primary_keyword: flights to new york from mombasa kenya
+primary_keyword: 'flights to new york from mombasa kenya'
 secondary_keywords:
-- emirates flights from pakistan to london
-- emirates flight questions
-- emirates flights from rome to melbourne
-- emirates flights from singapore to dubai
-- emirates flights from uk to zimbabwe
+- 'emirates flights from pakistan to london'
+- 'emirates flight questions'
+- 'emirates flights from rome to melbourne'
+- 'emirates flights from singapore to dubai'
+- 'emirates flights from uk to zimbabwe'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Nairobi to Lagos: Complete Guide'
-description: Everything you need to know about ethiopian airlines nairobi to lagos, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines nairobi to lagos, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-nairobi-to-lagos
-primary_keyword: ethiopian airlines nairobi to lagos
+primary_keyword: 'ethiopian airlines nairobi to lagos'
 secondary_keywords:
-- flight price from nairobi to qatar
-- qatar airways booking nairobi
-- does qatar airways fly to uae
-- qatar airways nairobi number
-- qatar flight status nairobi to doha
+- 'flight price from nairobi to qatar'
+- 'qatar airways booking nairobi'
+- 'does qatar airways fly to uae'
+- 'qatar airways nairobi number'
+- 'qatar flight status nairobi to doha'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

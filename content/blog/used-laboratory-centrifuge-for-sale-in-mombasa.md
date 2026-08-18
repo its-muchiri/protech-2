@@ -1,14 +1,14 @@
 ---
 title: 'Used Laboratory Centrifuge for Sale in Mombasa: 2026 Price Guide'
-description: Kenya buying guide to used laboratory centrifuge for sale in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to used laboratory centrifuge for sale in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: used-laboratory-centrifuge-for-sale-in-mombasa
-primary_keyword: Used laboratory centrifuge for sale in Mombasa
+primary_keyword: 'Used laboratory centrifuge for sale in Mombasa'
 secondary_keywords:
-- Dental surgical instruments in Mombasa
-- 5-parameter patient monitor suppliers in Mombasa
-- 3-crank manual hospital bed cost
-- Patient stretcher trolley cost in Eldoret
-- Medical waste bins suppliers in Kisumu
+- 'Dental surgical instruments in Mombasa'
+- '5-parameter patient monitor suppliers in Mombasa'
+- '3-crank manual hospital bed cost'
+- 'Patient stretcher trolley cost in Eldoret'
+- 'Medical waste bins suppliers in Kisumu'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

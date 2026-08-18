@@ -1,14 +1,14 @@
 ---
 title: 'David Sheldrick Wildlife Trust Visit: Complete Guide'
-description: Kenya safari guide covering david sheldrick wildlife trust visit, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering david sheldrick wildlife trust visit, including what is included, pricing, and booking advice.'
 slug: david-sheldrick-wildlife-trust-visit
-primary_keyword: David Sheldrick Wildlife Trust visit
+primary_keyword: 'David Sheldrick Wildlife Trust visit'
 secondary_keywords:
-- Saiwa Swamp National Park tours Kitale
-- Walking safari operators Laikipia
-- Lake Turkana expedition tour companies
-- 7 day family safari beach combo company
-- Student discount safari Kenya
+- 'Saiwa Swamp National Park tours Kitale'
+- 'Walking safari operators Laikipia'
+- 'Lake Turkana expedition tour companies'
+- '7 day family safari beach combo company'
+- 'Student discount safari Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

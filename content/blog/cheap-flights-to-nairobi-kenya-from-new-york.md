@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights to Nairobi Kenya from New York: Complete Guide'
-description: Everything you need to know about cheap flights to nairobi kenya from new york, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights to nairobi kenya from new york, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-to-nairobi-kenya-from-new-york
-primary_keyword: cheap flights to nairobi kenya from new york
+primary_keyword: 'cheap flights to nairobi kenya from new york'
 secondary_keywords:
-- flights from nairobi to japan
-- kq flights from nairobi to china
-- lufthansa flights from nairobi
-- masai mara flights from nairobi
-- flights to nigeria from nairobi
+- 'flights from nairobi to japan'
+- 'kq flights from nairobi to china'
+- 'lufthansa flights from nairobi'
+- 'masai mara flights from nairobi'
+- 'flights to nigeria from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

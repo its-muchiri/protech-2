@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Nairobi to Boston: Complete Guide'
-description: Everything you need to know about emirates flights from nairobi to boston, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from nairobi to boston, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-nairobi-to-boston
-primary_keyword: emirates flights from nairobi to boston
+primary_keyword: 'emirates flights from nairobi to boston'
 secondary_keywords:
-- flights to kenya in june
-- flights to kenya in march
-- flights operating in kenya
-- flights from kenya to rwanda
-- flights kenya to australia
+- 'flights to kenya in june'
+- 'flights to kenya in march'
+- 'flights operating in kenya'
+- 'flights from kenya to rwanda'
+- 'flights kenya to australia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

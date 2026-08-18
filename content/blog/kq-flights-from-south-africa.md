@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from South Africa: Complete Guide'
-description: Everything you need to know about kq flights from south africa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from south africa, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-south-africa
-primary_keyword: kq flights from south africa
+primary_keyword: 'kq flights from south africa'
 secondary_keywords:
-- emirates flights from uk to dubai
-- emirates flight from vancouver to delhi
-- emirates flights from gatwick which terminal
-- flights from new york to dubai emirates
-- emirates flights to new zealand from birmingham
+- 'emirates flights from uk to dubai'
+- 'emirates flight from vancouver to delhi'
+- 'emirates flights from gatwick which terminal'
+- 'flights from new york to dubai emirates'
+- 'emirates flights to new zealand from birmingham'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

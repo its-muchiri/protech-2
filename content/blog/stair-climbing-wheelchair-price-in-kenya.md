@@ -1,14 +1,14 @@
 ---
 title: 'Stair Climbing Wheelchair Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to stair climbing wheelchair price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to stair climbing wheelchair price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: stair-climbing-wheelchair-price-in-kenya
-primary_keyword: Stair climbing wheelchair price in Kenya
+primary_keyword: 'Stair climbing wheelchair price in Kenya'
 secondary_keywords:
-- medical equipment Eldoret
-- nitrile gloves Kenya bulk
-- normal saline Kenya price
-- medical uniforms Kenya price
-- incontinence products Kenya
+- 'medical equipment Eldoret'
+- 'nitrile gloves Kenya bulk'
+- 'normal saline Kenya price'
+- 'medical uniforms Kenya price'
+- 'incontinence products Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

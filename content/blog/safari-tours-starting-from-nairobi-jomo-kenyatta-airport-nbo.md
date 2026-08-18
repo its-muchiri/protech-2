@@ -1,14 +1,14 @@
 ---
 title: 'Safari Tours Starting from Nairobi Jomo Kenyatta Airport (NBO): Complete Guide'
-description: Kenya safari guide covering safari tours starting from nairobi jomo kenyatta airport (nbo), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering safari tours starting from nairobi jomo kenyatta airport (nbo), including what is included, pricing, and booking advice.'
 slug: safari-tours-starting-from-nairobi-jomo-kenyatta-airport-nbo
-primary_keyword: Safari tours starting from Nairobi Jomo Kenyatta Airport (NBO)
+primary_keyword: 'Safari tours starting from Nairobi Jomo Kenyatta Airport (NBO)'
 secondary_keywords:
-- KATO registered company for Amboseli private photography tour
-- Reviews for  vs  family safari Kenya
-- Buy guided Kenya safari tour
-- Purchase Nairobi National Park day tour booking
-- Reserve 5 day Amboseli Tsavo combo package
+- 'KATO registered company for Amboseli private photography tour'
+- 'Reviews for  vs  family safari Kenya'
+- 'Buy guided Kenya safari tour'
+- 'Purchase Nairobi National Park day tour booking'
+- 'Reserve 5 day Amboseli Tsavo combo package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

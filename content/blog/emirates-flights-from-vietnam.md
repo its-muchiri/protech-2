@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Vietnam: Complete Guide'
-description: Everything you need to know about emirates flights from vietnam, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from vietnam, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-vietnam
-primary_keyword: emirates flights from vietnam
+primary_keyword: 'emirates flights from vietnam'
 secondary_keywords:
-- cheap flights from heathrow to nairobi kenya
-- flights from kenya to italy
-- cheap flights from johannesburg to nairobi kenya
-- flights from kuala lumpur to nairobi kenya
-- flights to kenya from lax
+- 'cheap flights from heathrow to nairobi kenya'
+- 'flights from kenya to italy'
+- 'cheap flights from johannesburg to nairobi kenya'
+- 'flights from kuala lumpur to nairobi kenya'
+- 'flights to kenya from lax'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

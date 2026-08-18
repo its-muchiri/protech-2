@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Vipingo: Complete Guide'
-description: Everything you need to know about flights from nairobi to vipingo, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to vipingo, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-vipingo
-primary_keyword: flights from nairobi to vipingo
+primary_keyword: 'flights from nairobi to vipingo'
 secondary_keywords:
-- ticketing courses in kenya
-- kenya airways booking nairobi to mombasa
-- airplanes in kenya
-- does british airways fly to uganda
-- do i need a passport for domestic flights in kenya
+- 'ticketing courses in kenya'
+- 'kenya airways booking nairobi to mombasa'
+- 'airplanes in kenya'
+- 'does british airways fly to uganda'
+- 'do i need a passport for domestic flights in kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

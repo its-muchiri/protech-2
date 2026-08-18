@@ -1,14 +1,14 @@
 ---
 title: 'Customer Testimonials Kenya Safari Companies Video Reviews: Complete Guide'
-description: Kenya safari guide covering customer testimonials kenya safari companies video reviews, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering customer testimonials kenya safari companies video reviews, including what is included, pricing, and booking advice.'
 slug: customer-testimonials-kenya-safari-companies-video-reviews
-primary_keyword: Customer testimonials Kenya safari companies video reviews
+primary_keyword: 'Customer testimonials Kenya safari companies video reviews'
 secondary_keywords:
-- Kenya driving safari 4x4 Land Cruiser companies
-- Masai Mara balloon safari booking companies
-- Cycling safari companies Kenya
-- Single day excursions from Thika tour company
-- Private safari cost Kenya couple
+- 'Kenya driving safari 4x4 Land Cruiser companies'
+- 'Masai Mara balloon safari booking companies'
+- 'Cycling safari companies Kenya'
+- 'Single day excursions from Thika tour company'
+- 'Private safari cost Kenya couple'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

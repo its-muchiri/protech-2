@@ -1,14 +1,14 @@
 ---
 title: 'Deep Sea Fishing Charter Watamu / Malindi Cost: Complete Guide'
-description: Kenya safari guide covering deep sea fishing charter watamu / malindi cost, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering deep sea fishing charter watamu / malindi cost, including what is included, pricing, and booking advice.'
 slug: deep-sea-fishing-charter-watamu-malindi-cost
-primary_keyword: Deep sea fishing charter Watamu / Malindi cost
+primary_keyword: 'Deep sea fishing charter Watamu / Malindi cost'
 secondary_keywords:
-- Horse riding safari Kenya Chyulu Hills / Laikipia ranches
-- Cross border safari Kenya and Tanzania Serengeti / Ngorongoro combined tour operators
-- Purchase fly-in safari Kenya Masai Mara online USA
-- Affordable Kenya safari packages USA budget friendly
-- Kenya safari package quote request form
+- 'Horse riding safari Kenya Chyulu Hills / Laikipia ranches'
+- 'Cross border safari Kenya and Tanzania Serengeti / Ngorongoro combined tour operators'
+- 'Purchase fly-in safari Kenya Masai Mara online USA'
+- 'Affordable Kenya safari packages USA budget friendly'
+- 'Kenya safari package quote request form'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

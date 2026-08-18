@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from Mombasa to Dubai: Complete Guide'
-description: Everything you need to know about kq flights from mombasa to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from mombasa to dubai, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-mombasa-to-dubai
-primary_keyword: kq flights from mombasa to dubai
+primary_keyword: 'kq flights from mombasa to dubai'
 secondary_keywords:
-- kenya airways flight schedule from nairobi to dar es salaam
-- does kenya airways fly to australia
-- kenya airways flight schedule from lilongwe to nairobi
-- kenya airways flight from new york to nairobi today
-- flight from nairobi
+- 'kenya airways flight schedule from nairobi to dar es salaam'
+- 'does kenya airways fly to australia'
+- 'kenya airways flight schedule from lilongwe to nairobi'
+- 'kenya airways flight from new york to nairobi today'
+- 'flight from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

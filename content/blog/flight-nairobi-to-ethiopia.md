@@ -1,14 +1,14 @@
 ---
 title: 'Flight Nairobi to Ethiopia: Complete Guide'
-description: Everything you need to know about flight nairobi to ethiopia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight nairobi to ethiopia, including routes, airlines, booking tips, and fares.'
 slug: flight-nairobi-to-ethiopia
-primary_keyword: flight nairobi to ethiopia
+primary_keyword: 'flight nairobi to ethiopia'
 secondary_keywords:
-- flights nairobi to portugal
-- qatar flights to nairobi today
-- nairobi to rome flights
-- flights nairobi to tel aviv
-- nairobi to uganda flights
+- 'flights nairobi to portugal'
+- 'qatar flights to nairobi today'
+- 'nairobi to rome flights'
+- 'flights nairobi to tel aviv'
+- 'nairobi to uganda flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

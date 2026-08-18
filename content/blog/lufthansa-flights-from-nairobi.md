@@ -1,14 +1,14 @@
 ---
 title: 'Lufthansa Flights from Nairobi: Complete Guide'
-description: Everything you need to know about lufthansa flights from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about lufthansa flights from nairobi, including routes, airlines, booking tips, and fares.'
 slug: lufthansa-flights-from-nairobi
-primary_keyword: lufthansa flights from nairobi
+primary_keyword: 'lufthansa flights from nairobi'
 secondary_keywords:
-- flights from glasgow to nairobi
-- flights from nairobi to istanbul
-- flights from nairobi to juba south sudan
-- flights from nairobi kenya to dallas texas
-- flights from nairobi to lilongwe malawi
+- 'flights from glasgow to nairobi'
+- 'flights from nairobi to istanbul'
+- 'flights from nairobi to juba south sudan'
+- 'flights from nairobi kenya to dallas texas'
+- 'flights from nairobi to lilongwe malawi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

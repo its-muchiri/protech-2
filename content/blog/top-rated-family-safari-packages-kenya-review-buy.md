@@ -1,14 +1,14 @@
 ---
 title: 'Top Rated Family Safari Packages Kenya Review Buy: Complete Guide'
-description: Kenya safari guide covering top rated family safari packages kenya review buy, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering top rated family safari packages kenya review buy, including what is included, pricing, and booking advice.'
 slug: top-rated-family-safari-packages-kenya-review-buy
-primary_keyword: Top rated family safari packages Kenya review buy
+primary_keyword: 'Top rated family safari packages Kenya review buy'
 secondary_keywords:
-- Books about Kenya safari
-- Kenya safari package price quote
-- Book last minute Kenya safari deal
-- Buy 14 day Kenya grand safari package
-- Laikipia luxury safari package booking
+- 'Books about Kenya safari'
+- 'Kenya safari package price quote'
+- 'Book last minute Kenya safari deal'
+- 'Buy 14 day Kenya grand safari package'
+- 'Laikipia luxury safari package booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Lodges: Complete Guide'
-description: Kenya safari guide covering kenya safari lodges, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari lodges, including what is included, pricing, and booking advice.'
 slug: kenya-safari-lodges
-primary_keyword: Kenya safari lodges
+primary_keyword: 'Kenya safari lodges'
 secondary_keywords:
-- El Molo village tour Lake Turkana operators
-- Lake Magadi day trip flamingo tour price / road condition
-- Sunworld Safaris Kenya reviews
-- Safari tour van hire Nairobi price per day 7 seater
-- Reliable tour operator Kenya forum recommendations (Lonely Planet, Fodor''s)
+- 'El Molo village tour Lake Turkana operators'
+- 'Lake Magadi day trip flamingo tour price / road condition'
+- 'Sunworld Safaris Kenya reviews'
+- 'Safari tour van hire Nairobi price per day 7 seater'
+- 'Reliable tour operator Kenya forum recommendations (Lonely Planet, Fodor''''s)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

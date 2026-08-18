@@ -1,14 +1,14 @@
 ---
 title: 'Best Tour Companies Kenya Reviews: Complete Guide'
-description: Kenya safari guide covering best tour companies kenya reviews, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering best tour companies kenya reviews, including what is included, pricing, and booking advice.'
 slug: best-tour-companies-kenya-reviews
-primary_keyword: Best tour companies Kenya reviews
+primary_keyword: 'Best tour companies Kenya reviews'
 secondary_keywords:
-- Small group Kenya safari
-- Long Kenya safari
-- 10 day Kenya safari
-- Budget safari lodges Kenya
-- Eco lodges Kenya safari
+- 'Small group Kenya safari'
+- 'Long Kenya safari'
+- '10 day Kenya safari'
+- 'Budget safari lodges Kenya'
+- 'Eco lodges Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

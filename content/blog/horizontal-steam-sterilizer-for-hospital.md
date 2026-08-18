@@ -1,14 +1,14 @@
 ---
 title: 'Horizontal Steam Sterilizer for Hospital: 2026 Price Guide'
-description: Kenya buying guide to horizontal steam sterilizer for hospital. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to horizontal steam sterilizer for hospital. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: horizontal-steam-sterilizer-for-hospital
-primary_keyword: Horizontal steam sterilizer for hospital
+primary_keyword: 'Horizontal steam sterilizer for hospital'
 secondary_keywords:
-- medical gas systems Kenya
-- medical mannequins Kenya
-- emergency medical supplies for businesses Kenya
-- medical equipment for ambulances Kenya
-- medical face shield for sale Kenya
+- 'medical gas systems Kenya'
+- 'medical mannequins Kenya'
+- 'emergency medical supplies for businesses Kenya'
+- 'medical equipment for ambulances Kenya'
+- 'medical face shield for sale Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

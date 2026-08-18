@@ -1,14 +1,14 @@
 ---
 title: 'South African Airways Flights from Nairobi to Johannesburg: Complete Guide'
-description: Everything you need to know about south african airways flights from nairobi to johannesburg, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about south african airways flights from nairobi to johannesburg, including routes, airlines, booking tips, and fares.'
 slug: south-african-airways-flights-from-nairobi-to-johannesburg
-primary_keyword: south african airways flights from nairobi to johannesburg
+primary_keyword: 'south african airways flights from nairobi to johannesburg'
 secondary_keywords:
-- emirates flight 1539
-- emirates flights 201
-- emirates flight 369
-- emirates flight from dubai to nairobi
-- emirates flight 6
+- 'emirates flight 1539'
+- 'emirates flights 201'
+- 'emirates flight 369'
+- 'emirates flight from dubai to nairobi'
+- 'emirates flight 6'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

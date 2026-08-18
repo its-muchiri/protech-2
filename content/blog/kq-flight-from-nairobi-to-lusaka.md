@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Nairobi to Lusaka: Complete Guide'
-description: Everything you need to know about kq flight from nairobi to lusaka, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from nairobi to lusaka, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-nairobi-to-lusaka
-primary_keyword: kq flight from nairobi to lusaka
+primary_keyword: 'kq flight from nairobi to lusaka'
 secondary_keywords:
-- flights from nairobi to zambia
-- flights from south africa to kenya today
-- international flights from nairobi
-- flights from nairobi to accra ghana
-- flights from nairobi to birmingham uk
+- 'flights from nairobi to zambia'
+- 'flights from south africa to kenya today'
+- 'international flights from nairobi'
+- 'flights from nairobi to accra ghana'
+- 'flights from nairobi to birmingham uk'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

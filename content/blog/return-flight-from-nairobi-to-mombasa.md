@@ -1,14 +1,14 @@
 ---
 title: 'Return Flight from Nairobi to Mombasa: Complete Guide'
-description: Everything you need to know about return flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about return flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.'
 slug: return-flight-from-nairobi-to-mombasa
-primary_keyword: return flight from nairobi to mombasa
+primary_keyword: 'return flight from nairobi to mombasa'
 secondary_keywords:
-- cheapest flights from mombasa to london
-- flights from mombasa to nairobi wilson airport today
-- cheap flights from nairobi to mombasa jambojet price
-- silverstone flights from mombasa to kisumu
-- wilson airport flights from mombasa
+- 'cheapest flights from mombasa to london'
+- 'flights from mombasa to nairobi wilson airport today'
+- 'cheap flights from nairobi to mombasa jambojet price'
+- 'silverstone flights from mombasa to kisumu'
+- 'wilson airport flights from mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

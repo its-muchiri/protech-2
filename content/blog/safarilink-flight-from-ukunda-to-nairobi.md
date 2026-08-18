@@ -1,14 +1,14 @@
 ---
 title: 'Safarilink Flight from Ukunda to Nairobi: Complete Guide'
-description: Everything you need to know about safarilink flight from ukunda to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about safarilink flight from ukunda to nairobi, including routes, airlines, booking tips, and fares.'
 slug: safarilink-flight-from-ukunda-to-nairobi
-primary_keyword: safarilink flight from ukunda to nairobi
+primary_keyword: 'safarilink flight from ukunda to nairobi'
 secondary_keywords:
-- when will emirates resume flights from adelaide
-- emirates flights to brisbane from uk
-- cheapest emirates flights from uk
-- emirates flights from entebbe to dubai
-- emirates flights for today
+- 'when will emirates resume flights from adelaide'
+- 'emirates flights to brisbane from uk'
+- 'cheapest emirates flights from uk'
+- 'emirates flights from entebbe to dubai'
+- 'emirates flights for today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

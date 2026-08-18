@@ -1,14 +1,14 @@
 ---
 title: 'Amalgamator for Dental Fillings in Eldoret: 2026 Price Guide'
-description: Kenya buying guide to amalgamator for dental fillings in eldoret. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to amalgamator for dental fillings in eldoret. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: amalgamator-for-dental-fillings-in-eldoret
-primary_keyword: Amalgamator for dental fillings in Eldoret
+primary_keyword: 'Amalgamator for dental fillings in Eldoret'
 secondary_keywords:
-- General surgery instrument set price in Kenya
-- Hydraulic operating table suppliers in Mombasa
-- Large capacity autoclave for a hospital in Nairobi
-- Hospital mattress and pillow suppliers in Nairobi
-- Stair climbing wheelchair price in Kenya
+- 'General surgery instrument set price in Kenya'
+- 'Hydraulic operating table suppliers in Mombasa'
+- 'Large capacity autoclave for a hospital in Nairobi'
+- 'Hospital mattress and pillow suppliers in Nairobi'
+- 'Stair climbing wheelchair price in Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

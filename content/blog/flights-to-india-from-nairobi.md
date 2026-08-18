@@ -1,14 +1,14 @@
 ---
 title: 'Flights to India from Nairobi: Complete Guide'
-description: Everything you need to know about flights to india from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to india from nairobi, including routes, airlines, booking tips, and fares.'
 slug: flights-to-india-from-nairobi
-primary_keyword: flights to india from nairobi
+primary_keyword: 'flights to india from nairobi'
 secondary_keywords:
-- flights nairobi to kampala
-- flights nairobi to lodwar
-- flights nairobi to masai mara
-- nairobi to nanyuki flights
-- flights nairobi to prague
+- 'flights nairobi to kampala'
+- 'flights nairobi to lodwar'
+- 'flights nairobi to masai mara'
+- 'nairobi to nanyuki flights'
+- 'flights nairobi to prague'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

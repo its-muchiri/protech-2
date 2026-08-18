@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight 003: Complete Guide'
-description: Everything you need to know about kq flight 003, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight 003, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-003
-primary_keyword: kq flight 003
+primary_keyword: 'kq flight 003'
 secondary_keywords:
-- flights from nairobi to masai mara
-- flights from nairobi to namibia
-- flights from nairobi to oman
-- flights from nairobi to philippines
-- qatar flight from nairobi to doha
+- 'flights from nairobi to masai mara'
+- 'flights from nairobi to namibia'
+- 'flights from nairobi to oman'
+- 'flights from nairobi to philippines'
+- 'qatar flight from nairobi to doha'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Lounge Nairobi Airport: Complete Guide'
-description: Everything you need to know about emirates lounge nairobi airport, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates lounge nairobi airport, including routes, airlines, booking tips, and fares.'
 slug: emirates-lounge-nairobi-airport
-primary_keyword: emirates lounge nairobi airport
+primary_keyword: 'emirates lounge nairobi airport'
 secondary_keywords:
-- flight 540 nairobi to kisumu price
-- 540 flight from nairobi to eldoret price
-- turkish airlines flights from nairobi
-- turkish airlines lounge nairobi cost
-- turkish airlines nairobi opening hours
+- 'flight 540 nairobi to kisumu price'
+- '540 flight from nairobi to eldoret price'
+- 'turkish airlines flights from nairobi'
+- 'turkish airlines lounge nairobi cost'
+- 'turkish airlines nairobi opening hours'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

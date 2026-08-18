@@ -1,14 +1,14 @@
 ---
 title: 'Book Kenya Migration Safari Tour Masai Mara Europe 2025: Complete Guide'
-description: Kenya safari guide covering book kenya migration safari tour masai mara europe 2025, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book kenya migration safari tour masai mara europe 2025, including what is included, pricing, and booking advice.'
 slug: book-kenya-migration-safari-tour-masai-mara-europe-2025
-primary_keyword: Book Kenya migration safari tour Masai Mara Europe 2025
+primary_keyword: 'Book Kenya migration safari tour Masai Mara Europe 2025'
 secondary_keywords:
-- Guided Kenya safari
-- 1 day Kenya safari
-- 21 day Kenya safari
-- Mid-range Kenya safari cost
-- Lake Nakuru accommodation
+- 'Guided Kenya safari'
+- '1 day Kenya safari'
+- '21 day Kenya safari'
+- 'Mid-range Kenya safari cost'
+- 'Lake Nakuru accommodation'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

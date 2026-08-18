@@ -1,14 +1,14 @@
 ---
 title: 'Which Terminal Is Emirates: Complete Guide'
-description: Everything you need to know about which terminal is emirates, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about which terminal is emirates, including routes, airlines, booking tips, and fares.'
 slug: which-terminal-is-emirates
-primary_keyword: which terminal is emirates
+primary_keyword: 'which terminal is emirates'
 secondary_keywords:
-- kq flights from uganda to kenya today timetable
-- kq 0117 flight status
-- kq flight 2
-- kq 304 flight status
-- kq 494
+- 'kq flights from uganda to kenya today timetable'
+- 'kq 0117 flight status'
+- 'kq flight 2'
+- 'kq 304 flight status'
+- 'kq 494'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

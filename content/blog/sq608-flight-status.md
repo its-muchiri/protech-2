@@ -1,14 +1,14 @@
 ---
 title: 'Sq608 Flight Status: Complete Guide'
-description: Everything you need to know about sq608 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about sq608 flight status, including routes, airlines, booking tips, and fares.'
 slug: sq608-flight-status
-primary_keyword: sq608 flight status
+primary_keyword: 'sq608 flight status'
 secondary_keywords:
-- kenya airways direct flights from nairobi
-- kenya airways flight schedule from johannesburg to nairobi today
-- kenya airways flight from lagos to nairobi
-- kenya airways flight from nairobi to eldoret ticket price
-- flight from nairobi to kisumu
+- 'kenya airways direct flights from nairobi'
+- 'kenya airways flight schedule from johannesburg to nairobi today'
+- 'kenya airways flight from lagos to nairobi'
+- 'kenya airways flight from nairobi to eldoret ticket price'
+- 'flight from nairobi to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

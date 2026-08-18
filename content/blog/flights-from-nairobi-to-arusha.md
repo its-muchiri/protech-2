@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Arusha: Complete Guide'
-description: Everything you need to know about flights from nairobi to arusha, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to arusha, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-arusha
-primary_keyword: flights from nairobi to arusha
+primary_keyword: 'flights from nairobi to arusha'
 secondary_keywords:
-- kq flights from nairobi to china price
-- kq flights to dar
-- kq pilot requirements
-- kenya airways increase flights to new york
-- kq flights kisumu to nairobi
+- 'kq flights from nairobi to china price'
+- 'kq flights to dar'
+- 'kq pilot requirements'
+- 'kenya airways increase flights to new york'
+- 'kq flights kisumu to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

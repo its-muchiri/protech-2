@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Nairobi to London One Way: Complete Guide'
-description: Everything you need to know about cheap flights from nairobi to london one way, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from nairobi to london one way, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-nairobi-to-london-one-way
-primary_keyword: cheap flights from nairobi to london one way
+primary_keyword: 'cheap flights from nairobi to london one way'
 secondary_keywords:
-- flight from mombasa to canada
-- flights from mombasa to dar
-- flights from mombasa to frankfurt
-- flights from mombasa to heathrow
-- flights to mombasa in december
+- 'flight from mombasa to canada'
+- 'flights from mombasa to dar'
+- 'flights from mombasa to frankfurt'
+- 'flights from mombasa to heathrow'
+- 'flights to mombasa in december'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

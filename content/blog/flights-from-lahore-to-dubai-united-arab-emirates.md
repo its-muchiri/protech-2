@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Lahore to Dubai United Arab Emirates: Complete Guide'
-description: Everything you need to know about flights from lahore to dubai united arab emirates, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from lahore to dubai united arab emirates, including routes, airlines, booking tips, and fares.'
 slug: flights-from-lahore-to-dubai-united-arab-emirates
-primary_keyword: flights from lahore to dubai united arab emirates
+primary_keyword: 'flights from lahore to dubai united arab emirates'
 secondary_keywords:
-- flights from kenya to japan
-- flights from kenya to kuwait
-- flights from kenya to london today
-- flights from mombasa kenya to maputo mozambique
-- flights from kenya to zanzibar
+- 'flights from kenya to japan'
+- 'flights from kenya to kuwait'
+- 'flights from kenya to london today'
+- 'flights from mombasa kenya to maputo mozambique'
+- 'flights from kenya to zanzibar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

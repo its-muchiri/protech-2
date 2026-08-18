@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 9: Complete Guide'
-description: Everything you need to know about emirates flight 9, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 9, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-9
-primary_keyword: emirates flight 9
+primary_keyword: 'emirates flight 9'
 secondary_keywords:
-- kq flight from nairobi to jfk
-- kq flight from nairobi to mumbai
-- kenya airways flight schedule nairobi to johannesburg
-- kenya airways flights from nairobi to abuja
-- kenya airways flights from nairobi to cape town today
+- 'kq flight from nairobi to jfk'
+- 'kq flight from nairobi to mumbai'
+- 'kenya airways flight schedule nairobi to johannesburg'
+- 'kenya airways flights from nairobi to abuja'
+- 'kenya airways flights from nairobi to cape town today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

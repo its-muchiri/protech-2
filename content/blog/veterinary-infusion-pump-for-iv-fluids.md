@@ -1,14 +1,14 @@
 ---
 title: 'Veterinary Infusion Pump for IV Fluids: 2026 Price Guide'
-description: Kenya buying guide to veterinary infusion pump for iv fluids. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to veterinary infusion pump for iv fluids. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: veterinary-infusion-pump-for-iv-fluids
-primary_keyword: Veterinary infusion pump for IV fluids
+primary_keyword: 'Veterinary infusion pump for IV fluids'
 secondary_keywords:
-- Home care equipment rental in Karen, Nairobi
-- Medical equipment for mission hospitals in Kenya
-- Refurbished 64-slice Siemens CT scanner for sale in Nairobi
-- Portable color Doppler ultrasound scanner price
-- Dental intraoral X-ray machine cost
+- 'Home care equipment rental in Karen, Nairobi'
+- 'Medical equipment for mission hospitals in Kenya'
+- 'Refurbished 64-slice Siemens CT scanner for sale in Nairobi'
+- 'Portable color Doppler ultrasound scanner price'
+- 'Dental intraoral X-ray machine cost'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

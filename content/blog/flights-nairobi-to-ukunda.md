@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Ukunda: Complete Guide'
-description: Everything you need to know about flights nairobi to ukunda, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to ukunda, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-ukunda
-primary_keyword: flights nairobi to ukunda
+primary_keyword: 'flights nairobi to ukunda'
 secondary_keywords:
-- return flight from nairobi to mombasa
-- flight from nairobi to somalia
-- flight from nairobi to usa
-- flight from nairobi to vipingo
-- flight from wajir to nairobi
+- 'return flight from nairobi to mombasa'
+- 'flight from nairobi to somalia'
+- 'flight from nairobi to usa'
+- 'flight from nairobi to vipingo'
+- 'flight from wajir to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

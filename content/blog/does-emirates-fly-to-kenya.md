@@ -1,14 +1,14 @@
 ---
 title: 'Does Emirates Fly to Kenya: Complete Guide'
-description: Everything you need to know about does emirates fly to kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about does emirates fly to kenya, including routes, airlines, booking tips, and fares.'
 slug: does-emirates-fly-to-kenya
-primary_keyword: does emirates fly to kenya
+primary_keyword: 'does emirates fly to kenya'
 secondary_keywords:
-- emirates flights from kolkata to dubai
-- emirates flights from larnaca
-- emirates flights from newcastle
-- emirates flight from orlando to dubai today
-- emirates flights from johannesburg to dubai price
+- 'emirates flights from kolkata to dubai'
+- 'emirates flights from larnaca'
+- 'emirates flights from newcastle'
+- 'emirates flight from orlando to dubai today'
+- 'emirates flights from johannesburg to dubai price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

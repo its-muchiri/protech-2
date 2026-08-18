@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from Nairobi to Heathrow Today: Complete Guide'
-description: Everything you need to know about kenya airways flight from nairobi to heathrow today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from nairobi to heathrow today, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-nairobi-to-heathrow-today
-primary_keyword: kenya airways flight from nairobi to heathrow today
+primary_keyword: 'kenya airways flight from nairobi to heathrow today'
 secondary_keywords:
-- flights from kenya to england
-- flights for kenya
-- flights from kenya to germany today
-- flights from kenya to houston
-- flights from hyderabad to nairobi kenya
+- 'flights from kenya to england'
+- 'flights for kenya'
+- 'flights from kenya to germany today'
+- 'flights from kenya to houston'
+- 'flights from hyderabad to nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

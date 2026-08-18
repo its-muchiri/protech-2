@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Mombasa to Entebbe: Complete Guide'
-description: Everything you need to know about cheap flights from mombasa to entebbe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from mombasa to entebbe, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-mombasa-to-entebbe
-primary_keyword: cheap flights from mombasa to entebbe
+primary_keyword: 'cheap flights from mombasa to entebbe'
 secondary_keywords:
-- flight from nairobi to uk price
-- flight from nairobi to wajir
-- flight from nairobi to new york today
-- how much is flight from nairobi to zanzibar today
-- flight 540 nairobi to mombasa price
+- 'flight from nairobi to uk price'
+- 'flight from nairobi to wajir'
+- 'flight from nairobi to new york today'
+- 'how much is flight from nairobi to zanzibar today'
+- 'flight 540 nairobi to mombasa price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

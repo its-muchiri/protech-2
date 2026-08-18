@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa Kenya to Lamu Kenya: Complete Guide'
-description: Everything you need to know about flights from mombasa kenya to lamu kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa kenya to lamu kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-kenya-to-lamu-kenya
-primary_keyword: flights from mombasa kenya to lamu kenya
+primary_keyword: 'flights from mombasa kenya to lamu kenya'
 secondary_keywords:
-- flights from nairobi to goma
-- flights from nairobi to helsinki
-- indigo flights from nairobi to mumbai
-- jambojet flights from nairobi to ukunda
-- kq flights from nairobi to zanzibar
+- 'flights from nairobi to goma'
+- 'flights from nairobi to helsinki'
+- 'indigo flights from nairobi to mumbai'
+- 'jambojet flights from nairobi to ukunda'
+- 'kq flights from nairobi to zanzibar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

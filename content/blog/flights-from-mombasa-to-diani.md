@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Diani: Complete Guide'
-description: Everything you need to know about flights from mombasa to diani, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to diani, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-diani
-primary_keyword: flights from mombasa to diani
+primary_keyword: 'flights from mombasa to diani'
 secondary_keywords:
-- flights from nairobi to galkayo
-- homa bay flights from nairobi
-- flights to italy from nairobi
-- jambojet flights from nairobi to kisumu
-- flight nairobi from london
+- 'flights from nairobi to galkayo'
+- 'homa bay flights from nairobi'
+- 'flights to italy from nairobi'
+- 'jambojet flights from nairobi to kisumu'
+- 'flight nairobi from london'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

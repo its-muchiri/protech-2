@@ -1,14 +1,14 @@
 ---
 title: 'Fluoroscopy Machine for Sale in Kenya: 2026 Price Guide'
-description: Kenya buying guide to fluoroscopy machine for sale in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to fluoroscopy machine for sale in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: fluoroscopy-machine-for-sale-in-kenya
-primary_keyword: Fluoroscopy machine for sale in Kenya
+primary_keyword: 'Fluoroscopy machine for sale in Kenya'
 secondary_keywords:
-- Open MRI scanner suppliers in Nairobi
-- Chison EBit 60 price in Kenya
-- 3-part hematology analyzer for a small lab
-- Laboratory centrifuge (8-tube) for a clinic
-- C-arm compatible operating table for sale
+- 'Open MRI scanner suppliers in Nairobi'
+- 'Chison EBit 60 price in Kenya'
+- '3-part hematology analyzer for a small lab'
+- 'Laboratory centrifuge (8-tube) for a clinic'
+- 'C-arm compatible operating table for sale'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

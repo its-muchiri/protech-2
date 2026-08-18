@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Packages: Complete Guide'
-description: Kenya safari guide covering kenya safari packages, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari packages, including what is included, pricing, and booking advice.'
 slug: kenya-safari-packages
-primary_keyword: Kenya safari packages
+primary_keyword: 'Kenya safari packages'
 secondary_keywords:
-- Top rated Kenya safari tours for families TripAdvisor USA
-- Award-winning Kenya safari lodges booking Europe
-- Book cultural Masai village visit & Amboseli safari tour Kenya Europe price
-- Check availability budget camping safari Tsavo & Amboseli circuit Europe group joining dates
-- Get quote for luxury mobile camping safari Serengeti & Mara migration USA private setup cost
+- 'Top rated Kenya safari tours for families TripAdvisor USA'
+- 'Award-winning Kenya safari lodges booking Europe'
+- 'Book cultural Masai village visit & Amboseli safari tour Kenya Europe price'
+- 'Check availability budget camping safari Tsavo & Amboseli circuit Europe group joining dates'
+- 'Get quote for luxury mobile camping safari Serengeti & Mara migration USA private setup cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Eldoret to Mombasa Price: Complete Guide'
-description: Everything you need to know about flight from eldoret to mombasa price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from eldoret to mombasa price, including routes, airlines, booking tips, and fares.'
 slug: flight-from-eldoret-to-mombasa-price
-primary_keyword: flight from eldoret to mombasa price
+primary_keyword: 'flight from eldoret to mombasa price'
 secondary_keywords:
-- morning flights from mombasa to nairobi
-- flight from kisumu to mombasa price
-- flights from rome to mombasa
-- uganda airlines flights from mombasa to entebbe
-- flights to mombasa from nairobi prices
+- 'morning flights from mombasa to nairobi'
+- 'flight from kisumu to mombasa price'
+- 'flights from rome to mombasa'
+- 'uganda airlines flights from mombasa to entebbe'
+- 'flights to mombasa from nairobi prices'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

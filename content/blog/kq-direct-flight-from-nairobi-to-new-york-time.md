@@ -1,14 +1,14 @@
 ---
 title: 'Kq Direct Flight from Nairobi to New York Time: Complete Guide'
-description: Everything you need to know about kq direct flight from nairobi to new york time, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq direct flight from nairobi to new york time, including routes, airlines, booking tips, and fares.'
 slug: kq-direct-flight-from-nairobi-to-new-york-time
-primary_keyword: kq direct flight from nairobi to new york time
+primary_keyword: 'kq direct flight from nairobi to new york time'
 secondary_keywords:
-- klm flights from kenya to amsterdam
-- flights from kenya to los angeles
-- morocco flights from kenya
-- flights from cape town to nairobi kenya
-- flights from okc to nairobi kenya
+- 'klm flights from kenya to amsterdam'
+- 'flights from kenya to los angeles'
+- 'morocco flights from kenya'
+- 'flights from cape town to nairobi kenya'
+- 'flights from okc to nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

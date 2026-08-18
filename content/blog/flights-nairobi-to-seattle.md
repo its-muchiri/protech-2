@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Seattle: Complete Guide'
-description: Everything you need to know about flights nairobi to seattle, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to seattle, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-seattle
-primary_keyword: flights nairobi to seattle
+primary_keyword: 'flights nairobi to seattle'
 secondary_keywords:
-- kq 257 flight status
-- kq flight 431
-- kq 515 flight status
-- kq 614
-- emirates flights nairobi
+- 'kq 257 flight status'
+- 'kq flight 431'
+- 'kq 515 flight status'
+- 'kq 614'
+- 'emirates flights nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

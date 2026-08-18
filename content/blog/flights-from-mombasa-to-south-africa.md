@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to South Africa: Complete Guide'
-description: Everything you need to know about flights from mombasa to south africa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to south africa, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-south-africa
-primary_keyword: flights from mombasa to south africa
+primary_keyword: 'flights from mombasa to south africa'
 secondary_keywords:
-- ethiopian airlines cargo office nairobi
-- turkish airlines nairobi airport terminal
-- does turkish airlines fly to toronto
-- flight ticket from kenya to germany
-- flight booking apps in kenya
+- 'ethiopian airlines cargo office nairobi'
+- 'turkish airlines nairobi airport terminal'
+- 'does turkish airlines fly to toronto'
+- 'flight ticket from kenya to germany'
+- 'flight booking apps in kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

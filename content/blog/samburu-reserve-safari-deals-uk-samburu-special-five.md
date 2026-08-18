@@ -1,14 +1,14 @@
 ---
 title: 'Samburu Reserve Safari Deals UK Samburu Special Five: Complete Guide'
-description: Kenya safari guide covering samburu reserve safari deals uk samburu special five, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering samburu reserve safari deals uk samburu special five, including what is included, pricing, and booking advice.'
 slug: samburu-reserve-safari-deals-uk-samburu-special-five
-primary_keyword: Samburu Reserve safari deals UK Samburu Special Five
+primary_keyword: 'Samburu Reserve safari deals UK Samburu Special Five'
 secondary_keywords:
-- Cost of 3 day basic camping Masai Mara package buy
-- Reserve 6 day family fun safari package Ol Pejeta Mara
-- Reserve seats 12 day group overland Kenya package
-- Final payment Kenya honeymoon safari package booking
-- Buy now special offer 5 day Samburu safari package
+- 'Cost of 3 day basic camping Masai Mara package buy'
+- 'Reserve 6 day family fun safari package Ol Pejeta Mara'
+- 'Reserve seats 12 day group overland Kenya package'
+- 'Final payment Kenya honeymoon safari package booking'
+- 'Buy now special offer 5 day Samburu safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

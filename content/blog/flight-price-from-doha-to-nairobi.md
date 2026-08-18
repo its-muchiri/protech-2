@@ -1,14 +1,14 @@
 ---
 title: 'Flight Price from Doha to Nairobi: Complete Guide'
-description: Everything you need to know about flight price from doha to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight price from doha to nairobi, including routes, airlines, booking tips, and fares.'
 slug: flight-price-from-doha-to-nairobi
-primary_keyword: flight price from doha to nairobi
+primary_keyword: 'flight price from doha to nairobi'
 secondary_keywords:
-- flights nairobi to delhi
-- emirates flights nairobi to dubai
-- flights nairobi to greece
-- flights nairobi to hargeisa
-- nairobi to india flights price
+- 'flights nairobi to delhi'
+- 'emirates flights nairobi to dubai'
+- 'flights nairobi to greece'
+- 'flights nairobi to hargeisa'
+- 'nairobi to india flights price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

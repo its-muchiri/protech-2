@@ -1,14 +1,14 @@
 ---
 title: 'Solo Traveler Safari Kenya Group Joining Options Cost: Complete Guide'
-description: Kenya safari guide covering solo traveler safari kenya group joining options cost, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering solo traveler safari kenya group joining options cost, including what is included, pricing, and booking advice.'
 slug: solo-traveler-safari-kenya-group-joining-options-cost
-primary_keyword: Solo traveler safari Kenya group joining options cost
+primary_keyword: 'Solo traveler safari Kenya group joining options cost'
 secondary_keywords:
-- Tsavo East and West safari package cost
-- Mombasa start Tsavo safari package buy
-- Luxury tented camp safari Kenya book
-- Secluded honeymoon lodge Kenya package
-- Cheap 3 day Masai Mara package deal
+- 'Tsavo East and West safari package cost'
+- 'Mombasa start Tsavo safari package buy'
+- 'Luxury tented camp safari Kenya book'
+- 'Secluded honeymoon lodge Kenya package'
+- 'Cheap 3 day Masai Mara package deal'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

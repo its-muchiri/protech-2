@@ -1,14 +1,14 @@
 ---
 title: 'Top Rated Kenya Safari Specialists UK Experts: Complete Guide'
-description: Kenya safari guide covering top rated kenya safari specialists uk experts, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering top rated kenya safari specialists uk experts, including what is included, pricing, and booking advice.'
 slug: top-rated-kenya-safari-specialists-uk-experts
-primary_keyword: Top rated Kenya safari specialists UK experts
+primary_keyword: 'Top rated Kenya safari specialists UK experts'
 secondary_keywords:
-- Eco-rating for Kenya safari lodges / camps Ecotourism Kenya certification
-- Kenya film crew logistics support tour operators
-- Purchase Masai Mara safari trip online Europe
-- Book safari tour Kenya online payment
-- Private Kenya safari tour cost calculator
+- 'Eco-rating for Kenya safari lodges / camps Ecotourism Kenya certification'
+- 'Kenya film crew logistics support tour operators'
+- 'Purchase Masai Mara safari trip online Europe'
+- 'Book safari tour Kenya online payment'
+- 'Private Kenya safari tour cost calculator'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

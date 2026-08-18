@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Ukunda: Complete Guide'
-description: Everything you need to know about kq flights to ukunda, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to ukunda, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-ukunda
-primary_keyword: kq flights to ukunda
+primary_keyword: 'kq flights to ukunda'
 secondary_keywords:
-- flights from nairobi kenya to zurich switzerland
-- how much is a flight from kenya to south africa
-- how much is a flight from kenya to china
-- flights from nairobi to addis ababa
-- air arabia flights from nairobi to ahmedabad
+- 'flights from nairobi kenya to zurich switzerland'
+- 'how much is a flight from kenya to south africa'
+- 'how much is a flight from kenya to china'
+- 'flights from nairobi to addis ababa'
+- 'air arabia flights from nairobi to ahmedabad'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

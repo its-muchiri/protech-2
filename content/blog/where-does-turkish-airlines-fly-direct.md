@@ -1,14 +1,14 @@
 ---
 title: 'Where Does Turkish Airlines Fly Direct: Complete Guide'
-description: Everything you need to know about where does turkish airlines fly direct, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about where does turkish airlines fly direct, including routes, airlines, booking tips, and fares.'
 slug: where-does-turkish-airlines-fly-direct
-primary_keyword: where does turkish airlines fly direct
+primary_keyword: 'where does turkish airlines fly direct'
 secondary_keywords:
-- flight duration from kenya to usa
-- kenya to dubai flight cost
-- ticket from kenya to egypt
-- flights to kenya africa
-- cheap flights from beirut to kenya in dollars
+- 'flight duration from kenya to usa'
+- 'kenya to dubai flight cost'
+- 'ticket from kenya to egypt'
+- 'flights to kenya africa'
+- 'cheap flights from beirut to kenya in dollars'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

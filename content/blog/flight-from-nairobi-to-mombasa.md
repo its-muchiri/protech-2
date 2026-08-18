@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Mombasa: Complete Guide'
-description: Everything you need to know about flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-mombasa
-primary_keyword: flight from nairobi to mombasa
+primary_keyword: 'flight from nairobi to mombasa'
 secondary_keywords:
-- emirates building nairobi
-- fly emirates from nairobi to dubai
-- emirates flight from riyadh to nairobi ticket price
-- emirates ek 721
-- emirates kenya contact number
+- 'emirates building nairobi'
+- 'fly emirates from nairobi to dubai'
+- 'emirates flight from riyadh to nairobi ticket price'
+- 'emirates ek 721'
+- 'emirates kenya contact number'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

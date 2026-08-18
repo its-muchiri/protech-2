@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights Arriving from Dubai Today: Complete Guide'
-description: Everything you need to know about emirates flights arriving from dubai today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights arriving from dubai today, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-arriving-from-dubai-today
-primary_keyword: emirates flights arriving from dubai today
+primary_keyword: 'emirates flights arriving from dubai today'
 secondary_keywords:
-- emirates flights from zimbabwe
-- emirates flight 0409
-- emirates flights 2026
-- emirates flight 39
-- emirates flight 417
+- 'emirates flights from zimbabwe'
+- 'emirates flight 0409'
+- 'emirates flights 2026'
+- 'emirates flight 39'
+- 'emirates flight 417'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

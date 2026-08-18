@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from Mombasa to Nairobi Today: Complete Guide'
-description: Everything you need to know about kq flights from mombasa to nairobi today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from mombasa to nairobi today, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-mombasa-to-nairobi-today
-primary_keyword: kq flights from mombasa to nairobi today
+primary_keyword: 'kq flights from mombasa to nairobi today'
 secondary_keywords:
-- flights from kenya to ethiopia
-- flights to ethiopia from kenya
-- flights from kenya to ghana
-- flights from gatwick to kenya
-- flights from houston to nairobi kenya
+- 'flights from kenya to ethiopia'
+- 'flights to ethiopia from kenya'
+- 'flights from kenya to ghana'
+- 'flights from gatwick to kenya'
+- 'flights from houston to nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

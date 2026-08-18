@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Ethiopia: Complete Guide'
-description: Everything you need to know about flights from kenya to ethiopia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to ethiopia, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-ethiopia
-primary_keyword: flights from kenya to ethiopia
+primary_keyword: 'flights from kenya to ethiopia'
 secondary_keywords:
-- skyward flights from kisumu to nairobi
-- kq flights from eldoret to nairobi price
-- flights in eldoret
-- kq flights from eldoret to mombasa
-- skyward flights from eldoret to nairobi
+- 'skyward flights from kisumu to nairobi'
+- 'kq flights from eldoret to nairobi price'
+- 'flights in eldoret'
+- 'kq flights from eldoret to mombasa'
+- 'skyward flights from eldoret to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

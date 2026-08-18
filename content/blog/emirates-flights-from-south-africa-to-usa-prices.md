@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from South Africa to Usa Prices: Complete Guide'
-description: Everything you need to know about emirates flights from south africa to usa prices, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from south africa to usa prices, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-south-africa-to-usa-prices
-primary_keyword: emirates flights from south africa to usa prices
+primary_keyword: 'emirates flights from south africa to usa prices'
 secondary_keywords:
-- zurich to nairobi flights
-- cheap flights nairobi to ukunda
-- emirates flights from adelaide to dubai
-- emirates flights from brisbane today
-- emirates flights from christchurch
+- 'zurich to nairobi flights'
+- 'cheap flights nairobi to ukunda'
+- 'emirates flights from adelaide to dubai'
+- 'emirates flights from brisbane today'
+- 'emirates flights from christchurch'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

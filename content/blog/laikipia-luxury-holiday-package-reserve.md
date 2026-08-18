@@ -1,14 +1,14 @@
 ---
 title: 'Laikipia Luxury Holiday Package Reserve: Complete Guide'
-description: Kenya safari guide covering laikipia luxury holiday package reserve, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering laikipia luxury holiday package reserve, including what is included, pricing, and booking advice.'
 slug: laikipia-luxury-holiday-package-reserve
-primary_keyword: Laikipia luxury holiday package reserve
+primary_keyword: 'Laikipia luxury holiday package reserve'
 secondary_keywords:
-- Get quote private 8 day photo safari package Kenya
-- Cost of 6 day Kenya cultural immersion safari package
-- Reserve 7 day Mara Plains luxury package deal
-- Price for 9 day luxury mobile camping safari package Kenya
-- Book now 3 day Tsavo express safari deal
+- 'Get quote private 8 day photo safari package Kenya'
+- 'Cost of 6 day Kenya cultural immersion safari package'
+- 'Reserve 7 day Mara Plains luxury package deal'
+- 'Price for 9 day luxury mobile camping safari package Kenya'
+- 'Book now 3 day Tsavo express safari deal'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

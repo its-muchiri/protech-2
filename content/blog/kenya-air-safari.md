@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Air Safari: Complete Guide'
-description: Kenya safari guide covering kenya air safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya air safari, including what is included, pricing, and booking advice.'
 slug: kenya-air-safari
-primary_keyword: Kenya air safari
+primary_keyword: 'Kenya air safari'
 secondary_keywords:
-- Nairobi city historical tour guides
-- Nairobi half-day tour companies
-- Affordable family safari Kenya
-- Travel agents near Thika Road Mall (TRM)
-- Wheelchair accessible safari vans Kenya
+- 'Nairobi city historical tour guides'
+- 'Nairobi half-day tour companies'
+- 'Affordable family safari Kenya'
+- 'Travel agents near Thika Road Mall (TRM)'
+- 'Wheelchair accessible safari vans Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

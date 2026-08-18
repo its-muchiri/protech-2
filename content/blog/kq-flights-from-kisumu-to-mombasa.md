@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from Kisumu to Mombasa: Complete Guide'
-description: Everything you need to know about kq flights from kisumu to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from kisumu to mombasa, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-kisumu-to-mombasa
-primary_keyword: kq flights from kisumu to mombasa
+primary_keyword: 'kq flights from kisumu to mombasa'
 secondary_keywords:
-- £5 in kenya shillings
-- air arabia flights from kenya to dubai
-- flights from kenya to boston
-- flights from kenya to cuba
-- flights from kenya to djibouti
+- '£5 in kenya shillings'
+- 'air arabia flights from kenya to dubai'
+- 'flights from kenya to boston'
+- 'flights from kenya to cuba'
+- 'flights from kenya to djibouti'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

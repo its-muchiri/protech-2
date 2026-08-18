@@ -1,14 +1,14 @@
 ---
 title: 'See Large Elephant Herds Kenya: Complete Guide'
-description: Kenya safari guide covering see large elephant herds kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering see large elephant herds kenya, including what is included, pricing, and booking advice.'
 slug: see-large-elephant-herds-kenya
-primary_keyword: See large elephant herds Kenya
+primary_keyword: 'See large elephant herds Kenya'
 secondary_keywords:
-- Premium Kenya safari
-- Wildebeest migration safari Kenya
-- Sustainable tourism Kenya safari
-- 6 day Kenya safari
-- Kenya safari packages price
+- 'Premium Kenya safari'
+- 'Wildebeest migration safari Kenya'
+- 'Sustainable tourism Kenya safari'
+- '6 day Kenya safari'
+- 'Kenya safari packages price'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Great Rift Valley Viewpoint Tour Operators: Complete Guide'
-description: Kenya safari guide covering great rift valley viewpoint tour operators, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering great rift valley viewpoint tour operators, including what is included, pricing, and booking advice.'
 slug: great-rift-valley-viewpoint-tour-operators
-primary_keyword: Great Rift Valley viewpoint tour operators
+primary_keyword: 'Great Rift Valley viewpoint tour operators'
 secondary_keywords:
-- Honeymoon safari itinerary planners Kenya
-- Nairobi city historical tour guides
-- Nairobi National Park day trip operators from Thika
-- Kenya safari cost per day estimate
-- Nairobi based safari companies contact
+- 'Honeymoon safari itinerary planners Kenya'
+- 'Nairobi city historical tour guides'
+- 'Nairobi National Park day trip operators from Thika'
+- 'Kenya safari cost per day estimate'
+- 'Nairobi based safari companies contact'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

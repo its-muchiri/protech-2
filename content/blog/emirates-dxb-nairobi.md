@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Dxb Nairobi: Complete Guide'
-description: Everything you need to know about emirates dxb nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates dxb nairobi, including routes, airlines, booking tips, and fares.'
 slug: emirates-dxb-nairobi
-primary_keyword: emirates dxb nairobi
+primary_keyword: 'emirates dxb nairobi'
 secondary_keywords:
-- emirates flights from kuala lumpur
-- emirates flights from lusaka to london
-- map of emirates flights from dubai
-- emirates flights from orlando to hyderabad india
-- emirates flights from prague
+- 'emirates flights from kuala lumpur'
+- 'emirates flights from lusaka to london'
+- 'map of emirates flights from dubai'
+- 'emirates flights from orlando to hyderabad india'
+- 'emirates flights from prague'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

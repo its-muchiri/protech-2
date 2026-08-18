@@ -1,14 +1,14 @@
 ---
 title: '10 Day Kenya Safari: Complete Guide'
-description: Kenya safari guide covering 10 day kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering 10 day kenya safari, including what is included, pricing, and booking advice.'
 slug: 10-day-kenya-safari
-primary_keyword: 10 day Kenya safari
+primary_keyword: '10 day Kenya safari'
 secondary_keywords:
-- Reserve Nairobi Railway Museum visit safari add-on UK history transport enthusiasts booking
-- Best Kenya safari
-- Lake Nakuru safari
-- Borana Conservancy safari
-- Couples Kenya safari
+- 'Reserve Nairobi Railway Museum visit safari add-on UK history transport enthusiasts booking'
+- 'Best Kenya safari'
+- 'Lake Nakuru safari'
+- 'Borana Conservancy safari'
+- 'Couples Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

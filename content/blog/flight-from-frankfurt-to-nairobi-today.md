@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Frankfurt to Nairobi Today: Complete Guide'
-description: Everything you need to know about flight from frankfurt to nairobi today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from frankfurt to nairobi today, including routes, airlines, booking tips, and fares.'
 slug: flight-from-frankfurt-to-nairobi-today
-primary_keyword: flight from frankfurt to nairobi today
+primary_keyword: 'flight from frankfurt to nairobi today'
 secondary_keywords:
-- last flight from kisumu to nairobi
-- flights to kisumu renegade
-- flights from eldoret
-- cost of flight from eldoret to mombasa
-- flights to eldoret kenya
+- 'last flight from kisumu to nairobi'
+- 'flights to kisumu renegade'
+- 'flights from eldoret'
+- 'cost of flight from eldoret to mombasa'
+- 'flights to eldoret kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Tsavo East Budget Safari Company Diani: Complete Guide'
-description: Kenya safari guide covering tsavo east budget safari company diani, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering tsavo east budget safari company diani, including what is included, pricing, and booking advice.'
 slug: tsavo-east-budget-safari-company-diani
-primary_keyword: Tsavo East budget safari company Diani
+primary_keyword: 'Tsavo East budget safari company Diani'
 secondary_keywords:
-- Kenya safari cancellation policy
-- Viaggio safari Kenia (Italian)
-- Swahili phrases for safari
-- Buy Kenya safari package
-- Kenya safari availability check and book
+- 'Kenya safari cancellation policy'
+- 'Viaggio safari Kenia (Italian)'
+- 'Swahili phrases for safari'
+- 'Buy Kenya safari package'
+- 'Kenya safari availability check and book'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

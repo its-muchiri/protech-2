@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Hyderabad to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from hyderabad to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from hyderabad to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-hyderabad-to-dubai
-primary_keyword: emirates flights from hyderabad to dubai
+primary_keyword: 'emirates flights from hyderabad to dubai'
 secondary_keywords:
-- jambojet flight from nairobi to ukunda
-- local flight from nairobi to mombasa
-- mombasa flight from nairobi
-- flight from nairobi to ottawa
-- flight from nairobi to phuket
+- 'jambojet flight from nairobi to ukunda'
+- 'local flight from nairobi to mombasa'
+- 'mombasa flight from nairobi'
+- 'flight from nairobi to ottawa'
+- 'flight from nairobi to phuket'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

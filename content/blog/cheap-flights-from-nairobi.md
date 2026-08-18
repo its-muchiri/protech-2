@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Nairobi: Complete Guide'
-description: Everything you need to know about cheap flights from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from nairobi, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-nairobi
-primary_keyword: cheap flights from nairobi
+primary_keyword: 'cheap flights from nairobi'
 secondary_keywords:
-- flights from mombasa to nakuru
-- safarilink flights from nairobi to mombasa price
-- flights to mombasa skyward
-- flights from wilson to mombasa today
-- kq flights from kisumu to nairobi
+- 'flights from mombasa to nakuru'
+- 'safarilink flights from nairobi to mombasa price'
+- 'flights to mombasa skyward'
+- 'flights from wilson to mombasa today'
+- 'kq flights from kisumu to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

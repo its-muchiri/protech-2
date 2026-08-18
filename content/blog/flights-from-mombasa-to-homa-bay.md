@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Homa Bay: Complete Guide'
-description: Everything you need to know about flights from mombasa to homa bay, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to homa bay, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-homa-bay
-primary_keyword: flights from mombasa to homa bay
+primary_keyword: 'flights from mombasa to homa bay'
 secondary_keywords:
-- ethiopian airline ticket from kenya to qatar
-- flights nairobi to malindi
-- uganda airlines flights from entebbe to nairobi
-- flights nairobi to blantyre
-- flights nairobi to colombo
+- 'ethiopian airline ticket from kenya to qatar'
+- 'flights nairobi to malindi'
+- 'uganda airlines flights from entebbe to nairobi'
+- 'flights nairobi to blantyre'
+- 'flights nairobi to colombo'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

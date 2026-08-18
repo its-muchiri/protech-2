@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Nairobi Wilson Airport Today: Complete Guide'
-description: Everything you need to know about flights from mombasa to nairobi wilson airport today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to nairobi wilson airport today, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-nairobi-wilson-airport-today
-primary_keyword: flights from mombasa to nairobi wilson airport today
+primary_keyword: 'flights from mombasa to nairobi wilson airport today'
 secondary_keywords:
-- flight from nairobi to edmonton
-- how long is a flight from frankfurt to nairobi
-- how many hours flight from nairobi to germany
-- how much is flight from nairobi to zanzibar
-- flight from nairobi to johannesburg time
+- 'flight from nairobi to edmonton'
+- 'how long is a flight from frankfurt to nairobi'
+- 'how many hours flight from nairobi to germany'
+- 'how much is flight from nairobi to zanzibar'
+- 'flight from nairobi to johannesburg time'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

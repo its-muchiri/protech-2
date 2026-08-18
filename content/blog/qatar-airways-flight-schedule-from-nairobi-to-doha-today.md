@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways Flight Schedule from Nairobi to Doha Today: Complete Guide'
-description: Everything you need to know about qatar airways flight schedule from nairobi to doha today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways flight schedule from nairobi to doha today, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-flight-schedule-from-nairobi-to-doha-today
-primary_keyword: qatar airways flight schedule from nairobi to doha today
+primary_keyword: 'qatar airways flight schedule from nairobi to doha today'
 secondary_keywords:
-- emirates nairobi lounge
-- emirates flight from nairobi today
-- emirates kenya airport
-- how many hours from kenya to dubai emirates
-- how much is emirates flight from kenya to dubai
+- 'emirates nairobi lounge'
+- 'emirates flight from nairobi today'
+- 'emirates kenya airport'
+- 'how many hours from kenya to dubai emirates'
+- 'how much is emirates flight from kenya to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

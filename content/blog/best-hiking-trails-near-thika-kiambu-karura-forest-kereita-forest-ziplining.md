@@ -1,14 +1,14 @@
 ---
 title: 'Best Hiking Trails Near Thika / Kiambu Karura Forest / Kereita Forest Ziplining: Complete Guide'
-description: Kenya safari guide covering best hiking trails near thika / kiambu karura forest / kereita forest ziplining, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering best hiking trails near thika / kiambu karura forest / kereita forest ziplining, including what is included, pricing, and booking advice.'
 slug: best-hiking-trails-near-thika-kiambu-karura-forest-kereita-forest-ziplining
-primary_keyword: Best hiking trails near Thika / Kiambu Karura Forest / Kereita Forest Ziplining
+primary_keyword: 'Best hiking trails near Thika / Kiambu Karura Forest / Kereita Forest Ziplining'
 secondary_keywords:
-- Buy 8 day Kenya discovery package online
-- Book small group Kenya safari reservation
-- Kenya safari package quote request
-- Aberdares treetop lodge package rates
-- Luxury tented camp safari cost estimate
+- 'Buy 8 day Kenya discovery package online'
+- 'Book small group Kenya safari reservation'
+- 'Kenya safari package quote request'
+- 'Aberdares treetop lodge package rates'
+- 'Luxury tented camp safari cost estimate'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

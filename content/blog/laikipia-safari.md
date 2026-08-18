@@ -1,14 +1,14 @@
 ---
 title: 'Laikipia Safari: Complete Guide'
-description: Kenya safari guide covering laikipia safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering laikipia safari, including what is included, pricing, and booking advice.'
 slug: laikipia-safari
-primary_keyword: Laikipia safari
+primary_keyword: 'Laikipia safari'
 secondary_keywords:
-- Kenya wildlife safari offers
-- 4 day Masai Mara tour last minute offer
-- Deal 7 day luxury Masai Mara package
-- Laikipia luxury holiday package reserve
-- Secure booking with best rated Kenya safari company
+- 'Kenya wildlife safari offers'
+- '4 day Masai Mara tour last minute offer'
+- 'Deal 7 day luxury Masai Mara package'
+- 'Laikipia luxury holiday package reserve'
+- 'Secure booking with best rated Kenya safari company'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

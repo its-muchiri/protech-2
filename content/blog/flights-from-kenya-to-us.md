@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Us: Complete Guide'
-description: Everything you need to know about flights from kenya to us, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to us, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-us
-primary_keyword: flights from kenya to us
+primary_keyword: 'flights from kenya to us'
 secondary_keywords:
-- kenya airways flight from nairobi to eldoret
-- kenya airways flight schedule from accra to nairobi price
-- kenya airways flight from entebbe to nairobi
-- kenya airways flight nairobi to.kigali
-- kenya airways flight schedule from nairobi to mombasa
+- 'kenya airways flight from nairobi to eldoret'
+- 'kenya airways flight schedule from accra to nairobi price'
+- 'kenya airways flight from entebbe to nairobi'
+- 'kenya airways flight nairobi to.kigali'
+- 'kenya airways flight schedule from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

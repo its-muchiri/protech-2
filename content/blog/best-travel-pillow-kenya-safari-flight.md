@@ -1,14 +1,14 @@
 ---
 title: 'Best Travel Pillow Kenya Safari Flight: Complete Guide'
-description: Kenya safari guide covering best travel pillow kenya safari flight, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering best travel pillow kenya safari flight, including what is included, pricing, and booking advice.'
 slug: best-travel-pillow-kenya-safari-flight
-primary_keyword: Best travel pillow Kenya safari flight
+primary_keyword: 'Best travel pillow Kenya safari flight'
 secondary_keywords:
-- Reserve spot 7 day photographic workshop package Kenya
-- Get deal on 8 day Kicheche Camps luxury package Mara conservancy
-- Buy 9 day Cottar''s 1920s Safari Camp luxury package
-- Quote helicopter transfer Kenya safari package add-on
-- Reliable travel agency Nairobi Kenya
+- 'Reserve spot 7 day photographic workshop package Kenya'
+- 'Get deal on 8 day Kicheche Camps luxury package Mara conservancy'
+- 'Buy 9 day Cottar''''s 1920s Safari Camp luxury package'
+- 'Quote helicopter transfer Kenya safari package add-on'
+- 'Reliable travel agency Nairobi Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

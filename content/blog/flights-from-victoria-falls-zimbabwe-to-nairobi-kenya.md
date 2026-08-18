@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Victoria Falls Zimbabwe to Nairobi Kenya: Complete Guide'
-description: Everything you need to know about flights from victoria falls zimbabwe to nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from victoria falls zimbabwe to nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-victoria-falls-zimbabwe-to-nairobi-kenya
-primary_keyword: flights from victoria falls zimbabwe to nairobi kenya
+primary_keyword: 'flights from victoria falls zimbabwe to nairobi kenya'
 secondary_keywords:
-- kq flights to lamu
-- kq flights to malindi from nairobi
-- kq flights to mombasa prices
-- kq flights schedule
-- kq flights from uganda to kenya today timetable
+- 'kq flights to lamu'
+- 'kq flights to malindi from nairobi'
+- 'kq flights to mombasa prices'
+- 'kq flights schedule'
+- 'kq flights from uganda to kenya today timetable'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

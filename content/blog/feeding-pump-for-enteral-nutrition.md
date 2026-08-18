@@ -1,14 +1,14 @@
 ---
 title: 'Feeding Pump for Enteral Nutrition: 2026 Price Guide'
-description: Kenya buying guide to feeding pump for enteral nutrition. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to feeding pump for enteral nutrition. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: feeding-pump-for-enteral-nutrition
-primary_keyword: Feeding pump for enteral nutrition
+primary_keyword: 'Feeding pump for enteral nutrition'
 secondary_keywords:
-- hypodermic needles Kenya price
-- surface disinfectants Kenya
-- waste bags medical Kenya biohazard
-- Povidone-iodine solution Kenya
-- pillow covers disposable Kenya
+- 'hypodermic needles Kenya price'
+- 'surface disinfectants Kenya'
+- 'waste bags medical Kenya biohazard'
+- 'Povidone-iodine solution Kenya'
+- 'pillow covers disposable Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

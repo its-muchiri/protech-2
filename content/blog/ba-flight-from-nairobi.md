@@ -1,14 +1,14 @@
 ---
 title: 'Ba Flight from Nairobi: Complete Guide'
-description: Everything you need to know about ba flight from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ba flight from nairobi, including routes, airlines, booking tips, and fares.'
 slug: ba-flight-from-nairobi
-primary_keyword: ba flight from nairobi
+primary_keyword: 'ba flight from nairobi'
 secondary_keywords:
-- qatar flight status nairobi to doha
-- kq flight from cape town to nairobi today
-- kq flight from entebbe
-- kenya airways flights from juba to nairobi
-- kenya airways flights from uk
+- 'qatar flight status nairobi to doha'
+- 'kq flight from cape town to nairobi today'
+- 'kq flight from entebbe'
+- 'kenya airways flights from juba to nairobi'
+- 'kenya airways flights from uk'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

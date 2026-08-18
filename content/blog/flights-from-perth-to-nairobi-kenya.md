@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Perth to Nairobi Kenya: Complete Guide'
-description: Everything you need to know about flights from perth to nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from perth to nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-perth-to-nairobi-kenya
-primary_keyword: flights from perth to nairobi kenya
+primary_keyword: 'flights from perth to nairobi kenya'
 secondary_keywords:
-- international flights from nairobi
-- flights from nairobi to accra ghana
-- flights from nairobi to birmingham uk
-- flights from boston to nairobi
-- cheap direct flights from nairobi to london heathrow
+- 'international flights from nairobi'
+- 'flights from nairobi to accra ghana'
+- 'flights from nairobi to birmingham uk'
+- 'flights from boston to nairobi'
+- 'cheap direct flights from nairobi to london heathrow'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

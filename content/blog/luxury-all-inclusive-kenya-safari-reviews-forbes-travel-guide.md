@@ -1,14 +1,14 @@
 ---
 title: 'Luxury All-inclusive Kenya Safari Reviews Forbes Travel Guide: Complete Guide'
-description: Kenya safari guide covering luxury all-inclusive kenya safari reviews forbes travel guide, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering luxury all-inclusive kenya safari reviews forbes travel guide, including what is included, pricing, and booking advice.'
 slug: luxury-all-inclusive-kenya-safari-reviews-forbes-travel-guide
-primary_keyword: Luxury all-inclusive Kenya safari reviews Forbes Travel Guide
+primary_keyword: 'Luxury all-inclusive Kenya safari reviews Forbes Travel Guide'
 secondary_keywords:
-- Reserve solo traveler Kenya safari package single supplement cost USA safe operators
-- Find best Kenya safari tour operator for senior citizens Europe accessibility comfort reviews
-- Buy adventure Kenya safari white water rafting Tana River add-on UK operator booking
-- Reserve Lake Turkana fishing safari expedition Kenya Europe remote adventure booking logistics
-- Find diabetic friendly Kenya safari planning assistance USA meal management operator support
+- 'Reserve solo traveler Kenya safari package single supplement cost USA safe operators'
+- 'Find best Kenya safari tour operator for senior citizens Europe accessibility comfort reviews'
+- 'Buy adventure Kenya safari white water rafting Tana River add-on UK operator booking'
+- 'Reserve Lake Turkana fishing safari expedition Kenya Europe remote adventure booking logistics'
+- 'Find diabetic friendly Kenya safari planning assistance USA meal management operator support'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

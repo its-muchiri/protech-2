@@ -1,14 +1,14 @@
 ---
 title: 'Medical Gas Manifold System Suppliers: 2026 Price Guide'
-description: Kenya buying guide to medical gas manifold system suppliers. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to medical gas manifold system suppliers. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: medical-gas-manifold-system-suppliers
-primary_keyword: Medical gas manifold system suppliers
+primary_keyword: 'Medical gas manifold system suppliers'
 secondary_keywords:
-- custom branded lab coats suppliers
-- geriatric care equipment suppliers
-- solar power solutions for rural clinics
-- biofeedback equipment for therapy
-- clinic equipment Kenya
+- 'custom branded lab coats suppliers'
+- 'geriatric care equipment suppliers'
+- 'solar power solutions for rural clinics'
+- 'biofeedback equipment for therapy'
+- 'clinic equipment Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

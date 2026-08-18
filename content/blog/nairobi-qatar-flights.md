@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi Qatar Flights: Complete Guide'
-description: Everything you need to know about nairobi qatar flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about nairobi qatar flights, including routes, airlines, booking tips, and fares.'
 slug: nairobi-qatar-flights
-primary_keyword: nairobi qatar flights
+primary_keyword: 'nairobi qatar flights'
 secondary_keywords:
-- flights from nairobi to winnipeg
-- flights from nairobi kenya to new york ny
-- how much is flight from nairobi to mombasa
-- flights from nairobi to cairo egypt
-- flights from mombasa to addis ababa
+- 'flights from nairobi to winnipeg'
+- 'flights from nairobi kenya to new york ny'
+- 'how much is flight from nairobi to mombasa'
+- 'flights from nairobi to cairo egypt'
+- 'flights from mombasa to addis ababa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

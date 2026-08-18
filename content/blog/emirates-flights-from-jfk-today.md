@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Jfk Today: Complete Guide'
-description: Everything you need to know about emirates flights from jfk today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from jfk today, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-jfk-today
-primary_keyword: emirates flights from jfk today
+primary_keyword: 'emirates flights from jfk today'
 secondary_keywords:
-- flights from kenya to adelaide
-- flights from kenya to botswana
-- flights to burundi from kenya
-- cheap flights from kenya to tanzania
-- flights from kenya to ecuador
+- 'flights from kenya to adelaide'
+- 'flights from kenya to botswana'
+- 'flights to burundi from kenya'
+- 'cheap flights from kenya to tanzania'
+- 'flights from kenya to ecuador'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

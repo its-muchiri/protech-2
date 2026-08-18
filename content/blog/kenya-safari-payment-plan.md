@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Payment Plan: Complete Guide'
-description: Kenya safari guide covering kenya safari payment plan, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari payment plan, including what is included, pricing, and booking advice.'
 slug: kenya-safari-payment-plan
-primary_keyword: Kenya safari payment plan
+primary_keyword: 'Kenya safari payment plan'
 secondary_keywords:
-- Reserve spot 7 day photographic workshop package Kenya
-- Get deal on 8 day Kicheche Camps luxury package Mara conservancy
-- Buy 9 day Cottar''s 1920s Safari Camp luxury package
-- Quote helicopter transfer Kenya safari package add-on
-- Reliable travel agency Nairobi Kenya
+- 'Reserve spot 7 day photographic workshop package Kenya'
+- 'Get deal on 8 day Kicheche Camps luxury package Mara conservancy'
+- 'Buy 9 day Cottar''''s 1920s Safari Camp luxury package'
+- 'Quote helicopter transfer Kenya safari package add-on'
+- 'Reliable travel agency Nairobi Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

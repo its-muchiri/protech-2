@@ -1,14 +1,14 @@
 ---
 title: 'Budget Safari Lodges Kenya: Complete Guide'
-description: Kenya safari guide covering budget safari lodges kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering budget safari lodges kenya, including what is included, pricing, and booking advice.'
 slug: budget-safari-lodges-kenya
-primary_keyword: Budget safari lodges Kenya
+primary_keyword: 'Budget safari lodges Kenya'
 secondary_keywords:
-- Ol Jogi Conservancy luxury safari booking
-- Masai Mara honeymoon package booking
-- Kenya budget camping safari package book
-- Amboseli Kilimanjaro safari package buy
-- August Masai Mara migration package deals
+- 'Ol Jogi Conservancy luxury safari booking'
+- 'Masai Mara honeymoon package booking'
+- 'Kenya budget camping safari package book'
+- 'Amboseli Kilimanjaro safari package buy'
+- 'August Masai Mara migration package deals'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

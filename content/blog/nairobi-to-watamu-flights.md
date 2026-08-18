@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi to Watamu Flights: Complete Guide'
-description: Everything you need to know about nairobi to watamu flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about nairobi to watamu flights, including routes, airlines, booking tips, and fares.'
 slug: nairobi-to-watamu-flights
-primary_keyword: nairobi to watamu flights
+primary_keyword: 'nairobi to watamu flights'
 secondary_keywords:
-- flight from nairobi to abuja
-- turkish airlines nairobi email address
-- kenya to turkey flight price
-- turkish airlines terminal in nairobi
-- turkish airlines no last name
+- 'flight from nairobi to abuja'
+- 'turkish airlines nairobi email address'
+- 'kenya to turkey flight price'
+- 'turkish airlines terminal in nairobi'
+- 'turkish airlines no last name'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

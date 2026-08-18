@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Vienna: Complete Guide'
-description: Everything you need to know about emirates flights from vienna, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from vienna, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-vienna
-primary_keyword: emirates flights from vienna
+primary_keyword: 'emirates flights from vienna'
 secondary_keywords:
-- emirates flights first class
-- emirates flights from gatwick terminal
-- emirates flights from harare to london
-- emirates flights from istanbul to dubai
-- emirates flights from johannesburg to auckland
+- 'emirates flights first class'
+- 'emirates flights from gatwick terminal'
+- 'emirates flights from harare to london'
+- 'emirates flights from istanbul to dubai'
+- 'emirates flights from johannesburg to auckland'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

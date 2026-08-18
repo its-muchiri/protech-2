@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Contacts Kenya Nairobi: Complete Guide'
-description: Everything you need to know about ethiopian airlines contacts kenya nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines contacts kenya nairobi, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-contacts-kenya-nairobi
-primary_keyword: ethiopian airlines contacts kenya nairobi
+primary_keyword: 'ethiopian airlines contacts kenya nairobi'
 secondary_keywords:
-- kenya airways cargo flight schedule
-- kq flight from nairobi to paris
-- kq flight from london
-- kq flight from new york to nairobi
-- kq flight from nairobi to london
+- 'kenya airways cargo flight schedule'
+- 'kq flight from nairobi to paris'
+- 'kq flight from london'
+- 'kq flight from new york to nairobi'
+- 'kq flight from nairobi to london'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

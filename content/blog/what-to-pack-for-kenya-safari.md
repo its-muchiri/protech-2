@@ -1,14 +1,14 @@
 ---
 title: 'What to Pack for Kenya Safari: Complete Guide'
-description: Kenya safari guide covering what to pack for kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering what to pack for kenya safari, including what is included, pricing, and booking advice.'
 slug: what-to-pack-for-kenya-safari
-primary_keyword: What to pack for Kenya safari
+primary_keyword: 'What to pack for Kenya safari'
 secondary_keywords:
-- Top rated safari companies Kenya SafariBookings
-- Masai Mara National Reserve safari packages 3 days 2 nights from Nairobi
-- Budget camping safari Tsavo East red elephants
-- Crescent Island walking safari Lake Naivasha cost
-- Student safari packages Kenya budget options
+- 'Top rated safari companies Kenya SafariBookings'
+- 'Masai Mara National Reserve safari packages 3 days 2 nights from Nairobi'
+- 'Budget camping safari Tsavo East red elephants'
+- 'Crescent Island walking safari Lake Naivasha cost'
+- 'Student safari packages Kenya budget options'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

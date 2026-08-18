@@ -1,14 +1,14 @@
 ---
 title: 'Book 7 Day Luxury Fly-in Masai Mara Migration Package July : Complete Guide'
-description: Kenya safari guide covering book 7 day luxury fly-in masai mara migration package july , including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book 7 day luxury fly-in masai mara migration package july , including what is included, pricing, and booking advice.'
 slug: book-7-day-luxury-fly-in-masai-mara-migration-package-july-year
-primary_keyword: Book 7 day luxury fly-in Masai Mara migration package July
+primary_keyword: 'Book 7 day luxury fly-in Masai Mara migration package July'
 secondary_keywords:
-- Best East Africa combined safari packages
-- December holiday family safari package Kenya book
-- Check availability  Kenya safari
-- All-inclusive Kenya safari package deals
-- Book Tsavo tour deal
+- 'Best East Africa combined safari packages'
+- 'December holiday family safari package Kenya book'
+- 'Check availability  Kenya safari'
+- 'All-inclusive Kenya safari package deals'
+- 'Book Tsavo tour deal'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

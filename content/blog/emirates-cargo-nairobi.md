@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Cargo Nairobi: Complete Guide'
-description: Everything you need to know about emirates cargo nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates cargo nairobi, including routes, airlines, booking tips, and fares.'
 slug: emirates-cargo-nairobi
-primary_keyword: emirates cargo nairobi
+primary_keyword: 'emirates cargo nairobi'
 secondary_keywords:
-- google flights nairobi to cape town
-- flights nairobi to india
-- flights nairobi to jhb
-- flights nairobi to kilimanjaro airport
-- london to nairobi direct flights
+- 'google flights nairobi to cape town'
+- 'flights nairobi to india'
+- 'flights nairobi to jhb'
+- 'flights nairobi to kilimanjaro airport'
+- 'london to nairobi direct flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

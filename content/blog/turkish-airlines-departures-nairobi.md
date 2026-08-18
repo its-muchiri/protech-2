@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Departures Nairobi: Complete Guide'
-description: Everything you need to know about turkish airlines departures nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines departures nairobi, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-departures-nairobi
-primary_keyword: turkish airlines departures nairobi
+primary_keyword: 'turkish airlines departures nairobi'
 secondary_keywords:
-- kq flight from jfk to nbo
-- kq airline prefix
-- kenya airways domestic flight schedule
-- kenya airways requirements
-- kq flights from nairobi to entebbe today
+- 'kq flight from jfk to nbo'
+- 'kq airline prefix'
+- 'kenya airways domestic flight schedule'
+- 'kenya airways requirements'
+- 'kq flights from nairobi to entebbe today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

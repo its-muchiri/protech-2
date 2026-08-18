@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Flight Status Nairobi to Istanbul: Complete Guide'
-description: Everything you need to know about turkish airlines flight status nairobi to istanbul, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines flight status nairobi to istanbul, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-flight-status-nairobi-to-istanbul
-primary_keyword: turkish airlines flight status nairobi to istanbul
+primary_keyword: 'turkish airlines flight status nairobi to istanbul'
 secondary_keywords:
-- flights from nairobi kenya to dublin ireland
-- flights to kenya from jfk
-- klm flights from kenya to amsterdam
-- flights from kenya to los angeles
-- morocco flights from kenya
+- 'flights from nairobi kenya to dublin ireland'
+- 'flights to kenya from jfk'
+- 'klm flights from kenya to amsterdam'
+- 'flights from kenya to los angeles'
+- 'morocco flights from kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

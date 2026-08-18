@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari in March: Complete Guide'
-description: Kenya safari guide covering kenya safari in march, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari in march, including what is included, pricing, and booking advice.'
 slug: kenya-safari-in-march
-primary_keyword: Kenya safari in March
+primary_keyword: 'Kenya safari in March'
 secondary_keywords:
-- Finch Hattons Tsavo luxury package quote
-- Private Kenya honeymoon safari quote
-- Overland truck safari Kenya package price
-- Tsavo Mombasa beach safari package quote
-- September Kenya migration safari cost
+- 'Finch Hattons Tsavo luxury package quote'
+- 'Private Kenya honeymoon safari quote'
+- 'Overland truck safari Kenya package price'
+- 'Tsavo Mombasa beach safari package quote'
+- 'September Kenya migration safari cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

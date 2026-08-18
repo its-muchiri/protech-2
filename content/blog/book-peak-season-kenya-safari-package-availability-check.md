@@ -1,14 +1,14 @@
 ---
 title: 'Book Peak Season Kenya Safari Package Availability Check: Complete Guide'
-description: Kenya safari guide covering book peak season kenya safari package availability check, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book peak season kenya safari package availability check, including what is included, pricing, and booking advice.'
 slug: book-peak-season-kenya-safari-package-availability-check
-primary_keyword: Book peak season Kenya safari package availability check
+primary_keyword: 'Book peak season Kenya safari package availability check'
 secondary_keywords:
-- Avoid safari scams Kenya warning signs
-- Fishing safari Lake Turkana / Lake Victoria Nile Perch
-- Book Kenya safari tour online UK
-- Buy luxury lodge safari Kenya USA reviews
-- Kenya family safari holiday cost estimate 2025
+- 'Avoid safari scams Kenya warning signs'
+- 'Fishing safari Lake Turkana / Lake Victoria Nile Perch'
+- 'Book Kenya safari tour online UK'
+- 'Buy luxury lodge safari Kenya USA reviews'
+- 'Kenya family safari holiday cost estimate 2025'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

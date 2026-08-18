@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Kenya from Winnipeg: Complete Guide'
-description: Everything you need to know about flights to kenya from winnipeg, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to kenya from winnipeg, including routes, airlines, booking tips, and fares.'
 slug: flights-to-kenya-from-winnipeg
-primary_keyword: flights to kenya from winnipeg
+primary_keyword: 'flights to kenya from winnipeg'
 secondary_keywords:
-- kq flight from lagos to nairobi
-- kq direct flight from kenya to usa
-- kq flight from nairobi to kigali
-- kq flight from nairobi to dubai price
-- flight to kenya time
+- 'kq flight from lagos to nairobi'
+- 'kq direct flight from kenya to usa'
+- 'kq flight from nairobi to kigali'
+- 'kq flight from nairobi to dubai price'
+- 'flight to kenya time'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

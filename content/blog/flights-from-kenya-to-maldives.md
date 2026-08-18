@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Maldives: Complete Guide'
-description: Everything you need to know about flights from kenya to maldives, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to maldives, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-maldives
-primary_keyword: flights from kenya to maldives
+primary_keyword: 'flights from kenya to maldives'
 secondary_keywords:
-- flights from nyc to nairobi
-- flights from new orleans to nairobi
-- flights from nairobi to qatar
-- flights from nairobi to dominican republic
-- flights from nairobi to spain
+- 'flights from nyc to nairobi'
+- 'flights from new orleans to nairobi'
+- 'flights from nairobi to qatar'
+- 'flights from nairobi to dominican republic'
+- 'flights from nairobi to spain'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

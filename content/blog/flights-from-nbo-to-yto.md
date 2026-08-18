@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nbo to Yto: Complete Guide'
-description: Everything you need to know about flights from nbo to yto, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nbo to yto, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nbo-to-yto
-primary_keyword: flights from nbo to yto
+primary_keyword: 'flights from nbo to yto'
 secondary_keywords:
-- qatar airways nairobi office contacts
-- qatar airways from nairobi to usa
-- kenya airways flights from cape town to nairobi
-- kq flight from jfk to nairobi today
-- kq flight from kenya to canada
+- 'qatar airways nairobi office contacts'
+- 'qatar airways from nairobi to usa'
+- 'kenya airways flights from cape town to nairobi'
+- 'kq flight from jfk to nairobi today'
+- 'kq flight from kenya to canada'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

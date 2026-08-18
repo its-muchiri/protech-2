@@ -1,14 +1,14 @@
 ---
 title: 'Speleology Safari Kenya (Chyulu Hills Caves): Complete Guide'
-description: Kenya safari guide covering speleology safari kenya (chyulu hills caves), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering speleology safari kenya (chyulu hills caves), including what is included, pricing, and booking advice.'
 slug: speleology-safari-kenya-chyulu-hills-caves
-primary_keyword: Speleology safari Kenya (Chyulu Hills caves)
+primary_keyword: 'Speleology safari Kenya (Chyulu Hills caves)'
 secondary_keywords:
-- Horse riding safari Kenya Chyulu Hills / Laikipia ranches
-- Cross border safari Kenya and Tanzania Serengeti / Ngorongoro combined tour operators
-- Purchase fly-in safari Kenya Masai Mara online USA
-- Affordable Kenya safari packages USA budget friendly
-- Kenya safari package quote request form
+- 'Horse riding safari Kenya Chyulu Hills / Laikipia ranches'
+- 'Cross border safari Kenya and Tanzania Serengeti / Ngorongoro combined tour operators'
+- 'Purchase fly-in safari Kenya Masai Mara online USA'
+- 'Affordable Kenya safari packages USA budget friendly'
+- 'Kenya safari package quote request form'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

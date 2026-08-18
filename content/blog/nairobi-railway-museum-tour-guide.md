@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi Railway Museum Tour Guide: Complete Guide'
-description: Kenya safari guide covering nairobi railway museum tour guide, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering nairobi railway museum tour guide, including what is included, pricing, and booking advice.'
 slug: nairobi-railway-museum-tour-guide
-primary_keyword: Nairobi Railway Museum tour guide
+primary_keyword: 'Nairobi Railway Museum tour guide'
 secondary_keywords:
-- Kenya safari reviews
-- Kenya safari with private guide
-- Kenya visa for safari
-- Language spoken Kenya safari
-- Kenya safari tour operator reviews Tripadvisor
+- 'Kenya safari reviews'
+- 'Kenya safari with private guide'
+- 'Kenya visa for safari'
+- 'Language spoken Kenya safari'
+- 'Kenya safari tour operator reviews Tripadvisor'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

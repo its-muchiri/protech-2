@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is a Flight from Nairobi to Usa: Complete Guide'
-description: Everything you need to know about how much is a flight from nairobi to usa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is a flight from nairobi to usa, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-a-flight-from-nairobi-to-usa
-primary_keyword: how much is a flight from nairobi to usa
+primary_keyword: 'how much is a flight from nairobi to usa'
 secondary_keywords:
-- buupass online booking kenya to nairobi
-- flight check in kenya airways
-- flights to kenya business class
-- flights to kenya in december
-- flights from kenya to uk today
+- 'buupass online booking kenya to nairobi'
+- 'flight check in kenya airways'
+- 'flights to kenya business class'
+- 'flights to kenya in december'
+- 'flights from kenya to uk today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

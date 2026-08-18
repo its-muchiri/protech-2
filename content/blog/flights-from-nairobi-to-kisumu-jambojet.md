@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Kisumu Jambojet: Complete Guide'
-description: Everything you need to know about flights from nairobi to kisumu jambojet, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to kisumu jambojet, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-kisumu-jambojet
-primary_keyword: flights from nairobi to kisumu jambojet
+primary_keyword: 'flights from nairobi to kisumu jambojet'
 secondary_keywords:
-- emirates direct flights from usa to europe
-- are emirates flights cancelled
-- emirates flights to australia from glasgow
-- how many emirates flights from glasgow
-- emirates flights to india from dubai
+- 'emirates direct flights from usa to europe'
+- 'are emirates flights cancelled'
+- 'emirates flights to australia from glasgow'
+- 'how many emirates flights from glasgow'
+- 'emirates flights to india from dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

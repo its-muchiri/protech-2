@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Oslo to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from oslo to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from oslo to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-oslo-to-dubai
-primary_keyword: emirates flights from oslo to dubai
+primary_keyword: 'emirates flights from oslo to dubai'
 secondary_keywords:
-- flights to kenya from new zealand
-- kenya flights
-- safarilink flights from nairobi to mombasa
-- flights from nairobi to accra
-- flights from nairobi to bujumbura
+- 'flights to kenya from new zealand'
+- 'kenya flights'
+- 'safarilink flights from nairobi to mombasa'
+- 'flights from nairobi to accra'
+- 'flights from nairobi to bujumbura'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

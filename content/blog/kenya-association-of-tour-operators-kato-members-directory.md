@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Association of Tour Operators (KATO) Members Directory: Complete Guide'
-description: Kenya safari guide covering kenya association of tour operators (kato) members directory, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya association of tour operators (kato) members directory, including what is included, pricing, and booking advice.'
 slug: kenya-association-of-tour-operators-kato-members-directory
-primary_keyword: Kenya Association of Tour Operators (KATO) members directory
+primary_keyword: 'Kenya Association of Tour Operators (KATO) members directory'
 secondary_keywords:
-- Thika based contact for arranging Fourteen Falls trip
-- Reserve Tsavo East West safari booking
-- Purchase Nairobi start Kenya safari package
-- Reserve 15 day Kenya ultimate safari booking
-- Buy bird watching Kenya safari package
+- 'Thika based contact for arranging Fourteen Falls trip'
+- 'Reserve Tsavo East West safari booking'
+- 'Purchase Nairobi start Kenya safari package'
+- 'Reserve 15 day Kenya ultimate safari booking'
+- 'Buy bird watching Kenya safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

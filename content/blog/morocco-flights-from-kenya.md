@@ -1,14 +1,14 @@
 ---
 title: 'Morocco Flights from Kenya: Complete Guide'
-description: Everything you need to know about morocco flights from kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about morocco flights from kenya, including routes, airlines, booking tips, and fares.'
 slug: morocco-flights-from-kenya
-primary_keyword: morocco flights from kenya
+primary_keyword: 'morocco flights from kenya'
 secondary_keywords:
-- kq flight from nairobi to kisumu
-- kenya airways flight from nairobi to mauritius
-- kenya airways flight from nairobi to usa
-- kenya airways flights from nairobi to ahmedabad
-- kenya airways flight from cape town to nairobi
+- 'kq flight from nairobi to kisumu'
+- 'kenya airways flight from nairobi to mauritius'
+- 'kenya airways flight from nairobi to usa'
+- 'kenya airways flights from nairobi to ahmedabad'
+- 'kenya airways flight from cape town to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

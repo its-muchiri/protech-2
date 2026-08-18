@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Nairobi from Mombasa: Complete Guide'
-description: Everything you need to know about flights to nairobi from mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to nairobi from mombasa, including routes, airlines, booking tips, and fares.'
 slug: flights-to-nairobi-from-mombasa
-primary_keyword: flights to nairobi from mombasa
+primary_keyword: 'flights to nairobi from mombasa'
 secondary_keywords:
-- flights from nairobi to seattle
-- flights from nairobi to ukunda
-- flights from nairobi to venice
-- wilson airport flights from nairobi
-- non stop flights from new york to nairobi
+- 'flights from nairobi to seattle'
+- 'flights from nairobi to ukunda'
+- 'flights from nairobi to venice'
+- 'wilson airport flights from nairobi'
+- 'non stop flights from new york to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari from India: Complete Guide'
-description: Kenya safari guide covering kenya safari from india, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari from india, including what is included, pricing, and booking advice.'
 slug: kenya-safari-from-india
-primary_keyword: Kenya safari from India
+primary_keyword: 'Kenya safari from India'
 secondary_keywords:
-- Fly-camping Kenya safari
-- 11 day Kenya safari
-- Luxury safari cost Kenya
-- Kenya safari accommodation
-- Maasai village visit Kenya
+- 'Fly-camping Kenya safari'
+- '11 day Kenya safari'
+- 'Luxury safari cost Kenya'
+- 'Kenya safari accommodation'
+- 'Maasai village visit Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Kenya from Sfo: Complete Guide'
-description: Everything you need to know about flights to kenya from sfo, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to kenya from sfo, including routes, airlines, booking tips, and fares.'
 slug: flights-to-kenya-from-sfo
-primary_keyword: flights to kenya from sfo
+primary_keyword: 'flights to kenya from sfo'
 secondary_keywords:
-- kq pilot requirements
-- kenya airways increase flights to new york
-- kq flights kisumu to nairobi
-- kq flights from london today
-- kq flights nairobi to mombasa today
+- 'kq pilot requirements'
+- 'kenya airways increase flights to new york'
+- 'kq flights kisumu to nairobi'
+- 'kq flights from london today'
+- 'kq flights nairobi to mombasa today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

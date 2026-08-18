@@ -1,14 +1,14 @@
 ---
 title: 'Cheapest Emirates Flights from India: Complete Guide'
-description: Everything you need to know about cheapest emirates flights from india, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheapest emirates flights from india, including routes, airlines, booking tips, and fares.'
 slug: cheapest-emirates-flights-from-india
-primary_keyword: cheapest emirates flights from india
+primary_keyword: 'cheapest emirates flights from india'
 secondary_keywords:
-- flights nairobi to jro
-- flights nairobi to kilimanjaro
-- flights nairobi to lewa
-- mogadishu to nairobi flights
-- new delhi to nairobi flights
+- 'flights nairobi to jro'
+- 'flights nairobi to kilimanjaro'
+- 'flights nairobi to lewa'
+- 'mogadishu to nairobi flights'
+- 'new delhi to nairobi flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

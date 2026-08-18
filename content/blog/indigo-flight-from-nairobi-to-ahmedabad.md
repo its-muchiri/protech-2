@@ -1,14 +1,14 @@
 ---
 title: 'Indigo Flight from Nairobi to Ahmedabad: Complete Guide'
-description: Everything you need to know about indigo flight from nairobi to ahmedabad, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about indigo flight from nairobi to ahmedabad, including routes, airlines, booking tips, and fares.'
 slug: indigo-flight-from-nairobi-to-ahmedabad
-primary_keyword: indigo flight from nairobi to ahmedabad
+primary_keyword: 'indigo flight from nairobi to ahmedabad'
 secondary_keywords:
-- emirates 9 west
-- emirates contacts in nairobi
-- emirates holidays nairobi
-- emirates recruitment nairobi
-- fly emirates from kenya to dubai
+- 'emirates 9 west'
+- 'emirates contacts in nairobi'
+- 'emirates holidays nairobi'
+- 'emirates recruitment nairobi'
+- 'fly emirates from kenya to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

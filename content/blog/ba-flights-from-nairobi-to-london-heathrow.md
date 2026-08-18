@@ -1,14 +1,14 @@
 ---
 title: 'Ba Flights from Nairobi to London Heathrow: Complete Guide'
-description: Everything you need to know about ba flights from nairobi to london heathrow, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ba flights from nairobi to london heathrow, including routes, airlines, booking tips, and fares.'
 slug: ba-flights-from-nairobi-to-london-heathrow
-primary_keyword: ba flights from nairobi to london heathrow
+primary_keyword: 'ba flights from nairobi to london heathrow'
 secondary_keywords:
-- flights to mombasa from perth australia
-- rwandair flights from mombasa to kigali
-- flight from mombasa to usa
-- zanzibar flights from mombasa
-- flights from kisumu to nairobi today
+- 'flights to mombasa from perth australia'
+- 'rwandair flights from mombasa to kigali'
+- 'flight from mombasa to usa'
+- 'zanzibar flights from mombasa'
+- 'flights from kisumu to nairobi today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

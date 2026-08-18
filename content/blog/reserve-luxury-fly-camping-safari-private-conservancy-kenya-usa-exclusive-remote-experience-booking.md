@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Luxury Fly-camping Safari Private Conservancy Kenya USA Exclusive Remote Experience Booking: Complete Guide'
-description: Kenya safari guide covering reserve luxury fly-camping safari private conservancy kenya usa exclusive remote experience booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve luxury fly-camping safari private conservancy kenya usa exclusive remote experience booking, including what is included, pricing, and booking advice.'
 slug: reserve-luxury-fly-camping-safari-private-conservancy-kenya-usa-exclusive-remote-experience-booking
-primary_keyword: Reserve luxury fly-camping safari private conservancy Kenya USA exclusive remote experience booking
+primary_keyword: 'Reserve luxury fly-camping safari private conservancy Kenya USA exclusive remote experience booking'
 secondary_keywords:
-- Kenya honeymoon safari all-inclusive deals booking
-- Book Kenya horseback riding safari package UK Laikipia
-- Masai Mara migration river crossing tour booking dates 2025
-- All-inclusive Kenya safari from UK cost July 2025
-- UK travel advice Kenya safari booking safe operators
+- 'Kenya honeymoon safari all-inclusive deals booking'
+- 'Book Kenya horseback riding safari package UK Laikipia'
+- 'Masai Mara migration river crossing tour booking dates 2025'
+- 'All-inclusive Kenya safari from UK cost July 2025'
+- 'UK travel advice Kenya safari booking safe operators'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

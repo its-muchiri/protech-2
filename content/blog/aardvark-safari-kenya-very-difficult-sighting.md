@@ -1,14 +1,14 @@
 ---
 title: 'Aardvark Safari Kenya (very Difficult Sighting): Complete Guide'
-description: Kenya safari guide covering aardvark safari kenya (very difficult sighting), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering aardvark safari kenya (very difficult sighting), including what is included, pricing, and booking advice.'
 slug: aardvark-safari-kenya-very-difficult-sighting
-primary_keyword: Aardvark safari Kenya (very difficult sighting)
+primary_keyword: 'Aardvark safari Kenya (very difficult sighting)'
 secondary_keywords:
-- Gracepatt Safaris review
-- Yellow fever vaccination certificate Kenya requirement
-- Compare specific tour operators Bonfire vs Bountiful Kenya
-- Safari tours starting from Nairobi Jomo Kenyatta Airport (NBO)
-- Buy Tsavo National Park safari online now
+- 'Gracepatt Safaris review'
+- 'Yellow fever vaccination certificate Kenya requirement'
+- 'Compare specific tour operators Bonfire vs Bountiful Kenya'
+- 'Safari tours starting from Nairobi Jomo Kenyatta Airport (NBO)'
+- 'Buy Tsavo National Park safari online now'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

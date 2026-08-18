@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Nairobi Wilson Airport: Complete Guide'
-description: Everything you need to know about flights from mombasa to nairobi wilson airport, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to nairobi wilson airport, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-nairobi-wilson-airport
-primary_keyword: flights from mombasa to nairobi wilson airport
+primary_keyword: 'flights from mombasa to nairobi wilson airport'
 secondary_keywords:
-- emirates lounge nairobi airport
-- emirates dxb nairobi
-- emirates nairobi lounge
-- emirates flight from nairobi today
-- emirates kenya airport
+- 'emirates lounge nairobi airport'
+- 'emirates dxb nairobi'
+- 'emirates nairobi lounge'
+- 'emirates flight from nairobi today'
+- 'emirates kenya airport'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

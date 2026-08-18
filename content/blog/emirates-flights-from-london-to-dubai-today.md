@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from London to Dubai Today: Complete Guide'
-description: Everything you need to know about emirates flights from london to dubai today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from london to dubai today, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-london-to-dubai-today
-primary_keyword: emirates flights from london to dubai today
+primary_keyword: 'emirates flights from london to dubai today'
 secondary_keywords:
-- kq flights from mombasa to nairobi timetable
-- cheapest flights from mombasa to london
-- flights from mombasa to nairobi wilson airport today
-- cheap flights from nairobi to mombasa jambojet price
-- silverstone flights from mombasa to kisumu
+- 'kq flights from mombasa to nairobi timetable'
+- 'cheapest flights from mombasa to london'
+- 'flights from mombasa to nairobi wilson airport today'
+- 'cheap flights from nairobi to mombasa jambojet price'
+- 'silverstone flights from mombasa to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

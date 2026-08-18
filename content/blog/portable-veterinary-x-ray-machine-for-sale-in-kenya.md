@@ -1,14 +1,14 @@
 ---
 title: 'Portable Veterinary X-ray Machine for Sale in Kenya: 2026 Price Guide'
-description: Kenya buying guide to portable veterinary x-ray machine for sale in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to portable veterinary x-ray machine for sale in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: portable-veterinary-x-ray-machine-for-sale-in-kenya
-primary_keyword: Portable veterinary X-ray machine for sale in Kenya
+primary_keyword: 'Portable veterinary X-ray machine for sale in Kenya'
 secondary_keywords:
-- Multiparameter patient monitor price in Kenya
-- Infusion pump for sale in Nairobi
-- Muscle stimulator cost in Mombasa
-- Kinesiology tape suppliers in Nairobi
-- OPG (orthopantomogram) machine cost in Mombasa
+- 'Multiparameter patient monitor price in Kenya'
+- 'Infusion pump for sale in Nairobi'
+- 'Muscle stimulator cost in Mombasa'
+- 'Kinesiology tape suppliers in Nairobi'
+- 'OPG (orthopantomogram) machine cost in Mombasa'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

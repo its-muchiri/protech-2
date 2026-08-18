@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Cape Town: Complete Guide'
-description: Everything you need to know about emirates flights from cape town, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from cape town, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-cape-town
-primary_keyword: emirates flights from cape town
+primary_keyword: 'emirates flights from cape town'
 secondary_keywords:
-- flights from nairobi to cairo
-- flights from nairobi to dar es salaam
-- flights from nairobi to egypt
-- flight from nairobi to mombasa fare
-- flights from nairobi to greece
+- 'flights from nairobi to cairo'
+- 'flights from nairobi to dar es salaam'
+- 'flights from nairobi to egypt'
+- 'flight from nairobi to mombasa fare'
+- 'flights from nairobi to greece'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

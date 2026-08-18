@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Hotel Nairobi: Complete Guide'
-description: Everything you need to know about emirates hotel nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates hotel nairobi, including routes, airlines, booking tips, and fares.'
 slug: emirates-hotel-nairobi
-primary_keyword: emirates hotel nairobi
+primary_keyword: 'emirates hotel nairobi'
 secondary_keywords:
-- tanzania bans kq flights
-- kq cheap flights
-- kq flights to dubai from nairobi
-- kq flights to guangzhou
-- kq flight intercepted
+- 'tanzania bans kq flights'
+- 'kq cheap flights'
+- 'kq flights to dubai from nairobi'
+- 'kq flights to guangzhou'
+- 'kq flight intercepted'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Laboratory Centrifuge for Sale in Kisumu: 2026 Price Guide'
-description: Kenya buying guide to laboratory centrifuge for sale in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to laboratory centrifuge for sale in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: laboratory-centrifuge-for-sale-in-kisumu
-primary_keyword: Laboratory centrifuge for sale in Kisumu
+primary_keyword: 'Laboratory centrifuge for sale in Kisumu'
 secondary_keywords:
-- CPAP and BiPAP machine for sleep apnea
-- NSK dental handpiece price in Nairobi
-- Ophthalmoscope and retinoscope set (Welch Allyn)
-- N95 and surgical masks bulk suppliers in Kenya
-- Second hand dialysis machine for sale in Kenya
+- 'CPAP and BiPAP machine for sleep apnea'
+- 'NSK dental handpiece price in Nairobi'
+- 'Ophthalmoscope and retinoscope set (Welch Allyn)'
+- 'N95 and surgical masks bulk suppliers in Kenya'
+- 'Second hand dialysis machine for sale in Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

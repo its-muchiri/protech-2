@@ -1,14 +1,14 @@
 ---
 title: 'Safari Operators Kiambu County: Complete Guide'
-description: Kenya safari guide covering safari operators kiambu county, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering safari operators kiambu county, including what is included, pricing, and booking advice.'
 slug: safari-operators-kiambu-county
-primary_keyword: Safari operators Kiambu County
+primary_keyword: 'Safari operators Kiambu County'
 secondary_keywords:
-- Book Kenya safari July 2025 migration Mara crossing Europe
-- Kenya safari vacancy checker online booking
-- Best rated small group Kenya safari tours Europe value
-- Reserve recommended Laikipia conservancy walking safari Europe operator eco focus
-- Buy accessible Kenya safari tour package modified vehicle Europe booking assistance
+- 'Book Kenya safari July 2025 migration Mara crossing Europe'
+- 'Kenya safari vacancy checker online booking'
+- 'Best rated small group Kenya safari tours Europe value'
+- 'Reserve recommended Laikipia conservancy walking safari Europe operator eco focus'
+- 'Buy accessible Kenya safari tour package modified vehicle Europe booking assistance'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Islamabad: Complete Guide'
-description: Everything you need to know about flights from nairobi to islamabad, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to islamabad, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-islamabad
-primary_keyword: flights from nairobi to islamabad
+primary_keyword: 'flights from nairobi to islamabad'
 secondary_keywords:
-- kq flights schedule today
-- kq flights to uganda today
-- kq 0760 flight status
-- kq 205 flight status
-- kq 305 flight status
+- 'kq flights schedule today'
+- 'kq flights to uganda today'
+- 'kq 0760 flight status'
+- 'kq 205 flight status'
+- 'kq 305 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Buy 10 Day Budget Kenya Tanzania Camping Safari Booking: Complete Guide'
-description: Kenya safari guide covering buy 10 day budget kenya tanzania camping safari booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy 10 day budget kenya tanzania camping safari booking, including what is included, pricing, and booking advice.'
 slug: buy-10-day-budget-kenya-tanzania-camping-safari-booking
-primary_keyword: Buy 10 day budget Kenya Tanzania camping safari booking
+primary_keyword: 'Buy 10 day budget Kenya Tanzania camping safari booking'
 secondary_keywords:
-- Kenya multiple parks safari circuit package price UK
-- Luxury Kenya safari for US travelers price comparison sites
-- Tour Operator Seeking (Tour operator, Safari company, Travel agent, Booking agency)
-- Online travel agency (OTA) Kenya safari booking deals
-- Kenya safari tour dates and prices USA 2025 calendar
+- 'Kenya multiple parks safari circuit package price UK'
+- 'Luxury Kenya safari for US travelers price comparison sites'
+- 'Tour Operator Seeking (Tour operator, Safari company, Travel agent, Booking agency)'
+- 'Online travel agency (OTA) Kenya safari booking deals'
+- 'Kenya safari tour dates and prices USA 2025 calendar'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

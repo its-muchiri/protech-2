@@ -1,14 +1,14 @@
 ---
 title: 'Flight 540 Nairobi to Eldoret: Complete Guide'
-description: Everything you need to know about flight 540 nairobi to eldoret, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight 540 nairobi to eldoret, including routes, airlines, booking tips, and fares.'
 slug: flight-540-nairobi-to-eldoret
-primary_keyword: flight 540 nairobi to eldoret
+primary_keyword: 'flight 540 nairobi to eldoret'
 secondary_keywords:
-- emirates flights from jfk
-- emirates flights from kolkata to dubai
-- emirates flights from larnaca
-- emirates flights from newcastle
-- emirates flight from orlando to dubai today
+- 'emirates flights from jfk'
+- 'emirates flights from kolkata to dubai'
+- 'emirates flights from larnaca'
+- 'emirates flights from newcastle'
+- 'emirates flight from orlando to dubai today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

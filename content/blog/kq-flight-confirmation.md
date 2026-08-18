@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight Confirmation: Complete Guide'
-description: Everything you need to know about kq flight confirmation, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight confirmation, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-confirmation
-primary_keyword: kq flight confirmation
+primary_keyword: 'kq flight confirmation'
 secondary_keywords:
-- flights nairobi to masai mara
-- nairobi to nanyuki flights
-- flights nairobi to prague
-- flight duration from nairobi to qatar
-- riyadh to nairobi flights
+- 'flights nairobi to masai mara'
+- 'nairobi to nanyuki flights'
+- 'flights nairobi to prague'
+- 'flight duration from nairobi to qatar'
+- 'riyadh to nairobi flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

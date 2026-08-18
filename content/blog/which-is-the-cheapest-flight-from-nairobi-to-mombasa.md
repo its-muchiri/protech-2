@@ -1,14 +1,14 @@
 ---
 title: 'Which Is the Cheapest Flight from Nairobi to Mombasa: Complete Guide'
-description: Everything you need to know about which is the cheapest flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about which is the cheapest flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.'
 slug: which-is-the-cheapest-flight-from-nairobi-to-mombasa
-primary_keyword: which is the cheapest flight from nairobi to mombasa
+primary_keyword: 'which is the cheapest flight from nairobi to mombasa'
 secondary_keywords:
-- nairobi to china flights price
-- does kenya airways fly to new york
-- flights nairobi to samburu
-- flights from nairobi to toronto canada
-- flights nairobi to venice
+- 'nairobi to china flights price'
+- 'does kenya airways fly to new york'
+- 'flights nairobi to samburu'
+- 'flights from nairobi to toronto canada'
+- 'flights nairobi to venice'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

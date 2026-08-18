@@ -1,14 +1,14 @@
 ---
 title: 'Plan Kenya Safari: Complete Guide'
-description: Kenya safari guide covering plan kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering plan kenya safari, including what is included, pricing, and booking advice.'
 slug: plan-kenya-safari
-primary_keyword: Plan Kenya safari
+primary_keyword: 'Plan Kenya safari'
 secondary_keywords:
-- Family friendly Kenya safari deals
-- Multi-generational family safari Kenya book
-- Off-season Kenya safari package discount
-- Kenya safari and Victoria Falls package quote
-- Secure peak season Kenya safari package
+- 'Family friendly Kenya safari deals'
+- 'Multi-generational family safari Kenya book'
+- 'Off-season Kenya safari package discount'
+- 'Kenya safari and Victoria Falls package quote'
+- 'Secure peak season Kenya safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Columbus Ohio: Complete Guide'
-description: Everything you need to know about flights from nairobi to columbus ohio, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to columbus ohio, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-columbus-ohio
-primary_keyword: flights from nairobi to columbus ohio
+primary_keyword: 'flights from nairobi to columbus ohio'
 secondary_keywords:
-- does british airways fly to kolkata
-- flights from kisumu to entebbe
-- flights kisumu kenya to mombasa kenya
-- flights from kisumu to masai mara
-- is there a direct flight from kisumu to mombasa
+- 'does british airways fly to kolkata'
+- 'flights from kisumu to entebbe'
+- 'flights kisumu kenya to mombasa kenya'
+- 'flights from kisumu to masai mara'
+- 'is there a direct flight from kisumu to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

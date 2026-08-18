@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Will Resume Flights from Dubai to Adelaide in October: Complete Guide'
-description: Everything you need to know about emirates will resume flights from dubai to adelaide in october, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates will resume flights from dubai to adelaide in october, including routes, airlines, booking tips, and fares.'
 slug: emirates-will-resume-flights-from-dubai-to-adelaide-in-october
-primary_keyword: emirates will resume flights from dubai to adelaide in october
+primary_keyword: 'emirates will resume flights from dubai to adelaide in october'
 secondary_keywords:
-- kenya airways flight schedule from mumbai to nairobi
-- kenya airways from nairobi to new york
-- flight from nairobi to arusha
-- a flight from nairobi to kisumu
-- ba flight from nairobi to heathrow
+- 'kenya airways flight schedule from mumbai to nairobi'
+- 'kenya airways from nairobi to new york'
+- 'flight from nairobi to arusha'
+- 'a flight from nairobi to kisumu'
+- 'ba flight from nairobi to heathrow'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

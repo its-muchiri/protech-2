@@ -1,14 +1,14 @@
 ---
 title: 'Rates for 14 Day Honeymoon Kenya Beach Safari Package: Complete Guide'
-description: Kenya safari guide covering rates for 14 day honeymoon kenya beach safari package, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering rates for 14 day honeymoon kenya beach safari package, including what is included, pricing, and booking advice.'
 slug: rates-for-14-day-honeymoon-kenya-beach-safari-package
-primary_keyword: Rates for 14 day honeymoon Kenya beach safari package
+primary_keyword: 'Rates for 14 day honeymoon Kenya beach safari package'
 secondary_keywords:
-- Kenya conservation safari tours rhino tracking / lion monitoring
-- Safari packages from Nanyuki Mount Kenya / Ol Pejeta
-- Reserve small group safari tour Kenya USA operator
-- Best Kenya safari deals for USA travelers online
-- Compare Kenya safari package prices USA operators
+- 'Kenya conservation safari tours rhino tracking / lion monitoring'
+- 'Safari packages from Nanyuki Mount Kenya / Ol Pejeta'
+- 'Reserve small group safari tour Kenya USA operator'
+- 'Best Kenya safari deals for USA travelers online'
+- 'Compare Kenya safari package prices USA operators'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

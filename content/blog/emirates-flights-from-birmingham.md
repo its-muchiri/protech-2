@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Birmingham: Complete Guide'
-description: Everything you need to know about emirates flights from birmingham, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from birmingham, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-birmingham
-primary_keyword: emirates flights from birmingham
+primary_keyword: 'emirates flights from birmingham'
 secondary_keywords:
-- flights from nairobi to heathrow
-- flights from nairobi to italy
-- flights from nairobi to jfk
-- flights from nairobi kenya to mogadishu somalia
-- lamu flights from nairobi
+- 'flights from nairobi to heathrow'
+- 'flights from nairobi to italy'
+- 'flights from nairobi to jfk'
+- 'flights from nairobi kenya to mogadishu somalia'
+- 'lamu flights from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

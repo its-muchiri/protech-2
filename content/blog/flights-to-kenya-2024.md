@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Kenya 2024: Complete Guide'
-description: Everything you need to know about flights to kenya 2024, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to kenya 2024, including routes, airlines, booking tips, and fares.'
 slug: flights-to-kenya-2024
-primary_keyword: flights to kenya 2024
+primary_keyword: 'flights to kenya 2024'
 secondary_keywords:
-- emirates flight from kenya to dubai price tomorrow
-- emirates offices in kenya
-- qatar from kenya
-- fly emirates contacts
-- ethiopian airlines best in africa
+- 'emirates flight from kenya to dubai price tomorrow'
+- 'emirates offices in kenya'
+- 'qatar from kenya'
+- 'fly emirates contacts'
+- 'ethiopian airlines best in africa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

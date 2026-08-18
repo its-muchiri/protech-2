@@ -1,14 +1,14 @@
 ---
 title: 'Is Kenya Airways a Good Airline: Complete Guide'
-description: Everything you need to know about is kenya airways a good airline, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about is kenya airways a good airline, including routes, airlines, booking tips, and fares.'
 slug: is-kenya-airways-a-good-airline
-primary_keyword: is kenya airways a good airline
+primary_keyword: 'is kenya airways a good airline'
 secondary_keywords:
-- flights nairobi to dublin
-- cheap flights from entebbe to nairobi
-- google flights nairobi to london
-- harare to nairobi flights
-- flights nairobi to juba
+- 'flights nairobi to dublin'
+- 'cheap flights from entebbe to nairobi'
+- 'google flights nairobi to london'
+- 'harare to nairobi flights'
+- 'flights nairobi to juba'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

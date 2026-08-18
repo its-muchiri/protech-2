@@ -1,14 +1,14 @@
 ---
 title: 'Purchase Kenya Coffee Plantation Tour Kiambu Safari Add-on Europe Farm Stay Booking: Complete Guide'
-description: Kenya safari guide covering purchase kenya coffee plantation tour kiambu safari add-on europe farm stay booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase kenya coffee plantation tour kiambu safari add-on europe farm stay booking, including what is included, pricing, and booking advice.'
 slug: purchase-kenya-coffee-plantation-tour-kiambu-safari-add-on-europe-farm-stay-booking
-primary_keyword: Purchase Kenya coffee plantation tour Kiambu safari add-on Europe farm stay booking
+primary_keyword: 'Purchase Kenya coffee plantation tour Kiambu safari add-on Europe farm stay booking'
 secondary_keywords:
-- Budget safari lodges Kenya
-- Eco lodges Kenya safari
-- Masai Mara balloon safari
-- Big Five safari Kenya
-- Rare animals Kenya safari
+- 'Budget safari lodges Kenya'
+- 'Eco lodges Kenya safari'
+- 'Masai Mara balloon safari'
+- 'Big Five safari Kenya'
+- 'Rare animals Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'When Is the Wildebeest Migration in Kenya: Complete Guide'
-description: Kenya safari guide covering when is the wildebeest migration in kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering when is the wildebeest migration in kenya, including what is included, pricing, and booking advice.'
 slug: when-is-the-wildebeest-migration-in-kenya
-primary_keyword: When is the wildebeest migration in Kenya
+primary_keyword: 'When is the wildebeest migration in Kenya'
 secondary_keywords:
-- Price for 4 day Lake Nakuru Sopa Lodge package deal
-- Best price guarantee Kenya safari package 7 days
-- Purchase e-ticket Kenya fly-in safari package
-- Book recommended 8 day Kenya wildlife classic package
-- Book 9 day Sanctuary Olonana luxury river package Mara
+- 'Price for 4 day Lake Nakuru Sopa Lodge package deal'
+- 'Best price guarantee Kenya safari package 7 days'
+- 'Purchase e-ticket Kenya fly-in safari package'
+- 'Book recommended 8 day Kenya wildlife classic package'
+- 'Book 9 day Sanctuary Olonana luxury river package Mara'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

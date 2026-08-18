@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Al Qaisumah to Dubai United Arab Emirates: Complete Guide'
-description: Everything you need to know about flights from al qaisumah to dubai united arab emirates, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from al qaisumah to dubai united arab emirates, including routes, airlines, booking tips, and fares.'
 slug: flights-from-al-qaisumah-to-dubai-united-arab-emirates
-primary_keyword: flights from al qaisumah to dubai united arab emirates
+primary_keyword: 'flights from al qaisumah to dubai united arab emirates'
 secondary_keywords:
-- emirates skycargo nairobi
-- emirates kenya airways
-- emirates ticket from dubai to kenya
-- fly emirates headquarters
-- emirates shoes kenya
+- 'emirates skycargo nairobi'
+- 'emirates kenya airways'
+- 'emirates ticket from dubai to kenya'
+- 'fly emirates headquarters'
+- 'emirates shoes kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

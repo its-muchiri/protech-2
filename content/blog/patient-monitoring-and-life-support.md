@@ -1,14 +1,14 @@
 ---
 title: 'Patient Monitoring & Life Support: 2026 Price Guide'
-description: Kenya buying guide to patient monitoring & life support. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to patient monitoring & life support. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: patient-monitoring-and-life-support
-primary_keyword: Patient Monitoring & Life Support
+primary_keyword: 'Patient Monitoring & Life Support'
 secondary_keywords:
-- Disinfectants and cleaning solutions for hospitals
-- Mortuary equipment installation services
-- Sterilization indicator strips and tape
-- Refurbished medical equipment suppliers in Kenya
-- Hospital equipment disposal services
+- 'Disinfectants and cleaning solutions for hospitals'
+- 'Mortuary equipment installation services'
+- 'Sterilization indicator strips and tape'
+- 'Refurbished medical equipment suppliers in Kenya'
+- 'Hospital equipment disposal services'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Blantyre: Complete Guide'
-description: Everything you need to know about flights nairobi to blantyre, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to blantyre, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-blantyre
-primary_keyword: flights nairobi to blantyre
+primary_keyword: 'flights nairobi to blantyre'
 secondary_keywords:
-- kenya airways flights to london heathrow from nairobi
-- flights from kenya to johannesburg
-- flights to japan from kenya
-- cheap flights from kansas city to nairobi kenya
-- flights from lagos to nairobi kenya
+- 'kenya airways flights to london heathrow from nairobi'
+- 'flights from kenya to johannesburg'
+- 'flights to japan from kenya'
+- 'cheap flights from kansas city to nairobi kenya'
+- 'flights from lagos to nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

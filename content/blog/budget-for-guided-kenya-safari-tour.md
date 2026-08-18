@@ -1,14 +1,14 @@
 ---
 title: 'Budget for Guided Kenya Safari Tour: Complete Guide'
-description: Kenya safari guide covering budget for guided kenya safari tour, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering budget for guided kenya safari tour, including what is included, pricing, and booking advice.'
 slug: budget-for-guided-kenya-safari-tour
-primary_keyword: Budget for guided Kenya safari tour
+primary_keyword: 'Budget for guided Kenya safari tour'
 secondary_keywords:
-- Kenya safari from Australia
-- Kenya safari in May
-- Local Kenya safari operators
-- Accessible Kenya safari
-- Wellness safari Kenya
+- 'Kenya safari from Australia'
+- 'Kenya safari in May'
+- 'Local Kenya safari operators'
+- 'Accessible Kenya safari'
+- 'Wellness safari Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

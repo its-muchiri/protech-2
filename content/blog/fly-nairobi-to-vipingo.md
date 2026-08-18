@@ -1,14 +1,14 @@
 ---
 title: 'Fly Nairobi to Vipingo: Complete Guide'
-description: Everything you need to know about fly nairobi to vipingo, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about fly nairobi to vipingo, including routes, airlines, booking tips, and fares.'
 slug: fly-nairobi-to-vipingo
-primary_keyword: fly nairobi to vipingo
+primary_keyword: 'fly nairobi to vipingo'
 secondary_keywords:
-- emirates flight 318
-- emirates flight 448
-- emirates flight 623
-- emirates flight 720
-- emirates flight 978
+- 'emirates flight 318'
+- 'emirates flight 448'
+- 'emirates flight 623'
+- 'emirates flight 720'
+- 'emirates flight 978'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

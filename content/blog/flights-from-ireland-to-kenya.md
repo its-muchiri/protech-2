@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Ireland to Kenya: Complete Guide'
-description: Everything you need to know about flights from ireland to kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from ireland to kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-ireland-to-kenya
-primary_keyword: flights from ireland to kenya
+primary_keyword: 'flights from ireland to kenya'
 secondary_keywords:
-- international flights from kenya
-- flights to kenya from jfk
-- klm flights from kenya to amsterdam
-- flights from kenya to los angeles
-- morocco flights from kenya
+- 'international flights from kenya'
+- 'flights to kenya from jfk'
+- 'klm flights from kenya to amsterdam'
+- 'flights from kenya to los angeles'
+- 'morocco flights from kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

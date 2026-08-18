@@ -1,14 +1,14 @@
 ---
 title: 'Flights from or Tambo to Nairobi: Complete Guide'
-description: Everything you need to know about flights from or tambo to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from or tambo to nairobi, including routes, airlines, booking tips, and fares.'
 slug: flights-from-or-tambo-to-nairobi
-primary_keyword: flights from or tambo to nairobi
+primary_keyword: 'flights from or tambo to nairobi'
 secondary_keywords:
-- google flights nairobi to johannesburg
-- flights nairobi to italy
-- flights to nairobi jambojet
-- kenya airways flights nairobi to entebbe price
-- nairobi to lodwar flights
+- 'google flights nairobi to johannesburg'
+- 'flights nairobi to italy'
+- 'flights to nairobi jambojet'
+- 'kenya airways flights nairobi to entebbe price'
+- 'nairobi to lodwar flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

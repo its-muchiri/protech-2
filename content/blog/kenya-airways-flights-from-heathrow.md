@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights from Heathrow: Complete Guide'
-description: Everything you need to know about kenya airways flights from heathrow, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights from heathrow, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-from-heathrow
-primary_keyword: kenya airways flights from heathrow
+primary_keyword: 'kenya airways flights from heathrow'
 secondary_keywords:
-- flights from nairobi to lodwar
-- flights from nairobi to manchester uk
-- flights from nairobi to ndola
-- flights from nairobi to ontario
-- flights from nairobi to mombasa prices
+- 'flights from nairobi to lodwar'
+- 'flights from nairobi to manchester uk'
+- 'flights from nairobi to ndola'
+- 'flights from nairobi to ontario'
+- 'flights from nairobi to mombasa prices'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

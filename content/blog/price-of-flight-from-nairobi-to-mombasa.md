@@ -1,14 +1,14 @@
 ---
 title: 'Price of Flight from Nairobi to Mombasa: Complete Guide'
-description: Everything you need to know about price of flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about price of flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.'
 slug: price-of-flight-from-nairobi-to-mombasa
-primary_keyword: price of flight from nairobi to mombasa
+primary_keyword: 'price of flight from nairobi to mombasa'
 secondary_keywords:
-- kq flight from nairobi to malindi
-- kenya airways flight schedule nairobi kinshasa
-- kenya airways flights from nairobi to addis ababa prices today
-- kenya airways customer care
-- is kenya airways reliable
+- 'kq flight from nairobi to malindi'
+- 'kenya airways flight schedule nairobi kinshasa'
+- 'kenya airways flights from nairobi to addis ababa prices today'
+- 'kenya airways customer care'
+- 'is kenya airways reliable'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

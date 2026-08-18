@@ -1,14 +1,14 @@
 ---
 title: 'Purchase Last Minute Kenya Safari Package Deal : Complete Guide'
-description: Kenya safari guide covering purchase last minute kenya safari package deal , including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase last minute kenya safari package deal , including what is included, pricing, and booking advice.'
 slug: purchase-last-minute-kenya-safari-package-deal-next-month
-primary_keyword: Purchase last minute Kenya safari package deal
+primary_keyword: 'Purchase last minute Kenya safari package deal'
 secondary_keywords:
-- Kenya safari activities
-- See large elephant herds Kenya
-- Kenya safari from Diani Beach
-- Kenya safari from India
-- Kenya safari in August (Migration)
+- 'Kenya safari activities'
+- 'See large elephant herds Kenya'
+- 'Kenya safari from Diani Beach'
+- 'Kenya safari from India'
+- 'Kenya safari in August (Migration)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

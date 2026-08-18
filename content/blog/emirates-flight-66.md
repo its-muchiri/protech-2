@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 66: Complete Guide'
-description: Everything you need to know about emirates flight 66, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 66, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-66
-primary_keyword: emirates flight 66
+primary_keyword: 'emirates flight 66'
 secondary_keywords:
-- flights from italy to mombasa
-- flights from mombasa to kigali
-- fly from mombasa to lamu
-- morning flights from mombasa to nairobi
-- flight from kisumu to mombasa price
+- 'flights from italy to mombasa'
+- 'flights from mombasa to kigali'
+- 'fly from mombasa to lamu'
+- 'morning flights from mombasa to nairobi'
+- 'flight from kisumu to mombasa price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

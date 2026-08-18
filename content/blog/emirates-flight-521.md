@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 521: Complete Guide'
-description: Everything you need to know about emirates flight 521, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 521, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-521
-primary_keyword: emirates flight 521
+primary_keyword: 'emirates flight 521'
 secondary_keywords:
-- emirates flights from london
-- emirates flights from melbourne to dubai
-- emirates flights from ord
-- emirates flights from phuket to dubai
-- emirates flight quetta to dubai
+- 'emirates flights from london'
+- 'emirates flights from melbourne to dubai'
+- 'emirates flights from ord'
+- 'emirates flights from phuket to dubai'
+- 'emirates flight quetta to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

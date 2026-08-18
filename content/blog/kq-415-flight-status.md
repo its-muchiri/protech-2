@@ -1,14 +1,14 @@
 ---
 title: 'Kq 415 Flight Status: Complete Guide'
-description: Everything you need to know about kq 415 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 415 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq-415-flight-status
-primary_keyword: kq 415 flight status
+primary_keyword: 'kq 415 flight status'
 secondary_keywords:
-- does kenya airways fly to usa
-- airlines in kenya job vacancies
-- requirements for local flights in kenya
-- flights to kenya in october
-- flights ro kenya
+- 'does kenya airways fly to usa'
+- 'airlines in kenya job vacancies'
+- 'requirements for local flights in kenya'
+- 'flights to kenya in october'
+- 'flights ro kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

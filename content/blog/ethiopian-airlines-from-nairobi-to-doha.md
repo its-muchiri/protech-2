@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines from Nairobi to Doha: Complete Guide'
-description: Everything you need to know about ethiopian airlines from nairobi to doha, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines from nairobi to doha, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-from-nairobi-to-doha
-primary_keyword: ethiopian airlines from nairobi to doha
+primary_keyword: 'ethiopian airlines from nairobi to doha'
 secondary_keywords:
-- ethiopian airlines flights from nairobi to dubai price
-- ethiopian airlines nairobi to mumbai
-- ethiopian airlines fares
-- turkish airlines istanbul to nairobi today
-- flight ticket from kenya to uk
+- 'ethiopian airlines flights from nairobi to dubai price'
+- 'ethiopian airlines nairobi to mumbai'
+- 'ethiopian airlines fares'
+- 'turkish airlines istanbul to nairobi today'
+- 'flight ticket from kenya to uk'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

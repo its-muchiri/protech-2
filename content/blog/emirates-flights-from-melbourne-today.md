@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Melbourne Today: Complete Guide'
-description: Everything you need to know about emirates flights from melbourne today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from melbourne today, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-melbourne-today
-primary_keyword: emirates flights from melbourne today
+primary_keyword: 'emirates flights from melbourne today'
 secondary_keywords:
-- flight from eldoret to zanzibar
-- kq flights to arusha
-- kq flights to bujumbura
-- kq flight crash
-- kq flight delays today
+- 'flight from eldoret to zanzibar'
+- 'kq flights to arusha'
+- 'kq flights to bujumbura'
+- 'kq flight crash'
+- 'kq flight delays today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Book Rhino Naming Ceremony Experience Kenya Safari Package USA Conservation Donation Event: Complete Guide'
-description: Kenya safari guide covering book rhino naming ceremony experience kenya safari package usa conservation donation event, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book rhino naming ceremony experience kenya safari package usa conservation donation event, including what is included, pricing, and booking advice.'
 slug: book-rhino-naming-ceremony-experience-kenya-safari-package-usa-conservation-donation-event
-primary_keyword: Book rhino naming ceremony experience Kenya safari package USA conservation donation event
+primary_keyword: 'Book rhino naming ceremony experience Kenya safari package USA conservation donation event'
 secondary_keywords:
-- Kenya safari specialist
-- Adventure camping Kenya safari
-- Kenya currency safari
-- When is the wildebeest migration in Kenya
-- Cultural visit Maasai village Amboseli safari
+- 'Kenya safari specialist'
+- 'Adventure camping Kenya safari'
+- 'Kenya currency safari'
+- 'When is the wildebeest migration in Kenya'
+- 'Cultural visit Maasai village Amboseli safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights from Usa to Nairobi Today: Complete Guide'
-description: Everything you need to know about kenya airways flights from usa to nairobi today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights from usa to nairobi today, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-from-usa-to-nairobi-today
-primary_keyword: kenya airways flights from usa to nairobi today
+primary_keyword: 'kenya airways flights from usa to nairobi today'
 secondary_keywords:
-- flights from nairobi to mombasa south coast
-- flights from mombasa to watamu
-- jambojet flights from kisumu to nairobi
-- british airways boarding rules
-- flights to kisumu from entebbe uganda
+- 'flights from nairobi to mombasa south coast'
+- 'flights from mombasa to watamu'
+- 'jambojet flights from kisumu to nairobi'
+- 'british airways boarding rules'
+- 'flights to kisumu from entebbe uganda'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

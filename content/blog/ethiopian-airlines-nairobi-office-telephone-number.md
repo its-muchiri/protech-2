@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Nairobi Office Telephone Number: Complete Guide'
-description: Everything you need to know about ethiopian airlines nairobi office telephone number, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines nairobi office telephone number, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-nairobi-office-telephone-number
-primary_keyword: ethiopian airlines nairobi office telephone number
+primary_keyword: 'ethiopian airlines nairobi office telephone number'
 secondary_keywords:
-- flight from nairobi to india price
-- flights from nairobi to jakarta
-- kisumu flights from nairobi
-- lufthansa flights from nairobi today
-- migori flights from nairobi
+- 'flight from nairobi to india price'
+- 'flights from nairobi to jakarta'
+- 'kisumu flights from nairobi'
+- 'lufthansa flights from nairobi today'
+- 'migori flights from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

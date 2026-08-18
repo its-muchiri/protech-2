@@ -1,14 +1,14 @@
 ---
 title: 'Book Luxury Package Private Chef Included Kenya (niche): Complete Guide'
-description: Kenya safari guide covering book luxury package private chef included kenya (niche), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book luxury package private chef included kenya (niche), including what is included, pricing, and booking advice.'
 slug: book-luxury-package-private-chef-included-kenya-niche
-primary_keyword: Book luxury package private chef included Kenya (niche)
+primary_keyword: 'Book luxury package private chef included Kenya (niche)'
 secondary_keywords:
-- Luxury tented camp safari Kenya cost per person USA
-- Book Kenya conservation safari experience USA rhino focus
-- Book safari near Nairobi National Park day trip price
-- Masai Mara safari booking from USA dates & availability
-- Kenya travel agents specializing in safaris Europe based
+- 'Luxury tented camp safari Kenya cost per person USA'
+- 'Book Kenya conservation safari experience USA rhino focus'
+- 'Book safari near Nairobi National Park day trip price'
+- 'Masai Mara safari booking from USA dates & availability'
+- 'Kenya travel agents specializing in safaris Europe based'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

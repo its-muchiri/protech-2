@@ -1,14 +1,14 @@
 ---
 title: 'Kq 613 Flight Status: Complete Guide'
-description: Everything you need to know about kq 613 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 613 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq-613-flight-status
-primary_keyword: kq 613 flight status
+primary_keyword: 'kq 613 flight status'
 secondary_keywords:
-- flights from nairobi to bangkok thailand
-- flights from mombasa to arusha tanzania
-- flights brussels mombasa
-- flights to mombasa cheap
-- flights from mombasa to doha
+- 'flights from nairobi to bangkok thailand'
+- 'flights from mombasa to arusha tanzania'
+- 'flights brussels mombasa'
+- 'flights to mombasa cheap'
+- 'flights from mombasa to doha'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

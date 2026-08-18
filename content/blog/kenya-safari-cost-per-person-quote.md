@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Cost Per Person Quote: Complete Guide'
-description: Kenya safari guide covering kenya safari cost per person quote, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari cost per person quote, including what is included, pricing, and booking advice.'
 slug: kenya-safari-cost-per-person-quote
-primary_keyword: Kenya safari cost per person quote
+primary_keyword: 'Kenya safari cost per person quote'
 secondary_keywords:
-- Purchase 4-day fly-in Masai Mara Serena Lodge safari deal UK availability check
-- Compare costs Kenya safari road vs fly-in package UK time saving factor
-- Purchase premium luxury Kenya safari package Segera Retreat USA top tier exclusive booking
-- Reserve golf safari Great Rift Valley Lodge Kenya UK luxury package tee times booking
-- Find Kenya safari tour with hot springs visit package USA Lake Bogoria deals
+- 'Purchase 4-day fly-in Masai Mara Serena Lodge safari deal UK availability check'
+- 'Compare costs Kenya safari road vs fly-in package UK time saving factor'
+- 'Purchase premium luxury Kenya safari package Segera Retreat USA top tier exclusive booking'
+- 'Reserve golf safari Great Rift Valley Lodge Kenya UK luxury package tee times booking'
+- 'Find Kenya safari tour with hot springs visit package USA Lake Bogoria deals'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

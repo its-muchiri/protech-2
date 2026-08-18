@@ -1,14 +1,14 @@
 ---
 title: 'Cheapest Flight from Nairobi to Usa: Complete Guide'
-description: Everything you need to know about cheapest flight from nairobi to usa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheapest flight from nairobi to usa, including routes, airlines, booking tips, and fares.'
 slug: cheapest-flight-from-nairobi-to-usa
-primary_keyword: cheapest flight from nairobi to usa
+primary_keyword: 'cheapest flight from nairobi to usa'
 secondary_keywords:
-- emirates flights from dubai to nairobi today
-- fly emirates nairobi
-- emirates flight from kenya to dubai
-- how much is a flight from nairobi to dubai emirates
-- emirates flights nairobi to london
+- 'emirates flights from dubai to nairobi today'
+- 'fly emirates nairobi'
+- 'emirates flight from kenya to dubai'
+- 'how much is a flight from nairobi to dubai emirates'
+- 'emirates flights nairobi to london'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

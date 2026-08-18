@@ -1,14 +1,14 @@
 ---
 title: 'Ba Flights from Nairobi to Heathrow Today: Complete Guide'
-description: Everything you need to know about ba flights from nairobi to heathrow today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ba flights from nairobi to heathrow today, including routes, airlines, booking tips, and fares.'
 slug: ba-flights-from-nairobi-to-heathrow-today
-primary_keyword: ba flights from nairobi to heathrow today
+primary_keyword: 'ba flights from nairobi to heathrow today'
 secondary_keywords:
-- cheapest local flights in kenya
-- ethiopian airlines in kenya
-- flights to kenya heathrow
-- cheap flights to kenya in june
-- flights nairobi to mombasa kenya airways
+- 'cheapest local flights in kenya'
+- 'ethiopian airlines in kenya'
+- 'flights to kenya heathrow'
+- 'cheap flights to kenya in june'
+- 'flights nairobi to mombasa kenya airways'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

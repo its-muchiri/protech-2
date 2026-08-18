@@ -1,14 +1,14 @@
 ---
 title: 'Google Flights Nairobi to Kigali: Complete Guide'
-description: Everything you need to know about google flights nairobi to kigali, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about google flights nairobi to kigali, including routes, airlines, booking tips, and fares.'
 slug: google-flights-nairobi-to-kigali
-primary_keyword: google flights nairobi to kigali
+primary_keyword: 'google flights nairobi to kigali'
 secondary_keywords:
-- flights from mombasa to kisumu
-- are there flights from mombasa to diani
-- does british airways fly to africa
-- flights from mombasa to dar es salaam
-- cheap flights from eldoret to mombasa
+- 'flights from mombasa to kisumu'
+- 'are there flights from mombasa to diani'
+- 'does british airways fly to africa'
+- 'flights from mombasa to dar es salaam'
+- 'cheap flights from eldoret to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is a Plane Ticket from Kenya to Ethiopia: Complete Guide'
-description: Everything you need to know about how much is a plane ticket from kenya to ethiopia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is a plane ticket from kenya to ethiopia, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-a-plane-ticket-from-kenya-to-ethiopia
-primary_keyword: how much is a plane ticket from kenya to ethiopia
+primary_keyword: 'how much is a plane ticket from kenya to ethiopia'
 secondary_keywords:
-- cheap flights to mombasa from london
-- flights from mombasa to nairobi jambojet
-- flight from kisumu to mombasa price in ksh
-- flights from mombasa to singapore
-- cheap flights from uganda to mombasa
+- 'cheap flights to mombasa from london'
+- 'flights from mombasa to nairobi jambojet'
+- 'flight from kisumu to mombasa price in ksh'
+- 'flights from mombasa to singapore'
+- 'cheap flights from uganda to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

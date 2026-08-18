@@ -1,14 +1,14 @@
 ---
 title: 'Check Availability  Kenya Safari: Complete Guide'
-description: Kenya safari guide covering check availability  kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering check availability  kenya safari, including what is included, pricing, and booking advice.'
 slug: check-availability-operator-name-kenya-safari
-primary_keyword: Check availability  Kenya safari
+primary_keyword: 'Check availability  Kenya safari'
 secondary_keywords:
-- Best tour companies Kenya reviews
-- Online travel agency Kenya safari
-- Hell''s Gate National Park cycling tour company
-- Tour Type & Style Specific Searches
-- Kenya student tour operators budget
+- 'Best tour companies Kenya reviews'
+- 'Online travel agency Kenya safari'
+- 'Hell''''s Gate National Park cycling tour company'
+- 'Tour Type & Style Specific Searches'
+- 'Kenya student tour operators budget'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

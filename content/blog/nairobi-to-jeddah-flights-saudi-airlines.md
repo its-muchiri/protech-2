@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi to Jeddah Flights Saudi Airlines: Complete Guide'
-description: Everything you need to know about nairobi to jeddah flights saudi airlines, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about nairobi to jeddah flights saudi airlines, including routes, airlines, booking tips, and fares.'
 slug: nairobi-to-jeddah-flights-saudi-airlines
-primary_keyword: nairobi to jeddah flights saudi airlines
+primary_keyword: 'nairobi to jeddah flights saudi airlines'
 secondary_keywords:
-- flights from ireland to kenya
-- cheap flights to kenya from johannesburg
-- kenya airways flights from kisumu to nairobi
-- flights from london to kenya nairobi
-- maldives flights from kenya
+- 'flights from ireland to kenya'
+- 'cheap flights to kenya from johannesburg'
+- 'kenya airways flights from kisumu to nairobi'
+- 'flights from london to kenya nairobi'
+- 'maldives flights from kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

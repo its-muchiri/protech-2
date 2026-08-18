@@ -1,14 +1,14 @@
 ---
 title: 'Book Paragliding Safari Kerio Valley Kenya Experience USA Adventure Sports Booking Cost: Complete Guide'
-description: Kenya safari guide covering book paragliding safari kerio valley kenya experience usa adventure sports booking cost, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book paragliding safari kerio valley kenya experience usa adventure sports booking cost, including what is included, pricing, and booking advice.'
 slug: book-paragliding-safari-kerio-valley-kenya-experience-usa-adventure-sports-booking-cost
-primary_keyword: Book paragliding safari Kerio Valley Kenya experience USA adventure sports booking cost
+primary_keyword: 'Book paragliding safari Kerio Valley Kenya experience USA adventure sports booking cost'
 secondary_keywords:
-- 10 day Kenya Tanzania tour sale
-- Last minute 12 day luxury tented camp migration safari offer
-- Private Kenya safari tour bundle buy online
-- ATOL protected Kenya safari package booking UK operator
-- Buy solo female traveler safe Kenya safari package group joining
+- '10 day Kenya Tanzania tour sale'
+- 'Last minute 12 day luxury tented camp migration safari offer'
+- 'Private Kenya safari tour bundle buy online'
+- 'ATOL protected Kenya safari package booking UK operator'
+- 'Buy solo female traveler safe Kenya safari package group joining'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

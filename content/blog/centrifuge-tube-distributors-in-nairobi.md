@@ -1,14 +1,14 @@
 ---
 title: 'Centrifuge Tube Distributors in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to centrifuge tube distributors in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to centrifuge tube distributors in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: centrifuge-tube-distributors-in-nairobi
-primary_keyword: Centrifuge tube distributors in Nairobi
+primary_keyword: 'Centrifuge tube distributors in Nairobi'
 secondary_keywords:
-- Veterinary consumables and pharmaceuticals in Kenya
-- Hospital bed for home use rental in Nairobi
-- Ophthalmoscope and retinoscope set for sale
-- N95 and surgical masks bulk suppliers
-- X-ray film and chemicals in Nairobi
+- 'Veterinary consumables and pharmaceuticals in Kenya'
+- 'Hospital bed for home use rental in Nairobi'
+- 'Ophthalmoscope and retinoscope set for sale'
+- 'N95 and surgical masks bulk suppliers'
+- 'X-ray film and chemicals in Nairobi'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

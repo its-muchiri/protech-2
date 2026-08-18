@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Kenya Safari Slot for July 2025 USA: Complete Guide'
-description: Kenya safari guide covering reserve kenya safari slot for july 2025 usa, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve kenya safari slot for july 2025 usa, including what is included, pricing, and booking advice.'
 slug: reserve-kenya-safari-slot-for-july-2025-usa
-primary_keyword: Reserve Kenya safari slot for July 2025 USA
+primary_keyword: 'Reserve Kenya safari slot for July 2025 USA'
 secondary_keywords:
-- Secure dry season Kenya wildlife viewing package booking
-- Purchase 7 day all-inclusive Governors Camp package deal Masai Mara
-- Secure 7 day fly-in safari package Finch Hattons Tsavo West deal booking
-- Destination Management Companies (DMCs) Kenya list
-- Combine Amboseli Tsavo safari 5 day itinerary
+- 'Secure dry season Kenya wildlife viewing package booking'
+- 'Purchase 7 day all-inclusive Governors Camp package deal Masai Mara'
+- 'Secure 7 day fly-in safari package Finch Hattons Tsavo West deal booking'
+- 'Destination Management Companies (DMCs) Kenya list'
+- 'Combine Amboseli Tsavo safari 5 day itinerary'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

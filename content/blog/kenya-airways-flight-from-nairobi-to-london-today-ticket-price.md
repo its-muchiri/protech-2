@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from Nairobi to London Today Ticket Price: Complete Guide'
-description: Everything you need to know about kenya airways flight from nairobi to london today ticket price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from nairobi to london today ticket price, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-nairobi-to-london-today-ticket-price
-primary_keyword: kenya airways flight from nairobi to london today ticket price
+primary_keyword: 'kenya airways flight from nairobi to london today ticket price'
 secondary_keywords:
-- kq flights dar to nairobi
-- kq flights entebbe to nairobi
-- what airline is go to gate
-- kq flights images
-- kq kisumu flight schedule today
+- 'kq flights dar to nairobi'
+- 'kq flights entebbe to nairobi'
+- 'what airline is go to gate'
+- 'kq flights images'
+- 'kq kisumu flight schedule today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

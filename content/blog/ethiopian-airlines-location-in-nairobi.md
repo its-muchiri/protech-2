@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Location in Nairobi: Complete Guide'
-description: Everything you need to know about ethiopian airlines location in nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines location in nairobi, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-location-in-nairobi
-primary_keyword: ethiopian airlines location in nairobi
+primary_keyword: 'ethiopian airlines location in nairobi'
 secondary_keywords:
-- kenya airways flight from abuja to nairobi
-- kenya airways direct flights from nairobi
-- kenya airways flight schedule from johannesburg to nairobi today
-- kenya airways flight from lagos to nairobi
-- kenya airways flight from nairobi to eldoret ticket price
+- 'kenya airways flight from abuja to nairobi'
+- 'kenya airways direct flights from nairobi'
+- 'kenya airways flight schedule from johannesburg to nairobi today'
+- 'kenya airways flight from lagos to nairobi'
+- 'kenya airways flight from nairobi to eldoret ticket price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

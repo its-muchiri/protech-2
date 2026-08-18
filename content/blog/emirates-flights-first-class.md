@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights First Class: Complete Guide'
-description: Everything you need to know about emirates flights first class, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights first class, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-first-class
-primary_keyword: emirates flights first class
+primary_keyword: 'emirates flights first class'
 secondary_keywords:
-- emirates flights from dubai to heathrow today
-- emirates flights from europe to usa
-- flights from faisalabad to dubai united arab emirates
-- emirates flights from dubai to glasgow today
-- how many emirates flights from heathrow
+- 'emirates flights from dubai to heathrow today'
+- 'emirates flights from europe to usa'
+- 'flights from faisalabad to dubai united arab emirates'
+- 'emirates flights from dubai to glasgow today'
+- 'how many emirates flights from heathrow'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

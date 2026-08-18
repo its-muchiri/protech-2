@@ -1,14 +1,14 @@
 ---
 title: 'Wajir to Nairobi Flights Price: Complete Guide'
-description: Everything you need to know about wajir to nairobi flights price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about wajir to nairobi flights price, including routes, airlines, booking tips, and fares.'
 slug: wajir-to-nairobi-flights-price
-primary_keyword: wajir to nairobi flights price
+primary_keyword: 'wajir to nairobi flights price'
 secondary_keywords:
-- flight time from nairobi to usa
-- what time is the last flight from nairobi to kisumu
-- flight duration from nairobi to new york
-- book flight from nairobi to mombasa
-- flight 540 nairobi to eldoret
+- 'flight time from nairobi to usa'
+- 'what time is the last flight from nairobi to kisumu'
+- 'flight duration from nairobi to new york'
+- 'book flight from nairobi to mombasa'
+- 'flight 540 nairobi to eldoret'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flight Time from Nairobi to Zanzibar: Complete Guide'
-description: Everything you need to know about flight time from nairobi to zanzibar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight time from nairobi to zanzibar, including routes, airlines, booking tips, and fares.'
 slug: flight-time-from-nairobi-to-zanzibar
-primary_keyword: flight time from nairobi to zanzibar
+primary_keyword: 'flight time from nairobi to zanzibar'
 secondary_keywords:
-- flights nairobi to malindi
-- uganda airlines flights from entebbe to nairobi
-- flights nairobi to blantyre
-- flights nairobi to colombo
-- flights nairobi to dakar
+- 'flights nairobi to malindi'
+- 'uganda airlines flights from entebbe to nairobi'
+- 'flights nairobi to blantyre'
+- 'flights nairobi to colombo'
+- 'flights nairobi to dakar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

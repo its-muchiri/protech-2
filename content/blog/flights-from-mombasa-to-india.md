@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to India: Complete Guide'
-description: Everything you need to know about flights from mombasa to india, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to india, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-india
-primary_keyword: flights from mombasa to india
+primary_keyword: 'flights from mombasa to india'
 secondary_keywords:
-- safarilink flight from nairobi to kisumu
-- flight from nairobi to ukunda
-- flights from nairobi to vipingo ridge
-- flight from nairobi to dallas
-- zanzibar flight from nairobi
+- 'safarilink flight from nairobi to kisumu'
+- 'flight from nairobi to ukunda'
+- 'flights from nairobi to vipingo ridge'
+- 'flight from nairobi to dallas'
+- 'zanzibar flight from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

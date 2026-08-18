@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Travel Agents Specializing in Safaris Europe Based: Complete Guide'
-description: Kenya safari guide covering kenya travel agents specializing in safaris europe based, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya travel agents specializing in safaris europe based, including what is included, pricing, and booking advice.'
 slug: kenya-travel-agents-specializing-in-safaris-europe-based
-primary_keyword: Kenya travel agents specializing in safaris Europe based
+primary_keyword: 'Kenya travel agents specializing in safaris Europe based'
 secondary_keywords:
-- Secure 21 day comprehensive Kenya trip purchase
-- Reserve Great Migration safari package booking
-- Request price list Kenya safari packages
-- Cost per person 8 day Kenya discovery package
-- Price list 6 day group joining Nakuru Mara safari
+- 'Secure 21 day comprehensive Kenya trip purchase'
+- 'Reserve Great Migration safari package booking'
+- 'Request price list Kenya safari packages'
+- 'Cost per person 8 day Kenya discovery package'
+- 'Price list 6 day group joining Nakuru Mara safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

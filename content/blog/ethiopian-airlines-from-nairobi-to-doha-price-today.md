@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines from Nairobi to Doha Price Today: Complete Guide'
-description: Everything you need to know about ethiopian airlines from nairobi to doha price today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines from nairobi to doha price today, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-from-nairobi-to-doha-price-today
-primary_keyword: ethiopian airlines from nairobi to doha price today
+primary_keyword: 'ethiopian airlines from nairobi to doha price today'
 secondary_keywords:
-- nairobi to zanzibar flights
-- 2 bedroom apartments in nairobi for sale
-- emirates flights from auckland
-- emirates flights from birmingham to dubai
-- emirates flights from chicago
+- 'nairobi to zanzibar flights'
+- '2 bedroom apartments in nairobi for sale'
+- 'emirates flights from auckland'
+- 'emirates flights from birmingham to dubai'
+- 'emirates flights from chicago'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

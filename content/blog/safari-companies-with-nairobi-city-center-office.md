@@ -1,14 +1,14 @@
 ---
 title: 'Safari Companies with Nairobi City Center Office: Complete Guide'
-description: Kenya safari guide covering safari companies with nairobi city center office, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering safari companies with nairobi city center office, including what is included, pricing, and booking advice.'
 slug: safari-companies-with-nairobi-city-center-office
-primary_keyword: Safari companies with Nairobi city center office
+primary_keyword: 'Safari companies with Nairobi city center office'
 secondary_keywords:
-- Find diabetic friendly Kenya safari planning assistance USA meal management operator support
-- Book Menengai Crater hike safari day trip Nakuru Kenya Europe geology focus cost
-- Explore Kenya safari
-- Tsavo West safari
-- Masai Mara conservancy safari
+- 'Find diabetic friendly Kenya safari planning assistance USA meal management operator support'
+- 'Book Menengai Crater hike safari day trip Nakuru Kenya Europe geology focus cost'
+- 'Explore Kenya safari'
+- 'Tsavo West safari'
+- 'Masai Mara conservancy safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

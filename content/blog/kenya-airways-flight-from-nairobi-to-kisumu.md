@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from Nairobi to Kisumu: Complete Guide'
-description: Everything you need to know about kenya airways flight from nairobi to kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from nairobi to kisumu, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-nairobi-to-kisumu
-primary_keyword: kenya airways flight from nairobi to kisumu
+primary_keyword: 'kenya airways flight from nairobi to kisumu'
 secondary_keywords:
-- flight from kenya to washington dc
-- flights from nbo to yto
-- flights from kenya to zimbabwe
-- how much is flight from kenya to usa
-- how much is a flight from kenya to tanzania
+- 'flight from kenya to washington dc'
+- 'flights from nbo to yto'
+- 'flights from kenya to zimbabwe'
+- 'how much is flight from kenya to usa'
+- 'how much is a flight from kenya to tanzania'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

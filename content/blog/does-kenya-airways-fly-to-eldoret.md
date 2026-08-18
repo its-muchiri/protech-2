@@ -1,14 +1,14 @@
 ---
 title: 'Does Kenya Airways Fly to Eldoret: Complete Guide'
-description: Everything you need to know about does kenya airways fly to eldoret, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about does kenya airways fly to eldoret, including routes, airlines, booking tips, and fares.'
 slug: does-kenya-airways-fly-to-eldoret
-primary_keyword: does kenya airways fly to eldoret
+primary_keyword: 'does kenya airways fly to eldoret'
 secondary_keywords:
-- cost of flight from nairobi to dubai
-- turkish airlines flight from nairobi to istanbul price
-- return flight from nairobi to kisumu price
-- the cheapest flight from nairobi to mombasa
-- flight from nairobi to uk price
+- 'cost of flight from nairobi to dubai'
+- 'turkish airlines flight from nairobi to istanbul price'
+- 'return flight from nairobi to kisumu price'
+- 'the cheapest flight from nairobi to mombasa'
+- 'flight from nairobi to uk price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

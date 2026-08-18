@@ -1,14 +1,14 @@
 ---
 title: 'Book Small Group Safari Lake Nakuru & Naivasha Kenya from Germany Agency: Complete Guide'
-description: Kenya safari guide covering book small group safari lake nakuru & naivasha kenya from germany agency, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book small group safari lake nakuru & naivasha kenya from germany agency, including what is included, pricing, and booking advice.'
 slug: book-small-group-safari-lake-nakuru-and-naivasha-kenya-from-germany-agency
-primary_keyword: Book small group safari Lake Nakuru & Naivasha Kenya from Germany agency
+primary_keyword: 'Book small group safari Lake Nakuru & Naivasha Kenya from Germany agency'
 secondary_keywords:
-- Reserve 14 day luxury fly-camping safari package Kenya
-- Price for 4 day Samburu Ashnil luxury package deal
-- Buy 7 day Kenya budget adventure group package tour
-- Quote needed 4 day Samburu luxury lodge package
-- Buy 3 get 1 free Kenya safari package deal (hypothetical offer search)
+- 'Reserve 14 day luxury fly-camping safari package Kenya'
+- 'Price for 4 day Samburu Ashnil luxury package deal'
+- 'Buy 7 day Kenya budget adventure group package tour'
+- 'Quote needed 4 day Samburu luxury lodge package'
+- 'Buy 3 get 1 free Kenya safari package deal (hypothetical offer search)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

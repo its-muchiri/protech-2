@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi 88: Complete Guide'
-description: Everything you need to know about nairobi 88, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about nairobi 88, including routes, airlines, booking tips, and fares.'
 slug: nairobi-88
-primary_keyword: nairobi 88
+primary_keyword: 'nairobi 88'
 secondary_keywords:
-- flights to nairobi from uk
-- flights from nairobi wilson to lamu
-- flights from nairobi to new york city
-- flights from nairobi to kingston jamaica
-- kenya airways flight schedule from nairobi to entebbe
+- 'flights to nairobi from uk'
+- 'flights from nairobi wilson to lamu'
+- 'flights from nairobi to new york city'
+- 'flights from nairobi to kingston jamaica'
+- 'kenya airways flight schedule from nairobi to entebbe'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

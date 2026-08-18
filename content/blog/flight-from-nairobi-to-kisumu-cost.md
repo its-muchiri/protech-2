@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Kisumu Cost: Complete Guide'
-description: Everything you need to know about flight from nairobi to kisumu cost, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to kisumu cost, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-kisumu-cost
-primary_keyword: flight from nairobi to kisumu cost
+primary_keyword: 'flight from nairobi to kisumu cost'
 secondary_keywords:
-- kq flights to jfk
-- kq flights to london
-- kq flights to mogadishu
-- kq flight from paris to nairobi
-- kq flights status
+- 'kq flights to jfk'
+- 'kq flights to london'
+- 'kq flights to mogadishu'
+- 'kq flight from paris to nairobi'
+- 'kq flights status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

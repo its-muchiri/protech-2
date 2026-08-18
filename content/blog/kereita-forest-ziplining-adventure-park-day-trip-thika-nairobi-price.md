@@ -1,14 +1,14 @@
 ---
 title: 'Kereita Forest Ziplining Adventure Park Day Trip Thika / Nairobi Price: Complete Guide'
-description: Kenya safari guide covering kereita forest ziplining adventure park day trip thika / nairobi price, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kereita forest ziplining adventure park day trip thika / nairobi price, including what is included, pricing, and booking advice.'
 slug: kereita-forest-ziplining-adventure-park-day-trip-thika-nairobi-price
-primary_keyword: Kereita Forest ziplining adventure park day trip Thika / Nairobi price
+primary_keyword: 'Kereita Forest ziplining adventure park day trip Thika / Nairobi price'
 secondary_keywords:
-- Reserve with trusted Kenya safari operator package
-- Final cost 12 day Kenya Tanzania luxury migration package
-- Buy 10 day Kenya wildlife photography tour package led by
-- Book 8 day Gamewatchers Safaris Porini circuit package
-- Reserve private jet Kenya safari package quote
+- 'Reserve with trusted Kenya safari operator package'
+- 'Final cost 12 day Kenya Tanzania luxury migration package'
+- 'Buy 10 day Kenya wildlife photography tour package led by'
+- 'Book 8 day Gamewatchers Safaris Porini circuit package'
+- 'Reserve private jet Kenya safari package quote'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

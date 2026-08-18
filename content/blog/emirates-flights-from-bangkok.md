@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Bangkok: Complete Guide'
-description: Everything you need to know about emirates flights from bangkok, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from bangkok, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-bangkok
-primary_keyword: emirates flights from bangkok
+primary_keyword: 'emirates flights from bangkok'
 secondary_keywords:
-- flight from kenya to south korea price
-- flights from kenya to lebanon
-- flights from kenya to morocco
-- flights from kenya to nigeria
-- cheap flights from oman to kenya
+- 'flight from kenya to south korea price'
+- 'flights from kenya to lebanon'
+- 'flights from kenya to morocco'
+- 'flights from kenya to nigeria'
+- 'cheap flights from oman to kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

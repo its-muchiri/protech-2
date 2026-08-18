@@ -1,14 +1,14 @@
 ---
 title: 'Longest Flight from Nairobi: Complete Guide'
-description: Everything you need to know about longest flight from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about longest flight from nairobi, including routes, airlines, booking tips, and fares.'
 slug: longest-flight-from-nairobi
-primary_keyword: longest flight from nairobi
+primary_keyword: 'longest flight from nairobi'
 secondary_keywords:
-- flights from nairobi
-- flights from nairobi to amsterdam today
-- flights from nairobi to boston
-- flights from nairobi to cape town
-- cheap flights from nairobi to usa
+- 'flights from nairobi'
+- 'flights from nairobi to amsterdam today'
+- 'flights from nairobi to boston'
+- 'flights from nairobi to cape town'
+- 'cheap flights from nairobi to usa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

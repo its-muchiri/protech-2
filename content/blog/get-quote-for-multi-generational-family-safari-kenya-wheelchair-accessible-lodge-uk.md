@@ -1,14 +1,14 @@
 ---
 title: 'Get Quote for Multi-generational Family Safari Kenya Wheelchair Accessible Lodge UK: Complete Guide'
-description: Kenya safari guide covering get quote for multi-generational family safari kenya wheelchair accessible lodge uk, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering get quote for multi-generational family safari kenya wheelchair accessible lodge uk, including what is included, pricing, and booking advice.'
 slug: get-quote-for-multi-generational-family-safari-kenya-wheelchair-accessible-lodge-uk
-primary_keyword: Get quote for multi-generational family safari Kenya wheelchair accessible lodge UK
+primary_keyword: 'Get quote for multi-generational family safari Kenya wheelchair accessible lodge UK'
 secondary_keywords:
-- Get confirmed booking 8 day Kenya family adventure
-- Secure private guide Kenya safari package 8 days
-- Reserve 5 day Serena Lodges circuit package Kenya
-- Buy 5 day Fairmont Mara Safari Club package offer
-- Get final cost 7 day Masai Mara fly-in package August booking
+- 'Get confirmed booking 8 day Kenya family adventure'
+- 'Secure private guide Kenya safari package 8 days'
+- 'Reserve 5 day Serena Lodges circuit package Kenya'
+- 'Buy 5 day Fairmont Mara Safari Club package offer'
+- 'Get final cost 7 day Masai Mara fly-in package August booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

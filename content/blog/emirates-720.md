@@ -1,14 +1,14 @@
 ---
 title: 'Emirates 720: Complete Guide'
-description: Everything you need to know about emirates 720, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates 720, including routes, airlines, booking tips, and fares.'
 slug: emirates-720
-primary_keyword: emirates 720
+primary_keyword: 'emirates 720'
 secondary_keywords:
-- flight from nairobi to doha today
-- emirates flight from nairobi
-- flight from nairobi to germany
-- flight from nairobi to homa bay
-- how much is flight from nairobi to kampala
+- 'flight from nairobi to doha today'
+- 'emirates flight from nairobi'
+- 'flight from nairobi to germany'
+- 'flight from nairobi to homa bay'
+- 'how much is flight from nairobi to kampala'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

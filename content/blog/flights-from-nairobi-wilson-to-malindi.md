@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi Wilson to Malindi: Complete Guide'
-description: Everything you need to know about flights from nairobi wilson to malindi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi wilson to malindi, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-wilson-to-malindi
-primary_keyword: flights from nairobi wilson to malindi
+primary_keyword: 'flights from nairobi wilson to malindi'
 secondary_keywords:
-- flight from nairobi to addis ababa time
-- flight from nairobi to boston
-- flight from nairobi to china
-- flight from nairobi to diani
-- flight from nairobi to edmonton
+- 'flight from nairobi to addis ababa time'
+- 'flight from nairobi to boston'
+- 'flight from nairobi to china'
+- 'flight from nairobi to diani'
+- 'flight from nairobi to edmonton'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

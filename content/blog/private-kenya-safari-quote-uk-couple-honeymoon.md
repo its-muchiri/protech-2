@@ -1,14 +1,14 @@
 ---
 title: 'Private Kenya Safari Quote UK Couple Honeymoon: Complete Guide'
-description: Kenya safari guide covering private kenya safari quote uk couple honeymoon, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering private kenya safari quote uk couple honeymoon, including what is included, pricing, and booking advice.'
 slug: private-kenya-safari-quote-uk-couple-honeymoon
-primary_keyword: Private Kenya safari quote UK couple honeymoon
+primary_keyword: 'Private Kenya safari quote UK couple honeymoon'
 secondary_keywords:
-- Wilson Airport Nairobi safari flights
-- Best travel pillow Kenya safari flight
-- Cost estimate Kenya safari package
-- 5 day Kenya highlights tour package cost
-- Get quote for 6 day Kenya family safari package
+- 'Wilson Airport Nairobi safari flights'
+- 'Best travel pillow Kenya safari flight'
+- 'Cost estimate Kenya safari package'
+- '5 day Kenya highlights tour package cost'
+- 'Get quote for 6 day Kenya family safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

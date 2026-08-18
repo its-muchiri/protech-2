@@ -1,14 +1,14 @@
 ---
 title: 'Ultrasound Machine Repair Near Me: 2026 Price Guide'
-description: Kenya buying guide to ultrasound machine repair near me. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to ultrasound machine repair near me. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: ultrasound-machine-repair-near-me
-primary_keyword: Ultrasound machine repair near me
+primary_keyword: 'Ultrasound machine repair near me'
 secondary_keywords:
-- Laminar air flow for IVF lab cost
-- audiometry testing services in Mombasa
-- nurse call system with wireless pendants
-- hearing aid suppliers in Nairobi
-- training on medical equipment use
+- 'Laminar air flow for IVF lab cost'
+- 'audiometry testing services in Mombasa'
+- 'nurse call system with wireless pendants'
+- 'hearing aid suppliers in Nairobi'
+- 'training on medical equipment use'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Explore Kenya Safari: Complete Guide'
-description: Kenya safari guide covering explore kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering explore kenya safari, including what is included, pricing, and booking advice.'
 slug: explore-kenya-safari
-primary_keyword: Explore Kenya safari
+primary_keyword: 'Explore Kenya safari'
 secondary_keywords:
-- Buy full board Kenya lodge safari package online
-- Compare 7 day Kenya safari package prices
-- Secure dry season Kenya wildlife viewing package booking
-- Purchase 7 day all-inclusive Governors Camp package deal Masai Mara
-- Secure 7 day fly-in safari package Finch Hattons Tsavo West deal booking
+- 'Buy full board Kenya lodge safari package online'
+- 'Compare 7 day Kenya safari package prices'
+- 'Secure dry season Kenya wildlife viewing package booking'
+- 'Purchase 7 day all-inclusive Governors Camp package deal Masai Mara'
+- 'Secure 7 day fly-in safari package Finch Hattons Tsavo West deal booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

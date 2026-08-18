@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Experience: Complete Guide'
-description: Kenya safari guide covering kenya safari experience, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari experience, including what is included, pricing, and booking advice.'
 slug: kenya-safari-experience
-primary_keyword: Kenya safari experience
+primary_keyword: 'Kenya safari experience'
 secondary_keywords:
-- Green season Kenya safari package booking
-- Kenya safari price quote
-- Kenya safari booking confirmation details
-- Bush meals included Kenya safari package price
-- Reserve private safari vehicle package
+- 'Green season Kenya safari package booking'
+- 'Kenya safari price quote'
+- 'Kenya safari booking confirmation details'
+- 'Bush meals included Kenya safari package price'
+- 'Reserve private safari vehicle package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates from Nairobi: Complete Guide'
-description: Everything you need to know about emirates from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates from nairobi, including routes, airlines, booking tips, and fares.'
 slug: emirates-from-nairobi
-primary_keyword: emirates from nairobi
+primary_keyword: 'emirates from nairobi'
 secondary_keywords:
-- emirates flight 623
-- emirates flight 720
-- emirates flight 978
-- qatar airways flight from nairobi to dubai
-- qatar airways cargo nairobi
+- 'emirates flight 623'
+- 'emirates flight 720'
+- 'emirates flight 978'
+- 'qatar airways flight from nairobi to dubai'
+- 'qatar airways cargo nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

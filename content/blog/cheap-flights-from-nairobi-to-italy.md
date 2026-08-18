@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Nairobi to Italy: Complete Guide'
-description: Everything you need to know about cheap flights from nairobi to italy, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from nairobi to italy, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-nairobi-to-italy
-primary_keyword: cheap flights from nairobi to italy
+primary_keyword: 'cheap flights from nairobi to italy'
 secondary_keywords:
-- eldoret airport flights
-- flights from eldoret to jkia
-- flights from eldoret to nairobi price
-- today''s flights from eldoret to nairobi
-- kq flight amsterdam to nairobi
+- 'eldoret airport flights'
+- 'flights from eldoret to jkia'
+- 'flights from eldoret to nairobi price'
+- 'today''''s flights from eldoret to nairobi'
+- 'kq flight amsterdam to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

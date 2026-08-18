@@ -1,14 +1,14 @@
 ---
 title: 'Cheapest Flight from Nairobi to New York: Complete Guide'
-description: Everything you need to know about cheapest flight from nairobi to new york, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheapest flight from nairobi to new york, including routes, airlines, booking tips, and fares.'
 slug: cheapest-flight-from-nairobi-to-new-york
-primary_keyword: cheapest flight from nairobi to new york
+primary_keyword: 'cheapest flight from nairobi to new york'
 secondary_keywords:
-- emirates flights from hyderabad to washington dc
-- emirates direct flights from new york
-- emirates flights to new zealand from sydney
-- emirates flight 17
-- emirates airline 2 letter code
+- 'emirates flights from hyderabad to washington dc'
+- 'emirates direct flights from new york'
+- 'emirates flights to new zealand from sydney'
+- 'emirates flight 17'
+- 'emirates airline 2 letter code'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

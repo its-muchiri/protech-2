@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Nbd Kenya: Complete Guide'
-description: Everything you need to know about emirates nbd kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates nbd kenya, including routes, airlines, booking tips, and fares.'
 slug: emirates-nbd-kenya
-primary_keyword: emirates nbd kenya
+primary_keyword: 'emirates nbd kenya'
 secondary_keywords:
-- kq flight from kinshasa to nairobi
-- kenya airways flights from usa to nairobi today
-- kq flight from nairobi
-- kq flight from cape town to nairobi
-- kenya airways to nairobi today
+- 'kq flight from kinshasa to nairobi'
+- 'kenya airways flights from usa to nairobi today'
+- 'kq flight from nairobi'
+- 'kq flight from cape town to nairobi'
+- 'kenya airways to nairobi today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

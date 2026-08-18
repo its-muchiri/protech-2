@@ -1,14 +1,14 @@
 ---
 title: 'Purchase Off-the-beaten-path Northern Kenya Safari Tour UK Turkana Expedition Cost: Complete Guide'
-description: Kenya safari guide covering purchase off-the-beaten-path northern kenya safari tour uk turkana expedition cost, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase off-the-beaten-path northern kenya safari tour uk turkana expedition cost, including what is included, pricing, and booking advice.'
 slug: purchase-off-the-beaten-path-northern-kenya-safari-tour-uk-turkana-expedition-cost
-primary_keyword: Purchase off-the-beaten-path Northern Kenya safari tour UK Turkana expedition cost
+primary_keyword: 'Purchase off-the-beaten-path Northern Kenya safari tour UK Turkana expedition cost'
 secondary_keywords:
-- Best tour companies in Kenya reviews TripAdvisor
-- Travel agents Thika booking Kenya tours
-- Tsavo East National Park safari from Mombasa 3 days price
-- Aberdare National Park lodges (The Ark, Treetops) booking
-- Mobile camping safari Kenya private setup
+- 'Best tour companies in Kenya reviews TripAdvisor'
+- 'Travel agents Thika booking Kenya tours'
+- 'Tsavo East National Park safari from Mombasa 3 days price'
+- 'Aberdare National Park lodges (The Ark, Treetops) booking'
+- 'Mobile camping safari Kenya private setup'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

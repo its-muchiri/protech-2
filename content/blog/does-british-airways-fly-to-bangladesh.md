@@ -1,14 +1,14 @@
 ---
 title: 'Does British Airways Fly to Bangladesh: Complete Guide'
-description: Everything you need to know about does british airways fly to bangladesh, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about does british airways fly to bangladesh, including routes, airlines, booking tips, and fares.'
 slug: does-british-airways-fly-to-bangladesh
-primary_keyword: does british airways fly to bangladesh
+primary_keyword: 'does british airways fly to bangladesh'
 secondary_keywords:
-- airlines in kenya job vacancies
-- requirements for local flights in kenya
-- flights to kenya in october
-- flights ro kenya
-- flights kenya to cape town
+- 'airlines in kenya job vacancies'
+- 'requirements for local flights in kenya'
+- 'flights to kenya in october'
+- 'flights ro kenya'
+- 'flights kenya to cape town'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

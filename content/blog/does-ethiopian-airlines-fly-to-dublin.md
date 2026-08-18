@@ -1,14 +1,14 @@
 ---
 title: 'Does Ethiopian Airlines Fly to Dublin: Complete Guide'
-description: Everything you need to know about does ethiopian airlines fly to dublin, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about does ethiopian airlines fly to dublin, including routes, airlines, booking tips, and fares.'
 slug: does-ethiopian-airlines-fly-to-dublin
-primary_keyword: does ethiopian airlines fly to dublin
+primary_keyword: 'does ethiopian airlines fly to dublin'
 secondary_keywords:
-- flight from kenya to ghana today
-- flights from kenya to hawaii
-- flight from kenya to italy
-- flights from kenya to jfk
-- flight from kenya to kampala
+- 'flight from kenya to ghana today'
+- 'flights from kenya to hawaii'
+- 'flight from kenya to italy'
+- 'flights from kenya to jfk'
+- 'flight from kenya to kampala'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

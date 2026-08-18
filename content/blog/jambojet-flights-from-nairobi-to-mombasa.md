@@ -1,14 +1,14 @@
 ---
 title: 'Jambojet Flights from Nairobi to Mombasa: Complete Guide'
-description: Everything you need to know about jambojet flights from nairobi to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about jambojet flights from nairobi to mombasa, including routes, airlines, booking tips, and fares.'
 slug: jambojet-flights-from-nairobi-to-mombasa
-primary_keyword: jambojet flights from nairobi to mombasa
+primary_keyword: 'jambojet flights from nairobi to mombasa'
 secondary_keywords:
-- flights to kenya business class
-- flights to kenya in december
-- flights from kenya to uk today
-- how many airlines are in kenya
-- flight kenya london
+- 'flights to kenya business class'
+- 'flights to kenya in december'
+- 'flights from kenya to uk today'
+- 'how many airlines are in kenya'
+- 'flight kenya london'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

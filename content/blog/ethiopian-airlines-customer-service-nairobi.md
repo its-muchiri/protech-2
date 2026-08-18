@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Customer Service Nairobi: Complete Guide'
-description: Everything you need to know about ethiopian airlines customer service nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines customer service nairobi, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-customer-service-nairobi
-primary_keyword: ethiopian airlines customer service nairobi
+primary_keyword: 'ethiopian airlines customer service nairobi'
 secondary_keywords:
-- cheap flights from nairobi to mombasa price
-- flights from nairobi to mombasa south coast
-- flights from mombasa to watamu
-- jambojet flights from kisumu to nairobi
-- british airways boarding rules
+- 'cheap flights from nairobi to mombasa price'
+- 'flights from nairobi to mombasa south coast'
+- 'flights from mombasa to watamu'
+- 'jambojet flights from kisumu to nairobi'
+- 'british airways boarding rules'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

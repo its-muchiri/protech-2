@@ -1,14 +1,14 @@
 ---
 title: 'Laptop Ultrasound Machine for Sale in Kisumu: 2026 Price Guide'
-description: Kenya buying guide to laptop ultrasound machine for sale in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to laptop ultrasound machine for sale in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: laptop-ultrasound-machine-for-sale-in-kisumu
-primary_keyword: Laptop ultrasound machine for sale in Kisumu
+primary_keyword: 'Laptop ultrasound machine for sale in Kisumu'
 secondary_keywords:
-- auto refractometer Kenya
-- ultrasound probes Kenya
-- chromatography equipment Kenya
-- biomedical waste management equipment Kenya
-- hospital oxygen piping Kenya
+- 'auto refractometer Kenya'
+- 'ultrasound probes Kenya'
+- 'chromatography equipment Kenya'
+- 'biomedical waste management equipment Kenya'
+- 'hospital oxygen piping Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

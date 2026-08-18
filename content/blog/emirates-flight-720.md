@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 720: Complete Guide'
-description: Everything you need to know about emirates flight 720, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 720, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-720
-primary_keyword: emirates flight 720
+primary_keyword: 'emirates flight 720'
 secondary_keywords:
-- flights from nairobi to cape town
-- cheap flights from nairobi to usa
-- flights from nairobi to entebbe today
-- flights for nairobi
-- flights from nairobi to goma
+- 'flights from nairobi to cape town'
+- 'cheap flights from nairobi to usa'
+- 'flights from nairobi to entebbe today'
+- 'flights for nairobi'
+- 'flights from nairobi to goma'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

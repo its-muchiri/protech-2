@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Los Angeles: Complete Guide'
-description: Everything you need to know about flight from nairobi to los angeles, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to los angeles, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-los-angeles
-primary_keyword: flight from nairobi to los angeles
+primary_keyword: 'flight from nairobi to los angeles'
 secondary_keywords:
-- flights nairobi to amboseli
-- flights nairobi to brisbane
-- flights nairobi to california
-- flights nairobi to diani beach
-- etihad flights nairobi to abu dhabi
+- 'flights nairobi to amboseli'
+- 'flights nairobi to brisbane'
+- 'flights nairobi to california'
+- 'flights nairobi to diani beach'
+- 'etihad flights nairobi to abu dhabi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

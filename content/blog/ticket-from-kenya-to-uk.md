@@ -1,14 +1,14 @@
 ---
 title: 'Ticket from Kenya to Uk: Complete Guide'
-description: Everything you need to know about ticket from kenya to uk, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ticket from kenya to uk, including routes, airlines, booking tips, and fares.'
 slug: ticket-from-kenya-to-uk
-primary_keyword: ticket from kenya to uk
+primary_keyword: 'ticket from kenya to uk'
 secondary_keywords:
-- flight from kenya to amsterdam
-- flights from kenya to burundi
-- flights from kenya to cairo
-- flights from kenya to durban
-- egypt flights from kenya
+- 'flight from kenya to amsterdam'
+- 'flights from kenya to burundi'
+- 'flights from kenya to cairo'
+- 'flights from kenya to durban'
+- 'egypt flights from kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flight Time from Nairobi to Frankfurt: Complete Guide'
-description: Everything you need to know about flight time from nairobi to frankfurt, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight time from nairobi to frankfurt, including routes, airlines, booking tips, and fares.'
 slug: flight-time-from-nairobi-to-frankfurt
-primary_keyword: flight time from nairobi to frankfurt
+primary_keyword: 'flight time from nairobi to frankfurt'
 secondary_keywords:
-- kq flights from uganda to kenya today
-- flights from nairobi to london kenya airways
-- malaysia flights from kenya
-- flights from kenya to oman
-- flights to nairobi kenya from orlando florida
+- 'kq flights from uganda to kenya today'
+- 'flights from nairobi to london kenya airways'
+- 'malaysia flights from kenya'
+- 'flights from kenya to oman'
+- 'flights to nairobi kenya from orlando florida'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

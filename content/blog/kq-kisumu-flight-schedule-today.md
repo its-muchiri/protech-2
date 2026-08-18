@@ -1,14 +1,14 @@
 ---
 title: 'Kq Kisumu Flight Schedule Today: Complete Guide'
-description: Everything you need to know about kq kisumu flight schedule today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq kisumu flight schedule today, including routes, airlines, booking tips, and fares.'
 slug: kq-kisumu-flight-schedule-today
-primary_keyword: kq kisumu flight schedule today
+primary_keyword: 'kq kisumu flight schedule today'
 secondary_keywords:
-- flights from kenya to usa
-- which is the cheapest airline in kenya
-- flights from kenya to atlanta
-- flights from kenya to bali
-- flights from beirut to kenya
+- 'flights from kenya to usa'
+- 'which is the cheapest airline in kenya'
+- 'flights from kenya to atlanta'
+- 'flights from kenya to bali'
+- 'flights from beirut to kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from Accra to Nairobi Today: Complete Guide'
-description: Everything you need to know about kenya airways flight from accra to nairobi today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from accra to nairobi today, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-accra-to-nairobi-today
-primary_keyword: kenya airways flight from accra to nairobi today
+primary_keyword: 'kenya airways flight from accra to nairobi today'
 secondary_keywords:
-- kq116 flight status
-- kq 275
-- kq 415 flight status
-- kq 609 flight status
-- kq 887
+- 'kq116 flight status'
+- 'kq 275'
+- 'kq 415 flight status'
+- 'kq 609 flight status'
+- 'kq 887'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

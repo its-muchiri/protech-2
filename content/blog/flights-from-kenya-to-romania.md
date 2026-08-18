@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Romania: Complete Guide'
-description: Everything you need to know about flights from kenya to romania, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to romania, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-romania
-primary_keyword: flights from kenya to romania
+primary_keyword: 'flights from kenya to romania'
 secondary_keywords:
-- return flight from nairobi to kisumu
-- flight from nairobi to spain
-- flight from nairobi to uganda
-- flight from nairobi to vietnam
-- flight time from wajir to nairobi
+- 'return flight from nairobi to kisumu'
+- 'flight from nairobi to spain'
+- 'flight from nairobi to uganda'
+- 'flight from nairobi to vietnam'
+- 'flight time from wajir to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

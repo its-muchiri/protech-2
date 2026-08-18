@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Homa Bay: Complete Guide'
-description: Everything you need to know about flight from nairobi to homa bay, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to homa bay, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-homa-bay
-primary_keyword: flight from nairobi to homa bay
+primary_keyword: 'flight from nairobi to homa bay'
 secondary_keywords:
-- flights from nairobi to doha
-- ethiopian airlines flights from nairobi to dubai
-- flights from frankfurt to nairobi
-- cheap flights from nairobi to guangzhou
-- cheap flights from nairobi to london heathrow
+- 'flights from nairobi to doha'
+- 'ethiopian airlines flights from nairobi to dubai'
+- 'flights from frankfurt to nairobi'
+- 'cheap flights from nairobi to guangzhou'
+- 'cheap flights from nairobi to london heathrow'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi City Historical Tour Guides: Complete Guide'
-description: Kenya safari guide covering nairobi city historical tour guides, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering nairobi city historical tour guides, including what is included, pricing, and booking advice.'
 slug: nairobi-city-historical-tour-guides
-primary_keyword: Nairobi city historical tour guides
+primary_keyword: 'Nairobi city historical tour guides'
 secondary_keywords:
-- Safari au Kenya prix (French)
-- Souvenirs Kenya safari
-- Reserve Kenya safari holiday
-- Book guided Kenya safari tour
-- 8 day Kenya discovery tour package
+- 'Safari au Kenya prix (French)'
+- 'Souvenirs Kenya safari'
+- 'Reserve Kenya safari holiday'
+- 'Book guided Kenya safari tour'
+- '8 day Kenya discovery tour package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

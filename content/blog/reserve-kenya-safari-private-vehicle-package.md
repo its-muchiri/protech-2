@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Kenya Safari Private Vehicle Package: Complete Guide'
-description: Kenya safari guide covering reserve kenya safari private vehicle package, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve kenya safari private vehicle package, including what is included, pricing, and booking advice.'
 slug: reserve-kenya-safari-private-vehicle-package
-primary_keyword: Reserve Kenya safari private vehicle package
+primary_keyword: 'Reserve Kenya safari private vehicle package'
 secondary_keywords:
-- Combined & Complex Queries
-- Mid-range 10 day Kenya highlights tour itinerary company
-- Secure Kenya safari trip reservation
-- Buy Laikipia luxury safari booking
-- Secure Great Rift Valley lakes tour booking
+- 'Combined & Complex Queries'
+- 'Mid-range 10 day Kenya highlights tour itinerary company'
+- 'Secure Kenya safari trip reservation'
+- 'Buy Laikipia luxury safari booking'
+- 'Secure Great Rift Valley lakes tour booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

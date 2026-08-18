@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Addis Ababa to Nairobi Today: Complete Guide'
-description: Everything you need to know about flights from addis ababa to nairobi today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from addis ababa to nairobi today, including routes, airlines, booking tips, and fares.'
 slug: flights-from-addis-ababa-to-nairobi-today
-primary_keyword: flights from addis ababa to nairobi today
+primary_keyword: 'flights from addis ababa to nairobi today'
 secondary_keywords:
-- flights nairobi to usa
-- nairobi to vipingo flights
-- cheap flights nairobi to mumbai
-- nairobi to zimbabwe flights
-- 3 bedroom nairobi
+- 'flights nairobi to usa'
+- 'nairobi to vipingo flights'
+- 'cheap flights nairobi to mumbai'
+- 'nairobi to zimbabwe flights'
+- '3 bedroom nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

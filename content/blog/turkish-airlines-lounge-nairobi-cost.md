@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Lounge Nairobi Cost: Complete Guide'
-description: Everything you need to know about turkish airlines lounge nairobi cost, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines lounge nairobi cost, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-lounge-nairobi-cost
-primary_keyword: turkish airlines lounge nairobi cost
+primary_keyword: 'turkish airlines lounge nairobi cost'
 secondary_keywords:
-- kenya airways flight from mumbai to nairobi
-- kenya airways fare from kenya to usa
-- flight from nairobi to addis ababa
-- a flight from nairobi to mombasa
-- ba flight from nairobi today
+- 'kenya airways flight from mumbai to nairobi'
+- 'kenya airways fare from kenya to usa'
+- 'flight from nairobi to addis ababa'
+- 'a flight from nairobi to mombasa'
+- 'ba flight from nairobi today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

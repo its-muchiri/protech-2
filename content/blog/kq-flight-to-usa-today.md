@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight to Usa Today: Complete Guide'
-description: Everything you need to know about kq flight to usa today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight to usa today, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-to-usa-today
-primary_keyword: kq flight to usa today
+primary_keyword: 'kq flight to usa today'
 secondary_keywords:
-- flights from kenya to london today
-- flights from mombasa kenya to maputo mozambique
-- flights from kenya to zanzibar
-- flights from nairobi kenya to orlando fl
-- flights from kenya to panama
+- 'flights from kenya to london today'
+- 'flights from mombasa kenya to maputo mozambique'
+- 'flights from kenya to zanzibar'
+- 'flights from nairobi kenya to orlando fl'
+- 'flights from kenya to panama'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights 1st Class: Complete Guide'
-description: Everything you need to know about emirates flights 1st class, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights 1st class, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-1st-class
-primary_keyword: emirates flights 1st class
+primary_keyword: 'emirates flights 1st class'
 secondary_keywords:
-- flights to eldoret from wilson
-- kq flight attendant job application
-- kenya airways flights bujumbura nairobi
-- kq flight cost from nairobi to mombasa
-- kq flight disruptions jkia
+- 'flights to eldoret from wilson'
+- 'kq flight attendant job application'
+- 'kenya airways flights bujumbura nairobi'
+- 'kq flight cost from nairobi to mombasa'
+- 'kq flight disruptions jkia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

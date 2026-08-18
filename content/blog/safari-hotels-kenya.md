@@ -1,14 +1,14 @@
 ---
 title: 'Safari Hotels Kenya: Complete Guide'
-description: Kenya safari guide covering safari hotels kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering safari hotels kenya, including what is included, pricing, and booking advice.'
 slug: safari-hotels-kenya
-primary_keyword: Safari hotels Kenya
+primary_keyword: 'Safari hotels Kenya'
 secondary_keywords:
-- Kenya photo safari tour
-- Walking safari Kenya
-- Volunteer safari Kenya
-- 14 day Kenya safari
-- Kenya safari price per person
+- 'Kenya photo safari tour'
+- 'Walking safari Kenya'
+- 'Volunteer safari Kenya'
+- '14 day Kenya safari'
+- 'Kenya safari price per person'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

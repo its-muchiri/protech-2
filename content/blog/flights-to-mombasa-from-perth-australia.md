@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Mombasa from Perth Australia: Complete Guide'
-description: Everything you need to know about flights to mombasa from perth australia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to mombasa from perth australia, including routes, airlines, booking tips, and fares.'
 slug: flights-to-mombasa-from-perth-australia
-primary_keyword: flights to mombasa from perth australia
+primary_keyword: 'flights to mombasa from perth australia'
 secondary_keywords:
-- cheap flights nairobi to istanbul
-- jambojet flights nairobi to malindi
-- kenya airways flights nairobi to dar es salaam
-- flights nairobi to mauritius
-- flights nairobi to nakuru
+- 'cheap flights nairobi to istanbul'
+- 'jambojet flights nairobi to malindi'
+- 'kenya airways flights nairobi to dar es salaam'
+- 'flights nairobi to mauritius'
+- 'flights nairobi to nakuru'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

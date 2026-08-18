@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Eldoret: Complete Guide'
-description: Everything you need to know about kq flights to eldoret, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to eldoret, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-eldoret
-primary_keyword: kq flights to eldoret
+primary_keyword: 'kq flights to eldoret'
 secondary_keywords:
-- kq 554 flight status
-- kq 882 flight status
-- emirates airlines nairobi contacts
-- emirates airlines nairobi office phone number
-- emirates from nairobi to dubai
+- 'kq 554 flight status'
+- 'kq 882 flight status'
+- 'emirates airlines nairobi contacts'
+- 'emirates airlines nairobi office phone number'
+- 'emirates from nairobi to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

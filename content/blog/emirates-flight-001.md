@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 001: Complete Guide'
-description: Everything you need to know about emirates flight 001, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 001, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-001
-primary_keyword: emirates flight 001
+primary_keyword: 'emirates flight 001'
 secondary_keywords:
-- kq flight booking price
-- kq flights check in
-- kq flights dar to nairobi
-- kq flights entebbe to nairobi
-- what airline is go to gate
+- 'kq flight booking price'
+- 'kq flights check in'
+- 'kq flights dar to nairobi'
+- 'kq flights entebbe to nairobi'
+- 'what airline is go to gate'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

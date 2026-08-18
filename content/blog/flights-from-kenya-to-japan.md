@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Japan: Complete Guide'
-description: Everything you need to know about flights from kenya to japan, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to japan, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-japan
-primary_keyword: flights from kenya to japan
+primary_keyword: 'flights from kenya to japan'
 secondary_keywords:
-- how much is flight from mombasa to nairobi
-- airlines from kisumu to nairobi
-- kisumu to nairobi flight time
-- jambojet flights from kisumu to nairobi timetable
-- last flight from kisumu to nairobi
+- 'how much is flight from mombasa to nairobi'
+- 'airlines from kisumu to nairobi'
+- 'kisumu to nairobi flight time'
+- 'jambojet flights from kisumu to nairobi timetable'
+- 'last flight from kisumu to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

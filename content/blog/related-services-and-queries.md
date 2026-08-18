@@ -1,14 +1,14 @@
 ---
 title: 'Related Services and Queries: 2026 Price Guide'
-description: Kenya buying guide to related services and queries. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to related services and queries. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: related-services-and-queries
-primary_keyword: Related Services and Queries
+primary_keyword: 'Related Services and Queries'
 secondary_keywords:
-- Refurbished C-arm machine price
-- Platelet agitator and incubator cost
-- Clearing and forwarding for medical equipment Kenya
-- Air purifier for operating theatre
-- CT scanner tube replacement cost
+- 'Refurbished C-arm machine price'
+- 'Platelet agitator and incubator cost'
+- 'Clearing and forwarding for medical equipment Kenya'
+- 'Air purifier for operating theatre'
+- 'CT scanner tube replacement cost'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

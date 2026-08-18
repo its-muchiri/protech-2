@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Germany Price: Complete Guide'
-description: Everything you need to know about flight from nairobi to germany price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to germany price, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-germany-price
-primary_keyword: flight from nairobi to germany price
+primary_keyword: 'flight from nairobi to germany price'
 secondary_keywords:
-- when will emirates resume flights from adelaide
-- emirates flights to brisbane from uk
-- cheapest emirates flights from uk
-- emirates flights from entebbe to dubai
-- emirates flights for today
+- 'when will emirates resume flights from adelaide'
+- 'emirates flights to brisbane from uk'
+- 'cheapest emirates flights from uk'
+- 'emirates flights from entebbe to dubai'
+- 'emirates flights for today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Usa: Complete Guide'
-description: Everything you need to know about flights from nairobi to usa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to usa, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-usa
-primary_keyword: flights from nairobi to usa
+primary_keyword: 'flights from nairobi to usa'
 secondary_keywords:
-- kq world
-- kq lagos to nairobi
-- kq 271 flight status
-- kq 353 flight status today
-- kq 520 flight status
+- 'kq world'
+- 'kq lagos to nairobi'
+- 'kq 271 flight status'
+- 'kq 353 flight status today'
+- 'kq 520 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

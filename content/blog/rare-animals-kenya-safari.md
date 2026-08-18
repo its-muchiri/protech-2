@@ -1,14 +1,14 @@
 ---
 title: 'Rare Animals Kenya Safari: Complete Guide'
-description: Kenya safari guide covering rare animals kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering rare animals kenya safari, including what is included, pricing, and booking advice.'
 slug: rare-animals-kenya-safari
-primary_keyword: Rare animals Kenya safari
+primary_keyword: 'Rare animals Kenya safari'
 secondary_keywords:
-- Book Kenya safari package July  migration
-- Buy 14 day premium honeymoon Kenya coast safari private vehicle package
-- Reserve 12 day East Africa highlights tour package flights included option buy
-- Kenya Wildlife Service (KWS) licensed tour guides list
-- Masai Mara conservancy safari (e.g., Mara North, Olare Motorogi) benefits
+- 'Book Kenya safari package July  migration'
+- 'Buy 14 day premium honeymoon Kenya coast safari private vehicle package'
+- 'Reserve 12 day East Africa highlights tour package flights included option buy'
+- 'Kenya Wildlife Service (KWS) licensed tour guides list'
+- 'Masai Mara conservancy safari (e.g., Mara North, Olare Motorogi) benefits'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

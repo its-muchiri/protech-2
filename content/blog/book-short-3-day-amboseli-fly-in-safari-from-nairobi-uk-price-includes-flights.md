@@ -1,14 +1,14 @@
 ---
 title: 'Book Short 3-day Amboseli Fly-in Safari from Nairobi UK Price Includes Flights: Complete Guide'
-description: Kenya safari guide covering book short 3-day amboseli fly-in safari from nairobi uk price includes flights, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book short 3-day amboseli fly-in safari from nairobi uk price includes flights, including what is included, pricing, and booking advice.'
 slug: book-short-3-day-amboseli-fly-in-safari-from-nairobi-uk-price-includes-flights
-primary_keyword: Book short 3-day Amboseli fly-in safari from Nairobi UK price includes flights
+primary_keyword: 'Book short 3-day Amboseli fly-in safari from Nairobi UK price includes flights'
 secondary_keywords:
-- Amboseli view Kilimanjaro safari package book
-- Governors Camp Masai Mara package booking
-- Book Kenya honeymoon safari package
-- Kenya safari package offers
-- Kenya Uganda gorilla safari package cost
+- 'Amboseli view Kilimanjaro safari package book'
+- 'Governors Camp Masai Mara package booking'
+- 'Book Kenya honeymoon safari package'
+- 'Kenya safari package offers'
+- 'Kenya Uganda gorilla safari package cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

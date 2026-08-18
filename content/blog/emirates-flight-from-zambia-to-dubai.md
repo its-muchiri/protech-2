@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight from Zambia to Dubai: Complete Guide'
-description: Everything you need to know about emirates flight from zambia to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight from zambia to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-from-zambia-to-dubai
-primary_keyword: emirates flight from zambia to dubai
+primary_keyword: 'emirates flight from zambia to dubai'
 secondary_keywords:
-- does turkish airlines fly to cape town
-- flight ticket from kenya to dubai
-- flight ticket to kenya from qatar
-- kenya ticket from nigeria
-- cheap flights in kenya
+- 'does turkish airlines fly to cape town'
+- 'flight ticket from kenya to dubai'
+- 'flight ticket to kenya from qatar'
+- 'kenya ticket from nigeria'
+- 'cheap flights in kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

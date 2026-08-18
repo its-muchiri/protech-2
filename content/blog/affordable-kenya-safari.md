@@ -1,14 +1,14 @@
 ---
 title: 'Affordable Kenya Safari: Complete Guide'
-description: Kenya safari guide covering affordable kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering affordable kenya safari, including what is included, pricing, and booking advice.'
 slug: affordable-kenya-safari
-primary_keyword: Affordable Kenya safari
+primary_keyword: 'Affordable Kenya safari'
 secondary_keywords:
-- Safari company specializing in big cat sightings Kenya
-- Secure all-inclusive Kenya safari package
-- Buy Olare Motorogi Conservancy safari reservation
-- Purchase 12 day East Africa highlights booking
-- Secure fly-in Kenya safari package purchase
+- 'Safari company specializing in big cat sightings Kenya'
+- 'Secure all-inclusive Kenya safari package'
+- 'Buy Olare Motorogi Conservancy safari reservation'
+- 'Purchase 12 day East Africa highlights booking'
+- 'Secure fly-in Kenya safari package purchase'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

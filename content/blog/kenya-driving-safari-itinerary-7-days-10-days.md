@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Driving Safari Itinerary 7 Days / 10 Days: Complete Guide'
-description: Kenya safari guide covering kenya driving safari itinerary 7 days / 10 days, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya driving safari itinerary 7 days / 10 days, including what is included, pricing, and booking advice.'
 slug: kenya-driving-safari-itinerary-7-days-10-days
-primary_keyword: Kenya driving safari itinerary 7 days / 10 days
+primary_keyword: 'Kenya driving safari itinerary 7 days / 10 days'
 secondary_keywords:
-- Luxury tented camp safari Kenya price comparison
-- Diani Beach holiday packages all inclusive price
-- Naro Moru route Mount Kenya climb technical sections
-- Swahili cultural tour Mombasa Old Town guide price
-- Kereita Forest ziplining adventure park day trip Thika / Nairobi price
+- 'Luxury tented camp safari Kenya price comparison'
+- 'Diani Beach holiday packages all inclusive price'
+- 'Naro Moru route Mount Kenya climb technical sections'
+- 'Swahili cultural tour Mombasa Old Town guide price'
+- 'Kereita Forest ziplining adventure park day trip Thika / Nairobi price'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

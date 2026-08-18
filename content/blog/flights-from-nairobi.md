@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi: Complete Guide'
-description: Everything you need to know about flights from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi
-primary_keyword: flights from nairobi
+primary_keyword: 'flights from nairobi'
 secondary_keywords:
-- kq flights from entebbe to nairobi
-- kq flights today
-- kq flights to juba
-- kq flights from lusaka to nairobi
-- kq flights to mombasa timetable
+- 'kq flights from entebbe to nairobi'
+- 'kq flights today'
+- 'kq flights to juba'
+- 'kq flights from lusaka to nairobi'
+- 'kq flights to mombasa timetable'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

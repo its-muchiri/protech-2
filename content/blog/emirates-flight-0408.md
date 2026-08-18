@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 0408: Complete Guide'
-description: Everything you need to know about emirates flight 0408, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 0408, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-0408
-primary_keyword: emirates flight 0408
+primary_keyword: 'emirates flight 0408'
 secondary_keywords:
-- flights to mombasa from heathrow
-- flights from mombasa to jkia
-- flights from mombasa to kitale
-- flights to mombasa from london
-- flights from mombasa to nairobi tomorrow
+- 'flights to mombasa from heathrow'
+- 'flights from mombasa to jkia'
+- 'flights from mombasa to kitale'
+- 'flights to mombasa from london'
+- 'flights from mombasa to nairobi tomorrow'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

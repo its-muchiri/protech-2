@@ -1,14 +1,14 @@
 ---
 title: 'Home Healthcare Services and Equipment Rental in Kenya: 2026 Price Guide'
-description: Kenya buying guide to home healthcare services and equipment rental in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to home healthcare services and equipment rental in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: home-healthcare-services-and-equipment-rental-in-kenya
-primary_keyword: Home healthcare services and equipment rental in Kenya
+primary_keyword: 'Home healthcare services and equipment rental in Kenya'
 secondary_keywords:
-- medical waste incinerators Kenya
-- medical gas manifold system Kenya
-- blood pressure monitor for hospital Kenya
-- maternity equipment Kenya
-- leasing medical equipment Kenya
+- 'medical waste incinerators Kenya'
+- 'medical gas manifold system Kenya'
+- 'blood pressure monitor for hospital Kenya'
+- 'maternity equipment Kenya'
+- 'leasing medical equipment Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

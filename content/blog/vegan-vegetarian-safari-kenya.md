@@ -1,14 +1,14 @@
 ---
 title: 'Vegan/Vegetarian Safari Kenya: Complete Guide'
-description: Kenya safari guide covering vegan/vegetarian safari kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering vegan/vegetarian safari kenya, including what is included, pricing, and booking advice.'
 slug: vegan-vegetarian-safari-kenya
-primary_keyword: Vegan/Vegetarian safari Kenya
+primary_keyword: 'Vegan/Vegetarian safari Kenya'
 secondary_keywords:
-- Sustainable tourism certified tour operators Kenya
-- Luxury lodges Masai Mara (e.g., Angama Mara, Mara Serena, Governors Camp) price
-- Rhino sanctuary Lake Nakuru best viewing times
-- Luxury tented camp safari Kenya price comparison
-- Short Kenya safari 2 day / 3 day options from Nairobi
+- 'Sustainable tourism certified tour operators Kenya'
+- 'Luxury lodges Masai Mara (e.g., Angama Mara, Mara Serena, Governors Camp) price'
+- 'Rhino sanctuary Lake Nakuru best viewing times'
+- 'Luxury tented camp safari Kenya price comparison'
+- 'Short Kenya safari 2 day / 3 day options from Nairobi'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

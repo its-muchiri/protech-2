@@ -1,14 +1,14 @@
 ---
 title: 'Purchase Women-only Small Group Kenya Safari Tour UK Female Guide Operator Deals: Complete Guide'
-description: Kenya safari guide covering purchase women-only small group kenya safari tour uk female guide operator deals, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase women-only small group kenya safari tour uk female guide operator deals, including what is included, pricing, and booking advice.'
 slug: purchase-women-only-small-group-kenya-safari-tour-uk-female-guide-operator-deals
-primary_keyword: Purchase women-only small group Kenya safari tour UK female guide operator deals
+primary_keyword: 'Purchase women-only small group Kenya safari tour UK female guide operator deals'
 secondary_keywords:
-- Short Kenya safari tour (3-day/4-day) booking USA
-- Nairobi departure Kenya safari packages Europe start city
-- Book Kenya safari from London Heathrow flights included deals
-- Netherlands (Nederland) to Kenya safari packages booking
-- Sustainable Kenya tour operators Europe eco-certified list
+- 'Short Kenya safari tour (3-day/4-day) booking USA'
+- 'Nairobi departure Kenya safari packages Europe start city'
+- 'Book Kenya safari from London Heathrow flights included deals'
+- 'Netherlands (Nederland) to Kenya safari packages booking'
+- 'Sustainable Kenya tour operators Europe eco-certified list'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flight to Eldoret Price: Complete Guide'
-description: Everything you need to know about flight to eldoret price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight to eldoret price, including routes, airlines, booking tips, and fares.'
 slug: flight-to-eldoret-price
-primary_keyword: flight to eldoret price
+primary_keyword: 'flight to eldoret price'
 secondary_keywords:
-- kenya airways flight from dubai to nairobi today
-- kenya airways flight from jfk to nairobi
-- kenya airways flight schedule from nairobi to mumbai
-- kenya airways flights from nairobi to south africa today
-- flight from nairobi to eldoret
+- 'kenya airways flight from dubai to nairobi today'
+- 'kenya airways flight from jfk to nairobi'
+- 'kenya airways flight schedule from nairobi to mumbai'
+- 'kenya airways flights from nairobi to south africa today'
+- 'flight from nairobi to eldoret'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Direct Booking Kenya Safari: Complete Guide'
-description: Kenya safari guide covering direct booking kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering direct booking kenya safari, including what is included, pricing, and booking advice.'
 slug: direct-booking-kenya-safari
-primary_keyword: Direct booking Kenya safari
+primary_keyword: 'Direct booking Kenya safari'
 secondary_keywords:
-- Family friendly beach resorts Kenya kids club / activities
-- Bomas of Kenya cultural tour Nairobi price / show times
-- Ol Pejeta Conservancy day trip from Nairobi cost / travel time
-- African Sermon Safaris itinerary examples
-- Hire 4x4 Land Cruiser with driver guide Kenya daily rate
+- 'Family friendly beach resorts Kenya kids club / activities'
+- 'Bomas of Kenya cultural tour Nairobi price / show times'
+- 'Ol Pejeta Conservancy day trip from Nairobi cost / travel time'
+- 'African Sermon Safaris itinerary examples'
+- 'Hire 4x4 Land Cruiser with driver guide Kenya daily rate'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

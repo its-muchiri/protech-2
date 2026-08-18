@@ -1,14 +1,14 @@
 ---
 title: 'Kq Nbo Los: Complete Guide'
-description: Everything you need to know about kq nbo los, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq nbo los, including routes, airlines, booking tips, and fares.'
 slug: kq-nbo-los
-primary_keyword: kq nbo los
+primary_keyword: 'kq nbo los'
 secondary_keywords:
-- tanzania suspends kq flights
-- kq flight 003
-- kq116 flight status
-- kq 275
-- kq 415 flight status
+- 'tanzania suspends kq flights'
+- 'kq flight 003'
+- 'kq116 flight status'
+- 'kq 275'
+- 'kq 415 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

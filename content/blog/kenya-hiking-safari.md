@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Hiking Safari: Complete Guide'
-description: Kenya safari guide covering kenya hiking safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya hiking safari, including what is included, pricing, and booking advice.'
 slug: kenya-hiking-safari
-primary_keyword: Kenya hiking safari
+primary_keyword: 'Kenya hiking safari'
 secondary_keywords:
-- Check Kenya tour operator license and reviews online UK
-- Book small group safari Lake Nakuru & Naivasha Kenya from Germany agency
-- Book responsible eco-safari tour Basecamp Masai Mara Kenya Europe sustainable travel award
-- Book Great Rift Valley birding safari tour specialist operator USA checklist species focus
-- Book safari tour focusing on big cat sightings Mara conservancies Europe best guides reviews
+- 'Check Kenya tour operator license and reviews online UK'
+- 'Book small group safari Lake Nakuru & Naivasha Kenya from Germany agency'
+- 'Book responsible eco-safari tour Basecamp Masai Mara Kenya Europe sustainable travel award'
+- 'Book Great Rift Valley birding safari tour specialist operator USA checklist species focus'
+- 'Book safari tour focusing on big cat sightings Mara conservancies Europe best guides reviews'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

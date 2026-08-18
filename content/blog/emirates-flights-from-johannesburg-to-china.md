@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Johannesburg to China: Complete Guide'
-description: Everything you need to know about emirates flights from johannesburg to china, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from johannesburg to china, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-johannesburg-to-china
-primary_keyword: emirates flights from johannesburg to china
+primary_keyword: 'emirates flights from johannesburg to china'
 secondary_keywords:
-- flights from nairobi to seychelles
-- safarilink flights from kisumu to nairobi
-- flights to nairobi from usa
-- flights from nairobi to watamu
-- flights from nairobi to new york usa
+- 'flights from nairobi to seychelles'
+- 'safarilink flights from kisumu to nairobi'
+- 'flights to nairobi from usa'
+- 'flights from nairobi to watamu'
+- 'flights from nairobi to new york usa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Spain (España) Kenya Safari Holiday Deals Online: Complete Guide'
-description: Kenya safari guide covering spain (españa) kenya safari holiday deals online, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering spain (españa) kenya safari holiday deals online, including what is included, pricing, and booking advice.'
 slug: spain-espa-a-kenya-safari-holiday-deals-online
-primary_keyword: Spain (España) Kenya safari holiday deals online
+primary_keyword: 'Spain (España) Kenya safari holiday deals online'
 secondary_keywords:
-- Ngong Hills hiking trail guide KFS fee
-- Sheldrick Wildlife Trust elephant orphanage visit booking / times Nairobi
-- Explorer Kenya Safaris reviews luxury / mid-range
-- Gracepatt Safaris review
-- Yellow fever vaccination certificate Kenya requirement
+- 'Ngong Hills hiking trail guide KFS fee'
+- 'Sheldrick Wildlife Trust elephant orphanage visit booking / times Nairobi'
+- 'Explorer Kenya Safaris reviews luxury / mid-range'
+- 'Gracepatt Safaris review'
+- 'Yellow fever vaccination certificate Kenya requirement'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

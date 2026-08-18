@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Self-drive Tour Planning Companies: Complete Guide'
-description: Kenya safari guide covering kenya self-drive tour planning companies, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya self-drive tour planning companies, including what is included, pricing, and booking advice.'
 slug: kenya-self-drive-tour-planning-companies
-primary_keyword: Kenya self-drive tour planning companies
+primary_keyword: 'Kenya self-drive tour planning companies'
 secondary_keywords:
-- Book Kenya safari departing  quote needed
-- Reserve 15 day grand Kenya overland truck budget group package booking
-- Reliable Kenya travel agencies near Thika
-- Private tour companies Kenya custom itineraries
-- Visit Mzima Springs Tsavo West tour package
+- 'Book Kenya safari departing  quote needed'
+- 'Reserve 15 day grand Kenya overland truck budget group package booking'
+- 'Reliable Kenya travel agencies near Thika'
+- 'Private tour companies Kenya custom itineraries'
+- 'Visit Mzima Springs Tsavo West tour package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

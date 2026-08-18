@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Tanzania Combined Tour Itinerary Quote: Complete Guide'
-description: Kenya safari guide covering kenya tanzania combined tour itinerary quote, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya tanzania combined tour itinerary quote, including what is included, pricing, and booking advice.'
 slug: kenya-tanzania-combined-tour-itinerary-quote
-primary_keyword: Kenya Tanzania combined tour itinerary quote
+primary_keyword: 'Kenya Tanzania combined tour itinerary quote'
 secondary_keywords:
-- Buy 4 day Amboseli Kilimanjaro view package deal
-- Secure 12 day premium family safari package Sarova lodges
-- Secure 6 day Saruni Samburu lodge package deal
-- Buy exclusive use safari lodge package Kenya family
-- Get best available rate Kenya safari package 5 days book
+- 'Buy 4 day Amboseli Kilimanjaro view package deal'
+- 'Secure 12 day premium family safari package Sarova lodges'
+- 'Secure 6 day Saruni Samburu lodge package deal'
+- 'Buy exclusive use safari lodge package Kenya family'
+- 'Get best available rate Kenya safari package 5 days book'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

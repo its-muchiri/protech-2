@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Cairo Egypt: Complete Guide'
-description: Everything you need to know about flights from nairobi to cairo egypt, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to cairo egypt, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-cairo-egypt
-primary_keyword: flights from nairobi to cairo egypt
+primary_keyword: 'flights from nairobi to cairo egypt'
 secondary_keywords:
-- uganda airlines flights from nairobi to entebbe
-- flights from nairobi to abu dhabi
-- flights from nairobi to brisbane australia
-- flights from nairobi to canada
-- flights from nairobi to diani
+- 'uganda airlines flights from nairobi to entebbe'
+- 'flights from nairobi to abu dhabi'
+- 'flights from nairobi to brisbane australia'
+- 'flights from nairobi to canada'
+- 'flights from nairobi to diani'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

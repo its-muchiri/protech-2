@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Heathrow: Complete Guide'
-description: Everything you need to know about emirates flights from heathrow, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from heathrow, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-heathrow
-primary_keyword: emirates flights from heathrow
+primary_keyword: 'emirates flights from heathrow'
 secondary_keywords:
-- flight 540 nairobi to mombasa price in kenya shillings today
-- 748 flight from mombasa to nairobi
-- turkish airlines app not working
-- turkey to kenya flight time
-- turkish airlines nairobi to istanbul today
+- 'flight 540 nairobi to mombasa price in kenya shillings today'
+- '748 flight from mombasa to nairobi'
+- 'turkish airlines app not working'
+- 'turkey to kenya flight time'
+- 'turkish airlines nairobi to istanbul today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

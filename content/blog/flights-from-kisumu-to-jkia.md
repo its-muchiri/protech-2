@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kisumu to Jkia: Complete Guide'
-description: Everything you need to know about flights from kisumu to jkia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kisumu to jkia, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kisumu-to-jkia
-primary_keyword: flights from kisumu to jkia
+primary_keyword: 'flights from kisumu to jkia'
 secondary_keywords:
-- ethiopian airlines from nairobi to doha price today
-- ethiopian airlines nairobi number
-- ethiopian airline ticket from kenya to qatar
-- flights nairobi to malindi
-- uganda airlines flights from entebbe to nairobi
+- 'ethiopian airlines from nairobi to doha price today'
+- 'ethiopian airlines nairobi number'
+- 'ethiopian airline ticket from kenya to qatar'
+- 'flights nairobi to malindi'
+- 'uganda airlines flights from entebbe to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

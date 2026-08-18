@@ -1,14 +1,14 @@
 ---
 title: 'Ol Pejeta Chimpanzee Sanctuary Tours: Complete Guide'
-description: Kenya safari guide covering ol pejeta chimpanzee sanctuary tours, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering ol pejeta chimpanzee sanctuary tours, including what is included, pricing, and booking advice.'
 slug: ol-pejeta-chimpanzee-sanctuary-tours
-primary_keyword: Ol Pejeta chimpanzee sanctuary tours
+primary_keyword: 'Ol Pejeta chimpanzee sanctuary tours'
 secondary_keywords:
-- Secure 5 day Kilaguni Serena Tsavo package booking
-- Buy 6 day Great Plains Conservation Kenya package Mara
-- Quote wedding safari package Kenya elopement
-- Kiambu based travel agents
-- Tsavo West luxury lodge tour operators
+- 'Secure 5 day Kilaguni Serena Tsavo package booking'
+- 'Buy 6 day Great Plains Conservation Kenya package Mara'
+- 'Quote wedding safari package Kenya elopement'
+- 'Kiambu based travel agents'
+- 'Tsavo West luxury lodge tour operators'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

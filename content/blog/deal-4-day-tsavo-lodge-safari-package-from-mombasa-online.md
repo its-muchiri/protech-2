@@ -1,14 +1,14 @@
 ---
 title: 'Deal 4 Day Tsavo Lodge Safari Package from Mombasa Online: Complete Guide'
-description: Kenya safari guide covering deal 4 day tsavo lodge safari package from mombasa online, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering deal 4 day tsavo lodge safari package from mombasa online, including what is included, pricing, and booking advice.'
 slug: deal-4-day-tsavo-lodge-safari-package-from-mombasa-online
-primary_keyword: Deal 4 day Tsavo lodge safari package from Mombasa online
+primary_keyword: 'Deal 4 day Tsavo lodge safari package from Mombasa online'
 secondary_keywords:
-- Recommended Kenya safari
-- Samburu National Reserve safari
-- David Sheldrick Wildlife Trust visit
-- Kenya photo safari tour
-- Walking safari Kenya
+- 'Recommended Kenya safari'
+- 'Samburu National Reserve safari'
+- 'David Sheldrick Wildlife Trust visit'
+- 'Kenya photo safari tour'
+- 'Walking safari Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: '3-parameter Vital Signs Monitor for Sale: 2026 Price Guide'
-description: Kenya buying guide to 3-parameter vital signs monitor for sale. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to 3-parameter vital signs monitor for sale. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: 3-parameter-vital-signs-monitor-for-sale
-primary_keyword: 3-parameter vital signs monitor for sale
+primary_keyword: '3-parameter vital signs monitor for sale'
 secondary_keywords:
-- Coagulation analyzer for a lab in Nakuru
-- Horizontal steam sterilizer for hospital
-- Basic orthopedic set cost
-- Orthopedic operating table for sale
-- Ultrasonic cleaner for medical instruments in Mombasa
+- 'Coagulation analyzer for a lab in Nakuru'
+- 'Horizontal steam sterilizer for hospital'
+- 'Basic orthopedic set cost'
+- 'Orthopedic operating table for sale'
+- 'Ultrasonic cleaner for medical instruments in Mombasa'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

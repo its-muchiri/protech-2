@@ -1,14 +1,14 @@
 ---
 title: 'Singapore Flights from Kenya: Complete Guide'
-description: Everything you need to know about singapore flights from kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about singapore flights from kenya, including routes, airlines, booking tips, and fares.'
 slug: singapore-flights-from-kenya
-primary_keyword: singapore flights from kenya
+primary_keyword: 'singapore flights from kenya'
 secondary_keywords:
-- kq flights to uk
-- kq 0203 flight status
-- kq first class
-- kq 353 flight status
-- kq 416 flight status
+- 'kq flights to uk'
+- 'kq 0203 flight status'
+- 'kq first class'
+- 'kq 353 flight status'
+- 'kq 416 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

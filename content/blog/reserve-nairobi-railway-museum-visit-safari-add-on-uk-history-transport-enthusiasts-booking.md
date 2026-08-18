@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Nairobi Railway Museum Visit Safari Add-on UK History Transport Enthusiasts Booking: Complete Guide'
-description: Kenya safari guide covering reserve nairobi railway museum visit safari add-on uk history transport enthusiasts booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve nairobi railway museum visit safari add-on uk history transport enthusiasts booking, including what is included, pricing, and booking advice.'
 slug: reserve-nairobi-railway-museum-visit-safari-add-on-uk-history-transport-enthusiasts-booking
-primary_keyword: Reserve Nairobi Railway Museum visit safari add-on UK history transport enthusiasts booking
+primary_keyword: 'Reserve Nairobi Railway Museum visit safari add-on UK history transport enthusiasts booking'
 secondary_keywords:
-- Reserve luxury fly-camping safari private conservancy Kenya USA exclusive remote experience booking
-- Reserve archaeological site tour Koobi Fora safari Kenya Europe paleontology focus booking
-- Find kosher meal options Kenya safari booking Europe Jewish travel specialist agent
-- Purchase Kenya safari packing list consultation service UK expert advice online booking
-- Kenya safari experience
+- 'Reserve luxury fly-camping safari private conservancy Kenya USA exclusive remote experience booking'
+- 'Reserve archaeological site tour Koobi Fora safari Kenya Europe paleontology focus booking'
+- 'Find kosher meal options Kenya safari booking Europe Jewish travel specialist agent'
+- 'Purchase Kenya safari packing list consultation service UK expert advice online booking'
+- 'Kenya safari experience'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

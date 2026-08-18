@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 413: Complete Guide'
-description: Everything you need to know about emirates flight 413, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 413, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-413
-primary_keyword: emirates flight 413
+primary_keyword: 'emirates flight 413'
 secondary_keywords:
-- kq flights from johannesburg to nairobi
-- kq local flights
-- kq manage flight
-- kq flights to uganda
-- kq 101 flight radar
+- 'kq flights from johannesburg to nairobi'
+- 'kq local flights'
+- 'kq manage flight'
+- 'kq flights to uganda'
+- 'kq 101 flight radar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

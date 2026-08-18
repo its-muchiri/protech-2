@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Flight from Nairobi: Complete Guide'
-description: Everything you need to know about turkish flight from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish flight from nairobi, including routes, airlines, booking tips, and fares.'
 slug: turkish-flight-from-nairobi
-primary_keyword: turkish flight from nairobi
+primary_keyword: 'turkish flight from nairobi'
 secondary_keywords:
-- flights to kenya november 2025
-- qatar airways in nairobi
-- flights kenya to south africa
-- flights within kenya
-- £5 in kenya shillings
+- 'flights to kenya november 2025'
+- 'qatar airways in nairobi'
+- 'flights kenya to south africa'
+- 'flights within kenya'
+- '£5 in kenya shillings'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

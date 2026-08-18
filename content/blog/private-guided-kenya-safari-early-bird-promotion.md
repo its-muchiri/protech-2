@@ -1,14 +1,14 @@
 ---
 title: 'Private Guided Kenya Safari Early Bird Promotion: Complete Guide'
-description: Kenya safari guide covering private guided kenya safari early bird promotion, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering private guided kenya safari early bird promotion, including what is included, pricing, and booking advice.'
 slug: private-guided-kenya-safari-early-bird-promotion
-primary_keyword: Private guided Kenya safari early bird promotion
+primary_keyword: 'Private guided Kenya safari early bird promotion'
 secondary_keywords:
-- custom safari quote Kenya
-- Kenya safari package with international flights book
-- Amboseli package cost
-- Last minute deal Kenya safari buy
-- Quote for solo traveler 10 day Kenya budget package
+- 'custom safari quote Kenya'
+- 'Kenya safari package with international flights book'
+- 'Amboseli package cost'
+- 'Last minute deal Kenya safari buy'
+- 'Quote for solo traveler 10 day Kenya budget package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

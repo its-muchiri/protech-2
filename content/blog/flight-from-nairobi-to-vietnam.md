@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Vietnam: Complete Guide'
-description: Everything you need to know about flight from nairobi to vietnam, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to vietnam, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-vietnam
-primary_keyword: flight from nairobi to vietnam
+primary_keyword: 'flight from nairobi to vietnam'
 secondary_keywords:
-- flights from kenya to zanzibar
-- flights from nairobi kenya to orlando fl
-- flights from kenya to panama
-- flight from kenya to qatar hours
-- flights from kenya to costa rica
+- 'flights from kenya to zanzibar'
+- 'flights from nairobi kenya to orlando fl'
+- 'flights from kenya to panama'
+- 'flight from kenya to qatar hours'
+- 'flights from kenya to costa rica'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

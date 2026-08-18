@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights Nairobi to Rome: Complete Guide'
-description: Everything you need to know about cheap flights nairobi to rome, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights nairobi to rome, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-nairobi-to-rome
-primary_keyword: cheap flights nairobi to rome
+primary_keyword: 'cheap flights nairobi to rome'
 secondary_keywords:
-- emirates flights from bangkok
-- emirates flights from cyprus
-- emirates flights from johannesburg to dubai
-- emirates flights from france to dubai
-- emirates flights from gatwick
+- 'emirates flights from bangkok'
+- 'emirates flights from cyprus'
+- 'emirates flights from johannesburg to dubai'
+- 'emirates flights from france to dubai'
+- 'emirates flights from gatwick'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

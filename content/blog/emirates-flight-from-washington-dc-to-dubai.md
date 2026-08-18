@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight from Washington Dc to Dubai: Complete Guide'
-description: Everything you need to know about emirates flight from washington dc to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight from washington dc to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-from-washington-dc-to-dubai
-primary_keyword: emirates flight from washington dc to dubai
+primary_keyword: 'emirates flight from washington dc to dubai'
 secondary_keywords:
-- one way flight from nairobi to dubai
-- price of flight from nairobi to kisumu
-- renegade flight from nairobi to kisumu
-- seychelles flight from nairobi
-- flight from nairobi to uk
+- 'one way flight from nairobi to dubai'
+- 'price of flight from nairobi to kisumu'
+- 'renegade flight from nairobi to kisumu'
+- 'seychelles flight from nairobi'
+- 'flight from nairobi to uk'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

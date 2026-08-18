@@ -1,14 +1,14 @@
 ---
 title: 'Kq 352 Flight Status: Complete Guide'
-description: Everything you need to know about kq 352 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 352 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq-352-flight-status
-primary_keyword: kq 352 flight status
+primary_keyword: 'kq 352 flight status'
 secondary_keywords:
-- flight from nairobi to bungoma
-- british airways flight from nairobi to london today
-- cheapest flight from nairobi to zanzibar
-- flight from nairobi to egypt
-- flight fare from nairobi to mombasa
+- 'flight from nairobi to bungoma'
+- 'british airways flight from nairobi to london today'
+- 'cheapest flight from nairobi to zanzibar'
+- 'flight from nairobi to egypt'
+- 'flight fare from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

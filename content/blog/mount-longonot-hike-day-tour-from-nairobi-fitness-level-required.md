@@ -1,14 +1,14 @@
 ---
 title: 'Mount Longonot Hike Day Tour from Nairobi Fitness Level Required: Complete Guide'
-description: Kenya safari guide covering mount longonot hike day tour from nairobi fitness level required, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering mount longonot hike day tour from nairobi fitness level required, including what is included, pricing, and booking advice.'
 slug: mount-longonot-hike-day-tour-from-nairobi-fitness-level-required
-primary_keyword: Mount Longonot hike day tour from Nairobi fitness level required
+primary_keyword: 'Mount Longonot hike day tour from Nairobi fitness level required'
 secondary_keywords:
-- Direct Booking/Purchase Intent (Book, Buy, Purchase, Reserve)
-- Book Kenya camping safari adventure Europe budget
-- Luxury Kenya safari package quote Europe agent
-- Special offers Kenya safari tours online
-- Kenya adventure safari packages cost UK (hiking, biking)
+- 'Direct Booking/Purchase Intent (Book, Buy, Purchase, Reserve)'
+- 'Book Kenya camping safari adventure Europe budget'
+- 'Luxury Kenya safari package quote Europe agent'
+- 'Special offers Kenya safari tours online'
+- 'Kenya adventure safari packages cost UK (hiking, biking)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

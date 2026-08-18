@@ -1,14 +1,14 @@
 ---
 title: 'Kq 414 Flight Status: Complete Guide'
-description: Everything you need to know about kq 414 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 414 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq-414-flight-status
-primary_keyword: kq 414 flight status
+primary_keyword: 'kq 414 flight status'
 secondary_keywords:
-- flights from nairobi to houston
-- indigo flights from nairobi
-- jambojet flights from nairobi to malindi
-- kq flights from nairobi to dar es salaam
-- flights from nairobi to masai mara
+- 'flights from nairobi to houston'
+- 'indigo flights from nairobi'
+- 'jambojet flights from nairobi to malindi'
+- 'kq flights from nairobi to dar es salaam'
+- 'flights from nairobi to masai mara'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

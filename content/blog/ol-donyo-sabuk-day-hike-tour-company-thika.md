@@ -1,14 +1,14 @@
 ---
 title: 'Ol Donyo Sabuk Day Hike Tour Company Thika: Complete Guide'
-description: Kenya safari guide covering ol donyo sabuk day hike tour company thika, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering ol donyo sabuk day hike tour company thika, including what is included, pricing, and booking advice.'
 slug: ol-donyo-sabuk-day-hike-tour-company-thika
-primary_keyword: Ol Donyo Sabuk day hike tour company Thika
+primary_keyword: 'Ol Donyo Sabuk day hike tour company Thika'
 secondary_keywords:
-- Kenya safari tours
-- Visit Kenya safari
-- Nairobi National Park safari
-- Luxury Kenya safari
-- Kenya air safari
+- 'Kenya safari tours'
+- 'Visit Kenya safari'
+- 'Nairobi National Park safari'
+- 'Luxury Kenya safari'
+- 'Kenya air safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

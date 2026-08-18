@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Lake Turkana Fishing Safari Expedition Kenya Europe Remote Adventure Booking Logistics: Complete Guide'
-description: Kenya safari guide covering reserve lake turkana fishing safari expedition kenya europe remote adventure booking logistics, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve lake turkana fishing safari expedition kenya europe remote adventure booking logistics, including what is included, pricing, and booking advice.'
 slug: reserve-lake-turkana-fishing-safari-expedition-kenya-europe-remote-adventure-booking-logistics
-primary_keyword: Reserve Lake Turkana fishing safari expedition Kenya Europe remote adventure booking logistics
+primary_keyword: 'Reserve Lake Turkana fishing safari expedition Kenya Europe remote adventure booking logistics'
 secondary_keywords:
-- Purchase voucher Kenya family safari package
-- Buy discounted off-peak Kenya safari package April
-- Quote all-in price 10 day family safari Kenya December
-- Price and book 6 day Ashnil Samburu Mara package
-- Reserve 7 day Richard''s River Camp private conservancy package
+- 'Purchase voucher Kenya family safari package'
+- 'Buy discounted off-peak Kenya safari package April'
+- 'Quote all-in price 10 day family safari Kenya December'
+- 'Price and book 6 day Ashnil Samburu Mara package'
+- 'Reserve 7 day Richard''''s River Camp private conservancy package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

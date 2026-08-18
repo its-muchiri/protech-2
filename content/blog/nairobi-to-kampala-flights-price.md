@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi to Kampala Flights Price: Complete Guide'
-description: Everything you need to know about nairobi to kampala flights price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about nairobi to kampala flights price, including routes, airlines, booking tips, and fares.'
 slug: nairobi-to-kampala-flights-price
-primary_keyword: nairobi to kampala flights price
+primary_keyword: 'nairobi to kampala flights price'
 secondary_keywords:
-- kq flight from nairobi to dubai price
-- flight to kenya time
-- kq flight from nairobi to london today
-- kq flight from mombasa to nairobi today
-- how much is kq flight from mombasa to nairobi
+- 'kq flight from nairobi to dubai price'
+- 'flight to kenya time'
+- 'kq flight from nairobi to london today'
+- 'kq flight from mombasa to nairobi today'
+- 'how much is kq flight from mombasa to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

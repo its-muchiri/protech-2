@@ -1,14 +1,14 @@
 ---
 title: 'Kq102 Flight Status: Complete Guide'
-description: Everything you need to know about kq102 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq102 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq102-flight-status
-primary_keyword: kq102 flight status
+primary_keyword: 'kq102 flight status'
 secondary_keywords:
-- kq flight to zimbabwe
-- kq 115 flight status
-- does kq fly to ukunda
-- kq 414 flight status
-- kq 554 flight status
+- 'kq flight to zimbabwe'
+- 'kq 115 flight status'
+- 'does kq fly to ukunda'
+- 'kq 414 flight status'
+- 'kq 554 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

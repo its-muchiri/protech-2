@@ -1,14 +1,14 @@
 ---
 title: 'Lake Magadi Day Trip Flamingo Tour Price / Road Condition: Complete Guide'
-description: Kenya safari guide covering lake magadi day trip flamingo tour price / road condition, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering lake magadi day trip flamingo tour price / road condition, including what is included, pricing, and booking advice.'
 slug: lake-magadi-day-trip-flamingo-tour-price-road-condition
-primary_keyword: Lake Magadi day trip flamingo tour price / road condition
+primary_keyword: 'Lake Magadi day trip flamingo tour price / road condition'
 secondary_keywords:
-- Amboseli Tsavo East West package booking
-- Book Kenya safari package for
-- Direct booking Kenya safari
-- Secure best price Kenya safari tour
-- Birding specialist guide package Kenya book
+- 'Amboseli Tsavo East West package booking'
+- 'Book Kenya safari package for'
+- 'Direct booking Kenya safari'
+- 'Secure best price Kenya safari tour'
+- 'Birding specialist guide package Kenya book'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

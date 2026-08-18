@@ -1,14 +1,14 @@
 ---
 title: 'Off Season Kenya Safari Deals April: Complete Guide'
-description: Kenya safari guide covering off season kenya safari deals april, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering off season kenya safari deals april, including what is included, pricing, and booking advice.'
 slug: off-season-kenya-safari-deals-april
-primary_keyword: Off season Kenya safari deals April
+primary_keyword: 'Off season Kenya safari deals April'
 secondary_keywords:
-- Tsavo East West safari rates request
-- Budget Kenya camping safari cost estimate
-- Kenya safari package deals
-- 3 day Kenya safari package deals
-- Fly-in Kenya safari package sale
+- 'Tsavo East West safari rates request'
+- 'Budget Kenya camping safari cost estimate'
+- 'Kenya safari package deals'
+- '3 day Kenya safari package deals'
+- 'Fly-in Kenya safari package sale'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

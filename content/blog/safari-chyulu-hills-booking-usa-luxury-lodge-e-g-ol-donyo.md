@@ -1,14 +1,14 @@
 ---
 title: 'Safari Chyulu Hills Booking USA Luxury Lodge (e.g., Ol Donyo): Complete Guide'
-description: Kenya safari guide covering safari chyulu hills booking usa luxury lodge (e.g., ol donyo), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering safari chyulu hills booking usa luxury lodge (e.g., ol donyo), including what is included, pricing, and booking advice.'
 slug: safari-chyulu-hills-booking-usa-luxury-lodge-e-g-ol-donyo
-primary_keyword: Safari Chyulu Hills booking USA luxury lodge (e.g., Ol Donyo)
+primary_keyword: 'Safari Chyulu Hills booking USA luxury lodge (e.g., Ol Donyo)'
 secondary_keywords:
-- 10-day Kenya safari tour cost estimate Europe
-- Luxury tented camp safari Kenya cost per person USA
-- Book Kenya conservation safari experience USA rhino focus
-- Aberdare National Park tree lodge safari booking UK
-- Kenya tour operators for UK market recommendations
+- '10-day Kenya safari tour cost estimate Europe'
+- 'Luxury tented camp safari Kenya cost per person USA'
+- 'Book Kenya conservation safari experience USA rhino focus'
+- 'Aberdare National Park tree lodge safari booking UK'
+- 'Kenya tour operators for UK market recommendations'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

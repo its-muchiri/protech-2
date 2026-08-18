@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Nairobi from Entebbe: Complete Guide'
-description: Everything you need to know about flights to nairobi from entebbe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to nairobi from entebbe, including routes, airlines, booking tips, and fares.'
 slug: flights-to-nairobi-from-entebbe
-primary_keyword: flights to nairobi from entebbe
+primary_keyword: 'flights to nairobi from entebbe'
 secondary_keywords:
-- flights from nairobi to cairo egypt
-- flights from mombasa to addis ababa
-- flights from mombasa to homa bay
-- flight from mombasa to china
-- flights from mombasa to durban
+- 'flights from nairobi to cairo egypt'
+- 'flights from mombasa to addis ababa'
+- 'flights from mombasa to homa bay'
+- 'flight from mombasa to china'
+- 'flights from mombasa to durban'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

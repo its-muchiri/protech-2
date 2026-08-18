@@ -1,14 +1,14 @@
 ---
 title: 'Are Emirates Flights from Iran Cancelled: Complete Guide'
-description: Everything you need to know about are emirates flights from iran cancelled, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about are emirates flights from iran cancelled, including routes, airlines, booking tips, and fares.'
 slug: are-emirates-flights-from-iran-cancelled
-primary_keyword: are emirates flights from iran cancelled
+primary_keyword: 'are emirates flights from iran cancelled'
 secondary_keywords:
-- kenya international flights
-- flights beirut kenya
-- cheap flights to kenya in july
-- flights to kenya from uk
-- flights nairobi to harare
+- 'kenya international flights'
+- 'flights beirut kenya'
+- 'cheap flights to kenya in july'
+- 'flights to kenya from uk'
+- 'flights nairobi to harare'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

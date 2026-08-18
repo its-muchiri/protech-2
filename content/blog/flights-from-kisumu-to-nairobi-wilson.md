@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kisumu to Nairobi Wilson: Complete Guide'
-description: Everything you need to know about flights from kisumu to nairobi wilson, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kisumu to nairobi wilson, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kisumu-to-nairobi-wilson
-primary_keyword: flights from kisumu to nairobi wilson
+primary_keyword: 'flights from kisumu to nairobi wilson'
 secondary_keywords:
-- kenya airways flight schedule nairobi to harare today
-- kenya airways flight price from nairobi to kisumu
-- kenya airways flight from mauritius to nairobi
-- flights from nairobi to ukunda kenya
-- flight from nairobi to kampala
+- 'kenya airways flight schedule nairobi to harare today'
+- 'kenya airways flight price from nairobi to kisumu'
+- 'kenya airways flight from mauritius to nairobi'
+- 'flights from nairobi to ukunda kenya'
+- 'flight from nairobi to kampala'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

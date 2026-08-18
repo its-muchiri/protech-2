@@ -1,14 +1,14 @@
 ---
 title: 'Can You Fly Direct to Mombasa: Complete Guide'
-description: Everything you need to know about can you fly direct to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about can you fly direct to mombasa, including routes, airlines, booking tips, and fares.'
 slug: can-you-fly-direct-to-mombasa
-primary_keyword: can you fly direct to mombasa
+primary_keyword: 'can you fly direct to mombasa'
 secondary_keywords:
-- kenya airways in kenya
-- local flights in kenya today
-- flights to kenya november 2025
-- qatar airways in nairobi
-- flights kenya to south africa
+- 'kenya airways in kenya'
+- 'local flights in kenya today'
+- 'flights to kenya november 2025'
+- 'qatar airways in nairobi'
+- 'flights kenya to south africa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

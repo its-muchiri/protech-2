@@ -1,14 +1,14 @@
 ---
 title: '3 Day Kenya Safari Package Deals: Complete Guide'
-description: Kenya safari guide covering 3 day kenya safari package deals, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering 3 day kenya safari package deals, including what is included, pricing, and booking advice.'
 slug: 3-day-kenya-safari-package-deals
-primary_keyword: 3 day Kenya safari package deals
+primary_keyword: '3 day Kenya safari package deals'
 secondary_keywords:
-- Aberdare National Park tree lodge safari booking UK
-- Kenya tour operators for UK market recommendations
-- Book with local Kenya safari operator direct price
-- Time-Sensitive/Urgency (Last minute, Availability, Specific dates/months)
-- Book Kenya safari for specific dates  USA
+- 'Aberdare National Park tree lodge safari booking UK'
+- 'Kenya tour operators for UK market recommendations'
+- 'Book with local Kenya safari operator direct price'
+- 'Time-Sensitive/Urgency (Last minute, Availability, Specific dates/months)'
+- 'Book Kenya safari for specific dates  USA'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

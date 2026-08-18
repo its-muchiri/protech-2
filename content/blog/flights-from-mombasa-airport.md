@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa Airport: Complete Guide'
-description: Everything you need to know about flights from mombasa airport, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa airport, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-airport
-primary_keyword: flights from mombasa airport
+primary_keyword: 'flights from mombasa airport'
 secondary_keywords:
-- uganda flights from kenya
-- cheapest flights from vilnius to nairobi kenya
-- flights from winnipeg canada to nairobi kenya
-- flights from yemen to kenya
-- flights from nairobi kenya to bulawayo zimbabwe
+- 'uganda flights from kenya'
+- 'cheapest flights from vilnius to nairobi kenya'
+- 'flights from winnipeg canada to nairobi kenya'
+- 'flights from yemen to kenya'
+- 'flights from nairobi kenya to bulawayo zimbabwe'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

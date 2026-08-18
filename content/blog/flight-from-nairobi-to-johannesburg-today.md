@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Johannesburg Today: Complete Guide'
-description: Everything you need to know about flight from nairobi to johannesburg today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to johannesburg today, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-johannesburg-today
-primary_keyword: flight from nairobi to johannesburg today
+primary_keyword: 'flight from nairobi to johannesburg today'
 secondary_keywords:
-- flight from nairobi to jfk
-- flight from nairobi to lagos
-- flight from nairobi to malindi
-- flight from nairobi to new delhi
-- cost of flight from nairobi to dubai
+- 'flight from nairobi to jfk'
+- 'flight from nairobi to lagos'
+- 'flight from nairobi to malindi'
+- 'flight from nairobi to new delhi'
+- 'cost of flight from nairobi to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

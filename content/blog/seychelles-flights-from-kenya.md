@@ -1,14 +1,14 @@
 ---
 title: 'Seychelles Flights from Kenya: Complete Guide'
-description: Everything you need to know about seychelles flights from kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about seychelles flights from kenya, including routes, airlines, booking tips, and fares.'
 slug: seychelles-flights-from-kenya
-primary_keyword: seychelles flights from kenya
+primary_keyword: 'seychelles flights from kenya'
 secondary_keywords:
-- flying from zanzibar to nairobi
-- how much flight from nairobi to dubai
-- flight 540 nairobi to malindi
-- flight from nairobi to abuja
-- turkish airlines nairobi email address
+- 'flying from zanzibar to nairobi'
+- 'how much flight from nairobi to dubai'
+- 'flight 540 nairobi to malindi'
+- 'flight from nairobi to abuja'
+- 'turkish airlines nairobi email address'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

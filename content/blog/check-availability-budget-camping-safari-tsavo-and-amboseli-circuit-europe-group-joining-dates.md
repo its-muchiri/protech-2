@@ -1,14 +1,14 @@
 ---
 title: 'Check Availability Budget Camping Safari Tsavo & Amboseli Circuit Europe Group Joining Dates: Complete Guide'
-description: Kenya safari guide covering check availability budget camping safari tsavo & amboseli circuit europe group joining dates, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering check availability budget camping safari tsavo & amboseli circuit europe group joining dates, including what is included, pricing, and booking advice.'
 slug: check-availability-budget-camping-safari-tsavo-and-amboseli-circuit-europe-group-joining-dates
-primary_keyword: Check availability budget camping safari Tsavo & Amboseli circuit Europe group joining dates
+primary_keyword: 'Check availability budget camping safari Tsavo & Amboseli circuit Europe group joining dates'
 secondary_keywords:
-- Samburu cultural village visit tour package
-- Kiambethu Tea Farm tour Limuru booking / price from Nairobi / Thika
-- Gamewatchers Safaris Porini Camps price / reviews
-- Kenya tour package cancellation policy refund options
-- Internal flights Kenya Safarilink / AirKenya schedule / price
+- 'Samburu cultural village visit tour package'
+- 'Kiambethu Tea Farm tour Limuru booking / price from Nairobi / Thika'
+- 'Gamewatchers Safaris Porini Camps price / reviews'
+- 'Kenya tour package cancellation policy refund options'
+- 'Internal flights Kenya Safarilink / AirKenya schedule / price'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

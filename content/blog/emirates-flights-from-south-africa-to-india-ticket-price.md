@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from South Africa to India Ticket Price: Complete Guide'
-description: Everything you need to know about emirates flights from south africa to india ticket price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from south africa to india ticket price, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-south-africa-to-india-ticket-price
-primary_keyword: emirates flights from south africa to india ticket price
+primary_keyword: 'emirates flights from south africa to india ticket price'
 secondary_keywords:
-- flight from nairobi to eldoret
-- air arabia flight from nairobi to sharjah
-- book flight from nairobi to kisumu
-- flight from nairobi to cape verde
-- flight from nairobi to dadaab
+- 'flight from nairobi to eldoret'
+- 'air arabia flight from nairobi to sharjah'
+- 'book flight from nairobi to kisumu'
+- 'flight from nairobi to cape verde'
+- 'flight from nairobi to dadaab'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

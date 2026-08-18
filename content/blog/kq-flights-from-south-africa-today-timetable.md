@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from South Africa Today Timetable: Complete Guide'
-description: Everything you need to know about kq flights from south africa today timetable, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from south africa today timetable, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-south-africa-today-timetable
-primary_keyword: kq flights from south africa today timetable
+primary_keyword: 'kq flights from south africa today timetable'
 secondary_keywords:
-- flights from riyadh to nairobi
-- skyward flights from nairobi to mombasa
-- uganda airlines flights from nairobi to entebbe today
-- flights from nairobi wilson to diani beach
-- cheap flights from nairobi to amsterdam
+- 'flights from riyadh to nairobi'
+- 'skyward flights from nairobi to mombasa'
+- 'uganda airlines flights from nairobi to entebbe today'
+- 'flights from nairobi wilson to diani beach'
+- 'cheap flights from nairobi to amsterdam'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

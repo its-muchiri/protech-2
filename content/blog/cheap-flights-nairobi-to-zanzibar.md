@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights Nairobi to Zanzibar: Complete Guide'
-description: Everything you need to know about cheap flights nairobi to zanzibar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights nairobi to zanzibar, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-nairobi-to-zanzibar
-primary_keyword: cheap flights nairobi to zanzibar
+primary_keyword: 'cheap flights nairobi to zanzibar'
 secondary_keywords:
-- kq flight lhr to nbo
-- kq mayfly flight schedule
-- kq flight offers
-- kq 205 flight review
-- tanzania cancels kq flights
+- 'kq flight lhr to nbo'
+- 'kq mayfly flight schedule'
+- 'kq flight offers'
+- 'kq 205 flight review'
+- 'tanzania cancels kq flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

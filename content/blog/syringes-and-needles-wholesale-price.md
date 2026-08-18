@@ -1,14 +1,14 @@
 ---
 title: 'Syringes and Needles Wholesale Price: 2026 Price Guide'
-description: Kenya buying guide to syringes and needles wholesale price. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to syringes and needles wholesale price. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: syringes-and-needles-wholesale-price
-primary_keyword: Syringes and needles wholesale price
+primary_keyword: 'Syringes and needles wholesale price'
 secondary_keywords:
-- eye clinic equipment Kenya
-- home health medical devices Kenya
-- Low-dose CT scanner for lung screening price in Nairobi
-- Chison ultrasound machine price in Kenya
-- 3.0T MRI machine cost for a hospital in Nairobi
+- 'eye clinic equipment Kenya'
+- 'home health medical devices Kenya'
+- 'Low-dose CT scanner for lung screening price in Nairobi'
+- 'Chison ultrasound machine price in Kenya'
+- '3.0T MRI machine cost for a hospital in Nairobi'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

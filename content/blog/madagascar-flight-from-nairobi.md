@@ -1,14 +1,14 @@
 ---
 title: 'Madagascar Flight from Nairobi: Complete Guide'
-description: Everything you need to know about madagascar flight from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about madagascar flight from nairobi, including routes, airlines, booking tips, and fares.'
 slug: madagascar-flight-from-nairobi
-primary_keyword: madagascar flight from nairobi
+primary_keyword: 'madagascar flight from nairobi'
 secondary_keywords:
-- emirates direct flights from new york
-- emirates flights to new zealand from sydney
-- emirates flight 17
-- emirates airline 2 letter code
-- what planes do emirates use
+- 'emirates direct flights from new york'
+- 'emirates flights to new zealand from sydney'
+- 'emirates flight 17'
+- 'emirates airline 2 letter code'
+- 'what planes do emirates use'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

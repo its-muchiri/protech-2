@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Luxembourg: Complete Guide'
-description: Everything you need to know about flights from kenya to luxembourg, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to luxembourg, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-luxembourg
-primary_keyword: flights from kenya to luxembourg
+primary_keyword: 'flights from kenya to luxembourg'
 secondary_keywords:
-- kenya airways flight from nairobi to kampala ticket price
-- kenya airways flight from mauritius to nairobi today
-- kenya airways flight schedule from dubai to nairobi
-- flight from nairobi to south africa
-- air india flight from nairobi to mumbai
+- 'kenya airways flight from nairobi to kampala ticket price'
+- 'kenya airways flight from mauritius to nairobi today'
+- 'kenya airways flight schedule from dubai to nairobi'
+- 'flight from nairobi to south africa'
+- 'air india flight from nairobi to mumbai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

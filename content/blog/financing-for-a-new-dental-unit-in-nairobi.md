@@ -1,14 +1,14 @@
 ---
 title: 'Financing for a New Dental Unit in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to financing for a new dental unit in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to financing for a new dental unit in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: financing-for-a-new-dental-unit-in-nairobi
-primary_keyword: Financing for a new dental unit in Nairobi
+primary_keyword: 'Financing for a new dental unit in Nairobi'
 secondary_keywords:
-- umbilical cord clamps Kenya
-- body bags Kenya supplier
-- blood sugar strips Kenya
-- clinical waste bags Kenya
-- cytology supplies Kenya
+- 'umbilical cord clamps Kenya'
+- 'body bags Kenya supplier'
+- 'blood sugar strips Kenya'
+- 'clinical waste bags Kenya'
+- 'cytology supplies Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

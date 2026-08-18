@@ -1,14 +1,14 @@
 ---
 title: 'Kq Direct Flight from Kenya to Usa: Complete Guide'
-description: Everything you need to know about kq direct flight from kenya to usa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq direct flight from kenya to usa, including routes, airlines, booking tips, and fares.'
 slug: kq-direct-flight-from-kenya-to-usa
-primary_keyword: kq direct flight from kenya to usa
+primary_keyword: 'kq direct flight from kenya to usa'
 secondary_keywords:
-- emirates flights from heathrow terminal
-- emirates flights from iad today
-- emirates flights from johannesburg to delhi
-- flights from kuwait city to dubai united arab emirates
-- emirates flights from manchester
+- 'emirates flights from heathrow terminal'
+- 'emirates flights from iad today'
+- 'emirates flights from johannesburg to delhi'
+- 'flights from kuwait city to dubai united arab emirates'
+- 'emirates flights from manchester'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

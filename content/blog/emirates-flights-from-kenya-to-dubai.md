@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Kenya to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from kenya to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from kenya to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-kenya-to-dubai
-primary_keyword: emirates flights from kenya to dubai
+primary_keyword: 'emirates flights from kenya to dubai'
 secondary_keywords:
-- how much is emirates flight from kenya to dubai
-- emirates store kenya
-- ethiopian airlines flight schedule from nairobi
-- ethiopian airlines from nairobi to cape town
-- ethiopian airlines from nairobi to johannesburg
+- 'how much is emirates flight from kenya to dubai'
+- 'emirates store kenya'
+- 'ethiopian airlines flight schedule from nairobi'
+- 'ethiopian airlines from nairobi to cape town'
+- 'ethiopian airlines from nairobi to johannesburg'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

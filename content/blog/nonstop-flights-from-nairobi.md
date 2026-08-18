@@ -1,14 +1,14 @@
 ---
 title: 'Nonstop Flights from Nairobi: Complete Guide'
-description: Everything you need to know about nonstop flights from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about nonstop flights from nairobi, including routes, airlines, booking tips, and fares.'
 slug: nonstop-flights-from-nairobi
-primary_keyword: nonstop flights from nairobi
+primary_keyword: 'nonstop flights from nairobi'
 secondary_keywords:
-- kq 0202 flight status
-- kq116 flight status
-- kq 275
-- kq 415 flight status
-- kq 609 flight status
+- 'kq 0202 flight status'
+- 'kq116 flight status'
+- 'kq 275'
+- 'kq 415 flight status'
+- 'kq 609 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

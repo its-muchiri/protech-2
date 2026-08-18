@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Tour Operator Reviews Tripadvisor: Complete Guide'
-description: Kenya safari guide covering kenya safari tour operator reviews tripadvisor, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari tour operator reviews tripadvisor, including what is included, pricing, and booking advice.'
 slug: kenya-safari-tour-operator-reviews-tripadvisor
-primary_keyword: Kenya safari tour operator reviews Tripadvisor
+primary_keyword: 'Kenya safari tour operator reviews Tripadvisor'
 secondary_keywords:
-- Secure 6 day Saruni Samburu lodge package deal
-- Buy exclusive use safari lodge package Kenya family
-- Get best available rate Kenya safari package 5 days book
-- Kenya travel consultants Nairobi
-- Nairobi NP game drive operators
+- 'Secure 6 day Saruni Samburu lodge package deal'
+- 'Buy exclusive use safari lodge package Kenya family'
+- 'Get best available rate Kenya safari package 5 days book'
+- 'Kenya travel consultants Nairobi'
+- 'Nairobi NP game drive operators'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

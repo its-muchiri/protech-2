@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Cape Town to Dubai Prices: Complete Guide'
-description: Everything you need to know about emirates flights from cape town to dubai prices, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from cape town to dubai prices, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-cape-town-to-dubai-prices
-primary_keyword: emirates flights from cape town to dubai prices
+primary_keyword: 'emirates flights from cape town to dubai prices'
 secondary_keywords:
-- qatar flights to nairobi today
-- nairobi to rome flights
-- flights nairobi to tel aviv
-- nairobi to uganda flights
-- flights nairobi to watamu
+- 'qatar flights to nairobi today'
+- 'nairobi to rome flights'
+- 'flights nairobi to tel aviv'
+- 'nairobi to uganda flights'
+- 'flights nairobi to watamu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

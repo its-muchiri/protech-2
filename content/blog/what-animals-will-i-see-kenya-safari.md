@@ -1,14 +1,14 @@
 ---
 title: 'What Animals Will I See Kenya Safari: Complete Guide'
-description: Kenya safari guide covering what animals will i see kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering what animals will i see kenya safari, including what is included, pricing, and booking advice.'
 slug: what-animals-will-i-see-kenya-safari
-primary_keyword: What animals will I see Kenya safari
+primary_keyword: 'What animals will I see Kenya safari'
 secondary_keywords:
-- Local tour companies Thika Kenya
-- Tsavo East budget safari company Diani
-- Malindi travel agency beach holidays
-- Private guided tours Kenya
-- Mount Kenya technical climbing guides
+- 'Local tour companies Thika Kenya'
+- 'Tsavo East budget safari company Diani'
+- 'Malindi travel agency beach holidays'
+- 'Private guided tours Kenya'
+- 'Mount Kenya technical climbing guides'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

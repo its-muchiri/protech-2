@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight Quality: Complete Guide'
-description: Everything you need to know about emirates flight quality, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight quality, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-quality
-primary_keyword: emirates flight quality
+primary_keyword: 'emirates flight quality'
 secondary_keywords:
-- flights from isiolo to mombasa
-- flights from mombasa kenya to nairobi kenya
-- flights leaving mombasa to zanzibar direct
-- flights from mombasa to maasai mara
-- flights from nairobi to mombasa prices today
+- 'flights from isiolo to mombasa'
+- 'flights from mombasa kenya to nairobi kenya'
+- 'flights leaving mombasa to zanzibar direct'
+- 'flights from mombasa to maasai mara'
+- 'flights from nairobi to mombasa prices today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

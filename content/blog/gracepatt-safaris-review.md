@@ -1,14 +1,14 @@
 ---
 title: 'Gracepatt Safaris Review: Complete Guide'
-description: Kenya safari guide covering gracepatt safaris review, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering gracepatt safaris review, including what is included, pricing, and booking advice.'
 slug: gracepatt-safaris-review
-primary_keyword: Gracepatt Safaris review
+primary_keyword: 'Gracepatt Safaris review'
 secondary_keywords:
-- Reserve spot Kenya group safari
-- Book 9 day Kenya wildlife safari package
-- Lake Nakuru flamingo safari package price
-- Luxury Masai Mara safari deals
-- Kenya luxury honeymoon safari package
+- 'Reserve spot Kenya group safari'
+- 'Book 9 day Kenya wildlife safari package'
+- 'Lake Nakuru flamingo safari package price'
+- 'Luxury Masai Mara safari deals'
+- 'Kenya luxury honeymoon safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

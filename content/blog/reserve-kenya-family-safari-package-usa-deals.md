@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Kenya Family Safari Package USA Deals: Complete Guide'
-description: Kenya safari guide covering reserve kenya family safari package usa deals, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve kenya family safari package usa deals, including what is included, pricing, and booking advice.'
 slug: reserve-kenya-family-safari-package-usa-deals
-primary_keyword: Reserve Kenya family safari package USA deals
+primary_keyword: 'Reserve Kenya family safari package USA deals'
 secondary_keywords:
-- Meru National Park safari
-- Kenya parks safari tour
-- Kenya birding tour
-- Self-drive Kenya safari (less common, more complex)
-- Senior citizen Kenya safari
+- 'Meru National Park safari'
+- 'Kenya parks safari tour'
+- 'Kenya birding tour'
+- 'Self-drive Kenya safari (less common, more complex)'
+- 'Senior citizen Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

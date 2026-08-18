@@ -1,14 +1,14 @@
 ---
 title: 'Flight to Nairobi Time: Complete Guide'
-description: Everything you need to know about flight to nairobi time, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight to nairobi time, including routes, airlines, booking tips, and fares.'
 slug: flight-to-nairobi-time
-primary_keyword: flight to nairobi time
+primary_keyword: 'flight to nairobi time'
 secondary_keywords:
-- is kenya airport open now
-- does united airlines fly to kenya
-- flights to zimbabwe from nairobi
-- flights from kenya to china
-- are there direct flights from kenya to germany
+- 'is kenya airport open now'
+- 'does united airlines fly to kenya'
+- 'flights to zimbabwe from nairobi'
+- 'flights from kenya to china'
+- 'are there direct flights from kenya to germany'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

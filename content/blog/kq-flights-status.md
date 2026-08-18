@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights Status: Complete Guide'
-description: Everything you need to know about kq flights status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights status, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-status
-primary_keyword: kq flights status
+primary_keyword: 'kq flights status'
 secondary_keywords:
-- kq116 flight status
-- kq 275
-- kq 415 flight status
-- kq 609 flight status
-- kq 887
+- 'kq116 flight status'
+- 'kq 275'
+- 'kq 415 flight status'
+- 'kq 609 flight status'
+- 'kq 887'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

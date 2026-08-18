@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Edinburgh: Complete Guide'
-description: Everything you need to know about flights nairobi to edinburgh, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to edinburgh, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-edinburgh
-primary_keyword: flights nairobi to edinburgh
+primary_keyword: 'flights nairobi to edinburgh'
 secondary_keywords:
-- flights from kenya to fiji
-- flight from kenya to ghana today
-- flights from kenya to hawaii
-- flight from kenya to italy
-- flights from kenya to jfk
+- 'flights from kenya to fiji'
+- 'flight from kenya to ghana today'
+- 'flights from kenya to hawaii'
+- 'flight from kenya to italy'
+- 'flights from kenya to jfk'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

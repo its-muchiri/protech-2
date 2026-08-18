@@ -1,14 +1,14 @@
 ---
 title: 'Buy Kenya Safari App Guide Download Purchase Recommendations Offline Maps Features: Complete Guide'
-description: Kenya safari guide covering buy kenya safari app guide download purchase recommendations offline maps features, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy kenya safari app guide download purchase recommendations offline maps features, including what is included, pricing, and booking advice.'
 slug: buy-kenya-safari-app-guide-download-purchase-recommendations-offline-maps-features
-primary_keyword: Buy Kenya safari app guide download purchase recommendations offline maps features
+primary_keyword: 'Buy Kenya safari app guide download purchase recommendations offline maps features'
 secondary_keywords:
-- Affordable 7 day camping safari Kenya Tanzania migration season
-- KATO operator for accessible safari van hire Nairobi
-- Reserve Kenya safari online booking
-- Book Naivasha boat safari package
-- Secure 6 day Samburu Nakuru safari booking
+- 'Affordable 7 day camping safari Kenya Tanzania migration season'
+- 'KATO operator for accessible safari van hire Nairobi'
+- 'Reserve Kenya safari online booking'
+- 'Book Naivasha boat safari package'
+- 'Secure 6 day Samburu Nakuru safari booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

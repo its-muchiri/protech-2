@@ -1,14 +1,14 @@
 ---
 title: 'Fly Camp Accommodation Kenya: Complete Guide'
-description: Kenya safari guide covering fly camp accommodation kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering fly camp accommodation kenya, including what is included, pricing, and booking advice.'
 slug: fly-camp-accommodation-kenya
-primary_keyword: Fly camp accommodation Kenya
+primary_keyword: 'Fly camp accommodation Kenya'
 secondary_keywords:
-- Finch Hattons Tsavo luxury package quote
-- Private Kenya honeymoon safari quote
-- Overland truck safari Kenya package price
-- Tsavo Mombasa beach safari package quote
-- September Kenya migration safari cost
+- 'Finch Hattons Tsavo luxury package quote'
+- 'Private Kenya honeymoon safari quote'
+- 'Overland truck safari Kenya package price'
+- 'Tsavo Mombasa beach safari package quote'
+- 'September Kenya migration safari cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

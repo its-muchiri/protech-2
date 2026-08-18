@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight from Kenya to Uk: Complete Guide'
-description: Everything you need to know about emirates flight from kenya to uk, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight from kenya to uk, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-from-kenya-to-uk
-primary_keyword: emirates flight from kenya to uk
+primary_keyword: 'emirates flight from kenya to uk'
 secondary_keywords:
-- cheapest flights from nairobi to mombasa
-- flights from nairobi to ahmedabad
-- flights from nairobi to berlin germany
-- flights from nairobi to cairo
-- flights from nairobi to dar es salaam
+- 'cheapest flights from nairobi to mombasa'
+- 'flights from nairobi to ahmedabad'
+- 'flights from nairobi to berlin germany'
+- 'flights from nairobi to cairo'
+- 'flights from nairobi to dar es salaam'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

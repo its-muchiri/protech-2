@@ -1,14 +1,14 @@
 ---
 title: 'Central Monitoring Station for ICU Cost: 2026 Price Guide'
-description: Kenya buying guide to central monitoring station for icu cost. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to central monitoring station for icu cost. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: central-monitoring-station-for-icu-cost
-primary_keyword: Central monitoring station for ICU cost
+primary_keyword: 'Central monitoring station for ICU cost'
 secondary_keywords:
-- DR panel for X-ray machine cost in Kenya
-- Used Philips MRI for sale in Nairobi
-- 3-part hematology analyzer for sale in Nairobi
-- Trinocular microscope for laboratory use in Nairobi
-- Spectrophotometer price in Kenya
+- 'DR panel for X-ray machine cost in Kenya'
+- 'Used Philips MRI for sale in Nairobi'
+- '3-part hematology analyzer for sale in Nairobi'
+- 'Trinocular microscope for laboratory use in Nairobi'
+- 'Spectrophotometer price in Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

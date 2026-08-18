@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Lusaka: Complete Guide'
-description: Everything you need to know about flight from nairobi to lusaka, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to lusaka, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-lusaka
-primary_keyword: flight from nairobi to lusaka
+primary_keyword: 'flight from nairobi to lusaka'
 secondary_keywords:
-- kenya airways flight 507
-- flight from nairobi to ahmedabad
-- flight from nairobi to bali
-- flight from nairobi to cape town
-- cheapest flight from nairobi to eldoret
+- 'kenya airways flight 507'
+- 'flight from nairobi to ahmedabad'
+- 'flight from nairobi to bali'
+- 'flight from nairobi to cape town'
+- 'cheapest flight from nairobi to eldoret'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

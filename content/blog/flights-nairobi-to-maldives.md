@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Maldives: Complete Guide'
-description: Everything you need to know about flights nairobi to maldives, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to maldives, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-maldives
-primary_keyword: flights nairobi to maldives
+primary_keyword: 'flights nairobi to maldives'
 secondary_keywords:
-- qantas points from emirates flights
-- are emirates flights from uk to dubai cancelled
-- emirates flights from tehran
-- emirates flights from us to europe
-- emirates flights from warsaw to dubai
+- 'qantas points from emirates flights'
+- 'are emirates flights from uk to dubai cancelled'
+- 'emirates flights from tehran'
+- 'emirates flights from us to europe'
+- 'emirates flights from warsaw to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

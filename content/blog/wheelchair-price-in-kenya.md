@@ -1,14 +1,14 @@
 ---
 title: 'Wheelchair Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to wheelchair price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to wheelchair price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: wheelchair-price-in-kenya
-primary_keyword: Wheelchair price in Kenya
+primary_keyword: 'Wheelchair price in Kenya'
 secondary_keywords:
-- examination tables Kenya price
-- mechanical ventilator Kenya
-- phototherapy units Kenya
-- emergency trolleys Kenya
-- medicine cabinets Kenya
+- 'examination tables Kenya price'
+- 'mechanical ventilator Kenya'
+- 'phototherapy units Kenya'
+- 'emergency trolleys Kenya'
+- 'medicine cabinets Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

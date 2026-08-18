@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Nairobi from Manchester: Complete Guide'
-description: Everything you need to know about flights to nairobi from manchester, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to nairobi from manchester, including routes, airlines, booking tips, and fares.'
 slug: flights-to-nairobi-from-manchester
-primary_keyword: flights to nairobi from manchester
+primary_keyword: 'flights to nairobi from manchester'
 secondary_keywords:
-- emirates flights to pakistan from birmingham
-- emirates flights from dublin
-- emirates flights from edinburgh today
-- fly emirates flights from dubai
-- emirates flights from gatwick today
+- 'emirates flights to pakistan from birmingham'
+- 'emirates flights from dublin'
+- 'emirates flights from edinburgh today'
+- 'fly emirates flights from dubai'
+- 'emirates flights from gatwick today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

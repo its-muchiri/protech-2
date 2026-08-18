@@ -1,14 +1,14 @@
 ---
 title: '14 Day Kenya Tanzania Combined Safari Operators: Complete Guide'
-description: Kenya safari guide covering 14 day kenya tanzania combined safari operators, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering 14 day kenya tanzania combined safari operators, including what is included, pricing, and booking advice.'
 slug: 14-day-kenya-tanzania-combined-safari-operators
-primary_keyword: 14 day Kenya Tanzania combined safari operators
+primary_keyword: '14 day Kenya Tanzania combined safari operators'
 secondary_keywords:
-- Budget Kenya camping safari cost estimate
-- Kenya safari package deals
-- 3 day Kenya safari package deals
-- Fly-in Kenya safari package sale
-- Ol Pejeta family safari itinerary price
+- 'Budget Kenya camping safari cost estimate'
+- 'Kenya safari package deals'
+- '3 day Kenya safari package deals'
+- 'Fly-in Kenya safari package sale'
+- 'Ol Pejeta family safari itinerary price'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

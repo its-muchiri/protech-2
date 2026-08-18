@@ -1,14 +1,14 @@
 ---
 title: 'Bubble CPAP Machine for Neonates: 2026 Price Guide'
-description: Kenya buying guide to bubble cpap machine for neonates. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to bubble cpap machine for neonates. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: bubble-cpap-machine-for-neonates
-primary_keyword: Bubble CPAP machine for neonates
+primary_keyword: 'Bubble CPAP machine for neonates'
 secondary_keywords:
-- Baby cot and bassinet for hospital maternity ward
-- Medical oxygen concentrator (10L) price in Nairobi
-- Dental OPG machine for sale in Mombasa
-- Auto refractometer and keratometer cost
-- Medical Consumables & Disposables
+- 'Baby cot and bassinet for hospital maternity ward'
+- 'Medical oxygen concentrator (10L) price in Nairobi'
+- 'Dental OPG machine for sale in Mombasa'
+- 'Auto refractometer and keratometer cost'
+- 'Medical Consumables & Disposables'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

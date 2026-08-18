@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Bali: Complete Guide'
-description: Everything you need to know about flights nairobi to bali, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to bali, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-bali
-primary_keyword: flights nairobi to bali
+primary_keyword: 'flights nairobi to bali'
 secondary_keywords:
-- emirates flight 0406
-- emirates flight 206 from jfk
-- emirates flight 332
-- emirates flight 407 pilots
-- emirates flight 501
+- 'emirates flight 0406'
+- 'emirates flight 206 from jfk'
+- 'emirates flight 332'
+- 'emirates flight 407 pilots'
+- 'emirates flight 501'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

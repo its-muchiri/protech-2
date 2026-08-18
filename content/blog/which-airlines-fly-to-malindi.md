@@ -1,14 +1,14 @@
 ---
 title: 'Which Airlines Fly to Malindi: Complete Guide'
-description: Everything you need to know about which airlines fly to malindi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about which airlines fly to malindi, including routes, airlines, booking tips, and fares.'
 slug: which-airlines-fly-to-malindi
-primary_keyword: which airlines fly to malindi
+primary_keyword: 'which airlines fly to malindi'
 secondary_keywords:
-- emirates flight 777 300er seating
-- emirates ek 8
-- how long is flight from nairobi to qatar
-- does qatar airways fly direct to toronto
-- qatar airways frankfurt nairobi
+- 'emirates flight 777 300er seating'
+- 'emirates ek 8'
+- 'how long is flight from nairobi to qatar'
+- 'does qatar airways fly direct to toronto'
+- 'qatar airways frankfurt nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Best Value Kenya Tour Operators: Complete Guide'
-description: Kenya safari guide covering best value kenya tour operators, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering best value kenya tour operators, including what is included, pricing, and booking advice.'
 slug: best-value-kenya-tour-operators
-primary_keyword: Best value Kenya tour operators
+primary_keyword: 'Best value Kenya tour operators'
 secondary_keywords:
-- Book luxury Kenya safari package
-- Bespoke Kenya luxury safari operator
-- Couples safari package Kenya reserve
-- Affordable 7 day Kenya safari booking
-- Masai Mara Lake Nakuru safari package deal
+- 'Book luxury Kenya safari package'
+- 'Bespoke Kenya luxury safari operator'
+- 'Couples safari package Kenya reserve'
+- 'Affordable 7 day Kenya safari booking'
+- 'Masai Mara Lake Nakuru safari package deal'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

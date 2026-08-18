@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Uk to South Africa: Complete Guide'
-description: Everything you need to know about emirates flights from uk to south africa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from uk to south africa, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-uk-to-south-africa
-primary_keyword: emirates flights from uk to south africa
+primary_keyword: 'emirates flights from uk to south africa'
 secondary_keywords:
-- kq flying blue login
-- kq flight change
-- kq flight destinations
-- kq flights to entebbe
-- kq flights to harare
+- 'kq flying blue login'
+- 'kq flight change'
+- 'kq flight destinations'
+- 'kq flights to entebbe'
+- 'kq flights to harare'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

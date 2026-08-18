@@ -1,14 +1,14 @@
 ---
 title: 'Kq 609 Flight Status: Complete Guide'
-description: Everything you need to know about kq 609 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 609 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq-609-flight-status
-primary_keyword: kq 609 flight status
+primary_keyword: 'kq 609 flight status'
 secondary_keywords:
-- emirates flights to bali from uk
-- emirates flights from dubai to nairobi
-- emirates flights from europe
-- emirates flights for pakistan
-- emirates flights from glasgow to abu dhabi
+- 'emirates flights to bali from uk'
+- 'emirates flights from dubai to nairobi'
+- 'emirates flights from europe'
+- 'emirates flights for pakistan'
+- 'emirates flights from glasgow to abu dhabi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

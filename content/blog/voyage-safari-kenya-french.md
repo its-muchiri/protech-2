@@ -1,14 +1,14 @@
 ---
 title: 'Voyage Safari Kenya (French): Complete Guide'
-description: Kenya safari guide covering voyage safari kenya (french), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering voyage safari kenya (french), including what is included, pricing, and booking advice.'
 slug: voyage-safari-kenya-french
-primary_keyword: Voyage safari Kenya (French)
+primary_keyword: 'Voyage safari Kenya (French)'
 secondary_keywords:
-- Book scientific research participation safari package (niche)
-- Sustainable tour operators Kenya
-- Samburu National Reserve tour packages
-- Meru National Park safari companies
-- Solo traveler tours Kenya safe operators
+- 'Book scientific research participation safari package (niche)'
+- 'Sustainable tour operators Kenya'
+- 'Samburu National Reserve tour packages'
+- 'Meru National Park safari companies'
+- 'Solo traveler tours Kenya safe operators'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

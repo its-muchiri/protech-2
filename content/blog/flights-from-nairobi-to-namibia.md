@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Namibia: Complete Guide'
-description: Everything you need to know about flights from nairobi to namibia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to namibia, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-namibia
-primary_keyword: flights from nairobi to namibia
+primary_keyword: 'flights from nairobi to namibia'
 secondary_keywords:
-- emirates lounge kenya
-- fly emirates kenya contacts
-- how far is ethiopia from kenya by plane
-- ethiopian airlines contact nairobi telephone number
-- jambojet flight from nairobi to kisumu
+- 'emirates lounge kenya'
+- 'fly emirates kenya contacts'
+- 'how far is ethiopia from kenya by plane'
+- 'ethiopian airlines contact nairobi telephone number'
+- 'jambojet flight from nairobi to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

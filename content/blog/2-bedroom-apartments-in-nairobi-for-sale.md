@@ -1,14 +1,14 @@
 ---
 title: '2 Bedroom Apartments in Nairobi for Sale: Complete Guide'
-description: Everything you need to know about 2 bedroom apartments in nairobi for sale, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about 2 bedroom apartments in nairobi for sale, including routes, airlines, booking tips, and fares.'
 slug: 2-bedroom-apartments-in-nairobi-for-sale
-primary_keyword: 2 bedroom apartments in nairobi for sale
+primary_keyword: '2 bedroom apartments in nairobi for sale'
 secondary_keywords:
-- flights from nairobi to namibia
-- flights from nairobi to oman
-- flights from nairobi to philippines
-- qatar flight from nairobi to doha
-- flights from riyadh to nairobi
+- 'flights from nairobi to namibia'
+- 'flights from nairobi to oman'
+- 'flights from nairobi to philippines'
+- 'qatar flight from nairobi to doha'
+- 'flights from riyadh to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

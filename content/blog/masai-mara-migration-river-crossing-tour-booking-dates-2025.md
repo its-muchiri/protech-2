@@ -1,14 +1,14 @@
 ---
 title: 'Masai Mara Migration River Crossing Tour Booking Dates 2025: Complete Guide'
-description: Kenya safari guide covering masai mara migration river crossing tour booking dates 2025, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering masai mara migration river crossing tour booking dates 2025, including what is included, pricing, and booking advice.'
 slug: masai-mara-migration-river-crossing-tour-booking-dates-2025
-primary_keyword: Masai Mara migration river crossing tour booking dates 2025
+primary_keyword: 'Masai Mara migration river crossing tour booking dates 2025'
 secondary_keywords:
-- Purchase Kenya safari star gazing experience package USA dark sky locations lodges booking
-- Reserve Olorgesailie Prehistoric Site tour safari add-on Kenya Europe archaeology enthusiasts booking
-- See Kenya safari
-- Meru National Park safari
-- Kenya parks safari tour
+- 'Purchase Kenya safari star gazing experience package USA dark sky locations lodges booking'
+- 'Reserve Olorgesailie Prehistoric Site tour safari add-on Kenya Europe archaeology enthusiasts booking'
+- 'See Kenya safari'
+- 'Meru National Park safari'
+- 'Kenya parks safari tour'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

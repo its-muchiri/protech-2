@@ -1,14 +1,14 @@
 ---
 title: 'Spine Board and Cervical Collar for First Aid: 2026 Price Guide'
-description: Kenya buying guide to spine board and cervical collar for first aid. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to spine board and cervical collar for first aid. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: spine-board-and-cervical-collar-for-first-aid
-primary_keyword: Spine board and cervical collar for first aid
+primary_keyword: 'Spine board and cervical collar for first aid'
 secondary_keywords:
-- Ambulance equipment and supplies list
-- ENT treatment unit price in Kenya
-- Medical gowns and drapes suppliers
-- Bone saw for postmortem
-- Hospital management software in Kenya
+- 'Ambulance equipment and supplies list'
+- 'ENT treatment unit price in Kenya'
+- 'Medical gowns and drapes suppliers'
+- 'Bone saw for postmortem'
+- 'Hospital management software in Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

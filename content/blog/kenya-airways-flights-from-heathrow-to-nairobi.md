@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights from Heathrow to Nairobi: Complete Guide'
-description: Everything you need to know about kenya airways flights from heathrow to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights from heathrow to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-from-heathrow-to-nairobi
-primary_keyword: kenya airways flights from heathrow to nairobi
+primary_keyword: 'kenya airways flights from heathrow to nairobi'
 secondary_keywords:
-- emirates flight status contact number
-- emirates flights from south africa to india ticket price
-- emirates flights from tehran today
-- emirates flights from vienna to dubai
-- emirates flights from which terminal in dubai
+- 'emirates flight status contact number'
+- 'emirates flights from south africa to india ticket price'
+- 'emirates flights from tehran today'
+- 'emirates flights from vienna to dubai'
+- 'emirates flights from which terminal in dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

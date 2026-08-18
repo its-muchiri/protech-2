@@ -1,14 +1,14 @@
 ---
 title: 'Hematology Analyzer Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to hematology analyzer price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to hematology analyzer price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: hematology-analyzer-price-in-kenya
-primary_keyword: Hematology analyzer price in Kenya
+primary_keyword: 'Hematology analyzer price in Kenya'
 secondary_keywords:
-- Oxygen concentrator for home use rental in Nairobi
-- Ultrasound gel and ECG paper price
-- Hospital CSSD design and setup services
-- Mobile clinic fabrication cost in Kenya
-- Body composition analyzer for wellness clinic
+- 'Oxygen concentrator for home use rental in Nairobi'
+- 'Ultrasound gel and ECG paper price'
+- 'Hospital CSSD design and setup services'
+- 'Mobile clinic fabrication cost in Kenya'
+- 'Body composition analyzer for wellness clinic'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

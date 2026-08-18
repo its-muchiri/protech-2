@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kolkata to Dubai by Emirates: Complete Guide'
-description: Everything you need to know about flights from kolkata to dubai by emirates, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kolkata to dubai by emirates, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kolkata-to-dubai-by-emirates
-primary_keyword: flights from kolkata to dubai by emirates
+primary_keyword: 'flights from kolkata to dubai by emirates'
 secondary_keywords:
-- british airways boarding rules
-- flights to kisumu from entebbe uganda
-- flight from kisumu to kigali
-- flights from kisumu to migori
-- safarilink flights from kisumu to nairobi today timetable
+- 'british airways boarding rules'
+- 'flights to kisumu from entebbe uganda'
+- 'flight from kisumu to kigali'
+- 'flights from kisumu to migori'
+- 'safarilink flights from kisumu to nairobi today timetable'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

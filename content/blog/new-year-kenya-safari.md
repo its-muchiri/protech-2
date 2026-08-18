@@ -1,14 +1,14 @@
 ---
 title: 'New Year Kenya Safari: Complete Guide'
-description: Kenya safari guide covering new year kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering new year kenya safari, including what is included, pricing, and booking advice.'
 slug: new-year-kenya-safari
-primary_keyword: New Year Kenya safari
+primary_keyword: 'New Year Kenya safari'
 secondary_keywords:
-- Shaba National Reserve safari package Europe cost
-- Kenya visa and safari package USA citizen assistance
-- Luxury Kenya safari company USA quote bespoke tours
-- Kenya safari availability August 2025 USA booking confirmation
-- Need fast quote Kenya safari booking UK urgent
+- 'Shaba National Reserve safari package Europe cost'
+- 'Kenya visa and safari package USA citizen assistance'
+- 'Luxury Kenya safari company USA quote bespoke tours'
+- 'Kenya safari availability August 2025 USA booking confirmation'
+- 'Need fast quote Kenya safari booking UK urgent'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

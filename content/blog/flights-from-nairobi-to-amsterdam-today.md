@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Amsterdam Today: Complete Guide'
-description: Everything you need to know about flights from nairobi to amsterdam today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to amsterdam today, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-amsterdam-today
-primary_keyword: flights from nairobi to amsterdam today
+primary_keyword: 'flights from nairobi to amsterdam today'
 secondary_keywords:
-- flight from kenya to usa how many hours
-- flights from vancouver to nairobi kenya
-- flights from washington to kenya
-- flights from new york city to nairobi kenya
-- flights from zurich to kenya
+- 'flight from kenya to usa how many hours'
+- 'flights from vancouver to nairobi kenya'
+- 'flights from washington to kenya'
+- 'flights from new york city to nairobi kenya'
+- 'flights from zurich to kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

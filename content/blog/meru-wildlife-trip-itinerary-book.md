@@ -1,14 +1,14 @@
 ---
 title: 'Meru Wildlife Trip Itinerary Book: Complete Guide'
-description: Kenya safari guide covering meru wildlife trip itinerary book, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering meru wildlife trip itinerary book, including what is included, pricing, and booking advice.'
 slug: meru-wildlife-trip-itinerary-book
-primary_keyword: Meru wildlife trip itinerary book
+primary_keyword: 'Meru wildlife trip itinerary book'
 secondary_keywords:
-- Aberdares treetop lodge safari package cost
-- Book private luxury Kenya safari
-- Cost of family safari Kenya
-- Affordable Kenya safari tour deals
-- Shared safari Kenya package booking
+- 'Aberdares treetop lodge safari package cost'
+- 'Book private luxury Kenya safari'
+- 'Cost of family safari Kenya'
+- 'Affordable Kenya safari tour deals'
+- 'Shared safari Kenya package booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

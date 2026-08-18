@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Islamabad to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from islamabad to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from islamabad to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-islamabad-to-dubai
-primary_keyword: emirates flights from islamabad to dubai
+primary_keyword: 'emirates flights from islamabad to dubai'
 secondary_keywords:
-- flights from nairobi to guangzhou china
-- flights from nairobi to heathrow today
-- flights from nairobi to islamabad
-- flights from nairobi to jamaica
-- kq flights from nairobi to eldoret price
+- 'flights from nairobi to guangzhou china'
+- 'flights from nairobi to heathrow today'
+- 'flights from nairobi to islamabad'
+- 'flights from nairobi to jamaica'
+- 'kq flights from nairobi to eldoret price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

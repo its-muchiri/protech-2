@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Nairobi Opening Hours: Complete Guide'
-description: Everything you need to know about turkish airlines nairobi opening hours, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines nairobi opening hours, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-nairobi-opening-hours
-primary_keyword: turkish airlines nairobi opening hours
+primary_keyword: 'turkish airlines nairobi opening hours'
 secondary_keywords:
-- kenya airways flights from accra to nairobi
-- kq flights from dubai to nairobi today
-- flights from jkia
-- kq flights from nairobi to dubai
-- kq352
+- 'kenya airways flights from accra to nairobi'
+- 'kq flights from dubai to nairobi today'
+- 'flights from jkia'
+- 'kq flights from nairobi to dubai'
+- 'kq352'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

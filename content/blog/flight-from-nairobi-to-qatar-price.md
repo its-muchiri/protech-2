@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Qatar Price: Complete Guide'
-description: Everything you need to know about flight from nairobi to qatar price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to qatar price, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-qatar-price
-primary_keyword: flight from nairobi to qatar price
+primary_keyword: 'flight from nairobi to qatar price'
 secondary_keywords:
-- emirates flights from kochi to manchester
-- emirates flights from dubai to london today
-- emirates flights from newark
-- emirates flights to oman from dubai
-- emirates flights qantas points
+- 'emirates flights from kochi to manchester'
+- 'emirates flights from dubai to london today'
+- 'emirates flights from newark'
+- 'emirates flights to oman from dubai'
+- 'emirates flights qantas points'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

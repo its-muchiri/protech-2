@@ -1,14 +1,14 @@
 ---
 title: 'Flight Ticket from Kenya to South Africa: Complete Guide'
-description: Everything you need to know about flight ticket from kenya to south africa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight ticket from kenya to south africa, including routes, airlines, booking tips, and fares.'
 slug: flight-ticket-from-kenya-to-south-africa
-primary_keyword: flight ticket from kenya to south africa
+primary_keyword: 'flight ticket from kenya to south africa'
 secondary_keywords:
-- emirates booking nairobi
-- emirates nairobi
-- emirates nairobi to perth
-- emirates from kenya
-- emirates booking kenya
+- 'emirates booking nairobi'
+- 'emirates nairobi'
+- 'emirates nairobi to perth'
+- 'emirates from kenya'
+- 'emirates booking kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

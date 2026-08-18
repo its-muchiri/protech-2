@@ -1,14 +1,14 @@
 ---
 title: 'Community Project Volunteer Tour Organizers Kenya: Complete Guide'
-description: Kenya safari guide covering community project volunteer tour organizers kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering community project volunteer tour organizers kenya, including what is included, pricing, and booking advice.'
 slug: community-project-volunteer-tour-organizers-kenya
-primary_keyword: Community project volunteer tour organizers Kenya
+primary_keyword: 'Community project volunteer tour organizers Kenya'
 secondary_keywords:
-- Kenya shillings exchange rate USD / EUR / GBP
-- Service level agreement Kenya tour operator contract terms
-- Travel agents in Thika town booking safaris Elisa Travel Agency
-- Purchase budget Kenya safari tour Europe best price
-- Book multi-park Kenya safari itinerary UK
+- 'Kenya shillings exchange rate USD / EUR / GBP'
+- 'Service level agreement Kenya tour operator contract terms'
+- 'Travel agents in Thika town booking safaris Elisa Travel Agency'
+- 'Purchase budget Kenya safari tour Europe best price'
+- 'Book multi-park Kenya safari itinerary UK'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

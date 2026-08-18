@@ -1,14 +1,14 @@
 ---
 title: 'Does Qatar Airways Fly to Mombasa: Complete Guide'
-description: Everything you need to know about does qatar airways fly to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about does qatar airways fly to mombasa, including routes, airlines, booking tips, and fares.'
 slug: does-qatar-airways-fly-to-mombasa
-primary_keyword: does qatar airways fly to mombasa
+primary_keyword: 'does qatar airways fly to mombasa'
 secondary_keywords:
-- ethiopian airlines flight status from nairobi to addis ababa
-- flights nairobi to cape town
-- flights from addis ababa to nairobi today
-- nairobi to bangalore flights
-- cheap flights nairobi to dar es salaam
+- 'ethiopian airlines flight status from nairobi to addis ababa'
+- 'flights nairobi to cape town'
+- 'flights from addis ababa to nairobi today'
+- 'nairobi to bangalore flights'
+- 'cheap flights nairobi to dar es salaam'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

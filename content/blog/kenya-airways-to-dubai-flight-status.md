@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways to Dubai Flight Status: Complete Guide'
-description: Everything you need to know about kenya airways to dubai flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways to dubai flight status, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-to-dubai-flight-status
-primary_keyword: kenya airways to dubai flight status
+primary_keyword: 'kenya airways to dubai flight status'
 secondary_keywords:
-- flight from nairobi mombasa
-- flights from nairobi to nanyuki
-- flights from nairobi to ottawa
-- flights from nairobi to perth
-- qatar airways flights from nairobi to doha
+- 'flight from nairobi mombasa'
+- 'flights from nairobi to nanyuki'
+- 'flights from nairobi to ottawa'
+- 'flights from nairobi to perth'
+- 'qatar airways flights from nairobi to doha'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

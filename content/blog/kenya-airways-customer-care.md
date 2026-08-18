@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Customer Care: Complete Guide'
-description: Everything you need to know about kenya airways customer care, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways customer care, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-customer-care
-primary_keyword: kenya airways customer care
+primary_keyword: 'kenya airways customer care'
 secondary_keywords:
-- flight ticket to kenya from uk
-- ticketing courses in kenya
-- kenya airways booking nairobi to mombasa
-- airplanes in kenya
-- does british airways fly to uganda
+- 'flight ticket to kenya from uk'
+- 'ticketing courses in kenya'
+- 'kenya airways booking nairobi to mombasa'
+- 'airplanes in kenya'
+- 'does british airways fly to uganda'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

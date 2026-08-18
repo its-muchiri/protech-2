@@ -1,14 +1,14 @@
 ---
 title: 'Skyward Flight from Nairobi to Mombasa: Complete Guide'
-description: Everything you need to know about skyward flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about skyward flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.'
 slug: skyward-flight-from-nairobi-to-mombasa
-primary_keyword: skyward flight from nairobi to mombasa
+primary_keyword: 'skyward flight from nairobi to mombasa'
 secondary_keywords:
-- flight ticket to kenya from qatar
-- kenya ticket from nigeria
-- cheap flights in kenya
-- flights to kenya in august
-- cargo flights in kenya
+- 'flight ticket to kenya from qatar'
+- 'kenya ticket from nigeria'
+- 'cheap flights in kenya'
+- 'flights to kenya in august'
+- 'cargo flights in kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

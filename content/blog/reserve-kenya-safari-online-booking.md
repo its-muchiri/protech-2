@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Kenya Safari Online Booking: Complete Guide'
-description: Kenya safari guide covering reserve kenya safari online booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve kenya safari online booking, including what is included, pricing, and booking advice.'
 slug: reserve-kenya-safari-online-booking
-primary_keyword: Reserve Kenya safari online booking
+primary_keyword: 'Reserve Kenya safari online booking'
 secondary_keywords:
-- Book direct Kenya safari lodge package deal
-- Book reliable operator package 6 day Tsavo combo
-- Book 4 day Sopa Lodges Masai Mara package deal
-- Quote & Book 12 day Asilia Africa Kenya highlights package
-- Book celebrity style Kenya luxury safari package price
+- 'Book direct Kenya safari lodge package deal'
+- 'Book reliable operator package 6 day Tsavo combo'
+- 'Book 4 day Sopa Lodges Masai Mara package deal'
+- 'Quote & Book 12 day Asilia Africa Kenya highlights package'
+- 'Book celebrity style Kenya luxury safari package price'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

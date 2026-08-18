@@ -1,14 +1,14 @@
 ---
 title: 'Kq306 Flight Status: Complete Guide'
-description: Everything you need to know about kq306 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq306 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq306-flight-status
-primary_keyword: kq306 flight status
+primary_keyword: 'kq306 flight status'
 secondary_keywords:
-- are emirates flights from iran cancelled
-- emirates flights from tehran to dubai
-- emirates flights from us to dubai
-- emirates flights to vietnam from uk
-- what destinations do emirates fly to
+- 'are emirates flights from iran cancelled'
+- 'emirates flights from tehran to dubai'
+- 'emirates flights from us to dubai'
+- 'emirates flights to vietnam from uk'
+- 'what destinations do emirates fly to'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

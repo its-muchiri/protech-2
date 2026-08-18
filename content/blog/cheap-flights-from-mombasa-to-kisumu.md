@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Mombasa to Kisumu: Complete Guide'
-description: Everything you need to know about cheap flights from mombasa to kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from mombasa to kisumu, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-mombasa-to-kisumu
-primary_keyword: cheap flights from mombasa to kisumu
+primary_keyword: 'cheap flights from mombasa to kisumu'
 secondary_keywords:
-- emirates flights from barcelona
-- emirates flights from chicago to dubai
-- flights from islamabad to dubai united arab emirates
-- emirates flights from frankfurt
-- emirates flights from glasgow today timetable
+- 'emirates flights from barcelona'
+- 'emirates flights from chicago to dubai'
+- 'flights from islamabad to dubai united arab emirates'
+- 'emirates flights from frankfurt'
+- 'emirates flights from glasgow today timetable'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

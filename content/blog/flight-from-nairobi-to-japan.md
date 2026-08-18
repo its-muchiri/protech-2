@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Japan: Complete Guide'
-description: Everything you need to know about flight from nairobi to japan, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to japan, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-japan
-primary_keyword: flight from nairobi to japan
+primary_keyword: 'flight from nairobi to japan'
 secondary_keywords:
-- kq flight radar
-- kq flight schedule kisumu to nairobi
-- kq flight new york to nairobi
-- kq nbo los
-- kq 256 flight status
+- 'kq flight radar'
+- 'kq flight schedule kisumu to nairobi'
+- 'kq flight new york to nairobi'
+- 'kq nbo los'
+- 'kq 256 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

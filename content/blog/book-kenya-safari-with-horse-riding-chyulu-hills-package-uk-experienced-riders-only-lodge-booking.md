@@ -1,14 +1,14 @@
 ---
 title: 'Book Kenya Safari with Horse Riding Chyulu Hills Package UK Experienced Riders Only Lodge Booking: Complete Guide'
-description: Kenya safari guide covering book kenya safari with horse riding chyulu hills package uk experienced riders only lodge booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book kenya safari with horse riding chyulu hills package uk experienced riders only lodge booking, including what is included, pricing, and booking advice.'
 slug: book-kenya-safari-with-horse-riding-chyulu-hills-package-uk-experienced-riders-only-lodge-booking
-primary_keyword: Book Kenya safari with horse riding Chyulu Hills package UK experienced riders only lodge booking
+primary_keyword: 'Book Kenya safari with horse riding Chyulu Hills package UK experienced riders only lodge booking'
 secondary_keywords:
-- Small group Kenya safari
-- Long Kenya safari
-- 10 day Kenya safari
-- Budget safari lodges Kenya
-- Eco lodges Kenya safari
+- 'Small group Kenya safari'
+- 'Long Kenya safari'
+- '10 day Kenya safari'
+- 'Budget safari lodges Kenya'
+- 'Eco lodges Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

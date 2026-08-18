@@ -1,14 +1,14 @@
 ---
 title: 'Fly-in Safari Masai Mara Wilson Airport Cost: Complete Guide'
-description: Kenya safari guide covering fly-in safari masai mara wilson airport cost, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering fly-in safari masai mara wilson airport cost, including what is included, pricing, and booking advice.'
 slug: fly-in-safari-masai-mara-wilson-airport-cost
-primary_keyword: Fly-in safari Masai Mara Wilson Airport cost
+primary_keyword: 'Fly-in safari Masai Mara Wilson Airport cost'
 secondary_keywords:
-- Family friendly Kenya safari tour rates
-- Kenya wildlife safari offers
-- 4 day Masai Mara tour last minute offer
-- Deal 7 day luxury Masai Mara package
-- Laikipia luxury holiday package reserve
+- 'Family friendly Kenya safari tour rates'
+- 'Kenya wildlife safari offers'
+- '4 day Masai Mara tour last minute offer'
+- 'Deal 7 day luxury Masai Mara package'
+- 'Laikipia luxury holiday package reserve'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways 1st Class: Complete Guide'
-description: Everything you need to know about kenya airways 1st class, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways 1st class, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-1st-class
-primary_keyword: kenya airways 1st class
+primary_keyword: 'kenya airways 1st class'
 secondary_keywords:
-- kq flights from johannesburg to nairobi
-- kq local flights
-- kq manage flight
-- kq flights to uganda
-- kq 101 flight radar
+- 'kq flights from johannesburg to nairobi'
+- 'kq local flights'
+- 'kq manage flight'
+- 'kq flights to uganda'
+- 'kq 101 flight radar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

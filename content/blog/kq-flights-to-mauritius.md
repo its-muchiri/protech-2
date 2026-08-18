@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Mauritius: Complete Guide'
-description: Everything you need to know about kq flights to mauritius, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to mauritius, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-mauritius
-primary_keyword: kq flights to mauritius
+primary_keyword: 'kq flights to mauritius'
 secondary_keywords:
-- flights to mombasa from london
-- flights from mombasa to nairobi tomorrow
-- flight from mombasa to zanzibar price
-- flights from mombasa to seychelles
-- flights from uganda to mombasa
+- 'flights to mombasa from london'
+- 'flights from mombasa to nairobi tomorrow'
+- 'flight from mombasa to zanzibar price'
+- 'flights from mombasa to seychelles'
+- 'flights from uganda to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

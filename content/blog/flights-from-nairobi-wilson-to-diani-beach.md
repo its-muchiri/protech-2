@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi Wilson to Diani Beach: Complete Guide'
-description: Everything you need to know about flights from nairobi wilson to diani beach, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi wilson to diani beach, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-wilson-to-diani-beach
-primary_keyword: flights from nairobi wilson to diani beach
+primary_keyword: 'flights from nairobi wilson to diani beach'
 secondary_keywords:
-- emirates flights from hong kong
-- emirates flights from iad
-- emirates flights from johannesburg to amsterdam
-- emirates flights from kochi to manchester
-- emirates flights from dubai to london today
+- 'emirates flights from hong kong'
+- 'emirates flights from iad'
+- 'emirates flights from johannesburg to amsterdam'
+- 'emirates flights from kochi to manchester'
+- 'emirates flights from dubai to london today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

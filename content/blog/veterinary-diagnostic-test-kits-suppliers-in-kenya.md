@@ -1,14 +1,14 @@
 ---
 title: 'Veterinary Diagnostic Test Kits Suppliers in Kenya: 2026 Price Guide'
-description: Kenya buying guide to veterinary diagnostic test kits suppliers in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to veterinary diagnostic test kits suppliers in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: veterinary-diagnostic-test-kits-suppliers-in-kenya
-primary_keyword: Veterinary diagnostic test kits suppliers in Kenya
+primary_keyword: 'Veterinary diagnostic test kits suppliers in Kenya'
 secondary_keywords:
-- X-ray film and chemicals in Nairobi
-- Medical weighing scale for adults
-- Biomedical engineering services in Nairobi
-- Medical equipment donations to Kenya
-- Oxygen concentrator repair in Eldoret
+- 'X-ray film and chemicals in Nairobi'
+- 'Medical weighing scale for adults'
+- 'Biomedical engineering services in Nairobi'
+- 'Medical equipment donations to Kenya'
+- 'Oxygen concentrator repair in Eldoret'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Diani Beach Holiday Packages All Inclusive Price: Complete Guide'
-description: Kenya safari guide covering diani beach holiday packages all inclusive price, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering diani beach holiday packages all inclusive price, including what is included, pricing, and booking advice.'
 slug: diani-beach-holiday-packages-all-inclusive-price
-primary_keyword: Diani Beach holiday packages all inclusive price
+primary_keyword: 'Diani Beach holiday packages all inclusive price'
 secondary_keywords:
-- Secure all-inclusive Kenya safari package
-- Buy Olare Motorogi Conservancy safari reservation
-- Purchase 12 day East Africa highlights booking
-- Secure fly-in Kenya safari package purchase
-- Kenya safari holiday rates enquiry
+- 'Secure all-inclusive Kenya safari package'
+- 'Buy Olare Motorogi Conservancy safari reservation'
+- 'Purchase 12 day East Africa highlights booking'
+- 'Secure fly-in Kenya safari package purchase'
+- 'Kenya safari holiday rates enquiry'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

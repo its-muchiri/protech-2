@@ -1,14 +1,14 @@
 ---
 title: 'Kq 101 Flight Radar: Complete Guide'
-description: Everything you need to know about kq 101 flight radar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 101 flight radar, including routes, airlines, booking tips, and fares.'
 slug: kq-101-flight-radar
-primary_keyword: kq 101 flight radar
+primary_keyword: 'kq 101 flight radar'
 secondary_keywords:
-- flights from nairobi to botswana
-- flights from nairobi to cayman islands
-- flights from nairobi to dubai today
-- flights from nairobi to ethiopia
-- airlines that fly to nairobi
+- 'flights from nairobi to botswana'
+- 'flights from nairobi to cayman islands'
+- 'flights from nairobi to dubai today'
+- 'flights from nairobi to ethiopia'
+- 'airlines that fly to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

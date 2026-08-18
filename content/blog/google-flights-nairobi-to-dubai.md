@@ -1,14 +1,14 @@
 ---
 title: 'Google Flights Nairobi to Dubai: Complete Guide'
-description: Everything you need to know about google flights nairobi to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about google flights nairobi to dubai, including routes, airlines, booking tips, and fares.'
 slug: google-flights-nairobi-to-dubai
-primary_keyword: google flights nairobi to dubai
+primary_keyword: 'google flights nairobi to dubai'
 secondary_keywords:
-- cheap flights nairobi to zanzibar
-- flight nairobi to ethiopia
-- flights to nairobi from manchester
-- flights nairobi to homa bay
-- flight time nairobi to istanbul
+- 'cheap flights nairobi to zanzibar'
+- 'flight nairobi to ethiopia'
+- 'flights to nairobi from manchester'
+- 'flights nairobi to homa bay'
+- 'flight time nairobi to istanbul'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

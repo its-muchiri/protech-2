@@ -1,14 +1,14 @@
 ---
 title: 'Drive Nairobi to Amboseli Safari: Complete Guide'
-description: Kenya safari guide covering drive nairobi to amboseli safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering drive nairobi to amboseli safari, including what is included, pricing, and booking advice.'
 slug: drive-nairobi-to-amboseli-safari
-primary_keyword: Drive Nairobi to Amboseli safari
+primary_keyword: 'Drive Nairobi to Amboseli safari'
 secondary_keywords:
-- Price 14 day Elewana Collection SkySafari Kenya package
-- Reserve 9 day Joy''s Camp Shaba Samburu package deal
-- Secure booking philanthropic safari package Kenya donation focus
-- Eco-friendly safari companies Kenya
-- Samburu fly-in safari companies
+- 'Price 14 day Elewana Collection SkySafari Kenya package'
+- 'Reserve 9 day Joy''''s Camp Shaba Samburu package deal'
+- 'Secure booking philanthropic safari package Kenya donation focus'
+- 'Eco-friendly safari companies Kenya'
+- 'Samburu fly-in safari companies'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

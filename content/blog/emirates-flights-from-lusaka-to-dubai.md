@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Lusaka to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from lusaka to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from lusaka to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-lusaka-to-dubai
-primary_keyword: emirates flights from lusaka to dubai
+primary_keyword: 'emirates flights from lusaka to dubai'
 secondary_keywords:
-- ethiopian airlines customer service nairobi
-- where does turkish airlines fly direct
-- flight ticket kenya to nigeria
-- flight ticket for kenya
-- book ticket to kenya
+- 'ethiopian airlines customer service nairobi'
+- 'where does turkish airlines fly direct'
+- 'flight ticket kenya to nigeria'
+- 'flight ticket for kenya'
+- 'book ticket to kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

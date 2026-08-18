@@ -1,14 +1,14 @@
 ---
 title: 'First Class Flight from Nairobi to Mombasa: Complete Guide'
-description: Everything you need to know about first class flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about first class flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.'
 slug: first-class-flight-from-nairobi-to-mombasa
-primary_keyword: first class flight from nairobi to mombasa
+primary_keyword: 'first class flight from nairobi to mombasa'
 secondary_keywords:
-- qatar airways flight ticket from doha to nairobi
-- qatar airways flight schedule from nairobi to doha today
-- does qatar airways fly to hong kong
-- qatar airways flight schedule from nairobi to doha price
-- kq flights from south africa
+- 'qatar airways flight ticket from doha to nairobi'
+- 'qatar airways flight schedule from nairobi to doha today'
+- 'does qatar airways fly to hong kong'
+- 'qatar airways flight schedule from nairobi to doha price'
+- 'kq flights from south africa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

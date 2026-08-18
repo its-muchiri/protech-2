@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Offices in Kenya: Complete Guide'
-description: Everything you need to know about emirates offices in kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates offices in kenya, including routes, airlines, booking tips, and fares.'
 slug: emirates-offices-in-kenya
-primary_keyword: emirates offices in kenya
+primary_keyword: 'emirates offices in kenya'
 secondary_keywords:
-- emirates nairobi contact number
-- emirates nairobi flights
-- emirates nairobi office telephone number kenya
-- emirates nairobi to new york
-- emirates airline kenya reviews
+- 'emirates nairobi contact number'
+- 'emirates nairobi flights'
+- 'emirates nairobi office telephone number kenya'
+- 'emirates nairobi to new york'
+- 'emirates airline kenya reviews'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

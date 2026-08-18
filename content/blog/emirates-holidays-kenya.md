@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Holidays Kenya: Complete Guide'
-description: Everything you need to know about emirates holidays kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates holidays kenya, including routes, airlines, booking tips, and fares.'
 slug: emirates-holidays-kenya
-primary_keyword: emirates holidays kenya
+primary_keyword: 'emirates holidays kenya'
 secondary_keywords:
-- flight from nairobi to los angeles
-- flight time from nairobi to zanzibar
-- cost of flight from nairobi to south africa
-- 540 flight from nairobi to lodwar
-- how many hours flight from nairobi to johannesburg
+- 'flight from nairobi to los angeles'
+- 'flight time from nairobi to zanzibar'
+- 'cost of flight from nairobi to south africa'
+- '540 flight from nairobi to lodwar'
+- 'how many hours flight from nairobi to johannesburg'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

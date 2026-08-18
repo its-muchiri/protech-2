@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Rome to Mombasa: Complete Guide'
-description: Everything you need to know about flights from rome to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from rome to mombasa, including routes, airlines, booking tips, and fares.'
 slug: flights-from-rome-to-mombasa
-primary_keyword: flights from rome to mombasa
+primary_keyword: 'flights from rome to mombasa'
 secondary_keywords:
-- kq flight from dubai to nairobi today ticket price
-- kenya airways flight from nairobi
-- kenya airways flight schedule from nairobi to accra today
-- does kenya airways fly from nairobi to malindi
-- kenya airways flight schedule from johannesburg to nairobi
+- 'kq flight from dubai to nairobi today ticket price'
+- 'kenya airways flight from nairobi'
+- 'kenya airways flight schedule from nairobi to accra today'
+- 'does kenya airways fly from nairobi to malindi'
+- 'kenya airways flight schedule from johannesburg to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

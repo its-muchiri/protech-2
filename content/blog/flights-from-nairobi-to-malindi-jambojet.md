@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Malindi Jambojet: Complete Guide'
-description: Everything you need to know about flights from nairobi to malindi jambojet, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to malindi jambojet, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-malindi-jambojet
-primary_keyword: flights from nairobi to malindi jambojet
+primary_keyword: 'flights from nairobi to malindi jambojet'
 secondary_keywords:
-- kq flights to mogadishu
-- kq flight from paris to nairobi
-- kq flights status
-- kq flights to uk
-- kq 0203 flight status
+- 'kq flights to mogadishu'
+- 'kq flight from paris to nairobi'
+- 'kq flights status'
+- 'kq flights to uk'
+- 'kq 0203 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Mombasa to Jeddah: Complete Guide'
-description: Everything you need to know about cheap flights from mombasa to jeddah, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from mombasa to jeddah, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-mombasa-to-jeddah
-primary_keyword: cheap flights from mombasa to jeddah
+primary_keyword: 'cheap flights from mombasa to jeddah'
 secondary_keywords:
-- flights nairobi to zimbabwe
-- how much is a flight from nairobi to usa
-- emirates flights from manchester today
-- emirates flights to new zealand from south africa
-- emirates flights to bali from uk
+- 'flights nairobi to zimbabwe'
+- 'how much is a flight from nairobi to usa'
+- 'emirates flights from manchester today'
+- 'emirates flights to new zealand from south africa'
+- 'emirates flights to bali from uk'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

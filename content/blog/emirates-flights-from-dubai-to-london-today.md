@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Dubai to London Today: Complete Guide'
-description: Everything you need to know about emirates flights from dubai to london today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from dubai to london today, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-dubai-to-london-today
-primary_keyword: emirates flights from dubai to london today
+primary_keyword: 'emirates flights from dubai to london today'
 secondary_keywords:
-- flights to turkey from nairobi
-- flight ticket kenya to dubai
-- flight from kenya to dubai time
-- book flight with kenya airways
-- ticket from kenya to uk
+- 'flights to turkey from nairobi'
+- 'flight ticket kenya to dubai'
+- 'flight from kenya to dubai time'
+- 'book flight with kenya airways'
+- 'ticket from kenya to uk'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

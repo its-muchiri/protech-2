@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Price: Complete Guide'
-description: Kenya safari guide covering kenya safari price, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari price, including what is included, pricing, and booking advice.'
 slug: kenya-safari-price
-primary_keyword: Kenya safari price
+primary_keyword: 'Kenya safari price'
 secondary_keywords:
-- Secure online booking platform Kenya safari USA trusted
-- Purchase private 4x4 vehicle Kenya wildlife safari UK custom quote needed
-- Reserve Kenya photographic tour private tuition pro guide UK specialist company booking
-- Reserve Nairobi city tour Giraffe Centre & Karen Blixen Museum plus safari package UK price
-- Purchase corporate incentive travel Kenya safari package Europe group rates quote request
+- 'Secure online booking platform Kenya safari USA trusted'
+- 'Purchase private 4x4 vehicle Kenya wildlife safari UK custom quote needed'
+- 'Reserve Kenya photographic tour private tuition pro guide UK specialist company booking'
+- 'Reserve Nairobi city tour Giraffe Centre & Karen Blixen Museum plus safari package UK price'
+- 'Purchase corporate incentive travel Kenya safari package Europe group rates quote request'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

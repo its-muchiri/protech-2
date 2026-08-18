@@ -1,14 +1,14 @@
 ---
 title: 'Find Kosher Meal Options Kenya Safari Booking Europe Jewish Travel Specialist Agent: Complete Guide'
-description: Kenya safari guide covering find kosher meal options kenya safari booking europe jewish travel specialist agent, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering find kosher meal options kenya safari booking europe jewish travel specialist agent, including what is included, pricing, and booking advice.'
 slug: find-kosher-meal-options-kenya-safari-booking-europe-jewish-travel-specialist-agent
-primary_keyword: Find kosher meal options Kenya safari booking Europe Jewish travel specialist agent
+primary_keyword: 'Find kosher meal options Kenya safari booking Europe Jewish travel specialist agent'
 secondary_keywords:
-- Tsavo East safari
-- Kakamega Forest safari
-- Child-friendly Kenya safari
-- Tailor-made Kenya safari
-- Camel safari Kenya
+- 'Tsavo East safari'
+- 'Kakamega Forest safari'
+- 'Child-friendly Kenya safari'
+- 'Tailor-made Kenya safari'
+- 'Camel safari Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

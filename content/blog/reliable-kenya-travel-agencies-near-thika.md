@@ -1,14 +1,14 @@
 ---
 title: 'Reliable Kenya Travel Agencies Near Thika: Complete Guide'
-description: Kenya safari guide covering reliable kenya travel agencies near thika, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reliable kenya travel agencies near thika, including what is included, pricing, and booking advice.'
 slug: reliable-kenya-travel-agencies-near-thika
-primary_keyword: Reliable Kenya travel agencies near Thika
+primary_keyword: 'Reliable Kenya travel agencies near Thika'
 secondary_keywords:
-- Masai Mara honeymoon package booking
-- Kenya budget camping safari package book
-- Amboseli Kilimanjaro safari package buy
-- August Masai Mara migration package deals
-- Reserve tour with  Kenya
+- 'Masai Mara honeymoon package booking'
+- 'Kenya budget camping safari package book'
+- 'Amboseli Kilimanjaro safari package buy'
+- 'August Masai Mara migration package deals'
+- 'Reserve tour with  Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

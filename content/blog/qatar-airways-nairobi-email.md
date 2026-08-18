@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways Nairobi Email: Complete Guide'
-description: Everything you need to know about qatar airways nairobi email, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways nairobi email, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-nairobi-email
-primary_keyword: qatar airways nairobi email
+primary_keyword: 'qatar airways nairobi email'
 secondary_keywords:
-- flights nairobi to nyc
-- ottawa to nairobi flights
-- dar to nairobi flights price
-- flights nairobi to rome
-- flights nairobi to seronera
+- 'flights nairobi to nyc'
+- 'ottawa to nairobi flights'
+- 'dar to nairobi flights price'
+- 'flights nairobi to rome'
+- 'flights nairobi to seronera'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

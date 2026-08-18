@@ -1,14 +1,14 @@
 ---
 title: 'Qantas Points from Emirates Flights: Complete Guide'
-description: Everything you need to know about qantas points from emirates flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qantas points from emirates flights, including routes, airlines, booking tips, and fares.'
 slug: qantas-points-from-emirates-flights
-primary_keyword: qantas points from emirates flights
+primary_keyword: 'qantas points from emirates flights'
 secondary_keywords:
-- flights from kenya to england
-- flights for kenya
-- flights from kenya to germany today
-- flights from kenya to houston
-- flights from hyderabad to nairobi kenya
+- 'flights from kenya to england'
+- 'flights for kenya'
+- 'flights from kenya to germany today'
+- 'flights from kenya to houston'
+- 'flights from hyderabad to nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

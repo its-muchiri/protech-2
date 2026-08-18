@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to France: Complete Guide'
-description: Everything you need to know about flight from nairobi to france, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to france, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-france
-primary_keyword: flight from nairobi to france
+primary_keyword: 'flight from nairobi to france'
 secondary_keywords:
-- jambojet flights nairobi to mombasa
-- kenya airways flights nairobi to mombasa
-- flights nairobi to mumbai
-- flights nairobi to namibia
-- nairobi to columbus oh flights
+- 'jambojet flights nairobi to mombasa'
+- 'kenya airways flights nairobi to mombasa'
+- 'flights nairobi to mumbai'
+- 'flights nairobi to namibia'
+- 'nairobi to columbus oh flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

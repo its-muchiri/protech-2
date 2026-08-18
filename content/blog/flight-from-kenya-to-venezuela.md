@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kenya to Venezuela: Complete Guide'
-description: Everything you need to know about flight from kenya to venezuela, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kenya to venezuela, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kenya-to-venezuela
-primary_keyword: flight from kenya to venezuela
+primary_keyword: 'flight from kenya to venezuela'
 secondary_keywords:
-- kq 005 flight status
-- kq 202 flight status
-- kq307 flight status
-- kq 511 flight status
-- kq 625 flight status
+- 'kq 005 flight status'
+- 'kq 202 flight status'
+- 'kq307 flight status'
+- 'kq 511 flight status'
+- 'kq 625 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

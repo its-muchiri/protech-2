@@ -1,14 +1,14 @@
 ---
 title: 'Renegade Flight from Nairobi to Kisumu: Complete Guide'
-description: Everything you need to know about renegade flight from nairobi to kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about renegade flight from nairobi to kisumu, including routes, airlines, booking tips, and fares.'
 slug: renegade-flight-from-nairobi-to-kisumu
-primary_keyword: renegade flight from nairobi to kisumu
+primary_keyword: 'renegade flight from nairobi to kisumu'
 secondary_keywords:
-- international flights from nairobi
-- flights from nairobi to accra ghana
-- flights from nairobi to birmingham uk
-- flights from boston to nairobi
-- cheap direct flights from nairobi to london heathrow
+- 'international flights from nairobi'
+- 'flights from nairobi to accra ghana'
+- 'flights from nairobi to birmingham uk'
+- 'flights from boston to nairobi'
+- 'cheap direct flights from nairobi to london heathrow'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

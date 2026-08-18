@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Zanzibar Today: Complete Guide'
-description: Everything you need to know about flights from nairobi to zanzibar today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to zanzibar today, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-zanzibar-today
-primary_keyword: flights from nairobi to zanzibar today
+primary_keyword: 'flights from nairobi to zanzibar today'
 secondary_keywords:
-- flight kenya london
-- flights to kenya in november
-- qatar airways in kenya
-- flights kenya to johannesburg
-- flights from kenya to vietnam
+- 'flight kenya london'
+- 'flights to kenya in november'
+- 'qatar airways in kenya'
+- 'flights kenya to johannesburg'
+- 'flights from kenya to vietnam'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

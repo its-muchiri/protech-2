@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Venice: Complete Guide'
-description: Everything you need to know about flights nairobi to venice, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to venice, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-venice
-primary_keyword: flights nairobi to venice
+primary_keyword: 'flights nairobi to venice'
 secondary_keywords:
-- ticket from kenya to india
-- cheapest domestic flights in kenya
-- flights brussels kenya
-- kenya airways check in time for domestic flights
-- flights to kenya from south africa
+- 'ticket from kenya to india'
+- 'cheapest domestic flights in kenya'
+- 'flights brussels kenya'
+- 'kenya airways check in time for domestic flights'
+- 'flights to kenya from south africa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

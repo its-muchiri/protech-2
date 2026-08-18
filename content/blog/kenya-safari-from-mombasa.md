@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari from Mombasa: Complete Guide'
-description: Kenya safari guide covering kenya safari from mombasa, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari from mombasa, including what is included, pricing, and booking advice.'
 slug: kenya-safari-from-mombasa
-primary_keyword: Kenya safari from Mombasa
+primary_keyword: 'Kenya safari from Mombasa'
 secondary_keywords:
-- Kenya safari package including transfers quote
-- All-inclusive safari Kenya book
-- Book group joining 6 day budget camping package Kenya
-- Buy 8 day accessible Kenya safari package quote
-- Quote for 9 day Kenya small group safari package tour
+- 'Kenya safari package including transfers quote'
+- 'All-inclusive safari Kenya book'
+- 'Book group joining 6 day budget camping package Kenya'
+- 'Buy 8 day accessible Kenya safari package quote'
+- 'Quote for 9 day Kenya small group safari package tour'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

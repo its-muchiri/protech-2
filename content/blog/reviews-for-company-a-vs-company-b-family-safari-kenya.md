@@ -1,14 +1,14 @@
 ---
 title: 'Reviews for  Vs  Family Safari Kenya: Complete Guide'
-description: Kenya safari guide covering reviews for  vs  family safari kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reviews for  vs  family safari kenya, including what is included, pricing, and booking advice.'
 slug: reviews-for-company-a-vs-company-b-family-safari-kenya
-primary_keyword: Reviews for  vs  family safari Kenya
+primary_keyword: 'Reviews for  vs  family safari Kenya'
 secondary_keywords:
-- Cost of 6 day Kenya cultural immersion safari package
-- Reserve 7 day Mara Plains luxury package deal
-- Price for 9 day luxury mobile camping safari package Kenya
-- Book now 3 day Tsavo express safari deal
-- Book direct Kenya safari lodge package deal
+- 'Cost of 6 day Kenya cultural immersion safari package'
+- 'Reserve 7 day Mara Plains luxury package deal'
+- 'Price for 9 day luxury mobile camping safari package Kenya'
+- 'Book now 3 day Tsavo express safari deal'
+- 'Book direct Kenya safari lodge package deal'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

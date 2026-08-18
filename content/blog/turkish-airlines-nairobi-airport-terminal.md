@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Nairobi Airport Terminal: Complete Guide'
-description: Everything you need to know about turkish airlines nairobi airport terminal, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines nairobi airport terminal, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-nairobi-airport-terminal
-primary_keyword: turkish airlines nairobi airport terminal
+primary_keyword: 'turkish airlines nairobi airport terminal'
 secondary_keywords:
-- emirates ek 3
-- emirates flight 500
-- emirates flight 764
-- emirates flight 803
-- flight time from nairobi to qatar
+- 'emirates ek 3'
+- 'emirates flight 500'
+- 'emirates flight 764'
+- 'emirates flight 803'
+- 'flight time from nairobi to qatar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

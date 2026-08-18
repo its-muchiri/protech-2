@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kenya to South Korea: Complete Guide'
-description: Everything you need to know about flight from kenya to south korea, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kenya to south korea, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kenya-to-south-korea
-primary_keyword: flight from kenya to south korea
+primary_keyword: 'flight from kenya to south korea'
 secondary_keywords:
-- turkish airline nairobi
-- how do i track a turkish airlines flight
-- turkish airlines contact number nairobi kenya
-- turkish airlines pnr not working
-- emirates airlines from nairobi
+- 'turkish airline nairobi'
+- 'how do i track a turkish airlines flight'
+- 'turkish airlines contact number nairobi kenya'
+- 'turkish airlines pnr not working'
+- 'emirates airlines from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

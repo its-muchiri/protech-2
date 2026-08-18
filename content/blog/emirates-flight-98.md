@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 98: Complete Guide'
-description: Everything you need to know about emirates flight 98, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 98, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-98
-primary_keyword: emirates flight 98
+primary_keyword: 'emirates flight 98'
 secondary_keywords:
-- are there direct flights from mombasa to zanzibar
-- does british airways fly to bangladesh
-- cheap flights from mombasa to mumbai
-- flights from eldoret to mombasa
-- flights geneva mombasa
+- 'are there direct flights from mombasa to zanzibar'
+- 'does british airways fly to bangladesh'
+- 'cheap flights from mombasa to mumbai'
+- 'flights from eldoret to mombasa'
+- 'flights geneva mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

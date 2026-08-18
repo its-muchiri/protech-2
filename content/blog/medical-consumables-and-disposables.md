@@ -1,14 +1,14 @@
 ---
 title: 'Medical Consumables and Disposables: 2026 Price Guide'
-description: Kenya buying guide to medical consumables and disposables. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to medical consumables and disposables. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: medical-consumables-and-disposables
-primary_keyword: Medical Consumables and Disposables
+primary_keyword: 'Medical Consumables and Disposables'
 secondary_keywords:
-- home testing kits Kenya
-- medical tape for sensitive skin Kenya
-- customs duty medical supplies Kenya
-- healthcare infrastructure Kenya
-- medical laboratory automation Kenya
+- 'home testing kits Kenya'
+- 'medical tape for sensitive skin Kenya'
+- 'customs duty medical supplies Kenya'
+- 'healthcare infrastructure Kenya'
+- 'medical laboratory automation Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

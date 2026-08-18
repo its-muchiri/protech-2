@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight Schedule from Nairobi to Addis Ababa: Complete Guide'
-description: Everything you need to know about kenya airways flight schedule from nairobi to addis ababa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight schedule from nairobi to addis ababa, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-schedule-from-nairobi-to-addis-ababa
-primary_keyword: kenya airways flight schedule from nairobi to addis ababa
+primary_keyword: 'kenya airways flight schedule from nairobi to addis ababa'
 secondary_keywords:
-- emirates flight nairobi to dubai
-- emirates nairobi phone number
-- emirates 720
-- emirates vs kenya airways
-- emirates flight from kenya to dubai today
+- 'emirates flight nairobi to dubai'
+- 'emirates nairobi phone number'
+- 'emirates 720'
+- 'emirates vs kenya airways'
+- 'emirates flight from kenya to dubai today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'What Time Is the Last Flight from Nairobi to Mombasa: Complete Guide'
-description: Everything you need to know about what time is the last flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about what time is the last flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.'
 slug: what-time-is-the-last-flight-from-nairobi-to-mombasa
-primary_keyword: what time is the last flight from nairobi to mombasa
+primary_keyword: 'what time is the last flight from nairobi to mombasa'
 secondary_keywords:
-- kenya airways flights from usa to nairobi
-- flights from columbus ohio to nairobi kenya
-- flights to kenya from phoenix
-- flights from doha qatar to nairobi kenya
-- cheap flights from riyadh to kenya
+- 'kenya airways flights from usa to nairobi'
+- 'flights from columbus ohio to nairobi kenya'
+- 'flights to kenya from phoenix'
+- 'flights from doha qatar to nairobi kenya'
+- 'cheap flights from riyadh to kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

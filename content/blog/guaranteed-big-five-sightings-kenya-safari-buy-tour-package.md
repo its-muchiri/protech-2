@@ -1,14 +1,14 @@
 ---
 title: 'Guaranteed Big Five Sightings Kenya Safari Buy Tour Package: Complete Guide'
-description: Kenya safari guide covering guaranteed big five sightings kenya safari buy tour package, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering guaranteed big five sightings kenya safari buy tour package, including what is included, pricing, and booking advice.'
 slug: guaranteed-big-five-sightings-kenya-safari-buy-tour-package
-primary_keyword: Guaranteed Big Five sightings Kenya safari buy tour package
+primary_keyword: 'Guaranteed Big Five sightings Kenya safari buy tour package'
 secondary_keywords:
-- Speleology safari Kenya (Chyulu Hills caves)
-- Kenya safe travel safari (General health)
-- Future of safari tourism Kenya
-- Masai Mara safari online booking
-- Book all-inclusive Kenya safari
+- 'Speleology safari Kenya (Chyulu Hills caves)'
+- 'Kenya safe travel safari (General health)'
+- 'Future of safari tourism Kenya'
+- 'Masai Mara safari online booking'
+- 'Book all-inclusive Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

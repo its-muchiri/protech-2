@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 524: Complete Guide'
-description: Everything you need to know about emirates flight 524, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 524, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-524
-primary_keyword: emirates flight 524
+primary_keyword: 'emirates flight 524'
 secondary_keywords:
-- emirates flights from lusaka to harare
-- emirates flights to australia from manchester
-- emirates flight from or tambo to dubai
-- emirates flights from zimbabwe to uk price
-- flights from doha qatar to dubai united arab emirates
+- 'emirates flights from lusaka to harare'
+- 'emirates flights to australia from manchester'
+- 'emirates flight from or tambo to dubai'
+- 'emirates flights from zimbabwe to uk price'
+- 'flights from doha qatar to dubai united arab emirates'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

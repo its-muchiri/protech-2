@@ -1,14 +1,14 @@
 ---
 title: 'Check Kenya Tour Operator License and Reviews Online UK: Complete Guide'
-description: Kenya safari guide covering check kenya tour operator license and reviews online uk, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering check kenya tour operator license and reviews online uk, including what is included, pricing, and booking advice.'
 slug: check-kenya-tour-operator-license-and-reviews-online-uk
-primary_keyword: Check Kenya tour operator license and reviews online UK
+primary_keyword: 'Check Kenya tour operator license and reviews online UK'
 secondary_keywords:
-- Companies offering tours from Jomo Kenyatta Airport (JKIA)
-- Companies offering drone photography safaris (check regulations)
-- Reliable company for Lake Nakuru day trip from Thika town
-- Taita Hills Sanctuary night game drive operators
-- Reserve bespoke Kenya safari experience
+- 'Companies offering tours from Jomo Kenyatta Airport (JKIA)'
+- 'Companies offering drone photography safaris (check regulations)'
+- 'Reliable company for Lake Nakuru day trip from Thika town'
+- 'Taita Hills Sanctuary night game drive operators'
+- 'Reserve bespoke Kenya safari experience'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

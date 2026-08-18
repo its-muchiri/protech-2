@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Victoria Falls: Complete Guide'
-description: Everything you need to know about flight from nairobi to victoria falls, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to victoria falls, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-victoria-falls
-primary_keyword: flight from nairobi to victoria falls
+primary_keyword: 'flight from nairobi to victoria falls'
 secondary_keywords:
-- flights from mombasa to kisumu
-- are there flights from mombasa to diani
-- does british airways fly to africa
-- flights from mombasa to dar es salaam
-- cheap flights from eldoret to mombasa
+- 'flights from mombasa to kisumu'
+- 'are there flights from mombasa to diani'
+- 'does british airways fly to africa'
+- 'flights from mombasa to dar es salaam'
+- 'cheap flights from eldoret to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

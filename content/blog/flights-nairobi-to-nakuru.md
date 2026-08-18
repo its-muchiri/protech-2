@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Nakuru: Complete Guide'
-description: Everything you need to know about flights nairobi to nakuru, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to nakuru, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-nakuru
-primary_keyword: flights nairobi to nakuru
+primary_keyword: 'flights nairobi to nakuru'
 secondary_keywords:
-- flight from nairobi to zimbabwe
-- flight from nairobi to bahamas
-- flight 540 nairobi to diani
-- how much flight from kenya to usa
-- turkish airlines nairobi office phone number
+- 'flight from nairobi to zimbabwe'
+- 'flight from nairobi to bahamas'
+- 'flight 540 nairobi to diani'
+- 'how much flight from kenya to usa'
+- 'turkish airlines nairobi office phone number'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways Flight from Nairobi: Complete Guide'
-description: Everything you need to know about qatar airways flight from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways flight from nairobi, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-flight-from-nairobi
-primary_keyword: qatar airways flight from nairobi
+primary_keyword: 'qatar airways flight from nairobi'
 secondary_keywords:
-- flight from mombasa to rwanda
-- flights from mombasa to uganda
-- cheapest flights from mombasa to zanzibar
-- flights from kisumu to south africa
-- flight from kisumu to dar es salaam
+- 'flight from mombasa to rwanda'
+- 'flights from mombasa to uganda'
+- 'cheapest flights from mombasa to zanzibar'
+- 'flights from kisumu to south africa'
+- 'flight from kisumu to dar es salaam'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

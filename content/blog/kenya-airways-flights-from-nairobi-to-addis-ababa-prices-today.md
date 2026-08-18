@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights from Nairobi to Addis Ababa Prices Today: Complete Guide'
-description: Everything you need to know about kenya airways flights from nairobi to addis ababa prices today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights from nairobi to addis ababa prices today, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-from-nairobi-to-addis-ababa-prices-today
-primary_keyword: kenya airways flights from nairobi to addis ababa prices today
+primary_keyword: 'kenya airways flights from nairobi to addis ababa prices today'
 secondary_keywords:
-- kenya airways flight from nairobi to accra today
-- kq flight from nairobi to eldoret
-- kenya airways mumbai to nairobi flight status
-- kq flight from london to nairobi
-- kq flight schedule nairobi to mombasa
+- 'kenya airways flight from nairobi to accra today'
+- 'kq flight from nairobi to eldoret'
+- 'kenya airways mumbai to nairobi flight status'
+- 'kq flight from london to nairobi'
+- 'kq flight schedule nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

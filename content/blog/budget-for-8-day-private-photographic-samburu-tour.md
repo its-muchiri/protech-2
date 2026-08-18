@@ -1,14 +1,14 @@
 ---
 title: 'Budget for 8 Day Private Photographic Samburu Tour: Complete Guide'
-description: Kenya safari guide covering budget for 8 day private photographic samburu tour, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering budget for 8 day private photographic samburu tour, including what is included, pricing, and booking advice.'
 slug: budget-for-8-day-private-photographic-samburu-tour
-primary_keyword: Budget for 8 day private photographic Samburu tour
+primary_keyword: 'Budget for 8 day private photographic Samburu tour'
 secondary_keywords:
-- Secure private guide Kenya safari package 8 days
-- Reserve 5 day Serena Lodges circuit package Kenya
-- Buy 5 day Fairmont Mara Safari Club package offer
-- Get final cost 7 day Masai Mara fly-in package August booking
-- Reserve guaranteed window seat safari vehicle package Kenya
+- 'Secure private guide Kenya safari package 8 days'
+- 'Reserve 5 day Serena Lodges circuit package Kenya'
+- 'Buy 5 day Fairmont Mara Safari Club package offer'
+- 'Get final cost 7 day Masai Mara fly-in package August booking'
+- 'Reserve guaranteed window seat safari vehicle package Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

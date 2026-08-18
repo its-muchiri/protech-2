@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight Disruptions Jkia Fuel: Complete Guide'
-description: Everything you need to know about kq flight disruptions jkia fuel, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight disruptions jkia fuel, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-disruptions-jkia-fuel
-primary_keyword: kq flight disruptions jkia fuel
+primary_keyword: 'kq flight disruptions jkia fuel'
 secondary_keywords:
-- flights nairobi to colombo
-- flights nairobi to dakar
-- cairo to nairobi flights egyptair
-- google flights nairobi to mombasa
-- hyderabad to nairobi flights
+- 'flights nairobi to colombo'
+- 'flights nairobi to dakar'
+- 'cairo to nairobi flights egyptair'
+- 'google flights nairobi to mombasa'
+- 'hyderabad to nairobi flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

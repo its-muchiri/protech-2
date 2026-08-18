@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is Flight from Kenya to Usa: Complete Guide'
-description: Everything you need to know about how much is flight from kenya to usa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is flight from kenya to usa, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-flight-from-kenya-to-usa
-primary_keyword: how much is flight from kenya to usa
+primary_keyword: 'how much is flight from kenya to usa'
 secondary_keywords:
-- are there direct flights from kenya to bahamas
-- flights from kenya to brisbane
-- flights from kenya to cameroon
-- flights from kenya to denmark
-- emirates flights from kenya to australia today
+- 'are there direct flights from kenya to bahamas'
+- 'flights from kenya to brisbane'
+- 'flights from kenya to cameroon'
+- 'flights from kenya to denmark'
+- 'emirates flights from kenya to australia today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

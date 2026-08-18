@@ -1,14 +1,14 @@
 ---
 title: 'Reliable Migration Safari Booking Kenya Operator Reviews Europe: Complete Guide'
-description: Kenya safari guide covering reliable migration safari booking kenya operator reviews europe, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reliable migration safari booking kenya operator reviews europe, including what is included, pricing, and booking advice.'
 slug: reliable-migration-safari-booking-kenya-operator-reviews-europe
-primary_keyword: Reliable migration safari booking Kenya operator reviews Europe
+primary_keyword: 'Reliable migration safari booking Kenya operator reviews Europe'
 secondary_keywords:
-- Off season Kenya safari deals April
-- Kenya safari scams
-- Bat Eared Fox safari Kenya
-- Drive times between Kenya parks
-- Community tourism projects Kenya safari
+- 'Off season Kenya safari deals April'
+- 'Kenya safari scams'
+- 'Bat Eared Fox safari Kenya'
+- 'Drive times between Kenya parks'
+- 'Community tourism projects Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

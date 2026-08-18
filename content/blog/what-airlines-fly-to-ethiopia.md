@@ -1,14 +1,14 @@
 ---
 title: 'What Airlines Fly to Ethiopia: Complete Guide'
-description: Everything you need to know about what airlines fly to ethiopia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about what airlines fly to ethiopia, including routes, airlines, booking tips, and fares.'
 slug: what-airlines-fly-to-ethiopia
-primary_keyword: what airlines fly to ethiopia
+primary_keyword: 'what airlines fly to ethiopia'
 secondary_keywords:
-- kq history
-- kq flights to johannesburg today
-- kenya airways flights live
-- kq mayfly flight schedule today
-- kenya airways cheapest flight offers
+- 'kq history'
+- 'kq flights to johannesburg today'
+- 'kenya airways flights live'
+- 'kq mayfly flight schedule today'
+- 'kenya airways cheapest flight offers'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

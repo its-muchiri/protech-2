@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Europe: Complete Guide'
-description: Everything you need to know about flights from kenya to europe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to europe, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-europe
-primary_keyword: flights from kenya to europe
+primary_keyword: 'flights from kenya to europe'
 secondary_keywords:
-- are emirates flights from uk to dubai cancelled
-- emirates flights from tehran
-- emirates flights from us to europe
-- emirates flights from warsaw to dubai
-- does emirates fly from boston
+- 'are emirates flights from uk to dubai cancelled'
+- 'emirates flights from tehran'
+- 'emirates flights from us to europe'
+- 'emirates flights from warsaw to dubai'
+- 'does emirates fly from boston'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi to Diani Beach Flights: Complete Guide'
-description: Everything you need to know about nairobi to diani beach flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about nairobi to diani beach flights, including routes, airlines, booking tips, and fares.'
 slug: nairobi-to-diani-beach-flights
-primary_keyword: nairobi to diani beach flights
+primary_keyword: 'nairobi to diani beach flights'
 secondary_keywords:
-- flight booking agents in nairobi
-- flight duration from kenya to usa
-- kenya to dubai flight cost
-- ticket from kenya to egypt
-- flights to kenya africa
+- 'flight booking agents in nairobi'
+- 'flight duration from kenya to usa'
+- 'kenya to dubai flight cost'
+- 'ticket from kenya to egypt'
+- 'flights to kenya africa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

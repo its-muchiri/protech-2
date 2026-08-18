@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Portugal: Complete Guide'
-description: Everything you need to know about flight from nairobi to portugal, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to portugal, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-portugal
-primary_keyword: flight from nairobi to portugal
+primary_keyword: 'flight from nairobi to portugal'
 secondary_keywords:
-- flights from mombasa to cape town
-- flights from mombasa to dubai
-- cheap flights from entebbe to mombasa
-- flights from gatwick to mombasa
-- flights from mombasa to milan italy
+- 'flights from mombasa to cape town'
+- 'flights from mombasa to dubai'
+- 'cheap flights from entebbe to mombasa'
+- 'flights from gatwick to mombasa'
+- 'flights from mombasa to milan italy'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Kenya to Qatar: Complete Guide'
-description: Everything you need to know about cheap flights from kenya to qatar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from kenya to qatar, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-kenya-to-qatar
-primary_keyword: cheap flights from kenya to qatar
+primary_keyword: 'cheap flights from kenya to qatar'
 secondary_keywords:
-- flight price from nairobi to ethiopia
-- cheap flights nairobi to mombasa
-- flights nairobi to addis
-- flights nairobi to bali
-- flights nairobi to calgary
+- 'flight price from nairobi to ethiopia'
+- 'cheap flights nairobi to mombasa'
+- 'flights nairobi to addis'
+- 'flights nairobi to bali'
+- 'flights nairobi to calgary'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

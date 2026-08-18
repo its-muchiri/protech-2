@@ -1,14 +1,14 @@
 ---
 title: 'Private Safari House Kenya: Complete Guide'
-description: Kenya safari guide covering private safari house kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering private safari house kenya, including what is included, pricing, and booking advice.'
 slug: private-safari-house-kenya
-primary_keyword: Private safari house Kenya
+primary_keyword: 'Private safari house Kenya'
 secondary_keywords:
-- All-inclusive safari Kenya book
-- Book group joining 6 day budget camping package Kenya
-- Buy 8 day accessible Kenya safari package quote
-- Quote for 9 day Kenya small group safari package tour
-- Get deal 12 day Kenya Tanzania migration combo package booking
+- 'All-inclusive safari Kenya book'
+- 'Book group joining 6 day budget camping package Kenya'
+- 'Buy 8 day accessible Kenya safari package quote'
+- 'Quote for 9 day Kenya small group safari package tour'
+- 'Get deal 12 day Kenya Tanzania migration combo package booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

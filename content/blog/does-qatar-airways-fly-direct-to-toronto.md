@@ -1,14 +1,14 @@
 ---
 title: 'Does Qatar Airways Fly Direct to Toronto: Complete Guide'
-description: Everything you need to know about does qatar airways fly direct to toronto, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about does qatar airways fly direct to toronto, including routes, airlines, booking tips, and fares.'
 slug: does-qatar-airways-fly-direct-to-toronto
-primary_keyword: does qatar airways fly direct to toronto
+primary_keyword: 'does qatar airways fly direct to toronto'
 secondary_keywords:
-- book flight from nairobi to eldoret
-- cost of flight from nairobi to mombasa
-- domestic flight from nairobi to mombasa
-- lufthansa flight from nairobi to frankfurt
-- flight from nairobi to geneva
+- 'book flight from nairobi to eldoret'
+- 'cost of flight from nairobi to mombasa'
+- 'domestic flight from nairobi to mombasa'
+- 'lufthansa flight from nairobi to frankfurt'
+- 'flight from nairobi to geneva'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Famous People Kenya Safari: Complete Guide'
-description: Kenya safari guide covering famous people kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering famous people kenya safari, including what is included, pricing, and booking advice.'
 slug: famous-people-kenya-safari
-primary_keyword: Famous people Kenya safari
+primary_keyword: 'Famous people Kenya safari'
 secondary_keywords:
-- Aberdare Ranges hiking tours Satima Peak
-- Giraffe Centre Nairobi tour Kiss a Giraffe experience cost
-- Axis Africa Safaris budget camping packages
-- Kenya safari cost breakdown (park fees, accommodation, transport)
-- Malaria prevention Kenya safari medication / precautions
+- 'Aberdare Ranges hiking tours Satima Peak'
+- 'Giraffe Centre Nairobi tour Kiss a Giraffe experience cost'
+- 'Axis Africa Safaris budget camping packages'
+- 'Kenya safari cost breakdown (park fees, accommodation, transport)'
+- 'Malaria prevention Kenya safari medication / precautions'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

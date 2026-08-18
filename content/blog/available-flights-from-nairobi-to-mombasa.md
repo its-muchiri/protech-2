@@ -1,14 +1,14 @@
 ---
 title: 'Available Flights from Nairobi to Mombasa: Complete Guide'
-description: Everything you need to know about available flights from nairobi to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about available flights from nairobi to mombasa, including routes, airlines, booking tips, and fares.'
 slug: available-flights-from-nairobi-to-mombasa
-primary_keyword: available flights from nairobi to mombasa
+primary_keyword: 'available flights from nairobi to mombasa'
 secondary_keywords:
-- flight from nairobi to boston
-- flight from nairobi to china
-- flight from nairobi to diani
-- flight from nairobi to edmonton
-- how long is a flight from frankfurt to nairobi
+- 'flight from nairobi to boston'
+- 'flight from nairobi to china'
+- 'flight from nairobi to diani'
+- 'flight from nairobi to edmonton'
+- 'how long is a flight from frankfurt to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

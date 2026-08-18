@@ -1,14 +1,14 @@
 ---
 title: 'Walking Safari Kenya Booking Europe Guided: Complete Guide'
-description: Kenya safari guide covering walking safari kenya booking europe guided, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering walking safari kenya booking europe guided, including what is included, pricing, and booking advice.'
 slug: walking-safari-kenya-booking-europe-guided
-primary_keyword: Walking safari Kenya booking Europe guided
+primary_keyword: 'Walking safari Kenya booking Europe guided'
 secondary_keywords:
-- Best tour companies in Kenya reviews TripAdvisor
-- Travel agents Thika booking Kenya tours
-- Tsavo East National Park safari from Mombasa 3 days price
-- Aberdare National Park lodges (The Ark, Treetops) booking
-- Mobile camping safari Kenya private setup
+- 'Best tour companies in Kenya reviews TripAdvisor'
+- 'Travel agents Thika booking Kenya tours'
+- 'Tsavo East National Park safari from Mombasa 3 days price'
+- 'Aberdare National Park lodges (The Ark, Treetops) booking'
+- 'Mobile camping safari Kenya private setup'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

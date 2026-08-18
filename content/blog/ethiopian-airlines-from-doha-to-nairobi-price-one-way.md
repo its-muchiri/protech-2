@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines from Doha to Nairobi Price One Way: Complete Guide'
-description: Everything you need to know about ethiopian airlines from doha to nairobi price one way, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines from doha to nairobi price one way, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-from-doha-to-nairobi-price-one-way
-primary_keyword: ethiopian airlines from doha to nairobi price one way
+primary_keyword: 'ethiopian airlines from doha to nairobi price one way'
 secondary_keywords:
-- turkish airlines from nairobi to istanbul
-- turkish airlines nairobi contact number
-- flight from nairobi to turkey
-- kenya to turkey ticket price
-- turkish airlines most popular routes
+- 'turkish airlines from nairobi to istanbul'
+- 'turkish airlines nairobi contact number'
+- 'flight from nairobi to turkey'
+- 'kenya to turkey ticket price'
+- 'turkish airlines most popular routes'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

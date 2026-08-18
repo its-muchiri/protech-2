@@ -1,14 +1,14 @@
 ---
 title: 'Combined & Complex Queries: Complete Guide'
-description: Kenya safari guide covering combined & complex queries, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering combined & complex queries, including what is included, pricing, and booking advice.'
 slug: combined-and-complex-queries
-primary_keyword: Combined & Complex Queries
+primary_keyword: 'Combined & Complex Queries'
 secondary_keywords:
-- Buy 14 day Kenya grand safari package
-- Laikipia luxury safari package booking
-- Exclusive Kenya safari experience booking
-- Kenya safari package for family with kids
-- Honeymoon deals Kenya safari resorts
+- 'Buy 14 day Kenya grand safari package'
+- 'Laikipia luxury safari package booking'
+- 'Exclusive Kenya safari experience booking'
+- 'Kenya safari package for family with kids'
+- 'Honeymoon deals Kenya safari resorts'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

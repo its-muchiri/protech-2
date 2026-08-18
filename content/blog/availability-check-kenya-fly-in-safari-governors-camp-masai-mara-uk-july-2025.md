@@ -1,14 +1,14 @@
 ---
 title: 'Availability Check Kenya Fly-in Safari Governors Camp Masai Mara UK July 2025: Complete Guide'
-description: Kenya safari guide covering availability check kenya fly-in safari governors camp masai mara uk july 2025, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering availability check kenya fly-in safari governors camp masai mara uk july 2025, including what is included, pricing, and booking advice.'
 slug: availability-check-kenya-fly-in-safari-governors-camp-masai-mara-uk-july-2025
-primary_keyword: Availability check Kenya fly-in safari Governors Camp Masai Mara UK July 2025
+primary_keyword: 'Availability check Kenya fly-in safari Governors Camp Masai Mara UK July 2025'
 secondary_keywords:
-- Single supplement cost Kenya safari solo travelers
-- Best rated tour companies Kenya TripAdvisor
-- Kenya golfing safari packages Great Rift Valley Lodge / Windsor
-- Diani Beach based tour operators excursions / safaris
-- Book Lake Nakuru flamingo safari trip online Europe
+- 'Single supplement cost Kenya safari solo travelers'
+- 'Best rated tour companies Kenya TripAdvisor'
+- 'Kenya golfing safari packages Great Rift Valley Lodge / Windsor'
+- 'Diani Beach based tour operators excursions / safaris'
+- 'Book Lake Nakuru flamingo safari trip online Europe'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

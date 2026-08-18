@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airline from Turkey to Nairobi: Complete Guide'
-description: Everything you need to know about turkish airline from turkey to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airline from turkey to nairobi, including routes, airlines, booking tips, and fares.'
 slug: turkish-airline-from-turkey-to-nairobi
-primary_keyword: turkish airline from turkey to nairobi
+primary_keyword: 'turkish airline from turkey to nairobi'
 secondary_keywords:
-- emirates airline kenya tickets
-- emirates kenya email address
-- emirates logistics kenya
-- emirates kenya visa
-- ethiopian airlines flight status to nairobi
+- 'emirates airline kenya tickets'
+- 'emirates kenya email address'
+- 'emirates logistics kenya'
+- 'emirates kenya visa'
+- 'ethiopian airlines flight status to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

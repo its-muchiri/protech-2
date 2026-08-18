@@ -1,14 +1,14 @@
 ---
 title: 'Walking Safari Kenya: Complete Guide'
-description: Kenya safari guide covering walking safari kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering walking safari kenya, including what is included, pricing, and booking advice.'
 slug: walking-safari-kenya
-primary_keyword: Walking safari Kenya
+primary_keyword: 'Walking safari Kenya'
 secondary_keywords:
-- Educational safari Kenya
-- 12 day Kenya safari
-- All-inclusive safari cost Kenya
-- Masai Mara lodges
-- Cultural tours Kenya safari
+- 'Educational safari Kenya'
+- '12 day Kenya safari'
+- 'All-inclusive safari cost Kenya'
+- 'Masai Mara lodges'
+- 'Cultural tours Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

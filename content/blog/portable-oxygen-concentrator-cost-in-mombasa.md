@@ -1,14 +1,14 @@
 ---
 title: 'Portable Oxygen Concentrator Cost in Mombasa: 2026 Price Guide'
-description: Kenya buying guide to portable oxygen concentrator cost in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to portable oxygen concentrator cost in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: portable-oxygen-concentrator-cost-in-mombasa
-primary_keyword: Portable oxygen concentrator cost in Mombasa
+primary_keyword: 'Portable oxygen concentrator cost in Mombasa'
 secondary_keywords:
-- quality medical supplies Kenya
-- medical gas suppliers Kenya
-- general medical practice supplies Kenya
-- Used CT scanner for sale in Kenya
-- Mobile X-ray machine for sale in Mombasa
+- 'quality medical supplies Kenya'
+- 'medical gas suppliers Kenya'
+- 'general medical practice supplies Kenya'
+- 'Used CT scanner for sale in Kenya'
+- 'Mobile X-ray machine for sale in Mombasa'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

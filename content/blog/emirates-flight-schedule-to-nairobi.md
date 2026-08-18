@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight Schedule to Nairobi: Complete Guide'
-description: Everything you need to know about emirates flight schedule to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight schedule to nairobi, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-schedule-to-nairobi
-primary_keyword: emirates flight schedule to nairobi
+primary_keyword: 'emirates flight schedule to nairobi'
 secondary_keywords:
-- flights nairobi to jhb
-- flights nairobi to kilimanjaro airport
-- london to nairobi direct flights
-- mogadishu to nairobi flights time
-- flights to nairobi one way
+- 'flights nairobi to jhb'
+- 'flights nairobi to kilimanjaro airport'
+- 'london to nairobi direct flights'
+- 'mogadishu to nairobi flights time'
+- 'flights to nairobi one way'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

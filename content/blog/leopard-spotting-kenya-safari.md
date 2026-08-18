@@ -1,14 +1,14 @@
 ---
 title: 'Leopard Spotting Kenya Safari: Complete Guide'
-description: Kenya safari guide covering leopard spotting kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering leopard spotting kenya safari, including what is included, pricing, and booking advice.'
 slug: leopard-spotting-kenya-safari
-primary_keyword: Leopard spotting Kenya safari
+primary_keyword: 'Leopard spotting Kenya safari'
 secondary_keywords:
-- Book Northern circuit Kenya safari package
-- Masai Mara tour cost
-- Finalize Kenya safari itinerary booking
-- Guided photo safari package Kenya book
-- Family safari package Kenya book
+- 'Book Northern circuit Kenya safari package'
+- 'Masai Mara tour cost'
+- 'Finalize Kenya safari itinerary booking'
+- 'Guided photo safari package Kenya book'
+- 'Family safari package Kenya book'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

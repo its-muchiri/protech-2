@@ -1,14 +1,14 @@
 ---
 title: 'Amboseli Budget Safari Packages Camping Options: Complete Guide'
-description: Kenya safari guide covering amboseli budget safari packages camping options, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering amboseli budget safari packages camping options, including what is included, pricing, and booking advice.'
 slug: amboseli-budget-safari-packages-camping-options
-primary_keyword: Amboseli budget safari packages camping options
+primary_keyword: 'Amboseli budget safari packages camping options'
 secondary_keywords:
-- Luxury Kenya safari package deals
-- Early bird discount 9 day custom Laikipia family adventure
-- 10 day Kenya safari itinerary package book
-- Book sustainable eco-tour operator Kenya package
-- Reserve luxury couples retreat Kenya safari package honeymoon
+- 'Luxury Kenya safari package deals'
+- 'Early bird discount 9 day custom Laikipia family adventure'
+- '10 day Kenya safari itinerary package book'
+- 'Book sustainable eco-tour operator Kenya package'
+- 'Reserve luxury couples retreat Kenya safari package honeymoon'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

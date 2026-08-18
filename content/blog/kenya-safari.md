@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari: Complete Guide'
-description: Kenya safari guide covering kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari, including what is included, pricing, and booking advice.'
 slug: kenya-safari
-primary_keyword: Kenya safari
+primary_keyword: 'Kenya safari'
 secondary_keywords:
-- High altitude safari Kenya (Aberdares, Mt Kenya)
-- Malaria precautions Kenya safari
-- Kenya safari vs Tanzania safari
-- Family safari lodge with kids club Kenya
-- Birding specialist guide Kenya Aberdares
+- 'High altitude safari Kenya (Aberdares, Mt Kenya)'
+- 'Malaria precautions Kenya safari'
+- 'Kenya safari vs Tanzania safari'
+- 'Family safari lodge with kids club Kenya'
+- 'Birding specialist guide Kenya Aberdares'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

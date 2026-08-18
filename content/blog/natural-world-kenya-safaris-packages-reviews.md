@@ -1,14 +1,14 @@
 ---
 title: 'Natural World Kenya Safaris Packages / Reviews: Complete Guide'
-description: Kenya safari guide covering natural world kenya safaris packages / reviews, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering natural world kenya safaris packages / reviews, including what is included, pricing, and booking advice.'
 slug: natural-world-kenya-safaris-packages-reviews
-primary_keyword: Natural World Kenya Safaris packages / reviews
+primary_keyword: 'Natural World Kenya Safaris packages / reviews'
 secondary_keywords:
-- Purchase luxury wellness retreat & safari combination Kenya USA spa treatments yoga included cost
-- Reserve Lake Victoria fishing safari Nile perch Kenya USA boat charter booking cost
-- Find luxury train safari Rovos Rail style Kenya (limited options) booking agent USA
-- Top Kenya safari
-- Safari Lake Nakuru flamingos
+- 'Purchase luxury wellness retreat & safari combination Kenya USA spa treatments yoga included cost'
+- 'Reserve Lake Victoria fishing safari Nile perch Kenya USA boat charter booking cost'
+- 'Find luxury train safari Rovos Rail style Kenya (limited options) booking agent USA'
+- 'Top Kenya safari'
+- 'Safari Lake Nakuru flamingos'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

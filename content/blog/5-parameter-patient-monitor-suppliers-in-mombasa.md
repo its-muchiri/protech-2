@@ -1,14 +1,14 @@
 ---
 title: '5-parameter Patient Monitor Suppliers in Mombasa: 2026 Price Guide'
-description: Kenya buying guide to 5-parameter patient monitor suppliers in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to 5-parameter patient monitor suppliers in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: 5-parameter-patient-monitor-suppliers-in-mombasa
-primary_keyword: 5-parameter patient monitor suppliers in Mombasa
+primary_keyword: '5-parameter patient monitor suppliers in Mombasa'
 secondary_keywords:
-- List of medical equipment suppliers in Nairobi
-- Medical equipment spare parts in Nairobi
-- Location-Specific Variations
-- Clinic equipment suppliers in Machakos
-- Veterinary clinic equipment in Nanyuki
+- 'List of medical equipment suppliers in Nairobi'
+- 'Medical equipment spare parts in Nairobi'
+- 'Location-Specific Variations'
+- 'Clinic equipment suppliers in Machakos'
+- 'Veterinary clinic equipment in Nanyuki'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

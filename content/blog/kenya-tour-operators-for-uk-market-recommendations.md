@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Tour Operators for UK Market Recommendations: Complete Guide'
-description: Kenya safari guide covering kenya tour operators for uk market recommendations, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya tour operators for uk market recommendations, including what is included, pricing, and booking advice.'
 slug: kenya-tour-operators-for-uk-market-recommendations
-primary_keyword: Kenya tour operators for UK market recommendations
+primary_keyword: 'Kenya tour operators for UK market recommendations'
 secondary_keywords:
-- Highest quality Kenya safari experience booking guarantee USA
-- Cost 7-day family camping safari Kenya Amboseli from USA budget
-- Check deals Kenya safari and Diani beach all-inclusive package Europe flights
-- Buy all-inclusive fly-in safari package Lewa Conservancy Kenya Europe price list 2025
-- Purchase women-only small group Kenya safari tour UK female guide operator deals
+- 'Highest quality Kenya safari experience booking guarantee USA'
+- 'Cost 7-day family camping safari Kenya Amboseli from USA budget'
+- 'Check deals Kenya safari and Diani beach all-inclusive package Europe flights'
+- 'Buy all-inclusive fly-in safari package Lewa Conservancy Kenya Europe price list 2025'
+- 'Purchase women-only small group Kenya safari tour UK female guide operator deals'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

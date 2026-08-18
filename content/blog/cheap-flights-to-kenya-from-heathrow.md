@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights to Kenya from Heathrow: Complete Guide'
-description: Everything you need to know about cheap flights to kenya from heathrow, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights to kenya from heathrow, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-to-kenya-from-heathrow
-primary_keyword: cheap flights to kenya from heathrow
+primary_keyword: 'cheap flights to kenya from heathrow'
 secondary_keywords:
-- turkish airlines nairobi contact number kenya
-- turkish airlines nairobi office hours
-- turkish airlines nairobi lounge
-- turkish airlines how long for refund
-- emirates airlines kenya
+- 'turkish airlines nairobi contact number kenya'
+- 'turkish airlines nairobi office hours'
+- 'turkish airlines nairobi lounge'
+- 'turkish airlines how long for refund'
+- 'emirates airlines kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

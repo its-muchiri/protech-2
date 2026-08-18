@@ -1,14 +1,14 @@
 ---
 title: 'Cheapest Flights Kenya: Complete Guide'
-description: Everything you need to know about cheapest flights kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheapest flights kenya, including routes, airlines, booking tips, and fares.'
 slug: cheapest-flights-kenya
-primary_keyword: cheapest flights kenya
+primary_keyword: 'cheapest flights kenya'
 secondary_keywords:
-- kenya airways flights from gaborone to nairobi
-- cheap flights to kenya from heathrow
-- flights from nairobi kenya to dublin ireland
-- flights to kenya from jfk
-- klm flights from kenya to amsterdam
+- 'kenya airways flights from gaborone to nairobi'
+- 'cheap flights to kenya from heathrow'
+- 'flights from nairobi kenya to dublin ireland'
+- 'flights to kenya from jfk'
+- 'klm flights from kenya to amsterdam'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

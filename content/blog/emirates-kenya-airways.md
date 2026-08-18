@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Kenya Airways: Complete Guide'
-description: Everything you need to know about emirates kenya airways, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates kenya airways, including routes, airlines, booking tips, and fares.'
 slug: emirates-kenya-airways
-primary_keyword: emirates kenya airways
+primary_keyword: 'emirates kenya airways'
 secondary_keywords:
-- kenya airways flight from nairobi to mombasa today
-- kenya airways flight from nairobi to zanzibar
-- kenya airways flight from accra to nairobi
-- kenya airways flight schedule from nairobi to dar es salaam
-- does kenya airways fly to australia
+- 'kenya airways flight from nairobi to mombasa today'
+- 'kenya airways flight from nairobi to zanzibar'
+- 'kenya airways flight from accra to nairobi'
+- 'kenya airways flight schedule from nairobi to dar es salaam'
+- 'does kenya airways fly to australia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

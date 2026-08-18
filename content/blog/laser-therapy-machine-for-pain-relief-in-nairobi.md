@@ -1,14 +1,14 @@
 ---
 title: 'Laser Therapy Machine for Pain Relief in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to laser therapy machine for pain relief in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to laser therapy machine for pain relief in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: laser-therapy-machine-for-pain-relief-in-nairobi
-primary_keyword: Laser therapy machine for pain relief in Nairobi
+primary_keyword: 'Laser therapy machine for pain relief in Nairobi'
 secondary_keywords:
-- Delivery bed / Obstetric table price
-- Pulse oximeter price in Kenya
-- Physiotherapy and Rehabilitation Equipment
-- CP walker for children with special needs price
-- Dental stool for dentist and assistant price
+- 'Delivery bed / Obstetric table price'
+- 'Pulse oximeter price in Kenya'
+- 'Physiotherapy and Rehabilitation Equipment'
+- 'CP walker for children with special needs price'
+- 'Dental stool for dentist and assistant price'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

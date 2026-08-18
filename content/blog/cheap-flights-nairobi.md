@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights Nairobi: Complete Guide'
-description: Everything you need to know about cheap flights nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights nairobi, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-nairobi
-primary_keyword: cheap flights nairobi
+primary_keyword: 'cheap flights nairobi'
 secondary_keywords:
-- google flights nairobi to kigali
-- flights nairobi to istanbul
-- flight nairobi to jakarta
-- flights nairobi to kinshasa
-- lusaka to nairobi flights
+- 'google flights nairobi to kigali'
+- 'flights nairobi to istanbul'
+- 'flight nairobi to jakarta'
+- 'flights nairobi to kinshasa'
+- 'lusaka to nairobi flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

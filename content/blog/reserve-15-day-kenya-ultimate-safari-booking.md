@@ -1,14 +1,14 @@
 ---
 title: 'Reserve 15 Day Kenya Ultimate Safari Booking: Complete Guide'
-description: Kenya safari guide covering reserve 15 day kenya ultimate safari booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve 15 day kenya ultimate safari booking, including what is included, pricing, and booking advice.'
 slug: reserve-15-day-kenya-ultimate-safari-booking
-primary_keyword: Reserve 15 day Kenya ultimate safari booking
+primary_keyword: 'Reserve 15 day Kenya ultimate safari booking'
 secondary_keywords:
-- Reputable Kenya camping safari providers UK reviews
-- Cost comparison budget Kenya group safari tours USA local vs international agents
-- Purchase 12-day ultimate Kenya luxury safari cost USA includes internal flights lodges
-- Book Kenya conservation focused safari Ol Pejeta rhino tracking Europe donation included
-- Book Kenya safari including school visit community project UK responsible tourism options cost
+- 'Reputable Kenya camping safari providers UK reviews'
+- 'Cost comparison budget Kenya group safari tours USA local vs international agents'
+- 'Purchase 12-day ultimate Kenya luxury safari cost USA includes internal flights lodges'
+- 'Book Kenya conservation focused safari Ol Pejeta rhino tracking Europe donation included'
+- 'Book Kenya safari including school visit community project UK responsible tourism options cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

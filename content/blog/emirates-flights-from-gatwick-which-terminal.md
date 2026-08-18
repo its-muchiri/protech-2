@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Gatwick Which Terminal: Complete Guide'
-description: Everything you need to know about emirates flights from gatwick which terminal, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from gatwick which terminal, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-gatwick-which-terminal
-primary_keyword: emirates flights from gatwick which terminal
+primary_keyword: 'emirates flights from gatwick which terminal'
 secondary_keywords:
-- emirates flights from tehran
-- emirates flights from us to europe
-- emirates flights from warsaw to dubai
-- emirates flights from yvr
-- emirates flights from zurich
+- 'emirates flights from tehran'
+- 'emirates flights from us to europe'
+- 'emirates flights from warsaw to dubai'
+- 'emirates flights from yvr'
+- 'emirates flights from zurich'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

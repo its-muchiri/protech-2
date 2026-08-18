@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is a Flight from Nairobi to Malindi: Complete Guide'
-description: Everything you need to know about how much is a flight from nairobi to malindi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is a flight from nairobi to malindi, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-a-flight-from-nairobi-to-malindi
-primary_keyword: how much is a flight from nairobi to malindi
+primary_keyword: 'how much is a flight from nairobi to malindi'
 secondary_keywords:
-- 8 emirates
-- qatar airways flight from nairobi to doha today
-- nairobi qatar flights
-- how much flight from nairobi to qatar
-- qatar airways nairobi office opening hours
+- '8 emirates'
+- 'qatar airways flight from nairobi to doha today'
+- 'nairobi qatar flights'
+- 'how much flight from nairobi to qatar'
+- 'qatar airways nairobi office opening hours'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

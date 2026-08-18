@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Nairobi to Egypt: Complete Guide'
-description: Everything you need to know about cheap flights from nairobi to egypt, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from nairobi to egypt, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-nairobi-to-egypt
-primary_keyword: cheap flights from nairobi to egypt
+primary_keyword: 'cheap flights from nairobi to egypt'
 secondary_keywords:
-- flights from nairobi wilson to malindi
-- flights from nairobi to yyz
-- cheap flights from nairobi to lagos
-- flights from nairobi to kenya
-- flights from mombasa to kisumu
+- 'flights from nairobi wilson to malindi'
+- 'flights from nairobi to yyz'
+- 'cheap flights from nairobi to lagos'
+- 'flights from nairobi to kenya'
+- 'flights from mombasa to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Quality/Trust Based (Best, Top, Luxury, Reliable, Recommended, Reviews): Complete Guide'
-description: Kenya safari guide covering quality/trust based (best, top, luxury, reliable, recommended, reviews), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering quality/trust based (best, top, luxury, reliable, recommended, reviews), including what is included, pricing, and booking advice.'
 slug: quality-trust-based-best-top-luxury-reliable-recommended-reviews
-primary_keyword: Quality/Trust Based (Best, Top, Luxury, Reliable, Recommended, Reviews)
+primary_keyword: 'Quality/Trust Based (Best, Top, Luxury, Reliable, Recommended, Reviews)'
 secondary_keywords:
-- Cost of 3 day Amboseli safari package
-- Samburu special five safari package price
-- Mahali Mzuri safari package deal
-- Luxury honeymoon safari Kenya cost
-- Best value Kenya safari package cost
+- 'Cost of 3 day Amboseli safari package'
+- 'Samburu special five safari package price'
+- 'Mahali Mzuri safari package deal'
+- 'Luxury honeymoon safari Kenya cost'
+- 'Best value Kenya safari package cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

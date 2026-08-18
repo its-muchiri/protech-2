@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight from Nairobi Today: Complete Guide'
-description: Everything you need to know about emirates flight from nairobi today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight from nairobi today, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-from-nairobi-today
-primary_keyword: emirates flight from nairobi today
+primary_keyword: 'emirates flight from nairobi today'
 secondary_keywords:
-- ethiopian airlines cargo office nairobi
-- turkish airlines nairobi airport terminal
-- does turkish airlines fly to toronto
-- flight ticket from kenya to germany
-- flight booking apps in kenya
+- 'ethiopian airlines cargo office nairobi'
+- 'turkish airlines nairobi airport terminal'
+- 'does turkish airlines fly to toronto'
+- 'flight ticket from kenya to germany'
+- 'flight booking apps in kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

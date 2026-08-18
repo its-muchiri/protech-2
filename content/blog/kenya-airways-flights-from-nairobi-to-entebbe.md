@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights from Nairobi to Entebbe: Complete Guide'
-description: Everything you need to know about kenya airways flights from nairobi to entebbe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights from nairobi to entebbe, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-from-nairobi-to-entebbe
-primary_keyword: kenya airways flights from nairobi to entebbe
+primary_keyword: 'kenya airways flights from nairobi to entebbe'
 secondary_keywords:
-- air india flight from nairobi
-- book flight from nairobi to eldoret
-- cost of flight from nairobi to mombasa
-- domestic flight from nairobi to mombasa
-- lufthansa flight from nairobi to frankfurt
+- 'air india flight from nairobi'
+- 'book flight from nairobi to eldoret'
+- 'cost of flight from nairobi to mombasa'
+- 'domestic flight from nairobi to mombasa'
+- 'lufthansa flight from nairobi to frankfurt'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

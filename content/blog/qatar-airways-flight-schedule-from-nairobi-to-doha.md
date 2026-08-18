@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways Flight Schedule from Nairobi to Doha: Complete Guide'
-description: Everything you need to know about qatar airways flight schedule from nairobi to doha, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways flight schedule from nairobi to doha, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-flight-schedule-from-nairobi-to-doha
-primary_keyword: qatar airways flight schedule from nairobi to doha
+primary_keyword: 'qatar airways flight schedule from nairobi to doha'
 secondary_keywords:
-- emirates flights from venice
-- emirates airlines from which country
-- emirates flights from new york to mumbai
-- emirates flights to new zealand from manchester
-- emirates flight 1
+- 'emirates flights from venice'
+- 'emirates airlines from which country'
+- 'emirates flights from new york to mumbai'
+- 'emirates flights to new zealand from manchester'
+- 'emirates flight 1'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

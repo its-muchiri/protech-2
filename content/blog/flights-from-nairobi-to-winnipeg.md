@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Winnipeg: Complete Guide'
-description: Everything you need to know about flights from nairobi to winnipeg, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to winnipeg, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-winnipeg
-primary_keyword: flights from nairobi to winnipeg
+primary_keyword: 'flights from nairobi to winnipeg'
 secondary_keywords:
-- kq 554 flight status
-- kq 882 flight status
-- emirates airlines nairobi contacts
-- emirates airlines nairobi office phone number
-- emirates from nairobi to dubai
+- 'kq 554 flight status'
+- 'kq 882 flight status'
+- 'emirates airlines nairobi contacts'
+- 'emirates airlines nairobi office phone number'
+- 'emirates from nairobi to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

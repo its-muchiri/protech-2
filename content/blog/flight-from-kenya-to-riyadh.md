@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kenya to Riyadh: Complete Guide'
-description: Everything you need to know about flight from kenya to riyadh, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kenya to riyadh, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kenya-to-riyadh
-primary_keyword: flight from kenya to riyadh
+primary_keyword: 'flight from kenya to riyadh'
 secondary_keywords:
-- kenya airways customer service
-- is kenya airways a safe airline
-- kenya airways flight from nairobi to lusaka
-- kenya airways flight from nairobi to mombasa ticket price
-- kenya airways flight 431 survivors
+- 'kenya airways customer service'
+- 'is kenya airways a safe airline'
+- 'kenya airways flight from nairobi to lusaka'
+- 'kenya airways flight from nairobi to mombasa ticket price'
+- 'kenya airways flight 431 survivors'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

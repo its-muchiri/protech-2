@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Harare: Complete Guide'
-description: Everything you need to know about flights from kenya to harare, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to harare, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-harare
-primary_keyword: flights from kenya to harare
+primary_keyword: 'flights from kenya to harare'
 secondary_keywords:
-- flights from kenya to hawaii
-- flight from kenya to italy
-- flights from kenya to jfk
-- flight from kenya to kampala
-- flights from kenya to lagos
+- 'flights from kenya to hawaii'
+- 'flight from kenya to italy'
+- 'flights from kenya to jfk'
+- 'flight from kenya to kampala'
+- 'flights from kenya to lagos'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'One Month Kenya Volunteer Tour Program: Complete Guide'
-description: Kenya safari guide covering one month kenya volunteer tour program, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering one month kenya volunteer tour program, including what is included, pricing, and booking advice.'
 slug: one-month-kenya-volunteer-tour-program
-primary_keyword: One month Kenya volunteer tour program
+primary_keyword: 'One month Kenya volunteer tour program'
 secondary_keywords:
-- Book senior friendly Kenya safari package easy pace
-- Compare fly-in vs overland Kenya safari package cost buy
-- Reserve 5 day family lodge Amboseli package Christmas  deal
-- Quote 7 day Kicheche Camps migration special package July booking
-- Ethical tour companies Kenya community focus
+- 'Book senior friendly Kenya safari package easy pace'
+- 'Compare fly-in vs overland Kenya safari package cost buy'
+- 'Reserve 5 day family lodge Amboseli package Christmas  deal'
+- 'Quote 7 day Kicheche Camps migration special package July booking'
+- 'Ethical tour companies Kenya community focus'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

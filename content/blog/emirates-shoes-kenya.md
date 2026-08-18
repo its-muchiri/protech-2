@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Shoes Kenya: Complete Guide'
-description: Everything you need to know about emirates shoes kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates shoes kenya, including routes, airlines, booking tips, and fares.'
 slug: emirates-shoes-kenya
-primary_keyword: emirates shoes kenya
+primary_keyword: 'emirates shoes kenya'
 secondary_keywords:
-- ethiopian airlines nairobi to accra
-- ethiopian airlines agent in nairobi
-- qatar airways from nairobi to doha
-- does turkish airlines fly to dubai
-- flight booking in kenya
+- 'ethiopian airlines nairobi to accra'
+- 'ethiopian airlines agent in nairobi'
+- 'qatar airways from nairobi to doha'
+- 'does turkish airlines fly to dubai'
+- 'flight booking in kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

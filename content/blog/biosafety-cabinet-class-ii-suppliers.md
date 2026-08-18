@@ -1,14 +1,14 @@
 ---
 title: 'Biosafety Cabinet Class II Suppliers: 2026 Price Guide'
-description: Kenya buying guide to biosafety cabinet class ii suppliers. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to biosafety cabinet class ii suppliers. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: biosafety-cabinet-class-ii-suppliers
-primary_keyword: Biosafety cabinet class II suppliers
+primary_keyword: 'Biosafety cabinet class II suppliers'
 secondary_keywords:
-- automatic BP machine Kenya
-- manual hospital bed Kenya
-- AED machine Kenya
-- baby incubator price Kenya
-- exercise bikes medical Kenya
+- 'automatic BP machine Kenya'
+- 'manual hospital bed Kenya'
+- 'AED machine Kenya'
+- 'baby incubator price Kenya'
+- 'exercise bikes medical Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

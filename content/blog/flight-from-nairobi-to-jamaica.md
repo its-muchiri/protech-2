@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Jamaica: Complete Guide'
-description: Everything you need to know about flight from nairobi to jamaica, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to jamaica, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-jamaica
-primary_keyword: flight from nairobi to jamaica
+primary_keyword: 'flight from nairobi to jamaica'
 secondary_keywords:
-- cheap flights to kenya in june
-- flights nairobi to mombasa kenya airways
-- flight attendant salary in kenya per month
-- flights to kenya in september
-- flights nairobi ukunda
+- 'cheap flights to kenya in june'
+- 'flights nairobi to mombasa kenya airways'
+- 'flight attendant salary in kenya per month'
+- 'flights to kenya in september'
+- 'flights nairobi ukunda'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

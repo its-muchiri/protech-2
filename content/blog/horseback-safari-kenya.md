@@ -1,14 +1,14 @@
 ---
 title: 'Horseback Safari Kenya: Complete Guide'
-description: Kenya safari guide covering horseback safari kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering horseback safari kenya, including what is included, pricing, and booking advice.'
 slug: horseback-safari-kenya
-primary_keyword: Horseback safari Kenya
+primary_keyword: 'Horseback safari Kenya'
 secondary_keywords:
-- Buy now special offer 5 day Samburu safari package
-- Reserve 9 day Porini Camps eco-safari package Kenya
-- Book 10 day Kenya adventure package Abercrombie & Kent
-- Reserve Michelin star chef safari experience package (if available)
-- KATO registered tour operators list
+- 'Buy now special offer 5 day Samburu safari package'
+- 'Reserve 9 day Porini Camps eco-safari package Kenya'
+- 'Book 10 day Kenya adventure package Abercrombie & Kent'
+- 'Reserve Michelin star chef safari experience package (if available)'
+- 'KATO registered tour operators list'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

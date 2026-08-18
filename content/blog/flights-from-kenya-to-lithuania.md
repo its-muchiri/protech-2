@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Lithuania: Complete Guide'
-description: Everything you need to know about flights from kenya to lithuania, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to lithuania, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-lithuania
-primary_keyword: flights from kenya to lithuania
+primary_keyword: 'flights from kenya to lithuania'
 secondary_keywords:
-- flights nairobi to vic falls
-- fly nairobi to watamu
-- flight time nairobi to zanzibar
-- 2 bedroom nairobi west
-- emirates flights from sydney
+- 'flights nairobi to vic falls'
+- 'fly nairobi to watamu'
+- 'flight time nairobi to zanzibar'
+- '2 bedroom nairobi west'
+- 'emirates flights from sydney'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Round Trip Flights to Nairobi Kenya: Complete Guide'
-description: Everything you need to know about round trip flights to nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about round trip flights to nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: round-trip-flights-to-nairobi-kenya
-primary_keyword: round trip flights to nairobi kenya
+primary_keyword: 'round trip flights to nairobi kenya'
 secondary_keywords:
-- flights to kenya in october
-- flights ro kenya
-- flights kenya to cape town
-- x in kenya
-- dubai flights from kenya
+- 'flights to kenya in october'
+- 'flights ro kenya'
+- 'flights kenya to cape town'
+- 'x in kenya'
+- 'dubai flights from kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

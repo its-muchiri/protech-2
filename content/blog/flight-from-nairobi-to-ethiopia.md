@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Ethiopia: Complete Guide'
-description: Everything you need to know about flight from nairobi to ethiopia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to ethiopia, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-ethiopia
-primary_keyword: flight from nairobi to ethiopia
+primary_keyword: 'flight from nairobi to ethiopia'
 secondary_keywords:
-- kenya airways flights from durban to mumbai
-- kq flight from juba to nairobi today
-- kq airline routes
-- kq 533
-- kenya airways flight from nairobi to cape town
+- 'kenya airways flights from durban to mumbai'
+- 'kq flight from juba to nairobi today'
+- 'kq airline routes'
+- 'kq 533'
+- 'kenya airways flight from nairobi to cape town'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

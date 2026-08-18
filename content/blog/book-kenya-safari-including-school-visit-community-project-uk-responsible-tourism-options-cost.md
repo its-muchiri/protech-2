@@ -1,14 +1,14 @@
 ---
 title: 'Book Kenya Safari Including School Visit Community Project UK Responsible Tourism Options Cost: Complete Guide'
-description: Kenya safari guide covering book kenya safari including school visit community project uk responsible tourism options cost, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book kenya safari including school visit community project uk responsible tourism options cost, including what is included, pricing, and booking advice.'
 slug: book-kenya-safari-including-school-visit-community-project-uk-responsible-tourism-options-cost
-primary_keyword: Book Kenya safari including school visit community project UK responsible tourism options cost
+primary_keyword: 'Book Kenya safari including school visit community project UK responsible tourism options cost'
 secondary_keywords:
-- Get quote for multi-generational family safari Kenya wheelchair accessible lodge UK
-- Buy Masai Mara hot air balloon safari package add-on UK price booking online
-- Reserve Kenya safari with beach extension Zanzibar flights & transfers included USA package cost
-- Reserve Lake Turkana fishing safari expedition Kenya Europe remote adventure booking logistics
-- Find diabetic friendly Kenya safari planning assistance USA meal management operator support
+- 'Get quote for multi-generational family safari Kenya wheelchair accessible lodge UK'
+- 'Buy Masai Mara hot air balloon safari package add-on UK price booking online'
+- 'Reserve Kenya safari with beach extension Zanzibar flights & transfers included USA package cost'
+- 'Reserve Lake Turkana fishing safari expedition Kenya Europe remote adventure booking logistics'
+- 'Find diabetic friendly Kenya safari planning assistance USA meal management operator support'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Package Quote Request Form: Complete Guide'
-description: Kenya safari guide covering kenya safari package quote request form, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari package quote request form, including what is included, pricing, and booking advice.'
 slug: kenya-safari-package-quote-request-form
-primary_keyword: Kenya safari package quote request form
+primary_keyword: 'Kenya safari package quote request form'
 secondary_keywords:
-- Kenya safari travel restrictions (Historically important)
-- Conservation fees Kenya parks
-- Enquire Kenya safari package rates
-- Confirm Kenya safari reservation
-- Short Kenya safari package (3-5 days) booking
+- 'Kenya safari travel restrictions (Historically important)'
+- 'Conservation fees Kenya parks'
+- 'Enquire Kenya safari package rates'
+- 'Confirm Kenya safari reservation'
+- 'Short Kenya safari package (3-5 days) booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

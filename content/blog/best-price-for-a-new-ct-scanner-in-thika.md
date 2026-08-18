@@ -1,14 +1,14 @@
 ---
 title: 'Best Price for a New CT Scanner in Thika: 2026 Price Guide'
-description: Kenya buying guide to best price for a new ct scanner in thika. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to best price for a new ct scanner in thika. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: best-price-for-a-new-ct-scanner-in-thika
-primary_keyword: Best price for a new CT scanner in Thika
+primary_keyword: 'Best price for a new CT scanner in Thika'
 secondary_keywords:
-- Cost to fully equip a dental clinic in Kenya
-- Woods lamp for dermatology price
-- IV cannulas and infusion sets distributors
-- Dialysis consumables suppliers in Nairobi
-- Plasma freezer (-40C) price in Kenya
+- 'Cost to fully equip a dental clinic in Kenya'
+- 'Woods lamp for dermatology price'
+- 'IV cannulas and infusion sets distributors'
+- 'Dialysis consumables suppliers in Nairobi'
+- 'Plasma freezer (-40C) price in Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

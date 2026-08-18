@@ -1,14 +1,14 @@
 ---
 title: 'Safari Samburu: Complete Guide'
-description: Kenya safari guide covering safari samburu, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering safari samburu, including what is included, pricing, and booking advice.'
 slug: safari-samburu
-primary_keyword: Safari Samburu
+primary_keyword: 'Safari Samburu'
 secondary_keywords:
-- Safe Kenya safari tours booking certified guides USA
-- Availability check Kenya fly-in safari Governors Camp Masai Mara UK July 2025
-- Get quote for multi-generational family safari Kenya wheelchair accessible lodge UK
-- Buy Masai Mara hot air balloon safari package add-on UK price booking online
-- Reserve Kenya safari with beach extension Zanzibar flights & transfers included USA package cost
+- 'Safe Kenya safari tours booking certified guides USA'
+- 'Availability check Kenya fly-in safari Governors Camp Masai Mara UK July 2025'
+- 'Get quote for multi-generational family safari Kenya wheelchair accessible lodge UK'
+- 'Buy Masai Mara hot air balloon safari package add-on UK price booking online'
+- 'Reserve Kenya safari with beach extension Zanzibar flights & transfers included USA package cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

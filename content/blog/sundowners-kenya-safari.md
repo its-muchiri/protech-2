@@ -1,14 +1,14 @@
 ---
 title: 'Sundowners Kenya Safari: Complete Guide'
-description: Kenya safari guide covering sundowners kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering sundowners kenya safari, including what is included, pricing, and booking advice.'
 slug: sundowners-kenya-safari
-primary_keyword: Sundowners Kenya safari
+primary_keyword: 'Sundowners Kenya safari'
 secondary_keywords:
-- Kenya adventure safari packages cost UK (hiking, biking)
-- Kenya coast safari (Mombasa/Diani departure) deals USA booking
-- Best Kenya safari packages for European travelers reviews
-- German speaking guide Kenya safari booking online
-- Find certified KATO Kenya safari guide company USA
+- 'Kenya adventure safari packages cost UK (hiking, biking)'
+- 'Kenya coast safari (Mombasa/Diani departure) deals USA booking'
+- 'Best Kenya safari packages for European travelers reviews'
+- 'German speaking guide Kenya safari booking online'
+- 'Find certified KATO Kenya safari guide company USA'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

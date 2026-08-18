@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Cape Town to Nairobi Kenya: Complete Guide'
-description: Everything you need to know about flights from cape town to nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from cape town to nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-cape-town-to-nairobi-kenya
-primary_keyword: flights from cape town to nairobi kenya
+primary_keyword: 'flights from cape town to nairobi kenya'
 secondary_keywords:
-- booking flights in kenya
-- flights to kenya british airways
-- cheap flights to kenya in december
-- flights to kenya from london
-- flights from nairobi kenya to harare zimbabwe
+- 'booking flights in kenya'
+- 'flights to kenya british airways'
+- 'cheap flights to kenya in december'
+- 'flights to kenya from london'
+- 'flights from nairobi kenya to harare zimbabwe'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

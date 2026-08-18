@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Nairobi to Usa: Complete Guide'
-description: Everything you need to know about emirates flights from nairobi to usa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from nairobi to usa, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-nairobi-to-usa
-primary_keyword: emirates flights from nairobi to usa
+primary_keyword: 'emirates flights from nairobi to usa'
 secondary_keywords:
-- kq flights from eldoret to nairobi
-- kq flights from nairobi to eldoret price tomorrow
-- kq flights to kisumu
-- kq flights from south africa today
-- kq online booking domestic flights
+- 'kq flights from eldoret to nairobi'
+- 'kq flights from nairobi to eldoret price tomorrow'
+- 'kq flights to kisumu'
+- 'kq flights from south africa today'
+- 'kq online booking domestic flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

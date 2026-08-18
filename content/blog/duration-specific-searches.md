@@ -1,14 +1,14 @@
 ---
 title: 'Duration-Specific Searches: Complete Guide'
-description: Kenya safari guide covering duration-specific searches, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering duration-specific searches, including what is included, pricing, and booking advice.'
 slug: duration-specific-searches
-primary_keyword: Duration-Specific Searches
+primary_keyword: 'Duration-Specific Searches'
 secondary_keywords:
-- Buy 5 day Ol Pejeta family adventure package chimpanzee visit included deal
-- Tour operators specializing in East Africa (Kenya, Tanzania, Uganda)
-- Book Masai Mara hot air balloon safari cost per person
-- Samburu Special Five animals tour guide Kenya
-- Kenya driving safari itinerary 7 days / 10 days
+- 'Buy 5 day Ol Pejeta family adventure package chimpanzee visit included deal'
+- 'Tour operators specializing in East Africa (Kenya, Tanzania, Uganda)'
+- 'Book Masai Mara hot air balloon safari cost per person'
+- 'Samburu Special Five animals tour guide Kenya'
+- 'Kenya driving safari itinerary 7 days / 10 days'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

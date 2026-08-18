@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Kingston Jamaica: Complete Guide'
-description: Everything you need to know about flights from nairobi to kingston jamaica, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to kingston jamaica, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-kingston-jamaica
-primary_keyword: flights from nairobi to kingston jamaica
+primary_keyword: 'flights from nairobi to kingston jamaica'
 secondary_keywords:
-- nairobi to johannesburg flights
-- kenya airways flights nairobi to london
-- flights nairobi to mogadishu
-- flight nairobi to nigeria
-- ord to nairobi flights
+- 'nairobi to johannesburg flights'
+- 'kenya airways flights nairobi to london'
+- 'flights nairobi to mogadishu'
+- 'flight nairobi to nigeria'
+- 'ord to nairobi flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

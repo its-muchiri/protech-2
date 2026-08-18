@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 8: Complete Guide'
-description: Everything you need to know about emirates flight 8, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 8, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-8
-primary_keyword: emirates flight 8
+primary_keyword: 'emirates flight 8'
 secondary_keywords:
-- kenya airways flight from nairobi to johannesburg
-- kq flight from nairobi to mombasa price
-- kenya airways flight schedule nairobi to mumbai
-- kenya airways flights from nairobi to amsterdam
-- kenya airways flying blue contacts nairobi
+- 'kenya airways flight from nairobi to johannesburg'
+- 'kq flight from nairobi to mombasa price'
+- 'kenya airways flight schedule nairobi to mumbai'
+- 'kenya airways flights from nairobi to amsterdam'
+- 'kenya airways flying blue contacts nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

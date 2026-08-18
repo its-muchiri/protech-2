@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from Nairobi to London Today Live: Complete Guide'
-description: Everything you need to know about kenya airways flight from nairobi to london today live, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from nairobi to london today live, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-nairobi-to-london-today-live
-primary_keyword: kenya airways flight from nairobi to london today live
+primary_keyword: 'kenya airways flight from nairobi to london today live'
 secondary_keywords:
-- flight from nairobi to nigeria
-- cost of flight from nairobi to homa bay
-- price of flight from nairobi to usa
-- return flight from nairobi to mombasa price
-- singapore flight from nairobi
+- 'flight from nairobi to nigeria'
+- 'cost of flight from nairobi to homa bay'
+- 'price of flight from nairobi to usa'
+- 'return flight from nairobi to mombasa price'
+- 'singapore flight from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Jeddah: Complete Guide'
-description: Everything you need to know about flights from mombasa to jeddah, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to jeddah, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-jeddah
-primary_keyword: flights from mombasa to jeddah
+primary_keyword: 'flights from mombasa to jeddah'
 secondary_keywords:
-- emirates flight 408
-- emirates flight 585
-- emirates flight 762
-- emirates flight 954
-- qatar airways nairobi airport terminal
+- 'emirates flight 408'
+- 'emirates flight 585'
+- 'emirates flight 762'
+- 'emirates flight 954'
+- 'qatar airways nairobi airport terminal'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

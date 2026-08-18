@@ -1,14 +1,14 @@
 ---
 title: 'Syringe Pump Suppliers in Thika: 2026 Price Guide'
-description: Kenya buying guide to syringe pump suppliers in thika. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to syringe pump suppliers in thika. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: syringe-pump-suppliers-in-thika
-primary_keyword: Syringe pump suppliers in Thika
+primary_keyword: 'Syringe pump suppliers in Thika'
 secondary_keywords:
-- wound care management Kenya
-- Siemens Somatom CT scanner price in Mombasa
-- Affordable black and white ultrasound scanner in Nairobi
-- X-ray machine installation and maintenance in Kenya
-- Bone densitometer (DEXA scan) cost in Kenya
+- 'wound care management Kenya'
+- 'Siemens Somatom CT scanner price in Mombasa'
+- 'Affordable black and white ultrasound scanner in Nairobi'
+- 'X-ray machine installation and maintenance in Kenya'
+- 'Bone densitometer (DEXA scan) cost in Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

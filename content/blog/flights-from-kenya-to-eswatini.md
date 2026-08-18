@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Eswatini: Complete Guide'
-description: Everything you need to know about flights from kenya to eswatini, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to eswatini, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-eswatini
-primary_keyword: flights from kenya to eswatini
+primary_keyword: 'flights from kenya to eswatini'
 secondary_keywords:
-- qatar airways from nairobi to doha
-- does turkish airlines fly to dubai
-- flight booking in kenya
-- flight ticket from kenya to india
-- flight booking to mombasa
+- 'qatar airways from nairobi to doha'
+- 'does turkish airlines fly to dubai'
+- 'flight booking in kenya'
+- 'flight ticket from kenya to india'
+- 'flight booking to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

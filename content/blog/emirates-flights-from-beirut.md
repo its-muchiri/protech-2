@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Beirut: Complete Guide'
-description: Everything you need to know about emirates flights from beirut, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from beirut, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-beirut
-primary_keyword: emirates flights from beirut
+primary_keyword: 'emirates flights from beirut'
 secondary_keywords:
-- cheap flights from mombasa to jeddah
-- kq flights from mombasa to kisumu
-- flights from lusaka to mombasa
-- flights from mombasa to nakuru
-- safarilink flights from nairobi to mombasa price
+- 'cheap flights from mombasa to jeddah'
+- 'kq flights from mombasa to kisumu'
+- 'flights from lusaka to mombasa'
+- 'flights from mombasa to nakuru'
+- 'safarilink flights from nairobi to mombasa price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

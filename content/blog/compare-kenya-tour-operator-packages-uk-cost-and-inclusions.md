@@ -1,14 +1,14 @@
 ---
 title: 'Compare Kenya Tour Operator Packages UK Cost & Inclusions: Complete Guide'
-description: Kenya safari guide covering compare kenya tour operator packages uk cost & inclusions, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering compare kenya tour operator packages uk cost & inclusions, including what is included, pricing, and booking advice.'
 slug: compare-kenya-tour-operator-packages-uk-cost-and-inclusions
-primary_keyword: Compare Kenya tour operator packages UK cost & inclusions
+primary_keyword: 'Compare Kenya tour operator packages UK cost & inclusions'
 secondary_keywords:
-- Quote for solo traveler 10 day Kenya budget package
-- Reserve 14 day luxury fly-camping safari package Kenya
-- Price for 4 day Samburu Ashnil luxury package deal
-- Buy 7 day Kenya budget adventure group package tour
-- Quote needed 4 day Samburu luxury lodge package
+- 'Quote for solo traveler 10 day Kenya budget package'
+- 'Reserve 14 day luxury fly-camping safari package Kenya'
+- 'Price for 4 day Samburu Ashnil luxury package deal'
+- 'Buy 7 day Kenya budget adventure group package tour'
+- 'Quote needed 4 day Samburu luxury lodge package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

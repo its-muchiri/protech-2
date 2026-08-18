@@ -1,14 +1,14 @@
 ---
 title: 'Cost of 3 Day Masai Mara Safari from Nairobi: Complete Guide'
-description: Kenya safari guide covering cost of 3 day masai mara safari from nairobi, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering cost of 3 day masai mara safari from nairobi, including what is included, pricing, and booking advice.'
 slug: cost-of-3-day-masai-mara-safari-from-nairobi
-primary_keyword: Cost of 3 day Masai Mara safari from Nairobi
+primary_keyword: 'Cost of 3 day Masai Mara safari from Nairobi'
 secondary_keywords:
-- Birding specialist guide package Kenya book
-- Kenya Tanzania package quote
-- Buy 12 day luxury Kenya Uganda gorilla package
-- Reserve 11 day Kenya safari and beach Zanzibar package
-- Book 10 day safari package with hot air balloon included cost
+- 'Birding specialist guide package Kenya book'
+- 'Kenya Tanzania package quote'
+- 'Buy 12 day luxury Kenya Uganda gorilla package'
+- 'Reserve 11 day Kenya safari and beach Zanzibar package'
+- 'Book 10 day safari package with hot air balloon included cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

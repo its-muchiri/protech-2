@@ -1,14 +1,14 @@
 ---
 title: 'Can I Drink Tap Water Kenya Safari: Complete Guide'
-description: Kenya safari guide covering can i drink tap water kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering can i drink tap water kenya safari, including what is included, pricing, and booking advice.'
 slug: can-i-drink-tap-water-kenya-safari
-primary_keyword: Can I drink tap water Kenya safari
+primary_keyword: 'Can I drink tap water Kenya safari'
 secondary_keywords:
-- Book last available spots Kenya Christmas safari package
-- Reserve now pay later Kenya safari package (if offered)
-- (Continuing with more diverse high-intent combinations)
-- Get quote 7 day Loisaba Tented Camp Laikipia package
-- Buy 13 day comprehensive Kenya safari tour package
+- 'Book last available spots Kenya Christmas safari package'
+- 'Reserve now pay later Kenya safari package (if offered)'
+- '(Continuing with more diverse high-intent combinations)'
+- 'Get quote 7 day Loisaba Tented Camp Laikipia package'
+- 'Buy 13 day comprehensive Kenya safari tour package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

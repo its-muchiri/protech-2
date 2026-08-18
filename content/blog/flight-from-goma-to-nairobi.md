@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Goma to Nairobi: Complete Guide'
-description: Everything you need to know about flight from goma to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from goma to nairobi, including routes, airlines, booking tips, and fares.'
 slug: flight-from-goma-to-nairobi
-primary_keyword: flight from goma to nairobi
+primary_keyword: 'flight from goma to nairobi'
 secondary_keywords:
-- flights from nairobi to masai mara
-- flights from nairobi to namibia
-- flights from nairobi to oman
-- flights from nairobi to philippines
-- qatar flight from nairobi to doha
+- 'flights from nairobi to masai mara'
+- 'flights from nairobi to namibia'
+- 'flights from nairobi to oman'
+- 'flights from nairobi to philippines'
+- 'qatar flight from nairobi to doha'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

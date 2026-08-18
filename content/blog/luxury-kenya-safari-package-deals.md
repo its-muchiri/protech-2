@@ -1,14 +1,14 @@
 ---
 title: 'Luxury Kenya Safari Package Deals: Complete Guide'
-description: Kenya safari guide covering luxury kenya safari package deals, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering luxury kenya safari package deals, including what is included, pricing, and booking advice.'
 slug: luxury-kenya-safari-package-deals
-primary_keyword: Luxury Kenya safari package deals
+primary_keyword: 'Luxury Kenya safari package deals'
 secondary_keywords:
-- Finch Hattons Tsavo luxury package quote
-- Private Kenya honeymoon safari quote
-- Overland truck safari Kenya package price
-- Tsavo Mombasa beach safari package quote
-- September Kenya migration safari cost
+- 'Finch Hattons Tsavo luxury package quote'
+- 'Private Kenya honeymoon safari quote'
+- 'Overland truck safari Kenya package price'
+- 'Tsavo Mombasa beach safari package quote'
+- 'September Kenya migration safari cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

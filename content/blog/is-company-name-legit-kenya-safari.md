@@ -1,14 +1,14 @@
 ---
 title: 'Is  Legit Kenya Safari: Complete Guide'
-description: Kenya safari guide covering is  legit kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering is  legit kenya safari, including what is included, pricing, and booking advice.'
 slug: is-company-name-legit-kenya-safari
-primary_keyword: Is  legit Kenya safari
+primary_keyword: 'Is  legit Kenya safari'
 secondary_keywords:
-- Review and book recommended Kenya honeymoon package
-- Quote for 10 day budget camping Kenya Tanzania combo tour August
-- Book 10 day compare Serena vs Sarova lodges Kenya safari package price
-- Sustainable tourism certified tour operators Kenya
-- Luxury lodges Masai Mara (e.g., Angama Mara, Mara Serena, Governors Camp) price
+- 'Review and book recommended Kenya honeymoon package'
+- 'Quote for 10 day budget camping Kenya Tanzania combo tour August'
+- 'Book 10 day compare Serena vs Sarova lodges Kenya safari package price'
+- 'Sustainable tourism certified tour operators Kenya'
+- 'Luxury lodges Masai Mara (e.g., Angama Mara, Mara Serena, Governors Camp) price'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

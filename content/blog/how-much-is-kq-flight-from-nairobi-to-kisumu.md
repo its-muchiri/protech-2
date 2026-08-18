@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is Kq Flight from Nairobi to Kisumu: Complete Guide'
-description: Everything you need to know about how much is kq flight from nairobi to kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is kq flight from nairobi to kisumu, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-kq-flight-from-nairobi-to-kisumu
-primary_keyword: how much is kq flight from nairobi to kisumu
+primary_keyword: 'how much is kq flight from nairobi to kisumu'
 secondary_keywords:
-- flight booking sites in kenya
-- ticket from kenya to canada
-- requirements for domestic flights in kenya
-- flights arriving in kenya today
-- commercial flights in kenya
+- 'flight booking sites in kenya'
+- 'ticket from kenya to canada'
+- 'requirements for domestic flights in kenya'
+- 'flights arriving in kenya today'
+- 'commercial flights in kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

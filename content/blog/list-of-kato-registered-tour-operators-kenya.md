@@ -1,14 +1,14 @@
 ---
 title: 'List of KATO Registered Tour Operators Kenya: Complete Guide'
-description: Kenya safari guide covering list of kato registered tour operators kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering list of kato registered tour operators kenya, including what is included, pricing, and booking advice.'
 slug: list-of-kato-registered-tour-operators-kenya
-primary_keyword: List of KATO registered tour operators Kenya
+primary_keyword: 'List of KATO registered tour operators Kenya'
 secondary_keywords:
-- Masai Mara conservancy safari
-- Honeymoon Kenya safari
-- Group Kenya safari
-- Short Kenya safari
-- 9 day Kenya safari
+- 'Masai Mara conservancy safari'
+- 'Honeymoon Kenya safari'
+- 'Group Kenya safari'
+- 'Short Kenya safari'
+- '9 day Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kq Cheap Flights: Complete Guide'
-description: Everything you need to know about kq cheap flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq cheap flights, including routes, airlines, booking tips, and fares.'
 slug: kq-cheap-flights
-primary_keyword: kq cheap flights
+primary_keyword: 'kq cheap flights'
 secondary_keywords:
-- klm flight from nairobi to vancouver
-- flight from nairobi to los angeles
-- flight time from nairobi to zanzibar
-- cost of flight from nairobi to south africa
-- 540 flight from nairobi to lodwar
+- 'klm flight from nairobi to vancouver'
+- 'flight from nairobi to los angeles'
+- 'flight time from nairobi to zanzibar'
+- 'cost of flight from nairobi to south africa'
+- '540 flight from nairobi to lodwar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

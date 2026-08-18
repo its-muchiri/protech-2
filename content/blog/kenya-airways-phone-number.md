@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Phone Number: Complete Guide'
-description: Everything you need to know about kenya airways phone number, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways phone number, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-phone-number
-primary_keyword: kenya airways phone number
+primary_keyword: 'kenya airways phone number'
 secondary_keywords:
-- emirates nairobi airport terminal
-- emirates departure nairobi
-- emirates nairobi kenya
-- emirates skycargo nairobi
-- emirates kenya airways
+- 'emirates nairobi airport terminal'
+- 'emirates departure nairobi'
+- 'emirates nairobi kenya'
+- 'emirates skycargo nairobi'
+- 'emirates kenya airways'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

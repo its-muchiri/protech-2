@@ -1,14 +1,14 @@
 ---
 title: 'Sysmex Hematology Analyzer Distributors in Kenya: 2026 Price Guide'
-description: Kenya buying guide to sysmex hematology analyzer distributors in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to sysmex hematology analyzer distributors in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: sysmex-hematology-analyzer-distributors-in-kenya
-primary_keyword: Sysmex hematology analyzer distributors in Kenya
+primary_keyword: 'Sysmex hematology analyzer distributors in Kenya'
 secondary_keywords:
-- Lensometer for measuring eyeglass prescription
-- Foley catheter price in Kenya
-- Embalming machine cost in Nairobi
-- Infrared non-contact thermometer for sale
-- Medical equipment tenders and procurement in Kenya 2025
+- 'Lensometer for measuring eyeglass prescription'
+- 'Foley catheter price in Kenya'
+- 'Embalming machine cost in Nairobi'
+- 'Infrared non-contact thermometer for sale'
+- 'Medical equipment tenders and procurement in Kenya 2025'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

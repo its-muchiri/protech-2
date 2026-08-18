@@ -1,14 +1,14 @@
 ---
 title: 'Book Tailor-made Kenya Safari Itinerary: Complete Guide'
-description: Kenya safari guide covering book tailor-made kenya safari itinerary, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book tailor-made kenya safari itinerary, including what is included, pricing, and booking advice.'
 slug: book-tailor-made-kenya-safari-itinerary
-primary_keyword: Book tailor-made Kenya safari itinerary
+primary_keyword: 'Book tailor-made Kenya safari itinerary'
 secondary_keywords:
-- Reviews for  vs  family safari Kenya
-- Buy guided Kenya safari tour
-- Book Naivasha boat safari package
-- Secure 6 day Samburu Nakuru safari booking
-- Reserve family friendly Kenya safari tour
+- 'Reviews for  vs  family safari Kenya'
+- 'Buy guided Kenya safari tour'
+- 'Book Naivasha boat safari package'
+- 'Secure 6 day Samburu Nakuru safari booking'
+- 'Reserve family friendly Kenya safari tour'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

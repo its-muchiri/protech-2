@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Johannesburg to Nairobi Kenya: Complete Guide'
-description: Everything you need to know about flights from johannesburg to nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from johannesburg to nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-johannesburg-to-nairobi-kenya
-primary_keyword: flights from johannesburg to nairobi kenya
+primary_keyword: 'flights from johannesburg to nairobi kenya'
 secondary_keywords:
-- flights from kisumu to kitale
-- flights from kisumu to mwanza
-- is kisumu safe
-- flights from eldoret to nairobi today
-- flight from eldoret to nairobi how much
+- 'flights from kisumu to kitale'
+- 'flights from kisumu to mwanza'
+- 'is kisumu safe'
+- 'flights from eldoret to nairobi today'
+- 'flight from eldoret to nairobi how much'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

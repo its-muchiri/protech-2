@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Nairobi Phone Number: Complete Guide'
-description: Everything you need to know about turkish airlines nairobi phone number, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines nairobi phone number, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-nairobi-phone-number
-primary_keyword: turkish airlines nairobi phone number
+primary_keyword: 'turkish airlines nairobi phone number'
 secondary_keywords:
-- flights to fiji from kenya
-- flights to greece from kenya
-- flights to kenya from heathrow
-- international flights from kenya
-- jamaica flights from kenya
+- 'flights to fiji from kenya'
+- 'flights to greece from kenya'
+- 'flights to kenya from heathrow'
+- 'international flights from kenya'
+- 'jamaica flights from kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

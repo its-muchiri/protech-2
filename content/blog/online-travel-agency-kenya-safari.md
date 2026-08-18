@@ -1,14 +1,14 @@
 ---
 title: 'Online Travel Agency Kenya Safari: Complete Guide'
-description: Kenya safari guide covering online travel agency kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering online travel agency kenya safari, including what is included, pricing, and booking advice.'
 slug: online-travel-agency-kenya-safari
-primary_keyword: Online travel agency Kenya safari
+primary_keyword: 'Online travel agency Kenya safari'
 secondary_keywords:
-- Kenya safari and beach
-- Kenya safari from Dubai
-- Kenya safari in October
-- Custom Kenya safari quote
-- LGBTQ+ friendly Kenya safari
+- 'Kenya safari and beach'
+- 'Kenya safari from Dubai'
+- 'Kenya safari in October'
+- 'Custom Kenya safari quote'
+- 'LGBTQ+ friendly Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

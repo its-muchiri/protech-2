@@ -1,14 +1,14 @@
 ---
 title: 'Safari Kenia Offerte (Italian): Complete Guide'
-description: Kenya safari guide covering safari kenia offerte (italian), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering safari kenia offerte (italian), including what is included, pricing, and booking advice.'
 slug: safari-kenia-offerte-italian
-primary_keyword: Safari Kenia offerte (Italian)
+primary_keyword: 'Safari Kenia offerte (Italian)'
 secondary_keywords:
-- Educational safari Kenya
-- 12 day Kenya safari
-- All-inclusive safari cost Kenya
-- Masai Mara lodges
-- Cultural tours Kenya safari
+- 'Educational safari Kenya'
+- '12 day Kenya safari'
+- 'All-inclusive safari cost Kenya'
+- 'Masai Mara lodges'
+- 'Cultural tours Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

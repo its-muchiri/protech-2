@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from New York to Mumbai: Complete Guide'
-description: Everything you need to know about emirates flights from new york to mumbai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from new york to mumbai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-new-york-to-mumbai
-primary_keyword: emirates flights from new york to mumbai
+primary_keyword: 'emirates flights from new york to mumbai'
 secondary_keywords:
-- kq flight disruptions jkia fuel
-- kq eldoret flights
-- flight kq
-- i-fly air booking
-- kq flights to kenya
+- 'kq flight disruptions jkia fuel'
+- 'kq eldoret flights'
+- 'flight kq'
+- 'i-fly air booking'
+- 'kq flights to kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

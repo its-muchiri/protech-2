@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Dubai: Complete Guide'
-description: Everything you need to know about flights nairobi to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to dubai, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-dubai
-primary_keyword: flights nairobi to dubai
+primary_keyword: 'flights nairobi to dubai'
 secondary_keywords:
-- cheap flights from nairobi to australia
-- flights from nairobi to kampala
-- safarilink flights from mombasa to nairobi
-- are there flights from mombasa to lamu
-- does british airways fly to dhaka
+- 'cheap flights from nairobi to australia'
+- 'flights from nairobi to kampala'
+- 'safarilink flights from mombasa to nairobi'
+- 'are there flights from mombasa to lamu'
+- 'does british airways fly to dhaka'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

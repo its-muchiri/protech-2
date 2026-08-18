@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from Bangkok to Nairobi: Complete Guide'
-description: Everything you need to know about kenya airways flight from bangkok to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from bangkok to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-bangkok-to-nairobi
-primary_keyword: kenya airways flight from bangkok to nairobi
+primary_keyword: 'kenya airways flight from bangkok to nairobi'
 secondary_keywords:
-- how do i confirm my flight with turkish airlines
-- turkish airlines nairobi phone number
-- turkish airlines nairobi contacts
-- ethiopian airlines nairobi office address
-- ethiopian airlines offices in nairobi location
+- 'how do i confirm my flight with turkish airlines'
+- 'turkish airlines nairobi phone number'
+- 'turkish airlines nairobi contacts'
+- 'ethiopian airlines nairobi office address'
+- 'ethiopian airlines offices in nairobi location'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

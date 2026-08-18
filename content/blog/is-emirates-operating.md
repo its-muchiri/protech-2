@@ -1,14 +1,14 @@
 ---
 title: 'Is Emirates Operating: Complete Guide'
-description: Everything you need to know about is emirates operating, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about is emirates operating, including routes, airlines, booking tips, and fares.'
 slug: is-emirates-operating
-primary_keyword: is emirates operating
+primary_keyword: 'is emirates operating'
 secondary_keywords:
-- flights nairobi to dc
-- flights nairobi to frankfurt
-- google flights nairobi to entebbe
-- houston to nairobi flights
-- flights nairobi to jfk
+- 'flights nairobi to dc'
+- 'flights nairobi to frankfurt'
+- 'google flights nairobi to entebbe'
+- 'houston to nairobi flights'
+- 'flights nairobi to jfk'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

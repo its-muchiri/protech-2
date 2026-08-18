@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Busia: Complete Guide'
-description: Everything you need to know about flight from nairobi to busia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to busia, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-busia
-primary_keyword: flight from nairobi to busia
+primary_keyword: 'flight from nairobi to busia'
 secondary_keywords:
-- flights from nairobi to cayman islands
-- flights from nairobi to dubai today
-- flights from nairobi to ethiopia
-- airlines that fly to nairobi
-- google flights from nairobi
+- 'flights from nairobi to cayman islands'
+- 'flights from nairobi to dubai today'
+- 'flights from nairobi to ethiopia'
+- 'airlines that fly to nairobi'
+- 'google flights from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

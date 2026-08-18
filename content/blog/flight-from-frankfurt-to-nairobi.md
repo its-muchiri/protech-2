@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Frankfurt to Nairobi: Complete Guide'
-description: Everything you need to know about flight from frankfurt to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from frankfurt to nairobi, including routes, airlines, booking tips, and fares.'
 slug: flight-from-frankfurt-to-nairobi
-primary_keyword: flight from frankfurt to nairobi
+primary_keyword: 'flight from frankfurt to nairobi'
 secondary_keywords:
-- flights from kenya to djibouti
-- emirates flights from kenya to australia ticket price
-- flights to fiji from kenya
-- flights to greece from kenya
-- flights to kenya from heathrow
+- 'flights from kenya to djibouti'
+- 'emirates flights from kenya to australia ticket price'
+- 'flights to fiji from kenya'
+- 'flights to greece from kenya'
+- 'flights to kenya from heathrow'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

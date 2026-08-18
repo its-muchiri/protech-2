@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from New York: Complete Guide'
-description: Everything you need to know about emirates flights from new york, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from new york, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-new-york
-primary_keyword: emirates flights from new york
+primary_keyword: 'emirates flights from new york'
 secondary_keywords:
-- flights from nairobi to istanbul
-- flights from nairobi to juba south sudan
-- flights from nairobi kenya to dallas texas
-- flights from nairobi to lilongwe malawi
-- flights from nairobi to malindi jambojet
+- 'flights from nairobi to istanbul'
+- 'flights from nairobi to juba south sudan'
+- 'flights from nairobi kenya to dallas texas'
+- 'flights from nairobi to lilongwe malawi'
+- 'flights from nairobi to malindi jambojet'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

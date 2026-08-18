@@ -1,14 +1,14 @@
 ---
 title: 'Book Safari Tour Focusing on Big Cat Sightings Mara Conservancies Europe Best Guides Reviews: Complete Guide'
-description: Kenya safari guide covering book safari tour focusing on big cat sightings mara conservancies europe best guides reviews, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book safari tour focusing on big cat sightings mara conservancies europe best guides reviews, including what is included, pricing, and booking advice.'
 slug: book-safari-tour-focusing-on-big-cat-sightings-mara-conservancies-europe-best-guides-reviews
-primary_keyword: Book safari tour focusing on big cat sightings Mara conservancies Europe best guides reviews
+primary_keyword: 'Book safari tour focusing on big cat sightings Mara conservancies Europe best guides reviews'
 secondary_keywords:
-- Price enquiry 5 day family fly-in Amboseli package
-- Tsavo East West safari discount code
-- Budget Kenya camping safari offers last minute
-- (These words are often combined with the above sections, but can be searched directly)
-- All-inclusive Kenya holiday package details purchase
+- 'Price enquiry 5 day family fly-in Amboseli package'
+- 'Tsavo East West safari discount code'
+- 'Budget Kenya camping safari offers last minute'
+- '(These words are often combined with the above sections, but can be searched directly)'
+- 'All-inclusive Kenya holiday package details purchase'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

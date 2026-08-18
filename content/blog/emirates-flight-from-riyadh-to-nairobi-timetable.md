@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight from Riyadh to Nairobi Timetable: Complete Guide'
-description: Everything you need to know about emirates flight from riyadh to nairobi timetable, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight from riyadh to nairobi timetable, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-from-riyadh-to-nairobi-timetable
-primary_keyword: emirates flight from riyadh to nairobi timetable
+primary_keyword: 'emirates flight from riyadh to nairobi timetable'
 secondary_keywords:
-- flights nairobi to phuket
-- flights to qatar from nairobi
-- round trip flights to nairobi kenya
-- flights nairobi to tanzania
-- flights nairobi to vipingo
+- 'flights nairobi to phuket'
+- 'flights to qatar from nairobi'
+- 'round trip flights to nairobi kenya'
+- 'flights nairobi to tanzania'
+- 'flights nairobi to vipingo'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

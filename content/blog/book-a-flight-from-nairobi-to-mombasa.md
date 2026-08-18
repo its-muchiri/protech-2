@@ -1,14 +1,14 @@
 ---
 title: 'Book a Flight from Nairobi to Mombasa: Complete Guide'
-description: Everything you need to know about book a flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about book a flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.'
 slug: book-a-flight-from-nairobi-to-mombasa
-primary_keyword: book a flight from nairobi to mombasa
+primary_keyword: 'book a flight from nairobi to mombasa'
 secondary_keywords:
-- emirates flights to vietnam from uk
-- what destinations do emirates fly to
-- emirates flights from delhi to new york
-- emirates flight 001
-- emirates flight 209 from athens to new york
+- 'emirates flights to vietnam from uk'
+- 'what destinations do emirates fly to'
+- 'emirates flights from delhi to new york'
+- 'emirates flight 001'
+- 'emirates flight 209 from athens to new york'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

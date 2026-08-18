@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Zurich: Complete Guide'
-description: Everything you need to know about flights nairobi to zurich, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to zurich, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-zurich
-primary_keyword: flights nairobi to zurich
+primary_keyword: 'flights nairobi to zurich'
 secondary_keywords:
-- ukunda flights from nairobi
-- flights from nairobi wilson to ukunda
-- cheap flights from nairobi to mumbai
-- cheap flights from nairobi to isiolo
-- which airlines fly from nairobi to ukunda
+- 'ukunda flights from nairobi'
+- 'flights from nairobi wilson to ukunda'
+- 'cheap flights from nairobi to mumbai'
+- 'cheap flights from nairobi to isiolo'
+- 'which airlines fly from nairobi to ukunda'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Purchase Tour from Kenya Safari Specialist Operator: Complete Guide'
-description: Kenya safari guide covering purchase tour from kenya safari specialist operator, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase tour from kenya safari specialist operator, including what is included, pricing, and booking advice.'
 slug: purchase-tour-from-kenya-safari-specialist-operator
-primary_keyword: Purchase tour from Kenya safari specialist operator
+primary_keyword: 'Purchase tour from Kenya safari specialist operator'
 secondary_keywords:
-- Kenya safari holiday offers Europe early booking
-- All-inclusive lodge safari Kenya cost per night
-- Walking safari Kenya booking Europe guided
-- Amboseli National Park safari package cost USA Kilimanjaro view
-- Shaba National Reserve safari package Europe cost
+- 'Kenya safari holiday offers Europe early booking'
+- 'All-inclusive lodge safari Kenya cost per night'
+- 'Walking safari Kenya booking Europe guided'
+- 'Amboseli National Park safari package cost USA Kilimanjaro view'
+- 'Shaba National Reserve safari package Europe cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

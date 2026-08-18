@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Nairobi to Lilongwe: Complete Guide'
-description: Everything you need to know about ethiopian airlines nairobi to lilongwe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines nairobi to lilongwe, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-nairobi-to-lilongwe
-primary_keyword: ethiopian airlines nairobi to lilongwe
+primary_keyword: 'ethiopian airlines nairobi to lilongwe'
 secondary_keywords:
-- emirates flight quetta to dubai
-- emirates flight from riyadh to chennai
-- emirates flights from toronto to dubai
-- emirates flights from uk to south africa
-- emirates flights from india to canada via dubai
+- 'emirates flight quetta to dubai'
+- 'emirates flight from riyadh to chennai'
+- 'emirates flights from toronto to dubai'
+- 'emirates flights from uk to south africa'
+- 'emirates flights from india to canada via dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

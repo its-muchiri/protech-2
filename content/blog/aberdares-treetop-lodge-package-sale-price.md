@@ -1,14 +1,14 @@
 ---
 title: 'Aberdares Treetop Lodge Package Sale Price: Complete Guide'
-description: Kenya safari guide covering aberdares treetop lodge package sale price, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering aberdares treetop lodge package sale price, including what is included, pricing, and booking advice.'
 slug: aberdares-treetop-lodge-package-sale-price
-primary_keyword: Aberdares treetop lodge package sale price
+primary_keyword: 'Aberdares treetop lodge package sale price'
 secondary_keywords:
-- Find Kenya safari wedding planning services package UK destination wedding venue lodges
-- Safari tours Kenya
-- Masai Mara safari
-- Hell''s Gate National Park safari
-- High-end Kenya safari
+- 'Find Kenya safari wedding planning services package UK destination wedding venue lodges'
+- 'Safari tours Kenya'
+- 'Masai Mara safari'
+- 'Hell''''s Gate National Park safari'
+- 'High-end Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

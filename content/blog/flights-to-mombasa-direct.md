@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Mombasa Direct: Complete Guide'
-description: Everything you need to know about flights to mombasa direct, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to mombasa direct, including routes, airlines, booking tips, and fares.'
 slug: flights-to-mombasa-direct
-primary_keyword: flights to mombasa direct
+primary_keyword: 'flights to mombasa direct'
 secondary_keywords:
-- kisumu international airport address
-- flights from kisumu to lamu
-- flight from eldoret to kisumu price
-- flights to kisumu from mombasa
-- flights from eldoret to diani
+- 'kisumu international airport address'
+- 'flights from kisumu to lamu'
+- 'flight from eldoret to kisumu price'
+- 'flights to kisumu from mombasa'
+- 'flights from eldoret to diani'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Kigali: Complete Guide'
-description: Everything you need to know about flights from mombasa to kigali, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to kigali, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-kigali
-primary_keyword: flights from mombasa to kigali
+primary_keyword: 'flights from mombasa to kigali'
 secondary_keywords:
-- flights from orlando to nairobi
-- flights from paris to nairobi
-- flights from nairobi to reunion island
-- flights from nairobi to sydney
-- flights from nairobi to uk
+- 'flights from orlando to nairobi'
+- 'flights from paris to nairobi'
+- 'flights from nairobi to reunion island'
+- 'flights from nairobi to sydney'
+- 'flights from nairobi to uk'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

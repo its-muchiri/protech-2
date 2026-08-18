@@ -1,14 +1,14 @@
 ---
 title: 'How Many Airlines Fly to Dubai: Complete Guide'
-description: Everything you need to know about how many airlines fly to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how many airlines fly to dubai, including routes, airlines, booking tips, and fares.'
 slug: how-many-airlines-fly-to-dubai
-primary_keyword: how many airlines fly to dubai
+primary_keyword: 'how many airlines fly to dubai'
 secondary_keywords:
-- flights from mombasa to migori
-- flights to mombasa from perth australia
-- rwandair flights from mombasa to kigali
-- flight from mombasa to usa
-- zanzibar flights from mombasa
+- 'flights from mombasa to migori'
+- 'flights to mombasa from perth australia'
+- 'rwandair flights from mombasa to kigali'
+- 'flight from mombasa to usa'
+- 'zanzibar flights from mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

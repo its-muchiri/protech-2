@@ -1,14 +1,14 @@
 ---
 title: 'Purchase 7 Day All-inclusive Governors Camp Package Deal Masai Mara: Complete Guide'
-description: Kenya safari guide covering purchase 7 day all-inclusive governors camp package deal masai mara, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase 7 day all-inclusive governors camp package deal masai mara, including what is included, pricing, and booking advice.'
 slug: purchase-7-day-all-inclusive-governors-camp-package-deal-masai-mara
-primary_keyword: Purchase 7 day all-inclusive Governors Camp package deal Masai Mara
+primary_keyword: 'Purchase 7 day all-inclusive Governors Camp package deal Masai Mara'
 secondary_keywords:
-- Swahili cultural tour Mombasa Old Town guide price
-- Kereita Forest ziplining adventure park day trip Thika / Nairobi price
-- Twiga Tours Kenya reviews
-- Travel insurance for Kenya safari World Nomads / SafetyWing review
-- Avoid safari scams Kenya warning signs
+- 'Swahili cultural tour Mombasa Old Town guide price'
+- 'Kereita Forest ziplining adventure park day trip Thika / Nairobi price'
+- 'Twiga Tours Kenya reviews'
+- 'Travel insurance for Kenya safari World Nomads / SafetyWing review'
+- 'Avoid safari scams Kenya warning signs'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 333: Complete Guide'
-description: Everything you need to know about emirates flight 333, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 333, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-333
-primary_keyword: emirates flight 333
+primary_keyword: 'emirates flight 333'
 secondary_keywords:
-- air uganda flights from nairobi to entebbe
-- ba flights from nairobi to heathrow today timetable
-- cheap flights from nairobi to mombasa jambojet
-- flights from nairobi to dulles
-- emirates flights from nairobi to boston
+- 'air uganda flights from nairobi to entebbe'
+- 'ba flights from nairobi to heathrow today timetable'
+- 'cheap flights from nairobi to mombasa jambojet'
+- 'flights from nairobi to dulles'
+- 'emirates flights from nairobi to boston'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

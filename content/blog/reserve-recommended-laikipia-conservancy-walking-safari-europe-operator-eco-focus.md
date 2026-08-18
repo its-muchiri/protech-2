@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Recommended Laikipia Conservancy Walking Safari Europe Operator Eco Focus: Complete Guide'
-description: Kenya safari guide covering reserve recommended laikipia conservancy walking safari europe operator eco focus, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve recommended laikipia conservancy walking safari europe operator eco focus, including what is included, pricing, and booking advice.'
 slug: reserve-recommended-laikipia-conservancy-walking-safari-europe-operator-eco-focus
-primary_keyword: Reserve recommended Laikipia conservancy walking safari Europe operator eco focus
+primary_keyword: 'Reserve recommended Laikipia conservancy walking safari Europe operator eco focus'
 secondary_keywords:
-- Photographic safari workshops Kenya operators
-- Sheldrick Elephant Orphanage visit organizers
-- 3 day Masai Mara budget camping tour
-- Mid-range lodge safari Kenya cost
-- Day trips from Thika tour organizers
+- 'Photographic safari workshops Kenya operators'
+- 'Sheldrick Elephant Orphanage visit organizers'
+- '3 day Masai Mara budget camping tour'
+- 'Mid-range lodge safari Kenya cost'
+- 'Day trips from Thika tour organizers'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

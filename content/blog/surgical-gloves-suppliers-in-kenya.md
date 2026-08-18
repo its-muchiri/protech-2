@@ -1,14 +1,14 @@
 ---
 title: 'Surgical Gloves Suppliers in Kenya: 2026 Price Guide'
-description: Kenya buying guide to surgical gloves suppliers in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to surgical gloves suppliers in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: surgical-gloves-suppliers-in-kenya
-primary_keyword: Surgical gloves suppliers in Kenya
+primary_keyword: 'Surgical gloves suppliers in Kenya'
 secondary_keywords:
-- Liquid oxygen tank installation for hospitals
-- EEG machine for neurology clinic price
-- Colposcope for gynecology clinic for sale
-- Mobile app for booking lab tests equipment
-- dental porcelain furnace cost
+- 'Liquid oxygen tank installation for hospitals'
+- 'EEG machine for neurology clinic price'
+- 'Colposcope for gynecology clinic for sale'
+- 'Mobile app for booking lab tests equipment'
+- 'dental porcelain furnace cost'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

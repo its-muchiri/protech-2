@@ -1,14 +1,14 @@
 ---
 title: 'Juba to Nairobi Flights: Complete Guide'
-description: Everything you need to know about juba to nairobi flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about juba to nairobi flights, including routes, airlines, booking tips, and fares.'
 slug: juba-to-nairobi-flights
-primary_keyword: juba to nairobi flights
+primary_keyword: 'juba to nairobi flights'
 secondary_keywords:
-- flights from new york to dubai emirates
-- emirates flights to new zealand from birmingham
-- emirates flight 18
-- emirates 2 class a380 routes
-- how many airplanes does emirates have
+- 'flights from new york to dubai emirates'
+- 'emirates flights to new zealand from birmingham'
+- 'emirates flight 18'
+- 'emirates 2 class a380 routes'
+- 'how many airplanes does emirates have'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

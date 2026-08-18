@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight Rates: Complete Guide'
-description: Everything you need to know about kq flight rates, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight rates, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-rates
-primary_keyword: kq flight rates
+primary_keyword: 'kq flight rates'
 secondary_keywords:
-- the cost of flight from nairobi to mombasa
-- flight from nairobi to victoria falls
-- what is the cost of flight from nairobi to mombasa
-- flight from nairobi to zimbabwe
-- flight from nairobi to bahamas
+- 'the cost of flight from nairobi to mombasa'
+- 'flight from nairobi to victoria falls'
+- 'what is the cost of flight from nairobi to mombasa'
+- 'flight from nairobi to zimbabwe'
+- 'flight from nairobi to bahamas'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

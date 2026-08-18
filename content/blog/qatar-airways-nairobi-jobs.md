@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways Nairobi Jobs: Complete Guide'
-description: Everything you need to know about qatar airways nairobi jobs, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways nairobi jobs, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-nairobi-jobs
-primary_keyword: qatar airways nairobi jobs
+primary_keyword: 'qatar airways nairobi jobs'
 secondary_keywords:
-- flights from seattle to nairobi kenya
-- cheap flights to kenya from usa
-- flights from burlington vt to nairobi kenya
-- flights from kenya to new york
-- cheap flights from new york to kenya
+- 'flights from seattle to nairobi kenya'
+- 'cheap flights to kenya from usa'
+- 'flights from burlington vt to nairobi kenya'
+- 'flights from kenya to new york'
+- 'cheap flights from new york to kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

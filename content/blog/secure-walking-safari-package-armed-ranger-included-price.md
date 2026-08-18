@@ -1,14 +1,14 @@
 ---
 title: 'Secure Walking Safari Package Armed Ranger Included Price: Complete Guide'
-description: Kenya safari guide covering secure walking safari package armed ranger included price, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering secure walking safari package armed ranger included price, including what is included, pricing, and booking advice.'
 slug: secure-walking-safari-package-armed-ranger-included-price
-primary_keyword: Secure walking safari package armed ranger included price
+primary_keyword: 'Secure walking safari package armed ranger included price'
 secondary_keywords:
-- Karen Blixen Museum tour operators
-- Nairobi National Park day trip operators from Thika
-- Kenya safari cost per day estimate
-- Nairobi based safari companies contact
-- Kenya tours for solo female travelers safety
+- 'Karen Blixen Museum tour operators'
+- 'Nairobi National Park day trip operators from Thika'
+- 'Kenya safari cost per day estimate'
+- 'Nairobi based safari companies contact'
+- 'Kenya tours for solo female travelers safety'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

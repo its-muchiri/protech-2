@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 1539: Complete Guide'
-description: Everything you need to know about emirates flight 1539, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 1539, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-1539
-primary_keyword: emirates flight 1539
+primary_keyword: 'emirates flight 1539'
 secondary_keywords:
-- kq flight 311
-- kq 485 flight status
-- jq607 flight status
-- kq nbo ebb
-- emirates flight from nairobi to dubai time
+- 'kq flight 311'
+- 'kq 485 flight status'
+- 'jq607 flight status'
+- 'kq nbo ebb'
+- 'emirates flight from nairobi to dubai time'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

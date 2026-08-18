@@ -1,14 +1,14 @@
 ---
 title: 'Ultrasound Gel Price in Bulk: 2026 Price Guide'
-description: Kenya buying guide to ultrasound gel price in bulk. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to ultrasound gel price in bulk. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: ultrasound-gel-price-in-bulk
-primary_keyword: Ultrasound gel price in bulk
+primary_keyword: 'Ultrasound gel price in bulk'
 secondary_keywords:
-- operation theatre lights Kenya
-- endoscopy equipment Kenya
-- water baths lab Kenya
-- ambulance equipment Kenya
-- physiotherapy machines Kenya
+- 'operation theatre lights Kenya'
+- 'endoscopy equipment Kenya'
+- 'water baths lab Kenya'
+- 'ambulance equipment Kenya'
+- 'physiotherapy machines Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

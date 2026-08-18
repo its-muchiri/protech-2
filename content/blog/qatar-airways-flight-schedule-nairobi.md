@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways Flight Schedule Nairobi: Complete Guide'
-description: Everything you need to know about qatar airways flight schedule nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways flight schedule nairobi, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-flight-schedule-nairobi
-primary_keyword: qatar airways flight schedule nairobi
+primary_keyword: 'qatar airways flight schedule nairobi'
 secondary_keywords:
-- flight to nairobi time
-- flights nairobi to vietnam
-- flights nairobi wilson to malindi
-- flights nairobi to zurich
-- how much is a flight from nairobi to ukunda
+- 'flight to nairobi time'
+- 'flights nairobi to vietnam'
+- 'flights nairobi wilson to malindi'
+- 'flights nairobi to zurich'
+- 'how much is a flight from nairobi to ukunda'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

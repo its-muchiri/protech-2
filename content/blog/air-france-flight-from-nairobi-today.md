@@ -1,14 +1,14 @@
 ---
 title: 'Air France Flight from Nairobi Today: Complete Guide'
-description: Everything you need to know about air france flight from nairobi today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about air france flight from nairobi today, including routes, airlines, booking tips, and fares.'
 slug: air-france-flight-from-nairobi-today
-primary_keyword: air france flight from nairobi today
+primary_keyword: 'air france flight from nairobi today'
 secondary_keywords:
-- emirates flight 8
-- emirates flight 953
-- qatar airways arrival nairobi today
-- qatar airways careers nairobi cabin crew
-- qatar airways nairobi jobs
+- 'emirates flight 8'
+- 'emirates flight 953'
+- 'qatar airways arrival nairobi today'
+- 'qatar airways careers nairobi cabin crew'
+- 'qatar airways nairobi jobs'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Nairobi to Dar Es Salaam: Complete Guide'
-description: Everything you need to know about kq flight from nairobi to dar es salaam, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from nairobi to dar es salaam, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-nairobi-to-dar-es-salaam
-primary_keyword: kq flight from nairobi to dar es salaam
+primary_keyword: 'kq flight from nairobi to dar es salaam'
 secondary_keywords:
-- kq lagos to nairobi
-- kq 271 flight status
-- kq 353 flight status today
-- kq 520 flight status
-- kq 610
+- 'kq lagos to nairobi'
+- 'kq 271 flight status'
+- 'kq 353 flight status today'
+- 'kq 520 flight status'
+- 'kq 610'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

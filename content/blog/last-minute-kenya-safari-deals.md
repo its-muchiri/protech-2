@@ -1,14 +1,14 @@
 ---
 title: 'Last Minute Kenya Safari Deals: Complete Guide'
-description: Kenya safari guide covering last minute kenya safari deals, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering last minute kenya safari deals, including what is included, pricing, and booking advice.'
 slug: last-minute-kenya-safari-deals
-primary_keyword: Last minute Kenya safari deals
+primary_keyword: 'Last minute Kenya safari deals'
 secondary_keywords:
-- Mara river crossing safari
-- Kenya safari from Nairobi
-- Kenya safari from Canada
-- Kenya safari in April
-- Best Kenya tour operators
+- 'Mara river crossing safari'
+- 'Kenya safari from Nairobi'
+- 'Kenya safari from Canada'
+- 'Kenya safari in April'
+- 'Best Kenya tour operators'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

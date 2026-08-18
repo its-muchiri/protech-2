@@ -1,14 +1,14 @@
 ---
 title: '3-body Mortuary Cabinet for Sale: 2026 Price Guide'
-description: Kenya buying guide to 3-body mortuary cabinet for sale. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to 3-body mortuary cabinet for sale. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: 3-body-mortuary-cabinet-for-sale
-primary_keyword: 3-body mortuary cabinet for sale
+primary_keyword: '3-body mortuary cabinet for sale'
 secondary_keywords:
-- Electrotherapy machine electrodes and pads suppliers
-- Dental chair with full unit price in Kenya
-- Lead aprons for dental radiography
-- Dental lab equipment suppliers in Nairobi
-- Veterinary infusion pump for IV fluids
+- 'Electrotherapy machine electrodes and pads suppliers'
+- 'Dental chair with full unit price in Kenya'
+- 'Lead aprons for dental radiography'
+- 'Dental lab equipment suppliers in Nairobi'
+- 'Veterinary infusion pump for IV fluids'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

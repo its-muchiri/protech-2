@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Contact Nairobi Telephone Number: Complete Guide'
-description: Everything you need to know about ethiopian airlines contact nairobi telephone number, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines contact nairobi telephone number, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-contact-nairobi-telephone-number
-primary_keyword: ethiopian airlines contact nairobi telephone number
+primary_keyword: 'ethiopian airlines contact nairobi telephone number'
 secondary_keywords:
-- flights from cape town to nairobi kenya
-- flights from okc to nairobi kenya
-- flights to dubai from kenya price
-- does kenya airways fly to canada
-- flights from kenya to seychelles
+- 'flights from cape town to nairobi kenya'
+- 'flights from okc to nairobi kenya'
+- 'flights to dubai from kenya price'
+- 'does kenya airways fly to canada'
+- 'flights from kenya to seychelles'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

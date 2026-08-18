@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Gatwick Today: Complete Guide'
-description: Everything you need to know about emirates flights from gatwick today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from gatwick today, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-gatwick-today
-primary_keyword: emirates flights from gatwick today
+primary_keyword: 'emirates flights from gatwick today'
 secondary_keywords:
-- kenya airways mumbai to nairobi flight status
-- kq flight from london to nairobi
-- kq flight schedule nairobi to mombasa
-- kenya airways flight from nairobi to kisumu
-- kenya airways flights from nairobi to bangkok
+- 'kenya airways mumbai to nairobi flight status'
+- 'kq flight from london to nairobi'
+- 'kq flight schedule nairobi to mombasa'
+- 'kenya airways flight from nairobi to kisumu'
+- 'kenya airways flights from nairobi to bangkok'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

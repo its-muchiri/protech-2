@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Airline Passenger Information: Complete Guide'
-description: Everything you need to know about emirates airline passenger information, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates airline passenger information, including routes, airlines, booking tips, and fares.'
 slug: emirates-airline-passenger-information
-primary_keyword: emirates airline passenger information
+primary_keyword: 'emirates airline passenger information'
 secondary_keywords:
-- flight attendant jobs in kenya 2023
-- flight from kenya to addis ababa
-- flights from kenya to barbados
-- flights from kenya to cape town
-- flights from kenya to dar es salaam
+- 'flight attendant jobs in kenya 2023'
+- 'flight from kenya to addis ababa'
+- 'flights from kenya to barbados'
+- 'flights from kenya to cape town'
+- 'flights from kenya to dar es salaam'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

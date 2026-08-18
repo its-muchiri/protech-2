@@ -1,14 +1,14 @@
 ---
 title: 'Tour Company Accreditation Kenya TRA License: Complete Guide'
-description: Kenya safari guide covering tour company accreditation kenya tra license, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering tour company accreditation kenya tra license, including what is included, pricing, and booking advice.'
 slug: tour-company-accreditation-kenya-tra-license
-primary_keyword: Tour company accreditation Kenya TRA license
+primary_keyword: 'Tour company accreditation Kenya TRA license'
 secondary_keywords:
-- Vegan/Vegetarian safari Kenya
-- Kenya safari safety tips
-- What animals will I see Kenya safari
-- See Big Five Samburu safari lodge
-- Safety for solo female traveler Nairobi safari
+- 'Vegan/Vegetarian safari Kenya'
+- 'Kenya safari safety tips'
+- 'What animals will I see Kenya safari'
+- 'See Big Five Samburu safari lodge'
+- 'Safety for solo female traveler Nairobi safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

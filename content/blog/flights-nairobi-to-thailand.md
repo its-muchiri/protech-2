@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Thailand: Complete Guide'
-description: Everything you need to know about flights nairobi to thailand, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to thailand, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-thailand
-primary_keyword: flights nairobi to thailand
+primary_keyword: 'flights nairobi to thailand'
 secondary_keywords:
-- kq flights to cape town
-- kq flight dubai to nairobi
-- kq flights from kigali to nairobi
-- kq flights from nairobi to london heathrow
-- kq flights to jfk
+- 'kq flights to cape town'
+- 'kq flight dubai to nairobi'
+- 'kq flights from kigali to nairobi'
+- 'kq flights from nairobi to london heathrow'
+- 'kq flights to jfk'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

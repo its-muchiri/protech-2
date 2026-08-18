@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to New York Usa: Complete Guide'
-description: Everything you need to know about flights from nairobi to new york usa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to new york usa, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-new-york-usa
-primary_keyword: flights from nairobi to new york usa
+primary_keyword: 'flights from nairobi to new york usa'
 secondary_keywords:
-- kq flights to entebbe today timetable
-- kq flight from harare to nairobi
-- kq flights to johannesburg
-- kq flight lhr to nbo
-- kq mayfly flight schedule
+- 'kq flights to entebbe today timetable'
+- 'kq flight from harare to nairobi'
+- 'kq flights to johannesburg'
+- 'kq flight lhr to nbo'
+- 'kq mayfly flight schedule'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

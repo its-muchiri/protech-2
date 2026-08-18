@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight Booking Price: Complete Guide'
-description: Everything you need to know about kq flight booking price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight booking price, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-booking-price
-primary_keyword: kq flight booking price
+primary_keyword: 'kq flight booking price'
 secondary_keywords:
-- kq flights to johannesburg today
-- kenya airways flights live
-- kq mayfly flight schedule today
-- kenya airways cheapest flight offers
-- kq 486 flight radar
+- 'kq flights to johannesburg today'
+- 'kenya airways flights live'
+- 'kq mayfly flight schedule today'
+- 'kenya airways cheapest flight offers'
+- 'kq 486 flight radar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

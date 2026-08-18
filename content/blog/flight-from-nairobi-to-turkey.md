@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Turkey: Complete Guide'
-description: Everything you need to know about flight from nairobi to turkey, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to turkey, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-turkey
-primary_keyword: flight from nairobi to turkey
+primary_keyword: 'flight from nairobi to turkey'
 secondary_keywords:
-- rwandair flights from nairobi to johannesburg
-- super metro flights from nairobi to mombasa
-- flights from nairobi to uk today
-- cheap flights from vienna to nairobi
-- flights from nairobi to zurich
+- 'rwandair flights from nairobi to johannesburg'
+- 'super metro flights from nairobi to mombasa'
+- 'flights from nairobi to uk today'
+- 'cheap flights from vienna to nairobi'
+- 'flights from nairobi to zurich'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi to Namibia Flights: Complete Guide'
-description: Everything you need to know about nairobi to namibia flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about nairobi to namibia flights, including routes, airlines, booking tips, and fares.'
 slug: nairobi-to-namibia-flights
-primary_keyword: nairobi to namibia flights
+primary_keyword: 'nairobi to namibia flights'
 secondary_keywords:
-- flight ticket to kenya price
-- flight ticket to kenya from ghana
-- how much is a round trip ticket to kenya
-- kenya airways book with miles
-- who flies to kenya
+- 'flight ticket to kenya price'
+- 'flight ticket to kenya from ghana'
+- 'how much is a round trip ticket to kenya'
+- 'kenya airways book with miles'
+- 'who flies to kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

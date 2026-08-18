@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights Schedule Today: Complete Guide'
-description: Everything you need to know about kq flights schedule today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights schedule today, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-schedule-today
-primary_keyword: kq flights schedule today
+primary_keyword: 'kq flights schedule today'
 secondary_keywords:
-- qatar airways recruitment nairobi 2024
-- kq flights from nairobi to kisumu
-- kq flight from nbo to dxb
-- kq flight from jfk
-- kenya airways flights from south africa
+- 'qatar airways recruitment nairobi 2024'
+- 'kq flights from nairobi to kisumu'
+- 'kq flight from nbo to dxb'
+- 'kq flight from jfk'
+- 'kenya airways flights from south africa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

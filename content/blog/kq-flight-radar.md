@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight Radar: Complete Guide'
-description: Everything you need to know about kq flight radar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight radar, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-radar
-primary_keyword: kq flight radar
+primary_keyword: 'kq flight radar'
 secondary_keywords:
-- kenya airways flight schedule from nairobi to addis ababa today
-- kenya airways flight from dubai to nairobi today
-- kenya airways flight from jfk to nairobi
-- kenya airways flight schedule from nairobi to mumbai
-- kenya airways flights from nairobi to south africa today
+- 'kenya airways flight schedule from nairobi to addis ababa today'
+- 'kenya airways flight from dubai to nairobi today'
+- 'kenya airways flight from jfk to nairobi'
+- 'kenya airways flight schedule from nairobi to mumbai'
+- 'kenya airways flights from nairobi to south africa today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

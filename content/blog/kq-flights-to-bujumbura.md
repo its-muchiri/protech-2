@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Bujumbura: Complete Guide'
-description: Everything you need to know about kq flights to bujumbura, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to bujumbura, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-bujumbura
-primary_keyword: kq flights to bujumbura
+primary_keyword: 'kq flights to bujumbura'
 secondary_keywords:
-- emirates flight 521
-- emirates flight 653
-- emirates flight 87
-- emirates flight 923
-- qatar airways flight ticket from doha to nairobi
+- 'emirates flight 521'
+- 'emirates flight 653'
+- 'emirates flight 87'
+- 'emirates flight 923'
+- 'qatar airways flight ticket from doha to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

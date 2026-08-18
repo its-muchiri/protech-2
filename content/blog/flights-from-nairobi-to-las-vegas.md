@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Las Vegas: Complete Guide'
-description: Everything you need to know about flights from nairobi to las vegas, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to las vegas, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-las-vegas
-primary_keyword: flights from nairobi to las vegas
+primary_keyword: 'flights from nairobi to las vegas'
 secondary_keywords:
-- jambojet flight from nairobi to lamu
-- last flight from nairobi to mombasa
-- flight from nairobi to mogadishu
-- flight from nairobi to oslo
-- flight from nairobi to pakistan
+- 'jambojet flight from nairobi to lamu'
+- 'last flight from nairobi to mombasa'
+- 'flight from nairobi to mogadishu'
+- 'flight from nairobi to oslo'
+- 'flight from nairobi to pakistan'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

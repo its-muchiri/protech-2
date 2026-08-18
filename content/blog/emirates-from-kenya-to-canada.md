@@ -1,14 +1,14 @@
 ---
 title: 'Emirates from Kenya to Canada: Complete Guide'
-description: Everything you need to know about emirates from kenya to canada, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates from kenya to canada, including routes, airlines, booking tips, and fares.'
 slug: emirates-from-kenya-to-canada
-primary_keyword: emirates from kenya to canada
+primary_keyword: 'emirates from kenya to canada'
 secondary_keywords:
-- kenya airways flight schedule from mombasa to nairobi
-- kenya airways 1st class
-- flight from nairobi to amsterdam
-- flight from nairobi to bujumbura
-- ba flight from nairobi to london today
+- 'kenya airways flight schedule from mombasa to nairobi'
+- 'kenya airways 1st class'
+- 'flight from nairobi to amsterdam'
+- 'flight from nairobi to bujumbura'
+- 'ba flight from nairobi to london today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

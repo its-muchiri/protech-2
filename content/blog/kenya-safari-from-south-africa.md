@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari from South Africa: Complete Guide'
-description: Kenya safari guide covering kenya safari from south africa, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari from south africa, including what is included, pricing, and booking advice.'
 slug: kenya-safari-from-south-africa
-primary_keyword: Kenya safari from South Africa
+primary_keyword: 'Kenya safari from South Africa'
 secondary_keywords:
-- Malindi travel agency beach holidays
-- Private guided tours Kenya
-- Mount Kenya technical climbing guides
-- Horseback riding safari operators Kenya
-- Multi-day trekking tour operators Kenya
+- 'Malindi travel agency beach holidays'
+- 'Private guided tours Kenya'
+- 'Mount Kenya technical climbing guides'
+- 'Horseback riding safari operators Kenya'
+- 'Multi-day trekking tour operators Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

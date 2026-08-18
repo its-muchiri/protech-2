@@ -1,14 +1,14 @@
 ---
 title: '8 Emirates: Complete Guide'
-description: Everything you need to know about 8 emirates, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about 8 emirates, including routes, airlines, booking tips, and fares.'
 slug: 8-emirates
-primary_keyword: 8 emirates
+primary_keyword: '8 emirates'
 secondary_keywords:
-- rwandair flights from nairobi to kigali today
-- safarilink flights from nairobi to eldoret
-- flight from nairobi to united kingdom
-- flights from nairobi wilson to mombasa
-- cheap flights from nairobi to south africa
+- 'rwandair flights from nairobi to kigali today'
+- 'safarilink flights from nairobi to eldoret'
+- 'flight from nairobi to united kingdom'
+- 'flights from nairobi wilson to mombasa'
+- 'cheap flights from nairobi to south africa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

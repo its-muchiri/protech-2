@@ -1,14 +1,14 @@
 ---
 title: '5-part Hematology Analyzer Cost in Mombasa: 2026 Price Guide'
-description: Kenya buying guide to 5-part hematology analyzer cost in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to 5-part hematology analyzer cost in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: 5-part-hematology-analyzer-cost-in-mombasa
-primary_keyword: 5-part hematology analyzer cost in Mombasa
+primary_keyword: '5-part hematology analyzer cost in Mombasa'
 secondary_keywords:
-- Visual acuity chart / Snellen chart
-- Blood collection tubes (vacutainers) suppliers
-- Body bags wholesale price in Kenya
-- Medical oxygen plant installation cost in Kenya
-- Best medical equipment companies in Kenya
+- 'Visual acuity chart / Snellen chart'
+- 'Blood collection tubes (vacutainers) suppliers'
+- 'Body bags wholesale price in Kenya'
+- 'Medical oxygen plant installation cost in Kenya'
+- 'Best medical equipment companies in Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

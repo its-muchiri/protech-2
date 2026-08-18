@@ -1,14 +1,14 @@
 ---
 title: 'Lake Nakuru Tour Package Cost 4 Days: Complete Guide'
-description: Kenya safari guide covering lake nakuru tour package cost 4 days, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering lake nakuru tour package cost 4 days, including what is included, pricing, and booking advice.'
 slug: lake-nakuru-tour-package-cost-4-days
-primary_keyword: Lake Nakuru tour package cost 4 days
+primary_keyword: 'Lake Nakuru tour package cost 4 days'
 secondary_keywords:
-- Kenya visa for safari
-- Language spoken Kenya safari
-- Kenya safari tour operator reviews Tripadvisor
-- 4 day Samburu reserve safari package deal
-- Butterfly safari Kenya (Arabuko Sokoke)
+- 'Kenya visa for safari'
+- 'Language spoken Kenya safari'
+- 'Kenya safari tour operator reviews Tripadvisor'
+- '4 day Samburu reserve safari package deal'
+- 'Butterfly safari Kenya (Arabuko Sokoke)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

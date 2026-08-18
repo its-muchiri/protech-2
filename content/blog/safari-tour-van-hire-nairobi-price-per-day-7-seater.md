@@ -1,14 +1,14 @@
 ---
 title: 'Safari Tour Van Hire Nairobi Price Per Day 7 Seater: Complete Guide'
-description: Kenya safari guide covering safari tour van hire nairobi price per day 7 seater, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering safari tour van hire nairobi price per day 7 seater, including what is included, pricing, and booking advice.'
 slug: safari-tour-van-hire-nairobi-price-per-day-7-seater
-primary_keyword: Safari tour van hire Nairobi price per day 7 seater
+primary_keyword: 'Safari tour van hire Nairobi price per day 7 seater'
 secondary_keywords:
-- Top 10 safari operators Kenya
-- Last minute safari deals Kenya companies
-- Lake Naivasha boat tour operators
-- Budget camping safari companies Kenya
-- Over 50s safari tours Kenya
+- 'Top 10 safari operators Kenya'
+- 'Last minute safari deals Kenya companies'
+- 'Lake Naivasha boat tour operators'
+- 'Budget camping safari companies Kenya'
+- 'Over 50s safari tours Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

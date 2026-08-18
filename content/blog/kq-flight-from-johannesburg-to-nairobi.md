@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Johannesburg to Nairobi: Complete Guide'
-description: Everything you need to know about kq flight from johannesburg to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from johannesburg to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-johannesburg-to-nairobi
-primary_keyword: kq flight from johannesburg to nairobi
+primary_keyword: 'kq flight from johannesburg to nairobi'
 secondary_keywords:
-- flight from kenya to ontario canada
-- flights from kenya to perth
-- flights from paris to kenya
-- flight from kenya to rwanda price
-- flights from kenya to saudi arabia
+- 'flight from kenya to ontario canada'
+- 'flights from kenya to perth'
+- 'flights from paris to kenya'
+- 'flight from kenya to rwanda price'
+- 'flights from kenya to saudi arabia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

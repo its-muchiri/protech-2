@@ -1,14 +1,14 @@
 ---
 title: '6 Day Kenya Safari: Complete Guide'
-description: Kenya safari guide covering 6 day kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering 6 day kenya safari, including what is included, pricing, and booking advice.'
 slug: 6-day-kenya-safari
-primary_keyword: 6 day Kenya safari
+primary_keyword: '6 day Kenya safari'
 secondary_keywords:
-- Cultural experience included Kenya safari package booking
-- Budget Kenya tour package deal
-- Reserve 14 day premium Kenya highlights package
-- Reserve Christmas family safari package Masai Mara lodge
-- Price for 6 day Chyulu Hills horseback safari package
+- 'Cultural experience included Kenya safari package booking'
+- 'Budget Kenya tour package deal'
+- 'Reserve 14 day premium Kenya highlights package'
+- 'Reserve Christmas family safari package Masai Mara lodge'
+- 'Price for 6 day Chyulu Hills horseback safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

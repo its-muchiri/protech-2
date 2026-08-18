@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Chicago: Complete Guide'
-description: Everything you need to know about emirates flights from chicago, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from chicago, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-chicago
-primary_keyword: emirates flights from chicago
+primary_keyword: 'emirates flights from chicago'
 secondary_keywords:
-- flights from entebbe uganda to kisumu kenya
-- flights from london to kisumu kenya
-- flight from kisumu to maasai mara
-- skyward flights from kisumu to nairobi
-- kq flights from eldoret to nairobi price
+- 'flights from entebbe uganda to kisumu kenya'
+- 'flights from london to kisumu kenya'
+- 'flight from kisumu to maasai mara'
+- 'skyward flights from kisumu to nairobi'
+- 'kq flights from eldoret to nairobi price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

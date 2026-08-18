@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Amsterdam to Nairobi: Complete Guide'
-description: Everything you need to know about kq flight from amsterdam to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from amsterdam to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-amsterdam-to-nairobi
-primary_keyword: kq flight from amsterdam to nairobi
+primary_keyword: 'kq flight from amsterdam to nairobi'
 secondary_keywords:
-- how many emirates flights from london to dubai each week
-- cheap flights to india from toronto emirates
-- emirates flights from kuala lumpur
-- emirates flights from lusaka to london
-- map of emirates flights from dubai
+- 'how many emirates flights from london to dubai each week'
+- 'cheap flights to india from toronto emirates'
+- 'emirates flights from kuala lumpur'
+- 'emirates flights from lusaka to london'
+- 'map of emirates flights from dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

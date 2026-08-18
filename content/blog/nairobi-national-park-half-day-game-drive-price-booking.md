@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi National Park Half Day Game Drive Price / Booking: Complete Guide'
-description: Kenya safari guide covering nairobi national park half day game drive price / booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering nairobi national park half day game drive price / booking, including what is included, pricing, and booking advice.'
 slug: nairobi-national-park-half-day-game-drive-price-booking
-primary_keyword: Nairobi National Park half day game drive price / booking
+primary_keyword: 'Nairobi National Park half day game drive price / booking'
 secondary_keywords:
-- Book private Kenya safari online quote UK
-- Package & Deal Seeking (Packages, Deals, Offers, All-inclusive, Cost, Price, Quote)
-- 10-day Kenya safari tour cost estimate Europe
-- Luxury tented camp safari Kenya cost per person USA
-- Book Kenya conservation safari experience USA rhino focus
+- 'Book private Kenya safari online quote UK'
+- 'Package & Deal Seeking (Packages, Deals, Offers, All-inclusive, Cost, Price, Quote)'
+- '10-day Kenya safari tour cost estimate Europe'
+- 'Luxury tented camp safari Kenya cost per person USA'
+- 'Book Kenya conservation safari experience USA rhino focus'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

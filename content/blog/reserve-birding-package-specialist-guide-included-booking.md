@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Birding Package Specialist Guide Included Booking: Complete Guide'
-description: Kenya safari guide covering reserve birding package specialist guide included booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve birding package specialist guide included booking, including what is included, pricing, and booking advice.'
 slug: reserve-birding-package-specialist-guide-included-booking
-primary_keyword: Reserve birding package specialist guide included booking
+primary_keyword: 'Reserve birding package specialist guide included booking'
 secondary_keywords:
-- Tsavo safari trip plan purchase
-- Masai Mara package cost
-- Purchase Kenya safari cultural visit included package
-- Buy multi-generational family safari package Kenya cost
-- Reserve green season Kenya photographic safari package price
+- 'Tsavo safari trip plan purchase'
+- 'Masai Mara package cost'
+- 'Purchase Kenya safari cultural visit included package'
+- 'Buy multi-generational family safari package Kenya cost'
+- 'Reserve green season Kenya photographic safari package price'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

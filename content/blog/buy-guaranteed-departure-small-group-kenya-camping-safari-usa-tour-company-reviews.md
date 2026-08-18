@@ -1,14 +1,14 @@
 ---
 title: 'Buy Guaranteed Departure Small Group Kenya Camping Safari USA Tour Company Reviews: Complete Guide'
-description: Kenya safari guide covering buy guaranteed departure small group kenya camping safari usa tour company reviews, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy guaranteed departure small group kenya camping safari usa tour company reviews, including what is included, pricing, and booking advice.'
 slug: buy-guaranteed-departure-small-group-kenya-camping-safari-usa-tour-company-reviews
-primary_keyword: Buy guaranteed departure small group Kenya camping safari USA tour company reviews
+primary_keyword: 'Buy guaranteed departure small group Kenya camping safari USA tour company reviews'
 secondary_keywords:
-- Companies offering tours from Jomo Kenyatta Airport (JKIA)
-- Companies offering drone photography safaris (check regulations)
-- Reliable company for Lake Nakuru day trip from Thika town
-- Taita Hills Sanctuary night game drive operators
-- Reserve bespoke Kenya safari experience
+- 'Companies offering tours from Jomo Kenyatta Airport (JKIA)'
+- 'Companies offering drone photography safaris (check regulations)'
+- 'Reliable company for Lake Nakuru day trip from Thika town'
+- 'Taita Hills Sanctuary night game drive operators'
+- 'Reserve bespoke Kenya safari experience'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from Mombasa to Kisumu: Complete Guide'
-description: Everything you need to know about kq flights from mombasa to kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from mombasa to kisumu, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-mombasa-to-kisumu
-primary_keyword: kq flights from mombasa to kisumu
+primary_keyword: 'kq flights from mombasa to kisumu'
 secondary_keywords:
-- how many emirates flights from toronto to dubai
-- emirates flights from italy to dubai
-- emirates flights from dubai to johannesburg today
-- flights from kozhikode to dubai united arab emirates
-- emirates flights from manila
+- 'how many emirates flights from toronto to dubai'
+- 'emirates flights from italy to dubai'
+- 'emirates flights from dubai to johannesburg today'
+- 'flights from kozhikode to dubai united arab emirates'
+- 'emirates flights from manila'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

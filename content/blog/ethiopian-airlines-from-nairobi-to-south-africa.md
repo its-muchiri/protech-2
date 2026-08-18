@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines from Nairobi to South Africa: Complete Guide'
-description: Everything you need to know about ethiopian airlines from nairobi to south africa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines from nairobi to south africa, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-from-nairobi-to-south-africa
-primary_keyword: ethiopian airlines from nairobi to south africa
+primary_keyword: 'ethiopian airlines from nairobi to south africa'
 secondary_keywords:
-- flights from peshawar to dubai united arab emirates
-- flights from al qaisumah to dubai united arab emirates
-- when will emirates resume flights from adelaide 2023
-- emirates flights from tehran to toronto
-- emirates flights from venice to dubai
+- 'flights from peshawar to dubai united arab emirates'
+- 'flights from al qaisumah to dubai united arab emirates'
+- 'when will emirates resume flights from adelaide 2023'
+- 'emirates flights from tehran to toronto'
+- 'emirates flights from venice to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

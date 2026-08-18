@@ -1,14 +1,14 @@
 ---
 title: 'Secure 7 Day Fly-in Safari Package Finch Hattons Tsavo West Deal Booking: Complete Guide'
-description: Kenya safari guide covering secure 7 day fly-in safari package finch hattons tsavo west deal booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering secure 7 day fly-in safari package finch hattons tsavo west deal booking, including what is included, pricing, and booking advice.'
 slug: secure-7-day-fly-in-safari-package-finch-hattons-tsavo-west-deal-booking
-primary_keyword: Secure 7 day fly-in safari package Finch Hattons Tsavo West deal booking
+primary_keyword: 'Secure 7 day fly-in safari package Finch Hattons Tsavo West deal booking'
 secondary_keywords:
-- Budget safari lodges Kenya
-- Eco lodges Kenya safari
-- Masai Mara balloon safari
-- Big Five safari Kenya
-- Rare animals Kenya safari
+- 'Budget safari lodges Kenya'
+- 'Eco lodges Kenya safari'
+- 'Masai Mara balloon safari'
+- 'Big Five safari Kenya'
+- 'Rare animals Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Entebbe to Nairobi Flights: Complete Guide'
-description: Everything you need to know about entebbe to nairobi flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about entebbe to nairobi flights, including routes, airlines, booking tips, and fares.'
 slug: entebbe-to-nairobi-flights
-primary_keyword: entebbe to nairobi flights
+primary_keyword: 'entebbe to nairobi flights'
 secondary_keywords:
-- cheap flight from nairobi to qatar
-- qatar flight from doha to nairobi
-- cost of flight from nairobi to qatar
-- kq flight from addis to nairobi
-- kq flights from dubai
+- 'cheap flight from nairobi to qatar'
+- 'qatar flight from doha to nairobi'
+- 'cost of flight from nairobi to qatar'
+- 'kq flight from addis to nairobi'
+- 'kq flights from dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

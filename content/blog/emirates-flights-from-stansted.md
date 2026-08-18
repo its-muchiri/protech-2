@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Stansted: Complete Guide'
-description: Everything you need to know about emirates flights from stansted, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from stansted, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-stansted
-primary_keyword: emirates flights from stansted
+primary_keyword: 'emirates flights from stansted'
 secondary_keywords:
-- 2 bedroom nairobi west
-- emirates flights from sydney
-- flights to australia from dublin emirates
-- emirates flights from cape town to dubai today
-- emirates flights from dubai to heathrow today
+- '2 bedroom nairobi west'
+- 'emirates flights from sydney'
+- 'flights to australia from dublin emirates'
+- 'emirates flights from cape town to dubai today'
+- 'emirates flights from dubai to heathrow today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

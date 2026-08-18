@@ -1,14 +1,14 @@
 ---
 title: 'How Many Hours Flight from Nairobi to Qatar: Complete Guide'
-description: Everything you need to know about how many hours flight from nairobi to qatar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how many hours flight from nairobi to qatar, including routes, airlines, booking tips, and fares.'
 slug: how-many-hours-flight-from-nairobi-to-qatar
-primary_keyword: how many hours flight from nairobi to qatar
+primary_keyword: 'how many hours flight from nairobi to qatar'
 secondary_keywords:
-- emirates flights to uk from perth
-- emirates flight status contact number
-- emirates flights from south africa to india ticket price
-- emirates flights from tehran today
-- emirates flights from vienna to dubai
+- 'emirates flights to uk from perth'
+- 'emirates flight status contact number'
+- 'emirates flights from south africa to india ticket price'
+- 'emirates flights from tehran today'
+- 'emirates flights from vienna to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

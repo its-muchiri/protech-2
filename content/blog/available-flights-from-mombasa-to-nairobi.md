@@ -1,14 +1,14 @@
 ---
 title: 'Available Flights from Mombasa to Nairobi: Complete Guide'
-description: Everything you need to know about available flights from mombasa to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about available flights from mombasa to nairobi, including routes, airlines, booking tips, and fares.'
 slug: available-flights-from-mombasa-to-nairobi
-primary_keyword: available flights from mombasa to nairobi
+primary_keyword: 'available flights from mombasa to nairobi'
 secondary_keywords:
-- flights from kuwait city to dubai united arab emirates
-- emirates flights from manchester
-- when will emirates resume flights from nigeria to dubai
-- emirates flights from perth today
-- emirates flight schedule from quetta to dubai
+- 'flights from kuwait city to dubai united arab emirates'
+- 'emirates flights from manchester'
+- 'when will emirates resume flights from nigeria to dubai'
+- 'emirates flights from perth today'
+- 'emirates flight schedule from quetta to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

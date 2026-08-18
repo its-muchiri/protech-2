@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Perth Australia: Complete Guide'
-description: Everything you need to know about flights nairobi to perth australia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to perth australia, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-perth-australia
-primary_keyword: flights nairobi to perth australia
+primary_keyword: 'flights nairobi to perth australia'
 secondary_keywords:
-- emirates flight 720
-- emirates flight 978
-- qatar airways flight from nairobi to dubai
-- qatar airways cargo nairobi
-- qatar airways in nairobi office
+- 'emirates flight 720'
+- 'emirates flight 978'
+- 'qatar airways flight from nairobi to dubai'
+- 'qatar airways cargo nairobi'
+- 'qatar airways in nairobi office'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

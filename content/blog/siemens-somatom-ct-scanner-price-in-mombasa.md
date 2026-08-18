@@ -1,14 +1,14 @@
 ---
 title: 'Siemens Somatom CT Scanner Price in Mombasa: 2026 Price Guide'
-description: Kenya buying guide to siemens somatom ct scanner price in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to siemens somatom ct scanner price in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: siemens-somatom-ct-scanner-price-in-mombasa
-primary_keyword: Siemens Somatom CT scanner price in Mombasa
+primary_keyword: 'Siemens Somatom CT scanner price in Mombasa'
 secondary_keywords:
-- Clinic equipment suppliers in Machakos
-- Veterinary clinic equipment in Nanyuki
-- ICU setup cost in a private hospital in Nairobi
-- Cost of installing a CT scanner in a Kenyan hospital
-- Sonoscape S2 portable ultrasound for sale in Thika
+- 'Clinic equipment suppliers in Machakos'
+- 'Veterinary clinic equipment in Nanyuki'
+- 'ICU setup cost in a private hospital in Nairobi'
+- 'Cost of installing a CT scanner in a Kenyan hospital'
+- 'Sonoscape S2 portable ultrasound for sale in Thika'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

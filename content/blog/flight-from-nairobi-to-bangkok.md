@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Bangkok: Complete Guide'
-description: Everything you need to know about flight from nairobi to bangkok, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to bangkok, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-bangkok
-primary_keyword: flight from nairobi to bangkok
+primary_keyword: 'flight from nairobi to bangkok'
 secondary_keywords:
-- flight route from nairobi to new york
-- flight from nairobi to mombasa time
-- flight 540 nairobi to dar es salaam
-- flight from nairobi to kabunde
-- turkish airlines flight price from nairobi to turkey
+- 'flight route from nairobi to new york'
+- 'flight from nairobi to mombasa time'
+- 'flight 540 nairobi to dar es salaam'
+- 'flight from nairobi to kabunde'
+- 'turkish airlines flight price from nairobi to turkey'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

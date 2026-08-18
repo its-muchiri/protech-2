@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is Kq Flight from Nairobi to Dubai: Complete Guide'
-description: Everything you need to know about how much is kq flight from nairobi to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is kq flight from nairobi to dubai, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-kq-flight-from-nairobi-to-dubai
-primary_keyword: how much is kq flight from nairobi to dubai
+primary_keyword: 'how much is kq flight from nairobi to dubai'
 secondary_keywords:
-- flights leaving kenya today
-- flights to kenya news
-- qatar flights to nairobi
-- flights kenya to london
-- flights to voi
+- 'flights leaving kenya today'
+- 'flights to kenya news'
+- 'qatar flights to nairobi'
+- 'flights kenya to london'
+- 'flights to voi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

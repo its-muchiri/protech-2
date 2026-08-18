@@ -1,14 +1,14 @@
 ---
 title: 'DR Panel for X-ray Machine Cost in Kenya: 2026 Price Guide'
-description: Kenya buying guide to dr panel for x-ray machine cost in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to dr panel for x-ray machine cost in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: dr-panel-for-x-ray-machine-cost-in-kenya
-primary_keyword: DR panel for X-ray machine cost in Kenya
+primary_keyword: 'DR panel for X-ray machine cost in Kenya'
 secondary_keywords:
-- Laparoscopic camera system cost in Mombasa
-- Electrolyte analyzer price in Thika
-- Tabletop autoclave for a dental clinic in Nairobi
-- General surgery instrument set price in Kenya
-- Hydraulic operating table suppliers in Mombasa
+- 'Laparoscopic camera system cost in Mombasa'
+- 'Electrolyte analyzer price in Thika'
+- 'Tabletop autoclave for a dental clinic in Nairobi'
+- 'General surgery instrument set price in Kenya'
+- 'Hydraulic operating table suppliers in Mombasa'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

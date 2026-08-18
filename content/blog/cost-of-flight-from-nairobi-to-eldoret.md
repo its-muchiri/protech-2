@@ -1,14 +1,14 @@
 ---
 title: 'Cost of Flight from Nairobi to Eldoret: Complete Guide'
-description: Everything you need to know about cost of flight from nairobi to eldoret, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cost of flight from nairobi to eldoret, including routes, airlines, booking tips, and fares.'
 slug: cost-of-flight-from-nairobi-to-eldoret
-primary_keyword: cost of flight from nairobi to eldoret
+primary_keyword: 'cost of flight from nairobi to eldoret'
 secondary_keywords:
-- kq flights to heathrow
-- kq flight jfk to nbo
-- kq flights to kigali
-- kq flight map
-- kq flights to nairobi
+- 'kq flights to heathrow'
+- 'kq flight jfk to nbo'
+- 'kq flights to kigali'
+- 'kq flight map'
+- 'kq flights to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

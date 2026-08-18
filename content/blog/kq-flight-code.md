@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight Code: Complete Guide'
-description: Everything you need to know about kq flight code, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight code, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-code
-primary_keyword: kq flight code
+primary_keyword: 'kq flight code'
 secondary_keywords:
-- flight from nairobi to accra
-- flight from nairobi to bungoma
-- british airways flight from nairobi to london today
-- cheapest flight from nairobi to zanzibar
-- flight from nairobi to egypt
+- 'flight from nairobi to accra'
+- 'flight from nairobi to bungoma'
+- 'british airways flight from nairobi to london today'
+- 'cheapest flight from nairobi to zanzibar'
+- 'flight from nairobi to egypt'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

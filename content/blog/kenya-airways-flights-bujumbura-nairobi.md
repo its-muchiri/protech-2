@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights Bujumbura Nairobi: Complete Guide'
-description: Everything you need to know about kenya airways flights bujumbura nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights bujumbura nairobi, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-bujumbura-nairobi
-primary_keyword: kenya airways flights bujumbura nairobi
+primary_keyword: 'kenya airways flights bujumbura nairobi'
 secondary_keywords:
-- emirates nairobi airport terminal
-- emirates departure nairobi
-- emirates nairobi kenya
-- emirates skycargo nairobi
-- emirates kenya airways
+- 'emirates nairobi airport terminal'
+- 'emirates departure nairobi'
+- 'emirates nairobi kenya'
+- 'emirates skycargo nairobi'
+- 'emirates kenya airways'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

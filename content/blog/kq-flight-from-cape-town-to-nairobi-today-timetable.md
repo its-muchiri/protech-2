@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Cape Town to Nairobi Today Timetable: Complete Guide'
-description: Everything you need to know about kq flight from cape town to nairobi today timetable, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from cape town to nairobi today timetable, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-cape-town-to-nairobi-today-timetable
-primary_keyword: kq flight from cape town to nairobi today timetable
+primary_keyword: 'kq flight from cape town to nairobi today timetable'
 secondary_keywords:
-- flight from nairobi to bungoma
-- british airways flight from nairobi to london today
-- cheapest flight from nairobi to zanzibar
-- flight from nairobi to egypt
-- flight fare from nairobi to mombasa
+- 'flight from nairobi to bungoma'
+- 'british airways flight from nairobi to london today'
+- 'cheapest flight from nairobi to zanzibar'
+- 'flight from nairobi to egypt'
+- 'flight fare from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

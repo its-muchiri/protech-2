@@ -1,14 +1,14 @@
 ---
 title: '5 Day Kenya Highlights Tour Operator: Complete Guide'
-description: Kenya safari guide covering 5 day kenya highlights tour operator, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering 5 day kenya highlights tour operator, including what is included, pricing, and booking advice.'
 slug: 5-day-kenya-highlights-tour-operator
-primary_keyword: 5 day Kenya highlights tour operator
+primary_keyword: '5 day Kenya highlights tour operator'
 secondary_keywords:
-- Off-season safari deals Kenya companies
-- Tour company pick up from Thika
-- Vegan/vegetarian meal options safari companies Kenya
-- Ethical Maasai village tour operator near Mara
-- Student group educational tour operator Kenya
+- 'Off-season safari deals Kenya companies'
+- 'Tour company pick up from Thika'
+- 'Vegan/vegetarian meal options safari companies Kenya'
+- 'Ethical Maasai village tour operator near Mara'
+- 'Student group educational tour operator Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

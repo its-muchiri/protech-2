@@ -1,14 +1,14 @@
 ---
 title: 'Hydraulic Operating Table Suppliers in Mombasa: 2026 Price Guide'
-description: Kenya buying guide to hydraulic operating table suppliers in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to hydraulic operating table suppliers in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: hydraulic-operating-table-suppliers-in-mombasa
-primary_keyword: Hydraulic operating table suppliers in Mombasa
+primary_keyword: 'Hydraulic operating table suppliers in Mombasa'
 secondary_keywords:
-- Medical equipment logistics and transport Kenya
-- Dental chair for sale in Eldoret
-- ECG machine suppliers in Meru
-- Lab equipment calibration in Eldoret
-- Ambulance fabrication companies in Nairobi
+- 'Medical equipment logistics and transport Kenya'
+- 'Dental chair for sale in Eldoret'
+- 'ECG machine suppliers in Meru'
+- 'Lab equipment calibration in Eldoret'
+- 'Ambulance fabrication companies in Nairobi'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

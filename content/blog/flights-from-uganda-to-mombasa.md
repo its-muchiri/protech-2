@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Uganda to Mombasa: Complete Guide'
-description: Everything you need to know about flights from uganda to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from uganda to mombasa, including routes, airlines, booking tips, and fares.'
 slug: flights-from-uganda-to-mombasa
-primary_keyword: flights from uganda to mombasa
+primary_keyword: 'flights from uganda to mombasa'
 secondary_keywords:
-- flight from mombasa to usa
-- which airlines fly to malindi
-- available flights from kisumu to nairobi
-- domestic flights from nairobi to kisumu
-- flight from nairobi to kisumu jambojet price
+- 'flight from mombasa to usa'
+- 'which airlines fly to malindi'
+- 'available flights from kisumu to nairobi'
+- 'domestic flights from nairobi to kisumu'
+- 'flight from nairobi to kisumu jambojet price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

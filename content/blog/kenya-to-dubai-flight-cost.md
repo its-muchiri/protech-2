@@ -1,14 +1,14 @@
 ---
 title: 'Kenya to Dubai Flight Cost: Complete Guide'
-description: Everything you need to know about kenya to dubai flight cost, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya to dubai flight cost, including routes, airlines, booking tips, and fares.'
 slug: kenya-to-dubai-flight-cost
-primary_keyword: kenya to dubai flight cost
+primary_keyword: 'kenya to dubai flight cost'
 secondary_keywords:
-- emirates flights from dubai to johannesburg today
-- flights from kozhikode to dubai united arab emirates
-- emirates flights from manila
-- emirates flights from orlando to india
-- emirates flights from pakistan to uk
+- 'emirates flights from dubai to johannesburg today'
+- 'flights from kozhikode to dubai united arab emirates'
+- 'emirates flights from manila'
+- 'emirates flights from orlando to india'
+- 'emirates flights from pakistan to uk'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

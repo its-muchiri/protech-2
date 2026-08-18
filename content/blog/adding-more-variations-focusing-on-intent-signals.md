@@ -1,14 +1,14 @@
 ---
 title: '(Adding More Variations Focusing on Intent Signals): Complete Guide'
-description: Kenya safari guide covering (adding more variations focusing on intent signals), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering (adding more variations focusing on intent signals), including what is included, pricing, and booking advice.'
 slug: adding-more-variations-focusing-on-intent-signals
-primary_keyword: (Adding more variations focusing on intent signals)
+primary_keyword: '(Adding more variations focusing on intent signals)'
 secondary_keywords:
-- Amboseli National Park safari
-- Chyulu Hills safari
-- Family Kenya safari
-- Private Kenya safari
-- Community based safari Kenya
+- 'Amboseli National Park safari'
+- 'Chyulu Hills safari'
+- 'Family Kenya safari'
+- 'Private Kenya safari'
+- 'Community based safari Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

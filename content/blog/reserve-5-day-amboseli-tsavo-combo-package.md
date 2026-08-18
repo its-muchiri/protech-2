@@ -1,14 +1,14 @@
 ---
 title: 'Reserve 5 Day Amboseli Tsavo Combo Package: Complete Guide'
-description: Kenya safari guide covering reserve 5 day amboseli tsavo combo package, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve 5 day amboseli tsavo combo package, including what is included, pricing, and booking advice.'
 slug: reserve-5-day-amboseli-tsavo-combo-package
-primary_keyword: Reserve 5 day Amboseli Tsavo combo package
+primary_keyword: 'Reserve 5 day Amboseli Tsavo combo package'
 secondary_keywords:
-- Reserve with trusted Kenya safari operator package
-- Final cost 12 day Kenya Tanzania luxury migration package
-- Buy 10 day Kenya wildlife photography tour package led by
-- Book 8 day Gamewatchers Safaris Porini circuit package
-- Reserve private jet Kenya safari package quote
+- 'Reserve with trusted Kenya safari operator package'
+- 'Final cost 12 day Kenya Tanzania luxury migration package'
+- 'Buy 10 day Kenya wildlife photography tour package led by'
+- 'Book 8 day Gamewatchers Safaris Porini circuit package'
+- 'Reserve private jet Kenya safari package quote'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

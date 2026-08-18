@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Mombasa from Muscat Oman: Complete Guide'
-description: Everything you need to know about flights to mombasa from muscat oman, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to mombasa from muscat oman, including routes, airlines, booking tips, and fares.'
 slug: flights-to-mombasa-from-muscat-oman
-primary_keyword: flights to mombasa from muscat oman
+primary_keyword: 'flights to mombasa from muscat oman'
 secondary_keywords:
-- emirates kenya
-- 6 emirates
-- ethiopian airlines arrival nairobi
-- ethiopian airlines from nairobi to doha price today
-- ethiopian airlines nairobi number
+- 'emirates kenya'
+- '6 emirates'
+- 'ethiopian airlines arrival nairobi'
+- 'ethiopian airlines from nairobi to doha price today'
+- 'ethiopian airlines nairobi number'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

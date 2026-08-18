@@ -1,14 +1,14 @@
 ---
 title: 'Used Physiotherapy Machines for Sale in Kenya: 2026 Price Guide'
-description: Kenya buying guide to used physiotherapy machines for sale in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to used physiotherapy machines for sale in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: used-physiotherapy-machines-for-sale-in-kenya
-primary_keyword: Used physiotherapy machines for sale in Kenya
+primary_keyword: 'Used physiotherapy machines for sale in Kenya'
 secondary_keywords:
-- thermometers Kenya digital price
-- sterile water for injection Kenya
-- vaccine carriers Kenya price
-- plaster of Paris bandages Kenya
-- medical filter paper Kenya
+- 'thermometers Kenya digital price'
+- 'sterile water for injection Kenya'
+- 'vaccine carriers Kenya price'
+- 'plaster of Paris bandages Kenya'
+- 'medical filter paper Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

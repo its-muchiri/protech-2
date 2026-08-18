@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Manila: Complete Guide'
-description: Everything you need to know about emirates flights from manila, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from manila, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-manila
-primary_keyword: emirates flights from manila
+primary_keyword: 'emirates flights from manila'
 secondary_keywords:
-- flight from nairobi to heathrow
-- flight from nairobi to india
-- jambojet flight from nairobi to eldoret
-- flight from nairobi to london heathrow
-- flight from nairobi to mauritius
+- 'flight from nairobi to heathrow'
+- 'flight from nairobi to india'
+- 'jambojet flight from nairobi to eldoret'
+- 'flight from nairobi to london heathrow'
+- 'flight from nairobi to mauritius'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

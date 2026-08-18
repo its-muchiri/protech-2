@@ -1,14 +1,14 @@
 ---
 title: 'Fly Emirates Nairobi: Complete Guide'
-description: Everything you need to know about fly emirates nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about fly emirates nairobi, including routes, airlines, booking tips, and fares.'
 slug: fly-emirates-nairobi
-primary_keyword: fly emirates nairobi
+primary_keyword: 'fly emirates nairobi'
 secondary_keywords:
-- kq 625 flight status
-- emirates flight from nairobi to ahmedabad
-- emirates flight from nairobi to dubai price
-- emirates flight from nairobi to dubai
-- emirates nairobi contact number
+- 'kq 625 flight status'
+- 'emirates flight from nairobi to ahmedabad'
+- 'emirates flight from nairobi to dubai price'
+- 'emirates flight from nairobi to dubai'
+- 'emirates nairobi contact number'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

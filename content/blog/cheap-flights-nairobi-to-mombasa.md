@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights Nairobi to Mombasa: Complete Guide'
-description: Everything you need to know about cheap flights nairobi to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights nairobi to mombasa, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-nairobi-to-mombasa
-primary_keyword: cheap flights nairobi to mombasa
+primary_keyword: 'cheap flights nairobi to mombasa'
 secondary_keywords:
-- ethiopian airlines nairobi to johannesburg price
-- ethiopian airlines customer service nairobi
-- where does turkish airlines fly direct
-- flight ticket kenya to nigeria
-- flight ticket for kenya
+- 'ethiopian airlines nairobi to johannesburg price'
+- 'ethiopian airlines customer service nairobi'
+- 'where does turkish airlines fly direct'
+- 'flight ticket kenya to nigeria'
+- 'flight ticket for kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

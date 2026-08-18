@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight Schedule to Mauritius from Nairobi: Complete Guide'
-description: Everything you need to know about kenya airways flight schedule to mauritius from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight schedule to mauritius from nairobi, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-schedule-to-mauritius-from-nairobi
-primary_keyword: kenya airways flight schedule to mauritius from nairobi
+primary_keyword: 'kenya airways flight schedule to mauritius from nairobi'
 secondary_keywords:
-- qatar flight from nairobi to doha today
-- how long is a flight from nairobi to qatar
-- qatar airways nairobi email
-- qatar airways from nairobi to london
-- qatar airways nairobi recruitment
+- 'qatar flight from nairobi to doha today'
+- 'how long is a flight from nairobi to qatar'
+- 'qatar airways nairobi email'
+- 'qatar airways from nairobi to london'
+- 'qatar airways nairobi recruitment'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

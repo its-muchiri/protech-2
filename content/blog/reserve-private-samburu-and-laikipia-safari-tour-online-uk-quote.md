@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Private Samburu & Laikipia Safari Tour Online UK Quote: Complete Guide'
-description: Kenya safari guide covering reserve private samburu & laikipia safari tour online uk quote, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve private samburu & laikipia safari tour online uk quote, including what is included, pricing, and booking advice.'
 slug: reserve-private-samburu-and-laikipia-safari-tour-online-uk-quote
-primary_keyword: Reserve private Samburu & Laikipia safari tour online UK quote
+primary_keyword: 'Reserve private Samburu & Laikipia safari tour online UK quote'
 secondary_keywords:
-- Purchase private 4x4 vehicle Kenya wildlife safari UK custom quote needed
-- Reserve Kenya photographic tour private tuition pro guide UK specialist company booking
-- Reserve Nairobi city tour Giraffe Centre & Karen Blixen Museum plus safari package UK price
-- Purchase corporate incentive travel Kenya safari package Europe group rates quote request
-- Find Kenya safari operator with carbon offsetting program UK sustainable travel booking choice
+- 'Purchase private 4x4 vehicle Kenya wildlife safari UK custom quote needed'
+- 'Reserve Kenya photographic tour private tuition pro guide UK specialist company booking'
+- 'Reserve Nairobi city tour Giraffe Centre & Karen Blixen Museum plus safari package UK price'
+- 'Purchase corporate incentive travel Kenya safari package Europe group rates quote request'
+- 'Find Kenya safari operator with carbon offsetting program UK sustainable travel booking choice'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

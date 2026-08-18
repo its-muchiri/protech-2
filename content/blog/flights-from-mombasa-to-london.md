@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to London: Complete Guide'
-description: Everything you need to know about flights from mombasa to london, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to london, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-london
-primary_keyword: flights from mombasa to london
+primary_keyword: 'flights from mombasa to london'
 secondary_keywords:
-- flight from nairobi to kisumu price
-- flight 540 nairobi to mombasa
-- has ba65 flight from london from nairobi departed
-- how do i contact turkish airlines
-- does turkish airlines allow pets in business class
+- 'flight from nairobi to kisumu price'
+- 'flight 540 nairobi to mombasa'
+- 'has ba65 flight from london from nairobi departed'
+- 'how do i contact turkish airlines'
+- 'does turkish airlines allow pets in business class'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

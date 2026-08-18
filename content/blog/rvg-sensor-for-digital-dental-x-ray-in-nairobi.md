@@ -1,14 +1,14 @@
 ---
 title: 'RVG Sensor for Digital Dental X-ray in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to rvg sensor for digital dental x-ray in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to rvg sensor for digital dental x-ray in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: rvg-sensor-for-digital-dental-x-ray-in-nairobi
-primary_keyword: RVG sensor for digital dental X-ray in Nairobi
+primary_keyword: 'RVG sensor for digital dental X-ray in Nairobi'
 secondary_keywords:
-- Neurosurgery instruments cost in Kenya
-- Double dome surgical light price
-- Autoclave validation and testing services in Nairobi
-- Hospital bed rental services in Nairobi
-- Doctor''s stool and chair suppliers in Mombasa
+- 'Neurosurgery instruments cost in Kenya'
+- 'Double dome surgical light price'
+- 'Autoclave validation and testing services in Nairobi'
+- 'Hospital bed rental services in Nairobi'
+- 'Doctor''''s stool and chair suppliers in Mombasa'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

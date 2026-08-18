@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi Based Safari Companies Contact: Complete Guide'
-description: Kenya safari guide covering nairobi based safari companies contact, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering nairobi based safari companies contact, including what is included, pricing, and booking advice.'
 slug: nairobi-based-safari-companies-contact
-primary_keyword: Nairobi based safari companies contact
+primary_keyword: 'Nairobi based safari companies contact'
 secondary_keywords:
-- Buy migration safari package
-- Get quote private 8 day photo safari package Kenya
-- Cost of 6 day Kenya cultural immersion safari package
-- Reserve 7 day Mara Plains luxury package deal
-- Price for 9 day luxury mobile camping safari package Kenya
+- 'Buy migration safari package'
+- 'Get quote private 8 day photo safari package Kenya'
+- 'Cost of 6 day Kenya cultural immersion safari package'
+- 'Reserve 7 day Mara Plains luxury package deal'
+- 'Price for 9 day luxury mobile camping safari package Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

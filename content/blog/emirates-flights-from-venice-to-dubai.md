@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Venice to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from venice to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from venice to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-venice-to-dubai
-primary_keyword: emirates flights from venice to dubai
+primary_keyword: 'emirates flights from venice to dubai'
 secondary_keywords:
-- seychelles flights from nairobi
-- flights from nairobi to usa today
-- cheapest flights from nairobi to vancouver
-- flights from nairobi to warsaw
-- cheap flights from zurich to nairobi
+- 'seychelles flights from nairobi'
+- 'flights from nairobi to usa today'
+- 'cheapest flights from nairobi to vancouver'
+- 'flights from nairobi to warsaw'
+- 'cheap flights from zurich to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

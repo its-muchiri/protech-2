@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Senegal: Complete Guide'
-description: Everything you need to know about kq flights to senegal, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to senegal, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-senegal
-primary_keyword: kq flights to senegal
+primary_keyword: 'kq flights to senegal'
 secondary_keywords:
-- flights to mombasa skyward
-- flights from wilson to mombasa today
-- kq flights from kisumu to nairobi
-- flights from kisumu to kampala
-- flights from entebbe uganda to kisumu kenya
+- 'flights to mombasa skyward'
+- 'flights from wilson to mombasa today'
+- 'kq flights from kisumu to nairobi'
+- 'flights from kisumu to kampala'
+- 'flights from entebbe uganda to kisumu kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

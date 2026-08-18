@@ -1,14 +1,14 @@
 ---
 title: 'Ol Pejeta Conservancy Tour Operators Nanyuki: Complete Guide'
-description: Kenya safari guide covering ol pejeta conservancy tour operators nanyuki, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering ol pejeta conservancy tour operators nanyuki, including what is included, pricing, and booking advice.'
 slug: ol-pejeta-conservancy-tour-operators-nanyuki
-primary_keyword: Ol Pejeta conservancy tour operators Nanyuki
+primary_keyword: 'Ol Pejeta conservancy tour operators Nanyuki'
 secondary_keywords:
-- Masai Mara balloon safari booking companies
-- Cycling safari companies Kenya
-- Single day excursions from Thika tour company
-- Private safari cost Kenya couple
-- Specific Needs & Logistics Searches
+- 'Masai Mara balloon safari booking companies'
+- 'Cycling safari companies Kenya'
+- 'Single day excursions from Thika tour company'
+- 'Private safari cost Kenya couple'
+- 'Specific Needs & Logistics Searches'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

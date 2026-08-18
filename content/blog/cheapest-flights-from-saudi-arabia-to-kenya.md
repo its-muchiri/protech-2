@@ -1,14 +1,14 @@
 ---
 title: 'Cheapest Flights from Saudi Arabia to Kenya: Complete Guide'
-description: Everything you need to know about cheapest flights from saudi arabia to kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheapest flights from saudi arabia to kenya, including routes, airlines, booking tips, and fares.'
 slug: cheapest-flights-from-saudi-arabia-to-kenya
-primary_keyword: cheapest flights from saudi arabia to kenya
+primary_keyword: 'cheapest flights from saudi arabia to kenya'
 secondary_keywords:
-- emirates kenya email address
-- emirates logistics kenya
-- emirates kenya visa
-- ethiopian airlines flight status to nairobi
-- ethiopian airlines cargo nairobi
+- 'emirates kenya email address'
+- 'emirates logistics kenya'
+- 'emirates kenya visa'
+- 'ethiopian airlines flight status to nairobi'
+- 'ethiopian airlines cargo nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

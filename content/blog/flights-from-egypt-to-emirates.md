@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Egypt to Emirates: Complete Guide'
-description: Everything you need to know about flights from egypt to emirates, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from egypt to emirates, including routes, airlines, booking tips, and fares.'
 slug: flights-from-egypt-to-emirates
-primary_keyword: flights from egypt to emirates
+primary_keyword: 'flights from egypt to emirates'
 secondary_keywords:
-- flight 540 nairobi to mombasa
-- has ba65 flight from london from nairobi departed
-- how do i contact turkish airlines
-- does turkish airlines allow pets in business class
-- turkish airlines in nairobi
+- 'flight 540 nairobi to mombasa'
+- 'has ba65 flight from london from nairobi departed'
+- 'how do i contact turkish airlines'
+- 'does turkish airlines allow pets in business class'
+- 'turkish airlines in nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Costa Rica: Complete Guide'
-description: Everything you need to know about flight from nairobi to costa rica, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to costa rica, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-costa-rica
-primary_keyword: flight from nairobi to costa rica
+primary_keyword: 'flight from nairobi to costa rica'
 secondary_keywords:
-- flights from mombasa to seychelles
-- flights from uganda to mombasa
-- how much is a flight from mombasa to nairobi
-- does british airways fly to kazakhstan
-- flight prices from kisumu to nairobi
+- 'flights from mombasa to seychelles'
+- 'flights from uganda to mombasa'
+- 'how much is a flight from mombasa to nairobi'
+- 'does british airways fly to kazakhstan'
+- 'flight prices from kisumu to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

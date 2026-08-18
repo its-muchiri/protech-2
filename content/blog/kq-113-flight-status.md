@@ -1,14 +1,14 @@
 ---
 title: 'Kq 113 Flight Status: Complete Guide'
-description: Everything you need to know about kq 113 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 113 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq-113-flight-status
-primary_keyword: kq 113 flight status
+primary_keyword: 'kq 113 flight status'
 secondary_keywords:
-- flights nairobi to dublin
-- cheap flights from entebbe to nairobi
-- google flights nairobi to london
-- harare to nairobi flights
-- flights nairobi to juba
+- 'flights nairobi to dublin'
+- 'cheap flights from entebbe to nairobi'
+- 'google flights nairobi to london'
+- 'harare to nairobi flights'
+- 'flights nairobi to juba'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

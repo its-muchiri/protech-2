@@ -1,14 +1,14 @@
 ---
 title: 'Small Group Safari Tours Kenya: Complete Guide'
-description: Kenya safari guide covering small group safari tours kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering small group safari tours kenya, including what is included, pricing, and booking advice.'
 slug: small-group-safari-tours-kenya
-primary_keyword: Small group safari tours Kenya
+primary_keyword: 'Small group safari tours Kenya'
 secondary_keywords:
-- Kenya wildlife viewing
-- Kenya Zanzibar safari
-- Kenya safari wet season
-- Shoulder season Kenya safari
-- Direct booking Kenya safari
+- 'Kenya wildlife viewing'
+- 'Kenya Zanzibar safari'
+- 'Kenya safari wet season'
+- 'Shoulder season Kenya safari'
+- 'Direct booking Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

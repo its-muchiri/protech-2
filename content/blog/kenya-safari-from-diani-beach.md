@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari from Diani Beach: Complete Guide'
-description: Kenya safari guide covering kenya safari from diani beach, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari from diani beach, including what is included, pricing, and booking advice.'
 slug: kenya-safari-from-diani-beach
-primary_keyword: Kenya safari from Diani Beach
+primary_keyword: 'Kenya safari from Diani Beach'
 secondary_keywords:
-- Adventure camping Kenya safari
-- Kenya currency safari
-- When is the wildebeest migration in Kenya
-- Cultural visit Maasai village Amboseli safari
-- Problems with Kenya safari booking
+- 'Adventure camping Kenya safari'
+- 'Kenya currency safari'
+- 'When is the wildebeest migration in Kenya'
+- 'Cultural visit Maasai village Amboseli safari'
+- 'Problems with Kenya safari booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

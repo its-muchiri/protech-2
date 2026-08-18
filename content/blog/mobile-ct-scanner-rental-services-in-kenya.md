@@ -1,14 +1,14 @@
 ---
 title: 'Mobile CT Scanner Rental Services in Kenya: 2026 Price Guide'
-description: Kenya buying guide to mobile ct scanner rental services in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to mobile ct scanner rental services in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: mobile-ct-scanner-rental-services-in-kenya
-primary_keyword: Mobile CT scanner rental services in Kenya
+primary_keyword: 'Mobile CT scanner rental services in Kenya'
 secondary_keywords:
-- medical equipment Kenya
-- medical equipment distributors Kenya
-- lab equipment Nakuru
-- examination gloves Kenya prices
-- catheters Kenya types and prices
+- 'medical equipment Kenya'
+- 'medical equipment distributors Kenya'
+- 'lab equipment Nakuru'
+- 'examination gloves Kenya prices'
+- 'catheters Kenya types and prices'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

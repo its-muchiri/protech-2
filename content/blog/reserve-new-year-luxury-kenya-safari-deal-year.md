@@ -1,14 +1,14 @@
 ---
 title: 'Reserve New Year Luxury Kenya Safari Deal : Complete Guide'
-description: Kenya safari guide covering reserve new year luxury kenya safari deal , including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve new year luxury kenya safari deal , including what is included, pricing, and booking advice.'
 slug: reserve-new-year-luxury-kenya-safari-deal-year
-primary_keyword: Reserve New Year luxury Kenya safari deal
+primary_keyword: 'Reserve New Year luxury Kenya safari deal'
 secondary_keywords:
-- Top luxury safari camps Kenya package
-- All-inclusive family safari Kenya buy
-- Low cost Kenya safari holiday booking
-- Book Kenya Tanzania safari package
-- Luxury Kenya Zanzibar package booking
+- 'Top luxury safari camps Kenya package'
+- 'All-inclusive family safari Kenya buy'
+- 'Low cost Kenya safari holiday booking'
+- 'Book Kenya Tanzania safari package'
+- 'Luxury Kenya Zanzibar package booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

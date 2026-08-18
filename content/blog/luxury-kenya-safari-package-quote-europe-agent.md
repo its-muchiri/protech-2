@@ -1,14 +1,14 @@
 ---
 title: 'Luxury Kenya Safari Package Quote Europe Agent: Complete Guide'
-description: Kenya safari guide covering luxury kenya safari package quote europe agent, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering luxury kenya safari package quote europe agent, including what is included, pricing, and booking advice.'
 slug: luxury-kenya-safari-package-quote-europe-agent
-primary_keyword: Luxury Kenya safari package quote Europe agent
+primary_keyword: 'Luxury Kenya safari package quote Europe agent'
 secondary_keywords:
-- Amboseli tour package offers last minute
-- Luxury Kenya safari package deals
-- Early bird discount 9 day custom Laikipia family adventure
-- 10 day Kenya safari itinerary package book
-- Book sustainable eco-tour operator Kenya package
+- 'Amboseli tour package offers last minute'
+- 'Luxury Kenya safari package deals'
+- 'Early bird discount 9 day custom Laikipia family adventure'
+- '10 day Kenya safari itinerary package book'
+- 'Book sustainable eco-tour operator Kenya package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Tour Company Booking SGR Tickets Nairobi Mombasa: Complete Guide'
-description: Kenya safari guide covering tour company booking sgr tickets nairobi mombasa, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering tour company booking sgr tickets nairobi mombasa, including what is included, pricing, and booking advice.'
 slug: tour-company-booking-sgr-tickets-nairobi-mombasa
-primary_keyword: Tour company booking SGR tickets Nairobi Mombasa
+primary_keyword: 'Tour company booking SGR tickets Nairobi Mombasa'
 secondary_keywords:
-- Purchase Kenya adventure safari package
-- Reserve Meru National Park package online
-- Book 3 day Kenya safari package
-- Reserve express fly-in safari package (2-3 days)
-- Secure 14 day honeymoon Kenya beach safari booking
+- 'Purchase Kenya adventure safari package'
+- 'Reserve Meru National Park package online'
+- 'Book 3 day Kenya safari package'
+- 'Reserve express fly-in safari package (2-3 days)'
+- 'Secure 14 day honeymoon Kenya beach safari booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

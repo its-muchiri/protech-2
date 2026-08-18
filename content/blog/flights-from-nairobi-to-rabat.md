@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Rabat: Complete Guide'
-description: Everything you need to know about flights from nairobi to rabat, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to rabat, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-rabat
-primary_keyword: flights from nairobi to rabat
+primary_keyword: 'flights from nairobi to rabat'
 secondary_keywords:
-- kq direct flight from nairobi to new york
-- kenya airways flight from nairobi to heathrow today
-- kenya airways flight from nairobi to london
-- one way flight from nairobi to kisumu
-- kenya airways flight from nairobi to kampala
+- 'kq direct flight from nairobi to new york'
+- 'kenya airways flight from nairobi to heathrow today'
+- 'kenya airways flight from nairobi to london'
+- 'one way flight from nairobi to kisumu'
+- 'kenya airways flight from nairobi to kampala'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

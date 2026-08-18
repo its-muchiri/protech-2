@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Lake Victoria Fishing Safari Nile Perch Kenya USA Boat Charter Booking Cost: Complete Guide'
-description: Kenya safari guide covering reserve lake victoria fishing safari nile perch kenya usa boat charter booking cost, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve lake victoria fishing safari nile perch kenya usa boat charter booking cost, including what is included, pricing, and booking advice.'
 slug: reserve-lake-victoria-fishing-safari-nile-perch-kenya-usa-boat-charter-booking-cost
-primary_keyword: Reserve Lake Victoria fishing safari Nile perch Kenya USA boat charter booking cost
+primary_keyword: 'Reserve Lake Victoria fishing safari Nile perch Kenya USA boat charter booking cost'
 secondary_keywords:
-- Buy 3 day Amboseli fly-in package from Nairobi cost
-- Get itinerary and cost 8 day Kenya private safari
-- Secure place 6 day small group Kenya photo safari
-- Reserve spot 7 day photographic workshop package Kenya
-- Get deal on 8 day Kicheche Camps luxury package Mara conservancy
+- 'Buy 3 day Amboseli fly-in package from Nairobi cost'
+- 'Get itinerary and cost 8 day Kenya private safari'
+- 'Secure place 6 day small group Kenya photo safari'
+- 'Reserve spot 7 day photographic workshop package Kenya'
+- 'Get deal on 8 day Kicheche Camps luxury package Mara conservancy'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

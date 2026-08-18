@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Flights to Nairobi Today: Complete Guide'
-description: Everything you need to know about qatar flights to nairobi today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar flights to nairobi today, including routes, airlines, booking tips, and fares.'
 slug: qatar-flights-to-nairobi-today
-primary_keyword: qatar flights to nairobi today
+primary_keyword: 'qatar flights to nairobi today'
 secondary_keywords:
-- flights from nairobi to kisumu today
-- 540 flight from nairobi to malindi
-- cheap flights from mombasa to nairobi
-- available flights from mombasa to nairobi
-- does british airways fly to mombasa
+- 'flights from nairobi to kisumu today'
+- '540 flight from nairobi to malindi'
+- 'cheap flights from mombasa to nairobi'
+- 'available flights from mombasa to nairobi'
+- 'does british airways fly to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

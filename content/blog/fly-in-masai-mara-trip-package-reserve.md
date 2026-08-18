@@ -1,14 +1,14 @@
 ---
 title: 'Fly-in Masai Mara Trip Package Reserve: Complete Guide'
-description: Kenya safari guide covering fly-in masai mara trip package reserve, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering fly-in masai mara trip package reserve, including what is included, pricing, and booking advice.'
 slug: fly-in-masai-mara-trip-package-reserve
-primary_keyword: Fly-in Masai Mara trip package reserve
+primary_keyword: 'Fly-in Masai Mara trip package reserve'
 secondary_keywords:
-- Wildebeest migration Kenya timing
-- Wild dog safari Kenya (rare)
-- Kenya safari from USA
-- Kenya safari in March
-- Kenya safari companies
+- 'Wildebeest migration Kenya timing'
+- 'Wild dog safari Kenya (rare)'
+- 'Kenya safari from USA'
+- 'Kenya safari in March'
+- 'Kenya safari companies'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

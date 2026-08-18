@@ -1,14 +1,14 @@
 ---
 title: 'Map of Emirates Flights from Dubai: Complete Guide'
-description: Everything you need to know about map of emirates flights from dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about map of emirates flights from dubai, including routes, airlines, booking tips, and fares.'
 slug: map-of-emirates-flights-from-dubai
-primary_keyword: map of emirates flights from dubai
+primary_keyword: 'map of emirates flights from dubai'
 secondary_keywords:
-- flights from nairobi to jfk
-- flights from nairobi kenya to mogadishu somalia
-- lamu flights from nairobi
-- malindi flights from nairobi
-- flights from new york to nairobi
+- 'flights from nairobi to jfk'
+- 'flights from nairobi kenya to mogadishu somalia'
+- 'lamu flights from nairobi'
+- 'malindi flights from nairobi'
+- 'flights from new york to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

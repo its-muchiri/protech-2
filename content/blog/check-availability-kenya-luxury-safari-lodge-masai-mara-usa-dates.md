@@ -1,14 +1,14 @@
 ---
 title: 'Check Availability Kenya Luxury Safari Lodge Masai Mara USA Dates: Complete Guide'
-description: Kenya safari guide covering check availability kenya luxury safari lodge masai mara usa dates, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering check availability kenya luxury safari lodge masai mara usa dates, including what is included, pricing, and booking advice.'
 slug: check-availability-kenya-luxury-safari-lodge-masai-mara-usa-dates
-primary_keyword: Check availability Kenya luxury safari lodge Masai Mara USA dates
+primary_keyword: 'Check availability Kenya luxury safari lodge Masai Mara USA dates'
 secondary_keywords:
-- Reliable travel agency Nairobi Kenya
-- Kenya safari booking websites
-- Crescent Island Naivasha walking tour
-- Kenya luxury lodge safari operators
-- Women-only safari tours Kenya
+- 'Reliable travel agency Nairobi Kenya'
+- 'Kenya safari booking websites'
+- 'Crescent Island Naivasha walking tour'
+- 'Kenya luxury lodge safari operators'
+- 'Women-only safari tours Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

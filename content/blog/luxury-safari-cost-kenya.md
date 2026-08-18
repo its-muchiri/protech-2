@@ -1,14 +1,14 @@
 ---
 title: 'Luxury Safari Cost Kenya: Complete Guide'
-description: Kenya safari guide covering luxury safari cost kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering luxury safari cost kenya, including what is included, pricing, and booking advice.'
 slug: luxury-safari-cost-kenya
-primary_keyword: Luxury safari cost Kenya
+primary_keyword: 'Luxury safari cost Kenya'
 secondary_keywords:
-- Bird species Kenya safari
-- Kenya Uganda Rwanda safari
-- Kenya safari dry season
-- Easter Kenya safari
-- Compare Kenya safari tours
+- 'Bird species Kenya safari'
+- 'Kenya Uganda Rwanda safari'
+- 'Kenya safari dry season'
+- 'Easter Kenya safari'
+- 'Compare Kenya safari tours'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Tampa Florida to Nairobi Kenya: Complete Guide'
-description: Everything you need to know about flights from tampa florida to nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from tampa florida to nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-tampa-florida-to-nairobi-kenya
-primary_keyword: flights from tampa florida to nairobi kenya
+primary_keyword: 'flights from tampa florida to nairobi kenya'
 secondary_keywords:
-- flights from mombasa to arusha tanzania
-- flights brussels mombasa
-- flights to mombasa cheap
-- flights from mombasa to doha
-- flights to frankfurt from mombasa kenya
+- 'flights from mombasa to arusha tanzania'
+- 'flights brussels mombasa'
+- 'flights to mombasa cheap'
+- 'flights from mombasa to doha'
+- 'flights to frankfurt from mombasa kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

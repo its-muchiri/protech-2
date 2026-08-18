@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from Accra to Nairobi Ticket Price: Complete Guide'
-description: Everything you need to know about kenya airways flight from accra to nairobi ticket price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from accra to nairobi ticket price, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-accra-to-nairobi-ticket-price
-primary_keyword: kenya airways flight from accra to nairobi ticket price
+primary_keyword: 'kenya airways flight from accra to nairobi ticket price'
 secondary_keywords:
-- riyadh to nairobi flights
-- flights nairobi to toronto
-- nairobi to ukunda flights
-- virgin flights to nairobi
-- flights yvr to nairobi
+- 'riyadh to nairobi flights'
+- 'flights nairobi to toronto'
+- 'nairobi to ukunda flights'
+- 'virgin flights to nairobi'
+- 'flights yvr to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

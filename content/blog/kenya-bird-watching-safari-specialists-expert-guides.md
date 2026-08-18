@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Bird Watching Safari Specialists Expert Guides: Complete Guide'
-description: Kenya safari guide covering kenya bird watching safari specialists expert guides, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya bird watching safari specialists expert guides, including what is included, pricing, and booking advice.'
 slug: kenya-bird-watching-safari-specialists-expert-guides
-primary_keyword: Kenya bird watching safari specialists expert guides
+primary_keyword: 'Kenya bird watching safari specialists expert guides'
 secondary_keywords:
-- Reserve 9 day Porini Camps eco-safari package Kenya
-- Book 10 day Kenya adventure package Abercrombie & Kent
-- Reserve Michelin star chef safari experience package (if available)
-- KATO registered tour operators list
-- Destination-Specific Searches
+- 'Reserve 9 day Porini Camps eco-safari package Kenya'
+- 'Book 10 day Kenya adventure package Abercrombie & Kent'
+- 'Reserve Michelin star chef safari experience package (if available)'
+- 'KATO registered tour operators list'
+- 'Destination-Specific Searches'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

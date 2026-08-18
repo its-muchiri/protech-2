@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Johannesburg to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from johannesburg to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from johannesburg to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-johannesburg-to-dubai
-primary_keyword: emirates flights from johannesburg to dubai
+primary_keyword: 'emirates flights from johannesburg to dubai'
 secondary_keywords:
-- cost of flight from nairobi to kakamega
-- air arabia flight from nairobi to sharjah price
-- return flight from nairobi to dubai price
-- air india flight from delhi to nairobi status
-- flight from nairobi to uk cost
+- 'cost of flight from nairobi to kakamega'
+- 'air arabia flight from nairobi to sharjah price'
+- 'return flight from nairobi to dubai price'
+- 'air india flight from delhi to nairobi status'
+- 'flight from nairobi to uk cost'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

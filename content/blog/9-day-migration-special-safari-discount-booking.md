@@ -1,14 +1,14 @@
 ---
 title: '9 Day Migration Special Safari Discount Booking: Complete Guide'
-description: Kenya safari guide covering 9 day migration special safari discount booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering 9 day migration special safari discount booking, including what is included, pricing, and booking advice.'
 slug: 9-day-migration-special-safari-discount-booking
-primary_keyword: 9 day migration special safari discount booking
+primary_keyword: '9 day migration special safari discount booking'
 secondary_keywords:
-- Purchase off-the-beaten-path Northern Kenya safari tour UK Turkana expedition cost
-- Find French-speaking driver-guide Kenya safari package booking Europe reliable operator needed
-- Book Kenya safari with horse riding Chyulu Hills package UK experienced riders only lodge booking
-- Buy Kenya safari filming permit assistance and logistics support UK production company rates
-- Reserve Nairobi Railway Museum visit safari add-on UK history transport enthusiasts booking
+- 'Purchase off-the-beaten-path Northern Kenya safari tour UK Turkana expedition cost'
+- 'Find French-speaking driver-guide Kenya safari package booking Europe reliable operator needed'
+- 'Book Kenya safari with horse riding Chyulu Hills package UK experienced riders only lodge booking'
+- 'Buy Kenya safari filming permit assistance and logistics support UK production company rates'
+- 'Reserve Nairobi Railway Museum visit safari add-on UK history transport enthusiasts booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

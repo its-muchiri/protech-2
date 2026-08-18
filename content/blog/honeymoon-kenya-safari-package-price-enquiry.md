@@ -1,14 +1,14 @@
 ---
 title: 'Honeymoon Kenya Safari Package Price Enquiry: Complete Guide'
-description: Kenya safari guide covering honeymoon kenya safari package price enquiry, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering honeymoon kenya safari package price enquiry, including what is included, pricing, and booking advice.'
 slug: honeymoon-kenya-safari-package-price-enquiry
-primary_keyword: Honeymoon Kenya safari package price enquiry
+primary_keyword: 'Honeymoon Kenya safari package price enquiry'
 secondary_keywords:
-- Thika pineapple farms tour local operators
-- Somak Safaris Kenya UK based operator
-- Kenya e-Visa application official website / cost 2025
-- How to check if a Kenya tour company is legitimate
-- Camel safari Samburu / Laikipia operators
+- 'Thika pineapple farms tour local operators'
+- 'Somak Safaris Kenya UK based operator'
+- 'Kenya e-Visa application official website / cost 2025'
+- 'How to check if a Kenya tour company is legitimate'
+- 'Camel safari Samburu / Laikipia operators'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

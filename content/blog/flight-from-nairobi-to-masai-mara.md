@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Masai Mara: Complete Guide'
-description: Everything you need to know about flight from nairobi to masai mara, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to masai mara, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-masai-mara
-primary_keyword: flight from nairobi to masai mara
+primary_keyword: 'flight from nairobi to masai mara'
 secondary_keywords:
-- air india flights from nairobi to india
-- british airways flights from nairobi to london
-- flights from nairobi to casablanca
-- flights from nairobi to delhi
-- emirates flights from nairobi to london
+- 'air india flights from nairobi to india'
+- 'british airways flights from nairobi to london'
+- 'flights from nairobi to casablanca'
+- 'flights from nairobi to delhi'
+- 'emirates flights from nairobi to london'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

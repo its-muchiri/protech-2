@@ -1,14 +1,14 @@
 ---
 title: 'Medical Waste Bins Suppliers in Kisumu: 2026 Price Guide'
-description: Kenya buying guide to medical waste bins suppliers in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to medical waste bins suppliers in kisumu. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: medical-waste-bins-suppliers-in-kisumu
-primary_keyword: Medical waste bins suppliers in Kisumu
+primary_keyword: 'Medical waste bins suppliers in Kisumu'
 secondary_keywords:
-- operating theatre equipment Kenya
-- medical training models Kenya
-- PPE suppliers Kenya for COVID
-- medical supplies for schools Kenya
-- surgical gown price Kenya
+- 'operating theatre equipment Kenya'
+- 'medical training models Kenya'
+- 'PPE suppliers Kenya for COVID'
+- 'medical supplies for schools Kenya'
+- 'surgical gown price Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

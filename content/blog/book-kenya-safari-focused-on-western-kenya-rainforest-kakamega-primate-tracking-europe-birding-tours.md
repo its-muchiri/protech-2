@@ -1,14 +1,14 @@
 ---
 title: 'Book Kenya Safari Focused on Western Kenya Rainforest Kakamega Primate Tracking Europe Birding Tours: Complete Guide'
-description: Kenya safari guide covering book kenya safari focused on western kenya rainforest kakamega primate tracking europe birding tours, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book kenya safari focused on western kenya rainforest kakamega primate tracking europe birding tours, including what is included, pricing, and booking advice.'
 slug: book-kenya-safari-focused-on-western-kenya-rainforest-kakamega-primate-tracking-europe-birding-tours
-primary_keyword: Book Kenya safari focused on western Kenya rainforest Kakamega primate tracking Europe birding tours
+primary_keyword: 'Book Kenya safari focused on western Kenya rainforest Kakamega primate tracking Europe birding tours'
 secondary_keywords:
-- Kenya honeymoon safari package deals USA luxury
-- Affordable budget Kenya safari camping USA tours
-- Eco-friendly Kenya safari tours booking UK sustainable lodges
-- Great Rift Valley lakes safari cost USA birding focus
-- Kenya safari packages from Germany (Deutschland) buchen online
+- 'Kenya honeymoon safari package deals USA luxury'
+- 'Affordable budget Kenya safari camping USA tours'
+- 'Eco-friendly Kenya safari tours booking UK sustainable lodges'
+- 'Great Rift Valley lakes safari cost USA birding focus'
+- 'Kenya safari packages from Germany (Deutschland) buchen online'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

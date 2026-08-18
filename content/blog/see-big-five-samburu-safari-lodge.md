@@ -1,14 +1,14 @@
 ---
 title: 'See Big Five Samburu Safari Lodge: Complete Guide'
-description: Kenya safari guide covering see big five samburu safari lodge, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering see big five samburu safari lodge, including what is included, pricing, and booking advice.'
 slug: see-big-five-samburu-safari-lodge
-primary_keyword: See Big Five Samburu safari lodge
+primary_keyword: 'See Big Five Samburu safari lodge'
 secondary_keywords:
-- Amboseli Tsavo East West package booking
-- Book Kenya safari package for
-- Direct booking Kenya safari
-- Secure best price Kenya safari tour
-- Birding specialist guide package Kenya book
+- 'Amboseli Tsavo East West package booking'
+- 'Book Kenya safari package for'
+- 'Direct booking Kenya safari'
+- 'Secure best price Kenya safari tour'
+- 'Birding specialist guide package Kenya book'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

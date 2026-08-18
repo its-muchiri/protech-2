@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights Nairobi to Johannesburg: Complete Guide'
-description: Everything you need to know about kq flights nairobi to johannesburg, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights nairobi to johannesburg, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-nairobi-to-johannesburg
-primary_keyword: kq flights nairobi to johannesburg
+primary_keyword: 'kq flights nairobi to johannesburg'
 secondary_keywords:
-- flights from lodwar to kisumu
-- flights from nairobi to kisumu prices
-- how much is a flight from kisumu to nairobi
-- does kenya airways fly to eldoret
-- flight from eldoret to kakuma
+- 'flights from lodwar to kisumu'
+- 'flights from nairobi to kisumu prices'
+- 'how much is a flight from kisumu to nairobi'
+- 'does kenya airways fly to eldoret'
+- 'flight from eldoret to kakuma'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

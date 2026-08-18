@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights Nairobi to Mumbai: Complete Guide'
-description: Everything you need to know about cheap flights nairobi to mumbai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights nairobi to mumbai, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-nairobi-to-mumbai
-primary_keyword: cheap flights nairobi to mumbai
+primary_keyword: 'cheap flights nairobi to mumbai'
 secondary_keywords:
-- flights from kenya to uganda
-- flights from nairobi to vipingo
-- flights from winnipeg to nairobi kenya
-- flights from new york to kenya
-- zanzibar flights from kenya
+- 'flights from kenya to uganda'
+- 'flights from nairobi to vipingo'
+- 'flights from winnipeg to nairobi kenya'
+- 'flights from new york to kenya'
+- 'zanzibar flights from kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

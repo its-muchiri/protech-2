@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights to Greece from Newark: Complete Guide'
-description: Everything you need to know about emirates flights to greece from newark, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights to greece from newark, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-to-greece-from-newark
-primary_keyword: emirates flights to greece from newark
+primary_keyword: 'emirates flights to greece from newark'
 secondary_keywords:
-- turkish airlines pnr not working
-- emirates airlines from nairobi
-- is ethiopian airlines profitable
-- ethiopian airlines contact number nairobi kenya
-- ethiopian airlines addis to nairobi schedule
+- 'turkish airlines pnr not working'
+- 'emirates airlines from nairobi'
+- 'is ethiopian airlines profitable'
+- 'ethiopian airlines contact number nairobi kenya'
+- 'ethiopian airlines addis to nairobi schedule'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

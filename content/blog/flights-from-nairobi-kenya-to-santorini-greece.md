@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi Kenya to Santorini Greece: Complete Guide'
-description: Everything you need to know about flights from nairobi kenya to santorini greece, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi kenya to santorini greece, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-kenya-to-santorini-greece
-primary_keyword: flights from nairobi kenya to santorini greece
+primary_keyword: 'flights from nairobi kenya to santorini greece'
 secondary_keywords:
-- flights to kenya from vancouver
-- cheap flights from washington dc to nairobi kenya
-- flights from new york to nairobi kenya
-- flights to kenya from zimbabwe
-- £5 to kenyan shillings
+- 'flights to kenya from vancouver'
+- 'cheap flights from washington dc to nairobi kenya'
+- 'flights from new york to nairobi kenya'
+- 'flights to kenya from zimbabwe'
+- '£5 to kenyan shillings'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

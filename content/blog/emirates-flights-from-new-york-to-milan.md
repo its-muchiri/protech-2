@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from New York to Milan: Complete Guide'
-description: Everything you need to know about emirates flights from new york to milan, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from new york to milan, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-new-york-to-milan
-primary_keyword: emirates flights from new york to milan
+primary_keyword: 'emirates flights from new york to milan'
 secondary_keywords:
-- flight ticket from nairobi to istanbul
-- flight booking nairobi to kisumu
-- flight ticket to kenya from lagos
-- ticket from kenya to south africa
-- flights in kenya
+- 'flight ticket from nairobi to istanbul'
+- 'flight booking nairobi to kisumu'
+- 'flight ticket to kenya from lagos'
+- 'ticket from kenya to south africa'
+- 'flights in kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

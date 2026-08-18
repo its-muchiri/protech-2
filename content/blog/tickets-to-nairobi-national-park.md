@@ -1,14 +1,14 @@
 ---
 title: 'Tickets to Nairobi National Park: Complete Guide'
-description: Everything you need to know about tickets to nairobi national park, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about tickets to nairobi national park, including routes, airlines, booking tips, and fares.'
 slug: tickets-to-nairobi-national-park
-primary_keyword: tickets to nairobi national park
+primary_keyword: 'tickets to nairobi national park'
 secondary_keywords:
-- flights from harare to mombasa
-- flights from istanbul to mombasa
-- flights from mombasa to kampala
-- lamu flights from mombasa
-- flights from masai mara to mombasa
+- 'flights from harare to mombasa'
+- 'flights from istanbul to mombasa'
+- 'flights from mombasa to kampala'
+- 'lamu flights from mombasa'
+- 'flights from masai mara to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

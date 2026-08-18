@@ -1,14 +1,14 @@
 ---
 title: 'Bat Eared Fox Safari Kenya: Complete Guide'
-description: Kenya safari guide covering bat eared fox safari kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering bat eared fox safari kenya, including what is included, pricing, and booking advice.'
 slug: bat-eared-fox-safari-kenya
-primary_keyword: Bat Eared Fox safari Kenya
+primary_keyword: 'Bat Eared Fox safari Kenya'
 secondary_keywords:
-- Climb Point Lenana Mount Kenya guided tour cost
-- Community based tourism projects Kenya support local initiatives
-- Bonfire Adventures Kenya safari packages price list / reviews
-- Southern Cross Safaris Kenya Mombasa based
-- Packing list for Kenya safari clothes / gear recommendations
+- 'Climb Point Lenana Mount Kenya guided tour cost'
+- 'Community based tourism projects Kenya support local initiatives'
+- 'Bonfire Adventures Kenya safari packages price list / reviews'
+- 'Southern Cross Safaris Kenya Mombasa based'
+- 'Packing list for Kenya safari clothes / gear recommendations'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

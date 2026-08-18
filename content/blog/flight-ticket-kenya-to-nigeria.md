@@ -1,14 +1,14 @@
 ---
 title: 'Flight Ticket Kenya to Nigeria: Complete Guide'
-description: Everything you need to know about flight ticket kenya to nigeria, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight ticket kenya to nigeria, including routes, airlines, booking tips, and fares.'
 slug: flight-ticket-kenya-to-nigeria
-primary_keyword: flight ticket kenya to nigeria
+primary_keyword: 'flight ticket kenya to nigeria'
 secondary_keywords:
-- emirates flights from orlando to india
-- emirates flights from pakistan to uk
-- emirates flight query
-- emirates flights from rome to dubai today
-- flights from surat to dubai united arab emirates
+- 'emirates flights from orlando to india'
+- 'emirates flights from pakistan to uk'
+- 'emirates flight query'
+- 'emirates flights from rome to dubai today'
+- 'flights from surat to dubai united arab emirates'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

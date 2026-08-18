@@ -1,14 +1,14 @@
 ---
 title: 'Buy Olare Motorogi Conservancy Safari Reservation: Complete Guide'
-description: Kenya safari guide covering buy olare motorogi conservancy safari reservation, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy olare motorogi conservancy safari reservation, including what is included, pricing, and booking advice.'
 slug: buy-olare-motorogi-conservancy-safari-reservation
-primary_keyword: Buy Olare Motorogi Conservancy safari reservation
+primary_keyword: 'Buy Olare Motorogi Conservancy safari reservation'
 secondary_keywords:
-- Ol Donyo Sabuk day hike tour company Thika
-- Kenya safari companies with child-friendly guides
-- Compare prices Mount Kenya Sirimon route climb operators
-- Price for private Land Cruiser hire with driver guide Kenya 7 days
-- Secure spot on Kenya group safari tour
+- 'Ol Donyo Sabuk day hike tour company Thika'
+- 'Kenya safari companies with child-friendly guides'
+- 'Compare prices Mount Kenya Sirimon route climb operators'
+- 'Price for private Land Cruiser hire with driver guide Kenya 7 days'
+- 'Secure spot on Kenya group safari tour'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

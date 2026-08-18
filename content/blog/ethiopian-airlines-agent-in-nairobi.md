@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Agent in Nairobi: Complete Guide'
-description: Everything you need to know about ethiopian airlines agent in nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines agent in nairobi, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-agent-in-nairobi
-primary_keyword: ethiopian airlines agent in nairobi
+primary_keyword: 'ethiopian airlines agent in nairobi'
 secondary_keywords:
-- mogadishu to nairobi flights time
-- flights to nairobi one way
-- nairobi to china flights price
-- does kenya airways fly to new york
-- flights nairobi to samburu
+- 'mogadishu to nairobi flights time'
+- 'flights to nairobi one way'
+- 'nairobi to china flights price'
+- 'does kenya airways fly to new york'
+- 'flights nairobi to samburu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

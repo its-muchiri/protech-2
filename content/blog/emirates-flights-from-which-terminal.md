@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Which Terminal: Complete Guide'
-description: Everything you need to know about emirates flights from which terminal, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from which terminal, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-which-terminal
-primary_keyword: emirates flights from which terminal
+primary_keyword: 'emirates flights from which terminal'
 secondary_keywords:
-- flight from kenya to america
-- flights from kenya to barcelona
-- flights from kenya to colombia
-- flights from kenya to dallas
-- emirates flights from kenya to australia
+- 'flight from kenya to america'
+- 'flights from kenya to barcelona'
+- 'flights from kenya to colombia'
+- 'flights from kenya to dallas'
+- 'emirates flights from kenya to australia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

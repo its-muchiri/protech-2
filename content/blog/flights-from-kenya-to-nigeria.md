@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Nigeria: Complete Guide'
-description: Everything you need to know about flights from kenya to nigeria, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to nigeria, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-nigeria
-primary_keyword: flights from kenya to nigeria
+primary_keyword: 'flights from kenya to nigeria'
 secondary_keywords:
-- booking flights in kenya
-- flights to kenya british airways
-- cheap flights to kenya in december
-- flights to kenya from london
-- flights from nairobi kenya to harare zimbabwe
+- 'booking flights in kenya'
+- 'flights to kenya british airways'
+- 'cheap flights to kenya in december'
+- 'flights to kenya from london'
+- 'flights from nairobi kenya to harare zimbabwe'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

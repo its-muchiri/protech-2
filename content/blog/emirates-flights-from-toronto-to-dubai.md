@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Toronto to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from toronto to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from toronto to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-toronto-to-dubai
-primary_keyword: emirates flights from toronto to dubai
+primary_keyword: 'emirates flights from toronto to dubai'
 secondary_keywords:
-- cost of flight from kenya to qatar
-- plane ticket from kenya to qatar
-- kq flight from nairobi to bangkok
-- kenya airways flights from dakar to nairobi
-- kq flight from johannesburg to nairobi today
+- 'cost of flight from kenya to qatar'
+- 'plane ticket from kenya to qatar'
+- 'kq flight from nairobi to bangkok'
+- 'kenya airways flights from dakar to nairobi'
+- 'kq flight from johannesburg to nairobi today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

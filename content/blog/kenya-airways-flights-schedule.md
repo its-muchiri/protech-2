@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights Schedule: Complete Guide'
-description: Everything you need to know about kenya airways flights schedule, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights schedule, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-schedule
-primary_keyword: kenya airways flights schedule
+primary_keyword: 'kenya airways flights schedule'
 secondary_keywords:
-- flights from nairobi to uk
-- flights from nairobi to las vegas
-- flights from kisumu to nairobi wilson
-- flight from nairobi to zanzibar time
-- flights to nairobi today
+- 'flights from nairobi to uk'
+- 'flights from nairobi to las vegas'
+- 'flights from kisumu to nairobi wilson'
+- 'flight from nairobi to zanzibar time'
+- 'flights to nairobi today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

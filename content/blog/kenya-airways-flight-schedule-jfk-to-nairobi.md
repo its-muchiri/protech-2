@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight Schedule Jfk to Nairobi: Complete Guide'
-description: Everything you need to know about kenya airways flight schedule jfk to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight schedule jfk to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-schedule-jfk-to-nairobi
-primary_keyword: kenya airways flight schedule jfk to nairobi
+primary_keyword: 'kenya airways flight schedule jfk to nairobi'
 secondary_keywords:
-- ethiopian airlines from beirut to nairobi
-- ethiopian airlines nairobi to kigali
-- ethiopian airlines website not working
-- flight ticket from nairobi to istanbul
-- flight booking nairobi to kisumu
+- 'ethiopian airlines from beirut to nairobi'
+- 'ethiopian airlines nairobi to kigali'
+- 'ethiopian airlines website not working'
+- 'flight ticket from nairobi to istanbul'
+- 'flight booking nairobi to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

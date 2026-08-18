@@ -1,14 +1,14 @@
 ---
 title: 'Refrigerated Centrifuge Cost in Eldoret: 2026 Price Guide'
-description: Kenya buying guide to refrigerated centrifuge cost in eldoret. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to refrigerated centrifuge cost in eldoret. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: refrigerated-centrifuge-cost-in-eldoret
-primary_keyword: Refrigerated centrifuge cost in Eldoret
+primary_keyword: 'Refrigerated centrifuge cost in Eldoret'
 secondary_keywords:
-- Veterinary clinic equipment in Nanyuki
-- ICU setup cost in a private hospital in Nairobi
-- Cost of installing a CT scanner in a Kenyan hospital
-- Sonoscape S2 portable ultrasound for sale in Thika
-- X-ray consumables (film, chemicals) suppliers in Nairobi
+- 'Veterinary clinic equipment in Nanyuki'
+- 'ICU setup cost in a private hospital in Nairobi'
+- 'Cost of installing a CT scanner in a Kenyan hospital'
+- 'Sonoscape S2 portable ultrasound for sale in Thika'
+- 'X-ray consumables (film, chemicals) suppliers in Nairobi'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

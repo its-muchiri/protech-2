@@ -1,14 +1,14 @@
 ---
 title: 'Diani Beach Based Tour Operators Excursions / Safaris: Complete Guide'
-description: Kenya safari guide covering diani beach based tour operators excursions / safaris, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering diani beach based tour operators excursions / safaris, including what is included, pricing, and booking advice.'
 slug: diani-beach-based-tour-operators-excursions-safaris
-primary_keyword: Diani Beach based tour operators excursions / safaris
+primary_keyword: 'Diani Beach based tour operators excursions / safaris'
 secondary_keywords:
-- Request price list Kenya safari packages
-- Cost per person 8 day Kenya discovery package
-- Price list 6 day group joining Nakuru Mara safari
-- Ol Pejeta Conservancy safari special offer
-- Private guided Kenya safari early bird promotion
+- 'Request price list Kenya safari packages'
+- 'Cost per person 8 day Kenya discovery package'
+- 'Price list 6 day group joining Nakuru Mara safari'
+- 'Ol Pejeta Conservancy safari special offer'
+- 'Private guided Kenya safari early bird promotion'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

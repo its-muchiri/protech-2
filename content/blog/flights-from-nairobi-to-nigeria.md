@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Nigeria: Complete Guide'
-description: Everything you need to know about flights from nairobi to nigeria, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to nigeria, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-nigeria
-primary_keyword: flights from nairobi to nigeria
+primary_keyword: 'flights from nairobi to nigeria'
 secondary_keywords:
-- emirates flights 2024
-- emirates flight 318
-- emirates flight 448
-- emirates flight 623
-- emirates flight 720
+- 'emirates flights 2024'
+- 'emirates flight 318'
+- 'emirates flight 448'
+- 'emirates flight 623'
+- 'emirates flight 720'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'X-ray Film and Chemicals in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to x-ray film and chemicals in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to x-ray film and chemicals in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: x-ray-film-and-chemicals-in-nairobi
-primary_keyword: X-ray film and chemicals in Nairobi
+primary_keyword: 'X-ray film and chemicals in Nairobi'
 secondary_keywords:
-- Hematology analyzer price in Kenya
-- Binocular microscope price in Kenya
-- Water bath for laboratory in Kisumu
-- ENT instrument set for a clinic in Kisumu
-- Mobile operating light for minor surgery
+- 'Hematology analyzer price in Kenya'
+- 'Binocular microscope price in Kenya'
+- 'Water bath for laboratory in Kisumu'
+- 'ENT instrument set for a clinic in Kisumu'
+- 'Mobile operating light for minor surgery'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

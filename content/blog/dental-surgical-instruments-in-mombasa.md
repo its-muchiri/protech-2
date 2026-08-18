@@ -1,14 +1,14 @@
 ---
 title: 'Dental Surgical Instruments in Mombasa: 2026 Price Guide'
-description: Kenya buying guide to dental surgical instruments in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to dental surgical instruments in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: dental-surgical-instruments-in-mombasa
-primary_keyword: Dental surgical instruments in Mombasa
+primary_keyword: 'Dental surgical instruments in Mombasa'
 secondary_keywords:
-- nebulizer rental Kenya
-- medical equipment suppliers list Kenya
-- eye clinic equipment Kenya
-- home health medical devices Kenya
-- Low-dose CT scanner for lung screening price in Nairobi
+- 'nebulizer rental Kenya'
+- 'medical equipment suppliers list Kenya'
+- 'eye clinic equipment Kenya'
+- 'home health medical devices Kenya'
+- 'Low-dose CT scanner for lung screening price in Nairobi'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

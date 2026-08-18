@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Boston: Complete Guide'
-description: Everything you need to know about flights nairobi to boston, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to boston, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-boston
-primary_keyword: flights nairobi to boston
+primary_keyword: 'flights nairobi to boston'
 secondary_keywords:
-- kq flights contacts
-- kq flights from nairobi to cape town
-- kq flights eldoret to nairobi
-- kq flight status
-- kq airlines contact number
+- 'kq flights contacts'
+- 'kq flights from nairobi to cape town'
+- 'kq flights eldoret to nairobi'
+- 'kq flight status'
+- 'kq airlines contact number'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

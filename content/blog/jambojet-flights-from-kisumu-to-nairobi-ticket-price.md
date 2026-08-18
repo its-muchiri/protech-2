@@ -1,14 +1,14 @@
 ---
 title: 'Jambojet Flights from Kisumu to Nairobi Ticket Price: Complete Guide'
-description: Everything you need to know about jambojet flights from kisumu to nairobi ticket price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about jambojet flights from kisumu to nairobi ticket price, including routes, airlines, booking tips, and fares.'
 slug: jambojet-flights-from-kisumu-to-nairobi-ticket-price
-primary_keyword: jambojet flights from kisumu to nairobi ticket price
+primary_keyword: 'jambojet flights from kisumu to nairobi ticket price'
 secondary_keywords:
-- flight booking to kenya
-- buupass online booking kenya to nairobi
-- flight check in kenya airways
-- flights to kenya business class
-- flights to kenya in december
+- 'flight booking to kenya'
+- 'buupass online booking kenya to nairobi'
+- 'flight check in kenya airways'
+- 'flights to kenya business class'
+- 'flights to kenya in december'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

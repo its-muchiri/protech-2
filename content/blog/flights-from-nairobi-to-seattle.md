@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Seattle: Complete Guide'
-description: Everything you need to know about flights from nairobi to seattle, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to seattle, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-seattle
-primary_keyword: flights from nairobi to seattle
+primary_keyword: 'flights from nairobi to seattle'
 secondary_keywords:
-- turkish airlines how long for refund
-- emirates airlines kenya
-- ethiopian airlines payment methods
-- ethiopian airlines nairobi to lagos
-- ethiopian airlines customer care
+- 'turkish airlines how long for refund'
+- 'emirates airlines kenya'
+- 'ethiopian airlines payment methods'
+- 'ethiopian airlines nairobi to lagos'
+- 'ethiopian airlines customer care'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

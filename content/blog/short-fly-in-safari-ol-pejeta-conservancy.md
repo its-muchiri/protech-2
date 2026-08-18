@@ -1,14 +1,14 @@
 ---
 title: 'Short Fly-in Safari Ol Pejeta Conservancy: Complete Guide'
-description: Kenya safari guide covering short fly-in safari ol pejeta conservancy, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering short fly-in safari ol pejeta conservancy, including what is included, pricing, and booking advice.'
 slug: short-fly-in-safari-ol-pejeta-conservancy
-primary_keyword: Short fly-in safari Ol Pejeta Conservancy
+primary_keyword: 'Short fly-in safari Ol Pejeta Conservancy'
 secondary_keywords:
-- Remote Kenya safari locations
-- Kenya safari binoculars recommendation
-- What makes Masai Mara special
-- Small group migration safari Kenya August
-- Problems with Kenya safari booking
+- 'Remote Kenya safari locations'
+- 'Kenya safari binoculars recommendation'
+- 'What makes Masai Mara special'
+- 'Small group migration safari Kenya August'
+- 'Problems with Kenya safari booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from Lusaka to Nairobi Today: Complete Guide'
-description: Everything you need to know about kq flights from lusaka to nairobi today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from lusaka to nairobi today, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-lusaka-to-nairobi-today
-primary_keyword: kq flights from lusaka to nairobi today
+primary_keyword: 'kq flights from lusaka to nairobi today'
 secondary_keywords:
-- kq flights to china
-- kq flights to diani
-- kq flights to ghana
-- how many flights does kq have
-- kq flights to johannesburg today timetable
+- 'kq flights to china'
+- 'kq flights to diani'
+- 'kq flights to ghana'
+- 'how many flights does kq have'
+- 'kq flights to johannesburg today timetable'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

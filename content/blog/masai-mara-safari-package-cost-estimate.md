@@ -1,14 +1,14 @@
 ---
 title: 'Masai Mara Safari Package Cost Estimate: Complete Guide'
-description: Kenya safari guide covering masai mara safari package cost estimate, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering masai mara safari package cost estimate, including what is included, pricing, and booking advice.'
 slug: masai-mara-safari-package-cost-estimate
-primary_keyword: Masai Mara safari package cost estimate
+primary_keyword: 'Masai Mara safari package cost estimate'
 secondary_keywords:
-- Price 5 day Angama Mara fly-in package deal
-- Buy conservation donation included Kenya safari package
-- Affordable tour packages Kenya
-- Masai Mara safari companies from Nairobi
-- Watamu marine park snorkeling tours
+- 'Price 5 day Angama Mara fly-in package deal'
+- 'Buy conservation donation included Kenya safari package'
+- 'Affordable tour packages Kenya'
+- 'Masai Mara safari companies from Nairobi'
+- 'Watamu marine park snorkeling tours'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

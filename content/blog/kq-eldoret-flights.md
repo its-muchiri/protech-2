@@ -1,14 +1,14 @@
 ---
 title: 'Kq Eldoret Flights: Complete Guide'
-description: Everything you need to know about kq eldoret flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq eldoret flights, including routes, airlines, booking tips, and fares.'
 slug: kq-eldoret-flights
-primary_keyword: kq eldoret flights
+primary_keyword: 'kq eldoret flights'
 secondary_keywords:
-- kq flight from johannesburg to nairobi today
-- kq flight from rwanda to nairobi
-- kq 352 flight status
-- kq flight from nairobi to cape town
-- kenya airways flight from nairobi to entebbe
+- 'kq flight from johannesburg to nairobi today'
+- 'kq flight from rwanda to nairobi'
+- 'kq 352 flight status'
+- 'kq flight from nairobi to cape town'
+- 'kenya airways flight from nairobi to entebbe'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

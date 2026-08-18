@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Karachi to Dubai United Arab Emirates: Complete Guide'
-description: Everything you need to know about flights from karachi to dubai united arab emirates, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from karachi to dubai united arab emirates, including routes, airlines, booking tips, and fares.'
 slug: flights-from-karachi-to-dubai-united-arab-emirates
-primary_keyword: flights from karachi to dubai united arab emirates
+primary_keyword: 'flights from karachi to dubai united arab emirates'
 secondary_keywords:
-- safarilink flights from mombasa to nairobi
-- are there flights from mombasa to lamu
-- does british airways fly to dhaka
-- cheap flights from mombasa to london heathrow
-- flights from entebbe to mombasa
+- 'safarilink flights from mombasa to nairobi'
+- 'are there flights from mombasa to lamu'
+- 'does british airways fly to dhaka'
+- 'cheap flights from mombasa to london heathrow'
+- 'flights from entebbe to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

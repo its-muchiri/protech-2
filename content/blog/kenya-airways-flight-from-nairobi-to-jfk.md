@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from Nairobi to Jfk: Complete Guide'
-description: Everything you need to know about kenya airways flight from nairobi to jfk, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from nairobi to jfk, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-nairobi-to-jfk
-primary_keyword: kenya airways flight from nairobi to jfk
+primary_keyword: 'kenya airways flight from nairobi to jfk'
 secondary_keywords:
-- flights nairobi to tel aviv
-- nairobi to uganda flights
-- flights nairobi to watamu
-- yyz to nairobi flights
-- 1 bedroom nairobi west
+- 'flights nairobi to tel aviv'
+- 'nairobi to uganda flights'
+- 'flights nairobi to watamu'
+- 'yyz to nairobi flights'
+- '1 bedroom nairobi west'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

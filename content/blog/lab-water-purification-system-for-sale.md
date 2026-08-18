@@ -1,14 +1,14 @@
 ---
 title: 'Lab Water Purification System for Sale: 2026 Price Guide'
-description: Kenya buying guide to lab water purification system for sale. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to lab water purification system for sale. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: lab-water-purification-system-for-sale
-primary_keyword: Lab water purification system for sale
+primary_keyword: 'Lab water purification system for sale'
 secondary_keywords:
-- Infant warmer price in Nakuru
-- Mortuary cabinet (3-body) for sale
-- Medical equipment leasing vs buying in Kenya
-- CPR manikins for first aid training
-- Dental X-ray sensor repair services
+- 'Infant warmer price in Nakuru'
+- 'Mortuary cabinet (3-body) for sale'
+- 'Medical equipment leasing vs buying in Kenya'
+- 'CPR manikins for first aid training'
+- 'Dental X-ray sensor repair services'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

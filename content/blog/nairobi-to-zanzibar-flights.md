@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi to Zanzibar Flights: Complete Guide'
-description: Everything you need to know about nairobi to zanzibar flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about nairobi to zanzibar flights, including routes, airlines, booking tips, and fares.'
 slug: nairobi-to-zanzibar-flights
-primary_keyword: nairobi to zanzibar flights
+primary_keyword: 'nairobi to zanzibar flights'
 secondary_keywords:
-- emirates kenya email address nairobi
-- emirates lounge kenya
-- fly emirates kenya contacts
-- how far is ethiopia from kenya by plane
-- ethiopian airlines contact nairobi telephone number
+- 'emirates kenya email address nairobi'
+- 'emirates lounge kenya'
+- 'fly emirates kenya contacts'
+- 'how far is ethiopia from kenya by plane'
+- 'ethiopian airlines contact nairobi telephone number'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

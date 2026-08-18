@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Wellington: Complete Guide'
-description: Everything you need to know about emirates flights from wellington, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from wellington, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-wellington
-primary_keyword: emirates flights from wellington
+primary_keyword: 'emirates flights from wellington'
 secondary_keywords:
-- non stop flights from new york to nairobi
-- first class flight from nairobi to mombasa
-- flights from nairobi to bangkok thailand
-- flights from mombasa to arusha tanzania
-- flights brussels mombasa
+- 'non stop flights from new york to nairobi'
+- 'first class flight from nairobi to mombasa'
+- 'flights from nairobi to bangkok thailand'
+- 'flights from mombasa to arusha tanzania'
+- 'flights brussels mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

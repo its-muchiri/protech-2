@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Amsterdam: Complete Guide'
-description: Everything you need to know about kq flights to amsterdam, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to amsterdam, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-amsterdam
-primary_keyword: kq flights to amsterdam
+primary_keyword: 'kq flights to amsterdam'
 secondary_keywords:
-- how much is a flight from nairobi to eldoret
-- flight from nairobi to jfk
-- flight from nairobi to lamu
-- how long is the flight from nairobi to johannesburg
-- flight from nairobi to nakuru
+- 'how much is a flight from nairobi to eldoret'
+- 'flight from nairobi to jfk'
+- 'flight from nairobi to lamu'
+- 'how long is the flight from nairobi to johannesburg'
+- 'flight from nairobi to nakuru'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

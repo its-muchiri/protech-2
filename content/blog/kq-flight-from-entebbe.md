@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Entebbe: Complete Guide'
-description: Everything you need to know about kq flight from entebbe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from entebbe, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-entebbe
-primary_keyword: kq flight from entebbe
+primary_keyword: 'kq flight from entebbe'
 secondary_keywords:
-- turkish airlines nairobi phone number
-- turkish airlines nairobi contacts
-- ethiopian airlines nairobi office address
-- ethiopian airlines offices in nairobi location
-- ethiopian airlines from riyadh to nairobi
+- 'turkish airlines nairobi phone number'
+- 'turkish airlines nairobi contacts'
+- 'ethiopian airlines nairobi office address'
+- 'ethiopian airlines offices in nairobi location'
+- 'ethiopian airlines from riyadh to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

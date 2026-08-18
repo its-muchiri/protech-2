@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Mombasa to Dubai: Complete Guide'
-description: Everything you need to know about cheap flights from mombasa to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from mombasa to dubai, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-mombasa-to-dubai
-primary_keyword: cheap flights from mombasa to dubai
+primary_keyword: 'cheap flights from mombasa to dubai'
 secondary_keywords:
-- flights from paris to nairobi
-- flights from nairobi to reunion island
-- flights from nairobi to sydney
-- flights from nairobi to uk
-- flights from nairobi to las vegas
+- 'flights from paris to nairobi'
+- 'flights from nairobi to reunion island'
+- 'flights from nairobi to sydney'
+- 'flights from nairobi to uk'
+- 'flights from nairobi to las vegas'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

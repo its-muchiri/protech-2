@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Glasgow to Nairobi: Complete Guide'
-description: Everything you need to know about flights from glasgow to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from glasgow to nairobi, including routes, airlines, booking tips, and fares.'
 slug: flights-from-glasgow-to-nairobi
-primary_keyword: flights from glasgow to nairobi
+primary_keyword: 'flights from glasgow to nairobi'
 secondary_keywords:
-- ticket from kenya to usa
-- local flights in kenya
-- flights from kenya to south africa
-- flights to kenya cancelled
-- flights to kenya emirates
+- 'ticket from kenya to usa'
+- 'local flights in kenya'
+- 'flights from kenya to south africa'
+- 'flights to kenya cancelled'
+- 'flights to kenya emirates'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

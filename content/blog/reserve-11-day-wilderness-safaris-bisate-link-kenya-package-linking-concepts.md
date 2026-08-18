@@ -1,14 +1,14 @@
 ---
 title: 'Reserve 11 Day Wilderness Safaris Bisate Link Kenya Package (linking Concepts): Complete Guide'
-description: Kenya safari guide covering reserve 11 day wilderness safaris bisate link kenya package (linking concepts), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve 11 day wilderness safaris bisate link kenya package (linking concepts), including what is included, pricing, and booking advice.'
 slug: reserve-11-day-wilderness-safaris-bisate-link-kenya-package-linking-concepts
-primary_keyword: Reserve 11 day Wilderness Safaris Bisate link Kenya package (linking concepts)
+primary_keyword: 'Reserve 11 day Wilderness Safaris Bisate link Kenya package (linking concepts)'
 secondary_keywords:
-- Cost estimate Kenya safari package
-- 5 day Kenya highlights tour package cost
-- Get quote for 6 day Kenya family safari package
-- Lake Nakuru rhino safari package quote
-- Ol Jogi Conservancy luxury safari booking
+- 'Cost estimate Kenya safari package'
+- '5 day Kenya highlights tour package cost'
+- 'Get quote for 6 day Kenya family safari package'
+- 'Lake Nakuru rhino safari package quote'
+- 'Ol Jogi Conservancy luxury safari booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

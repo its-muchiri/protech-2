@@ -1,14 +1,14 @@
 ---
 title: 'Book Luxury Masai Mara Fly-in Safari from UK August 2025 Deals: Complete Guide'
-description: Kenya safari guide covering book luxury masai mara fly-in safari from uk august 2025 deals, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book luxury masai mara fly-in safari from uk august 2025 deals, including what is included, pricing, and booking advice.'
 slug: book-luxury-masai-mara-fly-in-safari-from-uk-august-2025-deals
-primary_keyword: Book luxury Masai Mara fly-in safari from UK August 2025 deals
+primary_keyword: 'Book luxury Masai Mara fly-in safari from UK August 2025 deals'
 secondary_keywords:
-- Kenya safari package quote request form
-- Cultural safari tours Kenya booking Europe Maasai village
-- Laikipia conservancy luxury safari booking UK private ranch
-- Kenya safari tours for USA citizens cost visa info
-- Kenya safari tour price from Los Angeles USA packages
+- 'Kenya safari package quote request form'
+- 'Cultural safari tours Kenya booking Europe Maasai village'
+- 'Laikipia conservancy luxury safari booking UK private ranch'
+- 'Kenya safari tours for USA citizens cost visa info'
+- 'Kenya safari tour price from Los Angeles USA packages'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

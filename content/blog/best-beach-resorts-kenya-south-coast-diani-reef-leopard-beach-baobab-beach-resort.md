@@ -1,14 +1,14 @@
 ---
 title: 'Best Beach Resorts Kenya South Coast Diani Reef / Leopard Beach / Baobab Beach Resort: Complete Guide'
-description: Kenya safari guide covering best beach resorts kenya south coast diani reef / leopard beach / baobab beach resort, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering best beach resorts kenya south coast diani reef / leopard beach / baobab beach resort, including what is included, pricing, and booking advice.'
 slug: best-beach-resorts-kenya-south-coast-diani-reef-leopard-beach-baobab-beach-resort
-primary_keyword: Best beach resorts Kenya South Coast Diani Reef / Leopard Beach / Baobab Beach Resort
+primary_keyword: 'Best beach resorts Kenya South Coast Diani Reef / Leopard Beach / Baobab Beach Resort'
 secondary_keywords:
-- Kenya safari with private guide
-- Kenya visa for safari
-- Language spoken Kenya safari
-- Kenya safari tour operator reviews Tripadvisor
-- 4 day Samburu reserve safari package deal
+- 'Kenya safari with private guide'
+- 'Kenya visa for safari'
+- 'Language spoken Kenya safari'
+- 'Kenya safari tour operator reviews Tripadvisor'
+- '4 day Samburu reserve safari package deal'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

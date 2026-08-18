@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Berlin: Complete Guide'
-description: Everything you need to know about flights nairobi to berlin, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to berlin, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-berlin
-primary_keyword: flights nairobi to berlin
+primary_keyword: 'flights nairobi to berlin'
 secondary_keywords:
-- emirates flights from edinburgh today
-- fly emirates flights from dubai
-- emirates flights from gatwick today
-- how many emirates flights from uk to dubai
-- emirates flights to india from uk
+- 'emirates flights from edinburgh today'
+- 'fly emirates flights from dubai'
+- 'emirates flights from gatwick today'
+- 'how many emirates flights from uk to dubai'
+- 'emirates flights to india from uk'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

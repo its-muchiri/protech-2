@@ -1,14 +1,14 @@
 ---
 title: 'SGR Train Packages Mombasa Beach Holiday: Complete Guide'
-description: Kenya safari guide covering sgr train packages mombasa beach holiday, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering sgr train packages mombasa beach holiday, including what is included, pricing, and booking advice.'
 slug: sgr-train-packages-mombasa-beach-holiday
-primary_keyword: SGR train packages Mombasa beach holiday
+primary_keyword: 'SGR train packages Mombasa beach holiday'
 secondary_keywords:
-- Book multi-day walking safari northern Kenya online Europe experienced hikers
-- Purchase Kenya safari gift voucher online USA redeemable tours packages value
-- Cost difference Masai Mara National Reserve vs private conservancy safari UK benefits comparison
-- Purchase digital nomad long stay Kenya safari workation package USA visa internet lodges deals
-- Reserve Lake Magadi lesser flamingoes safari tour Kenya Europe unique landscape photography booking
+- 'Book multi-day walking safari northern Kenya online Europe experienced hikers'
+- 'Purchase Kenya safari gift voucher online USA redeemable tours packages value'
+- 'Cost difference Masai Mara National Reserve vs private conservancy safari UK benefits comparison'
+- 'Purchase digital nomad long stay Kenya safari workation package USA visa internet lodges deals'
+- 'Reserve Lake Magadi lesser flamingoes safari tour Kenya Europe unique landscape photography booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

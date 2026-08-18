@@ -1,14 +1,14 @@
 ---
 title: 'Buy 3 Day Budget Amboseli Fly-in Package Last Minute Deal Nairobi: Complete Guide'
-description: Kenya safari guide covering buy 3 day budget amboseli fly-in package last minute deal nairobi, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy 3 day budget amboseli fly-in package last minute deal nairobi, including what is included, pricing, and booking advice.'
 slug: buy-3-day-budget-amboseli-fly-in-package-last-minute-deal-nairobi
-primary_keyword: Buy 3 day budget Amboseli fly-in package last minute deal Nairobi
+primary_keyword: 'Buy 3 day budget Amboseli fly-in package last minute deal Nairobi'
 secondary_keywords:
-- Purchase Masai Mara safari trip online Europe
-- Book safari tour Kenya online payment
-- Private Kenya safari tour cost calculator
-- Best Kenya family safari packages Europe child friendly
-- Kenya mobile camping safari purchase USA luxury private
+- 'Purchase Masai Mara safari trip online Europe'
+- 'Book safari tour Kenya online payment'
+- 'Private Kenya safari tour cost calculator'
+- 'Best Kenya family safari packages Europe child friendly'
+- 'Kenya mobile camping safari purchase USA luxury private'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

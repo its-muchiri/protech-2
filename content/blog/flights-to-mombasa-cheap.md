@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Mombasa Cheap: Complete Guide'
-description: Everything you need to know about flights to mombasa cheap, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to mombasa cheap, including routes, airlines, booking tips, and fares.'
 slug: flights-to-mombasa-cheap
-primary_keyword: flights to mombasa cheap
+primary_keyword: 'flights to mombasa cheap'
 secondary_keywords:
-- cheap flights nairobi to rome
-- nairobi to seattle flights
-- fly nairobi to uganda
-- vienna to nairobi flights
-- flights nairobi to yaounde
+- 'cheap flights nairobi to rome'
+- 'nairobi to seattle flights'
+- 'fly nairobi to uganda'
+- 'vienna to nairobi flights'
+- 'flights nairobi to yaounde'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

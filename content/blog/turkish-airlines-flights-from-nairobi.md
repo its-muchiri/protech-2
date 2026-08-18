@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Flights from Nairobi: Complete Guide'
-description: Everything you need to know about turkish airlines flights from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines flights from nairobi, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-flights-from-nairobi
-primary_keyword: turkish airlines flights from nairobi
+primary_keyword: 'turkish airlines flights from nairobi'
 secondary_keywords:
-- flights nairobi zanzibar
-- cheap flights from kenya
-- are there direct flights from kenya to uk
-- flights to kenya from boston
-- cheap flights from kenya to dubai
+- 'flights nairobi zanzibar'
+- 'cheap flights from kenya'
+- 'are there direct flights from kenya to uk'
+- 'flights to kenya from boston'
+- 'cheap flights from kenya to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

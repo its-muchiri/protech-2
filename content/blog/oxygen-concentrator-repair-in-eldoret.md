@@ -1,14 +1,14 @@
 ---
 title: 'Oxygen Concentrator Repair in Eldoret: 2026 Price Guide'
-description: Kenya buying guide to oxygen concentrator repair in eldoret. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to oxygen concentrator repair in eldoret. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: oxygen-concentrator-repair-in-eldoret
-primary_keyword: Oxygen concentrator repair in Eldoret
+primary_keyword: 'Oxygen concentrator repair in Eldoret'
 secondary_keywords:
-- electric wheelchair Kenya
-- mobile X-ray machine Kenya
-- urine analyzers Kenya
-- slit lamp Kenya price
-- CT scanners Kenya price
+- 'electric wheelchair Kenya'
+- 'mobile X-ray machine Kenya'
+- 'urine analyzers Kenya'
+- 'slit lamp Kenya price'
+- 'CT scanners Kenya price'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

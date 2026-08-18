@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights 2023: Complete Guide'
-description: Everything you need to know about emirates flights 2023, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights 2023, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-2023
-primary_keyword: emirates flights 2023
+primary_keyword: 'emirates flights 2023'
 secondary_keywords:
-- fly emirates kenya
-- emirates 722
-- ethiopian airlines lounge nairobi airport
-- ethiopian airlines from nairobi to doha
-- ethiopian airlines nairobi office
+- 'fly emirates kenya'
+- 'emirates 722'
+- 'ethiopian airlines lounge nairobi airport'
+- 'ethiopian airlines from nairobi to doha'
+- 'ethiopian airlines nairobi office'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

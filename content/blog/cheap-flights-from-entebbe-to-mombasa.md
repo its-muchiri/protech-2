@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Entebbe to Mombasa: Complete Guide'
-description: Everything you need to know about cheap flights from entebbe to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from entebbe to mombasa, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-entebbe-to-mombasa
-primary_keyword: cheap flights from entebbe to mombasa
+primary_keyword: 'cheap flights from entebbe to mombasa'
 secondary_keywords:
-- kq flight attendant salary
-- kq flight booking contacts
-- kq flights contacts
-- kq flights from nairobi to cape town
-- kq flights eldoret to nairobi
+- 'kq flight attendant salary'
+- 'kq flight booking contacts'
+- 'kq flights contacts'
+- 'kq flights from nairobi to cape town'
+- 'kq flights eldoret to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

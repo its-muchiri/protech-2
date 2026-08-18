@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight 311: Complete Guide'
-description: Everything you need to know about kq flight 311, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight 311, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-311
-primary_keyword: kq flight 311
+primary_keyword: 'kq flight 311'
 secondary_keywords:
-- flight ticket kenya to dubai
-- flight from kenya to dubai time
-- book flight with kenya airways
-- ticket from kenya to uk
-- in flight entertainment kenya airways
+- 'flight ticket kenya to dubai'
+- 'flight from kenya to dubai time'
+- 'book flight with kenya airways'
+- 'ticket from kenya to uk'
+- 'in flight entertainment kenya airways'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

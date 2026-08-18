@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Dulles: Complete Guide'
-description: Everything you need to know about flights from nairobi to dulles, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to dulles, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-dulles
-primary_keyword: flights from nairobi to dulles
+primary_keyword: 'flights from nairobi to dulles'
 secondary_keywords:
-- b6 6 flight status
-- turkish airlines routes
-- turkish airlines airport contact number
-- turkish airlines in nairobi offices
-- turkish airlines mombasa
+- 'b6 6 flight status'
+- 'turkish airlines routes'
+- 'turkish airlines airport contact number'
+- 'turkish airlines in nairobi offices'
+- 'turkish airlines mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

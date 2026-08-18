@@ -1,14 +1,14 @@
 ---
 title: 'Used Hospital Beds for Sale in Kenya: 2026 Price Guide'
-description: Kenya buying guide to used hospital beds for sale in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to used hospital beds for sale in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: used-hospital-beds-for-sale-in-kenya
-primary_keyword: Used hospital beds for sale in Kenya
+primary_keyword: 'Used hospital beds for sale in Kenya'
 secondary_keywords:
-- 5-parameter patient monitor for theatre use
-- Ultrasonic cleaner for dental and surgical tools
-- Lightweight foldable wheelchair price
-- Syringe pump and infusion pump price
-- Portable dental chair for mobile camps
+- '5-parameter patient monitor for theatre use'
+- 'Ultrasonic cleaner for dental and surgical tools'
+- 'Lightweight foldable wheelchair price'
+- 'Syringe pump and infusion pump price'
+- 'Portable dental chair for mobile camps'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

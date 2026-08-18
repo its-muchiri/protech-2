@@ -1,14 +1,14 @@
 ---
 title: 'Used CT Scanner for Sale in Kenya: 2026 Price Guide'
-description: Kenya buying guide to used ct scanner for sale in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to used ct scanner for sale in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: used-ct-scanner-for-sale-in-kenya
-primary_keyword: Used CT scanner for sale in Kenya
+primary_keyword: 'Used CT scanner for sale in Kenya'
 secondary_keywords:
-- Wheelchair rental services in Mombasa
-- Cholesterol testing machine for pharmacy
-- 3D printer for dental models
-- anti-fatigue mats for operating theatre
-- bariatric patient handling equipment
+- 'Wheelchair rental services in Mombasa'
+- 'Cholesterol testing machine for pharmacy'
+- '3D printer for dental models'
+- 'anti-fatigue mats for operating theatre'
+- 'bariatric patient handling equipment'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

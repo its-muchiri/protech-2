@@ -1,14 +1,14 @@
 ---
 title: 'Airlines That Fly to Mombasa: Complete Guide'
-description: Everything you need to know about airlines that fly to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about airlines that fly to mombasa, including routes, airlines, booking tips, and fares.'
 slug: airlines-that-fly-to-mombasa
-primary_keyword: airlines that fly to mombasa
+primary_keyword: 'airlines that fly to mombasa'
 secondary_keywords:
-- mauritius flights from kenya
-- flight from kenya to orlando
-- flights from omaha to kenya
-- flights to portugal from kenya
-- flights from kenya to russia
+- 'mauritius flights from kenya'
+- 'flight from kenya to orlando'
+- 'flights from omaha to kenya'
+- 'flights to portugal from kenya'
+- 'flights from kenya to russia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

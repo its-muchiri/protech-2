@@ -1,14 +1,14 @@
 ---
 title: 'Visit Kenya Safari: Complete Guide'
-description: Kenya safari guide covering visit kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering visit kenya safari, including what is included, pricing, and booking advice.'
 slug: visit-kenya-safari
-primary_keyword: Visit Kenya safari
+primary_keyword: 'Visit Kenya safari'
 secondary_keywords:
-- White water rafting Tana River companies
-- Weekend getaway safari deals from Nairobi
-- Kenya safari payment options Mpesa credit card
-- Safari companies with Nairobi city center office
-- Emergency evacuation plan Kenya tour operators
+- 'White water rafting Tana River companies'
+- 'Weekend getaway safari deals from Nairobi'
+- 'Kenya safari payment options Mpesa credit card'
+- 'Safari companies with Nairobi city center office'
+- 'Emergency evacuation plan Kenya tour operators'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

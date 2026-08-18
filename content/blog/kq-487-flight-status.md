@@ -1,14 +1,14 @@
 ---
 title: 'Kq 487 Flight Status: Complete Guide'
-description: Everything you need to know about kq 487 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 487 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq-487-flight-status
-primary_keyword: kq 487 flight status
+primary_keyword: 'kq 487 flight status'
 secondary_keywords:
-- cheap flights from beirut to kenya in dollars today
-- domestic flights in kenya
-- flights to kenya from manchester
-- kenya airways in kenya
-- local flights in kenya today
+- 'cheap flights from beirut to kenya in dollars today'
+- 'domestic flights in kenya'
+- 'flights to kenya from manchester'
+- 'kenya airways in kenya'
+- 'local flights in kenya today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

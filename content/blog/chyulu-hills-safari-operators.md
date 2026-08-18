@@ -1,14 +1,14 @@
 ---
 title: 'Chyulu Hills Safari Operators: Complete Guide'
-description: Kenya safari guide covering chyulu hills safari operators, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering chyulu hills safari operators, including what is included, pricing, and booking advice.'
 slug: chyulu-hills-safari-operators
-primary_keyword: Chyulu Hills safari operators
+primary_keyword: 'Chyulu Hills safari operators'
 secondary_keywords:
-- Quote 10 day best value family safari Kenya itinerary park fees included
-- List of KATO registered tour operators Kenya
-- Small group tour operators Kenya
-- Tsavo West National Park lodges (e.g., Kilaguni Serena, Finch Hattons) booking
-- Shimba Hills National Reserve day trip from Diani Beach
+- 'Quote 10 day best value family safari Kenya itinerary park fees included'
+- 'List of KATO registered tour operators Kenya'
+- 'Small group tour operators Kenya'
+- 'Tsavo West National Park lodges (e.g., Kilaguni Serena, Finch Hattons) booking'
+- 'Shimba Hills National Reserve day trip from Diani Beach'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

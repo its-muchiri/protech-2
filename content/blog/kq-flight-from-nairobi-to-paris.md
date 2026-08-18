@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from Nairobi to Paris: Complete Guide'
-description: Everything you need to know about kq flight from nairobi to paris, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from nairobi to paris, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-nairobi-to-paris
-primary_keyword: kq flight from nairobi to paris
+primary_keyword: 'kq flight from nairobi to paris'
 secondary_keywords:
-- morocco flights from kenya
-- flights from cape town to nairobi kenya
-- flights from okc to nairobi kenya
-- flights to dubai from kenya price
-- does kenya airways fly to canada
+- 'morocco flights from kenya'
+- 'flights from cape town to nairobi kenya'
+- 'flights from okc to nairobi kenya'
+- 'flights to dubai from kenya price'
+- 'does kenya airways fly to canada'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

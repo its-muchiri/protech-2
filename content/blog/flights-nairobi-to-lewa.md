@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Lewa: Complete Guide'
-description: Everything you need to know about flights nairobi to lewa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to lewa, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-lewa
-primary_keyword: flights nairobi to lewa
+primary_keyword: 'flights nairobi to lewa'
 secondary_keywords:
-- zanzibar flight from nairobi
-- cost of flight from nairobi to kitale
-- 540 flight from nairobi to eldoret
-- 740 flight
-- turkish airlines nairobi office
+- 'zanzibar flight from nairobi'
+- 'cost of flight from nairobi to kitale'
+- '540 flight from nairobi to eldoret'
+- '740 flight'
+- 'turkish airlines nairobi office'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

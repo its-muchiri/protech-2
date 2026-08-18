@@ -1,14 +1,14 @@
 ---
 title: 'How Are Safari Guides Trained Kenya: Complete Guide'
-description: Kenya safari guide covering how are safari guides trained kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering how are safari guides trained kenya, including what is included, pricing, and booking advice.'
 slug: how-are-safari-guides-trained-kenya
-primary_keyword: How are safari guides trained Kenya
+primary_keyword: 'How are safari guides trained Kenya'
 secondary_keywords:
-- Kenya safari wet season
-- Shoulder season Kenya safari
-- Direct booking Kenya safari
-- High altitude safari Kenya (Aberdares, Mt Kenya)
-- Malaria precautions Kenya safari
+- 'Kenya safari wet season'
+- 'Shoulder season Kenya safari'
+- 'Direct booking Kenya safari'
+- 'High altitude safari Kenya (Aberdares, Mt Kenya)'
+- 'Malaria precautions Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

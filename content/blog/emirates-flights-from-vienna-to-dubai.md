@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Vienna to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from vienna to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from vienna to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-vienna-to-dubai
-primary_keyword: emirates flights from vienna to dubai
+primary_keyword: 'emirates flights from vienna to dubai'
 secondary_keywords:
-- emirates flight schedule from dubai to nairobi
-- emirates flight 587
-- emirates flight 764 accident
-- emirates flight 835
-- flight price from nairobi to qatar
+- 'emirates flight schedule from dubai to nairobi'
+- 'emirates flight 587'
+- 'emirates flight 764 accident'
+- 'emirates flight 835'
+- 'flight price from nairobi to qatar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

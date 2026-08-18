@@ -1,14 +1,14 @@
 ---
 title: 'Blood Gas Analyzer Suppliers in Kenya: 2026 Price Guide'
-description: Kenya buying guide to blood gas analyzer suppliers in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to blood gas analyzer suppliers in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: blood-gas-analyzer-suppliers-in-kenya
-primary_keyword: Blood gas analyzer suppliers in Kenya
+primary_keyword: 'Blood gas analyzer suppliers in Kenya'
 secondary_keywords:
-- nuclear medicine equipment Kenya
-- medical supplies online shop Kenya
-- Portable ultrasound scanner price in Kenya
-- Dental X-ray machine for sale in Eldoret
-- MRI coil repair services in Kenya
+- 'nuclear medicine equipment Kenya'
+- 'medical supplies online shop Kenya'
+- 'Portable ultrasound scanner price in Kenya'
+- 'Dental X-ray machine for sale in Eldoret'
+- 'MRI coil repair services in Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

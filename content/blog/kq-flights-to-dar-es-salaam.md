@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Dar Es Salaam: Complete Guide'
-description: Everything you need to know about kq flights to dar es salaam, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to dar es salaam, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-dar-es-salaam
-primary_keyword: kq flights to dar es salaam
+primary_keyword: 'kq flights to dar es salaam'
 secondary_keywords:
-- flight from nairobi to goma
-- flight from nairobi to hong kong
-- flight from nairobi to johannesburg
-- flight from nairobi kenya to madrid spain
-- last flight from nairobi to kisumu
+- 'flight from nairobi to goma'
+- 'flight from nairobi to hong kong'
+- 'flight from nairobi to johannesburg'
+- 'flight from nairobi kenya to madrid spain'
+- 'last flight from nairobi to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

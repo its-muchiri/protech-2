@@ -1,14 +1,14 @@
 ---
 title: 'Local Kenyan Tour Companies Vs International Operators: Complete Guide'
-description: Kenya safari guide covering local kenyan tour companies vs international operators, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering local kenyan tour companies vs international operators, including what is included, pricing, and booking advice.'
 slug: local-kenyan-tour-companies-vs-international-operators
-primary_keyword: Local Kenyan tour companies vs international operators
+primary_keyword: 'Local Kenyan tour companies vs international operators'
 secondary_keywords:
-- Confirm availability 5 day budget safari Kenya August
-- Immediate quote Kenya custom safari package 14 days
-- Buy 4 day Amboseli Kilimanjaro view package deal
-- Secure 12 day premium family safari package Sarova lodges
-- Secure 6 day Saruni Samburu lodge package deal
+- 'Confirm availability 5 day budget safari Kenya August'
+- 'Immediate quote Kenya custom safari package 14 days'
+- 'Buy 4 day Amboseli Kilimanjaro view package deal'
+- 'Secure 12 day premium family safari package Sarova lodges'
+- 'Secure 6 day Saruni Samburu lodge package deal'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

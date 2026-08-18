@@ -1,14 +1,14 @@
 ---
 title: 'Dental Handpiece Repair Services: 2026 Price Guide'
-description: Kenya buying guide to dental handpiece repair services. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to dental handpiece repair services. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: dental-handpiece-repair-services
-primary_keyword: Dental handpiece repair services
+primary_keyword: 'Dental handpiece repair services'
 secondary_keywords:
-- Portable ultrasound scanner price in Kenya
-- Dental X-ray machine for sale in Eldoret
-- MRI coil repair services in Kenya
-- 5-part hematology analyzer cost in Mombasa
-- Digital microscope with camera for sale
+- 'Portable ultrasound scanner price in Kenya'
+- 'Dental X-ray machine for sale in Eldoret'
+- 'MRI coil repair services in Kenya'
+- '5-part hematology analyzer cost in Mombasa'
+- 'Digital microscope with camera for sale'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

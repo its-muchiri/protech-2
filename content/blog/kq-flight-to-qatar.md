@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight to Qatar: Complete Guide'
-description: Everything you need to know about kq flight to qatar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight to qatar, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-to-qatar
-primary_keyword: kq flight to qatar
+primary_keyword: 'kq flight to qatar'
 secondary_keywords:
-- flights from kenya to italy
-- cheap flights from johannesburg to nairobi kenya
-- flights from kuala lumpur to nairobi kenya
-- flights to kenya from lax
-- mauritius flights from kenya
+- 'flights from kenya to italy'
+- 'cheap flights from johannesburg to nairobi kenya'
+- 'flights from kuala lumpur to nairobi kenya'
+- 'flights to kenya from lax'
+- 'mauritius flights from kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

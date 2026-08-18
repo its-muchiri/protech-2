@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nigeria to Kenya Is How Much: Complete Guide'
-description: Everything you need to know about flights from nigeria to kenya is how much, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nigeria to kenya is how much, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nigeria-to-kenya-is-how-much
-primary_keyword: flights from nigeria to kenya is how much
+primary_keyword: 'flights from nigeria to kenya is how much'
 secondary_keywords:
-- flight from nairobi to kisumu price
-- flight 540 nairobi to mombasa
-- has ba65 flight from london from nairobi departed
-- how do i contact turkish airlines
-- does turkish airlines allow pets in business class
+- 'flight from nairobi to kisumu price'
+- 'flight 540 nairobi to mombasa'
+- 'has ba65 flight from london from nairobi departed'
+- 'how do i contact turkish airlines'
+- 'does turkish airlines allow pets in business class'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

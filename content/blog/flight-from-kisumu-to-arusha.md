@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kisumu to Arusha: Complete Guide'
-description: Everything you need to know about flight from kisumu to arusha, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kisumu to arusha, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kisumu-to-arusha
-primary_keyword: flight from kisumu to arusha
+primary_keyword: 'flight from kisumu to arusha'
 secondary_keywords:
-- kq flight from lagos to nairobi today
-- kq flight from new york to nairobi today
-- kq flight from nairobi to juba
-- kq direct flight from nairobi to new york
-- kenya airways flight from nairobi to heathrow today
+- 'kq flight from lagos to nairobi today'
+- 'kq flight from new york to nairobi today'
+- 'kq flight from nairobi to juba'
+- 'kq direct flight from nairobi to new york'
+- 'kenya airways flight from nairobi to heathrow today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

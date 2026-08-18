@@ -1,14 +1,14 @@
 ---
 title: 'British Airways Flights from Nairobi to London Today: Complete Guide'
-description: Everything you need to know about british airways flights from nairobi to london today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about british airways flights from nairobi to london today, including routes, airlines, booking tips, and fares.'
 slug: british-airways-flights-from-nairobi-to-london-today
-primary_keyword: british airways flights from nairobi to london today
+primary_keyword: 'british airways flights from nairobi to london today'
 secondary_keywords:
-- flights to kenya delta
-- flights to kenya from johannesburg
-- international flights in kenya
-- flights leaving kenya today
-- flights to kenya news
+- 'flights to kenya delta'
+- 'flights to kenya from johannesburg'
+- 'international flights in kenya'
+- 'flights leaving kenya today'
+- 'flights to kenya news'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

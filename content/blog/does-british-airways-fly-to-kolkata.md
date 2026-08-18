@@ -1,14 +1,14 @@
 ---
 title: 'Does British Airways Fly to Kolkata: Complete Guide'
-description: Everything you need to know about does british airways fly to kolkata, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about does british airways fly to kolkata, including routes, airlines, booking tips, and fares.'
 slug: does-british-airways-fly-to-kolkata
-primary_keyword: does british airways fly to kolkata
+primary_keyword: 'does british airways fly to kolkata'
 secondary_keywords:
-- jambojet flights from nairobi to mombasa
-- flights from nairobi to london today
-- flights from nairobi to mumbai
-- flights from nairobi to nakuru
-- flights from nairobi to orlando
+- 'jambojet flights from nairobi to mombasa'
+- 'flights from nairobi to london today'
+- 'flights from nairobi to mumbai'
+- 'flights from nairobi to nakuru'
+- 'flights from nairobi to orlando'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

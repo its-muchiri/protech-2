@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to New York: Complete Guide'
-description: Everything you need to know about flights from nairobi to new york, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to new york, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-new-york
-primary_keyword: flights from nairobi to new york
+primary_keyword: 'flights from nairobi to new york'
 secondary_keywords:
-- flights from nairobi to dallas texas
-- emirates flights from nairobi to dubai
-- fly540 flights from kisumu to nairobi
-- flights from nairobi to masai mara game reserve
-- flights from harare to nairobi
+- 'flights from nairobi to dallas texas'
+- 'emirates flights from nairobi to dubai'
+- 'fly540 flights from kisumu to nairobi'
+- 'flights from nairobi to masai mara game reserve'
+- 'flights from harare to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

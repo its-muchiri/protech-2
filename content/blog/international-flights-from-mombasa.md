@@ -1,14 +1,14 @@
 ---
 title: 'International Flights from Mombasa: Complete Guide'
-description: Everything you need to know about international flights from mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about international flights from mombasa, including routes, airlines, booking tips, and fares.'
 slug: international-flights-from-mombasa
-primary_keyword: international flights from mombasa
+primary_keyword: 'international flights from mombasa'
 secondary_keywords:
-- flights from kenya to portugal
-- flights to poland from kenya
-- flights from kenya to rome
-- flights from kenya to swaziland
-- flights from kenya to uk
+- 'flights from kenya to portugal'
+- 'flights to poland from kenya'
+- 'flights from kenya to rome'
+- 'flights from kenya to swaziland'
+- 'flights from kenya to uk'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

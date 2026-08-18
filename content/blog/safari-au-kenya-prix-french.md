@@ -1,14 +1,14 @@
 ---
 title: 'Safari Au Kenya Prix (French): Complete Guide'
-description: Kenya safari guide covering safari au kenya prix (french), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering safari au kenya prix (french), including what is included, pricing, and booking advice.'
 slug: safari-au-kenya-prix-french
-primary_keyword: Safari au Kenya prix (French)
+primary_keyword: 'Safari au Kenya prix (French)'
 secondary_keywords:
-- Reserve Mount Kenya Sirimon route climb and safari package Europe group departure dates
-- Find Kenya safari planning expert consultation online UK service fee quote
-- Find vegan meal options Kenya safari lodge booking Europe dietary requirements communication needed
-- Book rock climbing Hell''s Gate safari add-on Kenya UK adventure gear included cost
-- Purchase Kenya coffee plantation tour Kiambu safari add-on Europe farm stay booking
+- 'Reserve Mount Kenya Sirimon route climb and safari package Europe group departure dates'
+- 'Find Kenya safari planning expert consultation online UK service fee quote'
+- 'Find vegan meal options Kenya safari lodge booking Europe dietary requirements communication needed'
+- 'Book rock climbing Hell''''s Gate safari add-on Kenya UK adventure gear included cost'
+- 'Purchase Kenya coffee plantation tour Kiambu safari add-on Europe farm stay booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

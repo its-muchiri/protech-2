@@ -1,14 +1,14 @@
 ---
 title: 'Purchase Budget Kenya Safari Tour Europe Best Price: Complete Guide'
-description: Kenya safari guide covering purchase budget kenya safari tour europe best price, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase budget kenya safari tour europe best price, including what is included, pricing, and booking advice.'
 slug: purchase-budget-kenya-safari-tour-europe-best-price
-primary_keyword: Purchase budget Kenya safari tour Europe best price
+primary_keyword: 'Purchase budget Kenya safari tour Europe best price'
 secondary_keywords:
-- Purchase 8 day private photographic Samburu tour
-- Samburu safari package budget enquiry
-- Family friendly Kenya safari tour rates
-- Kenya wildlife safari offers
-- 4 day Masai Mara tour last minute offer
+- 'Purchase 8 day private photographic Samburu tour'
+- 'Samburu safari package budget enquiry'
+- 'Family friendly Kenya safari tour rates'
+- 'Kenya wildlife safari offers'
+- '4 day Masai Mara tour last minute offer'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

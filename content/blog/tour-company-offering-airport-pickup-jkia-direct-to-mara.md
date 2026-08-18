@@ -1,14 +1,14 @@
 ---
 title: 'Tour Company Offering Airport Pickup JKIA Direct to Mara: Complete Guide'
-description: Kenya safari guide covering tour company offering airport pickup jkia direct to mara, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering tour company offering airport pickup jkia direct to mara, including what is included, pricing, and booking advice.'
 slug: tour-company-offering-airport-pickup-jkia-direct-to-mara
-primary_keyword: Tour company offering airport pickup JKIA direct to Mara
+primary_keyword: 'Tour company offering airport pickup JKIA direct to Mara'
 secondary_keywords:
-- Tailor-made Kenya safari
-- Camel safari Kenya
-- 8 day Kenya safari
-- Kenya safari offers
-- Kenya tented camps
+- 'Tailor-made Kenya safari'
+- 'Camel safari Kenya'
+- '8 day Kenya safari'
+- 'Kenya safari offers'
+- 'Kenya tented camps'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

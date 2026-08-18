@@ -1,14 +1,14 @@
 ---
 title: 'Best Rated Small Group Kenya Safari Tours Europe Value: Complete Guide'
-description: Kenya safari guide covering best rated small group kenya safari tours europe value, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering best rated small group kenya safari tours europe value, including what is included, pricing, and booking advice.'
 slug: best-rated-small-group-kenya-safari-tours-europe-value
-primary_keyword: Best rated small group Kenya safari tours Europe value
+primary_keyword: 'Best rated small group Kenya safari tours Europe value'
 secondary_keywords:
-- Samburu safari operator quote
-- (Continue generating variations by combining elements like Duration + Location + Type + Intent Word)
-- Reserve 8 day Kenya birding package specialist guide
-- Cost of 5 day Samburu Intrepids family package
-- Buy 9 day Kenya family adventure lodge safari package
+- 'Samburu safari operator quote'
+- '(Continue generating variations by combining elements like Duration + Location + Type + Intent Word)'
+- 'Reserve 8 day Kenya birding package specialist guide'
+- 'Cost of 5 day Samburu Intrepids family package'
+- 'Buy 9 day Kenya family adventure lodge safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

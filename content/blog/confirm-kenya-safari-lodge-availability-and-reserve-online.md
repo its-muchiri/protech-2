@@ -1,14 +1,14 @@
 ---
 title: 'Confirm Kenya Safari Lodge Availability and Reserve Online: Complete Guide'
-description: Kenya safari guide covering confirm kenya safari lodge availability and reserve online, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering confirm kenya safari lodge availability and reserve online, including what is included, pricing, and booking advice.'
 slug: confirm-kenya-safari-lodge-availability-and-reserve-online
-primary_keyword: Confirm Kenya safari lodge availability and reserve online
+primary_keyword: 'Confirm Kenya safari lodge availability and reserve online'
 secondary_keywords:
-- Kenya safari package quote request
-- Aberdares treetop lodge package rates
-- Luxury tented camp safari cost estimate
-- Early bird booking Kenya safari discount
-- 8 day Kenya discovery package deals online
+- 'Kenya safari package quote request'
+- 'Aberdares treetop lodge package rates'
+- 'Luxury tented camp safari cost estimate'
+- 'Early bird booking Kenya safari discount'
+- '8 day Kenya discovery package deals online'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

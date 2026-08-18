@@ -1,14 +1,14 @@
 ---
 title: 'Purchase Kenya Honeymoon Safari Package Online: Complete Guide'
-description: Kenya safari guide covering purchase kenya honeymoon safari package online, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase kenya honeymoon safari package online, including what is included, pricing, and booking advice.'
 slug: purchase-kenya-honeymoon-safari-package-online
-primary_keyword: Purchase Kenya honeymoon safari package online
+primary_keyword: 'Purchase Kenya honeymoon safari package online'
 secondary_keywords:
-- Secure fly-in Kenya safari package purchase
-- Kenya safari holiday rates enquiry
-- 5 day Amboseli Tsavo combo package rates
-- Cost estimate 10 day budget Kenya Tanzania camping safari
-- Amboseli tour package offers last minute
+- 'Secure fly-in Kenya safari package purchase'
+- 'Kenya safari holiday rates enquiry'
+- '5 day Amboseli Tsavo combo package rates'
+- 'Cost estimate 10 day budget Kenya Tanzania camping safari'
+- 'Amboseli tour package offers last minute'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

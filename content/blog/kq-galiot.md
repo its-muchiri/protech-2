@@ -1,14 +1,14 @@
 ---
 title: 'Kq Galiot: Complete Guide'
-description: Everything you need to know about kq galiot, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq galiot, including routes, airlines, booking tips, and fares.'
 slug: kq-galiot
-primary_keyword: kq galiot
+primary_keyword: 'kq galiot'
 secondary_keywords:
-- flight from mombasa to china
-- flights from mombasa to durban
-- flights from mombasa to frankfurt germany
-- flights from mombasa to london heathrow
-- flight from nairobi to mombasa is how much
+- 'flight from mombasa to china'
+- 'flights from mombasa to durban'
+- 'flights from mombasa to frankfurt germany'
+- 'flights from mombasa to london heathrow'
+- 'flight from nairobi to mombasa is how much'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

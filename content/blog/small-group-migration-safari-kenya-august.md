@@ -1,14 +1,14 @@
 ---
 title: 'Small Group Migration Safari Kenya August: Complete Guide'
-description: Kenya safari guide covering small group migration safari kenya august, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering small group migration safari kenya august, including what is included, pricing, and booking advice.'
 slug: small-group-migration-safari-kenya-august
-primary_keyword: Small group migration safari Kenya August
+primary_keyword: 'Small group migration safari Kenya August'
 secondary_keywords:
-- Buy 3 get 1 free Kenya safari package deal (hypothetical offer search)
-- Purchase upgrade Kenya safari package private jeep
-- Secure 5 day Kilaguni Serena Tsavo package booking
-- Buy 6 day Great Plains Conservation Kenya package Mara
-- Quote wedding safari package Kenya elopement
+- 'Buy 3 get 1 free Kenya safari package deal (hypothetical offer search)'
+- 'Purchase upgrade Kenya safari package private jeep'
+- 'Secure 5 day Kilaguni Serena Tsavo package booking'
+- 'Buy 6 day Great Plains Conservation Kenya package Mara'
+- 'Quote wedding safari package Kenya elopement'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

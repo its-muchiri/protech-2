@@ -1,14 +1,14 @@
 ---
 title: 'Cost of Flight from Nairobi to Mombasa: Complete Guide'
-description: Everything you need to know about cost of flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cost of flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.'
 slug: cost-of-flight-from-nairobi-to-mombasa
-primary_keyword: cost of flight from nairobi to mombasa
+primary_keyword: 'cost of flight from nairobi to mombasa'
 secondary_keywords:
-- flights from kisumu
-- does british airways fly to kolkata
-- flights from kisumu to entebbe
-- flights kisumu kenya to mombasa kenya
-- flights from kisumu to masai mara
+- 'flights from kisumu'
+- 'does british airways fly to kolkata'
+- 'flights from kisumu to entebbe'
+- 'flights kisumu kenya to mombasa kenya'
+- 'flights from kisumu to masai mara'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

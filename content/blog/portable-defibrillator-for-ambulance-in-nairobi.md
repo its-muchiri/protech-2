@@ -1,14 +1,14 @@
 ---
 title: 'Portable Defibrillator for Ambulance in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to portable defibrillator for ambulance in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to portable defibrillator for ambulance in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: portable-defibrillator-for-ambulance-in-nairobi
-primary_keyword: Portable defibrillator for ambulance in Nairobi
+primary_keyword: 'Portable defibrillator for ambulance in Nairobi'
 secondary_keywords:
-- gauze rolls Kenya sterile
-- hand wash medical Kenya
-- specimen collection containers Kenya
-- sterile dressing kits Kenya
-- pharmaceutical supplies Kenya
+- 'gauze rolls Kenya sterile'
+- 'hand wash medical Kenya'
+- 'specimen collection containers Kenya'
+- 'sterile dressing kits Kenya'
+- 'pharmaceutical supplies Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

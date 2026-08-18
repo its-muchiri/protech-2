@@ -1,14 +1,14 @@
 ---
 title: 'Wheelchair Accessible Amboseli Safari Tour: Complete Guide'
-description: Kenya safari guide covering wheelchair accessible amboseli safari tour, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering wheelchair accessible amboseli safari tour, including what is included, pricing, and booking advice.'
 slug: wheelchair-accessible-amboseli-safari-tour
-primary_keyword: Wheelchair accessible Amboseli safari tour
+primary_keyword: 'Wheelchair accessible Amboseli safari tour'
 secondary_keywords:
-- Diani Beach kitesurfing schools/tour packages
-- Camel safari Samburu tour companies
-- Budget & Price Related Searches
-- Tour companies in Thika town
-- Open-roof safari vehicle tour operators Kenya
+- 'Diani Beach kitesurfing schools/tour packages'
+- 'Camel safari Samburu tour companies'
+- 'Budget & Price Related Searches'
+- 'Tour companies in Thika town'
+- 'Open-roof safari vehicle tour operators Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Digital Detox Safari Kenya: Complete Guide'
-description: Kenya safari guide covering digital detox safari kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering digital detox safari kenya, including what is included, pricing, and booking advice.'
 slug: digital-detox-safari-kenya
-primary_keyword: Digital detox safari Kenya
+primary_keyword: 'Digital detox safari Kenya'
 secondary_keywords:
-- Reserve now pay later Kenya safari package (if offered)
-- (Continuing with more diverse high-intent combinations)
-- Get quote 7 day Loisaba Tented Camp Laikipia package
-- Buy 13 day comprehensive Kenya safari tour package
-- Price check and book Kenya safari package
+- 'Reserve now pay later Kenya safari package (if offered)'
+- '(Continuing with more diverse high-intent combinations)'
+- 'Get quote 7 day Loisaba Tented Camp Laikipia package'
+- 'Buy 13 day comprehensive Kenya safari tour package'
+- 'Price check and book Kenya safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

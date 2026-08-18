@@ -1,14 +1,14 @@
 ---
 title: 'Kenia Reisen Safari (German): Complete Guide'
-description: Kenya safari guide covering kenia reisen safari (german), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenia reisen safari (german), including what is included, pricing, and booking advice.'
 slug: kenia-reisen-safari-german
-primary_keyword: Kenia reisen safari (German)
+primary_keyword: 'Kenia reisen safari (German)'
 secondary_keywords:
-- Book Lake Nakuru flamingo safari trip online Europe
-- All-inclusive Kenya safari packages price comparison
-- Kenya safari Christmas deals 2025 UK
-- Kenya fly-in safari packages price comparison UK
-- Tsavo East & West safari tour booking Europe red elephants
+- 'Book Lake Nakuru flamingo safari trip online Europe'
+- 'All-inclusive Kenya safari packages price comparison'
+- 'Kenya safari Christmas deals 2025 UK'
+- 'Kenya fly-in safari packages price comparison UK'
+- 'Tsavo East & West safari tour booking Europe red elephants'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

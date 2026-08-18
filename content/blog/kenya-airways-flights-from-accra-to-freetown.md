@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights from Accra to Freetown: Complete Guide'
-description: Everything you need to know about kenya airways flights from accra to freetown, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights from accra to freetown, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-from-accra-to-freetown
-primary_keyword: kenya airways flights from accra to freetown
+primary_keyword: 'kenya airways flights from accra to freetown'
 secondary_keywords:
-- air arabia flights from nairobi to ahmedabad
-- ba flights from nairobi
-- cheap flights from nairobi to kisumu
-- flights from nairobi to eldoret
-- emirates flights from nairobi to dubai today
+- 'air arabia flights from nairobi to ahmedabad'
+- 'ba flights from nairobi'
+- 'cheap flights from nairobi to kisumu'
+- 'flights from nairobi to eldoret'
+- 'emirates flights from nairobi to dubai today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

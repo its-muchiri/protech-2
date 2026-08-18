@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways from Nairobi to Usa: Complete Guide'
-description: Everything you need to know about qatar airways from nairobi to usa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways from nairobi to usa, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-from-nairobi-to-usa
-primary_keyword: qatar airways from nairobi to usa
+primary_keyword: 'qatar airways from nairobi to usa'
 secondary_keywords:
-- kenya airways flight schedule to freetown from nairobi
-- kenya airways flight from nairobi to kampala ticket price
-- kenya airways flight from mauritius to nairobi today
-- kenya airways flight schedule from dubai to nairobi
-- flight from nairobi to south africa
+- 'kenya airways flight schedule to freetown from nairobi'
+- 'kenya airways flight from nairobi to kampala ticket price'
+- 'kenya airways flight from mauritius to nairobi today'
+- 'kenya airways flight schedule from dubai to nairobi'
+- 'flight from nairobi to south africa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

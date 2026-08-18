@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Airport Contact Number: Complete Guide'
-description: Everything you need to know about turkish airlines airport contact number, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines airport contact number, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-airport-contact-number
-primary_keyword: turkish airlines airport contact number
+primary_keyword: 'turkish airlines airport contact number'
 secondary_keywords:
-- seychelles flight from nairobi
-- flight from nairobi to uk
-- klm flight from nairobi to vancouver
-- flight from nairobi to los angeles
-- flight time from nairobi to zanzibar
+- 'seychelles flight from nairobi'
+- 'flight from nairobi to uk'
+- 'klm flight from nairobi to vancouver'
+- 'flight from nairobi to los angeles'
+- 'flight time from nairobi to zanzibar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

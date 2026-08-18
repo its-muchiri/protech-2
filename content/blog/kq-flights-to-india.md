@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to India: Complete Guide'
-description: Everything you need to know about kq flights to india, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to india, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-india
-primary_keyword: kq flights to india
+primary_keyword: 'kq flights to india'
 secondary_keywords:
-- flight from nairobi to portugal
-- flight from nairobi to romania
-- flight from nairobi to seattle
-- the cheapest flight from nairobi to doha
-- flight from nairobi to vancouver
+- 'flight from nairobi to portugal'
+- 'flight from nairobi to romania'
+- 'flight from nairobi to seattle'
+- 'the cheapest flight from nairobi to doha'
+- 'flight from nairobi to vancouver'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

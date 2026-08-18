@@ -1,14 +1,14 @@
 ---
 title: 'Book Kenya Safari Online: Complete Guide'
-description: Kenya safari guide covering book kenya safari online, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book kenya safari online, including what is included, pricing, and booking advice.'
 slug: book-kenya-safari-online
-primary_keyword: Book Kenya safari online
+primary_keyword: 'Book Kenya safari online'
 secondary_keywords:
-- Masai Mara balloon safari
-- Big Five safari Kenya
-- Rare animals Kenya safari
-- Drive Nairobi to Amboseli safari
-- Kenya safari in January
+- 'Masai Mara balloon safari'
+- 'Big Five safari Kenya'
+- 'Rare animals Kenya safari'
+- 'Drive Nairobi to Amboseli safari'
+- 'Kenya safari in January'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

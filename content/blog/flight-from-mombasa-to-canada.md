@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Mombasa to Canada: Complete Guide'
-description: Everything you need to know about flight from mombasa to canada, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from mombasa to canada, including routes, airlines, booking tips, and fares.'
 slug: flight-from-mombasa-to-canada
-primary_keyword: flight from mombasa to canada
+primary_keyword: 'flight from mombasa to canada'
 secondary_keywords:
-- flights from nairobi to singapore
-- flights from nairobi to uganda
-- flights from nairobi to valencia
-- watamu flights from nairobi
-- flights from nairobi to zanzibar today
+- 'flights from nairobi to singapore'
+- 'flights from nairobi to uganda'
+- 'flights from nairobi to valencia'
+- 'watamu flights from nairobi'
+- 'flights from nairobi to zanzibar today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

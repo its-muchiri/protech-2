@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kenya to Kampala: Complete Guide'
-description: Everything you need to know about flight from kenya to kampala, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kenya to kampala, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kenya-to-kampala
-primary_keyword: flight from kenya to kampala
+primary_keyword: 'flight from kenya to kampala'
 secondary_keywords:
-- flights nairobi to diani beach
-- etihad flights nairobi to abu dhabi
-- flights nairobi to ghana
-- flights nairobi to hong kong
-- nairobi to italy flights
+- 'flights nairobi to diani beach'
+- 'etihad flights nairobi to abu dhabi'
+- 'flights nairobi to ghana'
+- 'flights nairobi to hong kong'
+- 'nairobi to italy flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

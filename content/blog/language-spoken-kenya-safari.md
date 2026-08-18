@@ -1,14 +1,14 @@
 ---
 title: 'Language Spoken Kenya Safari: Complete Guide'
-description: Kenya safari guide covering language spoken kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering language spoken kenya safari, including what is included, pricing, and booking advice.'
 slug: language-spoken-kenya-safari
-primary_keyword: Language spoken Kenya safari
+primary_keyword: 'Language spoken Kenya safari'
 secondary_keywords:
-- Average cost Kenya safari
-- Best safari lodges Kenya
-- Safari camp with pool Kenya
-- Sundowners Kenya safari
-- Flamingo safari Lake Nakuru
+- 'Average cost Kenya safari'
+- 'Best safari lodges Kenya'
+- 'Safari camp with pool Kenya'
+- 'Sundowners Kenya safari'
+- 'Flamingo safari Lake Nakuru'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

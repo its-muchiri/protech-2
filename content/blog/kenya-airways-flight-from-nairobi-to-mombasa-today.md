@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from Nairobi to Mombasa Today: Complete Guide'
-description: Everything you need to know about kenya airways flight from nairobi to mombasa today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from nairobi to mombasa today, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-nairobi-to-mombasa-today
-primary_keyword: kenya airways flight from nairobi to mombasa today
+primary_keyword: 'kenya airways flight from nairobi to mombasa today'
 secondary_keywords:
-- morocco flights from kenya
-- flights from cape town to nairobi kenya
-- flights from okc to nairobi kenya
-- flights to dubai from kenya price
-- does kenya airways fly to canada
+- 'morocco flights from kenya'
+- 'flights from cape town to nairobi kenya'
+- 'flights from okc to nairobi kenya'
+- 'flights to dubai from kenya price'
+- 'does kenya airways fly to canada'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

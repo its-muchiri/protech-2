@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Nairobi to Johannesburg Price: Complete Guide'
-description: Everything you need to know about ethiopian airlines nairobi to johannesburg price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines nairobi to johannesburg price, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-nairobi-to-johannesburg-price
-primary_keyword: ethiopian airlines nairobi to johannesburg price
+primary_keyword: 'ethiopian airlines nairobi to johannesburg price'
 secondary_keywords:
-- kq flight nairobi to new york
-- kq flight rates
-- kq flights to senegal
-- kq flights from nairobi to london
-- kq flight 100
+- 'kq flight nairobi to new york'
+- 'kq flight rates'
+- 'kq flights to senegal'
+- 'kq flights from nairobi to london'
+- 'kq flight 100'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

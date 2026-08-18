@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Offices in Nairobi Location: Complete Guide'
-description: Everything you need to know about ethiopian airlines offices in nairobi location, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines offices in nairobi location, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-offices-in-nairobi-location
-primary_keyword: ethiopian airlines offices in nairobi location
+primary_keyword: 'ethiopian airlines offices in nairobi location'
 secondary_keywords:
-- safarilink flights from nairobi to eldoret
-- flight from nairobi to united kingdom
-- flights from nairobi wilson to mombasa
-- cheap flights from nairobi to south africa
-- cheap flights from nairobi to europe
+- 'safarilink flights from nairobi to eldoret'
+- 'flight from nairobi to united kingdom'
+- 'flights from nairobi wilson to mombasa'
+- 'cheap flights from nairobi to south africa'
+- 'cheap flights from nairobi to europe'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: '540 Flight from Nairobi to Malindi: Complete Guide'
-description: Everything you need to know about 540 flight from nairobi to malindi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about 540 flight from nairobi to malindi, including routes, airlines, booking tips, and fares.'
 slug: 540-flight-from-nairobi-to-malindi
-primary_keyword: 540 flight from nairobi to malindi
+primary_keyword: '540 flight from nairobi to malindi'
 secondary_keywords:
-- uganda airlines flights from nairobi to entebbe today
-- flights from nairobi wilson to diani beach
-- cheap flights from nairobi to amsterdam
-- cheap flights from nairobi to australia
-- flights from nairobi to kenya
+- 'uganda airlines flights from nairobi to entebbe today'
+- 'flights from nairobi wilson to diani beach'
+- 'cheap flights from nairobi to amsterdam'
+- 'cheap flights from nairobi to australia'
+- 'flights from nairobi to kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

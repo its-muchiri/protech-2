@@ -1,14 +1,14 @@
 ---
 title: 'Neonatal Phototherapy Unit for Sale: 2026 Price Guide'
-description: Kenya buying guide to neonatal phototherapy unit for sale. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to neonatal phototherapy unit for sale. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: neonatal-phototherapy-unit-for-sale
-primary_keyword: Neonatal phototherapy unit for sale
+primary_keyword: 'Neonatal phototherapy unit for sale'
 secondary_keywords:
-- medical equipment prices Kenya
-- medical equipment for sale Kenya
-- elastic bandages Kenya price
-- Dettol Kenya price
-- test tubes Kenya wholesale
+- 'medical equipment prices Kenya'
+- 'medical equipment for sale Kenya'
+- 'elastic bandages Kenya price'
+- 'Dettol Kenya price'
+- 'test tubes Kenya wholesale'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

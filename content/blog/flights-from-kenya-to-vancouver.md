@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Vancouver: Complete Guide'
-description: Everything you need to know about flights from kenya to vancouver, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to vancouver, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-vancouver
-primary_keyword: flights from kenya to vancouver
+primary_keyword: 'flights from kenya to vancouver'
 secondary_keywords:
-- flights from nairobi to dubai
-- flights from nairobi to edinburgh
-- cheap flights from nairobi to frankfurt germany
-- flights from nairobi to galkayo
-- homa bay flights from nairobi
+- 'flights from nairobi to dubai'
+- 'flights from nairobi to edinburgh'
+- 'cheap flights from nairobi to frankfurt germany'
+- 'flights from nairobi to galkayo'
+- 'homa bay flights from nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is Emirates Ticket from Dubai to Kenya: Complete Guide'
-description: Everything you need to know about how much is emirates ticket from dubai to kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is emirates ticket from dubai to kenya, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-emirates-ticket-from-dubai-to-kenya
-primary_keyword: how much is emirates ticket from dubai to kenya
+primary_keyword: 'how much is emirates ticket from dubai to kenya'
 secondary_keywords:
-- egypt flights from kenya
-- flights from frankfurt to kenya
-- germany flights from kenya
-- flight from kenya to hungary price
-- flights from nigeria to kenya is how much
+- 'egypt flights from kenya'
+- 'flights from frankfurt to kenya'
+- 'germany flights from kenya'
+- 'flight from kenya to hungary price'
+- 'flights from nigeria to kenya is how much'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

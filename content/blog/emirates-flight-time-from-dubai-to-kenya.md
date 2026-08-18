@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight Time from Dubai to Kenya: Complete Guide'
-description: Everything you need to know about emirates flight time from dubai to kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight time from dubai to kenya, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-time-from-dubai-to-kenya
-primary_keyword: emirates flight time from dubai to kenya
+primary_keyword: 'emirates flight time from dubai to kenya'
 secondary_keywords:
-- flights from nairobi to zurich
-- flights to zanzibar from nairobi precision air
-- cheap flights from nairobi to mombasa
-- cheap flights from nairobi to kinshasa
-- flight from mombasa to saudi arabia
+- 'flights from nairobi to zurich'
+- 'flights to zanzibar from nairobi precision air'
+- 'cheap flights from nairobi to mombasa'
+- 'cheap flights from nairobi to kinshasa'
+- 'flight from mombasa to saudi arabia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

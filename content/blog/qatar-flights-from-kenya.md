@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Flights from Kenya: Complete Guide'
-description: Everything you need to know about qatar flights from kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar flights from kenya, including routes, airlines, booking tips, and fares.'
 slug: qatar-flights-from-kenya
-primary_keyword: qatar flights from kenya
+primary_keyword: 'qatar flights from kenya'
 secondary_keywords:
-- turkish airlines flight to nairobi
-- flight ticket from kenya to nigeria
-- local flight booking in kenya
-- ticket from kenya to dubai
-- cheap local flights in kenya
+- 'turkish airlines flight to nairobi'
+- 'flight ticket from kenya to nigeria'
+- 'local flight booking in kenya'
+- 'ticket from kenya to dubai'
+- 'cheap local flights in kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

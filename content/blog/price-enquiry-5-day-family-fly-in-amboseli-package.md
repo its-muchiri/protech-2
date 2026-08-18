@@ -1,14 +1,14 @@
 ---
 title: 'Price Enquiry 5 Day Family Fly-in Amboseli Package: Complete Guide'
-description: Kenya safari guide covering price enquiry 5 day family fly-in amboseli package, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering price enquiry 5 day family fly-in amboseli package, including what is included, pricing, and booking advice.'
 slug: price-enquiry-5-day-family-fly-in-amboseli-package
-primary_keyword: Price enquiry 5 day family fly-in Amboseli package
+primary_keyword: 'Price enquiry 5 day family fly-in Amboseli package'
 secondary_keywords:
-- Tour operators specializing in bird photography Kenya
-- Small group Samburu safari starting Nairobi cost
-- Samburu cultural tour package reliable company
-- Buy custom Kenya safari trip
-- Purchase Kenya multi-park circuit booking
+- 'Tour operators specializing in bird photography Kenya'
+- 'Small group Samburu safari starting Nairobi cost'
+- 'Samburu cultural tour package reliable company'
+- 'Buy custom Kenya safari trip'
+- 'Purchase Kenya multi-park circuit booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

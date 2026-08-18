@@ -1,14 +1,14 @@
 ---
 title: 'Eldoret Flights from Nairobi: Complete Guide'
-description: Everything you need to know about eldoret flights from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about eldoret flights from nairobi, including routes, airlines, booking tips, and fares.'
 slug: eldoret-flights-from-nairobi
-primary_keyword: eldoret flights from nairobi
+primary_keyword: 'eldoret flights from nairobi'
 secondary_keywords:
-- how much is kq flight from nairobi to eldoret
-- kenya airways flight from nairobi to lagos today
-- kenya airways flight status
-- kenya airways flight from nairobi to mombasa
-- kenya airways flight schedule from nairobi to addis ababa today
+- 'how much is kq flight from nairobi to eldoret'
+- 'kenya airways flight from nairobi to lagos today'
+- 'kenya airways flight status'
+- 'kenya airways flight from nairobi to mombasa'
+- 'kenya airways flight schedule from nairobi to addis ababa today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

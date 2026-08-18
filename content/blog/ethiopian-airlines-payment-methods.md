@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Payment Methods: Complete Guide'
-description: Everything you need to know about ethiopian airlines payment methods, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines payment methods, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-payment-methods
-primary_keyword: ethiopian airlines payment methods
+primary_keyword: 'ethiopian airlines payment methods'
 secondary_keywords:
-- cheap flights from nairobi to kinshasa
-- flight from mombasa to saudi arabia
-- which airlines fly direct to mombasa
-- cheap flights from mombasa to kisumu
-- flights from mombasa to ethiopia
+- 'cheap flights from nairobi to kinshasa'
+- 'flight from mombasa to saudi arabia'
+- 'which airlines fly direct to mombasa'
+- 'cheap flights from mombasa to kisumu'
+- 'flights from mombasa to ethiopia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

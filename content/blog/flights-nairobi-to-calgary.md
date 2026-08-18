@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Calgary: Complete Guide'
-description: Everything you need to know about flights nairobi to calgary, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to calgary, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-calgary
-primary_keyword: flights nairobi to calgary
+primary_keyword: 'flights nairobi to calgary'
 secondary_keywords:
-- emirates flights for india
-- emirates flights from germany
-- how many emirates flights from london to dubai
-- emirates flights from israel
-- emirates flights from johannesburg
+- 'emirates flights for india'
+- 'emirates flights from germany'
+- 'how many emirates flights from london to dubai'
+- 'emirates flights from israel'
+- 'emirates flights from johannesburg'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Fetal Doppler for Sale in Mombasa: 2026 Price Guide'
-description: Kenya buying guide to fetal doppler for sale in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to fetal doppler for sale in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: fetal-doppler-for-sale-in-mombasa
-primary_keyword: Fetal doppler for sale in Mombasa
+primary_keyword: 'Fetal doppler for sale in Mombasa'
 secondary_keywords:
-- first aid supplies Kenya
-- KEMSA medical supplies list
-- face masks Kenya price
-- needles Kenya suppliers
-- disinfectants Kenya for hospitals
+- 'first aid supplies Kenya'
+- 'KEMSA medical supplies list'
+- 'face masks Kenya price'
+- 'needles Kenya suppliers'
+- 'disinfectants Kenya for hospitals'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

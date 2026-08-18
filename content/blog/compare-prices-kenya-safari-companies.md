@@ -1,14 +1,14 @@
 ---
 title: 'Compare Prices Kenya Safari Companies: Complete Guide'
-description: Kenya safari guide covering compare prices kenya safari companies, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering compare prices kenya safari companies, including what is included, pricing, and booking advice.'
 slug: compare-prices-kenya-safari-companies
-primary_keyword: Compare prices Kenya safari companies
+primary_keyword: 'Compare prices Kenya safari companies'
 secondary_keywords:
-- Kenya safari package offers
-- Kenya Uganda gorilla safari package cost
-- Budget Kenya Uganda combo tour deal
-- Book  Kenya safari package
-- Kenya safari tour cost comparison
+- 'Kenya safari package offers'
+- 'Kenya Uganda gorilla safari package cost'
+- 'Budget Kenya Uganda combo tour deal'
+- 'Book  Kenya safari package'
+- 'Kenya safari tour cost comparison'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

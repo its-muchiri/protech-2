@@ -1,14 +1,14 @@
 ---
 title: 'How Long Is the Flight from Nairobi to Dubai: Complete Guide'
-description: Everything you need to know about how long is the flight from nairobi to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how long is the flight from nairobi to dubai, including routes, airlines, booking tips, and fares.'
 slug: how-long-is-the-flight-from-nairobi-to-dubai
-primary_keyword: how long is the flight from nairobi to dubai
+primary_keyword: 'how long is the flight from nairobi to dubai'
 secondary_keywords:
-- flight from nairobi to wajir
-- flight from nairobi to new york today
-- how much is flight from nairobi to zanzibar today
-- flight 540 nairobi to mombasa price
-- 540 flight from nairobi to lodwar ticket price
+- 'flight from nairobi to wajir'
+- 'flight from nairobi to new york today'
+- 'how much is flight from nairobi to zanzibar today'
+- 'flight 540 nairobi to mombasa price'
+- '540 flight from nairobi to lodwar ticket price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

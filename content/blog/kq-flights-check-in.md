@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights Check in: Complete Guide'
-description: Everything you need to know about kq flights check in, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights check in, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-check-in
-primary_keyword: kq flights check in
+primary_keyword: 'kq flights check in'
 secondary_keywords:
-- cheap flights from nairobi to rome italy
-- flights from kisumu to nairobi
-- flights to nairobi from uk
-- flights from nairobi wilson to lamu
-- flights from nairobi to new york city
+- 'cheap flights from nairobi to rome italy'
+- 'flights from kisumu to nairobi'
+- 'flights to nairobi from uk'
+- 'flights from nairobi wilson to lamu'
+- 'flights from nairobi to new york city'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

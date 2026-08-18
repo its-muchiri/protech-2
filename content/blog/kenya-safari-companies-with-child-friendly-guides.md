@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Companies with Child-friendly Guides: Complete Guide'
-description: Kenya safari guide covering kenya safari companies with child-friendly guides, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari companies with child-friendly guides, including what is included, pricing, and booking advice.'
 slug: kenya-safari-companies-with-child-friendly-guides
-primary_keyword: Kenya safari companies with child-friendly guides
+primary_keyword: 'Kenya safari companies with child-friendly guides'
 secondary_keywords:
-- Compare packages from Kenya safari companies
-- Payment options Kenya safari package
-- Walking safari included package Kenya buy
-- Cost of fly-in safari package
-- Reserve 5 day Lake Nakuru Aberdares package operator
+- 'Compare packages from Kenya safari companies'
+- 'Payment options Kenya safari package'
+- 'Walking safari included package Kenya buy'
+- 'Cost of fly-in safari package'
+- 'Reserve 5 day Lake Nakuru Aberdares package operator'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Laikipia Conservancy Tours Luxury: Complete Guide'
-description: Kenya safari guide covering laikipia conservancy tours luxury, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering laikipia conservancy tours luxury, including what is included, pricing, and booking advice.'
 slug: laikipia-conservancy-tours-luxury
-primary_keyword: Laikipia conservancy tours luxury
+primary_keyword: 'Laikipia conservancy tours luxury'
 secondary_keywords:
-- Gorilla trekking tours from Kenya combined Uganda / Rwanda trip
-- Tours starting from Wilson Airport Nairobi fly-in safaris
-- Purchase Kenya honeymoon safari package online
-- Kenya safari holiday offers Europe early booking
-- All-inclusive lodge safari Kenya cost per night
+- 'Gorilla trekking tours from Kenya combined Uganda / Rwanda trip'
+- 'Tours starting from Wilson Airport Nairobi fly-in safaris'
+- 'Purchase Kenya honeymoon safari package online'
+- 'Kenya safari holiday offers Europe early booking'
+- 'All-inclusive lodge safari Kenya cost per night'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

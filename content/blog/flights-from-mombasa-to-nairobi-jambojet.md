@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Nairobi Jambojet: Complete Guide'
-description: Everything you need to know about flights from mombasa to nairobi jambojet, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to nairobi jambojet, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-nairobi-jambojet
-primary_keyword: flights from mombasa to nairobi jambojet
+primary_keyword: 'flights from mombasa to nairobi jambojet'
 secondary_keywords:
-- flights from nairobi to dulles
-- emirates flights from nairobi to boston
-- flights from nairobi to kisumu from wilson airport
-- flights from nairobi to heathrow
-- flights from nairobi to italy
+- 'flights from nairobi to dulles'
+- 'emirates flights from nairobi to boston'
+- 'flights from nairobi to kisumu from wilson airport'
+- 'flights from nairobi to heathrow'
+- 'flights from nairobi to italy'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

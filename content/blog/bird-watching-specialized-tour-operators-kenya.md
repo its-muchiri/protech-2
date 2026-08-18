@@ -1,14 +1,14 @@
 ---
 title: 'Bird Watching Specialized Tour Operators Kenya: Complete Guide'
-description: Kenya safari guide covering bird watching specialized tour operators kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering bird watching specialized tour operators kenya, including what is included, pricing, and booking advice.'
 slug: bird-watching-specialized-tour-operators-kenya
-primary_keyword: Bird watching specialized tour operators Kenya
+primary_keyword: 'Bird watching specialized tour operators Kenya'
 secondary_keywords:
-- Buy multi-generational family safari package Kenya cost
-- Reserve green season Kenya photographic safari package price
-- Secure 11 day Kenya Uganda gorilla trek combo package booking
-- Buy 10 day luxury mobile camping safari package private chef included cost
-- Inbound tour operators Kenya contact list
+- 'Buy multi-generational family safari package Kenya cost'
+- 'Reserve green season Kenya photographic safari package price'
+- 'Secure 11 day Kenya Uganda gorilla trek combo package booking'
+- 'Buy 10 day luxury mobile camping safari package private chef included cost'
+- 'Inbound tour operators Kenya contact list'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

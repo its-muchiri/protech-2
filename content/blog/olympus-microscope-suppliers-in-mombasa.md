@@ -1,14 +1,14 @@
 ---
 title: 'Olympus Microscope Suppliers in Mombasa: 2026 Price Guide'
-description: Kenya buying guide to olympus microscope suppliers in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to olympus microscope suppliers in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: olympus-microscope-suppliers-in-mombasa
-primary_keyword: Olympus microscope suppliers in Mombasa
+primary_keyword: 'Olympus microscope suppliers in Mombasa'
 secondary_keywords:
-- LED operating theatre lights cost in Kisumu
-- CSSD equipment suppliers in Kenya
-- Used hospital beds for sale in Kenya
-- Gynecological examination chair for sale in Nairobi
-- 5-parameter patient monitor (ECG, NIBP, SpO2, Resp, Temp)
+- 'LED operating theatre lights cost in Kisumu'
+- 'CSSD equipment suppliers in Kenya'
+- 'Used hospital beds for sale in Kenya'
+- 'Gynecological examination chair for sale in Nairobi'
+- '5-parameter patient monitor (ECG, NIBP, SpO2, Resp, Temp)'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

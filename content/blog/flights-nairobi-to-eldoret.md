@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Eldoret: Complete Guide'
-description: Everything you need to know about flights nairobi to eldoret, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to eldoret, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-eldoret
-primary_keyword: flights nairobi to eldoret
+primary_keyword: 'flights nairobi to eldoret'
 secondary_keywords:
-- mombasa flight from nairobi
-- flight from nairobi to ottawa
-- flight from nairobi to phuket
-- return flight from nairobi to mombasa
-- flight from nairobi to somalia
+- 'mombasa flight from nairobi'
+- 'flight from nairobi to ottawa'
+- 'flight from nairobi to phuket'
+- 'return flight from nairobi to mombasa'
+- 'flight from nairobi to somalia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

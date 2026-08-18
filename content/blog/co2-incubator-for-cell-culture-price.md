@@ -1,14 +1,14 @@
 ---
 title: 'CO2 Incubator for Cell Culture Price: 2026 Price Guide'
-description: Kenya buying guide to co2 incubator for cell culture price. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to co2 incubator for cell culture price. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: co2-incubator-for-cell-culture-price
-primary_keyword: CO2 incubator for cell culture price
+primary_keyword: 'CO2 incubator for cell culture price'
 secondary_keywords:
-- Refurbished 64-slice Siemens CT scanner for sale in Nairobi
-- Portable color Doppler ultrasound scanner price
-- Dental intraoral X-ray machine cost
-- Coagulation analyzer (PT/INR) for sale in Eldoret
-- Micropipette set (variable volume) suppliers
+- 'Refurbished 64-slice Siemens CT scanner for sale in Nairobi'
+- 'Portable color Doppler ultrasound scanner price'
+- 'Dental intraoral X-ray machine cost'
+- 'Coagulation analyzer (PT/INR) for sale in Eldoret'
+- 'Micropipette set (variable volume) suppliers'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

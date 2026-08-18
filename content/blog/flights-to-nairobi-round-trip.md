@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Nairobi Round Trip: Complete Guide'
-description: Everything you need to know about flights to nairobi round trip, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to nairobi round trip, including routes, airlines, booking tips, and fares.'
 slug: flights-to-nairobi-round-trip
-primary_keyword: flights to nairobi round trip
+primary_keyword: 'flights to nairobi round trip'
 secondary_keywords:
-- kenya airways flight from nairobi to malindi
-- kq flight from nairobi to zanzibar
-- kenya airways flight schedule from accra to nairobi
-- kenya airways flight from nairobi to dubai today
-- kenya airways flights from nairobi to mombasa
+- 'kenya airways flight from nairobi to malindi'
+- 'kq flight from nairobi to zanzibar'
+- 'kenya airways flight schedule from accra to nairobi'
+- 'kenya airways flight from nairobi to dubai today'
+- 'kenya airways flights from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

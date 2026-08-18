@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines App Not Working: Complete Guide'
-description: Everything you need to know about turkish airlines app not working, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines app not working, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-app-not-working
-primary_keyword: turkish airlines app not working
+primary_keyword: 'turkish airlines app not working'
 secondary_keywords:
-- fly emirates from nairobi to dubai
-- emirates flight from riyadh to nairobi ticket price
-- emirates ek 721
-- emirates kenya contact number
-- emirates flights kenya
+- 'fly emirates from nairobi to dubai'
+- 'emirates flight from riyadh to nairobi ticket price'
+- 'emirates ek 721'
+- 'emirates kenya contact number'
+- 'emirates flights kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

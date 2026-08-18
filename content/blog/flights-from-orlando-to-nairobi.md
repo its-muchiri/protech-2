@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Orlando to Nairobi: Complete Guide'
-description: Everything you need to know about flights from orlando to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from orlando to nairobi, including routes, airlines, booking tips, and fares.'
 slug: flights-from-orlando-to-nairobi
-primary_keyword: flights from orlando to nairobi
+primary_keyword: 'flights from orlando to nairobi'
 secondary_keywords:
-- flights from burlington vt to nairobi kenya
-- flights from kenya to new york
-- cheap flights from new york to kenya
-- how much is flight from kenya to south africa
-- 748 flights to kisumu
+- 'flights from burlington vt to nairobi kenya'
+- 'flights from kenya to new york'
+- 'cheap flights from new york to kenya'
+- 'how much is flight from kenya to south africa'
+- '748 flights to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

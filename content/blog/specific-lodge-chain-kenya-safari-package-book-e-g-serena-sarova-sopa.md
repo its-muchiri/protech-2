@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Package Book (e.g., Serena, Sarova, Sopa): Complete Guide'
-description: Kenya safari guide covering  kenya safari package book (e.g., serena, sarova, sopa), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering  kenya safari package book (e.g., serena, sarova, sopa), including what is included, pricing, and booking advice.'
 slug: specific-lodge-chain-kenya-safari-package-book-e-g-serena-sarova-sopa
-primary_keyword: Kenya safari package book (e.g., Serena, Sarova, Sopa)
+primary_keyword: 'Kenya safari package book (e.g., Serena, Sarova, Sopa)'
 secondary_keywords:
-- Luxury tented camps Kenya
-- Hot air balloon safari Kenya
-- Star gazing Kenya safari
-- Best place to see  Kenya
-- Fly Nairobi to Masai Mara safari
+- 'Luxury tented camps Kenya'
+- 'Hot air balloon safari Kenya'
+- 'Star gazing Kenya safari'
+- 'Best place to see  Kenya'
+- 'Fly Nairobi to Masai Mara safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

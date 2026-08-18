@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Europe: Complete Guide'
-description: Everything you need to know about emirates flights from europe, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from europe, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-europe
-primary_keyword: emirates flights from europe
+primary_keyword: 'emirates flights from europe'
 secondary_keywords:
-- emirates flight 8
-- emirates flight 953
-- qatar airways arrival nairobi today
-- qatar airways careers nairobi cabin crew
-- qatar airways nairobi jobs
+- 'emirates flight 8'
+- 'emirates flight 953'
+- 'qatar airways arrival nairobi today'
+- 'qatar airways careers nairobi cabin crew'
+- 'qatar airways nairobi jobs'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

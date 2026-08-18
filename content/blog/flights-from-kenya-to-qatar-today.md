@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Qatar Today: Complete Guide'
-description: Everything you need to know about flights from kenya to qatar today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to qatar today, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-qatar-today
-primary_keyword: flights from kenya to qatar today
+primary_keyword: 'flights from kenya to qatar today'
 secondary_keywords:
-- flight from eldoret to zanzibar
-- kq flights to arusha
-- kq flights to bujumbura
-- kq flight crash
-- kq flight delays today
+- 'flight from eldoret to zanzibar'
+- 'kq flights to arusha'
+- 'kq flights to bujumbura'
+- 'kq flight crash'
+- 'kq flight delays today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

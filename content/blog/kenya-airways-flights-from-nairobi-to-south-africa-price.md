@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights from Nairobi to South Africa Price: Complete Guide'
-description: Everything you need to know about kenya airways flights from nairobi to south africa price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights from nairobi to south africa price, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-from-nairobi-to-south-africa-price
-primary_keyword: kenya airways flights from nairobi to south africa price
+primary_keyword: 'kenya airways flights from nairobi to south africa price'
 secondary_keywords:
-- emirates flight 368
-- emirates flight 413
-- emirates flight 606
-- emirates flight 804
-- emirates flight 980
+- 'emirates flight 368'
+- 'emirates flight 413'
+- 'emirates flight 606'
+- 'emirates flight 804'
+- 'emirates flight 980'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

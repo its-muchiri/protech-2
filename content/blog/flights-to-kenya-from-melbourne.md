@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Kenya from Melbourne: Complete Guide'
-description: Everything you need to know about flights to kenya from melbourne, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to kenya from melbourne, including routes, airlines, booking tips, and fares.'
 slug: flights-to-kenya-from-melbourne
-primary_keyword: flights to kenya from melbourne
+primary_keyword: 'flights to kenya from melbourne'
 secondary_keywords:
-- flights from kenya to philippines
-- flight from kenya to qatar time
-- flights to kenya from rdu
-- singapore flights from kenya
-- flights from kenya to usa price
+- 'flights from kenya to philippines'
+- 'flight from kenya to qatar time'
+- 'flights to kenya from rdu'
+- 'singapore flights from kenya'
+- 'flights from kenya to usa price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

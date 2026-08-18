@@ -1,14 +1,14 @@
 ---
 title: 'Singapore Flight from Nairobi: Complete Guide'
-description: Everything you need to know about singapore flight from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about singapore flight from nairobi, including routes, airlines, booking tips, and fares.'
 slug: singapore-flight-from-nairobi
-primary_keyword: singapore flight from nairobi
+primary_keyword: 'singapore flight from nairobi'
 secondary_keywords:
-- kq flight crash
-- kq flight delays today
-- kq flights to ethiopia
-- kq flight to heathrow diverted today
-- kq flights from johannesburg to nairobi
+- 'kq flight crash'
+- 'kq flight delays today'
+- 'kq flights to ethiopia'
+- 'kq flight to heathrow diverted today'
+- 'kq flights from johannesburg to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

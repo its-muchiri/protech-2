@@ -1,14 +1,14 @@
 ---
 title: 'Origin-Specific Queries (UK, USA, Europe, Germany, France, Etc.): Complete Guide'
-description: Kenya safari guide covering origin-specific queries (uk, usa, europe, germany, france, etc.), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering origin-specific queries (uk, usa, europe, germany, france, etc.), including what is included, pricing, and booking advice.'
 slug: origin-specific-queries-uk-usa-europe-germany-france-etc
-primary_keyword: Origin-Specific Queries (UK, USA, Europe, Germany, France, etc.)
+primary_keyword: 'Origin-Specific Queries (UK, USA, Europe, Germany, France, etc.)'
 secondary_keywords:
-- Short Kenya safari package (3-5 days) booking
-- Aberdares treetop lodge safari package cost
-- Book private luxury Kenya safari
-- Cost of family safari Kenya
-- Affordable Kenya safari tour deals
+- 'Short Kenya safari package (3-5 days) booking'
+- 'Aberdares treetop lodge safari package cost'
+- 'Book private luxury Kenya safari'
+- 'Cost of family safari Kenya'
+- 'Affordable Kenya safari tour deals'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

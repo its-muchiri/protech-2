@@ -1,14 +1,14 @@
 ---
 title: 'Cheapest Flight from Nairobi to Atlanta Georgia: Complete Guide'
-description: Everything you need to know about cheapest flight from nairobi to atlanta georgia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheapest flight from nairobi to atlanta georgia, including routes, airlines, booking tips, and fares.'
 slug: cheapest-flight-from-nairobi-to-atlanta-georgia
-primary_keyword: cheapest flight from nairobi to atlanta georgia
+primary_keyword: 'cheapest flight from nairobi to atlanta georgia'
 secondary_keywords:
-- ethiopian airlines flight status to nairobi
-- ethiopian airlines cargo nairobi
-- jambo jet flight from nairobi to eldoret
-- ethiopian airlines from doha to nairobi price one way ticket
-- 1 ethiopian birr to kenyan shillings
+- 'ethiopian airlines flight status to nairobi'
+- 'ethiopian airlines cargo nairobi'
+- 'jambo jet flight from nairobi to eldoret'
+- 'ethiopian airlines from doha to nairobi price one way ticket'
+- '1 ethiopian birr to kenyan shillings'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

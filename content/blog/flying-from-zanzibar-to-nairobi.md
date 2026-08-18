@@ -1,14 +1,14 @@
 ---
 title: 'Flying from Zanzibar to Nairobi: Complete Guide'
-description: Everything you need to know about flying from zanzibar to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flying from zanzibar to nairobi, including routes, airlines, booking tips, and fares.'
 slug: flying-from-zanzibar-to-nairobi
-primary_keyword: flying from zanzibar to nairobi
+primary_keyword: 'flying from zanzibar to nairobi'
 secondary_keywords:
-- kq 3 flight status
-- addis ababa to nairobi flight kenya airways
-- kq flight from dubai to nairobi today
-- flight number kenya airways
-- kenya airways flight from nairobi to london today live
+- 'kq 3 flight status'
+- 'addis ababa to nairobi flight kenya airways'
+- 'kq flight from dubai to nairobi today'
+- 'flight number kenya airways'
+- 'kenya airways flight from nairobi to london today live'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

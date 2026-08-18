@@ -1,14 +1,14 @@
 ---
 title: 'Mombasa North Coast Hotels Packages (Nyali, Bamburi): Complete Guide'
-description: Kenya safari guide covering mombasa north coast hotels packages (nyali, bamburi), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering mombasa north coast hotels packages (nyali, bamburi), including what is included, pricing, and booking advice.'
 slug: mombasa-north-coast-hotels-packages-nyali-bamburi
-primary_keyword: Mombasa North Coast hotels packages (Nyali, Bamburi)
+primary_keyword: 'Mombasa North Coast hotels packages (Nyali, Bamburi)'
 secondary_keywords:
-- Laikipia luxury holiday package reserve
-- Secure booking with best rated Kenya safari company
-- Secure Kenya tour package airport transfers included quote
-- Top rated family safari packages Kenya review buy
-- Early bird booking Kenya safari  discount quote
+- 'Laikipia luxury holiday package reserve'
+- 'Secure booking with best rated Kenya safari company'
+- 'Secure Kenya tour package airport transfers included quote'
+- 'Top rated family safari packages Kenya review buy'
+- 'Early bird booking Kenya safari  discount quote'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

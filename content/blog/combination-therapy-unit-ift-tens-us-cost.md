@@ -1,14 +1,14 @@
 ---
 title: 'Combination Therapy Unit (IFT, TENS, US) Cost: 2026 Price Guide'
-description: Kenya buying guide to combination therapy unit (ift, tens, us) cost. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to combination therapy unit (ift, tens, us) cost. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: combination-therapy-unit-ift-tens-us-cost
-primary_keyword: Combination therapy unit (IFT, TENS, US) cost
+primary_keyword: 'Combination therapy unit (IFT, TENS, US) cost'
 secondary_keywords:
-- nitrile gloves Kenya bulk
-- normal saline Kenya price
-- medical uniforms Kenya price
-- incontinence products Kenya
-- umbilical cord clamps Kenya
+- 'nitrile gloves Kenya bulk'
+- 'normal saline Kenya price'
+- 'medical uniforms Kenya price'
+- 'incontinence products Kenya'
+- 'umbilical cord clamps Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

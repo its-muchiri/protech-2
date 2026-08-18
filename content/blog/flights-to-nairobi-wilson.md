@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Nairobi Wilson: Complete Guide'
-description: Everything you need to know about flights to nairobi wilson, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to nairobi wilson, including routes, airlines, booking tips, and fares.'
 slug: flights-to-nairobi-wilson
-primary_keyword: flights to nairobi wilson
+primary_keyword: 'flights to nairobi wilson'
 secondary_keywords:
-- emirates vs
-- emirates kenya address
-- emirates flights from dubai to kenya today
-- emirates is in which country
-- emirates skycargo kenya
+- 'emirates vs'
+- 'emirates kenya address'
+- 'emirates flights from dubai to kenya today'
+- 'emirates is in which country'
+- 'emirates skycargo kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

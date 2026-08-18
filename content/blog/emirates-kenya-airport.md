@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Kenya Airport: Complete Guide'
-description: Everything you need to know about emirates kenya airport, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates kenya airport, including routes, airlines, booking tips, and fares.'
 slug: emirates-kenya-airport
-primary_keyword: emirates kenya airport
+primary_keyword: 'emirates kenya airport'
 secondary_keywords:
-- kq flights dar to nairobi
-- kq flights entebbe to nairobi
-- what airline is go to gate
-- kq flights images
-- kq kisumu flight schedule today
+- 'kq flights dar to nairobi'
+- 'kq flights entebbe to nairobi'
+- 'what airline is go to gate'
+- 'kq flights images'
+- 'kq kisumu flight schedule today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Does Turkish Airlines Fly to Morocco: Complete Guide'
-description: Everything you need to know about does turkish airlines fly to morocco, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about does turkish airlines fly to morocco, including routes, airlines, booking tips, and fares.'
 slug: does-turkish-airlines-fly-to-morocco
-primary_keyword: does turkish airlines fly to morocco
+primary_keyword: 'does turkish airlines fly to morocco'
 secondary_keywords:
-- cost of flight from nairobi to south africa
-- 540 flight from nairobi to lodwar
-- how many hours flight from nairobi to johannesburg
-- turkish airlines flights to nairobi
-- turkish airlines reference number
+- 'cost of flight from nairobi to south africa'
+- '540 flight from nairobi to lodwar'
+- 'how many hours flight from nairobi to johannesburg'
+- 'turkish airlines flights to nairobi'
+- 'turkish airlines reference number'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Masai Mara: Complete Guide'
-description: Everything you need to know about flights nairobi to masai mara, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to masai mara, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-masai-mara
-primary_keyword: flights nairobi to masai mara
+primary_keyword: 'flights nairobi to masai mara'
 secondary_keywords:
-- flights from kenya to oman
-- flights to nairobi kenya from orlando florida
-- flights from paris to nairobi kenya
-- flights from kenya to romania
-- flights from kenya to seattle
+- 'flights from kenya to oman'
+- 'flights to nairobi kenya from orlando florida'
+- 'flights from paris to nairobi kenya'
+- 'flights from kenya to romania'
+- 'flights from kenya to seattle'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

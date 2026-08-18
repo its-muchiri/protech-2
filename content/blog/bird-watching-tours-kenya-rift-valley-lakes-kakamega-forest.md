@@ -1,14 +1,14 @@
 ---
 title: 'Bird Watching Tours Kenya Rift Valley Lakes / Kakamega Forest: Complete Guide'
-description: Kenya safari guide covering bird watching tours kenya rift valley lakes / kakamega forest, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering bird watching tours kenya rift valley lakes / kakamega forest, including what is included, pricing, and booking advice.'
 slug: bird-watching-tours-kenya-rift-valley-lakes-kakamega-forest
-primary_keyword: Bird watching tours Kenya Rift Valley lakes / Kakamega Forest
+primary_keyword: 'Bird watching tours Kenya Rift Valley lakes / Kakamega Forest'
 secondary_keywords:
-- Estimate 12 day luxury tented camp migration safari
-- Meru National Park package discount booking
-- Lodge safari package Kenya deals online
-- Samburu safari bundle deal quote
-- Quote from  Kenya safari
+- 'Estimate 12 day luxury tented camp migration safari'
+- 'Meru National Park package discount booking'
+- 'Lodge safari package Kenya deals online'
+- 'Samburu safari bundle deal quote'
+- 'Quote from  Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

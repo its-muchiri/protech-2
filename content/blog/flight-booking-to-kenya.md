@@ -1,14 +1,14 @@
 ---
 title: 'Flight Booking to Kenya: Complete Guide'
-description: Everything you need to know about flight booking to kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight booking to kenya, including routes, airlines, booking tips, and fares.'
 slug: flight-booking-to-kenya
-primary_keyword: flight booking to kenya
+primary_keyword: 'flight booking to kenya'
 secondary_keywords:
-- kq 584 flight status
-- kq886 flight status
-- how many airlines fly to dubai
-- emirates airline kenya nairobi photos
-- emirates 9 west
+- 'kq 584 flight status'
+- 'kq886 flight status'
+- 'how many airlines fly to dubai'
+- 'emirates airline kenya nairobi photos'
+- 'emirates 9 west'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

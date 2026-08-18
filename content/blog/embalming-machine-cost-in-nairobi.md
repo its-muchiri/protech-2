@@ -1,14 +1,14 @@
 ---
 title: 'Embalming Machine Cost in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to embalming machine cost in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to embalming machine cost in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: embalming-machine-cost-in-nairobi
-primary_keyword: Embalming machine cost in Nairobi
+primary_keyword: 'Embalming machine cost in Nairobi'
 secondary_keywords:
-- accredited medical suppliers Kenya
-- lab test kit suppliers Kenya
-- emergency medical services (EMS) equipment Kenya
-- CT scanner installation and training costs in Kenya
-- Samsung Medison ultrasound suppliers in Mombasa
+- 'accredited medical suppliers Kenya'
+- 'lab test kit suppliers Kenya'
+- 'emergency medical services (EMS) equipment Kenya'
+- 'CT scanner installation and training costs in Kenya'
+- 'Samsung Medison ultrasound suppliers in Mombasa'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

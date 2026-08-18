@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Frankfurt Germany: Complete Guide'
-description: Everything you need to know about flights from mombasa to frankfurt germany, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to frankfurt germany, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-frankfurt-germany
-primary_keyword: flights from mombasa to frankfurt germany
+primary_keyword: 'flights from mombasa to frankfurt germany'
 secondary_keywords:
-- flights from nairobi to eldoret today
-- flights from nairobi to freetown
-- flights from nairobi to geneva
-- flights from nairobi to hamburg
-- flight from nairobi to kisumu is how much
+- 'flights from nairobi to eldoret today'
+- 'flights from nairobi to freetown'
+- 'flights from nairobi to geneva'
+- 'flights from nairobi to hamburg'
+- 'flight from nairobi to kisumu is how much'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

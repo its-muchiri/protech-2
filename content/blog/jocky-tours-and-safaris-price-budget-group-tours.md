@@ -1,14 +1,14 @@
 ---
 title: 'Jocky Tours and Safaris Price Budget Group Tours: Complete Guide'
-description: Kenya safari guide covering jocky tours and safaris price budget group tours, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering jocky tours and safaris price budget group tours, including what is included, pricing, and booking advice.'
 slug: jocky-tours-and-safaris-price-budget-group-tours
-primary_keyword: Jocky Tours and Safaris price budget group tours
+primary_keyword: 'Jocky Tours and Safaris price budget group tours'
 secondary_keywords:
-- Mount Longonot hike day tour from Nairobi fitness level required
-- Gamewatchers Safaris Porini Camps price / reviews
-- Kenya tour package cancellation policy refund options
-- Internal flights Kenya Safarilink / AirKenya schedule / price
-- Gorilla trekking tours from Kenya combined Uganda / Rwanda trip
+- 'Mount Longonot hike day tour from Nairobi fitness level required'
+- 'Gamewatchers Safaris Porini Camps price / reviews'
+- 'Kenya tour package cancellation policy refund options'
+- 'Internal flights Kenya Safarilink / AirKenya schedule / price'
+- 'Gorilla trekking tours from Kenya combined Uganda / Rwanda trip'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

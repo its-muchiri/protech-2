@@ -1,14 +1,14 @@
 ---
 title: 'Lamu Cultural Festival Dates and Tours 2025: Complete Guide'
-description: Kenya safari guide covering lamu cultural festival dates and tours 2025, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering lamu cultural festival dates and tours 2025, including what is included, pricing, and booking advice.'
 slug: lamu-cultural-festival-dates-and-tours-2025
-primary_keyword: Lamu cultural festival dates and tours 2025
+primary_keyword: 'Lamu cultural festival dates and tours 2025'
 secondary_keywords:
-- Luxury Kenya safari package quote Europe agent
-- Special offers Kenya safari tours online
-- Kenya adventure safari packages cost UK (hiking, biking)
-- Kenya coast safari (Mombasa/Diani departure) deals USA booking
-- Best Kenya safari packages for European travelers reviews
+- 'Luxury Kenya safari package quote Europe agent'
+- 'Special offers Kenya safari tours online'
+- 'Kenya adventure safari packages cost UK (hiking, biking)'
+- 'Kenya coast safari (Mombasa/Diani departure) deals USA booking'
+- 'Best Kenya safari packages for European travelers reviews'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

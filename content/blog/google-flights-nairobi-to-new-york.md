@@ -1,14 +1,14 @@
 ---
 title: 'Google Flights Nairobi to New York: Complete Guide'
-description: Everything you need to know about google flights nairobi to new york, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about google flights nairobi to new york, including routes, airlines, booking tips, and fares.'
 slug: google-flights-nairobi-to-new-york
-primary_keyword: google flights nairobi to new york
+primary_keyword: 'google flights nairobi to new york'
 secondary_keywords:
-- flights from livingstone zambia to nairobi kenya
-- kenya airways flights schedule
-- flights from nairobi to mombasa
-- air france flights from nairobi to paris
-- flights from nairobi to botswana
+- 'flights from livingstone zambia to nairobi kenya'
+- 'kenya airways flights schedule'
+- 'flights from nairobi to mombasa'
+- 'air france flights from nairobi to paris'
+- 'flights from nairobi to botswana'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

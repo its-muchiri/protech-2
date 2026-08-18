@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight Schedule from Nairobi to Addis Ababa Today: Complete Guide'
-description: Everything you need to know about kenya airways flight schedule from nairobi to addis ababa today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight schedule from nairobi to addis ababa today, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-schedule-from-nairobi-to-addis-ababa-today
-primary_keyword: kenya airways flight schedule from nairobi to addis ababa today
+primary_keyword: 'kenya airways flight schedule from nairobi to addis ababa today'
 secondary_keywords:
-- jambojet flights from nairobi to eldoret
-- kenya airways flights from nairobi to entebbe
-- cheap flights to nairobi from london
-- flights from nairobi to new york
-- flights from nairobi to abuja nigeria
+- 'jambojet flights from nairobi to eldoret'
+- 'kenya airways flights from nairobi to entebbe'
+- 'cheap flights to nairobi from london'
+- 'flights from nairobi to new york'
+- 'flights from nairobi to abuja nigeria'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

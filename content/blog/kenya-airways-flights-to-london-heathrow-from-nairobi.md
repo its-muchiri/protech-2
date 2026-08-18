@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights to London Heathrow from Nairobi: Complete Guide'
-description: Everything you need to know about kenya airways flights to london heathrow from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights to london heathrow from nairobi, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-to-london-heathrow-from-nairobi
-primary_keyword: kenya airways flights to london heathrow from nairobi
+primary_keyword: 'kenya airways flights to london heathrow from nairobi'
 secondary_keywords:
-- emirates flight 142
-- how many destinations does emirates airlines fly to
-- emirates flight schedule from dubai to nairobi
-- emirates flight 587
-- emirates flight 764 accident
+- 'emirates flight 142'
+- 'how many destinations does emirates airlines fly to'
+- 'emirates flight schedule from dubai to nairobi'
+- 'emirates flight 587'
+- 'emirates flight 764 accident'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

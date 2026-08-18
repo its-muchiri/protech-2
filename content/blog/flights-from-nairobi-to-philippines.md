@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Philippines: Complete Guide'
-description: Everything you need to know about flights from nairobi to philippines, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to philippines, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-philippines
-primary_keyword: flights from nairobi to philippines
+primary_keyword: 'flights from nairobi to philippines'
 secondary_keywords:
-- qatar airways nairobi number
-- qatar flight status nairobi to doha
-- kq flight from cape town to nairobi today
-- kq flight from entebbe
-- kenya airways flights from juba to nairobi
+- 'qatar airways nairobi number'
+- 'qatar flight status nairobi to doha'
+- 'kq flight from cape town to nairobi today'
+- 'kq flight from entebbe'
+- 'kenya airways flights from juba to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

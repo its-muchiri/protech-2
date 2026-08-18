@@ -1,14 +1,14 @@
 ---
 title: 'Patient Monitoring Devices for Home in Mombasa: 2026 Price Guide'
-description: Kenya buying guide to patient monitoring devices for home in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to patient monitoring devices for home in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: patient-monitoring-devices-for-home-in-mombasa
-primary_keyword: Patient monitoring devices for home in Mombasa
+primary_keyword: 'Patient monitoring devices for home in Mombasa'
 secondary_keywords:
-- 3.0T MRI machine cost for a hospital in Nairobi
-- Olympus endoscopy system for sale in Nairobi
-- ELISA reader and washer cost in Mombasa
-- Autoclave sterilizer price in Kenya
-- Surgical and Theatre Equipment
+- '3.0T MRI machine cost for a hospital in Nairobi'
+- 'Olympus endoscopy system for sale in Nairobi'
+- 'ELISA reader and washer cost in Mombasa'
+- 'Autoclave sterilizer price in Kenya'
+- 'Surgical and Theatre Equipment'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Remote Kenya Safari Locations: Complete Guide'
-description: Kenya safari guide covering remote kenya safari locations, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering remote kenya safari locations, including what is included, pricing, and booking advice.'
 slug: remote-kenya-safari-locations
-primary_keyword: Remote Kenya safari locations
+primary_keyword: 'Remote Kenya safari locations'
 secondary_keywords:
-- Get quote for custom Kenya safari UK specialist
-- Kenya photographic safari workshop booking UK pro guide
-- Specific Locations (Masai Mara, Amboseli, Tsavo, Samburu, Nakuru, Laikipia, etc.)
-- Aberdare National Park tree lodge safari booking UK
-- Kenya tour operators for UK market recommendations
+- 'Get quote for custom Kenya safari UK specialist'
+- 'Kenya photographic safari workshop booking UK pro guide'
+- 'Specific Locations (Masai Mara, Amboseli, Tsavo, Samburu, Nakuru, Laikipia, etc.)'
+- 'Aberdare National Park tree lodge safari booking UK'
+- 'Kenya tour operators for UK market recommendations'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

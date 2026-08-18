@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Us: Complete Guide'
-description: Everything you need to know about flights from nairobi to us, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to us, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-us
-primary_keyword: flights from nairobi to us
+primary_keyword: 'flights from nairobi to us'
 secondary_keywords:
-- emirates flight 977
-- does qatar airways fly to nairobi
-- does qatar airways fly to canada
-- qatar airways nairobi kenya
-- does qatar airways fly to toronto
+- 'emirates flight 977'
+- 'does qatar airways fly to nairobi'
+- 'does qatar airways fly to canada'
+- 'qatar airways nairobi kenya'
+- 'does qatar airways fly to toronto'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Weather: Complete Guide'
-description: Kenya safari guide covering kenya safari weather, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari weather, including what is included, pricing, and booking advice.'
 slug: kenya-safari-weather
-primary_keyword: Kenya safari weather
+primary_keyword: 'Kenya safari weather'
 secondary_keywords:
-- Buy all-inclusive fly-in safari package Lewa Conservancy Kenya Europe price list 2025
-- Purchase women-only small group Kenya safari tour UK female guide operator deals
-- Cost of single supplement waived Kenya safari tour Europe solo traveler deals dates
-- Reserve Maasai Olympics event safari tour Kenya UK cultural experience dates booking
-- Find Kenya safari tour including Nairobi craft market shopping UK souvenir buying guide
+- 'Buy all-inclusive fly-in safari package Lewa Conservancy Kenya Europe price list 2025'
+- 'Purchase women-only small group Kenya safari tour UK female guide operator deals'
+- 'Cost of single supplement waived Kenya safari tour Europe solo traveler deals dates'
+- 'Reserve Maasai Olympics event safari tour Kenya UK cultural experience dates booking'
+- 'Find Kenya safari tour including Nairobi craft market shopping UK souvenir buying guide'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

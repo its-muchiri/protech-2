@@ -1,14 +1,14 @@
 ---
 title: 'Pulse Oximeter Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to pulse oximeter price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to pulse oximeter price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: pulse-oximeter-price-in-kenya
-primary_keyword: Pulse oximeter price in Kenya
+primary_keyword: 'Pulse oximeter price in Kenya'
 secondary_keywords:
-- Mortuary trolley and body lifter
-- Medical gas manifold system suppliers
-- Regulatory requirements for medical devices in Kenya (PPB)
-- Ultrasound machine repair near me
-- Ultrasound machine price in Nakuru
+- 'Mortuary trolley and body lifter'
+- 'Medical gas manifold system suppliers'
+- 'Regulatory requirements for medical devices in Kenya (PPB)'
+- 'Ultrasound machine repair near me'
+- 'Ultrasound machine price in Nakuru'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

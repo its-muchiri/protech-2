@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Uganda: Complete Guide'
-description: Everything you need to know about flights nairobi to uganda, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to uganda, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-uganda
-primary_keyword: flights nairobi to uganda
+primary_keyword: 'flights nairobi to uganda'
 secondary_keywords:
-- cheap flights in kenya
-- flights to kenya in august
-- cargo flights in kenya
-- flights to kenya expedia
-- flights to kenya from glasgow
+- 'cheap flights in kenya'
+- 'flights to kenya in august'
+- 'cargo flights in kenya'
+- 'flights to kenya expedia'
+- 'flights to kenya from glasgow'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

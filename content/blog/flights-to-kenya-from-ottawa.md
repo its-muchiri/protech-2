@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Kenya from Ottawa: Complete Guide'
-description: Everything you need to know about flights to kenya from ottawa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to kenya from ottawa, including routes, airlines, booking tips, and fares.'
 slug: flights-to-kenya-from-ottawa
-primary_keyword: flights to kenya from ottawa
+primary_keyword: 'flights to kenya from ottawa'
 secondary_keywords:
-- flights from kenya to malta
-- kenya airways flights from usa to nairobi
-- flights from new orleans to kenya
-- cheap flights to kenya from perth
-- flights from qatar to kenya today
+- 'flights from kenya to malta'
+- 'kenya airways flights from usa to nairobi'
+- 'flights from new orleans to kenya'
+- 'cheap flights to kenya from perth'
+- 'flights from qatar to kenya today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

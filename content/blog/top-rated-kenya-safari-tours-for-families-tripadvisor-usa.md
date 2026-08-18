@@ -1,14 +1,14 @@
 ---
 title: 'Top Rated Kenya Safari Tours for Families TripAdvisor USA: Complete Guide'
-description: Kenya safari guide covering top rated kenya safari tours for families tripadvisor usa, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering top rated kenya safari tours for families tripadvisor usa, including what is included, pricing, and booking advice.'
 slug: top-rated-kenya-safari-tours-for-families-tripadvisor-usa
-primary_keyword: Top rated Kenya safari tours for families TripAdvisor USA
+primary_keyword: 'Top rated Kenya safari tours for families TripAdvisor USA'
 secondary_keywords:
-- Tsavo West National Park lodges (e.g., Kilaguni Serena, Finch Hattons) booking
-- Shimba Hills National Reserve day trip from Diani Beach
-- Self-drive safari Kenya 4x4 rental and itinerary planning
-- Luxury private villas Diani Beach rental Alfajiri Villas price
-- Samburu cultural village visit tour package
+- 'Tsavo West National Park lodges (e.g., Kilaguni Serena, Finch Hattons) booking'
+- 'Shimba Hills National Reserve day trip from Diani Beach'
+- 'Self-drive safari Kenya 4x4 rental and itinerary planning'
+- 'Luxury private villas Diani Beach rental Alfajiri Villas price'
+- 'Samburu cultural village visit tour package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

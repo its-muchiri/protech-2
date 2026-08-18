@@ -1,14 +1,14 @@
 ---
 title: 'Eco-lodge Safari Operator Chyulu Hills: Complete Guide'
-description: Kenya safari guide covering eco-lodge safari operator chyulu hills, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering eco-lodge safari operator chyulu hills, including what is included, pricing, and booking advice.'
 slug: eco-lodge-safari-operator-chyulu-hills
-primary_keyword: Eco-lodge safari operator Chyulu Hills
+primary_keyword: 'Eco-lodge safari operator Chyulu Hills'
 secondary_keywords:
-- Affordable Kenya lodge safari packages mid-range
-- Adventure safari Kenya hiking / rafting options
-- Mount Kenya climbing tours Sirimon route price / itinerary 5 days
-- Kikuyu cultural experiences near Nairobi Kiambethu Tea Farm tour
-- Nairobi city tour including KICC viewpoint price
+- 'Affordable Kenya lodge safari packages mid-range'
+- 'Adventure safari Kenya hiking / rafting options'
+- 'Mount Kenya climbing tours Sirimon route price / itinerary 5 days'
+- 'Kikuyu cultural experiences near Nairobi Kiambethu Tea Farm tour'
+- 'Nairobi city tour including KICC viewpoint price'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

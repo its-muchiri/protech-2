@@ -1,14 +1,14 @@
 ---
 title: 'Budget & Price Related Searches: Complete Guide'
-description: Kenya safari guide covering budget & price related searches, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering budget & price related searches, including what is included, pricing, and booking advice.'
 slug: budget-and-price-related-searches
-primary_keyword: Budget & Price Related Searches
+primary_keyword: 'Budget & Price Related Searches'
 secondary_keywords:
-- Private safari tour operator Kenya quote custom
-- Masai Mara migration safari availability checker July/August
-- Kenya safari tour reviews SafariBookings UK users
-- Book luxury Masai Mara fly-in safari from UK August 2025 deals
-- Book affordable 5-day Kenya highlights safari Nairobi departure UK direct operator
+- 'Private safari tour operator Kenya quote custom'
+- 'Masai Mara migration safari availability checker July/August'
+- 'Kenya safari tour reviews SafariBookings UK users'
+- 'Book luxury Masai Mara fly-in safari from UK August 2025 deals'
+- 'Book affordable 5-day Kenya highlights safari Nairobi departure UK direct operator'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

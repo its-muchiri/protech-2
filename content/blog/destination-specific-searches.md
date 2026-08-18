@@ -1,14 +1,14 @@
 ---
 title: 'Destination-Specific Searches: Complete Guide'
-description: Kenya safari guide covering destination-specific searches, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering destination-specific searches, including what is included, pricing, and booking advice.'
 slug: destination-specific-searches
-primary_keyword: Destination-Specific Searches
+primary_keyword: 'Destination-Specific Searches'
 secondary_keywords:
-- Book 7 day Masai Mara fly-in package
-- Best Masai Mara safari package operator
-- Top luxury safari camps Kenya package
-- All-inclusive family safari Kenya buy
-- Low cost Kenya safari holiday booking
+- 'Book 7 day Masai Mara fly-in package'
+- 'Best Masai Mara safari package operator'
+- 'Top luxury safari camps Kenya package'
+- 'All-inclusive family safari Kenya buy'
+- 'Low cost Kenya safari holiday booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

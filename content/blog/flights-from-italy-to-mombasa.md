@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Italy to Mombasa: Complete Guide'
-description: Everything you need to know about flights from italy to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from italy to mombasa, including routes, airlines, booking tips, and fares.'
 slug: flights-from-italy-to-mombasa
-primary_keyword: flights from italy to mombasa
+primary_keyword: 'flights from italy to mombasa'
 secondary_keywords:
-- does qatar airways fly direct to toronto
-- qatar airways frankfurt nairobi
-- qatar airways nairobi office contacts
-- qatar airways from nairobi to usa
-- kenya airways flights from cape town to nairobi
+- 'does qatar airways fly direct to toronto'
+- 'qatar airways frankfurt nairobi'
+- 'qatar airways nairobi office contacts'
+- 'qatar airways from nairobi to usa'
+- 'kenya airways flights from cape town to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

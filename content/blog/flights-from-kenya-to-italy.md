@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Italy: Complete Guide'
-description: Everything you need to know about flights from kenya to italy, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to italy, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-italy
-primary_keyword: flights from kenya to italy
+primary_keyword: 'flights from kenya to italy'
 secondary_keywords:
-- flights from nairobi to kisumu from wilson airport
-- flights from nairobi to heathrow
-- flights from nairobi to italy
-- flights from nairobi to jfk
-- flights from nairobi kenya to mogadishu somalia
+- 'flights from nairobi to kisumu from wilson airport'
+- 'flights from nairobi to heathrow'
+- 'flights from nairobi to italy'
+- 'flights from nairobi to jfk'
+- 'flights from nairobi kenya to mogadishu somalia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

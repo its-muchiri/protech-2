@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Cheapest Flight Offers: Complete Guide'
-description: Everything you need to know about kenya airways cheapest flight offers, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways cheapest flight offers, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-cheapest-flight-offers
-primary_keyword: kenya airways cheapest flight offers
+primary_keyword: 'kenya airways cheapest flight offers'
 secondary_keywords:
-- indigo flights from nairobi
-- jambojet flights from nairobi to malindi
-- kq flights from nairobi to dar es salaam
-- flights from nairobi to masai mara
-- flights from nairobi to namibia
+- 'indigo flights from nairobi'
+- 'jambojet flights from nairobi to malindi'
+- 'kq flights from nairobi to dar es salaam'
+- 'flights from nairobi to masai mara'
+- 'flights from nairobi to namibia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

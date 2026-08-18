@@ -1,14 +1,14 @@
 ---
 title: 'Masai Mara Safari Package Cost Per Person 2025: Complete Guide'
-description: Kenya safari guide covering masai mara safari package cost per person 2025, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering masai mara safari package cost per person 2025, including what is included, pricing, and booking advice.'
 slug: masai-mara-safari-package-cost-per-person-2025
-primary_keyword: Masai Mara safari package cost per person 2025
+primary_keyword: 'Masai Mara safari package cost per person 2025'
 secondary_keywords:
-- Kenya safari booking websites
-- Crescent Island Naivasha walking tour
-- Kenya luxury lodge safari operators
-- Women-only safari tours Kenya
-- Nairobi Railway Museum tour guide
+- 'Kenya safari booking websites'
+- 'Crescent Island Naivasha walking tour'
+- 'Kenya luxury lodge safari operators'
+- 'Women-only safari tours Kenya'
+- 'Nairobi Railway Museum tour guide'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Nairobi National Park Safari: Complete Guide'
-description: Kenya safari guide covering nairobi national park safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering nairobi national park safari, including what is included, pricing, and booking advice.'
 slug: nairobi-national-park-safari
-primary_keyword: Nairobi National Park safari
+primary_keyword: 'Nairobi National Park safari'
 secondary_keywords:
-- Masai Mara safari companies from Nairobi
-- Watamu marine park snorkeling tours
-- Fly-in safari operators Kenya Mara North
-- Activity-Specific Searches
-- Rock climbing tours Hell''s Gate
+- 'Masai Mara safari companies from Nairobi'
+- 'Watamu marine park snorkeling tours'
+- 'Fly-in safari operators Kenya Mara North'
+- 'Activity-Specific Searches'
+- 'Rock climbing tours Hell''''s Gate'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

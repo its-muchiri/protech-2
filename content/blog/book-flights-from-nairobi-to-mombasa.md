@@ -1,14 +1,14 @@
 ---
 title: 'Book Flights from Nairobi to Mombasa: Complete Guide'
-description: Everything you need to know about book flights from nairobi to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about book flights from nairobi to mombasa, including routes, airlines, booking tips, and fares.'
 slug: book-flights-from-nairobi-to-mombasa
-primary_keyword: book flights from nairobi to mombasa
+primary_keyword: 'book flights from nairobi to mombasa'
 secondary_keywords:
-- emirates flights from sydney to dubai
-- emirates flights from usa to dubai
-- emirates flight from vietnam to dubai
-- emirates flights from hyderabad to washington dc
-- emirates direct flights from new york
+- 'emirates flights from sydney to dubai'
+- 'emirates flights from usa to dubai'
+- 'emirates flight from vietnam to dubai'
+- 'emirates flights from hyderabad to washington dc'
+- 'emirates direct flights from new york'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

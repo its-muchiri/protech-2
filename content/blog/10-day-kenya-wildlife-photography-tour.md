@@ -1,14 +1,14 @@
 ---
 title: '10 Day Kenya Wildlife Photography Tour: Complete Guide'
-description: Kenya safari guide covering 10 day kenya wildlife photography tour, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering 10 day kenya wildlife photography tour, including what is included, pricing, and booking advice.'
 slug: 10-day-kenya-wildlife-photography-tour
-primary_keyword: 10 day Kenya wildlife photography tour
+primary_keyword: '10 day Kenya wildlife photography tour'
 secondary_keywords:
-- Rhino safari Kenya
-- Safari starting Nairobi
-- Kenya safari from Australia
-- Kenya safari in May
-- Local Kenya safari operators
+- 'Rhino safari Kenya'
+- 'Safari starting Nairobi'
+- 'Kenya safari from Australia'
+- 'Kenya safari in May'
+- 'Local Kenya safari operators'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from Cape Town to Nairobi: Complete Guide'
-description: Everything you need to know about kenya airways flight from cape town to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from cape town to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-cape-town-to-nairobi
-primary_keyword: kenya airways flight from cape town to nairobi
+primary_keyword: 'kenya airways flight from cape town to nairobi'
 secondary_keywords:
-- emirates flight 412
-- emirates flight 513
-- emirates flight 789
-- emirates flight 98
-- qatar airways nairobi airport office
+- 'emirates flight 412'
+- 'emirates flight 513'
+- 'emirates flight 789'
+- 'emirates flight 98'
+- 'qatar airways nairobi airport office'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

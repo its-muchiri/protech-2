@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Fly-in Safari Packages Masai Mara / Samburu Cost: Complete Guide'
-description: Kenya safari guide covering kenya fly-in safari packages masai mara / samburu cost, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya fly-in safari packages masai mara / samburu cost, including what is included, pricing, and booking advice.'
 slug: kenya-fly-in-safari-packages-masai-mara-samburu-cost
-primary_keyword: Kenya fly-in safari packages Masai Mara / Samburu cost
+primary_keyword: 'Kenya fly-in safari packages Masai Mara / Samburu cost'
 secondary_keywords:
-- Wild dog safari Kenya (rare)
-- Kenya safari from USA
-- Kenya safari in March
-- Kenya safari companies
-- Kenya safari specialist
+- 'Wild dog safari Kenya (rare)'
+- 'Kenya safari from USA'
+- 'Kenya safari in March'
+- 'Kenya safari companies'
+- 'Kenya safari specialist'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

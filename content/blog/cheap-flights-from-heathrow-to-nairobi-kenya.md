@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Heathrow to Nairobi Kenya: Complete Guide'
-description: Everything you need to know about cheap flights from heathrow to nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from heathrow to nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-heathrow-to-nairobi-kenya
-primary_keyword: cheap flights from heathrow to nairobi kenya
+primary_keyword: 'cheap flights from heathrow to nairobi kenya'
 secondary_keywords:
-- flight ticket from kenya to uk
-- flight booking sites in kenya
-- ticket from kenya to canada
-- requirements for domestic flights in kenya
-- flights arriving in kenya today
+- 'flight ticket from kenya to uk'
+- 'flight booking sites in kenya'
+- 'ticket from kenya to canada'
+- 'requirements for domestic flights in kenya'
+- 'flights arriving in kenya today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Orlando: Complete Guide'
-description: Everything you need to know about emirates flights from orlando, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from orlando, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-orlando
-primary_keyword: emirates flights from orlando
+primary_keyword: 'emirates flights from orlando'
 secondary_keywords:
-- flights from kenya to istanbul
-- flights from kenya to japan
-- flights from kenya to kuwait
-- flights from kenya to london today
-- flights from mombasa kenya to maputo mozambique
+- 'flights from kenya to istanbul'
+- 'flights from kenya to japan'
+- 'flights from kenya to kuwait'
+- 'flights from kenya to london today'
+- 'flights from mombasa kenya to maputo mozambique'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

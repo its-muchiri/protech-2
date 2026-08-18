@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 954: Complete Guide'
-description: Everything you need to know about emirates flight 954, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 954, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-954
-primary_keyword: emirates flight 954
+primary_keyword: 'emirates flight 954'
 secondary_keywords:
-- what destinations do emirates fly to
-- emirates flights from delhi to new york
-- emirates flight 001
-- emirates flight 209 from athens to new york
-- emirates flight 335
+- 'what destinations do emirates fly to'
+- 'emirates flights from delhi to new york'
+- 'emirates flight 001'
+- 'emirates flight 209 from athens to new york'
+- 'emirates flight 335'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

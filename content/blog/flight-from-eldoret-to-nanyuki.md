@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Eldoret to Nanyuki: Complete Guide'
-description: Everything you need to know about flight from eldoret to nanyuki, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from eldoret to nanyuki, including routes, airlines, booking tips, and fares.'
 slug: flight-from-eldoret-to-nanyuki
-primary_keyword: flight from eldoret to nanyuki
+primary_keyword: 'flight from eldoret to nanyuki'
 secondary_keywords:
-- emirates flights from amsterdam to dubai
-- emirates flights from bangkok
-- emirates flights from cyprus
-- emirates flights from johannesburg to dubai
-- emirates flights from france to dubai
+- 'emirates flights from amsterdam to dubai'
+- 'emirates flights from bangkok'
+- 'emirates flights from cyprus'
+- 'emirates flights from johannesburg to dubai'
+- 'emirates flights from france to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

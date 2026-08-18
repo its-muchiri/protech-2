@@ -1,14 +1,14 @@
 ---
 title: '5-function Electric ICU Bed Cost in Mombasa: 2026 Price Guide'
-description: Kenya buying guide to 5-function electric icu bed cost in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to 5-function electric icu bed cost in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: 5-function-electric-icu-bed-cost-in-mombasa
-primary_keyword: 5-function electric ICU bed cost in Mombasa
+primary_keyword: '5-function electric ICU bed cost in Mombasa'
 secondary_keywords:
-- Siemens Somatom CT scanner price in Mombasa
-- Affordable black and white ultrasound scanner in Nairobi
-- X-ray machine installation and maintenance in Kenya
-- Bone densitometer (DEXA scan) cost in Kenya
-- Fully automated chemistry analyzer for sale in Kisumu
+- 'Siemens Somatom CT scanner price in Mombasa'
+- 'Affordable black and white ultrasound scanner in Nairobi'
+- 'X-ray machine installation and maintenance in Kenya'
+- 'Bone densitometer (DEXA scan) cost in Kenya'
+- 'Fully automated chemistry analyzer for sale in Kisumu'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

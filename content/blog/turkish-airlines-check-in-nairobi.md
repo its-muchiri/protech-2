@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Check in Nairobi: Complete Guide'
-description: Everything you need to know about turkish airlines check in nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines check in nairobi, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-check-in-nairobi
-primary_keyword: turkish airlines check in nairobi
+primary_keyword: 'turkish airlines check in nairobi'
 secondary_keywords:
-- kenya airways flight requirements
-- kq flights from nairobi to china price
-- kq flights to dar
-- kq pilot requirements
-- kenya airways increase flights to new york
+- 'kenya airways flight requirements'
+- 'kq flights from nairobi to china price'
+- 'kq flights to dar'
+- 'kq pilot requirements'
+- 'kenya airways increase flights to new york'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

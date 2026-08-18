@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Tokyo: Complete Guide'
-description: Everything you need to know about flights nairobi to tokyo, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to tokyo, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-tokyo
-primary_keyword: flights nairobi to tokyo
+primary_keyword: 'flights nairobi to tokyo'
 secondary_keywords:
-- flights from kenya to lesotho
-- flights from kenya to melbourne
-- flights from nigeria to kenya
-- flights from new orleans to kenya
-- cheap flights to kenya from perth
+- 'flights from kenya to lesotho'
+- 'flights from kenya to melbourne'
+- 'flights from nigeria to kenya'
+- 'flights from new orleans to kenya'
+- 'cheap flights to kenya from perth'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

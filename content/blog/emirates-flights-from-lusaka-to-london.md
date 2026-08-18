@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Lusaka to London: Complete Guide'
-description: Everything you need to know about emirates flights from lusaka to london, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from lusaka to london, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-lusaka-to-london
-primary_keyword: emirates flights from lusaka to london
+primary_keyword: 'emirates flights from lusaka to london'
 secondary_keywords:
-- emirates flights from beirut
-- cheapest emirates flights from dubai
-- emirates flights from edinburgh
-- emirates flights first class
-- emirates flights from gatwick terminal
+- 'emirates flights from beirut'
+- 'cheapest emirates flights from dubai'
+- 'emirates flights from edinburgh'
+- 'emirates flights first class'
+- 'emirates flights from gatwick terminal'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

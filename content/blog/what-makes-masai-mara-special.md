@@ -1,14 +1,14 @@
 ---
 title: 'What Makes Masai Mara Special: Complete Guide'
-description: Kenya safari guide covering what makes masai mara special, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering what makes masai mara special, including what is included, pricing, and booking advice.'
 slug: what-makes-masai-mara-special
-primary_keyword: What makes Masai Mara special
+primary_keyword: 'What makes Masai Mara special'
 secondary_keywords:
-- Secure Kenya safari package for family with young children quote
-- Reserve New Year luxury Kenya safari deal
-- Purchase 6 day mid-range tented camp Masai Mara Nakuru package KATO operator
-- Secure 9 day Laikipia Borana Conservancy luxury horseback safari package reserve
-- Boutique tour companies Kenya personalized service
+- 'Secure Kenya safari package for family with young children quote'
+- 'Reserve New Year luxury Kenya safari deal'
+- 'Purchase 6 day mid-range tented camp Masai Mara Nakuru package KATO operator'
+- 'Secure 9 day Laikipia Borana Conservancy luxury horseback safari package reserve'
+- 'Boutique tour companies Kenya personalized service'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

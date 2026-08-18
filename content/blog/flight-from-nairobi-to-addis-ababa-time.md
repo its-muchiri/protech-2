@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Addis Ababa Time: Complete Guide'
-description: Everything you need to know about flight from nairobi to addis ababa time, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to addis ababa time, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-addis-ababa-time
-primary_keyword: flight from nairobi to addis ababa time
+primary_keyword: 'flight from nairobi to addis ababa time'
 secondary_keywords:
-- emirates flights for india
-- emirates flights from germany
-- how many emirates flights from london to dubai
-- emirates flights from israel
-- emirates flights from johannesburg
+- 'emirates flights for india'
+- 'emirates flights from germany'
+- 'how many emirates flights from london to dubai'
+- 'emirates flights from israel'
+- 'emirates flights from johannesburg'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

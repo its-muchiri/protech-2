@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Perth to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from perth to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from perth to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-perth-to-dubai
-primary_keyword: emirates flights from perth to dubai
+primary_keyword: 'emirates flights from perth to dubai'
 secondary_keywords:
-- flights nairobi wilson to malindi
-- flights nairobi to zurich
-- how much is a flight from nairobi to ukunda
-- emirates flights from
-- emirates flights to uk from south africa
+- 'flights nairobi wilson to malindi'
+- 'flights nairobi to zurich'
+- 'how much is a flight from nairobi to ukunda'
+- 'emirates flights from'
+- 'emirates flights to uk from south africa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

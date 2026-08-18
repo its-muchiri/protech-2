@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Nairobi to Kigali: Complete Guide'
-description: Everything you need to know about ethiopian airlines nairobi to kigali, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines nairobi to kigali, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-nairobi-to-kigali
-primary_keyword: ethiopian airlines nairobi to kigali
+primary_keyword: 'ethiopian airlines nairobi to kigali'
 secondary_keywords:
-- flight from nairobi to boston
-- flight from nairobi to china
-- flight from nairobi to diani
-- flight from nairobi to edmonton
-- how long is a flight from frankfurt to nairobi
+- 'flight from nairobi to boston'
+- 'flight from nairobi to china'
+- 'flight from nairobi to diani'
+- 'flight from nairobi to edmonton'
+- 'how long is a flight from frankfurt to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kenya to Qatar Time: Complete Guide'
-description: Everything you need to know about flight from kenya to qatar time, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kenya to qatar time, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kenya-to-qatar-time
-primary_keyword: flight from kenya to qatar time
+primary_keyword: 'flight from kenya to qatar time'
 secondary_keywords:
-- ethiopian airline office in nairobi telephone number
-- does ethiopian airlines fly to dublin
-- nairobi to turkey flight time
-- flight booking agents in nairobi
-- flight duration from kenya to usa
+- 'ethiopian airline office in nairobi telephone number'
+- 'does ethiopian airlines fly to dublin'
+- 'nairobi to turkey flight time'
+- 'flight booking agents in nairobi'
+- 'flight duration from kenya to usa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

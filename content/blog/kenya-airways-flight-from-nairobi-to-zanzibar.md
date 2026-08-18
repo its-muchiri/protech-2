@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from Nairobi to Zanzibar: Complete Guide'
-description: Everything you need to know about kenya airways flight from nairobi to zanzibar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from nairobi to zanzibar, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-nairobi-to-zanzibar
-primary_keyword: kenya airways flight from nairobi to zanzibar
+primary_keyword: 'kenya airways flight from nairobi to zanzibar'
 secondary_keywords:
-- flights from kenya to calgary
-- flights from kenya to dc
-- kenya airways flights from eldoret to nairobi
-- flights from victoria falls zimbabwe to nairobi kenya
-- flights from gaborone to kenya
+- 'flights from kenya to calgary'
+- 'flights from kenya to dc'
+- 'kenya airways flights from eldoret to nairobi'
+- 'flights from victoria falls zimbabwe to nairobi kenya'
+- 'flights from gaborone to kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

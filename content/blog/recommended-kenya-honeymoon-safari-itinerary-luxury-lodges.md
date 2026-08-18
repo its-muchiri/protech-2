@@ -1,14 +1,14 @@
 ---
 title: 'Recommended Kenya Honeymoon Safari Itinerary Luxury Lodges: Complete Guide'
-description: Kenya safari guide covering recommended kenya honeymoon safari itinerary luxury lodges, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering recommended kenya honeymoon safari itinerary luxury lodges, including what is included, pricing, and booking advice.'
 slug: recommended-kenya-honeymoon-safari-itinerary-luxury-lodges
-primary_keyword: Recommended Kenya honeymoon safari itinerary luxury lodges
+primary_keyword: 'Recommended Kenya honeymoon safari itinerary luxury lodges'
 secondary_keywords:
-- Book Masai Mara safari package
-- Kenya safari instant quote
-- One week Kenya safari package price
-- Tsavo East and West safari package cost
-- Mombasa start Tsavo safari package buy
+- 'Book Masai Mara safari package'
+- 'Kenya safari instant quote'
+- 'One week Kenya safari package price'
+- 'Tsavo East and West safari package cost'
+- 'Mombasa start Tsavo safari package buy'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

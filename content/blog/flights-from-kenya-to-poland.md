@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Poland: Complete Guide'
-description: Everything you need to know about flights from kenya to poland, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to poland, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-poland
-primary_keyword: flights from kenya to poland
+primary_keyword: 'flights from kenya to poland'
 secondary_keywords:
-- emirates flights from dubai today
-- emirates flights from edinburgh to perth australia
-- emirates flights from france
-- emirates flights to greece from newark
-- how many emirates flights from london to dubai each week
+- 'emirates flights from dubai today'
+- 'emirates flights from edinburgh to perth australia'
+- 'emirates flights from france'
+- 'emirates flights to greece from newark'
+- 'how many emirates flights from london to dubai each week'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

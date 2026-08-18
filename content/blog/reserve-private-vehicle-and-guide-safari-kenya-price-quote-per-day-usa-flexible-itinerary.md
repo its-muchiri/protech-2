@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Private Vehicle & Guide Safari Kenya Price Quote Per Day USA Flexible Itinerary: Complete Guide'
-description: Kenya safari guide covering reserve private vehicle & guide safari kenya price quote per day usa flexible itinerary, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve private vehicle & guide safari kenya price quote per day usa flexible itinerary, including what is included, pricing, and booking advice.'
 slug: reserve-private-vehicle-and-guide-safari-kenya-price-quote-per-day-usa-flexible-itinerary
-primary_keyword: Reserve private vehicle & guide safari Kenya price quote per day USA flexible itinerary
+primary_keyword: 'Reserve private vehicle & guide safari Kenya price quote per day USA flexible itinerary'
 secondary_keywords:
-- When is the wildebeest migration in Kenya
-- Cultural visit Maasai village Amboseli safari
-- Problems with Kenya safari booking
-- Safari Kenia (German/Spanish/etc.)
-- Safari vehicle types Kenya
+- 'When is the wildebeest migration in Kenya'
+- 'Cultural visit Maasai village Amboseli safari'
+- 'Problems with Kenya safari booking'
+- 'Safari Kenia (German/Spanish/etc.)'
+- 'Safari vehicle types Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

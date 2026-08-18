@@ -1,14 +1,14 @@
 ---
 title: '3-function Electric Hospital Bed for Sale in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to 3-function electric hospital bed for sale in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to 3-function electric hospital bed for sale in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: 3-function-electric-hospital-bed-for-sale-in-nairobi
-primary_keyword: 3-function electric hospital bed for sale in Nairobi
+primary_keyword: '3-function electric hospital bed for sale in Nairobi'
 secondary_keywords:
-- How to start a medical equipment supply business in Kenya
-- Affordable medical equipment in Eastleigh, Nairobi
-- Lab reagents suppliers in Eldoret
-- Anesthesia machine repair in Mombasa
-- Affordable clinic setup package in Kenya
+- 'How to start a medical equipment supply business in Kenya'
+- 'Affordable medical equipment in Eastleigh, Nairobi'
+- 'Lab reagents suppliers in Eldoret'
+- 'Anesthesia machine repair in Mombasa'
+- 'Affordable clinic setup package in Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

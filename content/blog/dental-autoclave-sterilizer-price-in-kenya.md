@@ -1,14 +1,14 @@
 ---
 title: 'Dental Autoclave Sterilizer Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to dental autoclave sterilizer price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to dental autoclave sterilizer price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: dental-autoclave-sterilizer-price-in-kenya
-primary_keyword: Dental autoclave sterilizer price in Kenya
+primary_keyword: 'Dental autoclave sterilizer price in Kenya'
 secondary_keywords:
-- medical gauze manufacturers Kenya
-- lab glass slides Kenya
-- blood transfusion sets Kenya
-- wheelchairs Kenya price
-- portable ultrasound machine Kenya
+- 'medical gauze manufacturers Kenya'
+- 'lab glass slides Kenya'
+- 'blood transfusion sets Kenya'
+- 'wheelchairs Kenya price'
+- 'portable ultrasound machine Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

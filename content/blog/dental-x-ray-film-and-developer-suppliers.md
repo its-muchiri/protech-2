@@ -1,14 +1,14 @@
 ---
 title: 'Dental X-ray Film and Developer Suppliers: 2026 Price Guide'
-description: Kenya buying guide to dental x-ray film and developer suppliers. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to dental x-ray film and developer suppliers. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: dental-x-ray-film-and-developer-suppliers
-primary_keyword: Dental X-ray film and developer suppliers
+primary_keyword: 'Dental X-ray film and developer suppliers'
 secondary_keywords:
-- Tenders for dental imaging equipment in Kenya
-- Portable veterinary X-ray machine for sale in Kenya
-- Artificial insemination equipment for livestock
-- Suction machine for home care price
-- Slit lamp price in Kenya
+- 'Tenders for dental imaging equipment in Kenya'
+- 'Portable veterinary X-ray machine for sale in Kenya'
+- 'Artificial insemination equipment for livestock'
+- 'Suction machine for home care price'
+- 'Slit lamp price in Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

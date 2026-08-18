@@ -1,14 +1,14 @@
 ---
 title: 'Heavy-duty Wheelchair for Bariatric Patients: 2026 Price Guide'
-description: Kenya buying guide to heavy-duty wheelchair for bariatric patients. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to heavy-duty wheelchair for bariatric patients. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: heavy-duty-wheelchair-for-bariatric-patients
-primary_keyword: Heavy-duty wheelchair for bariatric patients
+primary_keyword: 'Heavy-duty wheelchair for bariatric patients'
 secondary_keywords:
-- Hospital floor cleaning and disinfection machines
-- Used laboratory equipment auction Nairobi
-- Disaster response medical kits suppliers
-- wheelchair spare parts in Kisumu
-- morgue equipment and supplies list
+- 'Hospital floor cleaning and disinfection machines'
+- 'Used laboratory equipment auction Nairobi'
+- 'Disaster response medical kits suppliers'
+- 'wheelchair spare parts in Kisumu'
+- 'morgue equipment and supplies list'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

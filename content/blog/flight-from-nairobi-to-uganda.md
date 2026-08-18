@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Uganda: Complete Guide'
-description: Everything you need to know about flight from nairobi to uganda, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to uganda, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-uganda
-primary_keyword: flight from nairobi to uganda
+primary_keyword: 'flight from nairobi to uganda'
 secondary_keywords:
-- qatar airways in nairobi
-- flights kenya to south africa
-- flights within kenya
-- £5 in kenya shillings
-- air arabia flights from kenya to dubai
+- 'qatar airways in nairobi'
+- 'flights kenya to south africa'
+- 'flights within kenya'
+- '£5 in kenya shillings'
+- 'air arabia flights from kenya to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

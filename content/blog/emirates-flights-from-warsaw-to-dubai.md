@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Warsaw to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from warsaw to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from warsaw to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-warsaw-to-dubai
-primary_keyword: emirates flights from warsaw to dubai
+primary_keyword: 'emirates flights from warsaw to dubai'
 secondary_keywords:
-- 748 flight from mombasa to nairobi
-- turkish airlines app not working
-- turkey to kenya flight time
-- turkish airlines nairobi to istanbul today
-- turkish airlines nairobi office contacts
+- '748 flight from mombasa to nairobi'
+- 'turkish airlines app not working'
+- 'turkey to kenya flight time'
+- 'turkish airlines nairobi to istanbul today'
+- 'turkish airlines nairobi office contacts'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

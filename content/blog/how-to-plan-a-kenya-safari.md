@@ -1,14 +1,14 @@
 ---
 title: 'How to Plan a Kenya Safari: Complete Guide'
-description: Kenya safari guide covering how to plan a kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering how to plan a kenya safari, including what is included, pricing, and booking advice.'
 slug: how-to-plan-a-kenya-safari
-primary_keyword: How to plan a Kenya safari
+primary_keyword: 'How to plan a Kenya safari'
 secondary_keywords:
-- Buy Diani beach and safari package booking
-- Purchase short Kenya safari package (3-5 days)
-- Secure all-inclusive luxury safari Kenya purchase
-- Kenya safari cost per person quote
-- 9 day migration special safari rates request
+- 'Buy Diani beach and safari package booking'
+- 'Purchase short Kenya safari package (3-5 days)'
+- 'Secure all-inclusive luxury safari Kenya purchase'
+- 'Kenya safari cost per person quote'
+- '9 day migration special safari rates request'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

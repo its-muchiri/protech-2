@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights to Australia from Manchester: Complete Guide'
-description: Everything you need to know about emirates flights to australia from manchester, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights to australia from manchester, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-to-australia-from-manchester
-primary_keyword: emirates flights to australia from manchester
+primary_keyword: 'emirates flights to australia from manchester'
 secondary_keywords:
-- flights nairobi to hong kong
-- nairobi to italy flights
-- jeddah to nairobi flights
-- flights nairobi to lagos
-- flights nairobi to maldives
+- 'flights nairobi to hong kong'
+- 'nairobi to italy flights'
+- 'jeddah to nairobi flights'
+- 'flights nairobi to lagos'
+- 'flights nairobi to maldives'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flights to South Africa Price: Complete Guide'
-description: Everything you need to know about kenya airways flights to south africa price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flights to south africa price, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flights-to-south-africa-price
-primary_keyword: kenya airways flights to south africa price
+primary_keyword: 'kenya airways flights to south africa price'
 secondary_keywords:
-- flights nairobi to brussels
-- flights nairobi to cali colombia
-- flights nairobi to doha
-- entebbe to nairobi flights
-- flight nairobi to germany
+- 'flights nairobi to brussels'
+- 'flights nairobi to cali colombia'
+- 'flights nairobi to doha'
+- 'entebbe to nairobi flights'
+- 'flight nairobi to germany'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

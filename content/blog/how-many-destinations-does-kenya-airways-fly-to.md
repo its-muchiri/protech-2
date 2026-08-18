@@ -1,14 +1,14 @@
 ---
 title: 'How Many Destinations Does Kenya Airways Fly to: Complete Guide'
-description: Everything you need to know about how many destinations does kenya airways fly to, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how many destinations does kenya airways fly to, including routes, airlines, booking tips, and fares.'
 slug: how-many-destinations-does-kenya-airways-fly-to
-primary_keyword: how many destinations does kenya airways fly to
+primary_keyword: 'how many destinations does kenya airways fly to'
 secondary_keywords:
-- emirates flights from orlando to dubai
-- emirates flights from pakistan to london
-- emirates flight questions
-- emirates flights from rome to melbourne
-- emirates flights from singapore to dubai
+- 'emirates flights from orlando to dubai'
+- 'emirates flights from pakistan to london'
+- 'emirates flight questions'
+- 'emirates flights from rome to melbourne'
+- 'emirates flights from singapore to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Rdu: Complete Guide'
-description: Everything you need to know about flights nairobi to rdu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to rdu, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-rdu
-primary_keyword: flights nairobi to rdu
+primary_keyword: 'flights nairobi to rdu'
 secondary_keywords:
-- flight to eldoret price
-- flights from eldoret to malindi
-- flights from eldoret to ukunda
-- kq flight attendants
-- kq flight booking price
+- 'flight to eldoret price'
+- 'flights from eldoret to malindi'
+- 'flights from eldoret to ukunda'
+- 'kq flight attendants'
+- 'kq flight booking price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

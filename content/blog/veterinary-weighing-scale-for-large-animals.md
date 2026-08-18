@@ -1,14 +1,14 @@
 ---
 title: 'Veterinary Weighing Scale for Large Animals: 2026 Price Guide'
-description: Kenya buying guide to veterinary weighing scale for large animals. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to veterinary weighing scale for large animals. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: veterinary-weighing-scale-for-large-animals
-primary_keyword: Veterinary weighing scale for large animals
+primary_keyword: 'Veterinary weighing scale for large animals'
 secondary_keywords:
-- Doctor''s stool and chair suppliers in Mombasa
-- Bedside patient monitor suppliers in Nairobi
-- ICU ventilator price in Kenya
-- Combination therapy unit (IFT, TENS, US) cost
-- Wax bath for physiotherapy cost
+- 'Doctor''''s stool and chair suppliers in Mombasa'
+- 'Bedside patient monitor suppliers in Nairobi'
+- 'ICU ventilator price in Kenya'
+- 'Combination therapy unit (IFT, TENS, US) cost'
+- 'Wax bath for physiotherapy cost'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

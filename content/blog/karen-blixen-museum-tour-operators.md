@@ -1,14 +1,14 @@
 ---
 title: 'Karen Blixen Museum Tour Operators: Complete Guide'
-description: Kenya safari guide covering karen blixen museum tour operators, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering karen blixen museum tour operators, including what is included, pricing, and booking advice.'
 slug: karen-blixen-museum-tour-operators
-primary_keyword: Karen Blixen Museum tour operators
+primary_keyword: 'Karen Blixen Museum tour operators'
 secondary_keywords:
-- Couples Kenya safari
-- Solo traveler Kenya safari
-- Fly-camping Kenya safari
-- 11 day Kenya safari
-- Luxury safari cost Kenya
+- 'Couples Kenya safari'
+- 'Solo traveler Kenya safari'
+- 'Fly-camping Kenya safari'
+- '11 day Kenya safari'
+- 'Luxury safari cost Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

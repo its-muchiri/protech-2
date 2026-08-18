@@ -1,14 +1,14 @@
 ---
 title: 'Air France Flight from Nairobi to Paris: Complete Guide'
-description: Everything you need to know about air france flight from nairobi to paris, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about air france flight from nairobi to paris, including routes, airlines, booking tips, and fares.'
 slug: air-france-flight-from-nairobi-to-paris
-primary_keyword: air france flight from nairobi to paris
+primary_keyword: 'air france flight from nairobi to paris'
 secondary_keywords:
-- kq flight from kenya to dubai
-- flights to ukunda from jkia
-- kq flight from nairobi to dubai
-- kq flight from nairobi to dubai ticket price
-- kq flight from johannesburg to nairobi
+- 'kq flight from kenya to dubai'
+- 'flights to ukunda from jkia'
+- 'kq flight from nairobi to dubai'
+- 'kq flight from nairobi to dubai ticket price'
+- 'kq flight from johannesburg to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

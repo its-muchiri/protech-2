@@ -1,14 +1,14 @@
 ---
 title: 'Delivery Bed / Obstetric Table Price: 2026 Price Guide'
-description: Kenya buying guide to delivery bed / obstetric table price. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to delivery bed / obstetric table price. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: delivery-bed-obstetric-table-price
-primary_keyword: Delivery bed / Obstetric table price
+primary_keyword: 'Delivery bed / Obstetric table price'
 secondary_keywords:
-- Mindray BC-5000 price and reagent cost
-- Tabletop autoclave sterilizer (18L) price
-- Mobile surgical light suppliers in Nairobi
-- Dental extraction and filling instrument kit
-- Patient stretcher on trolley for sale in Kisumu
+- 'Mindray BC-5000 price and reagent cost'
+- 'Tabletop autoclave sterilizer (18L) price'
+- 'Mobile surgical light suppliers in Nairobi'
+- 'Dental extraction and filling instrument kit'
+- 'Patient stretcher on trolley for sale in Kisumu'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

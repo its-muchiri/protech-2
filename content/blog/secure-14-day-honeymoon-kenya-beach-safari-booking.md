@@ -1,14 +1,14 @@
 ---
 title: 'Secure 14 Day Honeymoon Kenya Beach Safari Booking: Complete Guide'
-description: Kenya safari guide covering secure 14 day honeymoon kenya beach safari booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering secure 14 day honeymoon kenya beach safari booking, including what is included, pricing, and booking advice.'
 slug: secure-14-day-honeymoon-kenya-beach-safari-booking
-primary_keyword: Secure 14 day honeymoon Kenya beach safari booking
+primary_keyword: 'Secure 14 day honeymoon Kenya beach safari booking'
 secondary_keywords:
-- Quote for 8 day Kenya highlights private tour package
-- Finalize deal 6 day fly-in Masai Mara package
-- Book package tour Kenya including flights option
-- Book guaranteed departure Kenya group safari package
-- Buy 11 day Intrepids camps family adventure package
+- 'Quote for 8 day Kenya highlights private tour package'
+- 'Finalize deal 6 day fly-in Masai Mara package'
+- 'Book package tour Kenya including flights option'
+- 'Book guaranteed departure Kenya group safari package'
+- 'Buy 11 day Intrepids camps family adventure package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

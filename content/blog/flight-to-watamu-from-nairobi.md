@@ -1,14 +1,14 @@
 ---
 title: 'Flight to Watamu from Nairobi: Complete Guide'
-description: Everything you need to know about flight to watamu from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight to watamu from nairobi, including routes, airlines, booking tips, and fares.'
 slug: flight-to-watamu-from-nairobi
-primary_keyword: flight to watamu from nairobi
+primary_keyword: 'flight to watamu from nairobi'
 secondary_keywords:
-- emirates nairobi to perth
-- emirates from kenya
-- emirates booking kenya
-- emirates flight kenya to dubai
-- emirates airlines kenya office
+- 'emirates nairobi to perth'
+- 'emirates from kenya'
+- 'emirates booking kenya'
+- 'emirates flight kenya to dubai'
+- 'emirates airlines kenya office'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

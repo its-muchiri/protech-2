@@ -1,14 +1,14 @@
 ---
 title: 'Mount Kenya Safari Tours Booking UK Climb Options: Complete Guide'
-description: Kenya safari guide covering mount kenya safari tours booking uk climb options, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering mount kenya safari tours booking uk climb options, including what is included, pricing, and booking advice.'
 slug: mount-kenya-safari-tours-booking-uk-climb-options
-primary_keyword: Mount Kenya safari tours booking UK climb options
+primary_keyword: 'Mount Kenya safari tours booking UK climb options'
 secondary_keywords:
-- Tsavo West safari
-- Masai Mara conservancy safari
-- Honeymoon Kenya safari
-- Group Kenya safari
-- Short Kenya safari
+- 'Tsavo West safari'
+- 'Masai Mara conservancy safari'
+- 'Honeymoon Kenya safari'
+- 'Group Kenya safari'
+- 'Short Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

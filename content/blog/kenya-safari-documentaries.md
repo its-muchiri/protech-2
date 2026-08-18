@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Documentaries: Complete Guide'
-description: Kenya safari guide covering kenya safari documentaries, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari documentaries, including what is included, pricing, and booking advice.'
 slug: kenya-safari-documentaries
-primary_keyword: Kenya safari documentaries
+primary_keyword: 'Kenya safari documentaries'
 secondary_keywords:
-- 5 day Kenya safari
-- Kenya safari price
-- Value Kenya safari
-- Unfenced camp Kenya safari
-- Rock climbing Hell''s Gate
+- '5 day Kenya safari'
+- 'Kenya safari price'
+- 'Value Kenya safari'
+- 'Unfenced camp Kenya safari'
+- 'Rock climbing Hell''''s Gate'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

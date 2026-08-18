@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 602: Complete Guide'
-description: Everything you need to know about emirates flight 602, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 602, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-602
-primary_keyword: emirates flight 602
+primary_keyword: 'emirates flight 602'
 secondary_keywords:
-- return flight from nairobi to kisumu price
-- the cheapest flight from nairobi to mombasa
-- flight from nairobi to uk price
-- flight from nairobi to wajir
-- flight from nairobi to new york today
+- 'return flight from nairobi to kisumu price'
+- 'the cheapest flight from nairobi to mombasa'
+- 'flight from nairobi to uk price'
+- 'flight from nairobi to wajir'
+- 'flight from nairobi to new york today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

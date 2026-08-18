@@ -1,14 +1,14 @@
 ---
 title: 'Jambojet Flights Nairobi to Malindi: Complete Guide'
-description: Everything you need to know about jambojet flights nairobi to malindi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about jambojet flights nairobi to malindi, including routes, airlines, booking tips, and fares.'
 slug: jambojet-flights-nairobi-to-malindi
-primary_keyword: jambojet flights nairobi to malindi
+primary_keyword: 'jambojet flights nairobi to malindi'
 secondary_keywords:
-- kq flights to nairobi
-- kenya airways flights reviews
-- kq flights to zanzibar
-- kq flight to zimbabwe
-- kq 115 flight status
+- 'kq flights to nairobi'
+- 'kenya airways flights reviews'
+- 'kq flights to zanzibar'
+- 'kq flight to zimbabwe'
+- 'kq 115 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

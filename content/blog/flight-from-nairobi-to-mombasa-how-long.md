@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Mombasa How Long: Complete Guide'
-description: Everything you need to know about flight from nairobi to mombasa how long, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to mombasa how long, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-mombasa-how-long
-primary_keyword: flight from nairobi to mombasa how long
+primary_keyword: 'flight from nairobi to mombasa how long'
 secondary_keywords:
-- turkish airlines nairobi office
-- what terminal is turkish airlines
-- turkish airlines jkia
-- turkish airlines pet allowance
-- 1 turkish lira to kenyan shillings
+- 'turkish airlines nairobi office'
+- 'what terminal is turkish airlines'
+- 'turkish airlines jkia'
+- 'turkish airlines pet allowance'
+- '1 turkish lira to kenyan shillings'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

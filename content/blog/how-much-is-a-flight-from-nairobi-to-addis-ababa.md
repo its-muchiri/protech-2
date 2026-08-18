@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is a Flight from Nairobi to Addis Ababa: Complete Guide'
-description: Everything you need to know about how much is a flight from nairobi to addis ababa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is a flight from nairobi to addis ababa, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-a-flight-from-nairobi-to-addis-ababa
-primary_keyword: how much is a flight from nairobi to addis ababa
+primary_keyword: 'how much is a flight from nairobi to addis ababa'
 secondary_keywords:
-- british airways flights from nairobi to london today
-- cheap flights from nairobi to dubai
-- dubai flights from nairobi
-- ethiopian airlines flights from nairobi to addis ababa
-- flights from nairobi to guangzhou china
+- 'british airways flights from nairobi to london today'
+- 'cheap flights from nairobi to dubai'
+- 'dubai flights from nairobi'
+- 'ethiopian airlines flights from nairobi to addis ababa'
+- 'flights from nairobi to guangzhou china'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

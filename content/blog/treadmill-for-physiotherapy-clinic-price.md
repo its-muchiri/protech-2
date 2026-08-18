@@ -1,14 +1,14 @@
 ---
 title: 'Treadmill for Physiotherapy Clinic Price: 2026 Price Guide'
-description: Kenya buying guide to treadmill for physiotherapy clinic price. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to treadmill for physiotherapy clinic price. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: treadmill-for-physiotherapy-clinic-price
-primary_keyword: Treadmill for physiotherapy clinic price
+primary_keyword: 'Treadmill for physiotherapy clinic price'
 secondary_keywords:
-- urine bags Kenya price
-- sterilization wraps Kenya
-- medical tape Kenya brands
-- crepe bandages Kenya price
-- surgical spirit price Nairobi
+- 'urine bags Kenya price'
+- 'sterilization wraps Kenya'
+- 'medical tape Kenya brands'
+- 'crepe bandages Kenya price'
+- 'surgical spirit price Nairobi'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

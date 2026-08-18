@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari from USA: Complete Guide'
-description: Kenya safari guide covering kenya safari from usa, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari from usa, including what is included, pricing, and booking advice.'
 slug: kenya-safari-from-usa
-primary_keyword: Kenya safari from USA
+primary_keyword: 'Kenya safari from USA'
 secondary_keywords:
-- Company organizing coffee tour Kiambu and Nairobi NP trip
-- Fly-in Diani beach holiday from Wilson Airport company
-- Buy Amboseli tour package online
-- Secure Borana Conservancy luxury safari booking
-- Buy two week Kenya adventure tour reservation
+- 'Company organizing coffee tour Kiambu and Nairobi NP trip'
+- 'Fly-in Diani beach holiday from Wilson Airport company'
+- 'Buy Amboseli tour package online'
+- 'Secure Borana Conservancy luxury safari booking'
+- 'Buy two week Kenya adventure tour reservation'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

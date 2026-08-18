@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Package Quote Request: Complete Guide'
-description: Kenya safari guide covering kenya safari package quote request, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari package quote request, including what is included, pricing, and booking advice.'
 slug: kenya-safari-package-quote-request
-primary_keyword: Kenya safari package quote request
+primary_keyword: 'Kenya safari package quote request'
 secondary_keywords:
-- Best beach resorts Kenya South Coast Diani Reef / Leopard Beach / Baobab Beach Resort
-- Ngong Hills hiking trail guide KFS fee
-- Sheldrick Wildlife Trust elephant orphanage visit booking / times Nairobi
-- Explorer Kenya Safaris reviews luxury / mid-range
-- Gracepatt Safaris review
+- 'Best beach resorts Kenya South Coast Diani Reef / Leopard Beach / Baobab Beach Resort'
+- 'Ngong Hills hiking trail guide KFS fee'
+- 'Sheldrick Wildlife Trust elephant orphanage visit booking / times Nairobi'
+- 'Explorer Kenya Safaris reviews luxury / mid-range'
+- 'Gracepatt Safaris review'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight Offers: Complete Guide'
-description: Everything you need to know about kq flight offers, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight offers, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-offers
-primary_keyword: kq flight offers
+primary_keyword: 'kq flight offers'
 secondary_keywords:
-- ethiopian airlines nairobi to lilongwe
-- ethiopian airlines contact number nairobi
-- turkish airline from nairobi to istanbul
-- flight ticket from kenya to canada
-- flight ticket to kenya from south africa
+- 'ethiopian airlines nairobi to lilongwe'
+- 'ethiopian airlines contact number nairobi'
+- 'turkish airline from nairobi to istanbul'
+- 'flight ticket from kenya to canada'
+- 'flight ticket to kenya from south africa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

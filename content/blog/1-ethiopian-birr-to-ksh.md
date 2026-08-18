@@ -1,14 +1,14 @@
 ---
 title: '1 Ethiopian Birr to Ksh: Complete Guide'
-description: Everything you need to know about 1 ethiopian birr to ksh, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about 1 ethiopian birr to ksh, including routes, airlines, booking tips, and fares.'
 slug: 1-ethiopian-birr-to-ksh
-primary_keyword: 1 ethiopian birr to ksh
+primary_keyword: '1 ethiopian birr to ksh'
 secondary_keywords:
-- emirates flights from vancouver to dubai
-- emirates flight from washington dc to dubai
-- emirates flights from new york to europe
-- emirates flight from zimbabwe to dubai
-- emirates flights 19 august
+- 'emirates flights from vancouver to dubai'
+- 'emirates flight from washington dc to dubai'
+- 'emirates flights from new york to europe'
+- 'emirates flight from zimbabwe to dubai'
+- 'emirates flights 19 august'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

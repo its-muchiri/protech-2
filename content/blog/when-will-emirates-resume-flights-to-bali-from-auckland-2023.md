@@ -1,14 +1,14 @@
 ---
 title: 'When Will Emirates Resume Flights to Bali from Auckland 2023: Complete Guide'
-description: Everything you need to know about when will emirates resume flights to bali from auckland 2023, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about when will emirates resume flights to bali from auckland 2023, including routes, airlines, booking tips, and fares.'
 slug: when-will-emirates-resume-flights-to-bali-from-auckland-2023
-primary_keyword: when will emirates resume flights to bali from auckland 2023
+primary_keyword: 'when will emirates resume flights to bali from auckland 2023'
 secondary_keywords:
-- how long is a flight from nairobi to qatar
-- qatar airways nairobi email
-- qatar airways from nairobi to london
-- qatar airways nairobi recruitment
-- kq airline baggage allowance
+- 'how long is a flight from nairobi to qatar'
+- 'qatar airways nairobi email'
+- 'qatar airways from nairobi to london'
+- 'qatar airways nairobi recruitment'
+- 'kq airline baggage allowance'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

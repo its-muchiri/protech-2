@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to India: Complete Guide'
-description: Everything you need to know about flight from nairobi to india, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to india, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-india
-primary_keyword: flight from nairobi to india
+primary_keyword: 'flight from nairobi to india'
 secondary_keywords:
-- kenya airways flight from nairobi to johannesburg today
-- kq flight from nairobi to malindi
-- kenya airways flight schedule nairobi kinshasa
-- kenya airways flights from nairobi to addis ababa prices today
-- kenya airways customer care
+- 'kenya airways flight from nairobi to johannesburg today'
+- 'kq flight from nairobi to malindi'
+- 'kenya airways flight schedule nairobi kinshasa'
+- 'kenya airways flights from nairobi to addis ababa prices today'
+- 'kenya airways customer care'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

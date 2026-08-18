@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is Kq Flight from Nairobi to Mombasa: Complete Guide'
-description: Everything you need to know about how much is kq flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is kq flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-kq-flight-from-nairobi-to-mombasa
-primary_keyword: how much is kq flight from nairobi to mombasa
+primary_keyword: 'how much is kq flight from nairobi to mombasa'
 secondary_keywords:
-- flight from nairobi to seychelles
-- turkish airlines flight from nairobi to istanbul
-- how many hours from nairobi to usa flight
-- which is the cheapest flight from nairobi to mombasa
-- flight route from nairobi to new york
+- 'flight from nairobi to seychelles'
+- 'turkish airlines flight from nairobi to istanbul'
+- 'how many hours from nairobi to usa flight'
+- 'which is the cheapest flight from nairobi to mombasa'
+- 'flight route from nairobi to new york'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

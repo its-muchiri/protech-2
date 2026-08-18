@@ -1,14 +1,14 @@
 ---
 title: 'Neonatal Ventilator (NICU) for Sale: 2026 Price Guide'
-description: Kenya buying guide to neonatal ventilator (nicu) for sale. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to neonatal ventilator (nicu) for sale. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: neonatal-ventilator-nicu-for-sale
-primary_keyword: Neonatal ventilator (NICU) for sale
+primary_keyword: 'Neonatal ventilator (NICU) for sale'
 secondary_keywords:
-- ECG machines Kenya price
-- electrolyte analyzers Kenya
-- auto refractometer Kenya
-- ultrasound probes Kenya
-- chromatography equipment Kenya
+- 'ECG machines Kenya price'
+- 'electrolyte analyzers Kenya'
+- 'auto refractometer Kenya'
+- 'ultrasound probes Kenya'
+- 'chromatography equipment Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

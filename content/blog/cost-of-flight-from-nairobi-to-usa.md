@@ -1,14 +1,14 @@
 ---
 title: 'Cost of Flight from Nairobi to Usa: Complete Guide'
-description: Everything you need to know about cost of flight from nairobi to usa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cost of flight from nairobi to usa, including routes, airlines, booking tips, and fares.'
 slug: cost-of-flight-from-nairobi-to-usa
-primary_keyword: cost of flight from nairobi to usa
+primary_keyword: 'cost of flight from nairobi to usa'
 secondary_keywords:
-- kenya airways jfk to nairobi schedule
-- kenya airways flight from nairobi to johannesburg
-- kq flight from nairobi to mombasa price
-- kenya airways flight schedule nairobi to mumbai
-- kenya airways flights from nairobi to amsterdam
+- 'kenya airways jfk to nairobi schedule'
+- 'kenya airways flight from nairobi to johannesburg'
+- 'kq flight from nairobi to mombasa price'
+- 'kenya airways flight schedule nairobi to mumbai'
+- 'kenya airways flights from nairobi to amsterdam'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

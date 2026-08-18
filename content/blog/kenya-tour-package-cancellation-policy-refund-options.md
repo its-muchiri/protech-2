@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Tour Package Cancellation Policy Refund Options: Complete Guide'
-description: Kenya safari guide covering kenya tour package cancellation policy refund options, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya tour package cancellation policy refund options, including what is included, pricing, and booking advice.'
 slug: kenya-tour-package-cancellation-policy-refund-options
-primary_keyword: Kenya tour package cancellation policy refund options
+primary_keyword: 'Kenya tour package cancellation policy refund options'
 secondary_keywords:
-- Spirit of Kenya safari reviews customized tours
-- All inclusive Kenya safari packages definition / what''s included
-- Using Mpesa for payments Kenya safari
-- Kenya bird watching safari specialists expert guides
-- Day trips from Kiambu County tour operators
+- 'Spirit of Kenya safari reviews customized tours'
+- 'All inclusive Kenya safari packages definition / what''''s included'
+- 'Using Mpesa for payments Kenya safari'
+- 'Kenya bird watching safari specialists expert guides'
+- 'Day trips from Kiambu County tour operators'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

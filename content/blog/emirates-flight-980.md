@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 980: Complete Guide'
-description: Everything you need to know about emirates flight 980, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 980, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-980
-primary_keyword: emirates flight 980
+primary_keyword: 'emirates flight 980'
 secondary_keywords:
-- emirates flight 434
-- emirates flight 612 status
-- emirates flight 7
-- emirates flight 904
-- qatar airways arrival nairobi today
+- 'emirates flight 434'
+- 'emirates flight 612 status'
+- 'emirates flight 7'
+- 'emirates flight 904'
+- 'qatar airways arrival nairobi today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights to India from Toronto Emirates: Complete Guide'
-description: Everything you need to know about cheap flights to india from toronto emirates, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights to india from toronto emirates, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-to-india-from-toronto-emirates
-primary_keyword: cheap flights to india from toronto emirates
+primary_keyword: 'cheap flights to india from toronto emirates'
 secondary_keywords:
-- dubai flights from kenya
-- are there direct flights from kenya to china
-- bali flights from kenya
-- flights from kenya to calgary
-- flights from kenya to dc
+- 'dubai flights from kenya'
+- 'are there direct flights from kenya to china'
+- 'bali flights from kenya'
+- 'flights from kenya to calgary'
+- 'flights from kenya to dc'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Sweetwaters Serena Camp Ol Pejeta Price: Complete Guide'
-description: Kenya safari guide covering sweetwaters serena camp ol pejeta price, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering sweetwaters serena camp ol pejeta price, including what is included, pricing, and booking advice.'
 slug: sweetwaters-serena-camp-ol-pejeta-price
-primary_keyword: Sweetwaters Serena Camp Ol Pejeta price
+primary_keyword: 'Sweetwaters Serena Camp Ol Pejeta price'
 secondary_keywords:
-- Meektrails Safaris Kenya reviews / price
-- Best time to book Kenya safari deals / availability migration season
-- Vehicle safety standards Kenya tour operators maintenance checks
-- Volunteer tourism programs Kenya wildlife / community projects
-- Reserve luxury Kenya safari 2025/2026
+- 'Meektrails Safaris Kenya reviews / price'
+- 'Best time to book Kenya safari deals / availability migration season'
+- 'Vehicle safety standards Kenya tour operators maintenance checks'
+- 'Volunteer tourism programs Kenya wildlife / community projects'
+- 'Reserve luxury Kenya safari 2025/2026'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

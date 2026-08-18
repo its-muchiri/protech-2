@@ -1,14 +1,14 @@
 ---
 title: 'Kq Nbo Bom: Complete Guide'
-description: Everything you need to know about kq nbo bom, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq nbo bom, including routes, airlines, booking tips, and fares.'
 slug: kq-nbo-bom
-primary_keyword: kq nbo bom
+primary_keyword: 'kq nbo bom'
 secondary_keywords:
-- ethiopian airlines from beirut to nairobi
-- ethiopian airlines nairobi to kigali
-- ethiopian airlines website not working
-- flight ticket from nairobi to istanbul
-- flight booking nairobi to kisumu
+- 'ethiopian airlines from beirut to nairobi'
+- 'ethiopian airlines nairobi to kigali'
+- 'ethiopian airlines website not working'
+- 'flight ticket from nairobi to istanbul'
+- 'flight booking nairobi to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

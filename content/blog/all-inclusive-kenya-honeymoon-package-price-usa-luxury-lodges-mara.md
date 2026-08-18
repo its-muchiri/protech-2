@@ -1,14 +1,14 @@
 ---
 title: 'All-inclusive Kenya Honeymoon Package Price USA Luxury Lodges Mara: Complete Guide'
-description: Kenya safari guide covering all-inclusive kenya honeymoon package price usa luxury lodges mara, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering all-inclusive kenya honeymoon package price usa luxury lodges mara, including what is included, pricing, and booking advice.'
 slug: all-inclusive-kenya-honeymoon-package-price-usa-luxury-lodges-mara
-primary_keyword: All-inclusive Kenya honeymoon package price USA luxury lodges Mara
+primary_keyword: 'All-inclusive Kenya honeymoon package price USA luxury lodges Mara'
 secondary_keywords:
-- Reliable Kenya safari company
-- Vegan/Vegetarian safari Kenya
-- Kenya safari safety tips
-- What animals will I see Kenya safari
-- See Big Five Samburu safari lodge
+- 'Reliable Kenya safari company'
+- 'Vegan/Vegetarian safari Kenya'
+- 'Kenya safari safety tips'
+- 'What animals will I see Kenya safari'
+- 'See Big Five Samburu safari lodge'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

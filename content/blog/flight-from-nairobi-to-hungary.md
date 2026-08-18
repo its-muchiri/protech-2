@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Hungary: Complete Guide'
-description: Everything you need to know about flight from nairobi to hungary, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to hungary, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-hungary
-primary_keyword: flight from nairobi to hungary
+primary_keyword: 'flight from nairobi to hungary'
 secondary_keywords:
-- flights from mombasa to frankfurt
-- flights from mombasa to heathrow
-- flights to mombasa in december
-- jambojet flights from mombasa to nairobi today timetable
-- flights from mombasa to london
+- 'flights from mombasa to frankfurt'
+- 'flights from mombasa to heathrow'
+- 'flights to mombasa in december'
+- 'jambojet flights from mombasa to nairobi today timetable'
+- 'flights from mombasa to london'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

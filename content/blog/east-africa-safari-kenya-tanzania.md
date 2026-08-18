@@ -1,14 +1,14 @@
 ---
 title: 'East Africa Safari Kenya Tanzania: Complete Guide'
-description: Kenya safari guide covering east africa safari kenya tanzania, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering east africa safari kenya tanzania, including what is included, pricing, and booking advice.'
 slug: east-africa-safari-kenya-tanzania
-primary_keyword: East Africa safari Kenya Tanzania
+primary_keyword: 'East Africa safari Kenya Tanzania'
 secondary_keywords:
-- Karen Blixen Museum tour operators
-- Nairobi National Park day trip operators from Thika
-- Kenya safari cost per day estimate
-- Nairobi based safari companies contact
-- Kenya tours for solo female travelers safety
+- 'Karen Blixen Museum tour operators'
+- 'Nairobi National Park day trip operators from Thika'
+- 'Kenya safari cost per day estimate'
+- 'Nairobi based safari companies contact'
+- 'Kenya tours for solo female travelers safety'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

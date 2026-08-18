@@ -1,14 +1,14 @@
 ---
 title: 'Kisumu International Airport Address: Complete Guide'
-description: Everything you need to know about kisumu international airport address, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kisumu international airport address, including routes, airlines, booking tips, and fares.'
 slug: kisumu-international-airport-address
-primary_keyword: kisumu international airport address
+primary_keyword: 'kisumu international airport address'
 secondary_keywords:
-- emirates flights from riyadh
-- emirates flights from toronto
-- emirates flights from usa to india
-- flights from varanasi to dubai united arab emirates
-- emirates airlines x
+- 'emirates flights from riyadh'
+- 'emirates flights from toronto'
+- 'emirates flights from usa to india'
+- 'flights from varanasi to dubai united arab emirates'
+- 'emirates airlines x'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

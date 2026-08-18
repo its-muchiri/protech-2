@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Customer Care: Complete Guide'
-description: Everything you need to know about ethiopian airlines customer care, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines customer care, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-customer-care
-primary_keyword: ethiopian airlines customer care
+primary_keyword: 'ethiopian airlines customer care'
 secondary_keywords:
-- flights from kisumu to homa bay
-- flight rates from kisumu to nairobi
-- flights to kisumu from jkia
-- kisumu flights
-- renegade flights from kisumu to nairobi
+- 'flights from kisumu to homa bay'
+- 'flight rates from kisumu to nairobi'
+- 'flights to kisumu from jkia'
+- 'kisumu flights'
+- 'renegade flights from kisumu to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

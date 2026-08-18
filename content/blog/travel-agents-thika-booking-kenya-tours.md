@@ -1,14 +1,14 @@
 ---
 title: 'Travel Agents Thika Booking Kenya Tours: Complete Guide'
-description: Kenya safari guide covering travel agents thika booking kenya tours, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering travel agents thika booking kenya tours, including what is included, pricing, and booking advice.'
 slug: travel-agents-thika-booking-kenya-tours
-primary_keyword: Travel agents Thika booking Kenya tours
+primary_keyword: 'Travel agents Thika booking Kenya tours'
 secondary_keywords:
-- Kenya safari reviews
-- Kenya safari with private guide
-- Kenya visa for safari
-- Language spoken Kenya safari
-- Kenya safari tour operator reviews Tripadvisor
+- 'Kenya safari reviews'
+- 'Kenya safari with private guide'
+- 'Kenya visa for safari'
+- 'Language spoken Kenya safari'
+- 'Kenya safari tour operator reviews Tripadvisor'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

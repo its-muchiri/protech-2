@@ -1,14 +1,14 @@
 ---
 title: 'Best Kenya Safari Tour Deals Online: Complete Guide'
-description: Kenya safari guide covering best kenya safari tour deals online, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering best kenya safari tour deals online, including what is included, pricing, and booking advice.'
 slug: best-kenya-safari-tour-deals-online
-primary_keyword: Best Kenya safari tour deals online
+primary_keyword: 'Best Kenya safari tour deals online'
 secondary_keywords:
-- Book Kenya safari focused on western Kenya rainforest Kakamega primate tracking Europe birding tours
-- Buy Kenya safari cooking class experience package UK local cuisine focus booking
-- Reserve Gede Ruins historical site tour safari package Kenya Europe coastal history focus
-- Kenya safari tours
-- Visit Kenya safari
+- 'Book Kenya safari focused on western Kenya rainforest Kakamega primate tracking Europe birding tours'
+- 'Buy Kenya safari cooking class experience package UK local cuisine focus booking'
+- 'Reserve Gede Ruins historical site tour safari package Kenya Europe coastal history focus'
+- 'Kenya safari tours'
+- 'Visit Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

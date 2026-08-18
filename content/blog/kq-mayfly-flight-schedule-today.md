@@ -1,14 +1,14 @@
 ---
 title: 'Kq Mayfly Flight Schedule Today: Complete Guide'
-description: Everything you need to know about kq mayfly flight schedule today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq mayfly flight schedule today, including routes, airlines, booking tips, and fares.'
 slug: kq-mayfly-flight-schedule-today
-primary_keyword: kq mayfly flight schedule today
+primary_keyword: 'kq mayfly flight schedule today'
 secondary_keywords:
-- kq flights from mombasa to nairobi timetable
-- cheapest flights from mombasa to london
-- flights from mombasa to nairobi wilson airport today
-- cheap flights from nairobi to mombasa jambojet price
-- silverstone flights from mombasa to kisumu
+- 'kq flights from mombasa to nairobi timetable'
+- 'cheapest flights from mombasa to london'
+- 'flights from mombasa to nairobi wilson airport today'
+- 'cheap flights from nairobi to mombasa jambojet price'
+- 'silverstone flights from mombasa to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

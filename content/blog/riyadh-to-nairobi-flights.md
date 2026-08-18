@@ -1,14 +1,14 @@
 ---
 title: 'Riyadh to Nairobi Flights: Complete Guide'
-description: Everything you need to know about riyadh to nairobi flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about riyadh to nairobi flights, including routes, airlines, booking tips, and fares.'
 slug: riyadh-to-nairobi-flights
-primary_keyword: riyadh to nairobi flights
+primary_keyword: 'riyadh to nairobi flights'
 secondary_keywords:
-- qatar flights from kenya
-- return flights to kenya from uk
-- flights from seattle to nairobi kenya
-- cheap flights to kenya from usa
-- flights from burlington vt to nairobi kenya
+- 'qatar flights from kenya'
+- 'return flights to kenya from uk'
+- 'flights from seattle to nairobi kenya'
+- 'cheap flights to kenya from usa'
+- 'flights from burlington vt to nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

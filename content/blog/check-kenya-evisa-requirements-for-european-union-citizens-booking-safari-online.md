@@ -1,14 +1,14 @@
 ---
 title: 'Check Kenya EVisa Requirements for European Union Citizens Booking Safari Online: Complete Guide'
-description: Kenya safari guide covering check kenya evisa requirements for european union citizens booking safari online, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering check kenya evisa requirements for european union citizens booking safari online, including what is included, pricing, and booking advice.'
 slug: check-kenya-evisa-requirements-for-european-union-citizens-booking-safari-online
-primary_keyword: Check Kenya eVisa requirements for European Union citizens booking safari online
+primary_keyword: 'Check Kenya eVisa requirements for European Union citizens booking safari online'
 secondary_keywords:
-- One month Kenya volunteer tour program
-- Compare prices Kenya safari companies
-- Companies offering tours from Jomo Kenyatta Airport (JKIA)
-- Companies offering drone photography safaris (check regulations)
-- Reliable company for Lake Nakuru day trip from Thika town
+- 'One month Kenya volunteer tour program'
+- 'Compare prices Kenya safari companies'
+- 'Companies offering tours from Jomo Kenyatta Airport (JKIA)'
+- 'Companies offering drone photography safaris (check regulations)'
+- 'Reliable company for Lake Nakuru day trip from Thika town'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

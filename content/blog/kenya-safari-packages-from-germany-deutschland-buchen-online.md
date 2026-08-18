@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Packages from Germany (Deutschland) Buchen Online: Complete Guide'
-description: Kenya safari guide covering kenya safari packages from germany (deutschland) buchen online, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari packages from germany (deutschland) buchen online, including what is included, pricing, and booking advice.'
 slug: kenya-safari-packages-from-germany-deutschland-buchen-online
-primary_keyword: Kenya safari packages from Germany (Deutschland) buchen online
+primary_keyword: 'Kenya safari packages from Germany (Deutschland) buchen online'
 secondary_keywords:
-- Buy 10 day luxury mobile camping safari package private chef included cost
-- Inbound tour operators Kenya contact list
-- Amboseli budget safari packages camping options
-- Nairobi National Park half day game drive price / booking
-- Kenya photographic safari tours specialized guides / vehicles
+- 'Buy 10 day luxury mobile camping safari package private chef included cost'
+- 'Inbound tour operators Kenya contact list'
+- 'Amboseli budget safari packages camping options'
+- 'Nairobi National Park half day game drive price / booking'
+- 'Kenya photographic safari tours specialized guides / vehicles'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Orlando to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from orlando to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from orlando to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-orlando-to-dubai
-primary_keyword: emirates flights from orlando to dubai
+primary_keyword: 'emirates flights from orlando to dubai'
 secondary_keywords:
-- flights to kenya from glasgow
-- flights to kenya in june
-- flights to kenya in march
-- flights operating in kenya
-- flights from kenya to rwanda
+- 'flights to kenya from glasgow'
+- 'flights to kenya in june'
+- 'flights to kenya in march'
+- 'flights operating in kenya'
+- 'flights from kenya to rwanda'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Bird Watching Specialized Guide Company Kakamega Forest: Complete Guide'
-description: Kenya safari guide covering bird watching specialized guide company kakamega forest, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering bird watching specialized guide company kakamega forest, including what is included, pricing, and booking advice.'
 slug: bird-watching-specialized-guide-company-kakamega-forest
-primary_keyword: Bird watching specialized guide company Kakamega Forest
+primary_keyword: 'Bird watching specialized guide company Kakamega Forest'
 secondary_keywords:
-- Find Kenya safari tour with professional wildlife artist workshop UK creative travel booking
-- Kenya vacation safari
-- Tsavo East safari
-- Kakamega Forest safari
-- Child-friendly Kenya safari
+- 'Find Kenya safari tour with professional wildlife artist workshop UK creative travel booking'
+- 'Kenya vacation safari'
+- 'Tsavo East safari'
+- 'Kakamega Forest safari'
+- 'Child-friendly Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

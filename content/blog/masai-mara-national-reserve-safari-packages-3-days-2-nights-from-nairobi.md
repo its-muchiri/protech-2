@@ -1,14 +1,14 @@
 ---
 title: 'Masai Mara National Reserve Safari Packages 3 Days 2 Nights from Nairobi: Complete Guide'
-description: Kenya safari guide covering masai mara national reserve safari packages 3 days 2 nights from nairobi, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering masai mara national reserve safari packages 3 days 2 nights from nairobi, including what is included, pricing, and booking advice.'
 slug: masai-mara-national-reserve-safari-packages-3-days-2-nights-from-nairobi
-primary_keyword: Masai Mara National Reserve safari packages 3 days 2 nights from Nairobi
+primary_keyword: 'Masai Mara National Reserve safari packages 3 days 2 nights from Nairobi'
 secondary_keywords:
-- Book last minute Kenya safari deal
-- Buy 14 day Kenya grand safari package
-- Laikipia luxury safari package booking
-- Exclusive Kenya safari experience booking
-- Kenya safari package for family with kids
+- 'Book last minute Kenya safari deal'
+- 'Buy 14 day Kenya grand safari package'
+- 'Laikipia luxury safari package booking'
+- 'Exclusive Kenya safari experience booking'
+- 'Kenya safari package for family with kids'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

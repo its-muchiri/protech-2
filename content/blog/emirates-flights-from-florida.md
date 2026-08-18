@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Florida: Complete Guide'
-description: Everything you need to know about emirates flights from florida, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from florida, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-florida
-primary_keyword: emirates flights from florida
+primary_keyword: 'emirates flights from florida'
 secondary_keywords:
-- ethiopian airlines nairobi to kigali
-- ethiopian airlines website not working
-- flight ticket from nairobi to istanbul
-- flight booking nairobi to kisumu
-- flight ticket to kenya from lagos
+- 'ethiopian airlines nairobi to kigali'
+- 'ethiopian airlines website not working'
+- 'flight ticket from nairobi to istanbul'
+- 'flight booking nairobi to kisumu'
+- 'flight ticket to kenya from lagos'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

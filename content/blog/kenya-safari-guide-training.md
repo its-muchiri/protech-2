@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Guide Training: Complete Guide'
-description: Kenya safari guide covering kenya safari guide training, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari guide training, including what is included, pricing, and booking advice.'
 slug: kenya-safari-guide-training
-primary_keyword: Kenya safari guide training
+primary_keyword: 'Kenya safari guide training'
 secondary_keywords:
-- Safari packages from Nanyuki Mount Kenya / Ol Pejeta
-- Reserve small group safari tour Kenya USA operator
-- Best Kenya safari deals for USA travelers online
-- Compare Kenya safari package prices USA operators
-- Kenya bird watching safari tours USA specialist booking
+- 'Safari packages from Nanyuki Mount Kenya / Ol Pejeta'
+- 'Reserve small group safari tour Kenya USA operator'
+- 'Best Kenya safari deals for USA travelers online'
+- 'Compare Kenya safari package prices USA operators'
+- 'Kenya bird watching safari tours USA specialist booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

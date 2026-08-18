@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Kenya Photographic Hide Safari Tour Europe: Complete Guide'
-description: Kenya safari guide covering reserve kenya photographic hide safari tour europe, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve kenya photographic hide safari tour europe, including what is included, pricing, and booking advice.'
 slug: reserve-kenya-photographic-hide-safari-tour-europe
-primary_keyword: Reserve Kenya photographic hide safari tour Europe
+primary_keyword: 'Reserve Kenya photographic hide safari tour Europe'
 secondary_keywords:
-- Masai Mara safari package deals
-- Fly-in Masai Mara safari package book
-- Finch Hattons Tsavo luxury package quote
-- Private Kenya honeymoon safari quote
-- Overland truck safari Kenya package price
+- 'Masai Mara safari package deals'
+- 'Fly-in Masai Mara safari package book'
+- 'Finch Hattons Tsavo luxury package quote'
+- 'Private Kenya honeymoon safari quote'
+- 'Overland truck safari Kenya package price'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

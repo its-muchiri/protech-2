@@ -1,14 +1,14 @@
 ---
 title: 'Tour Companies Westlands Nairobi Office: Complete Guide'
-description: Kenya safari guide covering tour companies westlands nairobi office, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering tour companies westlands nairobi office, including what is included, pricing, and booking advice.'
 slug: tour-companies-westlands-nairobi-office
-primary_keyword: Tour companies Westlands Nairobi office
+primary_keyword: 'Tour companies Westlands Nairobi office'
 secondary_keywords:
-- Best rated small group Kenya safari tours Europe value
-- Reserve recommended Laikipia conservancy walking safari Europe operator eco focus
-- Buy accessible Kenya safari tour package modified vehicle Europe booking assistance
-- Reserve Kenya safari with child-friendly malaria-free area lodges USA Laikipia deals
-- Check Kenya eVisa requirements for European Union citizens booking safari online
+- 'Best rated small group Kenya safari tours Europe value'
+- 'Reserve recommended Laikipia conservancy walking safari Europe operator eco focus'
+- 'Buy accessible Kenya safari tour package modified vehicle Europe booking assistance'
+- 'Reserve Kenya safari with child-friendly malaria-free area lodges USA Laikipia deals'
+- 'Check Kenya eVisa requirements for European Union citizens booking safari online'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

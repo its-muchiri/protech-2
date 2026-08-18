@@ -1,14 +1,14 @@
 ---
 title: 'Purchase Reliable Tsavo East & West Safari Package Europe Reviews Family Friendly: Complete Guide'
-description: Kenya safari guide covering purchase reliable tsavo east & west safari package europe reviews family friendly, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase reliable tsavo east & west safari package europe reviews family friendly, including what is included, pricing, and booking advice.'
 slug: purchase-reliable-tsavo-east-and-west-safari-package-europe-reviews-family-friendly
-primary_keyword: Purchase reliable Tsavo East & West safari package Europe reviews family friendly
+primary_keyword: 'Purchase reliable Tsavo East & West safari package Europe reviews family friendly'
 secondary_keywords:
-- Discount 5 day family fly-in Amboseli package early bird
-- Aberdares lodge safari package bundle offer
-- Direct booking Kenya safari lodge  package
-- Book luxury package private chef included Kenya (niche)
-- Select Kenya Tanzania combo package itinerary quote
+- 'Discount 5 day family fly-in Amboseli package early bird'
+- 'Aberdares lodge safari package bundle offer'
+- 'Direct booking Kenya safari lodge  package'
+- 'Book luxury package private chef included Kenya (niche)'
+- 'Select Kenya Tanzania combo package itinerary quote'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

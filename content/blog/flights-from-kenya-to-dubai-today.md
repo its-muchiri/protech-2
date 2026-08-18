@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Dubai Today: Complete Guide'
-description: Everything you need to know about flights from kenya to dubai today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to dubai today, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-dubai-today
-primary_keyword: flights from kenya to dubai today
+primary_keyword: 'flights from kenya to dubai today'
 secondary_keywords:
-- flights from nairobi to vietnam
-- flights to nairobi kenya from seattle wa
-- flights from nbo to yyc
-- flights from nairobi to zambia
-- flights from south africa to kenya today
+- 'flights from nairobi to vietnam'
+- 'flights to nairobi kenya from seattle wa'
+- 'flights from nbo to yyc'
+- 'flights from nairobi to zambia'
+- 'flights from south africa to kenya today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

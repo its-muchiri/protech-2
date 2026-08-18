@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to London: Complete Guide'
-description: Everything you need to know about kq flights to london, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to london, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-london
-primary_keyword: kq flights to london
+primary_keyword: 'kq flights to london'
 secondary_keywords:
-- flights nairobi to melbourne
-- flights nairobi to new delhi
-- nairobi to oslo flights
-- flights nairobi to qatar
-- flights nairobi to rdu
+- 'flights nairobi to melbourne'
+- 'flights nairobi to new delhi'
+- 'nairobi to oslo flights'
+- 'flights nairobi to qatar'
+- 'flights nairobi to rdu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

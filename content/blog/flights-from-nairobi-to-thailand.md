@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Thailand: Complete Guide'
-description: Everything you need to know about flights from nairobi to thailand, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to thailand, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-thailand
-primary_keyword: flights from nairobi to thailand
+primary_keyword: 'flights from nairobi to thailand'
 secondary_keywords:
-- flights from mombasa to frankfurt
-- flights from mombasa to heathrow
-- flights to mombasa in december
-- jambojet flights from mombasa to nairobi today timetable
-- flights from mombasa to london
+- 'flights from mombasa to frankfurt'
+- 'flights from mombasa to heathrow'
+- 'flights to mombasa in december'
+- 'jambojet flights from mombasa to nairobi today timetable'
+- 'flights from mombasa to london'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

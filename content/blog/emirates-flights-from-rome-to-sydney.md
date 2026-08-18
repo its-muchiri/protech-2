@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Rome to Sydney: Complete Guide'
-description: Everything you need to know about emirates flights from rome to sydney, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from rome to sydney, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-rome-to-sydney
-primary_keyword: emirates flights from rome to sydney
+primary_keyword: 'emirates flights from rome to sydney'
 secondary_keywords:
-- does turkish airlines fly to morocco
-- flight ticket from kenya to usa
-- flight tickets to kenya from london
-- ticket from kenya to usa
-- local flights in kenya
+- 'does turkish airlines fly to morocco'
+- 'flight ticket from kenya to usa'
+- 'flight tickets to kenya from london'
+- 'ticket from kenya to usa'
+- 'local flights in kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

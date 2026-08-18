@@ -1,14 +1,14 @@
 ---
 title: '10 Day Kenya Tanzania Tour Sale : Complete Guide'
-description: Kenya safari guide covering 10 day kenya tanzania tour sale , including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering 10 day kenya tanzania tour sale , including what is included, pricing, and booking advice.'
 slug: 10-day-kenya-tanzania-tour-sale-season
-primary_keyword: 10 day Kenya Tanzania tour sale
+primary_keyword: '10 day Kenya Tanzania tour sale'
 secondary_keywords:
-- Price list 6 day group joining Nakuru Mara safari
-- Ol Pejeta Conservancy safari special offer
-- Small group Kenya safari package special offers
-- Tsavo safari trip plan purchase
-- Masai Mara package cost
+- 'Price list 6 day group joining Nakuru Mara safari'
+- 'Ol Pejeta Conservancy safari special offer'
+- 'Small group Kenya safari package special offers'
+- 'Tsavo safari trip plan purchase'
+- 'Masai Mara package cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Reliable Kenya Safari Company: Complete Guide'
-description: Kenya safari guide covering reliable kenya safari company, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reliable kenya safari company, including what is included, pricing, and booking advice.'
 slug: reliable-kenya-safari-company
-primary_keyword: Reliable Kenya safari company
+primary_keyword: 'Reliable Kenya safari company'
 secondary_keywords:
-- Quote wedding safari package Kenya elopement
-- Kiambu based travel agents
-- Tsavo West luxury lodge tour operators
-- Mount Kenya climbing tour operators Chogoria route
-- Small group safari tours Kenya
+- 'Quote wedding safari package Kenya elopement'
+- 'Kiambu based travel agents'
+- 'Tsavo West luxury lodge tour operators'
+- 'Mount Kenya climbing tour operators Chogoria route'
+- 'Small group safari tours Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

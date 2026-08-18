@@ -1,14 +1,14 @@
 ---
 title: 'Pipettes and Micropipettes Set Price: 2026 Price Guide'
-description: Kenya buying guide to pipettes and micropipettes set price. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to pipettes and micropipettes set price. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: pipettes-and-micropipettes-set-price
-primary_keyword: Pipettes and micropipettes set price
+primary_keyword: 'Pipettes and micropipettes set price'
 secondary_keywords:
-- Veterinary surgical instrument kit suppliers
-- Hospital disinfectants and cleaning solutions
-- Hospital incinerator manufacturers in Kenya
-- Malaria RDTs bulk price for NGOs
-- Vaccine refrigerator and freezer price
+- 'Veterinary surgical instrument kit suppliers'
+- 'Hospital disinfectants and cleaning solutions'
+- 'Hospital incinerator manufacturers in Kenya'
+- 'Malaria RDTs bulk price for NGOs'
+- 'Vaccine refrigerator and freezer price'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

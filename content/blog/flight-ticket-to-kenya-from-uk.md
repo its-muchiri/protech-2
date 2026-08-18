@@ -1,14 +1,14 @@
 ---
 title: 'Flight Ticket to Kenya from Uk: Complete Guide'
-description: Everything you need to know about flight ticket to kenya from uk, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight ticket to kenya from uk, including routes, airlines, booking tips, and fares.'
 slug: flight-ticket-to-kenya-from-uk
-primary_keyword: flight ticket to kenya from uk
+primary_keyword: 'flight ticket to kenya from uk'
 secondary_keywords:
-- kq flights to harare
-- kenya airways flights johannesburg to nairobi
-- kq flights london to nairobi
-- kenya airways flights mombasa to nairobi
-- kq flight online booking
+- 'kq flights to harare'
+- 'kenya airways flights johannesburg to nairobi'
+- 'kq flights london to nairobi'
+- 'kenya airways flights mombasa to nairobi'
+- 'kq flight online booking'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

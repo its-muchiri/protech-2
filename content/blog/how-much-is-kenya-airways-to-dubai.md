@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is Kenya Airways to Dubai: Complete Guide'
-description: Everything you need to know about how much is kenya airways to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is kenya airways to dubai, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-kenya-airways-to-dubai
-primary_keyword: how much is kenya airways to dubai
+primary_keyword: 'how much is kenya airways to dubai'
 secondary_keywords:
-- cost of flight from nairobi to kisumu
-- flight from nairobi to eldoret jambojet
-- flight time from nairobi to victoria falls
-- flight from nairobi to germany price
-- flight from nairobi to hamburg
+- 'cost of flight from nairobi to kisumu'
+- 'flight from nairobi to eldoret jambojet'
+- 'flight time from nairobi to victoria falls'
+- 'flight from nairobi to germany price'
+- 'flight from nairobi to hamburg'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

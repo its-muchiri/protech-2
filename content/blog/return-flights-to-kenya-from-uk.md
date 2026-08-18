@@ -1,14 +1,14 @@
 ---
 title: 'Return Flights to Kenya from Uk: Complete Guide'
-description: Everything you need to know about return flights to kenya from uk, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about return flights to kenya from uk, including routes, airlines, booking tips, and fares.'
 slug: return-flights-to-kenya-from-uk
-primary_keyword: return flights to kenya from uk
+primary_keyword: 'return flights to kenya from uk'
 secondary_keywords:
-- how much flight from nairobi to mombasa
-- flight 540 nairobi to mombasa price indigo
-- flight 748 nairobi to mombasa price
-- turkish airlines arrival nairobi
-- turkish airlines departures nairobi today
+- 'how much flight from nairobi to mombasa'
+- 'flight 540 nairobi to mombasa price indigo'
+- 'flight 748 nairobi to mombasa price'
+- 'turkish airlines arrival nairobi'
+- 'turkish airlines departures nairobi today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

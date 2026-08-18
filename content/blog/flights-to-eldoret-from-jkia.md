@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Eldoret from Jkia: Complete Guide'
-description: Everything you need to know about flights to eldoret from jkia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to eldoret from jkia, including routes, airlines, booking tips, and fares.'
 slug: flights-to-eldoret-from-jkia
-primary_keyword: flights to eldoret from jkia
+primary_keyword: 'flights to eldoret from jkia'
 secondary_keywords:
-- zanzibar flights from kenya
-- 748 flights from kisumu to nairobi
-- flights from nairobi
-- flights from nairobi to amsterdam today
-- flights from nairobi to boston
+- 'zanzibar flights from kenya'
+- '748 flights from kisumu to nairobi'
+- 'flights from nairobi'
+- 'flights from nairobi to amsterdam today'
+- 'flights from nairobi to boston'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

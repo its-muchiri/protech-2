@@ -1,14 +1,14 @@
 ---
 title: 'Klm Flight from Nairobi to Vancouver: Complete Guide'
-description: Everything you need to know about klm flight from nairobi to vancouver, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about klm flight from nairobi to vancouver, including routes, airlines, booking tips, and fares.'
 slug: klm-flight-from-nairobi-to-vancouver
-primary_keyword: klm flight from nairobi to vancouver
+primary_keyword: 'klm flight from nairobi to vancouver'
 secondary_keywords:
-- flight from kenya to haiti
-- flight from kenya to indonesia
-- flights from kenya to juba
-- flight from kenya to south korea
-- flights from kenya to lithuania
+- 'flight from kenya to haiti'
+- 'flight from kenya to indonesia'
+- 'flights from kenya to juba'
+- 'flight from kenya to south korea'
+- 'flights from kenya to lithuania'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

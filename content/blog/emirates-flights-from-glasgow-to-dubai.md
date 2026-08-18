@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Glasgow to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from glasgow to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from glasgow to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-glasgow-to-dubai
-primary_keyword: emirates flights from glasgow to dubai
+primary_keyword: 'emirates flights from glasgow to dubai'
 secondary_keywords:
-- flights from nairobi to us
-- flights from vancouver to nairobi
-- flights from ukunda to nairobi wilson
-- zanzibar flights from nairobi
-- flights from nairobi to seychelles direct
+- 'flights from nairobi to us'
+- 'flights from vancouver to nairobi'
+- 'flights from ukunda to nairobi wilson'
+- 'zanzibar flights from nairobi'
+- 'flights from nairobi to seychelles direct'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Does Emirates Fly to Frankfurt: Complete Guide'
-description: Everything you need to know about does emirates fly to frankfurt, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about does emirates fly to frankfurt, including routes, airlines, booking tips, and fares.'
 slug: does-emirates-fly-to-frankfurt
-primary_keyword: does emirates fly to frankfurt
+primary_keyword: 'does emirates fly to frankfurt'
 secondary_keywords:
-- emirates flight 521 video
-- emirates flight 602
-- emirates flight 817
-- qatar flight from nairobi
-- how much is a flight ticket from nairobi to qatar
+- 'emirates flight 521 video'
+- 'emirates flight 602'
+- 'emirates flight 817'
+- 'qatar flight from nairobi'
+- 'how much is a flight ticket from nairobi to qatar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

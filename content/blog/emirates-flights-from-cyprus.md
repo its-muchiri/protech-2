@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Cyprus: Complete Guide'
-description: Everything you need to know about emirates flights from cyprus, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from cyprus, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-cyprus
-primary_keyword: emirates flights from cyprus
+primary_keyword: 'emirates flights from cyprus'
 secondary_keywords:
-- cheapest flight from nairobi to dubai
-- air india flight from nairobi to delhi
-- flight from nairobi to busia
-- flight from nairobi to california
-- flight from nairobi to diani beach
+- 'cheapest flight from nairobi to dubai'
+- 'air india flight from nairobi to delhi'
+- 'flight from nairobi to busia'
+- 'flight from nairobi to california'
+- 'flight from nairobi to diani beach'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

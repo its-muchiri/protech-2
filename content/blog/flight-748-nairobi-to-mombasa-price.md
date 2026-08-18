@@ -1,14 +1,14 @@
 ---
 title: 'Flight 748 Nairobi to Mombasa Price: Complete Guide'
-description: Everything you need to know about flight 748 nairobi to mombasa price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight 748 nairobi to mombasa price, including routes, airlines, booking tips, and fares.'
 slug: flight-748-nairobi-to-mombasa-price
-primary_keyword: flight 748 nairobi to mombasa price
+primary_keyword: 'flight 748 nairobi to mombasa price'
 secondary_keywords:
-- sq605 flight status
-- kq nbo bom
-- emirates flight from nairobi to dubai today schedule
-- does emirates fly to kenya
-- emirates flight from dubai to nairobi tomorrow
+- 'sq605 flight status'
+- 'kq nbo bom'
+- 'emirates flight from nairobi to dubai today schedule'
+- 'does emirates fly to kenya'
+- 'emirates flight from dubai to nairobi tomorrow'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

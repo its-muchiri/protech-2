@@ -1,14 +1,14 @@
 ---
 title: 'Mayo Stand Instrument Trolley Cost: 2026 Price Guide'
-description: Kenya buying guide to mayo stand instrument trolley cost. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to mayo stand instrument trolley cost. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: mayo-stand-instrument-trolley-cost
-primary_keyword: Mayo stand instrument trolley cost
+primary_keyword: 'Mayo stand instrument trolley cost'
 secondary_keywords:
-- IVF lab equipment suppliers in Nairobi
-- bone densitometry services in Nairobi cost
-- medical gas alarm system for hospitals
-- braille machine price in Kenya
-- hospital waste management plan
+- 'IVF lab equipment suppliers in Nairobi'
+- 'bone densitometry services in Nairobi cost'
+- 'medical gas alarm system for hospitals'
+- 'braille machine price in Kenya'
+- 'hospital waste management plan'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

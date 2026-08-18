@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Loisaba: Complete Guide'
-description: Everything you need to know about flights nairobi to loisaba, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to loisaba, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-loisaba
-primary_keyword: flights nairobi to loisaba
+primary_keyword: 'flights nairobi to loisaba'
 secondary_keywords:
-- flights from houston to nairobi kenya
-- cheap flights from istanbul to kenya
-- kenya airways flights from johannesburg to nairobi
-- flights from kuwait to kenya
-- kenya airways flights from lusaka to nairobi
+- 'flights from houston to nairobi kenya'
+- 'cheap flights from istanbul to kenya'
+- 'kenya airways flights from johannesburg to nairobi'
+- 'flights from kuwait to kenya'
+- 'kenya airways flights from lusaka to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

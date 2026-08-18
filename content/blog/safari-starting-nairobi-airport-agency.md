@@ -1,14 +1,14 @@
 ---
 title: 'Safari Starting Nairobi Airport Agency: Complete Guide'
-description: Kenya safari guide covering safari starting nairobi airport agency, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering safari starting nairobi airport agency, including what is included, pricing, and booking advice.'
 slug: safari-starting-nairobi-airport-agency
-primary_keyword: Safari starting Nairobi airport agency
+primary_keyword: 'Safari starting Nairobi airport agency'
 secondary_keywords:
-- Book Kenya migration safari tour Masai Mara Europe 2025
-- Samburu Reserve safari deals UK Samburu Special Five
-- Origin-Specific Queries (UK, USA, Europe, Germany, France, etc.)
-- Book Kenya safari departing Frankfurt Europe cost
-- Family friendly Kenya safari operators recommendations USA
+- 'Book Kenya migration safari tour Masai Mara Europe 2025'
+- 'Samburu Reserve safari deals UK Samburu Special Five'
+- 'Origin-Specific Queries (UK, USA, Europe, Germany, France, etc.)'
+- 'Book Kenya safari departing Frankfurt Europe cost'
+- 'Family friendly Kenya safari operators recommendations USA'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

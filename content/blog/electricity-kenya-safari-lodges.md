@@ -1,14 +1,14 @@
 ---
 title: 'Electricity Kenya Safari Lodges: Complete Guide'
-description: Kenya safari guide covering electricity kenya safari lodges, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering electricity kenya safari lodges, including what is included, pricing, and booking advice.'
 slug: electricity-kenya-safari-lodges
-primary_keyword: Electricity Kenya safari lodges
+primary_keyword: 'Electricity Kenya safari lodges'
 secondary_keywords:
-- Buy 6 day Amboseli Tsavo safari package
-- Masai Mara safari package deals
-- Fly-in Masai Mara safari package book
-- Finch Hattons Tsavo luxury package quote
-- Private Kenya honeymoon safari quote
+- 'Buy 6 day Amboseli Tsavo safari package'
+- 'Masai Mara safari package deals'
+- 'Fly-in Masai Mara safari package book'
+- 'Finch Hattons Tsavo luxury package quote'
+- 'Private Kenya honeymoon safari quote'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

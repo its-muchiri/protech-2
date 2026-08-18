@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Saudi Arabia: Complete Guide'
-description: Everything you need to know about flights from kenya to saudi arabia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to saudi arabia, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-saudi-arabia
-primary_keyword: flights from kenya to saudi arabia
+primary_keyword: 'flights from kenya to saudi arabia'
 secondary_keywords:
-- cheap flights from nairobi to mombasa jambojet price
-- silverstone flights from mombasa to kisumu
-- wilson airport flights from mombasa
-- kq flights from kisumu to mombasa
-- flight from nairobi to kisumu cost
+- 'cheap flights from nairobi to mombasa jambojet price'
+- 'silverstone flights from mombasa to kisumu'
+- 'wilson airport flights from mombasa'
+- 'kq flights from kisumu to mombasa'
+- 'flight from nairobi to kisumu cost'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

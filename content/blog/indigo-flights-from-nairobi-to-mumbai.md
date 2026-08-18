@@ -1,14 +1,14 @@
 ---
 title: 'Indigo Flights from Nairobi to Mumbai: Complete Guide'
-description: Everything you need to know about indigo flights from nairobi to mumbai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about indigo flights from nairobi to mumbai, including routes, airlines, booking tips, and fares.'
 slug: indigo-flights-from-nairobi-to-mumbai
-primary_keyword: indigo flights from nairobi to mumbai
+primary_keyword: 'indigo flights from nairobi to mumbai'
 secondary_keywords:
-- kq 001
-- kq 203 flight status today
-- kq306 flight status
-- kq 521 flight status
-- sq612 flight status
+- 'kq 001'
+- 'kq 203 flight status today'
+- 'kq306 flight status'
+- 'kq 521 flight status'
+- 'sq612 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

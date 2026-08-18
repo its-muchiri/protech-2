@@ -1,14 +1,14 @@
 ---
 title: 'Mauritius Flights from Nairobi: Complete Guide'
-description: Everything you need to know about mauritius flights from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about mauritius flights from nairobi, including routes, airlines, booking tips, and fares.'
 slug: mauritius-flights-from-nairobi
-primary_keyword: mauritius flights from nairobi
+primary_keyword: 'mauritius flights from nairobi'
 secondary_keywords:
-- do i need a passport for domestic flights in kenya
-- flights to kenya from toronto
-- international airlines in kenya
-- low cost flights in kenya
-- nairobi to india flights price in kenya shillings
+- 'do i need a passport for domestic flights in kenya'
+- 'flights to kenya from toronto'
+- 'international airlines in kenya'
+- 'low cost flights in kenya'
+- 'nairobi to india flights price in kenya shillings'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

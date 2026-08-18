@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Kilimanjaro: Complete Guide'
-description: Everything you need to know about flights from mombasa to kilimanjaro, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to kilimanjaro, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-kilimanjaro
-primary_keyword: flights from mombasa to kilimanjaro
+primary_keyword: 'flights from mombasa to kilimanjaro'
 secondary_keywords:
-- how much is a flight from nairobi to america
-- flights from mombasa to arusha
-- flights from boston to mombasa kenya
-- flights to mombasa cost
-- flights to mombasa direct
+- 'how much is a flight from nairobi to america'
+- 'flights from mombasa to arusha'
+- 'flights from boston to mombasa kenya'
+- 'flights to mombasa cost'
+- 'flights to mombasa direct'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

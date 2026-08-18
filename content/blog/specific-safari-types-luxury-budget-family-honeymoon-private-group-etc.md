@@ -1,14 +1,14 @@
 ---
 title: 'Specific Safari Types (Luxury, Budget, Family, Honeymoon, Private, Group, Etc.): Complete Guide'
-description: Kenya safari guide covering specific safari types (luxury, budget, family, honeymoon, private, group, etc.), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering specific safari types (luxury, budget, family, honeymoon, private, group, etc.), including what is included, pricing, and booking advice.'
 slug: specific-safari-types-luxury-budget-family-honeymoon-private-group-etc
-primary_keyword: Specific Safari Types (Luxury, Budget, Family, Honeymoon, Private, Group, etc.)
+primary_keyword: 'Specific Safari Types (Luxury, Budget, Family, Honeymoon, Private, Group, etc.)'
 secondary_keywords:
-- Community based tourism projects Kenya support local initiatives
-- Bonfire Adventures Kenya safari packages price list / reviews
-- Southern Cross Safaris Kenya Mombasa based
-- Packing list for Kenya safari clothes / gear recommendations
-- Tour guide qualifications Kenya KPSGA certification
+- 'Community based tourism projects Kenya support local initiatives'
+- 'Bonfire Adventures Kenya safari packages price list / reviews'
+- 'Southern Cross Safaris Kenya Mombasa based'
+- 'Packing list for Kenya safari clothes / gear recommendations'
+- 'Tour guide qualifications Kenya KPSGA certification'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

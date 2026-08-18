@@ -1,14 +1,14 @@
 ---
 title: 'Masai Mara Conservancy Safari: Complete Guide'
-description: Kenya safari guide covering masai mara conservancy safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering masai mara conservancy safari, including what is included, pricing, and booking advice.'
 slug: masai-mara-conservancy-safari
-primary_keyword: Masai Mara conservancy safari
+primary_keyword: 'Masai Mara conservancy safari'
 secondary_keywords:
-- Fly 540 / Jambojet flights to Diani / Malindi price
-- Aberdare Ranges hiking tours Satima Peak
-- Giraffe Centre Nairobi tour Kiss a Giraffe experience cost
-- Axis Africa Safaris budget camping packages
-- Kenya safari cost breakdown (park fees, accommodation, transport)
+- 'Fly 540 / Jambojet flights to Diani / Malindi price'
+- 'Aberdare Ranges hiking tours Satima Peak'
+- 'Giraffe Centre Nairobi tour Kiss a Giraffe experience cost'
+- 'Axis Africa Safaris budget camping packages'
+- 'Kenya safari cost breakdown (park fees, accommodation, transport)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

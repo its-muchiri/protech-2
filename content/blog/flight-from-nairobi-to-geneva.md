@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Geneva: Complete Guide'
-description: Everything you need to know about flight from nairobi to geneva, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to geneva, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-geneva
-primary_keyword: flight from nairobi to geneva
+primary_keyword: 'flight from nairobi to geneva'
 secondary_keywords:
-- emirates jkia
-- emirates dubai nairobi schedule
-- emirates flight from kenya to canada
-- does emirates fly from kenya to dubai
-- how much is emirates ticket from dubai to kenya
+- 'emirates jkia'
+- 'emirates dubai nairobi schedule'
+- 'emirates flight from kenya to canada'
+- 'does emirates fly from kenya to dubai'
+- 'how much is emirates ticket from dubai to kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

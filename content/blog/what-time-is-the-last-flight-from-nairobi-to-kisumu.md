@@ -1,14 +1,14 @@
 ---
 title: 'What Time Is the Last Flight from Nairobi to Kisumu: Complete Guide'
-description: Everything you need to know about what time is the last flight from nairobi to kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about what time is the last flight from nairobi to kisumu, including routes, airlines, booking tips, and fares.'
 slug: what-time-is-the-last-flight-from-nairobi-to-kisumu
-primary_keyword: what time is the last flight from nairobi to kisumu
+primary_keyword: 'what time is the last flight from nairobi to kisumu'
 secondary_keywords:
-- qatar flight from nairobi to doha
-- flights from riyadh to nairobi
-- skyward flights from nairobi to mombasa
-- uganda airlines flights from nairobi to entebbe today
-- flights from nairobi wilson to diani beach
+- 'qatar flight from nairobi to doha'
+- 'flights from riyadh to nairobi'
+- 'skyward flights from nairobi to mombasa'
+- 'uganda airlines flights from nairobi to entebbe today'
+- 'flights from nairobi wilson to diani beach'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

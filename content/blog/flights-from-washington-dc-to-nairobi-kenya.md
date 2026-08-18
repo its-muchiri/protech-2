@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Washington Dc to Nairobi Kenya: Complete Guide'
-description: Everything you need to know about flights from washington dc to nairobi kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from washington dc to nairobi kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-washington-dc-to-nairobi-kenya
-primary_keyword: flights from washington dc to nairobi kenya
+primary_keyword: 'flights from washington dc to nairobi kenya'
 secondary_keywords:
-- kenya airways flights from harare to dubai
-- kq flight from nairobi to lagos
-- kq flight from new york
-- kq flight from nairobi to dubai today
-- kq direct flight from nairobi to new york ticket price
+- 'kenya airways flights from harare to dubai'
+- 'kq flight from nairobi to lagos'
+- 'kq flight from new york'
+- 'kq flight from nairobi to dubai today'
+- 'kq direct flight from nairobi to new york ticket price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

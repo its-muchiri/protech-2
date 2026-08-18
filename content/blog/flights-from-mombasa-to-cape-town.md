@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Cape Town: Complete Guide'
-description: Everything you need to know about flights from mombasa to cape town, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to cape town, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-cape-town
-primary_keyword: flights from mombasa to cape town
+primary_keyword: 'flights from mombasa to cape town'
 secondary_keywords:
-- flights nairobi to jfk
-- flights nairobi to kilifi
-- flights nairobi to london today
-- nairobi to mombasa flights price
-- nairobi to nakuru flights
+- 'flights nairobi to jfk'
+- 'flights nairobi to kilifi'
+- 'flights nairobi to london today'
+- 'nairobi to mombasa flights price'
+- 'nairobi to nakuru flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

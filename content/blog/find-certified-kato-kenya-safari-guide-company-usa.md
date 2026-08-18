@@ -1,14 +1,14 @@
 ---
 title: 'Find Certified KATO Kenya Safari Guide Company USA: Complete Guide'
-description: Kenya safari guide covering find certified kato kenya safari guide company usa, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering find certified kato kenya safari guide company usa, including what is included, pricing, and booking advice.'
 slug: find-certified-kato-kenya-safari-guide-company-usa
-primary_keyword: Find certified KATO Kenya safari guide company USA
+primary_keyword: 'Find certified KATO Kenya safari guide company USA'
 secondary_keywords:
-- Family friendly safari lodges Masai Mara kids activities
-- Luxury tented camps Samburu (Elephant Bedroom, Sasaab) booking
-- Private Kenya safari vs group joining safari pros and cons
-- Lamu Island cultural holiday packages UNESCO site tours
-- Mount Kilimanjaro climbing tours from Kenya operators
+- 'Family friendly safari lodges Masai Mara kids activities'
+- 'Luxury tented camps Samburu (Elephant Bedroom, Sasaab) booking'
+- 'Private Kenya safari vs group joining safari pros and cons'
+- 'Lamu Island cultural holiday packages UNESCO site tours'
+- 'Mount Kilimanjaro climbing tours from Kenya operators'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

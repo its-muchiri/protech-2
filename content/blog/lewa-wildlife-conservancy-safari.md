@@ -1,14 +1,14 @@
 ---
 title: 'Lewa Wildlife Conservancy Safari: Complete Guide'
-description: Kenya safari guide covering lewa wildlife conservancy safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering lewa wildlife conservancy safari, including what is included, pricing, and booking advice.'
 slug: lewa-wildlife-conservancy-safari
-primary_keyword: Lewa Wildlife Conservancy safari
+primary_keyword: 'Lewa Wildlife Conservancy safari'
 secondary_keywords:
-- Ol Donyo Sabuk day hike tour company Thika
-- Kenya safari companies with child-friendly guides
-- Compare prices Mount Kenya Sirimon route climb operators
-- Price for private Land Cruiser hire with driver guide Kenya 7 days
-- Secure spot on Kenya group safari tour
+- 'Ol Donyo Sabuk day hike tour company Thika'
+- 'Kenya safari companies with child-friendly guides'
+- 'Compare prices Mount Kenya Sirimon route climb operators'
+- 'Price for private Land Cruiser hire with driver guide Kenya 7 days'
+- 'Secure spot on Kenya group safari tour'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

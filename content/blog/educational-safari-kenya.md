@@ -1,14 +1,14 @@
 ---
 title: 'Educational Safari Kenya: Complete Guide'
-description: Kenya safari guide covering educational safari kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering educational safari kenya, including what is included, pricing, and booking advice.'
 slug: educational-safari-kenya
-primary_keyword: Educational safari Kenya
+primary_keyword: 'Educational safari Kenya'
 secondary_keywords:
-- Buy Amboseli tour package online
-- Secure Borana Conservancy luxury safari booking
-- Buy two week Kenya adventure tour reservation
-- Book photographic safari Kenya specialist tour
-- Budget for guided Kenya safari tour
+- 'Buy Amboseli tour package online'
+- 'Secure Borana Conservancy luxury safari booking'
+- 'Buy two week Kenya adventure tour reservation'
+- 'Book photographic safari Kenya specialist tour'
+- 'Budget for guided Kenya safari tour'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

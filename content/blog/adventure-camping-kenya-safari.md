@@ -1,14 +1,14 @@
 ---
 title: 'Adventure Camping Kenya Safari: Complete Guide'
-description: Kenya safari guide covering adventure camping kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering adventure camping kenya safari, including what is included, pricing, and booking advice.'
 slug: adventure-camping-kenya-safari
-primary_keyword: Adventure camping Kenya safari
+primary_keyword: 'Adventure camping Kenya safari'
 secondary_keywords:
-- Family friendly Kenya safari operators recommendations USA
-- Kenya safari packages Christmas/New Year 2025 deals availability
-- Quality/Trust Based (Best, Top, Luxury, Reliable, Recommended, Reviews)
-- Top Kenya photographic safari guides booking USA portfolio
-- Buy top rated Kenya Big Five lodge safari package UK online secure booking
+- 'Family friendly Kenya safari operators recommendations USA'
+- 'Kenya safari packages Christmas/New Year 2025 deals availability'
+- 'Quality/Trust Based (Best, Top, Luxury, Reliable, Recommended, Reviews)'
+- 'Top Kenya photographic safari guides booking USA portfolio'
+- 'Buy top rated Kenya Big Five lodge safari package UK online secure booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

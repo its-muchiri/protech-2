@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Spain: Complete Guide'
-description: Everything you need to know about flight from nairobi to spain, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to spain, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-spain
-primary_keyword: flight from nairobi to spain
+primary_keyword: 'flight from nairobi to spain'
 secondary_keywords:
-- flights from hyderabad to nairobi kenya
-- flights from kenya to jamaica
-- flights from jfk to nairobi kenya
-- flights from nairobi to kitale kenya
-- cheap flights from london to nairobi kenya
+- 'flights from hyderabad to nairobi kenya'
+- 'flights from kenya to jamaica'
+- 'flights from jfk to nairobi kenya'
+- 'flights from nairobi to kitale kenya'
+- 'cheap flights from london to nairobi kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

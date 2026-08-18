@@ -1,14 +1,14 @@
 ---
 title: 'Book Kenya Safari Tour Package: Complete Guide'
-description: Kenya safari guide covering book kenya safari tour package, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book kenya safari tour package, including what is included, pricing, and booking advice.'
 slug: book-kenya-safari-tour-package
-primary_keyword: Book Kenya safari tour package
+primary_keyword: 'Book Kenya safari tour package'
 secondary_keywords:
-- Mid-range Kenya safari cost
-- Lake Nakuru accommodation
-- Chimpanzee tracking Kenya (Ol Pejeta)
-- Elephant safari Kenya
-- Safari starting Mombasa
+- 'Mid-range Kenya safari cost'
+- 'Lake Nakuru accommodation'
+- 'Chimpanzee tracking Kenya (Ol Pejeta)'
+- 'Elephant safari Kenya'
+- 'Safari starting Mombasa'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

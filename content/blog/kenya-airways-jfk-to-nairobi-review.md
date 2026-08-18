@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Jfk to Nairobi Review: Complete Guide'
-description: Everything you need to know about kenya airways jfk to nairobi review, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways jfk to nairobi review, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-jfk-to-nairobi-review
-primary_keyword: kenya airways jfk to nairobi review
+primary_keyword: 'kenya airways jfk to nairobi review'
 secondary_keywords:
-- flights from nairobi to amman jordan
-- flights from mombasa airport
-- flights to mombasa from birmingham
-- flight from mombasa to canada
-- flights from mombasa to dar
+- 'flights from nairobi to amman jordan'
+- 'flights from mombasa airport'
+- 'flights to mombasa from birmingham'
+- 'flight from mombasa to canada'
+- 'flights from mombasa to dar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Reserve 12 Day East Africa Highlights Tour Package Flights Included Option Buy: Complete Guide'
-description: Kenya safari guide covering reserve 12 day east africa highlights tour package flights included option buy, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve 12 day east africa highlights tour package flights included option buy, including what is included, pricing, and booking advice.'
 slug: reserve-12-day-east-africa-highlights-tour-package-flights-included-option-buy
-primary_keyword: Reserve 12 day East Africa highlights tour package flights included option buy
+primary_keyword: 'Reserve 12 day East Africa highlights tour package flights included option buy'
 secondary_keywords:
-- Safari packages from Nanyuki Mount Kenya / Ol Pejeta
-- Reserve small group safari tour Kenya USA operator
-- Best Kenya safari deals for USA travelers online
-- Compare Kenya safari package prices USA operators
-- Kenya bird watching safari tours USA specialist booking
+- 'Safari packages from Nanyuki Mount Kenya / Ol Pejeta'
+- 'Reserve small group safari tour Kenya USA operator'
+- 'Best Kenya safari deals for USA travelers online'
+- 'Compare Kenya safari package prices USA operators'
+- 'Kenya bird watching safari tours USA specialist booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

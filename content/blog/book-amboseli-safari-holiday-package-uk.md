@@ -1,14 +1,14 @@
 ---
 title: 'Book Amboseli Safari Holiday Package UK: Complete Guide'
-description: Kenya safari guide covering book amboseli safari holiday package uk, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book amboseli safari holiday package uk, including what is included, pricing, and booking advice.'
 slug: book-amboseli-safari-holiday-package-uk
-primary_keyword: Book Amboseli safari holiday package UK
+primary_keyword: 'Book Amboseli safari holiday package UK'
 secondary_keywords:
-- Book 7 day luxury fly-in Masai Mara migration package July
-- Purchase 6 day Meru Elsa''s Kopje luxury fly-in package quote
-- Local Kenyan tour companies vs international operators
-- Affordable Masai Mara camping safari group joining price
-- Lake Nakuru National Park day trip from Nairobi cost Flamingo Hill Camp
+- 'Book 7 day luxury fly-in Masai Mara migration package July'
+- 'Purchase 6 day Meru Elsa''''s Kopje luxury fly-in package quote'
+- 'Local Kenyan tour companies vs international operators'
+- 'Affordable Masai Mara camping safari group joining price'
+- 'Lake Nakuru National Park day trip from Nairobi cost Flamingo Hill Camp'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

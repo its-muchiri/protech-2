@@ -1,14 +1,14 @@
 ---
 title: '8 Day Kenya Safari: Complete Guide'
-description: Kenya safari guide covering 8 day kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering 8 day kenya safari, including what is included, pricing, and booking advice.'
 slug: 8-day-kenya-safari
-primary_keyword: 8 day Kenya safari
+primary_keyword: '8 day Kenya safari'
 secondary_keywords:
-- Couples safari package Kenya reserve
-- Affordable 7 day Kenya safari booking
-- Masai Mara Lake Nakuru safari package deal
-- Easter holiday Kenya safari package buy
-- Kenya safari reviews and booking
+- 'Couples safari package Kenya reserve'
+- 'Affordable 7 day Kenya safari booking'
+- 'Masai Mara Lake Nakuru safari package deal'
+- 'Easter holiday Kenya safari package buy'
+- 'Kenya safari reviews and booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

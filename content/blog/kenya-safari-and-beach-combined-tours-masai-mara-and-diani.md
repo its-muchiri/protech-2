@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari and Beach Combined Tours Masai Mara and Diani: Complete Guide'
-description: Kenya safari guide covering kenya safari and beach combined tours masai mara and diani, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari and beach combined tours masai mara and diani, including what is included, pricing, and booking advice.'
 slug: kenya-safari-and-beach-combined-tours-masai-mara-and-diani
-primary_keyword: Kenya safari and beach combined tours Masai Mara and Diani
+primary_keyword: 'Kenya safari and beach combined tours Masai Mara and Diani'
 secondary_keywords:
-- Kenya safari binoculars recommendation
-- What makes Masai Mara special
-- Small group migration safari Kenya August
-- Overcrowded Masai Mara safari
-- Pangolin safari Kenya (extremely difficult sighting)
+- 'Kenya safari binoculars recommendation'
+- 'What makes Masai Mara special'
+- 'Small group migration safari Kenya August'
+- 'Overcrowded Masai Mara safari'
+- 'Pangolin safari Kenya (extremely difficult sighting)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from New York to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from new york to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from new york to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-new-york-to-dubai
-primary_keyword: emirates flights from new york to dubai
+primary_keyword: 'emirates flights from new york to dubai'
 secondary_keywords:
-- does emirates fly from kenya to dubai
-- how much is emirates ticket from dubai to kenya
-- emirates recruitment kenya
-- emirates fare from nairobi to dubai
-- how much is a flight from kenya to ethiopia
+- 'does emirates fly from kenya to dubai'
+- 'how much is emirates ticket from dubai to kenya'
+- 'emirates recruitment kenya'
+- 'emirates fare from nairobi to dubai'
+- 'how much is a flight from kenya to ethiopia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

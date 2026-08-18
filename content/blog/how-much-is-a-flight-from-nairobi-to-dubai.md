@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is a Flight from Nairobi to Dubai: Complete Guide'
-description: Everything you need to know about how much is a flight from nairobi to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is a flight from nairobi to dubai, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-a-flight-from-nairobi-to-dubai
-primary_keyword: how much is a flight from nairobi to dubai
+primary_keyword: 'how much is a flight from nairobi to dubai'
 secondary_keywords:
-- kq flight cost from nairobi to mombasa
-- kq flight disruptions jkia
-- kq flights from entebbe to nairobi today
-- kq galiot
-- i-fly air kenya
+- 'kq flight cost from nairobi to mombasa'
+- 'kq flight disruptions jkia'
+- 'kq flights from entebbe to nairobi today'
+- 'kq galiot'
+- 'i-fly air kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

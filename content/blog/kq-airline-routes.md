@@ -1,14 +1,14 @@
 ---
 title: 'Kq Airline Routes: Complete Guide'
-description: Everything you need to know about kq airline routes, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq airline routes, including routes, airlines, booking tips, and fares.'
 slug: kq-airline-routes
-primary_keyword: kq airline routes
+primary_keyword: 'kq airline routes'
 secondary_keywords:
-- flights from nairobi to ottawa
-- flights from nairobi to perth
-- qatar airways flights from nairobi to doha
-- flights to rwanda from nairobi
-- skyward flights from nairobi to eldoret
+- 'flights from nairobi to ottawa'
+- 'flights from nairobi to perth'
+- 'qatar airways flights from nairobi to doha'
+- 'flights to rwanda from nairobi'
+- 'skyward flights from nairobi to eldoret'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

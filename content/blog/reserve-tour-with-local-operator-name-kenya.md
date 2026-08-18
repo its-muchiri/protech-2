@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Tour with  Kenya: Complete Guide'
-description: Kenya safari guide covering reserve tour with  kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve tour with  kenya, including what is included, pricing, and booking advice.'
 slug: reserve-tour-with-local-operator-name-kenya
-primary_keyword: Reserve tour with  Kenya
+primary_keyword: 'Reserve tour with  Kenya'
 secondary_keywords:
-- Book 10 day package operator
-- Price for all-inclusive honeymoon package Kenya coast safari
-- Book 4 day Ol Pejeta chimpanzee safari package deal
-- Buy 5 day Amboseli Serena lodge package
-- Book 4 day Mount Kenya Safari Club package deal
+- 'Book 10 day package operator'
+- 'Price for all-inclusive honeymoon package Kenya coast safari'
+- 'Book 4 day Ol Pejeta chimpanzee safari package deal'
+- 'Buy 5 day Amboseli Serena lodge package'
+- 'Book 4 day Mount Kenya Safari Club package deal'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

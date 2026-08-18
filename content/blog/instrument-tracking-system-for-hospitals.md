@@ -1,14 +1,14 @@
 ---
 title: 'Instrument Tracking System for Hospitals: 2026 Price Guide'
-description: Kenya buying guide to instrument tracking system for hospitals. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to instrument tracking system for hospitals. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: instrument-tracking-system-for-hospitals
-primary_keyword: Instrument tracking system for hospitals
+primary_keyword: 'Instrument tracking system for hospitals'
 secondary_keywords:
-- research lab equipment grants in Kenya
-- affordable medical supplies Kenya
-- medical equipment Mombasa
-- KN95 masks Kenya bulk
-- IV cannulas Kenya available
+- 'research lab equipment grants in Kenya'
+- 'affordable medical supplies Kenya'
+- 'medical equipment Mombasa'
+- 'KN95 masks Kenya bulk'
+- 'IV cannulas Kenya available'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

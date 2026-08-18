@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight 3: Complete Guide'
-description: Everything you need to know about kq flight 3, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight 3, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-3
-primary_keyword: kq flight 3
+primary_keyword: 'kq flight 3'
 secondary_keywords:
-- safarilink flights from eldoret to nairobi
-- kq flight attendant jobs
-- kq flights booking
-- kenya airways flight requirements
-- kq flights from nairobi to china price
+- 'safarilink flights from eldoret to nairobi'
+- 'kq flight attendant jobs'
+- 'kq flights booking'
+- 'kenya airways flight requirements'
+- 'kq flights from nairobi to china price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

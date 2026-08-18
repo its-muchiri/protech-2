@@ -1,14 +1,14 @@
 ---
-title: 'Pollman's Tours & Safaris Kenya Contact / Services: Complete Guide'
-description: Kenya safari guide covering pollmans tours & safaris kenya contact / services, including what is included, pricing, and booking advice.
+title: 'Pollman''s Tours & Safaris Kenya Contact / Services: Complete Guide'
+description: 'Kenya safari guide covering pollmans tours & safaris kenya contact / services, including what is included, pricing, and booking advice.'
 slug: pollman-s-tours-and-safaris-kenya-contact-services
-primary_keyword: Pollman's Tours & Safaris Kenya contact / services
+primary_keyword: 'Pollman''s Tours & Safaris Kenya contact / services'
 secondary_keywords:
-- Laikipia safari
-- Affordable Kenya safari
-- Fly-in Kenya safari
-- Mobile camping safari Kenya
-- 3 day Kenya safari
+- 'Laikipia safari'
+- 'Affordable Kenya safari'
+- 'Fly-in Kenya safari'
+- 'Mobile camping safari Kenya'
+- '3 day Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

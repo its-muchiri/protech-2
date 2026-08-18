@@ -1,14 +1,14 @@
 ---
 title: 'Emergency Evacuation Plan Kenya Tour Operators: Complete Guide'
-description: Kenya safari guide covering emergency evacuation plan kenya tour operators, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering emergency evacuation plan kenya tour operators, including what is included, pricing, and booking advice.'
 slug: emergency-evacuation-plan-kenya-tour-operators
-primary_keyword: Emergency evacuation plan Kenya tour operators
+primary_keyword: 'Emergency evacuation plan Kenya tour operators'
 secondary_keywords:
-- Estimate for 6 day Samburu Nakuru safari
-- Price enquiry 5 day family fly-in Amboseli package
-- Tsavo East West safari discount code
-- Budget Kenya camping safari offers last minute
-- (These words are often combined with the above sections, but can be searched directly)
+- 'Estimate for 6 day Samburu Nakuru safari'
+- 'Price enquiry 5 day family fly-in Amboseli package'
+- 'Tsavo East West safari discount code'
+- 'Budget Kenya camping safari offers last minute'
+- '(These words are often combined with the above sections, but can be searched directly)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

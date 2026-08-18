@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Masai Mara: Complete Guide'
-description: Everything you need to know about flights from mombasa to masai mara, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to masai mara, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-masai-mara
-primary_keyword: flights from mombasa to masai mara
+primary_keyword: 'flights from mombasa to masai mara'
 secondary_keywords:
-- kq flights from eldoret to mombasa
-- skyward flights from eldoret to nairobi
-- kq flights arrivals
-- kq flights to amsterdam
-- kenya airways flight schedule
+- 'kq flights from eldoret to mombasa'
+- 'skyward flights from eldoret to nairobi'
+- 'kq flights arrivals'
+- 'kq flights to amsterdam'
+- 'kenya airways flight schedule'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

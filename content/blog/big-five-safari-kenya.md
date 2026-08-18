@@ -1,14 +1,14 @@
 ---
 title: 'Big Five Safari Kenya: Complete Guide'
-description: Kenya safari guide covering big five safari kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering big five safari kenya, including what is included, pricing, and booking advice.'
 slug: big-five-safari-kenya
-primary_keyword: Big Five safari Kenya
+primary_keyword: 'Big Five safari Kenya'
 secondary_keywords:
-- Luo cultural tours Kisumu Lake Victoria
-- Thika pineapple farms tour local operators
-- Somak Safaris Kenya UK based operator
-- Kenya e-Visa application official website / cost 2025
-- How to check if a Kenya tour company is legitimate
+- 'Luo cultural tours Kisumu Lake Victoria'
+- 'Thika pineapple farms tour local operators'
+- 'Somak Safaris Kenya UK based operator'
+- 'Kenya e-Visa application official website / cost 2025'
+- 'How to check if a Kenya tour company is legitimate'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

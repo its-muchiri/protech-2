@@ -1,14 +1,14 @@
 ---
 title: 'Sydney to Nairobi Flights: Complete Guide'
-description: Everything you need to know about sydney to nairobi flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about sydney to nairobi flights, including routes, airlines, booking tips, and fares.'
 slug: sydney-to-nairobi-flights
-primary_keyword: sydney to nairobi flights
+primary_keyword: 'sydney to nairobi flights'
 secondary_keywords:
-- international airlines in kenya
-- low cost flights in kenya
-- nairobi to india flights price in kenya shillings
-- flights to kenya round trip
-- flights kenya to uganda
+- 'international airlines in kenya'
+- 'low cost flights in kenya'
+- 'nairobi to india flights price in kenya shillings'
+- 'flights to kenya round trip'
+- 'flights kenya to uganda'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

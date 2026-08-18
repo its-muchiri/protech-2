@@ -1,14 +1,14 @@
 ---
 title: 'Safari En Kenia (Spanish): Complete Guide'
-description: Kenya safari guide covering safari en kenia (spanish), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering safari en kenia (spanish), including what is included, pricing, and booking advice.'
 slug: safari-en-kenia-spanish
-primary_keyword: Safari en Kenia (Spanish)
+primary_keyword: 'Safari en Kenia (Spanish)'
 secondary_keywords:
-- Luo cultural tours Kisumu Lake Victoria
-- Thika pineapple farms tour local operators
-- Somak Safaris Kenya UK based operator
-- Kenya e-Visa application official website / cost 2025
-- How to check if a Kenya tour company is legitimate
+- 'Luo cultural tours Kisumu Lake Victoria'
+- 'Thika pineapple farms tour local operators'
+- 'Somak Safaris Kenya UK based operator'
+- 'Kenya e-Visa application official website / cost 2025'
+- 'How to check if a Kenya tour company is legitimate'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

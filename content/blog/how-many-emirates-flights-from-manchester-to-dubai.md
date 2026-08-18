@@ -1,14 +1,14 @@
 ---
 title: 'How Many Emirates Flights from Manchester to Dubai: Complete Guide'
-description: Everything you need to know about how many emirates flights from manchester to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how many emirates flights from manchester to dubai, including routes, airlines, booking tips, and fares.'
 slug: how-many-emirates-flights-from-manchester-to-dubai
-primary_keyword: how many emirates flights from manchester to dubai
+primary_keyword: 'how many emirates flights from manchester to dubai'
 secondary_keywords:
-- kq flights to south africa
-- book kq flights
-- kq flight cape town to nairobi
-- kq flight details
-- kq flights from entebbe to nairobi
+- 'kq flights to south africa'
+- 'book kq flights'
+- 'kq flight cape town to nairobi'
+- 'kq flight details'
+- 'kq flights from entebbe to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

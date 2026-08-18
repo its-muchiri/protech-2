@@ -1,14 +1,14 @@
 ---
 title: 'Skyward Flights from Eldoret to Nairobi: Complete Guide'
-description: Everything you need to know about skyward flights from eldoret to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about skyward flights from eldoret to nairobi, including routes, airlines, booking tips, and fares.'
 slug: skyward-flights-from-eldoret-to-nairobi
-primary_keyword: skyward flights from eldoret to nairobi
+primary_keyword: 'skyward flights from eldoret to nairobi'
 secondary_keywords:
-- kenya airways flight from nairobi to mauritius
-- kenya airways flight from nairobi to usa
-- kenya airways flights from nairobi to ahmedabad
-- kenya airways flight from cape town to nairobi
-- kenya airways flights from nairobi to lagos
+- 'kenya airways flight from nairobi to mauritius'
+- 'kenya airways flight from nairobi to usa'
+- 'kenya airways flights from nairobi to ahmedabad'
+- 'kenya airways flight from cape town to nairobi'
+- 'kenya airways flights from nairobi to lagos'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

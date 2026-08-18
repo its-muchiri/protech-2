@@ -1,14 +1,14 @@
 ---
 title: '3 Bedroom Nairobi: Complete Guide'
-description: Everything you need to know about 3 bedroom nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about 3 bedroom nairobi, including routes, airlines, booking tips, and fares.'
 slug: 3-bedroom-nairobi
-primary_keyword: 3 bedroom nairobi
+primary_keyword: '3 bedroom nairobi'
 secondary_keywords:
-- juba to nairobi flights
-- flights nairobi to lamu
-- flights nairobi to morocco
-- tickets to nairobi national park
-- flights nairobi to perth
+- 'juba to nairobi flights'
+- 'flights nairobi to lamu'
+- 'flights nairobi to morocco'
+- 'tickets to nairobi national park'
+- 'flights nairobi to perth'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

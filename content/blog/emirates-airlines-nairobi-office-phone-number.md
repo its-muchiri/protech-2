@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Airlines Nairobi Office Phone Number: Complete Guide'
-description: Everything you need to know about emirates airlines nairobi office phone number, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates airlines nairobi office phone number, including routes, airlines, booking tips, and fares.'
 slug: emirates-airlines-nairobi-office-phone-number
-primary_keyword: emirates airlines nairobi office phone number
+primary_keyword: 'emirates airlines nairobi office phone number'
 secondary_keywords:
-- kq flight from jfk to nairobi
-- kq airline online check in
-- kq 305
-- kenya airways flight arrivals nairobi
-- kq flight from nairobi to entebbe
+- 'kq flight from jfk to nairobi'
+- 'kq airline online check in'
+- 'kq 305'
+- 'kenya airways flight arrivals nairobi'
+- 'kq flight from nairobi to entebbe'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

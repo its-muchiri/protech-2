@@ -1,14 +1,14 @@
 ---
 title: '1 Day Kenya Safari: Complete Guide'
-description: Kenya safari guide covering 1 day kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering 1 day kenya safari, including what is included, pricing, and booking advice.'
 slug: 1-day-kenya-safari
-primary_keyword: 1 day Kenya safari
+primary_keyword: '1 day Kenya safari'
 secondary_keywords:
-- Camel safari Samburu / Laikipia operators
-- Direct Booking/Purchase Intent (Book, Buy, Purchase, Reserve)
-- Book Kenya camping safari adventure Europe budget
-- Luxury Kenya safari package quote Europe agent
-- Special offers Kenya safari tours online
+- 'Camel safari Samburu / Laikipia operators'
+- 'Direct Booking/Purchase Intent (Book, Buy, Purchase, Reserve)'
+- 'Book Kenya camping safari adventure Europe budget'
+- 'Luxury Kenya safari package quote Europe agent'
+- 'Special offers Kenya safari tours online'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

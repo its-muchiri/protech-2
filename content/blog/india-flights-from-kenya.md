@@ -1,14 +1,14 @@
 ---
 title: 'India Flights from Kenya: Complete Guide'
-description: Everything you need to know about india flights from kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about india flights from kenya, including routes, airlines, booking tips, and fares.'
 slug: india-flights-from-kenya
-primary_keyword: india flights from kenya
+primary_keyword: 'india flights from kenya'
 secondary_keywords:
-- kq domestic flight schedule
-- kq cancelled flights
-- kq flights from dubai to nairobi price
-- kq flights to germany
-- kq international flights
+- 'kq domestic flight schedule'
+- 'kq cancelled flights'
+- 'kq flights from dubai to nairobi price'
+- 'kq flights to germany'
+- 'kq international flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

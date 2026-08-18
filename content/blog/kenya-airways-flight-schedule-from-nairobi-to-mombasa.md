@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight Schedule from Nairobi to Mombasa: Complete Guide'
-description: Everything you need to know about kenya airways flight schedule from nairobi to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight schedule from nairobi to mombasa, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-schedule-from-nairobi-to-mombasa
-primary_keyword: kenya airways flight schedule from nairobi to mombasa
+primary_keyword: 'kenya airways flight schedule from nairobi to mombasa'
 secondary_keywords:
-- ghana flights from kenya
-- kenya to hargeisa flight
-- flight from kenya to india time
-- flights from kenya to jhb
-- flight from kenya to hong kong
+- 'ghana flights from kenya'
+- 'kenya to hargeisa flight'
+- 'flight from kenya to india time'
+- 'flights from kenya to jhb'
+- 'flight from kenya to hong kong'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

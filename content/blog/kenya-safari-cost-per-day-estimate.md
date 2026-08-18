@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Cost Per Day Estimate: Complete Guide'
-description: Kenya safari guide covering kenya safari cost per day estimate, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari cost per day estimate, including what is included, pricing, and booking advice.'
 slug: kenya-safari-cost-per-day-estimate
-primary_keyword: Kenya safari cost per day estimate
+primary_keyword: 'Kenya safari cost per day estimate'
 secondary_keywords:
-- Quote for 9 day Kenya small group safari package tour
-- Get deal 12 day Kenya Tanzania migration combo package booking
-- Purchase voucher Kenya family safari package
-- Buy discounted off-peak Kenya safari package April
-- Quote all-in price 10 day family safari Kenya December
+- 'Quote for 9 day Kenya small group safari package tour'
+- 'Get deal 12 day Kenya Tanzania migration combo package booking'
+- 'Purchase voucher Kenya family safari package'
+- 'Buy discounted off-peak Kenya safari package April'
+- 'Quote all-in price 10 day family safari Kenya December'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Travel Agents in Thika Town Booking Safaris Elisa Travel Agency: Complete Guide'
-description: Kenya safari guide covering travel agents in thika town booking safaris elisa travel agency, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering travel agents in thika town booking safaris elisa travel agency, including what is included, pricing, and booking advice.'
 slug: travel-agents-in-thika-town-booking-safaris-elisa-travel-agency
-primary_keyword: Travel agents in Thika town booking safaris Elisa Travel Agency
+primary_keyword: 'Travel agents in Thika town booking safaris Elisa Travel Agency'
 secondary_keywords:
-- Specific Locations (Masai Mara, Amboseli, Tsavo, Samburu, Nakuru, Laikipia, etc.)
-- Aberdare National Park tree lodge safari booking UK
-- Kenya tour operators for UK market recommendations
-- Book with local Kenya safari operator direct price
-- Time-Sensitive/Urgency (Last minute, Availability, Specific dates/months)
+- 'Specific Locations (Masai Mara, Amboseli, Tsavo, Samburu, Nakuru, Laikipia, etc.)'
+- 'Aberdare National Park tree lodge safari booking UK'
+- 'Kenya tour operators for UK market recommendations'
+- 'Book with local Kenya safari operator direct price'
+- 'Time-Sensitive/Urgency (Last minute, Availability, Specific dates/months)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

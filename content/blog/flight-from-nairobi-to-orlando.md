@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Orlando: Complete Guide'
-description: Everything you need to know about flight from nairobi to orlando, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to orlando, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-orlando
-primary_keyword: flight from nairobi to orlando
+primary_keyword: 'flight from nairobi to orlando'
 secondary_keywords:
-- flight 540 nairobi to eldoret
-- b6 6 flight status
-- turkish airlines routes
-- turkish airlines airport contact number
-- turkish airlines in nairobi offices
+- 'flight 540 nairobi to eldoret'
+- 'b6 6 flight status'
+- 'turkish airlines routes'
+- 'turkish airlines airport contact number'
+- 'turkish airlines in nairobi offices'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: '1-crank Manual Hospital Bed Price: 2026 Price Guide'
-description: Kenya buying guide to 1-crank manual hospital bed price. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to 1-crank manual hospital bed price. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: 1-crank-manual-hospital-bed-price
-primary_keyword: 1-crank manual hospital bed price
+primary_keyword: '1-crank manual hospital bed price'
 secondary_keywords:
-- clinic disposables Kenya
-- oxygen concentrators Kenya price
-- surgical scissors Kenya
-- sterilizers medical Kenya
-- baby scales Kenya
+- 'clinic disposables Kenya'
+- 'oxygen concentrators Kenya price'
+- 'surgical scissors Kenya'
+- 'sterilizers medical Kenya'
+- 'baby scales Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

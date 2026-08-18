@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from London: Complete Guide'
-description: Everything you need to know about kq flight from london, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from london, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-london
-primary_keyword: kq flight from london
+primary_keyword: 'kq flight from london'
 secondary_keywords:
-- turkish airlines office nairobi airport
-- turkey flight from kenya
-- flight ticket from kenya to china
-- flight booking mombasa to nairobi
-- ticket from kenya to india
+- 'turkish airlines office nairobi airport'
+- 'turkey flight from kenya'
+- 'flight ticket from kenya to china'
+- 'flight booking mombasa to nairobi'
+- 'ticket from kenya to india'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

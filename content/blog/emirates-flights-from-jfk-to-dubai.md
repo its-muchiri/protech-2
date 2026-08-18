@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Jfk to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from jfk to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from jfk to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-jfk-to-dubai
-primary_keyword: emirates flights from jfk to dubai
+primary_keyword: 'emirates flights from jfk to dubai'
 secondary_keywords:
-- flights from islamabad to dubai united arab emirates
-- emirates flights from frankfurt
-- emirates flights from glasgow today timetable
-- emirates flights from hong kong
-- emirates flights from iad
+- 'flights from islamabad to dubai united arab emirates'
+- 'emirates flights from frankfurt'
+- 'emirates flights from glasgow today timetable'
+- 'emirates flights from hong kong'
+- 'emirates flights from iad'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

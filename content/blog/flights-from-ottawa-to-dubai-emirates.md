@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Ottawa to Dubai Emirates: Complete Guide'
-description: Everything you need to know about flights from ottawa to dubai emirates, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from ottawa to dubai emirates, including routes, airlines, booking tips, and fares.'
 slug: flights-from-ottawa-to-dubai-emirates
-primary_keyword: flights from ottawa to dubai emirates
+primary_keyword: 'flights from ottawa to dubai emirates'
 secondary_keywords:
-- flight from nairobi to mombasa how long
-- flights from italy to mombasa
-- flights from mombasa to kigali
-- fly from mombasa to lamu
-- morning flights from mombasa to nairobi
+- 'flight from nairobi to mombasa how long'
+- 'flights from italy to mombasa'
+- 'flights from mombasa to kigali'
+- 'fly from mombasa to lamu'
+- 'morning flights from mombasa to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

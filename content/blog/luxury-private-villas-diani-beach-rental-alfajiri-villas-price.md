@@ -1,14 +1,14 @@
 ---
 title: 'Luxury Private Villas Diani Beach Rental Alfajiri Villas Price: Complete Guide'
-description: Kenya safari guide covering luxury private villas diani beach rental alfajiri villas price, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering luxury private villas diani beach rental alfajiri villas price, including what is included, pricing, and booking advice.'
 slug: luxury-private-villas-diani-beach-rental-alfajiri-villas-price
-primary_keyword: Luxury private villas Diani Beach rental Alfajiri Villas price
+primary_keyword: 'Luxury private villas Diani Beach rental Alfajiri Villas price'
 secondary_keywords:
-- Secure 9 day custom Laikipia family adventure purchase
-- Meru National Park package price estimate
-- Lodge safari package Kenya rates request
-- Last minute Kenya safari deals
-- One week Kenya wildlife tour special offers
+- 'Secure 9 day custom Laikipia family adventure purchase'
+- 'Meru National Park package price estimate'
+- 'Lodge safari package Kenya rates request'
+- 'Last minute Kenya safari deals'
+- 'One week Kenya wildlife tour special offers'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

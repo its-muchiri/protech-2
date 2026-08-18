@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kenya to Georgia: Complete Guide'
-description: Everything you need to know about flight from kenya to georgia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kenya to georgia, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kenya-to-georgia
-primary_keyword: flight from kenya to georgia
+primary_keyword: 'flight from kenya to georgia'
 secondary_keywords:
-- how many flights per day in kenya
-- does kenya airways fly to usa
-- airlines in kenya job vacancies
-- requirements for local flights in kenya
-- flights to kenya in october
+- 'how many flights per day in kenya'
+- 'does kenya airways fly to usa'
+- 'airlines in kenya job vacancies'
+- 'requirements for local flights in kenya'
+- 'flights to kenya in october'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Tour Operator License Check Kenya TRA: Complete Guide'
-description: Kenya safari guide covering tour operator license check kenya tra, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering tour operator license check kenya tra, including what is included, pricing, and booking advice.'
 slug: tour-operator-license-check-kenya-tra
-primary_keyword: Tour operator license check Kenya TRA
+primary_keyword: 'Tour operator license check Kenya TRA'
 secondary_keywords:
-- Language spoken Kenya safari
-- Kenya safari tour operator reviews Tripadvisor
-- 4 day Samburu reserve safari package deal
-- Butterfly safari Kenya (Arabuko Sokoke)
-- Kenya safari COVID requirements (Historically important)
+- 'Language spoken Kenya safari'
+- 'Kenya safari tour operator reviews Tripadvisor'
+- '4 day Samburu reserve safari package deal'
+- 'Butterfly safari Kenya (Arabuko Sokoke)'
+- 'Kenya safari COVID requirements (Historically important)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

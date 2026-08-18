@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways Nairobi Office Opening Hours: Complete Guide'
-description: Everything you need to know about qatar airways nairobi office opening hours, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways nairobi office opening hours, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-nairobi-office-opening-hours
-primary_keyword: qatar airways nairobi office opening hours
+primary_keyword: 'qatar airways nairobi office opening hours'
 secondary_keywords:
-- flights to kenya from winnipeg
-- flights from nbo to yvr
-- flights from nairobi kenya to zurich switzerland
-- how much is a flight from kenya to south africa
-- how much is a flight from kenya to china
+- 'flights to kenya from winnipeg'
+- 'flights from nbo to yvr'
+- 'flights from nairobi kenya to zurich switzerland'
+- 'how much is a flight from kenya to south africa'
+- 'how much is a flight from kenya to china'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'KATO Operator for Accessible Safari Van Hire Nairobi: Complete Guide'
-description: Kenya safari guide covering kato operator for accessible safari van hire nairobi, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kato operator for accessible safari van hire nairobi, including what is included, pricing, and booking advice.'
 slug: kato-operator-for-accessible-safari-van-hire-nairobi
-primary_keyword: KATO operator for accessible safari van hire Nairobi
+primary_keyword: 'KATO operator for accessible safari van hire Nairobi'
 secondary_keywords:
-- Recommended Kenya tour operators for migration safari viewing
-- Urgent Kenya safari booking online UK instant confirmation
-- Best luxury Kenya safari packages reviews Conde Nast UK
-- Reputable Kenya camping safari providers UK reviews
-- Cost comparison budget Kenya group safari tours USA local vs international agents
+- 'Recommended Kenya tour operators for migration safari viewing'
+- 'Urgent Kenya safari booking online UK instant confirmation'
+- 'Best luxury Kenya safari packages reviews Conde Nast UK'
+- 'Reputable Kenya camping safari providers UK reviews'
+- 'Cost comparison budget Kenya group safari tours USA local vs international agents'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

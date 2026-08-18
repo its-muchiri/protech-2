@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Flights from Addis Ababa to Nairobi Price: Complete Guide'
-description: Everything you need to know about ethiopian airlines flights from addis ababa to nairobi price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines flights from addis ababa to nairobi price, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-flights-from-addis-ababa-to-nairobi-price
-primary_keyword: ethiopian airlines flights from addis ababa to nairobi price
+primary_keyword: 'ethiopian airlines flights from addis ababa to nairobi price'
 secondary_keywords:
-- kq flights from kisumu to nairobi today
-- cheap flights from kisumu to nairobi
-- are there flights from eldoret to kisumu
-- flights to kisumu kenya airways
-- flights from kisumu to nairobi price
+- 'kq flights from kisumu to nairobi today'
+- 'cheap flights from kisumu to nairobi'
+- 'are there flights from eldoret to kisumu'
+- 'flights to kisumu kenya airways'
+- 'flights from kisumu to nairobi price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

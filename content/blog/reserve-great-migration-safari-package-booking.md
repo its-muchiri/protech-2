@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Great Migration Safari Package Booking: Complete Guide'
-description: Kenya safari guide covering reserve great migration safari package booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve great migration safari package booking, including what is included, pricing, and booking advice.'
 slug: reserve-great-migration-safari-package-booking
-primary_keyword: Reserve Great Migration safari package booking
+primary_keyword: 'Reserve Great Migration safari package booking'
 secondary_keywords:
-- Reserve private vehicle & guide safari Kenya price quote per day USA flexible itinerary
-- Find deals Kenya safari green season (Apr-May) Europe discounts luxury lodges availability
-- Buy multi-country East Africa safari Kenya Tanzania Rwanda gorilla trek USA operator package cost
-- Find Kenya safari lodge with private plunge pool booking USA luxury honeymoon deals
-- Book tea plantation tour Limuru safari add-on Kenya Europe agricultural tourism booking
+- 'Reserve private vehicle & guide safari Kenya price quote per day USA flexible itinerary'
+- 'Find deals Kenya safari green season (Apr-May) Europe discounts luxury lodges availability'
+- 'Buy multi-country East Africa safari Kenya Tanzania Rwanda gorilla trek USA operator package cost'
+- 'Find Kenya safari lodge with private plunge pool booking USA luxury honeymoon deals'
+- 'Book tea plantation tour Limuru safari add-on Kenya Europe agricultural tourism booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

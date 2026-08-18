@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Gede Ruins Historical Site Tour Safari Package Kenya Europe Coastal History Focus: Complete Guide'
-description: Kenya safari guide covering reserve gede ruins historical site tour safari package kenya europe coastal history focus, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve gede ruins historical site tour safari package kenya europe coastal history focus, including what is included, pricing, and booking advice.'
 slug: reserve-gede-ruins-historical-site-tour-safari-package-kenya-europe-coastal-history-focus
-primary_keyword: Reserve Gede Ruins historical site tour safari package Kenya Europe coastal history focus
+primary_keyword: 'Reserve Gede Ruins historical site tour safari package Kenya Europe coastal history focus'
 secondary_keywords:
-- Purchase Kenya multi-park circuit booking
-- Reserve 9 day migration special safari booking
-- Buy lodge safari package Kenya
-- Cost of Kenya safari tour
-- 3 day Kenya safari package price quote
+- 'Purchase Kenya multi-park circuit booking'
+- 'Reserve 9 day migration special safari booking'
+- 'Buy lodge safari package Kenya'
+- 'Cost of Kenya safari tour'
+- '3 day Kenya safari package price quote'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

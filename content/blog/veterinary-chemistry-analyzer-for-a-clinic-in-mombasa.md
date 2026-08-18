@@ -1,14 +1,14 @@
 ---
 title: 'Veterinary Chemistry Analyzer for a Clinic in Mombasa: 2026 Price Guide'
-description: Kenya buying guide to veterinary chemistry analyzer for a clinic in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to veterinary chemistry analyzer for a clinic in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: veterinary-chemistry-analyzer-for-a-clinic-in-mombasa
-primary_keyword: Veterinary chemistry analyzer for a clinic in Mombasa
+primary_keyword: 'Veterinary chemistry analyzer for a clinic in Mombasa'
 secondary_keywords:
-- HIV test kit Kenya
-- nebulizer masks Kenya
-- chemical reagents Kenya
-- dental consumables Kenya
-- walking frames Kenya price
+- 'HIV test kit Kenya'
+- 'nebulizer masks Kenya'
+- 'chemical reagents Kenya'
+- 'dental consumables Kenya'
+- 'walking frames Kenya price'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

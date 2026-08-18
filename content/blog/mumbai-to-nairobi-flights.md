@@ -1,14 +1,14 @@
 ---
 title: 'Mumbai to Nairobi Flights: Complete Guide'
-description: Everything you need to know about mumbai to nairobi flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about mumbai to nairobi flights, including routes, airlines, booking tips, and fares.'
 slug: mumbai-to-nairobi-flights
-primary_keyword: mumbai to nairobi flights
+primary_keyword: 'mumbai to nairobi flights'
 secondary_keywords:
-- emirates flights from riyadh to dubai
-- emirates flights from singapore
-- emirates flights from uk to dubai
-- emirates flight from vancouver to delhi
-- emirates flights from gatwick which terminal
+- 'emirates flights from riyadh to dubai'
+- 'emirates flights from singapore'
+- 'emirates flights from uk to dubai'
+- 'emirates flight from vancouver to delhi'
+- 'emirates flights from gatwick which terminal'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

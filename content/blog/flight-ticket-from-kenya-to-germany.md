@@ -1,14 +1,14 @@
 ---
 title: 'Flight Ticket from Kenya to Germany: Complete Guide'
-description: Everything you need to know about flight ticket from kenya to germany, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight ticket from kenya to germany, including routes, airlines, booking tips, and fares.'
 slug: flight-ticket-from-kenya-to-germany
-primary_keyword: flight ticket from kenya to germany
+primary_keyword: 'flight ticket from kenya to germany'
 secondary_keywords:
-- ethiopian airlines contacts kenya nairobi
-- ethiopian airlines nairobi office working hours
-- what countries does turkish airlines fly to
-- which airline goes to kenya
-- flight ticket to kenya from lagos
+- 'ethiopian airlines contacts kenya nairobi'
+- 'ethiopian airlines nairobi office working hours'
+- 'what countries does turkish airlines fly to'
+- 'which airline goes to kenya'
+- 'flight ticket to kenya from lagos'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

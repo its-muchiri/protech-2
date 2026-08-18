@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Tehran to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from tehran to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from tehran to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-tehran-to-dubai
-primary_keyword: emirates flights from tehran to dubai
+primary_keyword: 'emirates flights from tehran to dubai'
 secondary_keywords:
-- flights for kenya
-- flights from kenya to germany today
-- flights from kenya to houston
-- flights from hyderabad to nairobi kenya
-- flights from kenya to jamaica
+- 'flights for kenya'
+- 'flights from kenya to germany today'
+- 'flights from kenya to houston'
+- 'flights from hyderabad to nairobi kenya'
+- 'flights from kenya to jamaica'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

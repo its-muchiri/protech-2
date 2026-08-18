@@ -1,14 +1,14 @@
 ---
 title: 'Latest Flight from Nairobi to Mombasa: Complete Guide'
-description: Everything you need to know about latest flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about latest flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.'
 slug: latest-flight-from-nairobi-to-mombasa
-primary_keyword: latest flight from nairobi to mombasa
+primary_keyword: 'latest flight from nairobi to mombasa'
 secondary_keywords:
-- emirates flights from johannesburg
-- emirates flights from dublin to kochi
-- emirates flights from miami
-- emirates flights from orlando to dubai
-- emirates flights from pakistan to london
+- 'emirates flights from johannesburg'
+- 'emirates flights from dublin to kochi'
+- 'emirates flights from miami'
+- 'emirates flights from orlando to dubai'
+- 'emirates flights from pakistan to london'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Renegade Flights from Kisumu to Nairobi: Complete Guide'
-description: Everything you need to know about renegade flights from kisumu to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about renegade flights from kisumu to nairobi, including routes, airlines, booking tips, and fares.'
 slug: renegade-flights-from-kisumu-to-nairobi
-primary_keyword: renegade flights from kisumu to nairobi
+primary_keyword: 'renegade flights from kisumu to nairobi'
 secondary_keywords:
-- flights from nairobi to new zealand
-- flights from nairobi to mombasa today
-- how long is a flight from nairobi to usa
-- flights from mombasa to addis ababa ethiopia
-- cost of flight to mombasa
+- 'flights from nairobi to new zealand'
+- 'flights from nairobi to mombasa today'
+- 'how long is a flight from nairobi to usa'
+- 'flights from mombasa to addis ababa ethiopia'
+- 'cost of flight to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

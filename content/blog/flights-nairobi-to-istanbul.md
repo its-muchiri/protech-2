@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Istanbul: Complete Guide'
-description: Everything you need to know about flights nairobi to istanbul, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to istanbul, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-istanbul
-primary_keyword: flights nairobi to istanbul
+primary_keyword: 'flights nairobi to istanbul'
 secondary_keywords:
-- emirates flights from london to dubai yesterday
-- emirates flight 0202
-- emirates flight 15
-- emirates flights to dubai from nairobi
-- emirates flight 407
+- 'emirates flights from london to dubai yesterday'
+- 'emirates flight 0202'
+- 'emirates flight 15'
+- 'emirates flights to dubai from nairobi'
+- 'emirates flight 407'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

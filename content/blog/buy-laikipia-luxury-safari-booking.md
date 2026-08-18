@@ -1,14 +1,14 @@
 ---
 title: 'Buy Laikipia Luxury Safari Booking: Complete Guide'
-description: Kenya safari guide covering buy laikipia luxury safari booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy laikipia luxury safari booking, including what is included, pricing, and booking advice.'
 slug: buy-laikipia-luxury-safari-booking
-primary_keyword: Buy Laikipia luxury safari booking
+primary_keyword: 'Buy Laikipia luxury safari booking'
 secondary_keywords:
-- Operator for Amboseli package book
-- Deal on 4 day Tsavo East family package from Mombasa book
-- Buy 10 day East Africa budget overland tour package
-- Book 11 day Kenya discovery self-drive package (assisted) quote
-- Cost of 5 day Samburu special five photo package buy
+- 'Operator for Amboseli package book'
+- 'Deal on 4 day Tsavo East family package from Mombasa book'
+- 'Buy 10 day East Africa budget overland tour package'
+- 'Book 11 day Kenya discovery self-drive package (assisted) quote'
+- 'Cost of 5 day Samburu special five photo package buy'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

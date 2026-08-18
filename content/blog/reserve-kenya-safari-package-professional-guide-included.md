@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Kenya Safari Package Professional Guide Included: Complete Guide'
-description: Kenya safari guide covering reserve kenya safari package professional guide included, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve kenya safari package professional guide included, including what is included, pricing, and booking advice.'
 slug: reserve-kenya-safari-package-professional-guide-included
-primary_keyword: Reserve Kenya safari package professional guide included
+primary_keyword: 'Reserve Kenya safari package professional guide included'
 secondary_keywords:
-- Best Kenya safari
-- Lake Nakuru safari
-- Borana Conservancy safari
-- Couples Kenya safari
-- Solo traveler Kenya safari
+- 'Best Kenya safari'
+- 'Lake Nakuru safari'
+- 'Borana Conservancy safari'
+- 'Couples Kenya safari'
+- 'Solo traveler Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

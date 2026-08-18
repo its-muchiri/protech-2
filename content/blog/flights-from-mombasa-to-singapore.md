@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Singapore: Complete Guide'
-description: Everything you need to know about flights from mombasa to singapore, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to singapore, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-singapore
-primary_keyword: flights from mombasa to singapore
+primary_keyword: 'flights from mombasa to singapore'
 secondary_keywords:
-- emirates dubai nairobi flight status
-- jkia emirates terminal
-- emirates skycargo nairobi contacts
-- emirates flight from kenya
-- emirates flight from kenya to dubai price
+- 'emirates dubai nairobi flight status'
+- 'jkia emirates terminal'
+- 'emirates skycargo nairobi contacts'
+- 'emirates flight from kenya'
+- 'emirates flight from kenya to dubai price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

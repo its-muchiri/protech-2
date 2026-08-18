@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Amsterdam: Complete Guide'
-description: Everything you need to know about flights from nairobi to amsterdam, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to amsterdam, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-amsterdam
-primary_keyword: flights from nairobi to amsterdam
+primary_keyword: 'flights from nairobi to amsterdam'
 secondary_keywords:
-- does qatar airways fly to canada
-- qatar airways nairobi kenya
-- does qatar airways fly to toronto
-- kenya airways flights from accra to nairobi
-- kq flights from dubai to nairobi today
+- 'does qatar airways fly to canada'
+- 'qatar airways nairobi kenya'
+- 'does qatar airways fly to toronto'
+- 'kenya airways flights from accra to nairobi'
+- 'kq flights from dubai to nairobi today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

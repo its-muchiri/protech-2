@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from Nairobi to Mombasa Ticket Price: Complete Guide'
-description: Everything you need to know about kenya airways flight from nairobi to mombasa ticket price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from nairobi to mombasa ticket price, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-nairobi-to-mombasa-ticket-price
-primary_keyword: kenya airways flight from nairobi to mombasa ticket price
+primary_keyword: 'kenya airways flight from nairobi to mombasa ticket price'
 secondary_keywords:
-- emirates from nairobi to dubai price
-- emirates ek 720
-- how much is kenya airways to dubai
-- emirates email address kenya
-- emirates nbd kenya
+- 'emirates from nairobi to dubai price'
+- 'emirates ek 720'
+- 'how much is kenya airways to dubai'
+- 'emirates email address kenya'
+- 'emirates nbd kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

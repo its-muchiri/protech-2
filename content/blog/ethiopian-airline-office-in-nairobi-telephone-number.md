@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airline Office in Nairobi Telephone Number: Complete Guide'
-description: Everything you need to know about ethiopian airline office in nairobi telephone number, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airline office in nairobi telephone number, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airline-office-in-nairobi-telephone-number
-primary_keyword: ethiopian airline office in nairobi telephone number
+primary_keyword: 'ethiopian airline office in nairobi telephone number'
 secondary_keywords:
-- kq 256
-- kq 417 flight status
-- kq 533 flight status
-- flight kq886
-- emirates flight schedule to nairobi
+- 'kq 256'
+- 'kq 417 flight status'
+- 'kq 533 flight status'
+- 'flight kq886'
+- 'emirates flight schedule to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

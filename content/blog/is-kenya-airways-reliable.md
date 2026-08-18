@@ -1,14 +1,14 @@
 ---
 title: 'Is Kenya Airways Reliable: Complete Guide'
-description: Everything you need to know about is kenya airways reliable, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about is kenya airways reliable, including routes, airlines, booking tips, and fares.'
 slug: is-kenya-airways-reliable
-primary_keyword: is kenya airways reliable
+primary_keyword: 'is kenya airways reliable'
 secondary_keywords:
-- flights from homabay to mombasa
-- cheap flights from mombasa to johannesburg
-- kenya airways flights from mombasa to nairobi
-- cheapest flights to mombasa from london heathrow
-- flights from mombasa to nanyuki
+- 'flights from homabay to mombasa'
+- 'cheap flights from mombasa to johannesburg'
+- 'kenya airways flights from mombasa to nairobi'
+- 'cheapest flights to mombasa from london heathrow'
+- 'flights from mombasa to nanyuki'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Small Group Safari Tours USA Max 6 People: Complete Guide'
-description: Kenya safari guide covering kenya small group safari tours usa max 6 people, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya small group safari tours usa max 6 people, including what is included, pricing, and booking advice.'
 slug: kenya-small-group-safari-tours-usa-max-6-people
-primary_keyword: Kenya small group safari tours USA max 6 people
+primary_keyword: 'Kenya small group safari tours USA max 6 people'
 secondary_keywords:
-- Kenya safari from India
-- Kenya safari in August (Migration)
-- Kenya safari packages
-- Senior Kenya safari tours
-- What is the best Kenya safari
+- 'Kenya safari from India'
+- 'Kenya safari in August (Migration)'
+- 'Kenya safari packages'
+- 'Senior Kenya safari tours'
+- 'What is the best Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Does Qatar Airways Fly to Hong Kong: Complete Guide'
-description: Everything you need to know about does qatar airways fly to hong kong, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about does qatar airways fly to hong kong, including routes, airlines, booking tips, and fares.'
 slug: does-qatar-airways-fly-to-hong-kong
-primary_keyword: does qatar airways fly to hong kong
+primary_keyword: 'does qatar airways fly to hong kong'
 secondary_keywords:
-- flights to japan from kenya
-- cheap flights from kansas city to nairobi kenya
-- flights from lagos to nairobi kenya
-- cheap flights from melbourne to nairobi kenya
-- flight from kenya to oman price
+- 'flights to japan from kenya'
+- 'cheap flights from kansas city to nairobi kenya'
+- 'flights from lagos to nairobi kenya'
+- 'cheap flights from melbourne to nairobi kenya'
+- 'flight from kenya to oman price'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

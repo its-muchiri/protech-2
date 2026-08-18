@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Johannesburg: Complete Guide'
-description: Everything you need to know about flights nairobi to johannesburg, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to johannesburg, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-johannesburg
-primary_keyword: flights nairobi to johannesburg
+primary_keyword: 'flights nairobi to johannesburg'
 secondary_keywords:
-- eldoret flights
-- kq flights to dubai
-- kq flights to addis
-- kq domestic flight schedule
-- kq cancelled flights
+- 'eldoret flights'
+- 'kq flights to dubai'
+- 'kq flights to addis'
+- 'kq domestic flight schedule'
+- 'kq cancelled flights'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

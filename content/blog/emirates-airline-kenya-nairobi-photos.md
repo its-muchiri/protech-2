@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Airline Kenya Nairobi Photos: Complete Guide'
-description: Everything you need to know about emirates airline kenya nairobi photos, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates airline kenya nairobi photos, including routes, airlines, booking tips, and fares.'
 slug: emirates-airline-kenya-nairobi-photos
-primary_keyword: emirates airline kenya nairobi photos
+primary_keyword: 'emirates airline kenya nairobi photos'
 secondary_keywords:
-- emirates flights from south africa to india ticket price
-- emirates flights from tehran today
-- emirates flights from vienna to dubai
-- emirates flights from which terminal in dubai
-- emirates flights from new york to milan
+- 'emirates flights from south africa to india ticket price'
+- 'emirates flights from tehran today'
+- 'emirates flights from vienna to dubai'
+- 'emirates flights from which terminal in dubai'
+- 'emirates flights from new york to milan'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

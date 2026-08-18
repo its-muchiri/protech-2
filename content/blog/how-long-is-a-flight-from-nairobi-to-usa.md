@@ -1,14 +1,14 @@
 ---
 title: 'How Long Is a Flight from Nairobi to Usa: Complete Guide'
-description: Everything you need to know about how long is a flight from nairobi to usa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how long is a flight from nairobi to usa, including routes, airlines, booking tips, and fares.'
 slug: how-long-is-a-flight-from-nairobi-to-usa
-primary_keyword: how long is a flight from nairobi to usa
+primary_keyword: 'how long is a flight from nairobi to usa'
 secondary_keywords:
-- emirates ticket from dubai to kenya
-- fly emirates headquarters
-- emirates shoes kenya
-- ethiopian airlines flight from nairobi to addis ababa
-- ethiopian airlines from nairobi to canada
+- 'emirates ticket from dubai to kenya'
+- 'fly emirates headquarters'
+- 'emirates shoes kenya'
+- 'ethiopian airlines flight from nairobi to addis ababa'
+- 'ethiopian airlines from nairobi to canada'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

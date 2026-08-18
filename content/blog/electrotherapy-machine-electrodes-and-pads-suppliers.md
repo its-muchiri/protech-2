@@ -1,14 +1,14 @@
 ---
 title: 'Electrotherapy Machine Electrodes and Pads Suppliers: 2026 Price Guide'
-description: Kenya buying guide to electrotherapy machine electrodes and pads suppliers. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to electrotherapy machine electrodes and pads suppliers. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: electrotherapy-machine-electrodes-and-pads-suppliers
-primary_keyword: Electrotherapy machine electrodes and pads suppliers
+primary_keyword: 'Electrotherapy machine electrodes and pads suppliers'
 secondary_keywords:
-- Laboratory weighing scale suppliers in Nairobi
-- D&C instrument set price
-- Electrosurgical unit cost in Kenya
-- Instrument tracking system for hospitals
-- Heavy-duty wheelchair for bariatric patients
+- 'Laboratory weighing scale suppliers in Nairobi'
+- 'D&C instrument set price'
+- 'Electrosurgical unit cost in Kenya'
+- 'Instrument tracking system for hospitals'
+- 'Heavy-duty wheelchair for bariatric patients'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

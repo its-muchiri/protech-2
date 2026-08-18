@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Which Terminal in Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from which terminal in dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from which terminal in dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-which-terminal-in-dubai
-primary_keyword: emirates flights from which terminal in dubai
+primary_keyword: 'emirates flights from which terminal in dubai'
 secondary_keywords:
-- emirates flights to greece from newark
-- how many emirates flights from london to dubai each week
-- cheap flights to india from toronto emirates
-- emirates flights from kuala lumpur
-- emirates flights from lusaka to london
+- 'emirates flights to greece from newark'
+- 'how many emirates flights from london to dubai each week'
+- 'cheap flights to india from toronto emirates'
+- 'emirates flights from kuala lumpur'
+- 'emirates flights from lusaka to london'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

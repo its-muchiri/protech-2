@@ -1,14 +1,14 @@
 ---
 title: 'Gynecology Surgery Instruments in Eldoret: 2026 Price Guide'
-description: Kenya buying guide to gynecology surgery instruments in eldoret. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to gynecology surgery instruments in eldoret. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: gynecology-surgery-instruments-in-eldoret
-primary_keyword: Gynecology surgery instruments in Eldoret
+primary_keyword: 'Gynecology surgery instruments in Eldoret'
 secondary_keywords:
-- mechanical ventilator Kenya
-- phototherapy units Kenya
-- emergency trolleys Kenya
-- medicine cabinets Kenya
-- orthopedic implants Kenya
+- 'mechanical ventilator Kenya'
+- 'phototherapy units Kenya'
+- 'emergency trolleys Kenya'
+- 'medicine cabinets Kenya'
+- 'orthopedic implants Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

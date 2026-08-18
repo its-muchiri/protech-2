@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to India Price: Complete Guide'
-description: Everything you need to know about flight from nairobi to india price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to india price, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-india-price
-primary_keyword: flight from nairobi to india price
+primary_keyword: 'flight from nairobi to india price'
 secondary_keywords:
-- which airlines fly direct to mombasa
-- cheap flights from mombasa to kisumu
-- flights from mombasa to ethiopia
-- flights from mombasa to germany
-- flights to mombasa from heathrow
+- 'which airlines fly direct to mombasa'
+- 'cheap flights from mombasa to kisumu'
+- 'flights from mombasa to ethiopia'
+- 'flights from mombasa to germany'
+- 'flights to mombasa from heathrow'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

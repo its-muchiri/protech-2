@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kisumu to Mombasa Price in Ksh: Complete Guide'
-description: Everything you need to know about flight from kisumu to mombasa price in ksh, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kisumu to mombasa price in ksh, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kisumu-to-mombasa-price-in-ksh
-primary_keyword: flight from kisumu to mombasa price in ksh
+primary_keyword: 'flight from kisumu to mombasa price in ksh'
 secondary_keywords:
-- emirates flights from dubai
-- emirates flights from entebbe to london
-- flights from faisalabad to dubai united arab emirates
-- emirates flights from dubai to glasgow today
-- how many emirates flights from heathrow
+- 'emirates flights from dubai'
+- 'emirates flights from entebbe to london'
+- 'flights from faisalabad to dubai united arab emirates'
+- 'emirates flights from dubai to glasgow today'
+- 'how many emirates flights from heathrow'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

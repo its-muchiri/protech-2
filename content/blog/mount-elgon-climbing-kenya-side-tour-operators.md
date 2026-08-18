@@ -1,14 +1,14 @@
 ---
 title: 'Mount Elgon Climbing Kenya Side Tour Operators: Complete Guide'
-description: Kenya safari guide covering mount elgon climbing kenya side tour operators, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering mount elgon climbing kenya side tour operators, including what is included, pricing, and booking advice.'
 slug: mount-elgon-climbing-kenya-side-tour-operators
-primary_keyword: Mount Elgon climbing Kenya side tour operators
+primary_keyword: 'Mount Elgon climbing Kenya side tour operators'
 secondary_keywords:
-- Book 14 day Kenya photo workshop package  availability
-- How to choose a reputable tour company in Kenya
-- Amboseli National Park tour 2 days from Nairobi price
-- Sweetwaters Serena Camp Ol Pejeta price
-- Kenya honeymoon safari packages romantic lodges
+- 'Book 14 day Kenya photo workshop package  availability'
+- 'How to choose a reputable tour company in Kenya'
+- 'Amboseli National Park tour 2 days from Nairobi price'
+- 'Sweetwaters Serena Camp Ol Pejeta price'
+- 'Kenya honeymoon safari packages romantic lodges'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

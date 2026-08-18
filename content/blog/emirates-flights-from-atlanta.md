@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Atlanta: Complete Guide'
-description: Everything you need to know about emirates flights from atlanta, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from atlanta, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-atlanta
-primary_keyword: emirates flights from atlanta
+primary_keyword: 'emirates flights from atlanta'
 secondary_keywords:
-- flights nairobi to cape town
-- flights from addis ababa to nairobi today
-- nairobi to bangalore flights
-- cheap flights nairobi to dar es salaam
-- flights nairobi to edmonton
+- 'flights nairobi to cape town'
+- 'flights from addis ababa to nairobi today'
+- 'nairobi to bangalore flights'
+- 'cheap flights nairobi to dar es salaam'
+- 'flights nairobi to edmonton'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

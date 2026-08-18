@@ -1,14 +1,14 @@
 ---
 title: 'Purchase Kenya Safari Gift Voucher Online USA Redeemable Tours Packages Value: Complete Guide'
-description: Kenya safari guide covering purchase kenya safari gift voucher online usa redeemable tours packages value, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase kenya safari gift voucher online usa redeemable tours packages value, including what is included, pricing, and booking advice.'
 slug: purchase-kenya-safari-gift-voucher-online-usa-redeemable-tours-packages-value
-primary_keyword: Purchase Kenya safari gift voucher online USA redeemable tours packages value
+primary_keyword: 'Purchase Kenya safari gift voucher online USA redeemable tours packages value'
 secondary_keywords:
-- Tailor-made Kenya safari
-- Camel safari Kenya
-- 8 day Kenya safari
-- Kenya safari offers
-- Kenya tented camps
+- 'Tailor-made Kenya safari'
+- 'Camel safari Kenya'
+- '8 day Kenya safari'
+- 'Kenya safari offers'
+- 'Kenya tented camps'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

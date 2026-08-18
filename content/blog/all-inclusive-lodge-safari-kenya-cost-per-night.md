@@ -1,14 +1,14 @@
 ---
 title: 'All-inclusive Lodge Safari Kenya Cost Per Night: Complete Guide'
-description: Kenya safari guide covering all-inclusive lodge safari kenya cost per night, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering all-inclusive lodge safari kenya cost per night, including what is included, pricing, and booking advice.'
 slug: all-inclusive-lodge-safari-kenya-cost-per-night
-primary_keyword: All-inclusive lodge safari Kenya cost per night
+primary_keyword: 'All-inclusive lodge safari Kenya cost per night'
 secondary_keywords:
-- Book Kenya safari peak season 2025 USA limited spots
-- Highest quality Kenya safari experience booking guarantee USA
-- Cost 7-day family camping safari Kenya Amboseli from USA budget
-- Check deals Kenya safari and Diani beach all-inclusive package Europe flights
-- Buy all-inclusive fly-in safari package Lewa Conservancy Kenya Europe price list 2025
+- 'Book Kenya safari peak season 2025 USA limited spots'
+- 'Highest quality Kenya safari experience booking guarantee USA'
+- 'Cost 7-day family camping safari Kenya Amboseli from USA budget'
+- 'Check deals Kenya safari and Diani beach all-inclusive package Europe flights'
+- 'Buy all-inclusive fly-in safari package Lewa Conservancy Kenya Europe price list 2025'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

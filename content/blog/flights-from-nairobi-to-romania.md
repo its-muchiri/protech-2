@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Romania: Complete Guide'
-description: Everything you need to know about flights from nairobi to romania, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to romania, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-romania
-primary_keyword: flights from nairobi to romania
+primary_keyword: 'flights from nairobi to romania'
 secondary_keywords:
-- emirates flights from amsterdam to dubai
-- emirates flights from bangkok
-- emirates flights from cyprus
-- emirates flights from johannesburg to dubai
-- emirates flights from france to dubai
+- 'emirates flights from amsterdam to dubai'
+- 'emirates flights from bangkok'
+- 'emirates flights from cyprus'
+- 'emirates flights from johannesburg to dubai'
+- 'emirates flights from france to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

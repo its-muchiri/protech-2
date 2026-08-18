@@ -1,14 +1,14 @@
 ---
 title: 'Qatar Airways Nairobi Contact: Complete Guide'
-description: Everything you need to know about qatar airways nairobi contact, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about qatar airways nairobi contact, including routes, airlines, booking tips, and fares.'
 slug: qatar-airways-nairobi-contact
-primary_keyword: qatar airways nairobi contact
+primary_keyword: 'qatar airways nairobi contact'
 secondary_keywords:
-- ethiopian airlines flights from nairobi to dubai
-- flights from frankfurt to nairobi
-- cheap flights from nairobi to guangzhou
-- cheap flights from nairobi to london heathrow
-- flights from nairobi to johannesburg
+- 'ethiopian airlines flights from nairobi to dubai'
+- 'flights from frankfurt to nairobi'
+- 'cheap flights from nairobi to guangzhou'
+- 'cheap flights from nairobi to london heathrow'
+- 'flights from nairobi to johannesburg'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

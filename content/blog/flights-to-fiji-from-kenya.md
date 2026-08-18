@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Fiji from Kenya: Complete Guide'
-description: Everything you need to know about flights to fiji from kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to fiji from kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-to-fiji-from-kenya
-primary_keyword: flights to fiji from kenya
+primary_keyword: 'flights to fiji from kenya'
 secondary_keywords:
-- flight from nairobi to usa hours
-- flight from nairobi to watamu
-- cheap flight from nairobi to mombasa
-- cheap flight from nairobi to zanzibar
-- cheap flight from nairobi to kisumu
+- 'flight from nairobi to usa hours'
+- 'flight from nairobi to watamu'
+- 'cheap flight from nairobi to mombasa'
+- 'cheap flight from nairobi to zanzibar'
+- 'cheap flight from nairobi to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

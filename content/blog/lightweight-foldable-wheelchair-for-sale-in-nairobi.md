@@ -1,14 +1,14 @@
 ---
 title: 'Lightweight Foldable Wheelchair for Sale in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to lightweight foldable wheelchair for sale in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to lightweight foldable wheelchair for sale in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: lightweight-foldable-wheelchair-for-sale-in-nairobi
-primary_keyword: Lightweight foldable wheelchair for sale in Nairobi
+primary_keyword: 'Lightweight foldable wheelchair for sale in Nairobi'
 secondary_keywords:
-- waste bags medical Kenya biohazard
-- Povidone-iodine solution Kenya
-- pillow covers disposable Kenya
-- HIV test kit Kenya
-- nebulizer masks Kenya
+- 'waste bags medical Kenya biohazard'
+- 'Povidone-iodine solution Kenya'
+- 'pillow covers disposable Kenya'
+- 'HIV test kit Kenya'
+- 'nebulizer masks Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

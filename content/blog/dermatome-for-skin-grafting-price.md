@@ -1,14 +1,14 @@
 ---
 title: 'Dermatome for Skin Grafting Price: 2026 Price Guide'
-description: Kenya buying guide to dermatome for skin grafting price. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to dermatome for skin grafting price. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: dermatome-for-skin-grafting-price
-primary_keyword: Dermatome for skin grafting price
+primary_keyword: 'Dermatome for skin grafting price'
 secondary_keywords:
-- Rollator with seat for elderly in Nairobi
-- Mayo stand instrument trolley cost
-- Fingertip pulse oximeter for sale
-- TENS machine price in Kenya
-- CP walker for children with special needs price
+- 'Rollator with seat for elderly in Nairobi'
+- 'Mayo stand instrument trolley cost'
+- 'Fingertip pulse oximeter for sale'
+- 'TENS machine price in Kenya'
+- 'CP walker for children with special needs price'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

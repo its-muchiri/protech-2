@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Lounge Nairobi Reviews: Complete Guide'
-description: Everything you need to know about turkish airlines lounge nairobi reviews, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines lounge nairobi reviews, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-lounge-nairobi-reviews
-primary_keyword: turkish airlines lounge nairobi reviews
+primary_keyword: 'turkish airlines lounge nairobi reviews'
 secondary_keywords:
-- mauritius flight from nairobi
-- flight from nairobi to columbus ohio
-- price of flight from nairobi to mombasa
-- rwandair flight from nairobi to kigali
-- safarilink flight from nairobi to kisumu
+- 'mauritius flight from nairobi'
+- 'flight from nairobi to columbus ohio'
+- 'price of flight from nairobi to mombasa'
+- 'rwandair flight from nairobi to kigali'
+- 'safarilink flight from nairobi to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

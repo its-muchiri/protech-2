@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Nairobi to Kisumu from Wilson Airport: Complete Guide'
-description: Everything you need to know about flights from nairobi to kisumu from wilson airport, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from nairobi to kisumu from wilson airport, including routes, airlines, booking tips, and fares.'
 slug: flights-from-nairobi-to-kisumu-from-wilson-airport
-primary_keyword: flights from nairobi to kisumu from wilson airport
+primary_keyword: 'flights from nairobi to kisumu from wilson airport'
 secondary_keywords:
-- emirates flights from europe
-- emirates flights for pakistan
-- emirates flights from glasgow to abu dhabi
-- how many emirates flights from toronto to dubai
-- emirates flights from italy to dubai
+- 'emirates flights from europe'
+- 'emirates flights for pakistan'
+- 'emirates flights from glasgow to abu dhabi'
+- 'how many emirates flights from toronto to dubai'
+- 'emirates flights from italy to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

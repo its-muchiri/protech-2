@@ -1,14 +1,14 @@
 ---
 title: 'Sale 14 Day Honeymoon Kenya Beach Safari Package : Complete Guide'
-description: Kenya safari guide covering sale 14 day honeymoon kenya beach safari package , including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering sale 14 day honeymoon kenya beach safari package , including what is included, pricing, and booking advice.'
 slug: sale-14-day-honeymoon-kenya-beach-safari-package-month
-primary_keyword: Sale 14 day honeymoon Kenya beach safari package
+primary_keyword: 'Sale 14 day honeymoon Kenya beach safari package'
 secondary_keywords:
-- Select Kenya Tanzania combo package itinerary quote
-- Buy package for Kenya public holiday weekend deal
-- Buy 4 day Lake Nakuru Sopa Lodge birding package deal online
-- Top rated safari companies Kenya SafariBookings
-- Masai Mara National Reserve safari packages 3 days 2 nights from Nairobi
+- 'Select Kenya Tanzania combo package itinerary quote'
+- 'Buy package for Kenya public holiday weekend deal'
+- 'Buy 4 day Lake Nakuru Sopa Lodge birding package deal online'
+- 'Top rated safari companies Kenya SafariBookings'
+- 'Masai Mara National Reserve safari packages 3 days 2 nights from Nairobi'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

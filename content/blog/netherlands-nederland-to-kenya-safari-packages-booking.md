@@ -1,14 +1,14 @@
 ---
 title: 'Netherlands (Nederland) to Kenya Safari Packages Booking: Complete Guide'
-description: Kenya safari guide covering netherlands (nederland) to kenya safari packages booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering netherlands (nederland) to kenya safari packages booking, including what is included, pricing, and booking advice.'
 slug: netherlands-nederland-to-kenya-safari-packages-booking
-primary_keyword: Netherlands (Nederland) to Kenya safari packages booking
+primary_keyword: 'Netherlands (Nederland) to Kenya safari packages booking'
 secondary_keywords:
-- Kenya safari in July (Migration)
-- Book Kenya safari online
-- Kenya safari for disabled travelers
-- Running safari Kenya (specialized)
-- Kenya safari insurance
+- 'Kenya safari in July (Migration)'
+- 'Book Kenya safari online'
+- 'Kenya safari for disabled travelers'
+- 'Running safari Kenya (specialized)'
+- 'Kenya safari insurance'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Laparoscopic Instruments Suppliers in Mombasa: 2026 Price Guide'
-description: Kenya buying guide to laparoscopic instruments suppliers in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to laparoscopic instruments suppliers in mombasa. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: laparoscopic-instruments-suppliers-in-mombasa
-primary_keyword: Laparoscopic instruments suppliers in Mombasa
+primary_keyword: 'Laparoscopic instruments suppliers in Mombasa'
 secondary_keywords:
-- incubators for labs Kenya
-- operating theatre equipment Kenya
-- medical training models Kenya
-- PPE suppliers Kenya for COVID
-- medical supplies for schools Kenya
+- 'incubators for labs Kenya'
+- 'operating theatre equipment Kenya'
+- 'medical training models Kenya'
+- 'PPE suppliers Kenya for COVID'
+- 'medical supplies for schools Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

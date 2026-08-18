@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Singapore: Complete Guide'
-description: Everything you need to know about flights from kenya to singapore, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to singapore, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-singapore
-primary_keyword: flights from kenya to singapore
+primary_keyword: 'flights from kenya to singapore'
 secondary_keywords:
-- flights to eldoret from wilson today
-- kq flight addis to nairobi
-- kq flying blue login
-- kq flight change
-- kq flight destinations
+- 'flights to eldoret from wilson today'
+- 'kq flight addis to nairobi'
+- 'kq flying blue login'
+- 'kq flight change'
+- 'kq flight destinations'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

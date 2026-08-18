@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Family Safari Holiday Cost Estimate 2025: Complete Guide'
-description: Kenya safari guide covering kenya family safari holiday cost estimate 2025, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya family safari holiday cost estimate 2025, including what is included, pricing, and booking advice.'
 slug: kenya-family-safari-holiday-cost-estimate-2025
-primary_keyword: Kenya family safari holiday cost estimate 2025
+primary_keyword: 'Kenya family safari holiday cost estimate 2025'
 secondary_keywords:
-- Drive Nairobi to Amboseli safari
-- Kenya safari in January
-- Migration season Masai Mara
-- Travel agency Kenya safari
-- Off the beaten track Kenya safari
+- 'Drive Nairobi to Amboseli safari'
+- 'Kenya safari in January'
+- 'Migration season Masai Mara'
+- 'Travel agency Kenya safari'
+- 'Off the beaten track Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

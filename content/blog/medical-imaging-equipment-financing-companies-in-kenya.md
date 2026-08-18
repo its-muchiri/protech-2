@@ -1,14 +1,14 @@
 ---
 title: 'Medical Imaging Equipment Financing Companies in Kenya: 2026 Price Guide'
-description: Kenya buying guide to medical imaging equipment financing companies in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to medical imaging equipment financing companies in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: medical-imaging-equipment-financing-companies-in-kenya
-primary_keyword: Medical imaging equipment financing companies in Kenya
+primary_keyword: 'Medical imaging equipment financing companies in Kenya'
 secondary_keywords:
-- oxygen cylinders Kenya refill
-- ENT equipment Kenya
-- laboratory water distillers Kenya
-- hospital communication systems Kenya
-- mortuary equipment Kenya
+- 'oxygen cylinders Kenya refill'
+- 'ENT equipment Kenya'
+- 'laboratory water distillers Kenya'
+- 'hospital communication systems Kenya'
+- 'mortuary equipment Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

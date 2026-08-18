@@ -1,14 +1,14 @@
 ---
 title: 'Ba Flights from Nairobi: Complete Guide'
-description: Everything you need to know about ba flights from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ba flights from nairobi, including routes, airlines, booking tips, and fares.'
 slug: ba-flights-from-nairobi
-primary_keyword: ba flights from nairobi
+primary_keyword: 'ba flights from nairobi'
 secondary_keywords:
-- flight from nairobi to luanda angola
-- flight from nairobi to moyale price
-- flight from nairobi to ontario
-- flight from nairobi to philadelphia
-- flight from nairobi to russia
+- 'flight from nairobi to luanda angola'
+- 'flight from nairobi to moyale price'
+- 'flight from nairobi to ontario'
+- 'flight from nairobi to philadelphia'
+- 'flight from nairobi to russia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

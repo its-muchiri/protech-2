@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Holiday Safari: Complete Guide'
-description: Kenya safari guide covering kenya holiday safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya holiday safari, including what is included, pricing, and booking advice.'
 slug: kenya-holiday-safari
-primary_keyword: Kenya holiday safari
+primary_keyword: 'Kenya holiday safari'
 secondary_keywords:
-- Family safari Kenya deals child friendly lodges
-- Malindi beach hotels deals Italian influence
-- Mount Longonot hike day trip from Nairobi / Thika price / guide
-- Day trip Nairobi National Park tour company price
-- Pollman''s Tours & Safaris Kenya contact / services
+- 'Family safari Kenya deals child friendly lodges'
+- 'Malindi beach hotels deals Italian influence'
+- 'Mount Longonot hike day trip from Nairobi / Thika price / guide'
+- 'Day trip Nairobi National Park tour company price'
+- 'Pollman''''s Tours & Safaris Kenya contact / services'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Airline Kenya Tickets: Complete Guide'
-description: Everything you need to know about emirates airline kenya tickets, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates airline kenya tickets, including routes, airlines, booking tips, and fares.'
 slug: emirates-airline-kenya-tickets
-primary_keyword: emirates airline kenya tickets
+primary_keyword: 'emirates airline kenya tickets'
 secondary_keywords:
-- does american airlines fly to kenya
-- how much is it from nairobi to mombasa by flight
-- emirates flights from amsterdam to dubai
-- emirates flights from bangkok
-- emirates flights from cyprus
+- 'does american airlines fly to kenya'
+- 'how much is it from nairobi to mombasa by flight'
+- 'emirates flights from amsterdam to dubai'
+- 'emirates flights from bangkok'
+- 'emirates flights from cyprus'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

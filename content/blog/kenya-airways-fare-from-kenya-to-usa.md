@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Fare from Kenya to Usa: Complete Guide'
-description: Everything you need to know about kenya airways fare from kenya to usa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways fare from kenya to usa, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-fare-from-kenya-to-usa
-primary_keyword: kenya airways fare from kenya to usa
+primary_keyword: 'kenya airways fare from kenya to usa'
 secondary_keywords:
-- kq travel requirements
-- kq flight schedule nairobi to entebbe
-- kq world
-- kq lagos to nairobi
-- kq 271 flight status
+- 'kq travel requirements'
+- 'kq flight schedule nairobi to entebbe'
+- 'kq world'
+- 'kq lagos to nairobi'
+- 'kq 271 flight status'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

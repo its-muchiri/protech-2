@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Nairobi to Bujumbura: Complete Guide'
-description: Everything you need to know about ethiopian airlines nairobi to bujumbura, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines nairobi to bujumbura, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-nairobi-to-bujumbura
-primary_keyword: ethiopian airlines nairobi to bujumbura
+primary_keyword: 'ethiopian airlines nairobi to bujumbura'
 secondary_keywords:
-- cheapest emirates flights from india
-- emirates flights from ewr
-- emirates flights for dubai
-- emirates flights from geneva to dubai
-- emirates flights from hyderabad to dallas
+- 'cheapest emirates flights from india'
+- 'emirates flights from ewr'
+- 'emirates flights for dubai'
+- 'emirates flights from geneva to dubai'
+- 'emirates flights from hyderabad to dallas'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

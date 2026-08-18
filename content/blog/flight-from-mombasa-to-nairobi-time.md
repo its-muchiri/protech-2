@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Mombasa to Nairobi Time: Complete Guide'
-description: Everything you need to know about flight from mombasa to nairobi time, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from mombasa to nairobi time, including routes, airlines, booking tips, and fares.'
 slug: flight-from-mombasa-to-nairobi-time
-primary_keyword: flight from mombasa to nairobi time
+primary_keyword: 'flight from mombasa to nairobi time'
 secondary_keywords:
-- emirates airline nairobi
-- ethiopian airlines flights schedule from nairobi to addis ababa
-- ethiopian airlines nairobi telephone number
-- turkish flight from nairobi
-- turkish airlines flight to nairobi
+- 'emirates airline nairobi'
+- 'ethiopian airlines flights schedule from nairobi to addis ababa'
+- 'ethiopian airlines nairobi telephone number'
+- 'turkish flight from nairobi'
+- 'turkish airlines flight to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

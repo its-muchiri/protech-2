@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 823: Complete Guide'
-description: Everything you need to know about emirates flight 823, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 823, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-823
-primary_keyword: emirates flight 823
+primary_keyword: 'emirates flight 823'
 secondary_keywords:
-- kq flights from uganda to kenya today timetable
-- kq 0117 flight status
-- kq flight 2
-- kq 304 flight status
-- kq 494
+- 'kq flights from uganda to kenya today timetable'
+- 'kq 0117 flight status'
+- 'kq flight 2'
+- 'kq 304 flight status'
+- 'kq 494'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

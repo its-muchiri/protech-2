@@ -1,14 +1,14 @@
 ---
 title: 'Secure 9 Day Laikipia Borana Conservancy Luxury Horseback Safari Package Reserve: Complete Guide'
-description: Kenya safari guide covering secure 9 day laikipia borana conservancy luxury horseback safari package reserve, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering secure 9 day laikipia borana conservancy luxury horseback safari package reserve, including what is included, pricing, and booking advice.'
 slug: secure-9-day-laikipia-borana-conservancy-luxury-horseback-safari-package-reserve
-primary_keyword: Secure 9 day Laikipia Borana Conservancy luxury horseback safari package reserve
+primary_keyword: 'Secure 9 day Laikipia Borana Conservancy luxury horseback safari package reserve'
 secondary_keywords:
-- Samburu Reserve safari deals UK Samburu Special Five
-- Origin-Specific Queries (UK, USA, Europe, Germany, France, etc.)
-- Book Kenya safari departing Frankfurt Europe cost
-- Family friendly Kenya safari operators recommendations USA
-- Kenya safari packages Christmas/New Year 2025 deals availability
+- 'Samburu Reserve safari deals UK Samburu Special Five'
+- 'Origin-Specific Queries (UK, USA, Europe, Germany, France, etc.)'
+- 'Book Kenya safari departing Frankfurt Europe cost'
+- 'Family friendly Kenya safari operators recommendations USA'
+- 'Kenya safari packages Christmas/New Year 2025 deals availability'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

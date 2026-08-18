@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Lax: Complete Guide'
-description: Everything you need to know about emirates flights from lax, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from lax, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-lax
-primary_keyword: emirates flights from lax
+primary_keyword: 'emirates flights from lax'
 secondary_keywords:
-- kenya airways flight from nairobi to dubai
-- is kenya airways a good airline
-- kenya airways flight schedule nairobi to harare today
-- kenya airways flight price from nairobi to kisumu
-- kenya airways flight from mauritius to nairobi
+- 'kenya airways flight from nairobi to dubai'
+- 'is kenya airways a good airline'
+- 'kenya airways flight schedule nairobi to harare today'
+- 'kenya airways flight price from nairobi to kisumu'
+- 'kenya airways flight from mauritius to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

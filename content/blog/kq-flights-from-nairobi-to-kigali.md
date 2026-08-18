@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from Nairobi to Kigali: Complete Guide'
-description: Everything you need to know about kq flights from nairobi to kigali, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from nairobi to kigali, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-nairobi-to-kigali
-primary_keyword: kq flights from nairobi to kigali
+primary_keyword: 'kq flights from nairobi to kigali'
 secondary_keywords:
-- flight from nairobi to new york
-- cost of flight from nairobi to diani
-- price of flight from nairobi to eldoret
-- return flight from nairobi to zanzibar
-- skyward flight from nairobi to mombasa
+- 'flight from nairobi to new york'
+- 'cost of flight from nairobi to diani'
+- 'price of flight from nairobi to eldoret'
+- 'return flight from nairobi to zanzibar'
+- 'skyward flight from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

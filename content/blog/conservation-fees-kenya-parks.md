@@ -1,14 +1,14 @@
 ---
 title: 'Conservation Fees Kenya Parks: Complete Guide'
-description: Kenya safari guide covering conservation fees kenya parks, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering conservation fees kenya parks, including what is included, pricing, and booking advice.'
 slug: conservation-fees-kenya-parks
-primary_keyword: Conservation fees Kenya parks
+primary_keyword: 'Conservation fees Kenya parks'
 secondary_keywords:
-- Kenya honeymoon safari package deals USA luxury
-- Affordable budget Kenya safari camping USA tours
-- Eco-friendly Kenya safari tours booking UK sustainable lodges
-- Great Rift Valley lakes safari cost USA birding focus
-- Kenya safari packages from Germany (Deutschland) buchen online
+- 'Kenya honeymoon safari package deals USA luxury'
+- 'Affordable budget Kenya safari camping USA tours'
+- 'Eco-friendly Kenya safari tours booking UK sustainable lodges'
+- 'Great Rift Valley lakes safari cost USA birding focus'
+- 'Kenya safari packages from Germany (Deutschland) buchen online'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

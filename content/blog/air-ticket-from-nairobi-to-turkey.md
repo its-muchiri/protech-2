@@ -1,14 +1,14 @@
 ---
 title: 'Air Ticket from Nairobi to Turkey: Complete Guide'
-description: Everything you need to know about air ticket from nairobi to turkey, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about air ticket from nairobi to turkey, including routes, airlines, booking tips, and fares.'
 slug: air-ticket-from-nairobi-to-turkey
-primary_keyword: air ticket from nairobi to turkey
+primary_keyword: 'air ticket from nairobi to turkey'
 secondary_keywords:
-- flights from nairobi to ethiopia
-- airlines that fly to nairobi
-- google flights from nairobi
-- flights from heathrow to nairobi
-- cheap flights from nairobi to italy
+- 'flights from nairobi to ethiopia'
+- 'airlines that fly to nairobi'
+- 'google flights from nairobi'
+- 'flights from heathrow to nairobi'
+- 'cheap flights from nairobi to italy'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

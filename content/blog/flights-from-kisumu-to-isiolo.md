@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kisumu to Isiolo: Complete Guide'
-description: Everything you need to know about flights from kisumu to isiolo, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kisumu to isiolo, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kisumu-to-isiolo
-primary_keyword: flights from kisumu to isiolo
+primary_keyword: 'flights from kisumu to isiolo'
 secondary_keywords:
-- kq flights to kampala
-- emirates flights from dubai to nairobi today
-- fly emirates nairobi
-- emirates flight from kenya to dubai
-- how much is a flight from nairobi to dubai emirates
+- 'kq flights to kampala'
+- 'emirates flights from dubai to nairobi today'
+- 'fly emirates nairobi'
+- 'emirates flight from kenya to dubai'
+- 'how much is a flight from nairobi to dubai emirates'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

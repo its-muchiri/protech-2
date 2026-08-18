@@ -1,14 +1,14 @@
 ---
 title: 'Used Analogue X-ray Machine for Sale in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to used analogue x-ray machine for sale in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to used analogue x-ray machine for sale in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: used-analogue-x-ray-machine-for-sale-in-nairobi
-primary_keyword: Used analogue X-ray machine for sale in Nairobi
+primary_keyword: 'Used analogue X-ray machine for sale in Nairobi'
 secondary_keywords:
-- X-ray consumables (film, chemicals) suppliers in Nairobi
-- Urine chemistry analyzer and strips suppliers
-- Fume hood installation cost in Nairobi
-- Laparoscopic tower and instruments cost
-- 2-crank manual hospital bed price in Kenya
+- 'X-ray consumables (film, chemicals) suppliers in Nairobi'
+- 'Urine chemistry analyzer and strips suppliers'
+- 'Fume hood installation cost in Nairobi'
+- 'Laparoscopic tower and instruments cost'
+- '2-crank manual hospital bed price in Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

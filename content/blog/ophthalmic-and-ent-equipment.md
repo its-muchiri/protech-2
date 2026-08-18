@@ -1,14 +1,14 @@
 ---
 title: 'Ophthalmic and ENT Equipment: 2026 Price Guide'
-description: Kenya buying guide to ophthalmic and ent equipment. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to ophthalmic and ent equipment. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: ophthalmic-and-ent-equipment
-primary_keyword: Ophthalmic and ENT Equipment
+primary_keyword: 'Ophthalmic and ENT Equipment'
 secondary_keywords:
-- portable diagnostic kits Kenya
-- wound dressing types Kenya
-- importing medical equipment into Kenya
-- medical equipment trends Kenya
-- nuclear medicine equipment Kenya
+- 'portable diagnostic kits Kenya'
+- 'wound dressing types Kenya'
+- 'importing medical equipment into Kenya'
+- 'medical equipment trends Kenya'
+- 'nuclear medicine equipment Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

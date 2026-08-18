@@ -1,14 +1,14 @@
 ---
 title: 'Cost of Flight from Nairobi to Diani: Complete Guide'
-description: Everything you need to know about cost of flight from nairobi to diani, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cost of flight from nairobi to diani, including routes, airlines, booking tips, and fares.'
 slug: cost-of-flight-from-nairobi-to-diani
-primary_keyword: cost of flight from nairobi to diani
+primary_keyword: 'cost of flight from nairobi to diani'
 secondary_keywords:
-- flights to kenya delta
-- flights to kenya from johannesburg
-- international flights in kenya
-- flights leaving kenya today
-- flights to kenya news
+- 'flights to kenya delta'
+- 'flights to kenya from johannesburg'
+- 'international flights in kenya'
+- 'flights leaving kenya today'
+- 'flights to kenya news'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

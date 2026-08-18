@@ -1,14 +1,14 @@
 ---
 title: 'Wilson Airport Flights from Mombasa: Complete Guide'
-description: Everything you need to know about wilson airport flights from mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about wilson airport flights from mombasa, including routes, airlines, booking tips, and fares.'
 slug: wilson-airport-flights-from-mombasa
-primary_keyword: wilson airport flights from mombasa
+primary_keyword: 'wilson airport flights from mombasa'
 secondary_keywords:
-- flight from nairobi to usa
-- flight from nairobi to vipingo
-- flight from wajir to nairobi
-- flight from nairobi to new zealand
-- book a flight from nairobi to mombasa
+- 'flight from nairobi to usa'
+- 'flight from nairobi to vipingo'
+- 'flight from wajir to nairobi'
+- 'flight from nairobi to new zealand'
+- 'book a flight from nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Book Family Safari Ol Kinyei Conservancy Online UK Child Rates Deals Available: Complete Guide'
-description: Kenya safari guide covering book family safari ol kinyei conservancy online uk child rates deals available, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book family safari ol kinyei conservancy online uk child rates deals available, including what is included, pricing, and booking advice.'
 slug: book-family-safari-ol-kinyei-conservancy-online-uk-child-rates-deals-available
-primary_keyword: Book family safari Ol Kinyei Conservancy online UK child rates deals available
+primary_keyword: 'Book family safari Ol Kinyei Conservancy online UK child rates deals available'
 secondary_keywords:
-- Specific Locations (Masai Mara, Amboseli, Tsavo, Samburu, Nakuru, Laikipia, etc.)
-- Aberdare National Park tree lodge safari booking UK
-- Kenya tour operators for UK market recommendations
-- Book with local Kenya safari operator direct price
-- Time-Sensitive/Urgency (Last minute, Availability, Specific dates/months)
+- 'Specific Locations (Masai Mara, Amboseli, Tsavo, Samburu, Nakuru, Laikipia, etc.)'
+- 'Aberdare National Park tree lodge safari booking UK'
+- 'Kenya tour operators for UK market recommendations'
+- 'Book with local Kenya safari operator direct price'
+- 'Time-Sensitive/Urgency (Last minute, Availability, Specific dates/months)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

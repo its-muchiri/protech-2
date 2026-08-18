@@ -1,14 +1,14 @@
 ---
 title: 'Infusion Pump for Sale in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to infusion pump for sale in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to infusion pump for sale in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: infusion-pump-for-sale-in-nairobi
-primary_keyword: Infusion pump for sale in Nairobi
+primary_keyword: 'Infusion pump for sale in Nairobi'
 secondary_keywords:
-- 5-part hematology analyzer for sale in Nairobi
-- Refrigerated centrifuge for blood bank in Mombasa
-- Orthopedic extension device for OT table
-- Neurosurgery instrument suppliers in Kenya
-- Examination couch for a clinic in Thika
+- '5-part hematology analyzer for sale in Nairobi'
+- 'Refrigerated centrifuge for blood bank in Mombasa'
+- 'Orthopedic extension device for OT table'
+- 'Neurosurgery instrument suppliers in Kenya'
+- 'Examination couch for a clinic in Thika'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

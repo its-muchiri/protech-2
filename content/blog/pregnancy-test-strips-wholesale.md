@@ -1,14 +1,14 @@
 ---
 title: 'Pregnancy Test Strips Wholesale: 2026 Price Guide'
-description: Kenya buying guide to pregnancy test strips wholesale. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to pregnancy test strips wholesale. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: pregnancy-test-strips-wholesale
-primary_keyword: Pregnancy test strips wholesale
+primary_keyword: 'Pregnancy test strips wholesale'
 secondary_keywords:
-- Large capacity autoclave for a hospital in Nairobi
-- Hospital mattress and pillow suppliers in Nairobi
-- Stair climbing wheelchair price in Kenya
-- Patient Monitoring & Life Support
-- Syringe pump price in Kenya
+- 'Large capacity autoclave for a hospital in Nairobi'
+- 'Hospital mattress and pillow suppliers in Nairobi'
+- 'Stair climbing wheelchair price in Kenya'
+- 'Patient Monitoring & Life Support'
+- 'Syringe pump price in Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

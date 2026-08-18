@@ -1,14 +1,14 @@
 ---
 title: '540 Flight from Nairobi to Mombasa: Complete Guide'
-description: Everything you need to know about 540 flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about 540 flight from nairobi to mombasa, including routes, airlines, booking tips, and fares.'
 slug: 540-flight-from-nairobi-to-mombasa
-primary_keyword: 540 flight from nairobi to mombasa
+primary_keyword: '540 flight from nairobi to mombasa'
 secondary_keywords:
-- kq flights from south africa
-- kenya airways flights from dubai to nairobi
-- kq flight from jfk to nbo
-- kq airline prefix
-- kenya airways domestic flight schedule
+- 'kq flights from south africa'
+- 'kenya airways flights from dubai to nairobi'
+- 'kq flight from jfk to nbo'
+- 'kq airline prefix'
+- 'kenya airways domestic flight schedule'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

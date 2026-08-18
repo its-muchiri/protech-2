@@ -1,14 +1,14 @@
 ---
 title: 'Estimate for 6 Day Samburu Nakuru Safari: Complete Guide'
-description: Kenya safari guide covering estimate for 6 day samburu nakuru safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering estimate for 6 day samburu nakuru safari, including what is included, pricing, and booking advice.'
 slug: estimate-for-6-day-samburu-nakuru-safari
-primary_keyword: Estimate for 6 day Samburu Nakuru safari
+primary_keyword: 'Estimate for 6 day Samburu Nakuru safari'
 secondary_keywords:
-- Secure 10 day Kenya Tanzania combined tour
-- Reserve luxury tented camp safari booking
-- Price for Kenya wildlife safari package
-- Cost of 4 day Masai Mara express tour
-- Cost estimate 10 day budget Kenya Tanzania camping safari
+- 'Secure 10 day Kenya Tanzania combined tour'
+- 'Reserve luxury tented camp safari booking'
+- 'Price for Kenya wildlife safari package'
+- 'Cost of 4 day Masai Mara express tour'
+- 'Cost estimate 10 day budget Kenya Tanzania camping safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

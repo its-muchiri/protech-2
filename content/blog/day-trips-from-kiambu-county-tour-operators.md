@@ -1,14 +1,14 @@
 ---
 title: 'Day Trips from Kiambu County Tour Operators: Complete Guide'
-description: Kenya safari guide covering day trips from kiambu county tour operators, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering day trips from kiambu county tour operators, including what is included, pricing, and booking advice.'
 slug: day-trips-from-kiambu-county-tour-operators
-primary_keyword: Day trips from Kiambu County tour operators
+primary_keyword: 'Day trips from Kiambu County tour operators'
 secondary_keywords:
-- Kenya park fees cost
-- Private safari house Kenya
-- Boat safari Lake Naivasha
-- Leopard spotting Kenya safari
-- Kenya safari and beach
+- 'Kenya park fees cost'
+- 'Private safari house Kenya'
+- 'Boat safari Lake Naivasha'
+- 'Leopard spotting Kenya safari'
+- 'Kenya safari and beach'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

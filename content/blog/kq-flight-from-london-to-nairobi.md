@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight from London to Nairobi: Complete Guide'
-description: Everything you need to know about kq flight from london to nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight from london to nairobi, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-from-london-to-nairobi
-primary_keyword: kq flight from london to nairobi
+primary_keyword: 'kq flight from london to nairobi'
 secondary_keywords:
-- kenya airways flights from nairobi to cape town
-- flight from nairobi to australia
-- flight from nairobi to bangkok
-- ba flight from nairobi
-- cost of flight from nairobi to kisumu
+- 'kenya airways flights from nairobi to cape town'
+- 'flight from nairobi to australia'
+- 'flight from nairobi to bangkok'
+- 'ba flight from nairobi'
+- 'cost of flight from nairobi to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Last Minute Kenya Safari Deals Nairobi Departures: Complete Guide'
-description: Kenya safari guide covering last minute kenya safari deals nairobi departures, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering last minute kenya safari deals nairobi departures, including what is included, pricing, and booking advice.'
 slug: last-minute-kenya-safari-deals-nairobi-departures
-primary_keyword: Last minute Kenya safari deals Nairobi departures
+primary_keyword: 'Last minute Kenya safari deals Nairobi departures'
 secondary_keywords:
-- Cheap 3 day Masai Mara package deal
-- Samburu Mount Kenya safari package price
-- New Year Kenya safari tour booking
-- ATOL protected Kenya safari package book
-- Top rated Kenya safari packages booking
+- 'Cheap 3 day Masai Mara package deal'
+- 'Samburu Mount Kenya safari package price'
+- 'New Year Kenya safari tour booking'
+- 'ATOL protected Kenya safari package book'
+- 'Top rated Kenya safari packages booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

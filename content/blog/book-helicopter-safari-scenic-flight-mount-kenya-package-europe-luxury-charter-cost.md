@@ -1,14 +1,14 @@
 ---
 title: 'Book Helicopter Safari Scenic Flight Mount Kenya Package Europe Luxury Charter Cost: Complete Guide'
-description: Kenya safari guide covering book helicopter safari scenic flight mount kenya package europe luxury charter cost, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book helicopter safari scenic flight mount kenya package europe luxury charter cost, including what is included, pricing, and booking advice.'
 slug: book-helicopter-safari-scenic-flight-mount-kenya-package-europe-luxury-charter-cost
-primary_keyword: Book helicopter safari scenic flight Mount Kenya package Europe luxury charter cost
+primary_keyword: 'Book helicopter safari scenic flight Mount Kenya package Europe luxury charter cost'
 secondary_keywords:
-- Book 7 day Masai Mara fly-in package
-- Best Masai Mara safari package operator
-- Top luxury safari camps Kenya package
-- All-inclusive family safari Kenya buy
-- Low cost Kenya safari holiday booking
+- 'Book 7 day Masai Mara fly-in package'
+- 'Best Masai Mara safari package operator'
+- 'Top luxury safari camps Kenya package'
+- 'All-inclusive family safari Kenya buy'
+- 'Low cost Kenya safari holiday booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

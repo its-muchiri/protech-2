@@ -1,14 +1,14 @@
 ---
 title: 'International Kenya Safari Operators: Complete Guide'
-description: Kenya safari guide covering international kenya safari operators, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering international kenya safari operators, including what is included, pricing, and booking advice.'
 slug: international-kenya-safari-operators
-primary_keyword: International Kenya safari operators
+primary_keyword: 'International Kenya safari operators'
 secondary_keywords:
-- Buy 6 day mid-range Amboseli Nakuru Mara package
-- Quote for 8 day Kenya highlights private tour package
-- Finalize deal 6 day fly-in Masai Mara package
-- Book package tour Kenya including flights option
-- Book guaranteed departure Kenya group safari package
+- 'Buy 6 day mid-range Amboseli Nakuru Mara package'
+- 'Quote for 8 day Kenya highlights private tour package'
+- 'Finalize deal 6 day fly-in Masai Mara package'
+- 'Book package tour Kenya including flights option'
+- 'Book guaranteed departure Kenya group safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

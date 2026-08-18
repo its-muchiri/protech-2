@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Uk Price: Complete Guide'
-description: Everything you need to know about flight from nairobi to uk price, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to uk price, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-uk-price
-primary_keyword: flight from nairobi to uk price
+primary_keyword: 'flight from nairobi to uk price'
 secondary_keywords:
-- flights from nairobi to new york city
-- flights from nairobi to kingston jamaica
-- kenya airways flight schedule from nairobi to entebbe
-- flights from mombasa to zanzibar
-- kenya airways flights from entebbe to mombasa
+- 'flights from nairobi to new york city'
+- 'flights from nairobi to kingston jamaica'
+- 'kenya airways flight schedule from nairobi to entebbe'
+- 'flights from mombasa to zanzibar'
+- 'kenya airways flights from entebbe to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flight Time from Nairobi to Usa: Complete Guide'
-description: Everything you need to know about flight time from nairobi to usa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight time from nairobi to usa, including routes, airlines, booking tips, and fares.'
 slug: flight-time-from-nairobi-to-usa
-primary_keyword: flight time from nairobi to usa
+primary_keyword: 'flight time from nairobi to usa'
 secondary_keywords:
-- flights to nigeria from nairobi
-- flights from nairobi to paris
-- flight from nairobi to qatar price
-- rwandair flights from nairobi to kigali
-- flights from nairobi to stockholm
+- 'flights to nigeria from nairobi'
+- 'flights from nairobi to paris'
+- 'flight from nairobi to qatar price'
+- 'rwandair flights from nairobi to kigali'
+- 'flights from nairobi to stockholm'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

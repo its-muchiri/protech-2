@@ -1,14 +1,14 @@
 ---
 title: 'Package & Deal Seeking (Packages, Deals, Offers, All-inclusive, Cost, Price, Quote): Complete Guide'
-description: Kenya safari guide covering package & deal seeking (packages, deals, offers, all-inclusive, cost, price, quote), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering package & deal seeking (packages, deals, offers, all-inclusive, cost, price, quote), including what is included, pricing, and booking advice.'
 slug: package-and-deal-seeking-packages-deals-offers-all-inclusive-cost-price-quote
-primary_keyword: Package & Deal Seeking (Packages, Deals, Offers, All-inclusive, Cost, Price, Quote)
+primary_keyword: 'Package & Deal Seeking (Packages, Deals, Offers, All-inclusive, Cost, Price, Quote)'
 secondary_keywords:
-- Buy now special offer 5 day Samburu safari package
-- Reserve 9 day Porini Camps eco-safari package Kenya
-- Book 10 day Kenya adventure package Abercrombie & Kent
-- Reserve Michelin star chef safari experience package (if available)
-- KATO registered tour operators list
+- 'Buy now special offer 5 day Samburu safari package'
+- 'Reserve 9 day Porini Camps eco-safari package Kenya'
+- 'Book 10 day Kenya adventure package Abercrombie & Kent'
+- 'Reserve Michelin star chef safari experience package (if available)'
+- 'KATO registered tour operators list'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

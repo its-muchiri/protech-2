@@ -1,14 +1,14 @@
 ---
 title: 'Fly Emirates Contact Number: Complete Guide'
-description: Everything you need to know about fly emirates contact number, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about fly emirates contact number, including routes, airlines, booking tips, and fares.'
 slug: fly-emirates-contact-number
-primary_keyword: fly emirates contact number
+primary_keyword: 'fly emirates contact number'
 secondary_keywords:
-- flights from kenya to seattle
-- thailand flights from kenya
-- flights from nairobi to victoria falls
-- flights from windhoek to kenya
-- flights from nbo to yyz
+- 'flights from kenya to seattle'
+- 'thailand flights from kenya'
+- 'flights from nairobi to victoria falls'
+- 'flights from windhoek to kenya'
+- 'flights from nbo to yyz'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Which Airlines Fly from Nairobi to Ukunda: Complete Guide'
-description: Everything you need to know about which airlines fly from nairobi to ukunda, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about which airlines fly from nairobi to ukunda, including routes, airlines, booking tips, and fares.'
 slug: which-airlines-fly-from-nairobi-to-ukunda
-primary_keyword: which airlines fly from nairobi to ukunda
+primary_keyword: 'which airlines fly from nairobi to ukunda'
 secondary_keywords:
-- flights from new york to dubai emirates
-- emirates flights to new zealand from birmingham
-- emirates flight 18
-- emirates 2 class a380 routes
-- how many airplanes does emirates have
+- 'flights from new york to dubai emirates'
+- 'emirates flights to new zealand from birmingham'
+- 'emirates flight 18'
+- 'emirates 2 class a380 routes'
+- 'how many airplanes does emirates have'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

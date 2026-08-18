@@ -1,14 +1,14 @@
 ---
 title: 'Silverstone Flights from Mombasa to Kisumu: Complete Guide'
-description: Everything you need to know about silverstone flights from mombasa to kisumu, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about silverstone flights from mombasa to kisumu, including routes, airlines, booking tips, and fares.'
 slug: silverstone-flights-from-mombasa-to-kisumu
-primary_keyword: silverstone flights from mombasa to kisumu
+primary_keyword: 'silverstone flights from mombasa to kisumu'
 secondary_keywords:
-- flights to mombasa from muscat oman
-- kq flights from mombasa to nairobi tomorrow
-- flights from mombasa to ukunda
-- flights zurich mombasa
-- flights from kisumu to wilson airport
+- 'flights to mombasa from muscat oman'
+- 'kq flights from mombasa to nairobi tomorrow'
+- 'flights from mombasa to ukunda'
+- 'flights zurich mombasa'
+- 'flights from kisumu to wilson airport'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

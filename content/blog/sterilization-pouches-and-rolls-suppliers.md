@@ -1,14 +1,14 @@
 ---
 title: 'Sterilization Pouches and Rolls Suppliers: 2026 Price Guide'
-description: Kenya buying guide to sterilization pouches and rolls suppliers. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to sterilization pouches and rolls suppliers. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: sterilization-pouches-and-rolls-suppliers
-primary_keyword: Sterilization pouches and rolls suppliers
+primary_keyword: 'Sterilization pouches and rolls suppliers'
 secondary_keywords:
-- Hamilton medical ventilator suppliers
-- Medical gas pipeline system installers
-- Physiotherapy & Rehabilitation Equipment
-- Portable veterinary X-ray machine for sale
-- Foley catheter and urine bags suppliers
+- 'Hamilton medical ventilator suppliers'
+- 'Medical gas pipeline system installers'
+- 'Physiotherapy & Rehabilitation Equipment'
+- 'Portable veterinary X-ray machine for sale'
+- 'Foley catheter and urine bags suppliers'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

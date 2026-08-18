@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Ukunda from Jkia: Complete Guide'
-description: Everything you need to know about flights to ukunda from jkia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to ukunda from jkia, including routes, airlines, booking tips, and fares.'
 slug: flights-to-ukunda-from-jkia
-primary_keyword: flights to ukunda from jkia
+primary_keyword: 'flights to ukunda from jkia'
 secondary_keywords:
-- skyward flights from nairobi to mombasa
-- uganda airlines flights from nairobi to entebbe today
-- flights from nairobi wilson to diani beach
-- cheap flights from nairobi to amsterdam
-- cheap flights from nairobi to australia
+- 'skyward flights from nairobi to mombasa'
+- 'uganda airlines flights from nairobi to entebbe today'
+- 'flights from nairobi wilson to diani beach'
+- 'cheap flights from nairobi to amsterdam'
+- 'cheap flights from nairobi to australia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

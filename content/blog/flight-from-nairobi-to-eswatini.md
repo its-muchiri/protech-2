@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Eswatini: Complete Guide'
-description: Everything you need to know about flight from nairobi to eswatini, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to eswatini, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-eswatini
-primary_keyword: flight from nairobi to eswatini
+primary_keyword: 'flight from nairobi to eswatini'
 secondary_keywords:
-- kq direct flights
-- kq flight from guangzhou to nairobi
-- kq flights to india
-- kq flights nairobi to juba price
-- kq flights from london to nairobi
+- 'kq direct flights'
+- 'kq flight from guangzhou to nairobi'
+- 'kq flights to india'
+- 'kq flights nairobi to juba price'
+- 'kq flights from london to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

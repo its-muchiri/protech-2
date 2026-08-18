@@ -1,14 +1,14 @@
 ---
 title: 'Buy 14 Day Premium Honeymoon Kenya Coast Safari Private Vehicle Package: Complete Guide'
-description: Kenya safari guide covering buy 14 day premium honeymoon kenya coast safari private vehicle package, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy 14 day premium honeymoon kenya coast safari private vehicle package, including what is included, pricing, and booking advice.'
 slug: buy-14-day-premium-honeymoon-kenya-coast-safari-private-vehicle-package
-primary_keyword: Buy 14 day premium honeymoon Kenya coast safari private vehicle package
+primary_keyword: 'Buy 14 day premium honeymoon Kenya coast safari private vehicle package'
 secondary_keywords:
-- Book last available spots Kenya Christmas safari package
-- Reserve now pay later Kenya safari package (if offered)
-- (Continuing with more diverse high-intent combinations)
-- Get quote 7 day Loisaba Tented Camp Laikipia package
-- Buy 13 day comprehensive Kenya safari tour package
+- 'Book last available spots Kenya Christmas safari package'
+- 'Reserve now pay later Kenya safari package (if offered)'
+- '(Continuing with more diverse high-intent combinations)'
+- 'Get quote 7 day Loisaba Tented Camp Laikipia package'
+- 'Buy 13 day comprehensive Kenya safari tour package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

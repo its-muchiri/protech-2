@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Paris to Dubai: Complete Guide'
-description: Everything you need to know about emirates flights from paris to dubai, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from paris to dubai, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-paris-to-dubai
-primary_keyword: emirates flights from paris to dubai
+primary_keyword: 'emirates flights from paris to dubai'
 secondary_keywords:
-- kenya airways flights from eldoret to nairobi price
-- kq flights to malindi
-- kq flights to america
-- kq flights to bangui
-- kq flights to china
+- 'kenya airways flights from eldoret to nairobi price'
+- 'kq flights to malindi'
+- 'kq flights to america'
+- 'kq flights to bangui'
+- 'kq flights to china'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

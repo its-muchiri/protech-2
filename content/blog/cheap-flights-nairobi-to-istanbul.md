@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights Nairobi to Istanbul: Complete Guide'
-description: Everything you need to know about cheap flights nairobi to istanbul, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights nairobi to istanbul, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-nairobi-to-istanbul
-primary_keyword: cheap flights nairobi to istanbul
+primary_keyword: 'cheap flights nairobi to istanbul'
 secondary_keywords:
-- how do i track a turkish airlines flight
-- turkish airlines contact number nairobi kenya
-- turkish airlines pnr not working
-- emirates airlines from nairobi
-- is ethiopian airlines profitable
+- 'how do i track a turkish airlines flight'
+- 'turkish airlines contact number nairobi kenya'
+- 'turkish airlines pnr not working'
+- 'emirates airlines from nairobi'
+- 'is ethiopian airlines profitable'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

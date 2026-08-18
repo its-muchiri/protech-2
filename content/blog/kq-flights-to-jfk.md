@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights to Jfk: Complete Guide'
-description: Everything you need to know about kq flights to jfk, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights to jfk, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-to-jfk
-primary_keyword: kq flights to jfk
+primary_keyword: 'kq flights to jfk'
 secondary_keywords:
-- flights to eldoret from wilson
-- kq flight attendant job application
-- kenya airways flights bujumbura nairobi
-- kq flight cost from nairobi to mombasa
-- kq flight disruptions jkia
+- 'flights to eldoret from wilson'
+- 'kq flight attendant job application'
+- 'kenya airways flights bujumbura nairobi'
+- 'kq flight cost from nairobi to mombasa'
+- 'kq flight disruptions jkia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Ethiopian Airlines Nairobi Office Telephone Number Near: Complete Guide'
-description: Everything you need to know about ethiopian airlines nairobi office telephone number near, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ethiopian airlines nairobi office telephone number near, including routes, airlines, booking tips, and fares.'
 slug: ethiopian-airlines-nairobi-office-telephone-number-near
-primary_keyword: ethiopian airlines nairobi office telephone number near
+primary_keyword: 'ethiopian airlines nairobi office telephone number near'
 secondary_keywords:
-- flights from glasgow to nairobi
-- flights from nairobi to istanbul
-- flights from nairobi to juba south sudan
-- flights from nairobi kenya to dallas texas
-- flights from nairobi to lilongwe malawi
+- 'flights from glasgow to nairobi'
+- 'flights from nairobi to istanbul'
+- 'flights from nairobi to juba south sudan'
+- 'flights from nairobi kenya to dallas texas'
+- 'flights from nairobi to lilongwe malawi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

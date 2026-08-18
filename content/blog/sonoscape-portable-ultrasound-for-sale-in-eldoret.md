@@ -1,14 +1,14 @@
 ---
 title: 'Sonoscape Portable Ultrasound for Sale in Eldoret: 2026 Price Guide'
-description: Kenya buying guide to sonoscape portable ultrasound for sale in eldoret. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to sonoscape portable ultrasound for sale in eldoret. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: sonoscape-portable-ultrasound-for-sale-in-eldoret
-primary_keyword: Sonoscape portable ultrasound for sale in Eldoret
+primary_keyword: 'Sonoscape portable ultrasound for sale in Eldoret'
 secondary_keywords:
-- Infant warmer price in Nakuru
-- Mortuary cabinet (3-body) for sale
-- Medical equipment leasing vs buying in Kenya
-- CPR manikins for first aid training
-- Dental X-ray sensor repair services
+- 'Infant warmer price in Nakuru'
+- 'Mortuary cabinet (3-body) for sale'
+- 'Medical equipment leasing vs buying in Kenya'
+- 'CPR manikins for first aid training'
+- 'Dental X-ray sensor repair services'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

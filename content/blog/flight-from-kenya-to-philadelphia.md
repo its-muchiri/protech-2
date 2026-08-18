@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kenya to Philadelphia: Complete Guide'
-description: Everything you need to know about flight from kenya to philadelphia, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kenya to philadelphia, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kenya-to-philadelphia
-primary_keyword: flight from kenya to philadelphia
+primary_keyword: 'flight from kenya to philadelphia'
 secondary_keywords:
-- kenya airways flight from nairobi to accra today
-- kq flight from nairobi to eldoret
-- kenya airways mumbai to nairobi flight status
-- kq flight from london to nairobi
-- kq flight schedule nairobi to mombasa
+- 'kenya airways flight from nairobi to accra today'
+- 'kq flight from nairobi to eldoret'
+- 'kenya airways mumbai to nairobi flight status'
+- 'kq flight from london to nairobi'
+- 'kq flight schedule nairobi to mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

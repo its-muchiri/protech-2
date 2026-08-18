@@ -1,14 +1,14 @@
 ---
 title: 'Masai Mara Flight from Nairobi: Complete Guide'
-description: Everything you need to know about masai mara flight from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about masai mara flight from nairobi, including routes, airlines, booking tips, and fares.'
 slug: masai-mara-flight-from-nairobi
-primary_keyword: masai mara flight from nairobi
+primary_keyword: 'masai mara flight from nairobi'
 secondary_keywords:
-- flights from mombasa to doha
-- flights to frankfurt from mombasa kenya
-- flight from nairobi to mombasa how much
-- flight from kisumu to mombasa is how much
-- mombasa flights from jkia
+- 'flights from mombasa to doha'
+- 'flights to frankfurt from mombasa kenya'
+- 'flight from nairobi to mombasa how much'
+- 'flight from kisumu to mombasa is how much'
+- 'mombasa flights from jkia'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

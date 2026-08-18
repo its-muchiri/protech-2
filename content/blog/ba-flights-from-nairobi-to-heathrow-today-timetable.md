@@ -1,14 +1,14 @@
 ---
 title: 'Ba Flights from Nairobi to Heathrow Today Timetable: Complete Guide'
-description: Everything you need to know about ba flights from nairobi to heathrow today timetable, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about ba flights from nairobi to heathrow today timetable, including routes, airlines, booking tips, and fares.'
 slug: ba-flights-from-nairobi-to-heathrow-today-timetable
-primary_keyword: ba flights from nairobi to heathrow today timetable
+primary_keyword: 'ba flights from nairobi to heathrow today timetable'
 secondary_keywords:
-- flights from nairobi to las vegas
-- flights from kisumu to nairobi wilson
-- flight from nairobi to zanzibar time
-- flights to nairobi today
-- how much is a flight from nairobi to new york
+- 'flights from nairobi to las vegas'
+- 'flights from kisumu to nairobi wilson'
+- 'flight from nairobi to zanzibar time'
+- 'flights to nairobi today'
+- 'how much is a flight from nairobi to new york'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

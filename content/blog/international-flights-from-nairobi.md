@@ -1,14 +1,14 @@
 ---
 title: 'International Flights from Nairobi: Complete Guide'
-description: Everything you need to know about international flights from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about international flights from nairobi, including routes, airlines, booking tips, and fares.'
 slug: international-flights-from-nairobi
-primary_keyword: international flights from nairobi
+primary_keyword: 'international flights from nairobi'
 secondary_keywords:
-- singapore flights from kenya
-- flights from kenya to usa price
-- flights to nairobi kenya from vancouver canada
-- flights from spokane wa to nairobi kenya
-- cheap flights to nairobi kenya from new york
+- 'singapore flights from kenya'
+- 'flights from kenya to usa price'
+- 'flights to nairobi kenya from vancouver canada'
+- 'flights from spokane wa to nairobi kenya'
+- 'cheap flights to nairobi kenya from new york'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

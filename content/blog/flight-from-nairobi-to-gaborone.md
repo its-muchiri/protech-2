@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Gaborone: Complete Guide'
-description: Everything you need to know about flight from nairobi to gaborone, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to gaborone, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-gaborone
-primary_keyword: flight from nairobi to gaborone
+primary_keyword: 'flight from nairobi to gaborone'
 secondary_keywords:
-- emirates flights from vienna to dubai
-- emirates flights from which terminal in dubai
-- emirates flights from new york to milan
-- emirates flight from zambia to dubai
-- emirates flights 1st class
+- 'emirates flights from vienna to dubai'
+- 'emirates flights from which terminal in dubai'
+- 'emirates flights from new york to milan'
+- 'emirates flight from zambia to dubai'
+- 'emirates flights 1st class'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

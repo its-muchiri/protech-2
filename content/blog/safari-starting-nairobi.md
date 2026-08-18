@@ -1,14 +1,14 @@
 ---
 title: 'Safari Starting Nairobi: Complete Guide'
-description: Kenya safari guide covering safari starting nairobi, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering safari starting nairobi, including what is included, pricing, and booking advice.'
 slug: safari-starting-nairobi
-primary_keyword: Safari starting Nairobi
+primary_keyword: 'Safari starting Nairobi'
 secondary_keywords:
-- Get Kenya safari quote
-- Finalize Kenya safari booking
-- 12 day East Africa safari package booking
-- Meru National Park safari package reserve
-- 5-star Kenya safari lodge package
+- 'Get Kenya safari quote'
+- 'Finalize Kenya safari booking'
+- '12 day East Africa safari package booking'
+- 'Meru National Park safari package reserve'
+- '5-star Kenya safari lodge package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

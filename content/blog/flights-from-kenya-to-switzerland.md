@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Kenya to Switzerland: Complete Guide'
-description: Everything you need to know about flights from kenya to switzerland, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from kenya to switzerland, including routes, airlines, booking tips, and fares.'
 slug: flights-from-kenya-to-switzerland
-primary_keyword: flights from kenya to switzerland
+primary_keyword: 'flights from kenya to switzerland'
 secondary_keywords:
-- flight to nairobi time
-- flights nairobi to vietnam
-- flights nairobi wilson to malindi
-- flights nairobi to zurich
-- how much is a flight from nairobi to ukunda
+- 'flight to nairobi time'
+- 'flights nairobi to vietnam'
+- 'flights nairobi wilson to malindi'
+- 'flights nairobi to zurich'
+- 'how much is a flight from nairobi to ukunda'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

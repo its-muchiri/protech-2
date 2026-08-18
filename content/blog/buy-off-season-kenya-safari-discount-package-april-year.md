@@ -1,14 +1,14 @@
 ---
 title: 'Buy Off-season Kenya Safari Discount Package April : Complete Guide'
-description: Kenya safari guide covering buy off-season kenya safari discount package april , including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy off-season kenya safari discount package april , including what is included, pricing, and booking advice.'
 slug: buy-off-season-kenya-safari-discount-package-april-year
-primary_keyword: Buy off-season Kenya safari discount package April
+primary_keyword: 'Buy off-season Kenya safari discount package April'
 secondary_keywords:
-- Book 4 day Mount Kenya Safari Club package deal
-- Confirm availability 5 day budget safari Kenya August
-- Immediate quote Kenya custom safari package 14 days
-- Buy 4 day Amboseli Kilimanjaro view package deal
-- Secure 12 day premium family safari package Sarova lodges
+- 'Book 4 day Mount Kenya Safari Club package deal'
+- 'Confirm availability 5 day budget safari Kenya August'
+- 'Immediate quote Kenya custom safari package 14 days'
+- 'Buy 4 day Amboseli Kilimanjaro view package deal'
+- 'Secure 12 day premium family safari package Sarova lodges'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

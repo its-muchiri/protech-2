@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights from Nairobi to London: Complete Guide'
-description: Everything you need to know about cheap flights from nairobi to london, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights from nairobi to london, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-from-nairobi-to-london
-primary_keyword: cheap flights from nairobi to london
+primary_keyword: 'cheap flights from nairobi to london'
 secondary_keywords:
-- kenya airways flights bookings
-- kq flights cancelled
-- kq flight disruptions jkia fuel
-- kq eldoret flights
-- flight kq
+- 'kenya airways flights bookings'
+- 'kq flights cancelled'
+- 'kq flight disruptions jkia fuel'
+- 'kq eldoret flights'
+- 'flight kq'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

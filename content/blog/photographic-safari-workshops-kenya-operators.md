@@ -1,14 +1,14 @@
 ---
 title: 'Photographic Safari Workshops Kenya Operators: Complete Guide'
-description: Kenya safari guide covering photographic safari workshops kenya operators, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering photographic safari workshops kenya operators, including what is included, pricing, and booking advice.'
 slug: photographic-safari-workshops-kenya-operators
-primary_keyword: Photographic safari workshops Kenya operators
+primary_keyword: 'Photographic safari workshops Kenya operators'
 secondary_keywords:
-- Safari Kenia offerte (Italian)
-- Kenya electricity adapter safari
-- Secure Kenya safari booking
-- Reserve spot Kenya group safari
-- Book 9 day Kenya wildlife safari package
+- 'Safari Kenia offerte (Italian)'
+- 'Kenya electricity adapter safari'
+- 'Secure Kenya safari booking'
+- 'Reserve spot Kenya group safari'
+- 'Book 9 day Kenya wildlife safari package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

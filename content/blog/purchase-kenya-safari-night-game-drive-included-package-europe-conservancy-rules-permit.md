@@ -1,14 +1,14 @@
 ---
 title: 'Purchase Kenya Safari Night Game Drive Included Package Europe Conservancy Rules Permit: Complete Guide'
-description: Kenya safari guide covering purchase kenya safari night game drive included package europe conservancy rules permit, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering purchase kenya safari night game drive included package europe conservancy rules permit, including what is included, pricing, and booking advice.'
 slug: purchase-kenya-safari-night-game-drive-included-package-europe-conservancy-rules-permit
-primary_keyword: Purchase Kenya safari night game drive included package Europe conservancy rules permit
+primary_keyword: 'Purchase Kenya safari night game drive included package Europe conservancy rules permit'
 secondary_keywords:
-- Tsavo East 2 day safari from Watamu price comparison
-- Thika based contact for arranging Fourteen Falls trip
-- Reserve Tsavo East West safari booking
-- Purchase Nairobi start Kenya safari package
-- Reserve 15 day Kenya ultimate safari booking
+- 'Tsavo East 2 day safari from Watamu price comparison'
+- 'Thika based contact for arranging Fourteen Falls trip'
+- 'Reserve Tsavo East West safari booking'
+- 'Purchase Nairobi start Kenya safari package'
+- 'Reserve 15 day Kenya ultimate safari booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

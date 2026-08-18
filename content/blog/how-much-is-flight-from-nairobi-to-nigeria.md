@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is Flight from Nairobi to Nigeria: Complete Guide'
-description: Everything you need to know about how much is flight from nairobi to nigeria, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is flight from nairobi to nigeria, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-flight-from-nairobi-to-nigeria
-primary_keyword: how much is flight from nairobi to nigeria
+primary_keyword: 'how much is flight from nairobi to nigeria'
 secondary_keywords:
-- kenya airways flights from kisumu to nairobi
-- flights from london to kenya nairobi
-- maldives flights from kenya
-- flight from kenya to or tambo
-- flights from kenya to portugal
+- 'kenya airways flights from kisumu to nairobi'
+- 'flights from london to kenya nairobi'
+- 'maldives flights from kenya'
+- 'flight from kenya to or tambo'
+- 'flights from kenya to portugal'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

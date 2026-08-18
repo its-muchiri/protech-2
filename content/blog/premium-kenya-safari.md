@@ -1,14 +1,14 @@
 ---
 title: 'Premium Kenya Safari: Complete Guide'
-description: Kenya safari guide covering premium kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering premium kenya safari, including what is included, pricing, and booking advice.'
 slug: premium-kenya-safari
-primary_keyword: Premium Kenya safari
+primary_keyword: 'Premium Kenya safari'
 secondary_keywords:
-- Book 7 day Masai Mara fly-in package
-- Best Masai Mara safari package operator
-- Top luxury safari camps Kenya package
-- All-inclusive family safari Kenya buy
-- Low cost Kenya safari holiday booking
+- 'Book 7 day Masai Mara fly-in package'
+- 'Best Masai Mara safari package operator'
+- 'Top luxury safari camps Kenya package'
+- 'All-inclusive family safari Kenya buy'
+- 'Low cost Kenya safari holiday booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

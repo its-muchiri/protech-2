@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Ek 721: Complete Guide'
-description: Everything you need to know about emirates ek 721, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates ek 721, including routes, airlines, booking tips, and fares.'
 slug: emirates-ek-721
-primary_keyword: emirates ek 721
+primary_keyword: 'emirates ek 721'
 secondary_keywords:
-- flight from nairobi to malindi price
-- flight from nairobi to oman
-- flight from nairobi to prague
-- flight from nairobi to rabat
-- flight from nairobi to sydney
+- 'flight from nairobi to malindi price'
+- 'flight from nairobi to oman'
+- 'flight from nairobi to prague'
+- 'flight from nairobi to rabat'
+- 'flight from nairobi to sydney'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

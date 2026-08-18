@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Maasai Olympics Event Safari Tour Kenya UK Cultural Experience Dates Booking: Complete Guide'
-description: Kenya safari guide covering reserve maasai olympics event safari tour kenya uk cultural experience dates booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve maasai olympics event safari tour kenya uk cultural experience dates booking, including what is included, pricing, and booking advice.'
 slug: reserve-maasai-olympics-event-safari-tour-kenya-uk-cultural-experience-dates-booking
-primary_keyword: Reserve Maasai Olympics event safari tour Kenya UK cultural experience dates booking
+primary_keyword: 'Reserve Maasai Olympics event safari tour Kenya UK cultural experience dates booking'
 secondary_keywords:
-- Cost of honeymoon safari Angama Mara lodge USA package inclusions price quote
-- Buy Reteti Elephant Sanctuary visit Samburu safari Europe ethical tourism booking
-- Find student discount Kenya safari tour operator UK budget camping deals verification needed
-- Book rhino naming ceremony experience Kenya safari package USA conservation donation event
-- Reserve marine safari Watamu snorkeling dolphin watching Kenya Europe boat tour price
+- 'Cost of honeymoon safari Angama Mara lodge USA package inclusions price quote'
+- 'Buy Reteti Elephant Sanctuary visit Samburu safari Europe ethical tourism booking'
+- 'Find student discount Kenya safari tour operator UK budget camping deals verification needed'
+- 'Book rhino naming ceremony experience Kenya safari package USA conservation donation event'
+- 'Reserve marine safari Watamu snorkeling dolphin watching Kenya Europe boat tour price'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

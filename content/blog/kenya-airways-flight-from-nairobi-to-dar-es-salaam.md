@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Flight from Nairobi to Dar Es Salaam: Complete Guide'
-description: Everything you need to know about kenya airways flight from nairobi to dar es salaam, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways flight from nairobi to dar es salaam, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-flight-from-nairobi-to-dar-es-salaam
-primary_keyword: kenya airways flight from nairobi to dar es salaam
+primary_keyword: 'kenya airways flight from nairobi to dar es salaam'
 secondary_keywords:
-- flights from kisumu to eldoret
-- flights from nairobi to kisumu jambojet
-- safari link flights from nairobi to kisumu
-- jambojet flights from kisumu to nairobi ticket price
-- kisumu flight schedule
+- 'flights from kisumu to eldoret'
+- 'flights from nairobi to kisumu jambojet'
+- 'safari link flights from nairobi to kisumu'
+- 'jambojet flights from kisumu to nairobi ticket price'
+- 'kisumu flight schedule'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

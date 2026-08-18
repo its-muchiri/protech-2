@@ -1,14 +1,14 @@
 ---
 title: 'Kq 515 Flight Status: Complete Guide'
-description: Everything you need to know about kq 515 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 515 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq-515-flight-status
-primary_keyword: kq 515 flight status
+primary_keyword: 'kq 515 flight status'
 secondary_keywords:
-- flights to kenya skyscanner
-- flights from kenya to usa
-- which is the cheapest airline in kenya
-- flights from kenya to atlanta
-- flights from kenya to bali
+- 'flights to kenya skyscanner'
+- 'flights from kenya to usa'
+- 'which is the cheapest airline in kenya'
+- 'flights from kenya to atlanta'
+- 'flights from kenya to bali'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

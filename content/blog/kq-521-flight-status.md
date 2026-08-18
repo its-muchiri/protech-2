@@ -1,14 +1,14 @@
 ---
 title: 'Kq 521 Flight Status: Complete Guide'
-description: Everything you need to know about kq 521 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 521 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq-521-flight-status
-primary_keyword: kq 521 flight status
+primary_keyword: 'kq 521 flight status'
 secondary_keywords:
-- nairobi to dar es salaam flights
-- flights to nairobi from mombasa
-- google flights nairobi to zanzibar
-- nairobi to homa bay flights
-- flights nairobi to jro
+- 'nairobi to dar es salaam flights'
+- 'flights to nairobi from mombasa'
+- 'google flights nairobi to zanzibar'
+- 'nairobi to homa bay flights'
+- 'flights nairobi to jro'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

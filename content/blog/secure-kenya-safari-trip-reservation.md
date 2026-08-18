@@ -1,14 +1,14 @@
 ---
 title: 'Secure Kenya Safari Trip Reservation: Complete Guide'
-description: Kenya safari guide covering secure kenya safari trip reservation, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering secure kenya safari trip reservation, including what is included, pricing, and booking advice.'
 slug: secure-kenya-safari-trip-reservation
-primary_keyword: Secure Kenya safari trip reservation
+primary_keyword: 'Secure Kenya safari trip reservation'
 secondary_keywords:
-- 5 day Kenya highlights tour operator
-- Kenya tour package discounts
-- Ol Donyo Sabuk day hike tour company Thika
-- Kenya safari companies with child-friendly guides
-- Compare prices Mount Kenya Sirimon route climb operators
+- '5 day Kenya highlights tour operator'
+- 'Kenya tour package discounts'
+- 'Ol Donyo Sabuk day hike tour company Thika'
+- 'Kenya safari companies with child-friendly guides'
+- 'Compare prices Mount Kenya Sirimon route climb operators'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

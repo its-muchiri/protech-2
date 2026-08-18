@@ -1,14 +1,14 @@
 ---
 title: 'Portable Ultrasound Scanner Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to portable ultrasound scanner price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to portable ultrasound scanner price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: portable-ultrasound-scanner-price-in-kenya
-primary_keyword: Portable ultrasound scanner price in Kenya
+primary_keyword: 'Portable ultrasound scanner price in Kenya'
 secondary_keywords:
-- Digital blood pressure monitor wholesale
-- Related Services and Queries
-- Medical equipment exhibition in Kenya 2025
-- Local manufacturers of hospital furniture in Kenya
-- Surgical instruments suppliers in Garissa
+- 'Digital blood pressure monitor wholesale'
+- 'Related Services and Queries'
+- 'Medical equipment exhibition in Kenya 2025'
+- 'Local manufacturers of hospital furniture in Kenya'
+- 'Surgical instruments suppliers in Garissa'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

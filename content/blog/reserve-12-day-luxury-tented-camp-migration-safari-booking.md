@@ -1,14 +1,14 @@
 ---
 title: 'Reserve 12 Day Luxury Tented Camp Migration Safari Booking: Complete Guide'
-description: Kenya safari guide covering reserve 12 day luxury tented camp migration safari booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve 12 day luxury tented camp migration safari booking, including what is included, pricing, and booking advice.'
 slug: reserve-12-day-luxury-tented-camp-migration-safari-booking
-primary_keyword: Reserve 12 day luxury tented camp migration safari booking
+primary_keyword: 'Reserve 12 day luxury tented camp migration safari booking'
 secondary_keywords:
-- Book Kenya conservation safari experience USA rhino focus
-- Book safari near Nairobi National Park day trip price
-- Masai Mara safari booking from USA dates & availability
-- Kenya travel agents specializing in safaris Europe based
-- Independent travel agent Kenya safari booking Europe
+- 'Book Kenya conservation safari experience USA rhino focus'
+- 'Book safari near Nairobi National Park day trip price'
+- 'Masai Mara safari booking from USA dates & availability'
+- 'Kenya travel agents specializing in safaris Europe based'
+- 'Independent travel agent Kenya safari booking Europe'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

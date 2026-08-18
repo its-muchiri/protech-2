@@ -1,14 +1,14 @@
 ---
 title: 'Flight Time Nairobi to Zanzibar: Complete Guide'
-description: Everything you need to know about flight time nairobi to zanzibar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight time nairobi to zanzibar, including routes, airlines, booking tips, and fares.'
 slug: flight-time-nairobi-to-zanzibar
-primary_keyword: flight time nairobi to zanzibar
+primary_keyword: 'flight time nairobi to zanzibar'
 secondary_keywords:
-- emirates dubai to nairobi flight status
-- emirates flights to nairobi kenya
-- fly emirates nairobi office
-- emirates booking nairobi
-- emirates nairobi
+- 'emirates dubai to nairobi flight status'
+- 'emirates flights to nairobi kenya'
+- 'fly emirates nairobi office'
+- 'emirates booking nairobi'
+- 'emirates nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

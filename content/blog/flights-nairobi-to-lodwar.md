@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Lodwar: Complete Guide'
-description: Everything you need to know about flights nairobi to lodwar, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to lodwar, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-lodwar
-primary_keyword: flights nairobi to lodwar
+primary_keyword: 'flights nairobi to lodwar'
 secondary_keywords:
-- flights from mombasa to kakamega
-- local flights from mombasa to nairobi
-- flights from mumbai to mombasa kenya
-- flight from mombasa to malindi price
-- is it safe to visit mombasa
+- 'flights from mombasa to kakamega'
+- 'local flights from mombasa to nairobi'
+- 'flights from mumbai to mombasa kenya'
+- 'flight from mombasa to malindi price'
+- 'is it safe to visit mombasa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

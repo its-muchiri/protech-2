@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Mombasa Fare: Complete Guide'
-description: Everything you need to know about flight from nairobi to mombasa fare, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to mombasa fare, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-mombasa-fare
-primary_keyword: flight from nairobi to mombasa fare
+primary_keyword: 'flight from nairobi to mombasa fare'
 secondary_keywords:
-- flights from nairobi to rabat
-- flights from nairobi to sydney australia
-- flights from entebbe to nairobi
-- flights from nairobi to voi
-- flights from nairobi to winnipeg
+- 'flights from nairobi to rabat'
+- 'flights from nairobi to sydney australia'
+- 'flights from entebbe to nairobi'
+- 'flights from nairobi to voi'
+- 'flights from nairobi to winnipeg'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

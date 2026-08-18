@@ -1,14 +1,14 @@
 ---
 title: 'Masai Mara Safari: Complete Guide'
-description: Kenya safari guide covering masai mara safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering masai mara safari, including what is included, pricing, and booking advice.'
 slug: masai-mara-safari
-primary_keyword: Masai Mara safari
+primary_keyword: 'Masai Mara safari'
 secondary_keywords:
-- Check availability budget camping safari Tsavo & Amboseli circuit Europe group joining dates
-- Get quote for luxury mobile camping safari Serengeti & Mara migration USA private setup cost
-- Reserve luxury fly-camping safari private conservancy Kenya USA exclusive remote experience booking
-- Reserve archaeological site tour Koobi Fora safari Kenya Europe paleontology focus booking
-- Find kosher meal options Kenya safari booking Europe Jewish travel specialist agent
+- 'Check availability budget camping safari Tsavo & Amboseli circuit Europe group joining dates'
+- 'Get quote for luxury mobile camping safari Serengeti & Mara migration USA private setup cost'
+- 'Reserve luxury fly-camping safari private conservancy Kenya USA exclusive remote experience booking'
+- 'Reserve archaeological site tour Koobi Fora safari Kenya Europe paleontology focus booking'
+- 'Find kosher meal options Kenya safari booking Europe Jewish travel specialist agent'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flight Charges: Complete Guide'
-description: Everything you need to know about kq flight charges, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flight charges, including routes, airlines, booking tips, and fares.'
 slug: kq-flight-charges
-primary_keyword: kq flight charges
+primary_keyword: 'kq flight charges'
 secondary_keywords:
-- flight from nairobi to diani
-- flight from nairobi to edmonton
-- how long is a flight from frankfurt to nairobi
-- how many hours flight from nairobi to germany
-- how much is flight from nairobi to zanzibar
+- 'flight from nairobi to diani'
+- 'flight from nairobi to edmonton'
+- 'how long is a flight from frankfurt to nairobi'
+- 'how many hours flight from nairobi to germany'
+- 'how much is flight from nairobi to zanzibar'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

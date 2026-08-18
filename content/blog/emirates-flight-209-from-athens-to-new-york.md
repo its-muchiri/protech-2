@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 209 from Athens to New York: Complete Guide'
-description: Everything you need to know about emirates flight 209 from athens to new york, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 209 from athens to new york, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-209-from-athens-to-new-york
-primary_keyword: emirates flight 209 from athens to new york
+primary_keyword: 'emirates flight 209 from athens to new york'
 secondary_keywords:
-- emirates flight 66
-- emirates flight 805
-- qatar flight from nairobi to doha today
-- how long is a flight from nairobi to qatar
-- qatar airways nairobi email
+- 'emirates flight 66'
+- 'emirates flight 805'
+- 'qatar flight from nairobi to doha today'
+- 'how long is a flight from nairobi to qatar'
+- 'qatar airways nairobi email'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

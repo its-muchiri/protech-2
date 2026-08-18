@@ -1,14 +1,14 @@
 ---
 title: 'Rhino Sanctuary Kenya Visit: Complete Guide'
-description: Kenya safari guide covering rhino sanctuary kenya visit, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering rhino sanctuary kenya visit, including what is included, pricing, and booking advice.'
 slug: rhino-sanctuary-kenya-visit
-primary_keyword: Rhino sanctuary Kenya visit
+primary_keyword: 'Rhino sanctuary Kenya visit'
 secondary_keywords:
-- Reserve Lake Victoria fishing safari Nile perch Kenya USA boat charter booking cost
-- Find luxury train safari Rovos Rail style Kenya (limited options) booking agent USA
-- Top Kenya safari
-- Safari Lake Nakuru flamingos
-- Sweetwaters Chimpanzee Sanctuary visit
+- 'Reserve Lake Victoria fishing safari Nile perch Kenya USA boat charter booking cost'
+- 'Find luxury train safari Rovos Rail style Kenya (limited options) booking agent USA'
+- 'Top Kenya safari'
+- 'Safari Lake Nakuru flamingos'
+- 'Sweetwaters Chimpanzee Sanctuary visit'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

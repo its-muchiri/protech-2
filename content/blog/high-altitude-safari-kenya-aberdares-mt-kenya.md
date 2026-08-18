@@ -1,14 +1,14 @@
 ---
 title: 'High Altitude Safari Kenya (Aberdares, Mt Kenya): Complete Guide'
-description: Kenya safari guide covering high altitude safari kenya (aberdares, mt kenya), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering high altitude safari kenya (aberdares, mt kenya), including what is included, pricing, and booking advice.'
 slug: high-altitude-safari-kenya-aberdares-mt-kenya
-primary_keyword: High altitude safari Kenya (Aberdares, Mt Kenya)
+primary_keyword: 'High altitude safari Kenya (Aberdares, Mt Kenya)'
 secondary_keywords:
-- Affordable Kenya safari tour deals
-- Shared safari Kenya package booking
-- Best East Africa combined safari packages
-- December holiday family safari package Kenya book
-- Check availability  Kenya safari
+- 'Affordable Kenya safari tour deals'
+- 'Shared safari Kenya package booking'
+- 'Best East Africa combined safari packages'
+- 'December holiday family safari package Kenya book'
+- 'Check availability  Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

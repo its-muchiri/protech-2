@@ -1,14 +1,14 @@
 ---
 title: 'Interferential Therapy (IFT) Machine for Sale in Nairobi: 2026 Price Guide'
-description: Kenya buying guide to interferential therapy (ift) machine for sale in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to interferential therapy (ift) machine for sale in nairobi. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: interferential-therapy-ift-machine-for-sale-in-nairobi
-primary_keyword: Interferential therapy (IFT) machine for sale in Nairobi
+primary_keyword: 'Interferential therapy (IFT) machine for sale in Nairobi'
 secondary_keywords:
-- surgical instruments Kenya sets
-- autoclaves Kenya price
-- suction machines Kenya price
-- respirators medical Kenya
-- laboratory glassware Kenya
+- 'surgical instruments Kenya sets'
+- 'autoclaves Kenya price'
+- 'suction machines Kenya price'
+- 'respirators medical Kenya'
+- 'laboratory glassware Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

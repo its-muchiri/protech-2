@@ -1,14 +1,14 @@
 ---
 title: 'Portable Single-channel ECG Machine: 2026 Price Guide'
-description: Kenya buying guide to portable single-channel ecg machine. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to portable single-channel ecg machine. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: portable-single-channel-ecg-machine
-primary_keyword: Portable single-channel ECG machine
+primary_keyword: 'Portable single-channel ECG machine'
 secondary_keywords:
-- teledermatology equipment for sale
-- healthcare products Kenya
-- medical supply companies Kenya
-- medical supply companies Nairobi
-- hand sanitizer Kenya wholesale
+- 'teledermatology equipment for sale'
+- 'healthcare products Kenya'
+- 'medical supply companies Kenya'
+- 'medical supply companies Nairobi'
+- 'hand sanitizer Kenya wholesale'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

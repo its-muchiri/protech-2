@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Eldoret: Complete Guide'
-description: Everything you need to know about flights from eldoret, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from eldoret, including routes, airlines, booking tips, and fares.'
 slug: flights-from-eldoret
-primary_keyword: flights from eldoret
+primary_keyword: 'flights from eldoret'
 secondary_keywords:
-- emirates flights from gatwick today
-- how many emirates flights from uk to dubai
-- emirates flights to india from uk
-- emirates flights from johannesburg to dublin
-- emirates flights from london to dubai
+- 'emirates flights from gatwick today'
+- 'how many emirates flights from uk to dubai'
+- 'emirates flights to india from uk'
+- 'emirates flights from johannesburg to dublin'
+- 'emirates flights from london to dubai'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

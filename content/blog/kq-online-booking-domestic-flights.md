@@ -1,14 +1,14 @@
 ---
 title: 'Kq Online Booking Domestic Flights: Complete Guide'
-description: Everything you need to know about kq online booking domestic flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq online booking domestic flights, including routes, airlines, booking tips, and fares.'
 slug: kq-online-booking-domestic-flights
-primary_keyword: kq online booking domestic flights
+primary_keyword: 'kq online booking domestic flights'
 secondary_keywords:
-- kq flights mombasa to nairobi
-- kq flight news
-- kq flight reschedule
-- kq flights to seychelles
-- kq flights to new york
+- 'kq flights mombasa to nairobi'
+- 'kq flight news'
+- 'kq flight reschedule'
+- 'kq flights to seychelles'
+- 'kq flights to new york'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

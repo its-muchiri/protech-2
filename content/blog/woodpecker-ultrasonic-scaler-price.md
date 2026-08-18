@@ -1,14 +1,14 @@
 ---
 title: 'Woodpecker Ultrasonic Scaler Price: 2026 Price Guide'
-description: Kenya buying guide to woodpecker ultrasonic scaler price. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to woodpecker ultrasonic scaler price. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: woodpecker-ultrasonic-scaler-price
-primary_keyword: Woodpecker ultrasonic scaler price
+primary_keyword: 'Woodpecker ultrasonic scaler price'
 secondary_keywords:
-- Medicine trolley and cart cost in Kisumu
-- Central monitoring station for ICU cost
-- Transport ventilator for ambulance
-- Laser therapy machine for pain relief in Nairobi
-- Posture mirror for clinic
+- 'Medicine trolley and cart cost in Kisumu'
+- 'Central monitoring station for ICU cost'
+- 'Transport ventilator for ambulance'
+- 'Laser therapy machine for pain relief in Nairobi'
+- 'Posture mirror for clinic'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

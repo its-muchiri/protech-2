@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kc to Chicago: Complete Guide'
-description: Everything you need to know about flight from kc to chicago, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kc to chicago, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kc-to-chicago
-primary_keyword: flight from kc to chicago
+primary_keyword: 'flight from kc to chicago'
 secondary_keywords:
-- flight from eldoret to kitale
-- flights from nbo to eldoret
-- flight from eldoret to zanzibar
-- kq flights to arusha
-- kq flights to bujumbura
+- 'flight from eldoret to kitale'
+- 'flights from nbo to eldoret'
+- 'flight from eldoret to zanzibar'
+- 'kq flights to arusha'
+- 'kq flights to bujumbura'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

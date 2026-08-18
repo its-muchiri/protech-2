@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Plane: Complete Guide'
-description: Everything you need to know about emirates plane, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates plane, including routes, airlines, booking tips, and fares.'
 slug: emirates-plane
-primary_keyword: emirates plane
+primary_keyword: 'emirates plane'
 secondary_keywords:
-- does emirates fly from kenya to dubai
-- how much is emirates ticket from dubai to kenya
-- emirates kenya safari
-- ethiopian flight from nairobi
-- nairobi to ethiopia flight time
+- 'does emirates fly from kenya to dubai'
+- 'how much is emirates ticket from dubai to kenya'
+- 'emirates kenya safari'
+- 'ethiopian flight from nairobi'
+- 'nairobi to ethiopia flight time'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

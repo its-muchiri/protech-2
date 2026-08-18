@@ -1,14 +1,14 @@
 ---
 title: 'Flights to Italy from Nairobi: Complete Guide'
-description: Everything you need to know about flights to italy from nairobi, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights to italy from nairobi, including routes, airlines, booking tips, and fares.'
 slug: flights-to-italy-from-nairobi
-primary_keyword: flights to italy from nairobi
+primary_keyword: 'flights to italy from nairobi'
 secondary_keywords:
-- ticket from kenya to dubai
-- cheap local flights in kenya
-- how much does a flight to kenya cost
-- cheapest local flights in kenya
-- ethiopian airlines in kenya
+- 'ticket from kenya to dubai'
+- 'cheap local flights in kenya'
+- 'how much does a flight to kenya cost'
+- 'cheapest local flights in kenya'
+- 'ethiopian airlines in kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

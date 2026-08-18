@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Dublin: Complete Guide'
-description: Everything you need to know about flight from nairobi to dublin, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to dublin, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-dublin
-primary_keyword: flight from nairobi to dublin
+primary_keyword: 'flight from nairobi to dublin'
 secondary_keywords:
-- flights from kenya to ghana
-- flights from gatwick to kenya
-- flights from houston to nairobi kenya
-- cheap flights from istanbul to kenya
-- kenya airways flights from johannesburg to nairobi
+- 'flights from kenya to ghana'
+- 'flights from gatwick to kenya'
+- 'flights from houston to nairobi kenya'
+- 'cheap flights from istanbul to kenya'
+- 'kenya airways flights from johannesburg to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

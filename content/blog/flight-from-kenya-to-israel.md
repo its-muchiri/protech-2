@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Kenya to Israel: Complete Guide'
-description: Everything you need to know about flight from kenya to israel, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from kenya to israel, including routes, airlines, booking tips, and fares.'
 slug: flight-from-kenya-to-israel
-primary_keyword: flight from kenya to israel
+primary_keyword: 'flight from kenya to israel'
 secondary_keywords:
-- flights from nairobi to jamaica
-- kq flights from nairobi to eldoret price
-- local flights from nairobi to mombasa
-- mauritius flights from nairobi
-- flights from nyc to nairobi
+- 'flights from nairobi to jamaica'
+- 'kq flights from nairobi to eldoret price'
+- 'local flights from nairobi to mombasa'
+- 'mauritius flights from nairobi'
+- 'flights from nyc to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

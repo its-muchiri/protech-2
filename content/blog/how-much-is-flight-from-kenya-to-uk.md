@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is Flight from Kenya to Uk: Complete Guide'
-description: Everything you need to know about how much is flight from kenya to uk, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is flight from kenya to uk, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-flight-from-kenya-to-uk
-primary_keyword: how much is flight from kenya to uk
+primary_keyword: 'how much is flight from kenya to uk'
 secondary_keywords:
-- emirates flights from frankfurt
-- emirates flights from glasgow today timetable
-- emirates flights from hong kong
-- emirates flights from iad
-- emirates flights from johannesburg to amsterdam
+- 'emirates flights from frankfurt'
+- 'emirates flights from glasgow today timetable'
+- 'emirates flights from hong kong'
+- 'emirates flights from iad'
+- 'emirates flights from johannesburg to amsterdam'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

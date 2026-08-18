@@ -1,14 +1,14 @@
 ---
 title: 'Ophthalmic Surgical Instruments Price in Kenya: 2026 Price Guide'
-description: Kenya buying guide to ophthalmic surgical instruments price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to ophthalmic surgical instruments price in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: ophthalmic-surgical-instruments-price-in-kenya
-primary_keyword: Ophthalmic surgical instruments price in Kenya
+primary_keyword: 'Ophthalmic surgical instruments price in Kenya'
 secondary_keywords:
-- Dental OPG machine for sale in Mombasa
-- Auto refractometer and keratometer cost
-- Medical Consumables & Disposables
-- Infant warmer price in Nakuru
-- Mortuary cabinet (3-body) for sale
+- 'Dental OPG machine for sale in Mombasa'
+- 'Auto refractometer and keratometer cost'
+- 'Medical Consumables & Disposables'
+- 'Infant warmer price in Nakuru'
+- 'Mortuary cabinet (3-body) for sale'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

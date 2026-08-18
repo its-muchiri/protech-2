@@ -1,14 +1,14 @@
 ---
 title: 'Secure Spot on Kenya Group Safari Tour: Complete Guide'
-description: Kenya safari guide covering secure spot on kenya group safari tour, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering secure spot on kenya group safari tour, including what is included, pricing, and booking advice.'
 slug: secure-spot-on-kenya-group-safari-tour
-primary_keyword: Secure spot on Kenya group safari tour
+primary_keyword: 'Secure spot on Kenya group safari tour'
 secondary_keywords:
-- Kakamega Forest bird watching tour operators
-- Kenya cultural immersion tour companies
-- Maasai village visit ethical tour operators
-- 5 day Kenya highlights tour operator
-- Kenya tour package discounts
+- 'Kakamega Forest bird watching tour operators'
+- 'Kenya cultural immersion tour companies'
+- 'Maasai village visit ethical tour operators'
+- '5 day Kenya highlights tour operator'
+- 'Kenya tour package discounts'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

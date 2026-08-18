@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Paris to Kenya: Complete Guide'
-description: Everything you need to know about flights from paris to kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from paris to kenya, including routes, airlines, booking tips, and fares.'
 slug: flights-from-paris-to-kenya
-primary_keyword: flights from paris to kenya
+primary_keyword: 'flights from paris to kenya'
 secondary_keywords:
-- sq608 flight status
-- does emirates fly to nairobi
-- dubai to kenya emirates flight status
-- does emirates fly to uganda
-- emirates arrivals nairobi
+- 'sq608 flight status'
+- 'does emirates fly to nairobi'
+- 'dubai to kenya emirates flight status'
+- 'does emirates fly to uganda'
+- 'emirates arrivals nairobi'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

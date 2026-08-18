@@ -1,14 +1,14 @@
 ---
 title: 'Flight Ticket to Kenya from Ghana: Complete Guide'
-description: Everything you need to know about flight ticket to kenya from ghana, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight ticket to kenya from ghana, including routes, airlines, booking tips, and fares.'
 slug: flight-ticket-to-kenya-from-ghana
-primary_keyword: flight ticket to kenya from ghana
+primary_keyword: 'flight ticket to kenya from ghana'
 secondary_keywords:
-- emirates flight from riyadh to nairobi
-- emirates airlines kenya contacts
-- emirates jkia nairobi
-- emirates shoes nairobi
-- emirates flights to kenya from london
+- 'emirates flight from riyadh to nairobi'
+- 'emirates airlines kenya contacts'
+- 'emirates jkia nairobi'
+- 'emirates shoes nairobi'
+- 'emirates flights to kenya from london'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

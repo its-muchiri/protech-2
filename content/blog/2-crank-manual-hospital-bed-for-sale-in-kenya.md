@@ -1,14 +1,14 @@
 ---
 title: '2-crank Manual Hospital Bed for Sale in Kenya: 2026 Price Guide'
-description: Kenya buying guide to 2-crank manual hospital bed for sale in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to 2-crank manual hospital bed for sale in kenya. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: 2-crank-manual-hospital-bed-for-sale-in-kenya
-primary_keyword: 2-crank manual hospital bed for sale in Kenya
+primary_keyword: '2-crank manual hospital bed for sale in Kenya'
 secondary_keywords:
-- needles Kenya suppliers
-- disinfectants Kenya for hospitals
-- sharps containers Kenya 5L
-- alcohol prep pads Kenya
-- bed sheets disposable Kenya
+- 'needles Kenya suppliers'
+- 'disinfectants Kenya for hospitals'
+- 'sharps containers Kenya 5L'
+- 'alcohol prep pads Kenya'
+- 'bed sheets disposable Kenya'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

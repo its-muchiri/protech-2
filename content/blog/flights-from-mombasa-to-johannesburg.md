@@ -1,14 +1,14 @@
 ---
 title: 'Flights from Mombasa to Johannesburg: Complete Guide'
-description: Everything you need to know about flights from mombasa to johannesburg, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights from mombasa to johannesburg, including routes, airlines, booking tips, and fares.'
 slug: flights-from-mombasa-to-johannesburg
-primary_keyword: flights from mombasa to johannesburg
+primary_keyword: 'flights from mombasa to johannesburg'
 secondary_keywords:
-- how long is the flight from nairobi to new york
-- flight from nairobi to pretoria
-- flight from nairobi to riyadh
-- flight from nairobi to saudi arabia
-- the cheapest flight from nairobi to kisumu
+- 'how long is the flight from nairobi to new york'
+- 'flight from nairobi to pretoria'
+- 'flight from nairobi to riyadh'
+- 'flight from nairobi to saudi arabia'
+- 'the cheapest flight from nairobi to kisumu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

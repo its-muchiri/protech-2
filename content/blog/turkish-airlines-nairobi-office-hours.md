@@ -1,14 +1,14 @@
 ---
 title: 'Turkish Airlines Nairobi Office Hours: Complete Guide'
-description: Everything you need to know about turkish airlines nairobi office hours, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about turkish airlines nairobi office hours, including routes, airlines, booking tips, and fares.'
 slug: turkish-airlines-nairobi-office-hours
-primary_keyword: turkish airlines nairobi office hours
+primary_keyword: 'turkish airlines nairobi office hours'
 secondary_keywords:
-- flights to kenya price
-- flights from nairobi kenya to rome italy
-- flights to kenya uk
-- flights to zambia from nairobi
-- cheapest flights from kenya
+- 'flights to kenya price'
+- 'flights from nairobi kenya to rome italy'
+- 'flights to kenya uk'
+- 'flights to zambia from nairobi'
+- 'cheapest flights from kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

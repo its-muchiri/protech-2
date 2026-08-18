@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Kenya Safari with Child-friendly Malaria-free Area Lodges USA Laikipia Deals: Complete Guide'
-description: Kenya safari guide covering reserve kenya safari with child-friendly malaria-free area lodges usa laikipia deals, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve kenya safari with child-friendly malaria-free area lodges usa laikipia deals, including what is included, pricing, and booking advice.'
 slug: reserve-kenya-safari-with-child-friendly-malaria-free-area-lodges-usa-laikipia-deals
-primary_keyword: Reserve Kenya safari with child-friendly malaria-free area lodges USA Laikipia deals
+primary_keyword: 'Reserve Kenya safari with child-friendly malaria-free area lodges USA Laikipia deals'
 secondary_keywords:
-- Kenya safari from India
-- Kenya safari in August (Migration)
-- Kenya safari packages
-- Senior Kenya safari tours
-- What is the best Kenya safari
+- 'Kenya safari from India'
+- 'Kenya safari in August (Migration)'
+- 'Kenya safari packages'
+- 'Senior Kenya safari tours'
+- 'What is the best Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

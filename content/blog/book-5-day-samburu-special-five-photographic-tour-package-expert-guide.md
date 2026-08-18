@@ -1,14 +1,14 @@
 ---
 title: 'Book 5 Day Samburu Special Five Photographic Tour Package Expert Guide: Complete Guide'
-description: Kenya safari guide covering book 5 day samburu special five photographic tour package expert guide, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering book 5 day samburu special five photographic tour package expert guide, including what is included, pricing, and booking advice.'
 slug: book-5-day-samburu-special-five-photographic-tour-package-expert-guide
-primary_keyword: Book 5 day Samburu Special Five photographic tour package expert guide
+primary_keyword: 'Book 5 day Samburu Special Five photographic tour package expert guide'
 secondary_keywords:
-- Buy 3 day Amboseli fly-in package from Nairobi cost
-- Get itinerary and cost 8 day Kenya private safari
-- Secure place 6 day small group Kenya photo safari
-- Reserve spot 7 day photographic workshop package Kenya
-- Get deal on 8 day Kicheche Camps luxury package Mara conservancy
+- 'Buy 3 day Amboseli fly-in package from Nairobi cost'
+- 'Get itinerary and cost 8 day Kenya private safari'
+- 'Secure place 6 day small group Kenya photo safari'
+- 'Reserve spot 7 day photographic workshop package Kenya'
+- 'Get deal on 8 day Kicheche Camps luxury package Mara conservancy'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

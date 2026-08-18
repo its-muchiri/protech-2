@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Dubai to Heathrow Today: Complete Guide'
-description: Everything you need to know about emirates flights from dubai to heathrow today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from dubai to heathrow today, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-dubai-to-heathrow-today
-primary_keyword: emirates flights from dubai to heathrow today
+primary_keyword: 'emirates flights from dubai to heathrow today'
 secondary_keywords:
-- emirates airline 2 letter code
-- what planes do emirates use
-- emirates flight 524
-- emirates flights 777
-- emirates flight 802
+- 'emirates airline 2 letter code'
+- 'what planes do emirates use'
+- 'emirates flight 524'
+- 'emirates flights 777'
+- 'emirates flight 802'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

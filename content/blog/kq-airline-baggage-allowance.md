@@ -1,14 +1,14 @@
 ---
 title: 'Kq Airline Baggage Allowance: Complete Guide'
-description: Everything you need to know about kq airline baggage allowance, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq airline baggage allowance, including routes, airlines, booking tips, and fares.'
 slug: kq-airline-baggage-allowance
-primary_keyword: kq airline baggage allowance
+primary_keyword: 'kq airline baggage allowance'
 secondary_keywords:
-- how much is a flight from nairobi to qatar
-- qatar airways nairobi office working hours
-- 1 qatar riyal to ksh
-- flight from kc to chicago
-- kenya airways flights from harare to london
+- 'how much is a flight from nairobi to qatar'
+- 'qatar airways nairobi office working hours'
+- '1 qatar riyal to ksh'
+- 'flight from kc to chicago'
+- 'kenya airways flights from harare to london'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

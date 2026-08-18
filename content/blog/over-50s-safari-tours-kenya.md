@@ -1,14 +1,14 @@
 ---
 title: 'Over 50s Safari Tours Kenya: Complete Guide'
-description: Kenya safari guide covering over 50s safari tours kenya, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering over 50s safari tours kenya, including what is included, pricing, and booking advice.'
 slug: over-50s-safari-tours-kenya
-primary_keyword: Over 50s safari tours Kenya
+primary_keyword: 'Over 50s safari tours Kenya'
 secondary_keywords:
-- Samburu safari bundle deal quote
-- Quote from  Kenya safari
-- Book Kenya safari and beach extension package deal
-- Buy multi-generational family safari package Kenya cost
-- Reserve green season Kenya photographic safari package price
+- 'Samburu safari bundle deal quote'
+- 'Quote from  Kenya safari'
+- 'Book Kenya safari and beach extension package deal'
+- 'Buy multi-generational family safari package Kenya cost'
+- 'Reserve green season Kenya photographic safari package price'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

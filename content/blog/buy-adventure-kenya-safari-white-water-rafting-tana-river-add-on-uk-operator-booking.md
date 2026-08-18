@@ -1,14 +1,14 @@
 ---
 title: 'Buy Adventure Kenya Safari White Water Rafting Tana River Add-on UK Operator Booking: Complete Guide'
-description: Kenya safari guide covering buy adventure kenya safari white water rafting tana river add-on uk operator booking, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering buy adventure kenya safari white water rafting tana river add-on uk operator booking, including what is included, pricing, and booking advice.'
 slug: buy-adventure-kenya-safari-white-water-rafting-tana-river-add-on-uk-operator-booking
-primary_keyword: Buy adventure Kenya safari white water rafting Tana River add-on UK operator booking
+primary_keyword: 'Buy adventure Kenya safari white water rafting Tana River add-on UK operator booking'
 secondary_keywords:
-- Get quote 5 day Kenya budget camping joining safari
-- Buy value package 10 day multi-park Kenya safari
-- Price 14 day Elewana Collection SkySafari Kenya package
-- Reserve 9 day Joy''s Camp Shaba Samburu package deal
-- Secure booking philanthropic safari package Kenya donation focus
+- 'Get quote 5 day Kenya budget camping joining safari'
+- 'Buy value package 10 day multi-park Kenya safari'
+- 'Price 14 day Elewana Collection SkySafari Kenya package'
+- 'Reserve 9 day Joy''''s Camp Shaba Samburu package deal'
+- 'Secure booking philanthropic safari package Kenya donation focus'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

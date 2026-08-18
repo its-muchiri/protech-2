@@ -1,14 +1,14 @@
 ---
 title: 'Safari Kenia (German/Spanish/etc.): Complete Guide'
-description: Kenya safari guide covering safari kenia (german/spanish/etc.), including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering safari kenia (german/spanish/etc.), including what is included, pricing, and booking advice.'
 slug: safari-kenia-german-spanish-etc
-primary_keyword: Safari Kenia (German/Spanish/etc.)
+primary_keyword: 'Safari Kenia (German/Spanish/etc.)'
 secondary_keywords:
-- Kenya travel consultants Nairobi
-- Nairobi NP game drive operators
-- Taita Hills Wildlife Sanctuary tours Voi
-- Accessible safari tours Kenya wheelchair friendly
-- Great Rift Valley viewpoint tour operators
+- 'Kenya travel consultants Nairobi'
+- 'Nairobi NP game drive operators'
+- 'Taita Hills Wildlife Sanctuary tours Voi'
+- 'Accessible safari tours Kenya wheelchair friendly'
+- 'Great Rift Valley viewpoint tour operators'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

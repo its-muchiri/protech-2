@@ -1,14 +1,14 @@
 ---
 title: 'How Much Is a Flight from Kenya to South Africa: Complete Guide'
-description: Everything you need to know about how much is a flight from kenya to south africa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about how much is a flight from kenya to south africa, including routes, airlines, booking tips, and fares.'
 slug: how-much-is-a-flight-from-kenya-to-south-africa
-primary_keyword: how much is a flight from kenya to south africa
+primary_keyword: 'how much is a flight from kenya to south africa'
 secondary_keywords:
-- emirates airlines kenya contacts
-- emirates jkia nairobi
-- emirates shoes nairobi
-- emirates flights to kenya from london
-- emirates flight from kenya to dubai price tomorrow
+- 'emirates airlines kenya contacts'
+- 'emirates jkia nairobi'
+- 'emirates shoes nairobi'
+- 'emirates flights to kenya from london'
+- 'emirates flight from kenya to dubai price tomorrow'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Us Flights from Kenya: Complete Guide'
-description: Everything you need to know about us flights from kenya, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about us flights from kenya, including routes, airlines, booking tips, and fares.'
 slug: us-flights-from-kenya
-primary_keyword: us flights from kenya
+primary_keyword: 'us flights from kenya'
 secondary_keywords:
-- kq flight schedule kisumu to nairobi
-- kq flight new york to nairobi
-- kq nbo los
-- kq 256 flight status
-- flight kq 3
+- 'kq flight schedule kisumu to nairobi'
+- 'kq flight new york to nairobi'
+- 'kq nbo los'
+- 'kq 256 flight status'
+- 'flight kq 3'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

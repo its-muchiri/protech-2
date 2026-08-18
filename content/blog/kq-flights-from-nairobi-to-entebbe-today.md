@@ -1,14 +1,14 @@
 ---
 title: 'Kq Flights from Nairobi to Entebbe Today: Complete Guide'
-description: Everything you need to know about kq flights from nairobi to entebbe today, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq flights from nairobi to entebbe today, including routes, airlines, booking tips, and fares.'
 slug: kq-flights-from-nairobi-to-entebbe-today
-primary_keyword: kq flights from nairobi to entebbe today
+primary_keyword: 'kq flights from nairobi to entebbe today'
 secondary_keywords:
-- emirates flights from nairobi to dubai
-- fly540 flights from kisumu to nairobi
-- flights from nairobi to masai mara game reserve
-- flights from harare to nairobi
-- flights from nairobi to johannesburg today
+- 'emirates flights from nairobi to dubai'
+- 'fly540 flights from kisumu to nairobi'
+- 'flights from nairobi to masai mara game reserve'
+- 'flights from harare to nairobi'
+- 'flights from nairobi to johannesburg today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

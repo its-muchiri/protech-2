@@ -1,14 +1,14 @@
 ---
 title: 'Flight from Nairobi to Juba: Complete Guide'
-description: Everything you need to know about flight from nairobi to juba, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flight from nairobi to juba, including routes, airlines, booking tips, and fares.'
 slug: flight-from-nairobi-to-juba
-primary_keyword: flight from nairobi to juba
+primary_keyword: 'flight from nairobi to juba'
 secondary_keywords:
-- kq to zanzibar
-- kq flight from nairobi to accra
-- kq direct flight from nairobi to new york time
-- how much is kq flight from nairobi to new york
-- kenya airways flight from nairobi to london today timetable
+- 'kq to zanzibar'
+- 'kq flight from nairobi to accra'
+- 'kq direct flight from nairobi to new york time'
+- 'how much is kq flight from nairobi to new york'
+- 'kenya airways flight from nairobi to london today timetable'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Melbourne: Complete Guide'
-description: Everything you need to know about flights nairobi to melbourne, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to melbourne, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-melbourne
-primary_keyword: flights nairobi to melbourne
+primary_keyword: 'flights nairobi to melbourne'
 secondary_keywords:
-- cheapest flight from nairobi to atlanta georgia
-- how much is a flight from nairobi to eldoret
-- flight from nairobi to jfk
-- flight from nairobi to lamu
-- how long is the flight from nairobi to johannesburg
+- 'cheapest flight from nairobi to atlanta georgia'
+- 'how much is a flight from nairobi to eldoret'
+- 'flight from nairobi to jfk'
+- 'flight from nairobi to lamu'
+- 'how long is the flight from nairobi to johannesburg'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

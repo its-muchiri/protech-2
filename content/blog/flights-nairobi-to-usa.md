@@ -1,14 +1,14 @@
 ---
 title: 'Flights Nairobi to Usa: Complete Guide'
-description: Everything you need to know about flights nairobi to usa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about flights nairobi to usa, including routes, airlines, booking tips, and fares.'
 slug: flights-nairobi-to-usa
-primary_keyword: flights nairobi to usa
+primary_keyword: 'flights nairobi to usa'
 secondary_keywords:
-- flights from kisumu to nairobi
-- flights to nairobi from uk
-- flights from nairobi wilson to lamu
-- flights from nairobi to new york city
-- flights from nairobi to kingston jamaica
+- 'flights from kisumu to nairobi'
+- 'flights to nairobi from uk'
+- 'flights from nairobi wilson to lamu'
+- 'flights from nairobi to new york city'
+- 'flights from nairobi to kingston jamaica'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

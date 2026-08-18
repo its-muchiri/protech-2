@@ -1,14 +1,14 @@
 ---
 title: 'Off the Beaten Track Kenya Safari: Complete Guide'
-description: Kenya safari guide covering off the beaten track kenya safari, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering off the beaten track kenya safari, including what is included, pricing, and booking advice.'
 slug: off-the-beaten-track-kenya-safari
-primary_keyword: Off the beaten track Kenya safari
+primary_keyword: 'Off the beaten track Kenya safari'
 secondary_keywords:
-- Buy Kenya safari package from USA
-- Reserve Big Five safari tour Kenya UK booking
-- Budget Kenya safari tour prices UK comparison
-- Book luxury Kenya safari lodge UK exclusive
-- Extended Kenya safari (14-day+) cost Europe itinerary
+- 'Buy Kenya safari package from USA'
+- 'Reserve Big Five safari tour Kenya UK booking'
+- 'Budget Kenya safari tour prices UK comparison'
+- 'Book luxury Kenya safari lodge UK exclusive'
+- 'Extended Kenya safari (14-day+) cost Europe itinerary'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

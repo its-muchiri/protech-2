@@ -1,14 +1,14 @@
 ---
 title: 'Immediate Booking Confirmation Kenya Safari Tour Online: Complete Guide'
-description: Kenya safari guide covering immediate booking confirmation kenya safari tour online, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering immediate booking confirmation kenya safari tour online, including what is included, pricing, and booking advice.'
 slug: immediate-booking-confirmation-kenya-safari-tour-online
-primary_keyword: Immediate booking confirmation Kenya safari tour online
+primary_keyword: 'Immediate booking confirmation Kenya safari tour online'
 secondary_keywords:
-- Book all-inclusive Kenya safari
-- Book 7 day Masai Mara fly-in package
-- Best Masai Mara safari package operator
-- Top luxury safari camps Kenya package
-- All-inclusive family safari Kenya buy
+- 'Book all-inclusive Kenya safari'
+- 'Book 7 day Masai Mara fly-in package'
+- 'Best Masai Mara safari package operator'
+- 'Top luxury safari camps Kenya package'
+- 'All-inclusive family safari Kenya buy'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

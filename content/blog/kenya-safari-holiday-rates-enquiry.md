@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Safari Holiday Rates Enquiry: Complete Guide'
-description: Kenya safari guide covering kenya safari holiday rates enquiry, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering kenya safari holiday rates enquiry, including what is included, pricing, and booking advice.'
 slug: kenya-safari-holiday-rates-enquiry
-primary_keyword: Kenya safari holiday rates enquiry
+primary_keyword: 'Kenya safari holiday rates enquiry'
 secondary_keywords:
-- Kenya safari from South Africa
-- Kenya safari in September (Migration)
-- Kenya safari itinerary
-- Solo female traveler Kenya safari
-- How to plan a Kenya safari
+- 'Kenya safari from South Africa'
+- 'Kenya safari in September (Migration)'
+- 'Kenya safari itinerary'
+- 'Solo female traveler Kenya safari'
+- 'How to plan a Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

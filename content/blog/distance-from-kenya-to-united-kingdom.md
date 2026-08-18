@@ -1,14 +1,14 @@
 ---
 title: 'Distance from Kenya to United Kingdom: Complete Guide'
-description: Everything you need to know about distance from kenya to united kingdom, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about distance from kenya to united kingdom, including routes, airlines, booking tips, and fares.'
 slug: distance-from-kenya-to-united-kingdom
-primary_keyword: distance from kenya to united kingdom
+primary_keyword: 'distance from kenya to united kingdom'
 secondary_keywords:
-- flights from gatwick to kenya
-- flights from houston to nairobi kenya
-- cheap flights from istanbul to kenya
-- kenya airways flights from johannesburg to nairobi
-- flights from kuwait to kenya
+- 'flights from gatwick to kenya'
+- 'flights from houston to nairobi kenya'
+- 'cheap flights from istanbul to kenya'
+- 'kenya airways flights from johannesburg to nairobi'
+- 'flights from kuwait to kenya'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

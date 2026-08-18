@@ -1,14 +1,14 @@
 ---
 title: 'Kq 0204 Flight Status: Complete Guide'
-description: Everything you need to know about kq 0204 flight status, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kq 0204 flight status, including routes, airlines, booking tips, and fares.'
 slug: kq-0204-flight-status
-primary_keyword: kq 0204 flight status
+primary_keyword: 'kq 0204 flight status'
 secondary_keywords:
-- does etihad fly to kenya
-- flights nairobi to seattle
-- nairobi to tanzania flights
-- flights nairobi to vic falls
-- fly nairobi to watamu
+- 'does etihad fly to kenya'
+- 'flights nairobi to seattle'
+- 'nairobi to tanzania flights'
+- 'flights nairobi to vic falls'
+- 'fly nairobi to watamu'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

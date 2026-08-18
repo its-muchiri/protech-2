@@ -1,14 +1,14 @@
 ---
 title: 'Affordable Masai Mara Camping Safari Group Joining Price: Complete Guide'
-description: Kenya safari guide covering affordable masai mara camping safari group joining price, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering affordable masai mara camping safari group joining price, including what is included, pricing, and booking advice.'
 slug: affordable-masai-mara-camping-safari-group-joining-price
-primary_keyword: Affordable Masai Mara camping safari group joining price
+primary_keyword: 'Affordable Masai Mara camping safari group joining price'
 secondary_keywords:
-- Book 9 day Kenya wildlife safari package
-- Lake Nakuru flamingo safari package price
-- Luxury Masai Mara safari deals
-- Kenya luxury honeymoon safari package
-- Anniversary safari package Kenya booking
+- 'Book 9 day Kenya wildlife safari package'
+- 'Lake Nakuru flamingo safari package price'
+- 'Luxury Masai Mara safari deals'
+- 'Kenya luxury honeymoon safari package'
+- 'Anniversary safari package Kenya booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

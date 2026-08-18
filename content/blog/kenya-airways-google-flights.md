@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Google Flights: Complete Guide'
-description: Everything you need to know about kenya airways google flights, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways google flights, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-google-flights
-primary_keyword: kenya airways google flights
+primary_keyword: 'kenya airways google flights'
 secondary_keywords:
-- flights from kenya to juba
-- flight from kenya to south korea
-- flights from kenya to lithuania
-- flights from kenya to manchester
-- kenya airways flights from nairobi to south africa
+- 'flights from kenya to juba'
+- 'flight from kenya to south korea'
+- 'flights from kenya to lithuania'
+- 'flights from kenya to manchester'
+- 'kenya airways flights from nairobi to south africa'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

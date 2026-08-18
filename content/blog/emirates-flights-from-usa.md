@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flights from Usa: Complete Guide'
-description: Everything you need to know about emirates flights from usa, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flights from usa, including routes, airlines, booking tips, and fares.'
 slug: emirates-flights-from-usa
-primary_keyword: emirates flights from usa
+primary_keyword: 'emirates flights from usa'
 secondary_keywords:
-- flights from nairobi to south africa
-- flights from eldoret to nairobi
-- flights from nairobi to vancouver
-- flights from nairobi to washington dc
-- flights from nairobi kenya to seiyun yemen
+- 'flights from nairobi to south africa'
+- 'flights from eldoret to nairobi'
+- 'flights from nairobi to vancouver'
+- 'flights from nairobi to washington dc'
+- 'flights from nairobi kenya to seiyun yemen'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

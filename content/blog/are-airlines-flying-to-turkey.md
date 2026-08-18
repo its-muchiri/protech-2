@@ -1,14 +1,14 @@
 ---
 title: 'Are Airlines Flying to Turkey: Complete Guide'
-description: Everything you need to know about are airlines flying to turkey, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about are airlines flying to turkey, including routes, airlines, booking tips, and fares.'
 slug: are-airlines-flying-to-turkey
-primary_keyword: are airlines flying to turkey
+primary_keyword: 'are airlines flying to turkey'
 secondary_keywords:
-- kq flights dar to nairobi
-- kq flights entebbe to nairobi
-- what airline is go to gate
-- kq flights images
-- kq kisumu flight schedule today
+- 'kq flights dar to nairobi'
+- 'kq flights entebbe to nairobi'
+- 'what airline is go to gate'
+- 'kq flights images'
+- 'kq kisumu flight schedule today'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

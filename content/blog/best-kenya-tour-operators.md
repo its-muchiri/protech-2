@@ -1,14 +1,14 @@
 ---
 title: 'Best Kenya Tour Operators: Complete Guide'
-description: Kenya safari guide covering best kenya tour operators, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering best kenya tour operators, including what is included, pricing, and booking advice.'
 slug: best-kenya-tour-operators
-primary_keyword: Best Kenya tour operators
+primary_keyword: 'Best Kenya tour operators'
 secondary_keywords:
-- Niche Kenya safari operator (e.g., photographic, birding) UK
-- Immediate booking confirmation Kenya safari tour online
-- Top 10 Kenya luxury safari lodges booking rates USA
-- Book last minute Masai Mara migration safari UK tour operator offers
-- Book multi-day walking safari northern Kenya online Europe experienced hikers
+- 'Niche Kenya safari operator (e.g., photographic, birding) UK'
+- 'Immediate booking confirmation Kenya safari tour online'
+- 'Top 10 Kenya luxury safari lodges booking rates USA'
+- 'Book last minute Masai Mara migration safari UK tour operator offers'
+- 'Book multi-day walking safari northern Kenya online Europe experienced hikers'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

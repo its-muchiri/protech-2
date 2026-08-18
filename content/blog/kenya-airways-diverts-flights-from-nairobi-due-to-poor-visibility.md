@@ -1,14 +1,14 @@
 ---
 title: 'Kenya Airways Diverts Flights from Nairobi Due to Poor Visibility: Complete Guide'
-description: Everything you need to know about kenya airways diverts flights from nairobi due to poor visibility, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about kenya airways diverts flights from nairobi due to poor visibility, including routes, airlines, booking tips, and fares.'
 slug: kenya-airways-diverts-flights-from-nairobi-due-to-poor-visibility
-primary_keyword: kenya airways diverts flights from nairobi due to poor visibility
+primary_keyword: 'kenya airways diverts flights from nairobi due to poor visibility'
 secondary_keywords:
-- where does turkish airlines fly direct
-- flight ticket kenya to nigeria
-- flight ticket for kenya
-- book ticket to kenya
-- ticket from kenya to uganda
+- 'where does turkish airlines fly direct'
+- 'flight ticket kenya to nigeria'
+- 'flight ticket for kenya'
+- 'book ticket to kenya'
+- 'ticket from kenya to uganda'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Defibrillator for Operating Room in Eldoret: 2026 Price Guide'
-description: Kenya buying guide to defibrillator for operating room in eldoret. Learn what to consider, what it costs, and how to choose a reliable local supplier.
+description: 'Kenya buying guide to defibrillator for operating room in eldoret. Learn what to consider, what it costs, and how to choose a reliable local supplier.'
 slug: defibrillator-for-operating-room-in-eldoret
-primary_keyword: Defibrillator for operating room in Eldoret
+primary_keyword: 'Defibrillator for operating room in Eldoret'
 secondary_keywords:
-- Reclining wheelchair with elevated leg rest
-- 5-parameter bedside patient monitor cost
-- Dental unit spare parts and repair services
-- Treadmill for rehabilitation clinic in Nairobi
-- Anti-decubitus air mattress for bed sores
+- 'Reclining wheelchair with elevated leg rest'
+- '5-parameter bedside patient monitor cost'
+- 'Dental unit spare parts and repair services'
+- 'Treadmill for rehabilitation clinic in Nairobi'
+- 'Anti-decubitus air mattress for bed sores'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

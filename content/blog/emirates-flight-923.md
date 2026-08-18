@@ -1,14 +1,14 @@
 ---
 title: 'Emirates Flight 923: Complete Guide'
-description: Everything you need to know about emirates flight 923, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about emirates flight 923, including routes, airlines, booking tips, and fares.'
 slug: emirates-flight-923
-primary_keyword: emirates flight 923
+primary_keyword: 'emirates flight 923'
 secondary_keywords:
-- emirates flights qantas points
-- emirates flights from rome to dubai
-- emirates flights from south africa to australia
-- emirates flights from zimbabwe to uk
-- emirates flights from vancouver to india
+- 'emirates flights qantas points'
+- 'emirates flights from rome to dubai'
+- 'emirates flights from south africa to australia'
+- 'emirates flights from zimbabwe to uk'
+- 'emirates flights from vancouver to india'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

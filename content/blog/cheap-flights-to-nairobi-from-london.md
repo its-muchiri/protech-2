@@ -1,14 +1,14 @@
 ---
 title: 'Cheap Flights to Nairobi from London: Complete Guide'
-description: Everything you need to know about cheap flights to nairobi from london, including routes, airlines, booking tips, and fares.
+description: 'Everything you need to know about cheap flights to nairobi from london, including routes, airlines, booking tips, and fares.'
 slug: cheap-flights-to-nairobi-from-london
-primary_keyword: cheap flights to nairobi from london
+primary_keyword: 'cheap flights to nairobi from london'
 secondary_keywords:
-- kenya airways flight schedule from accra to nairobi
-- kenya airways flight from nairobi to dubai today
-- kenya airways flights from nairobi to mombasa
-- kenya airways flights from nairobi to lilongwe
-- kenya airways flight from new york to nairobi schedule
+- 'kenya airways flight schedule from accra to nairobi'
+- 'kenya airways flight from nairobi to dubai today'
+- 'kenya airways flights from nairobi to mombasa'
+- 'kenya airways flights from nairobi to lilongwe'
+- 'kenya airways flight from new york to nairobi schedule'
 search_intent: informational
 article_style: Flight Booking Guide
 style_batch: 3

@@ -1,14 +1,14 @@
 ---
 title: 'Reserve Marine Safari Watamu Snorkeling Dolphin Watching Kenya Europe Boat Tour Price: Complete Guide'
-description: Kenya safari guide covering reserve marine safari watamu snorkeling dolphin watching kenya europe boat tour price, including what is included, pricing, and booking advice.
+description: 'Kenya safari guide covering reserve marine safari watamu snorkeling dolphin watching kenya europe boat tour price, including what is included, pricing, and booking advice.'
 slug: reserve-marine-safari-watamu-snorkeling-dolphin-watching-kenya-europe-boat-tour-price
-primary_keyword: Reserve marine safari Watamu snorkeling dolphin watching Kenya Europe boat tour price
+primary_keyword: 'Reserve marine safari Watamu snorkeling dolphin watching Kenya Europe boat tour price'
 secondary_keywords:
-- Kenya air safari
-- Kenya cultural safari
-- 4 day Kenya safari
-- How much is a Kenya safari
-- Hidden costs Kenya safari
+- 'Kenya air safari'
+- 'Kenya cultural safari'
+- '4 day Kenya safari'
+- 'How much is a Kenya safari'
+- 'Hidden costs Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3
