@@ -3,27 +3,28 @@ import ServiceCard from '@/components/ServiceCard';
 import BlogCarouselSection from '@/components/BlogCarouselSection';
 import IconRenderer from '@/components/IconRenderer';
 import LogoCarousel from '@/components/LogoCarousel';
+import CertificationSection from '@/components/CertificationSection';
 import { governmentAuthorities } from '@/data/government-authorities';
 import { kenyaCounties } from '@/data/kenya-counties';
 
 const categoryGroups = [
   {
     id: 'construction',
-    label: 'Construction & Property',
+    label: 'Construction & Infrastructure',
     icon: 'Building2',
-    slugs: ['construction-civil-engineering', 'swimming-pool-construction', 'roofing-systems-waterproofing', 'architectural-design-house-plans', 'interior-design-office-fitouts', 'office-partitions-glass-works'],
+    slugs: ['construction-civil-engineering', 'roofing-systems-waterproofing', 'architectural-design-house-plans', 'interior-design-office-fitouts', 'office-partitions-glass-works'],
   },
   {
-    id: 'engineering',
-    label: 'Engineering & Technical',
-    icon: 'Wrench',
-    slugs: ['solar-power-renewable-energy', 'generator-sales-repair', 'electrical-installation-wiring', 'technical-repairs-appliance', 'plumbing-drainage-services'],
+    id: 'energy',
+    label: 'Energy & Sustainability',
+    icon: 'Sun',
+    slugs: ['solar-power-renewable-energy', 'generator-sales-repair', 'electrical-installation-wiring', 'technical-repairs-appliance'],
   },
   {
     id: 'water',
-    label: 'Water & Environment',
+    label: 'Water Systems & Drilling',
     icon: 'Droplets',
-    slugs: ['water-filtration-purification', 'borehole-drilling-water-services'],
+    slugs: ['water-filtration-purification', 'borehole-drilling-water-services', 'plumbing-drainage-services', 'swimming-pool-construction'],
   },
   {
     id: 'specialized',
@@ -40,7 +41,7 @@ export default function ServicesPage() {
     <div>
       {/* Hero */}
       <section style={{
-        background: 'linear-gradient(135deg, #0B1F3A 0%, #0F4C2C 100%)',
+        background: 'linear-gradient(135deg, #1A1A1A 0%, #0D47A1 100%)',
         padding: '100px 0 80px',
         position: 'relative',
         overflow: 'hidden',
@@ -48,17 +49,17 @@ export default function ServicesPage() {
         <div style={{
           position: 'absolute',
           inset: 0,
-          backgroundImage: 'radial-gradient(circle at 70% 30%, rgba(234,88,12,0.15) 0%, transparent 50%)',
+          backgroundImage: 'radial-gradient(circle at 70% 30%, rgba(212,175,55,0.15) 0%, transparent 50%)',
         }} />
         <div className="container-custom" style={{ position: 'relative', textAlign: 'center' }}>
           <span className="glass-badge" style={{
-            background: 'rgba(234,88,12,0.2)',
-            border: '1px solid rgba(234,88,12,0.3)',
-            color: '#EA580C',
+            background: 'rgba(212,175,55,0.2)',
+            border: '1px solid rgba(212,175,55,0.3)',
+            color: '#D4AF37',
             padding: '8px 20px',
             fontSize: 12,
           }}>
-            17+ Professional Services · Nationwide Coverage · NCA & EPRA Certified
+            4 Core Categories · Nationwide Coverage · NCA, EPRA & NEMA Certified
           </span>
           <h1 style={{
             fontFamily: "'Poppins', sans-serif",
@@ -68,7 +69,7 @@ export default function ServicesPage() {
             marginBottom: 24,
             lineHeight: 1.15,
           }}>
-            Comprehensive Multi-Service Solutions
+            Four Core Categories. One Standard of Excellence.
           </h1>
           <p style={{
             fontSize: 'clamp(16px, 2vw, 20px)',
@@ -95,10 +96,10 @@ export default function ServicesPage() {
         <div className="container-custom">
           <div style={{ textAlign: 'center', maxWidth: 720, margin: '0 auto 60px' }}>
             <h2 style={{
-              fontFamily: "'Playfair Display', serif",
+              fontFamily: "'Poppins', sans-serif",
               fontWeight: 700,
               fontSize: 'clamp(28px, 3vw, 36px)',
-              color: '#0B1F3A',
+              color: '#1A1A1A',
               marginBottom: 16,
             }}>
               Our Flagship Services
@@ -125,14 +126,14 @@ export default function ServicesPage() {
       </section>
 
       {/* Services by Category */}
-      <section style={{ background: '#F0FDF4', padding: '80px 0' }}>
+      <section style={{ background: '#F5F7FA', padding: '80px 0' }}>
         <div className="container-custom">
           <div style={{ textAlign: 'center', maxWidth: 720, margin: '0 auto 60px' }}>
             <h2 style={{
-              fontFamily: "'Playfair Display', serif",
+              fontFamily: "'Poppins', sans-serif",
               fontWeight: 700,
               fontSize: 'clamp(28px, 3vw, 36px)',
-              color: '#0B1F3A',
+              color: '#1A1A1A',
               marginBottom: 16,
             }}>
               All Services by Category
@@ -158,14 +159,14 @@ export default function ServicesPage() {
                   padding: '16px 20px',
                   borderBottom: 'none',
                 }}>
-                  <div className="glass" style={{ width: 44, height: 44, borderRadius: 12, display: 'flex', alignItems: 'center', justifyContent: 'center', background: 'rgba(15,76,44,0.1)' }}>
-                    <IconRenderer name={group.icon} size={24} style={{ color: '#0F4C2C' }} />
+                  <div className="glass" style={{ width: 44, height: 44, borderRadius: 12, display: 'flex', alignItems: 'center', justifyContent: 'center', background: 'rgba(13,71,161,0.1)' }}>
+                    <IconRenderer name={group.icon} size={24} style={{ color: '#0D47A1' }} />
                   </div>
                   <h3 style={{
                     fontFamily: "'Poppins', sans-serif",
                     fontWeight: 700,
                     fontSize: 22,
-                    color: '#0B1F3A',
+                    color: '#1A1A1A',
                     textTransform: 'capitalize',
                   }}>
                     {group.label}
@@ -192,10 +193,10 @@ export default function ServicesPage() {
         <div className="container-custom">
           <div style={{ textAlign: 'center', maxWidth: 720, margin: '0 auto 60px' }}>
             <h2 style={{
-              fontFamily: "'Playfair Display', serif",
+              fontFamily: "'Poppins', sans-serif",
               fontWeight: 700,
               fontSize: 'clamp(28px, 3vw, 36px)',
-              color: '#0B1F3A',
+              color: '#1A1A1A',
               marginBottom: 16,
             }}>
               Why Clients Choose ProTech
@@ -225,14 +226,14 @@ export default function ServicesPage() {
               <div key={i} className="glass-card hover-lift" style={{
                 padding: '32px 24px',
               }}>
-                <div className="glass" style={{ width: 48, height: 48, background: 'rgba(15,76,44,0.1)', borderRadius: 12, display: 'flex', alignItems: 'center', justifyContent: 'center', marginBottom: 16 }}>
-                  <IconRenderer name={item.icon} size={24} style={{ color: '#0F4C2C' }} />
+                <div className="glass" style={{ width: 48, height: 48, background: 'rgba(13,71,161,0.1)', borderRadius: 12, display: 'flex', alignItems: 'center', justifyContent: 'center', marginBottom: 16 }}>
+                  <IconRenderer name={item.icon} size={24} style={{ color: '#0D47A1' }} />
                 </div>
                 <h4 style={{
                   fontFamily: "'Poppins', sans-serif",
                   fontWeight: 600,
                   fontSize: 18,
-                  color: '#0B1F3A',
+                  color: '#1A1A1A',
                   marginBottom: 8,
                 }}>
                   {item.title}
@@ -247,11 +248,11 @@ export default function ServicesPage() {
       </section>
 
       {/* Service Delivery Process */}
-      <section className="glass-section glass-dark" style={{ background: 'rgba(11,31,58,0.9)', padding: '80px 0', margin: '40px auto', maxWidth: '1280px', borderRadius: 24, border: '1px solid rgba(255,255,255,0.1)' }}>
+      <section className="glass-section glass-dark" style={{ background: 'rgba(13,71,161,0.9)', padding: '80px 0', margin: '40px auto', maxWidth: '1280px', borderRadius: 24, border: '1px solid rgba(255,255,255,0.1)' }}>
         <div className="container-custom">
           <div style={{ textAlign: 'center', maxWidth: 720, margin: '0 auto 60px' }}>
             <h2 style={{
-              fontFamily: "'Playfair Display', serif",
+              fontFamily: "'Poppins', sans-serif",
               fontWeight: 700,
               fontSize: 'clamp(28px, 3vw, 36px)',
               color: '#fff',
@@ -275,12 +276,12 @@ export default function ServicesPage() {
             position: 'relative',
           }}>
             {[
-              { step: '01', title: 'Consultation & Site Survey', desc: 'Free initial consultation, site assessment, and requirement gathering by our technical team.', accent: '#EA580C', bg: 'rgba(234,88,12,0.15)', border: 'rgba(234,88,12,0.4)' },
-              { step: '02', title: 'Design & Proposal', desc: 'Detailed scope, BOQ, timeline, and 3D visualizations where applicable. Presented for client approval.', accent: '#0F4C2C', bg: 'rgba(15,76,44,0.15)', border: 'rgba(15,76,44,0.4)' },
+              { step: '01', title: 'Consultation & Site Survey', desc: 'Free initial consultation, site assessment, and requirement gathering by our technical team.', accent: '#D4AF37', bg: 'rgba(212,175,55,0.15)', border: 'rgba(212,175,55,0.4)' },
+              { step: '02', title: 'Design & Proposal', desc: 'Detailed scope, BOQ, timeline, and 3D visualizations where applicable. Presented for client approval.', accent: '#0D47A1', bg: 'rgba(13,71,161,0.15)', border: 'rgba(13,71,161,0.4)' },
               { step: '03', title: 'Approvals & Permits', desc: 'We handle NCA, NEMA, county government, and EPRA approvals — ensuring full regulatory compliance.', accent: '#1E3A8A', bg: 'rgba(30,58,138,0.15)', border: 'rgba(30,58,138,0.4)' },
-              { step: '04', title: 'Procurement & Mobilization', desc: 'Materials sourced from vetted suppliers. Teams mobilized with safety briefings and project schedules.', accent: '#B45309', bg: 'rgba(180,83,9,0.15)', border: 'rgba(180,83,9,0.4)' },
-              { step: '05', title: 'Execution & Supervision', desc: 'Certified project managers oversee daily operations with quality checks at every milestone.', accent: '#0F4C2C', bg: 'rgba(15,76,44,0.15)', border: 'rgba(15,76,44,0.4)' },
-              { step: '06', title: 'Testing, Handover & Support', desc: 'Commissioning tests, client walkthrough, documentation handover, and warranty activation.', accent: '#EA580C', bg: 'rgba(234,88,12,0.15)', border: 'rgba(234,88,12,0.4)' },
+              { step: '04', title: 'Procurement & Mobilization', desc: 'Materials sourced from vetted suppliers. Teams mobilized with safety briefings and project schedules.', accent: '#6A1B9A', bg: 'rgba(106,27,154,0.15)', border: 'rgba(106,27,154,0.4)' },
+              { step: '05', title: 'Execution & Supervision', desc: 'Certified project managers oversee daily operations with quality checks at every milestone.', accent: '#0D47A1', bg: 'rgba(13,71,161,0.15)', border: 'rgba(13,71,161,0.4)' },
+              { step: '06', title: 'Testing, Handover & Support', desc: 'Commissioning tests, client walkthrough, documentation handover, and warranty activation.', accent: '#D4AF37', bg: 'rgba(212,175,55,0.15)', border: 'rgba(212,175,55,0.4)' },
             ].map((item, i) => (
               <div key={i} className="glass-card-hover" style={{ padding: '36px 28px', textAlign: 'center', background: item.bg, border: `2px solid ${item.border}` }}>
                 <div style={{
@@ -315,49 +316,13 @@ export default function ServicesPage() {
       </section>
 
       {/* Certifications & Accreditations */}
-      <section className="glass-section" style={{ background: 'rgba(255,255,255,0.6)', padding: '60px 0', margin: '40px auto', maxWidth: '1280px', borderRadius: 24 }}>
-        <div className="container-custom">
-          <div style={{ textAlign: 'center', marginBottom: 40 }}>
-            <h3 style={{
-              fontFamily: "'Poppins', sans-serif",
-              fontWeight: 600,
-              fontSize: 20,
-              color: '#0B1F3A',
-              marginBottom: 8,
-            }}>
-              Certifications & Accreditations
-            </h3>
-            <p style={{ color: '#334155', maxWidth: 600, margin: '0 auto' }}>
-              All our operations comply with Kenyan regulatory standards and international best practices.
-            </p>
-          </div>
-          <div style={{
-            display: 'flex',
-            flexWrap: 'wrap',
-            justifyContent: 'center',
-            gap: 20,
-            alignItems: 'center',
-          }}>
-            {['NCA Registered', 'EPRA Licensed', 'NEMA Compliant', 'ERC Certified', 'ISO 9001:2015', 'KRA Tax Compliant', 'Ministry of Health Approved', 'County Government Approved'].map((cert, i) => (
-              <span key={i} className="glass-badge" style={{
-                fontSize: 12,
-                fontWeight: 600,
-                color: '#0F4C2C',
-                background: 'rgba(15,76,44,0.1)',
-                border: '1px solid rgba(15,76,44,0.2)',
-              }}>
-                {cert}
-              </span>
-            ))}
-          </div>
-        </div>
-      </section>
+      <CertificationSection />
 
       {/* CTA Section */}
-      <section className="glass-section glass-dark" style={{ background: 'rgba(11,31,58,0.9)', padding: '80px 0', margin: '40px auto', maxWidth: '1280px', borderRadius: 24, border: '1px solid rgba(255,255,255,0.1)' }}>
+      <section className="glass-section glass-dark" style={{ background: 'rgba(13,71,161,0.9)', padding: '80px 0', margin: '40px auto', maxWidth: '1280px', borderRadius: 24, border: '1px solid rgba(255,255,255,0.1)' }}>
         <div className="container-custom" style={{ textAlign: 'center', maxWidth: 720, margin: '0 auto' }}>
           <h2 style={{
-            fontFamily: "'Playfair Display', serif",
+            fontFamily: "'Poppins', sans-serif",
             fontWeight: 700,
             fontSize: 'clamp(28px, 3vw, 36px)',
             color: '#fff',
@@ -385,7 +350,7 @@ export default function ServicesPage() {
       </section>
 
       {/* Regulatory Authorities */}
-      <section className="section-tighter bg-gradient-to-b from-orange-50/50 to-white">
+      <section className="section-tighter bg-gradient-to-b from-secondary-50/50 to-white">
         <div className="container-custom">
           <LogoCarousel
             items={governmentAuthorities}
@@ -399,7 +364,7 @@ export default function ServicesPage() {
       </section>
 
       {/* Counties We Serve */}
-      <section className="section-tighter bg-gradient-to-b from-green-50/50 to-white">
+      <section className="section-tighter bg-gradient-to-b from-surface-50/50 to-white">
         <div className="container-custom">
           <LogoCarousel
             items={kenyaCounties.slice(0, 20)}

@@ -132,10 +132,10 @@ export default function BlogCarousel({
       <div className="container-custom">
         {showHeader && (
           <div style={{ textAlign: 'center', marginBottom: 48 }}>
-            <p style={{ fontSize: 13, fontWeight: 600, color: '#15803D', letterSpacing: '0.1em', textTransform: 'uppercase', marginBottom: 8 }}>
+            <p style={{ fontSize: 13, fontWeight: 600, color: '#D4AF37', letterSpacing: '0.1em', textTransform: 'uppercase', marginBottom: 8 }}>
               The Journal
             </p>
-            <h2 style={{ fontFamily: "'Playfair Display', Georgia, serif", fontWeight: 700, fontSize: 'clamp(26px, 3.5vw, 38px)', color: '#0B1F3A', marginBottom: 14 }}>
+            <h2 style={{ fontFamily: "'Playfair Display', Georgia, serif", fontWeight: 700, fontSize: 'clamp(26px, 3.5vw, 38px)', color: '#1A1A1A', marginBottom: 14 }}>
               {title}
             </h2>
             <p style={{ fontSize: 16, color: '#334155', maxWidth: 560, margin: '0 auto' }}>{subtitle}</p>
@@ -202,7 +202,7 @@ export default function BlogCarousel({
                         display: 'inline-flex',
                         alignItems: 'center',
                         gap: 6,
-                        color: '#0F4C2C',
+                        color: '#0D47A1',
                         fontSize: '0.85rem',
                         fontWeight: 600,
                         fontFamily: "'Inter', sans-serif",

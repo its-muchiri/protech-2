@@ -86,25 +86,25 @@ const glassInputStyle = {
   borderRadius: 10,
   padding: '12px 14px',
   fontSize: 14,
-  color: '#0B1F3A',
+  color: '#1A1A1A',
   width: '100%',
   outline: 'none',
   transition: 'border-color 0.2s, box-shadow 0.2s',
 };
 
 const inputFocusHandlers = {
-  onFocus: (e) => { e.target.style.borderColor = 'rgba(15,76,44,0.5)'; e.target.style.boxShadow = '0 0 0 3px rgba(15,76,44,0.1)'; },
+  onFocus: (e) => { e.target.style.borderColor = 'rgba(13,71,161,0.5)'; e.target.style.boxShadow = '0 0 0 3px rgba(13,71,161,0.1)'; },
   onBlur: (e) => { e.target.style.borderColor = 'rgba(255,255,255,0.45)'; e.target.style.boxShadow = 'none'; },
 };
 
 const btnStyle = {
   width: '100%', padding: '16px 24px', fontSize: 16, fontWeight: 700,
   fontFamily: "'Poppins', sans-serif",
-  background: 'linear-gradient(135deg, #0F4C2C 0%, #166534 100%)',
+  background: 'linear-gradient(135deg, #0D47A1 0%, #6A1B9A 100%)',
   color: '#fff', border: 'none', borderRadius: 12, cursor: 'pointer',
   display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 10,
   marginTop: 8, transition: 'transform 0.2s, box-shadow 0.2s',
-  boxShadow: '0 4px 20px rgba(15,76,44,0.3)',
+  boxShadow: '0 4px 20px rgba(13,71,161,0.3)',
 };
 
 const fieldLabel = { display: 'block', fontSize: 13, fontWeight: 600, color: '#334155', marginBottom: 6 };
@@ -169,7 +169,7 @@ export default function RequestQuotePage() {
 
   if (submitted) {
     return (
-      <div style={{ minHeight: '100vh', background: 'linear-gradient(135deg, #0B1F3A 0%, #0F4C2C 50%, #0B1F3A 100%)', display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '60px 20px' }}>
+      <div style={{ minHeight: '100vh', background: 'linear-gradient(135deg, #1A1A1A 0%, #0D47A1 50%, #1A1A1A 100%)', display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '60px 20px' }}>
         <div style={{ ...glassStyle, maxWidth: 560, width: '100%', padding: '56px 48px', textAlign: 'center' }}>
           <div style={{ width: 80, height: 80, borderRadius: '50%', background: 'rgba(34, 197, 94, 0.2)', border: '2px solid rgba(34, 197, 94, 0.4)', display: 'flex', alignItems: 'center', justifyContent: 'center', margin: '0 auto 28px' }}>
             <CheckCircle2 size={40} color="#22C55E" />
@@ -192,15 +192,15 @@ export default function RequestQuotePage() {
   }
 
   return (
-    <div style={{ background: '#0B1F3A' }}>
+    <div style={{ background: '#1A1A1A' }}>
 {/* Hero Section */}
       <section style={{ position: 'relative', minHeight: isMobile ? 'auto' : 420, display: 'flex', alignItems: 'center', overflow: 'hidden' }}>
         <div style={{ position: 'absolute', inset: 0, backgroundImage: 'url(/protech-img/construction-civil-engineering/construction-civil-engineering_1.jpg)', backgroundSize: 'cover', backgroundPosition: isMobile ? 'top center' : 'center' }} />
-        <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(135deg, rgba(11,31,58,0.92) 0%, rgba(15,76,44,0.85) 50%, rgba(11,31,58,0.9) 100%)' }} />
+        <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(135deg, rgba(13,71,161,0.95) 0%, rgba(26,26,26,0.9) 100%)' }} />
         <div className="container-custom" style={{ position: 'relative', zIndex: 2, padding: isMobile ? '48px 16px' : '64px 20px' }}>
           <div style={{ ...glassStyle, maxWidth: 600, padding: isMobile ? '32px 24px' : '48px 44px' }}>
             <div style={{ display: 'flex', alignItems: 'center', gap: 12, marginBottom: 20 }}>
-              <div style={{ width: 48, height: 48, background: 'rgba(234, 88, 12, 0.85)', borderRadius: 12, display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+              <div style={{ width: 48, height: 48, background: 'rgba(212, 175, 55, 0.85)', borderRadius: 12, display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
                 <Building2 size={26} color="#fff" strokeWidth={2} />
               </div>
               <span style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 20, color: '#fff' }}>ProTech Consultants</span>
@@ -235,12 +235,12 @@ export default function RequestQuotePage() {
       </section>
 
 {/* Main Form Section */}
-      <section style={{ padding: isMobile ? '48px 0' : '72px 0', background: 'linear-gradient(180deg, #0B1F3A 0%, #0D2847 100%)' }}>
+      <section style={{ padding: isMobile ? '48px 0' : '72px 0', background: 'linear-gradient(180deg, #1A1A1A 0%, #0D2847 100%)' }}>
         <div className="container-custom" style={{ maxWidth: 1140, margin: '0 auto' }}>
           <div style={{ display: 'grid', gridTemplateColumns: isMobile ? '1fr' : '1fr 1fr', gap: isMobile ? '32px' : '48px', alignItems: 'start' }}>
             {/* Left: Form */}
             <div style={{ ...glassCardStyle, padding: isMobile ? '28px 20px' : '40px 36px' }}>
-              <h2 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 24, color: '#0B1F3A', marginBottom: 6 }}>
+              <h2 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 24, color: '#1A1A1A', marginBottom: 6 }}>
                 Tell Us About Your Project
               </h2>
               <p style={{ fontSize: 14, color: '#64748B', marginBottom: 28 }}>
@@ -284,8 +284,8 @@ export default function RequestQuotePage() {
                   type="submit"
                   disabled={isSubmitting}
                   style={btnStyle}
-                  onMouseEnter={(e) => { e.target.style.transform = 'translateY(-2px)'; e.target.style.boxShadow = '0 6px 28px rgba(15,76,44,0.4)'; }}
-                  onMouseLeave={(e) => { e.target.style.transform = 'translateY(0)'; e.target.style.boxShadow = '0 4px 20px rgba(15,76,44,0.3)'; }}
+                  onMouseEnter={(e) => { e.target.style.transform = 'translateY(-2px)'; e.target.style.boxShadow = '0 6px 28px rgba(13,71,161,0.4)'; }}
+                  onMouseLeave={(e) => { e.target.style.transform = 'translateY(0)'; e.target.style.boxShadow = '0 4px 20px rgba(13,71,161,0.3)'; }}
                 >
                   <MessageCircle size={18} />
                   {isSubmitting ? 'Sending...' : 'Get Quote via Email & WhatsApp'}
@@ -301,7 +301,7 @@ export default function RequestQuotePage() {
             <div style={{ display: 'flex', flexDirection: 'column', gap: isMobile ? '16px' : '24px' }}>
               {/* Benefits Card */}
               <div style={{ ...glassCardStyle, padding: isMobile ? '20px 16px' : '28px 24px' }}>
-                <h3 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: isMobile ? '16px' : '18px', color: '#0B1F3A', marginBottom: isMobile ? '16px' : '20px' }}>
+                <h3 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: isMobile ? '16px' : '18px', color: '#1A1A1A', marginBottom: isMobile ? '16px' : '20px' }}>
                   What You Get With Your Quote
                 </h3>
                 <div style={{ display: 'flex', flexDirection: 'column', gap: isMobile ? '10px' : '14px' }}>
@@ -315,7 +315,7 @@ export default function RequestQuotePage() {
               </div>
 
               {/* How It Works Card */}
-              <div style={{ ...glassDarkStyle, padding: isMobile ? '20px 16px' : '28px 24px', background: 'rgba(15,76,44,0.85)', border: '1px solid rgba(255,255,255,0.12)' }}>
+              <div style={{ ...glassDarkStyle, padding: isMobile ? '20px 16px' : '28px 24px', background: 'rgba(13,71,161,0.85)', border: '1px solid rgba(255,255,255,0.12)' }}>
                 <h3 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: isMobile ? '16px' : '18px', color: '#fff', marginBottom: isMobile ? '12px' : '16px' }}>
                   How It Works
                 </h3>
@@ -341,16 +341,16 @@ export default function RequestQuotePage() {
 
               {/* Quick Contact */}
               <div style={{ ...glassCardStyle, padding: isMobile ? '20px 16px' : '24px' }}>
-                <h3 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: isMobile ? '15px' : '16px', color: '#0B1F3A', marginBottom: 12 }}>
+                <h3 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: isMobile ? '15px' : '16px', color: '#1A1A1A', marginBottom: 12 }}>
                   Need Help? Contact Us
                 </h3>
                 <div style={{ display: 'flex', flexDirection: 'column', gap: 10 }}>
-                  <a href={'tel:' + PHONE} style={{ display: 'flex', alignItems: 'center', gap: 10, padding: '12px 14px', borderRadius: 10, border: '1px solid rgba(15,76,44,0.2)', background: 'rgba(15,76,44,0.05)', color: '#0B1F3A', textDecoration: 'none', minHeight: '48px' }}>
-                    <Phone size={16} color="#0F4C2C" />
+                  <a href={'tel:' + PHONE} style={{ display: 'flex', alignItems: 'center', gap: 10, padding: '12px 14px', borderRadius: 10, border: '1px solid rgba(13,71,161,0.2)', background: 'rgba(13,71,161,0.05)', color: '#1A1A1A', textDecoration: 'none', minHeight: '48px' }}>
+                    <Phone size={16} color="#0D47A1" />
                     <span style={{ fontSize: 14, fontWeight: 500 }}>{PHONE}</span>
                   </a>
-                  <a href={'mailto:' + EMAIL} style={{ display: 'flex', alignItems: 'center', gap: 10, padding: '12px 14px', borderRadius: 10, border: '1px solid rgba(15,76,44,0.2)', background: 'rgba(15,76,44,0.05)', color: '#0B1F3A', textDecoration: 'none', minHeight: '48px' }}>
-                    <Mail size={16} color="#0F4C2C" />
+                  <a href={'mailto:' + EMAIL} style={{ display: 'flex', alignItems: 'center', gap: 10, padding: '12px 14px', borderRadius: 10, border: '1px solid rgba(13,71,161,0.2)', background: 'rgba(13,71,161,0.05)', color: '#1A1A1A', textDecoration: 'none', minHeight: '48px' }}>
+                    <Mail size={16} color="#0D47A1" />
                     <span style={{ fontSize: 14, fontWeight: 500 }}>{EMAIL}</span>
                   </a>
                 </div>
@@ -358,12 +358,12 @@ export default function RequestQuotePage() {
 
               {/* Certifications */}
               <div style={{ ...glassCardStyle, padding: isMobile ? '20px 16px' : '24px' }}>
-                <h3 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: isMobile ? '15px' : '16px', color: '#0B1F3A', marginBottom: 12 }}>
+                <h3 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: isMobile ? '15px' : '16px', color: '#1A1A1A', marginBottom: 12 }}>
                   Certified & Regulated
                 </h3>
                 <div style={{ display: 'flex', flexWrap: 'wrap', gap: 6 }}>
                   {['NCA', 'EPRA', 'NEMA', 'KRA', 'ERC', 'ISO 9001:2015'].map((cert) => (
-                    <span key={cert} style={{ padding: '6px 12px', borderRadius: 999, border: '1.5px solid rgba(15,76,44,0.2)', background: 'rgba(15,76,44,0.06)', fontSize: 11, fontWeight: 700, color: '#0B1F3A' }}>{cert}</span>
+                    <span key={cert} style={{ padding: '6px 12px', borderRadius: 999, border: '1.5px solid rgba(13,71,161,0.2)', background: 'rgba(13,71,161,0.06)', fontSize: 11, fontWeight: 700, color: '#1A1A1A' }}>{cert}</span>
                   ))}
                 </div>
               </div>

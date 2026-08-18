@@ -1,4 +1,4 @@
-﻿'use client';
+'use client';
 
 import { Phone, ArrowRight } from 'lucide-react';
 
@@ -39,8 +39,8 @@ export default function StickyBar() {
     <div className="sticky-bottom-bar safe-area-bottom" style={{
       paddingBottom: 'env(safe-area-inset-bottom)',
     }}>
-      <StickyBtn bg="#0F4C2C" href={`tel:${PHONE}`} icon={Phone} label="Call" />
-      <StickyBtn bg="#EA580C" href="/request-a-quote" icon={ArrowRight} label="Get Quote" />
+      <StickyBtn bg="#0D47A1" href={`tel:${PHONE}`} icon={Phone} label="Call" />
+      <StickyBtn bg="#D4AF37" href="/request-a-quote" icon={ArrowRight} label="Get Quote" />
     </div>
   );
 }

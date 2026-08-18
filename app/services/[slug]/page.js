@@ -52,9 +52,9 @@ export default function ServicePage({ params }) {
   if (!service) {
     return (
       <div style={{ minHeight: '60vh', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', padding: '80px 20px' }}>
-        <h1 style={{ fontFamily: "'Poppins', sans-serif", fontSize: 36, fontWeight: 700, color: '#0B1F3A', marginBottom: 16 }}>Service Not Found</h1>
+        <h1 style={{ fontFamily: "'Poppins', sans-serif", fontSize: 36, fontWeight: 700, color: '#1A1A1A', marginBottom: 16 }}>Service Not Found</h1>
         <p style={{ color: '#666', marginBottom: 32, fontSize: 16 }}>The service you are looking for does not exist or has been moved.</p>
-        <Link href="/services" style={{ background: '#0F4C2C', color: '#fff', padding: '14px 32px', borderRadius: 12, fontWeight: 600, textDecoration: 'none', fontSize: 15 }}>
+        <Link href="/services" style={{ background: '#0D47A1', color: '#fff', padding: '14px 32px', borderRadius: 12, fontWeight: 600, textDecoration: 'none', fontSize: 15 }}>
           View All Services
         </Link>
       </div>
@@ -84,14 +84,14 @@ export default function ServicePage({ params }) {
             style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover' }}
           />
         ) : (
-          <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(135deg, #0B1F3A 0%, #0F4C2C 100%)' }} />
+          <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(135deg, #1A1A1A 0%, #0D47A1 100%)' }} />
         )}
-        <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(135deg, rgba(11,31,58,0.88) 0%, rgba(15,76,44,0.85) 100%)' }} />
+        <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(135deg, rgba(13,71,161,0.92) 0%, rgba(26,26,26,0.88) 100%)' }} />
         <div style={{ position: 'relative', width: '100%', maxWidth: 1200, margin: '0 auto', padding: '80px 20px', zIndex: 2 }}>
           <div style={{ ...glassPanel, maxWidth: 700, background: 'rgba(255,255,255,0.1)', border: '1px solid rgba(255,255,255,0.18)' }}>
             {service.startingPrice && (
-              <div style={{ display: 'inline-block', background: 'rgba(234,88,12,0.25)', border: '1px solid rgba(234,88,12,0.5)', borderRadius: 8, padding: '4px 14px', marginBottom: 16 }}>
-                <span style={{ color: '#EA580C', fontSize: 13, fontWeight: 600 }}>From {service.startingPrice}</span>
+              <div style={{ display: 'inline-block', background: 'rgba(212,175,55,0.25)', border: '1px solid rgba(212,175,55,0.5)', borderRadius: 8, padding: '4px 14px', marginBottom: 16 }}>
+                <span style={{ color: '#D4AF37', fontSize: 13, fontWeight: 600 }}>From {service.startingPrice}</span>
               </div>
             )}
             <h1 style={{ fontFamily: "'Poppins', sans-serif", fontSize: 40, fontWeight: 700, color: '#fff', lineHeight: 1.15, marginBottom: 16 }}>
@@ -105,7 +105,7 @@ export default function ServicePage({ params }) {
                 href="/request-a-quote"
                 style={{
                   background: '#fff',
-                  color: '#0B1F3A',
+                  color: '#1A1A1A',
                   padding: '14px 28px',
                   borderRadius: 12,
                   fontWeight: 700,
@@ -123,8 +123,8 @@ export default function ServicePage({ params }) {
               <a
                 href={`tel:${PHONE}`}
                 style={{
-                  background: 'rgba(14,78,44,0.6)',
-                  border: '1px solid rgba(14,78,44,0.8)',
+                  background: 'rgba(13,71,161,0.6)',
+                  border: '1px solid rgba(13,71,161,0.8)',
                   color: '#fff',
                   padding: '14px 28px',
                   borderRadius: 12,
@@ -148,7 +148,7 @@ export default function ServicePage({ params }) {
       {/* What We Offer */}
       <section style={{ padding: '80px 20px', background: '#f8faf9' }}>
         <div style={{ maxWidth: 1200, margin: '0 auto' }}>
-          <h2 style={{ fontFamily: "'Poppins', sans-serif", fontSize: 28, fontWeight: 700, color: '#0B1F3A', textAlign: 'center', marginBottom: 12 }}>
+          <h2 style={{ fontFamily: "'Poppins', sans-serif", fontSize: 28, fontWeight: 700, color: '#1A1A1A', textAlign: 'center', marginBottom: 12 }}>
             What We Offer
           </h2>
           <p style={{ textAlign: 'center', color: '#666', marginBottom: 40, fontSize: 15 }}>
@@ -156,10 +156,10 @@ export default function ServicePage({ params }) {
           </p>
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', gap: 16 }}>
             {subServices.map((sub, i) => (
-              <div key={i} style={{ ...glassCard, background: '#fff', border: '1px solid rgba(15,76,44,0.12)' }}>
+              <div key={i} style={{ ...glassCard, background: '#fff', border: '1px solid rgba(13,71,161,0.12)' }}>
                 <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
-                  <div style={{ width: 36, height: 36, borderRadius: 8, background: 'rgba(15,76,44,0.1)', display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }}>
-                    <CheckCircle2 size={18} color="#0F4C2C" />
+                  <div style={{ width: 36, height: 36, borderRadius: 8, background: 'rgba(13,71,161,0.1)', display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }}>
+                    <CheckCircle2 size={18} color="#0D47A1" />
                   </div>
                   <span style={{ fontSize: 15, color: '#333', fontWeight: 500 }}>{sub}</span>
                 </div>
@@ -170,7 +170,7 @@ export default function ServicePage({ params }) {
       </section>
 
       {/* Why Choose Us + Quote Form */}
-      <section style={{ padding: '80px 20px', background: '#0B1F3A' }}>
+      <section style={{ padding: '80px 20px', background: '#1A1A1A' }}>
         <div style={{ maxWidth: 1200, margin: '0 auto', display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 48, alignItems: 'start' }}>
           <div>
             <h2 style={{ fontFamily: "'Poppins', sans-serif", fontSize: 28, fontWeight: 700, color: '#fff', marginBottom: 20 }}>
@@ -189,7 +189,7 @@ export default function ServicePage({ params }) {
                 { icon: CheckCircle2, text: 'Transparent pricing' },
               ].map((item, i) => (
                 <div key={i} style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
-                  <div style={{ width: 32, height: 32, borderRadius: 8, background: 'rgba(14,78,44,0.4)', display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }}>
+                  <div style={{ width: 32, height: 32, borderRadius: 8, background: 'rgba(13,71,161,0.4)', display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }}>
                     <item.icon size={16} color="#86EFAC" />
                   </div>
                   <span style={{ color: 'rgba(255,255,255,0.85)', fontSize: 14 }}>{item.text}</span>
@@ -211,7 +211,7 @@ export default function ServicePage({ params }) {
       {remainingImages.length > 0 && (
         <section style={{ padding: '80px 20px', background: '#f8faf9' }}>
           <div style={{ maxWidth: 1200, margin: '0 auto' }}>
-            <h2 style={{ fontFamily: "'Poppins', sans-serif", fontSize: 28, fontWeight: 700, color: '#0B1F3A', textAlign: 'center', marginBottom: 40 }}>
+            <h2 style={{ fontFamily: "'Poppins', sans-serif", fontSize: 28, fontWeight: 700, color: '#1A1A1A', textAlign: 'center', marginBottom: 40 }}>
               Our Work
             </h2>
             <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', gap: 20 }}>
@@ -222,7 +222,7 @@ export default function ServicePage({ params }) {
                     background: 'rgba(255,255,255,0.8)',
                     backdropFilter: 'blur(12px)',
                     WebkitBackdropFilter: 'blur(12px)',
-                    border: '1px solid rgba(15,76,44,0.15)',
+                    border: '1px solid rgba(13,71,161,0.15)',
                     borderRadius: 14,
                     overflow: 'hidden',
                     aspectRatio: '4/3',
@@ -243,7 +243,7 @@ export default function ServicePage({ params }) {
       {/* Pricing */}
       <section style={{ padding: '80px 20px', background: '#fff' }}>
         <div style={{ maxWidth: 700, margin: '0 auto', textAlign: 'center' }}>
-          <h2 style={{ fontFamily: "'Poppins', sans-serif", fontSize: 28, fontWeight: 700, color: '#0B1F3A', marginBottom: 16 }}>
+          <h2 style={{ fontFamily: "'Poppins', sans-serif", fontSize: 28, fontWeight: 700, color: '#1A1A1A', marginBottom: 16 }}>
             Pricing
           </h2>
           <p style={{ fontSize: 15, lineHeight: 1.8, color: '#666', marginBottom: 16 }}>
@@ -268,7 +268,7 @@ export default function ServicePage({ params }) {
       <section
         style={{
           padding: '80px 20px',
-          background: 'linear-gradient(135deg, #0B1F3A 0%, #0F4C2C 100%)',
+          background: 'linear-gradient(135deg, #1A1A1A 0%, #0D47A1 100%)',
         }}
       >
         <div style={{ maxWidth: 800, margin: '0 auto', textAlign: 'center' }}>
@@ -284,7 +284,7 @@ export default function ServicePage({ params }) {
                 href="/request-a-quote"
                 style={{
                   background: '#fff',
-                  color: '#0B1F3A',
+                  color: '#1A1A1A',
                   padding: '14px 28px',
                   borderRadius: 12,
                   fontWeight: 700,
@@ -300,8 +300,8 @@ export default function ServicePage({ params }) {
               <a
                 href={`tel:${PHONE}`}
                 style={{
-                  background: 'rgba(14,78,44,0.5)',
-                  border: '1px solid rgba(14,78,44,0.7)',
+                  background: 'rgba(13,71,161,0.5)',
+                  border: '1px solid rgba(13,71,161,0.7)',
                   color: '#fff',
                   padding: '14px 28px',
                   borderRadius: 12,

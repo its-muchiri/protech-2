@@ -6,6 +6,8 @@ import Hero from '@/components/Hero';
 import FAQ from '@/components/FAQ';
 import ServiceCard from '@/components/ServiceCard';
 import BlogCarousel from '@/components/BlogCarousel';
+import CertificationSection from '@/components/CertificationSection';
+import WhyProTech from '@/components/WhyProTech';
 import { services } from '@/data/services';
 import { siteFAQs } from '@/data/faqs';
 import Link from 'next/link';
@@ -80,7 +82,7 @@ const TESTIMONIALS = [
 
 const VALUE_PROPS = [
   { icon: Award, title: 'Certified Professionals', desc: 'NCA, EPRA, NEMA and ISO certified. Every project meets regulatory standards.' },
-  { icon: FolderCheck, title: '500+ Projects Delivered', desc: 'Across 17 service lines, residential to industrial, county to county.' },
+  { icon: FolderCheck, title: '500+ Projects Delivered', desc: 'Across 4 core categories — construction, energy, water, and specialized services.' },
   { icon: Users, title: 'Dedicated Project Teams', desc: 'One project manager, one point of contact, end-to-end accountability.' },
   { icon: Headset, title: '24/7 Support', desc: 'Round-the-clock emergency response for plumbing, electrical and security.' },
 ];
@@ -95,7 +97,7 @@ const glass = {
 };
 
 const glassDark = {
-  background: 'rgba(11, 31, 58, 0.55)',
+  background: 'rgba(13, 71, 161, 0.55)',
   backdropFilter: 'blur(20px)',
   WebkitBackdropFilter: 'blur(20px)',
   border: '1px solid rgba(255, 255, 255, 0.15)',
@@ -144,13 +146,13 @@ Please send me a detailed quotation. Thank you.`;
       <Hero />
 
       {/* Stats Bar */}
-      <div style={{ background: '#0F4C2C' }}>
+      <div style={{ background: '#0D47A1' }}>
         <div className="container-custom">
           <div className="stats-grid" style={{ display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: 0 }}>
             {[
               { value: '500+', label: 'Projects Delivered' },
-              { value: '17+', label: 'Services Offered' },
-              { value: '5+', label: 'Years of Excellence' },
+              { value: '4', label: 'Core Service Categories' },
+              { value: '47', label: 'Counties Covered' },
               { value: '24/7', label: 'Client Support' },
             ].map((s, i) => (
               <div key={i} style={{ padding: '28px 24px', textAlign: 'center', borderRight: i < 3 ? '1px solid rgba(255,255,255,0.12)' : 'none' }}>
@@ -168,7 +170,7 @@ Please send me a detailed quotation. Thank you.`;
           <div style={{ display: 'flex', alignItems: 'center', gap: 8, flexWrap: 'wrap', justifyContent: 'center' }}>
             <span style={{ fontSize: 12, fontWeight: 600, color: '#94A3B8', letterSpacing: '0.08em', textTransform: 'uppercase', marginRight: 8 }}>Certified & Regulated:</span>
             {CERTS.map(c => (
-              <div key={c.short} style={{ padding: '6px 16px', borderRadius: 999, border: '1.5px solid #E2E8F0', background: '#fff', fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 13, color: '#0B1F3A', cursor: 'default', userSelect: 'none' }}>
+              <div key={c.short} style={{ padding: '6px 16px', borderRadius: 999, border: '1.5px solid #E2E8F0', background: '#fff', fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 13, color: '#1A1A1A', cursor: 'default', userSelect: 'none' }}>
                 {c.short}
               </div>
             ))}
@@ -177,35 +179,38 @@ Please send me a detailed quotation. Thank you.`;
       </div>
 
       {/* Services Grid */}
-      <section className="section-padding" style={{ background: '#F0FDF4' }} id="services">
+      <section className="section-padding" style={{ background: '#F5F7FA' }} id="services">
         <div className="container-custom">
           <div style={{ textAlign: 'center', marginBottom: 56 }}>
-            <p style={{ fontSize: 13, fontWeight: 600, color: '#15803D', letterSpacing: '0.1em', textTransform: 'uppercase', marginBottom: 8 }}>What We Do</p>
-            <h2 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 'clamp(26px, 3.5vw, 38px)', color: '#0B1F3A', marginBottom: 14 }}>17 Professional Services,<br />One Trusted Partner</h2>
-            <p style={{ fontSize: 16, color: '#334155', maxWidth: 520, margin: '0 auto' }}>
+            <p style={{ fontSize: 13, fontWeight: 700, color: '#D4AF37', letterSpacing: '0.1em', textTransform: 'uppercase', marginBottom: 8 }}>What We Do</p>
+            <h2 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 'clamp(26px, 3.5vw, 38px)', color: '#1A1A1A', marginBottom: 14 }}>Four Service Categories,<br />One Trusted Partner</h2>
+            <p style={{ fontSize: 16, color: '#5A6C7D', maxWidth: 520, margin: '0 auto' }}>
               Every service is delivered by certified engineers with regulatory compliance built in from day one.
             </p>
           </div>
 
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: 24 }}>
             {featuredServices.map((svc, i) => (
-              <ServiceCard key={i} service={svc} />
+              <ServiceCard key={i} service={svc} variant="featured" />
             ))}
           </div>
 
           <div style={{ marginTop: 48, textAlign: 'center' }}>
-            <Link href="/services" className="btn-cta" style={{ backdropFilter: 'blur(8px)' }}>View All 17 Services <ArrowRight size={16} /></Link>
+            <Link href="/services" className="btn-cta" style={{ backdropFilter: 'blur(8px)' }}>Explore All Services <ArrowRight size={16} /></Link>
           </div>
         </div>
       </section>
 
+      {/* Why ProTech */}
+      <WhyProTech />
+
       {/* Why Choose Us + Quote Form */}
-      <section className="section-padding" style={{ position: 'relative', background: 'linear-gradient(135deg, #E2E8F0 0%, #F0FDF4 100%)' }}>
+      <section className="section-padding" style={{ position: 'relative', background: 'linear-gradient(135deg, #E8EBF0 0%, #F5F7FA 100%)' }}>
         <div className="container-custom">
           <div className="grid-2col" style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 60, alignItems: 'start' }}>
             <div>
-              <p style={{ fontSize: 13, fontWeight: 600, color: '#15803D', letterSpacing: '0.1em', textTransform: 'uppercase', marginBottom: 8 }}>Why ProTech</p>
-              <h2 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 'clamp(26px, 3vw, 36px)', color: '#0B1F3A', marginBottom: 16 }}>Built on Certification, Delivered with Accountability</h2>
+              <p style={{ fontSize: 13, fontWeight: 600, color: '#D4AF37', letterSpacing: '0.1em', textTransform: 'uppercase', marginBottom: 8 }}>Why ProTech</p>
+              <h2 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 'clamp(26px, 3vw, 36px)', color: '#1A1A1A', marginBottom: 16 }}>Built on Certification, Delivered with Accountability</h2>
               <p style={{ fontSize: 15, lineHeight: 1.75, color: '#334155', marginBottom: 32 }}>
                 We combine deep technical expertise with genuine project accountability. Every job has a named project manager, a detailed milestone plan, and full regulatory compliance.
               </p>
@@ -213,10 +218,10 @@ Please send me a detailed quotation. Thank you.`;
                 {VALUE_PROPS.map((vp, i) => (
                   <div key={i} style={{ display: 'flex', gap: 16, alignItems: 'flex-start' }}>
                     <span style={{ ...glass, width: 48, height: 48, display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0, borderRadius: 12 }}>
-                      <vp.icon size={22} style={{ color: '#0F4C2C' }} strokeWidth={1.75} />
+                      <vp.icon size={22} style={{ color: '#0D47A1' }} strokeWidth={1.75} />
                     </span>
                     <div>
-                      <div style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 600, fontSize: 15, color: '#0B1F3A', marginBottom: 2 }}>{vp.title}</div>
+                      <div style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 600, fontSize: 15, color: '#1A1A1A', marginBottom: 2 }}>{vp.title}</div>
                       <div style={{ fontSize: 13, color: '#334155', lineHeight: 1.6 }}>{vp.desc}</div>
                     </div>
                   </div>
@@ -251,7 +256,7 @@ Please send me a detailed quotation. Thank you.`;
                   }}>
                     <CheckCircle2 size={36} color="#16A34A" />
                   </div>
-                  <h3 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 24, color: '#0B1F3A', marginBottom: 12 }}>
+                  <h3 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 24, color: '#1A1A1A', marginBottom: 12 }}>
                     Thank You!
                   </h3>
                   <p style={{ fontSize: 15, color: '#334155', lineHeight: 1.7, marginBottom: 24 }}>
@@ -266,14 +271,14 @@ Please send me a detailed quotation. Thank you.`;
                 </div>
               ) : showQuoteForm ? (
                 <div style={{ ...glass, padding: 36 }}>
-                  <h3 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 22, color: '#0B1F3A', marginBottom: 4 }}>Request a Free Quote</h3>
+                  <h3 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 22, color: '#1A1A1A', marginBottom: 4 }}>Request a Free Quote</h3>
                   <p style={{ fontSize: 14, color: '#94A3B8', marginBottom: 24 }}>We respond within 2 hours. No obligation.</p>
                   <form onSubmit={handleSubmit(onSubmit)} style={{ display: 'flex', flexDirection: 'column', gap: 14 }}>
                     <input
                       type="text"
                       {...register('name', { required: 'Full name is required' })}
                       placeholder="Your Full Name *"
-                      style={{ width: '100%', padding: '11px 14px', borderRadius: 8, border: '1.5px solid rgba(255,255,255,0.4)', background: 'rgba(255,255,255,0.5)', backdropFilter: 'blur(4px)', fontSize: 14, color: '#0B1F3A', fontFamily: "'Inter', sans-serif", outline: 'none' }}
+                      style={{ width: '100%', padding: '11px 14px', borderRadius: 8, border: '1.5px solid rgba(255,255,255,0.4)', background: 'rgba(255,255,255,0.5)', backdropFilter: 'blur(4px)', fontSize: 14, color: '#1A1A1A', fontFamily: "'Inter', sans-serif", outline: 'none' }}
                     />
                     {errors.name && <p className="form-error">{errors.name.message}</p>}
 
@@ -287,7 +292,7 @@ Please send me a detailed quotation. Thank you.`;
                         },
                       })}
                       placeholder="Phone Number *"
-                      style={{ width: '100%', padding: '11px 14px', borderRadius: 8, border: '1.5px solid rgba(255,255,255,0.4)', background: 'rgba(255,255,255,0.5)', backdropFilter: 'blur(4px)', fontSize: 14, color: '#0B1F3A', fontFamily: "'Inter', sans-serif", outline: 'none' }}
+                      style={{ width: '100%', padding: '11px 14px', borderRadius: 8, border: '1.5px solid rgba(255,255,255,0.4)', background: 'rgba(255,255,255,0.5)', backdropFilter: 'blur(4px)', fontSize: 14, color: '#1A1A1A', fontFamily: "'Inter', sans-serif", outline: 'none' }}
                     />
                     {errors.phone && <p className="form-error">{errors.phone.message}</p>}
 
@@ -295,12 +300,12 @@ Please send me a detailed quotation. Thank you.`;
                       type="email"
                       {...register('email')}
                       placeholder="Email Address"
-                      style={{ width: '100%', padding: '11px 14px', borderRadius: 8, border: '1.5px solid rgba(255,255,255,0.4)', background: 'rgba(255,255,255,0.5)', backdropFilter: 'blur(4px)', fontSize: 14, color: '#0B1F3A', fontFamily: "'Inter', sans-serif", outline: 'none' }}
+                      style={{ width: '100%', padding: '11px 14px', borderRadius: 8, border: '1.5px solid rgba(255,255,255,0.4)', background: 'rgba(255,255,255,0.5)', backdropFilter: 'blur(4px)', fontSize: 14, color: '#1A1A1A', fontFamily: "'Inter', sans-serif", outline: 'none' }}
                     />
 
                     <select
                       {...register('service', { required: 'Please select a service' })}
-                      style={{ width: '100%', padding: '11px 14px', borderRadius: 8, border: '1.5px solid rgba(255,255,255,0.4)', background: 'rgba(255,255,255,0.5)', backdropFilter: 'blur(4px)', fontSize: 14, color: '#0B1F3A', fontFamily: "'Inter', sans-serif", outline: 'none' }}
+                      style={{ width: '100%', padding: '11px 14px', borderRadius: 8, border: '1.5px solid rgba(255,255,255,0.4)', background: 'rgba(255,255,255,0.5)', backdropFilter: 'blur(4px)', fontSize: 14, color: '#1A1A1A', fontFamily: "'Inter', sans-serif", outline: 'none' }}
                     >
                       <option value="">Select Service *</option>
                       {services.map(s => <option key={s.slug} value={s.name}>{s.name}</option>)}
@@ -309,7 +314,7 @@ Please send me a detailed quotation. Thank you.`;
 
                     <select
                       {...register('location')}
-                      style={{ width: '100%', padding: '11px 14px', borderRadius: 8, border: '1.5px solid rgba(255,255,255,0.4)', background: 'rgba(255,255,255,0.5)', backdropFilter: 'blur(4px)', fontSize: 14, color: '#0B1F3A', fontFamily: "'Inter', sans-serif", outline: 'none' }}
+                      style={{ width: '100%', padding: '11px 14px', borderRadius: 8, border: '1.5px solid rgba(255,255,255,0.4)', background: 'rgba(255,255,255,0.5)', backdropFilter: 'blur(4px)', fontSize: 14, color: '#1A1A1A', fontFamily: "'Inter', sans-serif", outline: 'none' }}
                     >
                       <option value="">County / Location</option>
                       {['Nairobi', 'Kiambu', 'Machakos', 'Mombasa', 'Kisumu', 'Nakuru', 'Thika', 'Other'].map(l => <option key={l} value={l}>{l}</option>)}
@@ -319,7 +324,7 @@ Please send me a detailed quotation. Thank you.`;
                       {...register('details')}
                       placeholder="Project details (optional)"
                       rows={3}
-                      style={{ width: '100%', padding: '11px 14px', borderRadius: 8, border: '1.5px solid rgba(255,255,255,0.4)', background: 'rgba(255,255,255,0.5)', backdropFilter: 'blur(4px)', fontSize: 14, color: '#0B1F3A', fontFamily: "'Inter', sans-serif", outline: 'none', resize: 'vertical' }}
+                      style={{ width: '100%', padding: '11px 14px', borderRadius: 8, border: '1.5px solid rgba(255,255,255,0.4)', background: 'rgba(255,255,255,0.5)', backdropFilter: 'blur(4px)', fontSize: 14, color: '#1A1A1A', fontFamily: "'Inter', sans-serif", outline: 'none', resize: 'vertical' }}
                     />
 
                     <button
@@ -343,17 +348,17 @@ Please send me a detailed quotation. Thank you.`;
                     width: 64,
                     height: 64,
                     borderRadius: '50%',
-                    background: 'rgba(15, 76, 44, 0.1)',
+                    background: 'rgba(13, 71, 161, 0.1)',
                     backdropFilter: 'blur(4px)',
                     display: 'flex',
                     alignItems: 'center',
                     justifyContent: 'center',
                     margin: '0 auto 20px',
-                    border: '1px solid rgba(15, 76, 44, 0.2)',
+                    border: '1px solid rgba(13, 71, 161, 0.2)',
                   }}>
-                    <MessageCircle size={28} color="#0F4C2C" />
+                    <MessageCircle size={28} color="#0D47A1" />
                   </div>
-                  <h3 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 20, color: '#0B1F3A', marginBottom: 12 }}>Ready to Get Started?</h3>
+                  <h3 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 20, color: '#1A1A1A', marginBottom: 12 }}>Ready to Get Started?</h3>
                   <p style={{ fontSize: 14, color: '#64748B', marginBottom: 24, lineHeight: 1.6 }}>
                     Click the button below to request a free quote. We&apos;ll send your details via email and open WhatsApp for instant communication.
                   </p>
@@ -379,12 +384,15 @@ Please send me a detailed quotation. Thank you.`;
         </div>
       </section>
 
+      {/* Certification Section */}
+      <CertificationSection />
+
       {/* CTA Strip */}
       <div style={{ position: 'relative', overflow: 'hidden' }}>
         <div style={{
           position: 'absolute',
           inset: 0,
-          background: 'linear-gradient(135deg, #EA580C 0%, #C2410C 100%)',
+          background: 'linear-gradient(135deg, #D4AF37 0%, #B8942E 100%)',
         }} />
         <div style={{
           position: 'absolute',
@@ -406,28 +414,28 @@ Please send me a detailed quotation. Thank you.`;
       </div>
 
       {/* Testimonials */}
-      <section className="section-padding" style={{ position: 'relative', background: 'linear-gradient(135deg, #F0FDF4 0%, #E0F2FE 100%)' }}>
-        <div style={{ position: 'absolute', inset: 0, backgroundImage: 'radial-gradient(circle at 20% 30%, rgba(15,76,44,0.08) 0%, transparent 50%), radial-gradient(circle at 80% 70%, rgba(234,88,12,0.06) 0%, transparent 50%)' }} />
+      <section className="section-padding" style={{ position: 'relative', background: 'linear-gradient(135deg, #F5F7FA 0%, #E8EBF0 100%)' }}>
+        <div style={{ position: 'absolute', inset: 0, backgroundImage: 'radial-gradient(circle at 20% 30%, rgba(13,71,161,0.08) 0%, transparent 50%), radial-gradient(circle at 80% 70%, rgba(212,175,55,0.06) 0%, transparent 50%)' }} />
         <div className="container-custom" style={{ position: 'relative' }}>
           <div style={{ textAlign: 'center', marginBottom: 56 }}>
-            <p style={{ fontSize: 13, fontWeight: 600, color: '#15803D', letterSpacing: '0.1em', textTransform: 'uppercase', marginBottom: 8 }}>Client Stories</p>
-            <h2 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 'clamp(26px, 3.5vw, 38px)', color: '#0B1F3A' }}>What Our Clients Say</h2>
+            <p style={{ fontSize: 13, fontWeight: 600, color: '#D4AF37', letterSpacing: '0.1em', textTransform: 'uppercase', marginBottom: 8 }}>Client Stories</p>
+            <h2 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 'clamp(26px, 3.5vw, 38px)', color: '#1A1A1A' }}>What Our Clients Say</h2>
           </div>
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: 24 }}>
             {TESTIMONIALS.map((t, i) => (
               <div key={i} style={{ ...glass, padding: 32, display: 'flex', flexDirection: 'column', gap: 16 }}>
                 <span style={{ display: 'flex', gap: 2 }}>
                   {Array.from({ length: t.rating }).map((_, j) => (
-                    <Star key={j} size={14} fill="#EA580C" color="#EA580C" />
+                    <Star key={j} size={14} fill="#D4AF37" color="#D4AF37" />
                   ))}
                 </span>
                 <p style={{ fontSize: 15, lineHeight: 1.7, color: '#334155', margin: 0, fontStyle: 'italic' }}>&quot;{t.text}&quot;</p>
                 <div style={{ display: 'flex', alignItems: 'center', gap: 12, marginTop: 'auto', paddingTop: 16, borderTop: '1px solid rgba(255,255,255,0.3)' }}>
-                  <div style={{ width: 44, height: 44, borderRadius: '50%', background: 'rgba(15, 76, 44, 0.1)', backdropFilter: 'blur(4px)', display: 'flex', alignItems: 'center', justifyContent: 'center', fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 16, color: '#0F4C2C', border: '1px solid rgba(15, 76, 44, 0.2)' }}>
+                  <div style={{ width: 44, height: 44, borderRadius: '50%', background: 'rgba(13, 71, 161, 0.1)', backdropFilter: 'blur(4px)', display: 'flex', alignItems: 'center', justifyContent: 'center', fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 16, color: '#0D47A1', border: '1px solid rgba(13, 71, 161, 0.2)' }}>
                     {t.name.charAt(0)}
                   </div>
                   <div>
-                    <div style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 600, fontSize: 14, color: '#0B1F3A' }}>{t.name}</div>
+                    <div style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 600, fontSize: 14, color: '#1A1A1A' }}>{t.name}</div>
                     <div style={{ fontSize: 12, color: '#64748B' }}>{t.role} - {t.location}</div>
                   </div>
                 </div>
@@ -446,7 +454,7 @@ Please send me a detailed quotation. Thank you.`;
       />
 
       {/* Regulatory Authorities */}
-      <section className="section-tighter bg-gradient-to-b from-orange-50/50 to-white">
+      <section className="section-tighter bg-gradient-to-b from-secondary-50/50 to-white">
         <div className="container-custom">
           <LogoCarousel
             items={governmentAuthorities}
@@ -460,7 +468,7 @@ Please send me a detailed quotation. Thank you.`;
       </section>
 
       {/* Counties We Serve */}
-      <section className="section-tighter bg-gradient-to-b from-green-50/50 to-white">
+      <section className="section-tighter bg-gradient-to-b from-surface-50/50 to-white">
         <div className="container-custom">
           <LogoCarousel
             items={kenyaCounties.slice(0, 16)}
@@ -477,8 +485,8 @@ Please send me a detailed quotation. Thank you.`;
 
       {/* Final CTA */}
       <section style={{ position: 'relative', overflow: 'hidden', padding: '80px 0' }}>
-        <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(135deg, #0B1F3A 0%, #0F4C2C 100%)' }} />
-        <div style={{ position: 'absolute', inset: 0, backgroundImage: 'radial-gradient(circle at 80% 50%, rgba(21,128,61,0.3) 0%, transparent 60%)' }} />
+        <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(135deg, #1A1A1A 0%, #0D47A1 100%)' }} />
+        <div style={{ position: 'absolute', inset: 0, backgroundImage: 'radial-gradient(circle at 80% 50%, rgba(212,175,55,0.3) 0%, transparent 60%)' }} />
         <div className="container-custom" style={{ position: 'relative', textAlign: 'center' }}>
           <div style={{ ...glassDark, maxWidth: 640, margin: '0 auto', padding: '48px 40px' }}>
             <h2 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 800, fontSize: 'clamp(26px, 4vw, 44px)', color: '#fff', marginBottom: 14 }}>

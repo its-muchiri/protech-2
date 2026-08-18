@@ -3,6 +3,7 @@
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
+import { usePathname } from 'next/navigation';
 import { Phone, Menu, X, MessageCircle } from 'lucide-react';
 
 const PHONE = '0725310112';
@@ -18,6 +19,7 @@ const NAV_LINKS = [
 export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
+  const pathname = usePathname();
 
   useEffect(() => {
     const handler = () => setScrolled(window.scrollY > 60);
@@ -25,12 +27,22 @@ export default function Header() {
     return () => window.removeEventListener('scroll', handler);
   }, []);
 
+  useEffect(() => {
+    setMobileMenuOpen(false);
+  }, [pathname]);
+
+  const isActive = (href) => {
+    if (href === '/') return pathname === '/';
+    return pathname === href || pathname.startsWith(href + '/');
+  };
+
   return (
     <header className="animate-fadeIn glass-nav safe-area-top" style={{
       position: 'sticky',
       top: 0,
       zIndex: 100,
       transition: 'box-shadow 0.3s, background 0.3s',
+      boxShadow: scrolled ? '0 4px 24px rgba(13,71,161,0.25)' : 'none',
     }}>
       <div className="container-custom" style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', height: 64 }}>
         {/* Logo */}
@@ -48,17 +60,37 @@ export default function Header() {
 
         {/* Desktop Nav */}
         <nav style={{ display: 'flex', alignItems: 'center', gap: 28 }} className="desktop-nav">
-          {NAV_LINKS.map(l => (
-            <Link
-              key={l.href}
-              href={l.href}
-              style={{ color: 'rgba(255,255,255,0.85)', fontSize: 13, fontWeight: 500, textDecoration: 'none', transition: 'color 0.15s', padding: '8px 4px' }}
-              onMouseEnter={e => (e.currentTarget.style.color = '#fff')}
-              onMouseLeave={e => (e.currentTarget.style.color = 'rgba(255,255,255,0.85)')}
-            >
-              {l.label}
-            </Link>
-          ))}
+          {NAV_LINKS.map(l => {
+            const active = isActive(l.href);
+            return (
+              <Link
+                key={l.href}
+                href={l.href}
+                style={{
+                  color: active ? '#fff' : 'rgba(255,255,255,0.85)',
+                  fontSize: 13,
+                  fontWeight: 500,
+                  textDecoration: 'none',
+                  transition: 'color 0.15s',
+                  padding: '8px 4px',
+                  position: 'relative',
+                }}
+                onMouseEnter={e => (e.currentTarget.style.color = '#fff')}
+                onMouseLeave={e => (e.currentTarget.style.color = active ? '#fff' : 'rgba(255,255,255,0.85)')}
+              >
+                {l.label}
+                <span style={{
+                  position: 'absolute',
+                  bottom: 2,
+                  left: 4,
+                  right: 4,
+                  height: 2,
+                  borderRadius: 2,
+                  background: active ? 'linear-gradient(90deg, #6A1B9A, #D4AF37)' : 'transparent',
+                }} />
+              </Link>
+            );
+          })}
         </nav>
 
         {/* Right side */}
@@ -74,7 +106,7 @@ export default function Header() {
           <Link
             href="/request-a-quote"
             style={{
-              background: '#EA580C',
+              background: '#D4AF37',
               color: '#fff',
               fontWeight: 600,
               fontSize: 12,
@@ -108,9 +140,9 @@ export default function Header() {
         <div style={{
           backdropFilter: 'blur(20px)',
           WebkitBackdropFilter: 'blur(20px)',
-          background: 'rgba(10,56,32,0.96)',
+          background: 'rgba(26,26,26,0.97)',
           padding: '16px 20px 24px',
-          borderTop: '1px solid rgba(255,255,255,0.1)',
+          borderTop: '1px solid rgba(212,175,55,0.25)',
           paddingBottom: 'calc(24px + env(safe-area-inset-bottom))',
         }}>
           {NAV_LINKS.map(l => (
@@ -120,7 +152,7 @@ export default function Header() {
               onClick={() => setMobileMenuOpen(false)}
               style={{
                 display: 'block',
-                color: 'rgba(255,255,255,0.95)',
+                color: isActive(l.href) ? '#D4AF37' : 'rgba(255,255,255,0.95)',
                 fontSize: 16,
                 fontWeight: 500,
                 padding: '14px 0',
@@ -141,7 +173,7 @@ export default function Header() {
                 alignItems: 'center',
                 justifyContent: 'center',
                 gap: 8,
-                background: '#0F4C2C',
+                background: '#6A1B9A',
                 color: '#fff',
                 fontWeight: 600,
                 fontSize: 14,
@@ -162,7 +194,7 @@ export default function Header() {
                 alignItems: 'center',
                 justifyContent: 'center',
                 gap: 8,
-                background: '#EA580C',
+                background: '#D4AF37',
                 color: '#fff',
                 fontWeight: 600,
                 fontSize: 14,

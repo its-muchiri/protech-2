@@ -65,7 +65,7 @@ export default function BlogGrid({ posts }) {
                     display: 'inline-flex',
                     alignItems: 'center',
                     gap: 6,
-                    color: '#0F4C2C',
+                    color: '#0D47A1',
                     fontSize: '0.85rem',
                     fontWeight: 600,
                     fontFamily: "'Inter', sans-serif",

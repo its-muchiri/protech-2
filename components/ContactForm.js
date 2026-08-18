@@ -14,7 +14,7 @@ const glassInputStyle = {
   borderRadius: 10,
   padding: '12px 14px',
   fontSize: 14,
-  color: '#0B1F3A',
+  color: '#1A1A1A',
   width: '100%',
   outline: 'none',
   transition: 'border-color 0.2s, box-shadow 0.2s',
@@ -63,7 +63,7 @@ export default function ContactForm() {
         </div>
         <h3 style={{
           fontFamily: "'Poppins', sans-serif",
-          fontWeight: 700, fontSize: 20, color: '#0B1F3A', marginBottom: 10,
+          fontWeight: 700, fontSize: 20, color: '#1A1A1A', marginBottom: 10,
         }}>Thank You!</h3>
         <p style={{ fontSize: 14, color: '#334155', lineHeight: 1.7, marginBottom: 18 }}>
           Your message has been sent to our team via email. We have also opened WhatsApp so you can continue the conversation with us directly.
@@ -71,7 +71,7 @@ export default function ContactForm() {
         <button
           onClick={() => setSubmitted(false)}
           style={{
-            background: 'none', border: 'none', color: '#0F4C2C',
+            background: 'none', border: 'none', color: '#0D47A1',
             fontWeight: 600, fontSize: 14, cursor: 'pointer', textDecoration: 'underline',
           }}
         >
@@ -93,7 +93,7 @@ export default function ContactForm() {
             {...register('name', { required: 'Full name is required' })}
             style={glassInputStyle}
             placeholder="Your Full Name"
-            onFocus={(e) => { e.target.style.borderColor = 'rgba(15,76,44,0.5)'; e.target.style.boxShadow = '0 0 0 3px rgba(15,76,44,0.1)'; }}
+            onFocus={(e) => { e.target.style.borderColor = 'rgba(13,71,161,0.5)'; e.target.style.boxShadow = '0 0 0 3px rgba(13,71,161,0.1)'; }}
             onBlur={(e) => { e.target.style.borderColor = 'rgba(255,255,255,0.4)'; e.target.style.boxShadow = 'none'; }}
           />
           {errors.name && <p style={{ fontSize: 12, color: '#EF4444', marginTop: 4 }}>{errors.name.message}</p>}
@@ -113,7 +113,7 @@ export default function ContactForm() {
             })}
             style={glassInputStyle}
             placeholder="+254 7XX XXX XXX"
-            onFocus={(e) => { e.target.style.borderColor = 'rgba(15,76,44,0.5)'; e.target.style.boxShadow = '0 0 0 3px rgba(15,76,44,0.1)'; }}
+            onFocus={(e) => { e.target.style.borderColor = 'rgba(13,71,161,0.5)'; e.target.style.boxShadow = '0 0 0 3px rgba(13,71,161,0.1)'; }}
             onBlur={(e) => { e.target.style.borderColor = 'rgba(255,255,255,0.4)'; e.target.style.boxShadow = 'none'; }}
           />
           {errors.phone && <p style={{ fontSize: 12, color: '#EF4444', marginTop: 4 }}>{errors.phone.message}</p>}
@@ -129,7 +129,7 @@ export default function ContactForm() {
           {...register('email')}
           style={glassInputStyle}
           placeholder="you@email.com"
-          onFocus={(e) => { e.target.style.borderColor = 'rgba(15,76,44,0.5)'; e.target.style.boxShadow = '0 0 0 3px rgba(15,76,44,0.1)'; }}
+          onFocus={(e) => { e.target.style.borderColor = 'rgba(13,71,161,0.5)'; e.target.style.boxShadow = '0 0 0 3px rgba(13,71,161,0.1)'; }}
           onBlur={(e) => { e.target.style.borderColor = 'rgba(255,255,255,0.4)'; e.target.style.boxShadow = 'none'; }}
         />
       </div>
@@ -141,7 +141,7 @@ export default function ContactForm() {
         <select
           {...register('service')}
           style={glassInputStyle}
-          onFocus={(e) => { e.target.style.borderColor = 'rgba(15,76,44,0.5)'; e.target.style.boxShadow = '0 0 0 3px rgba(15,76,44,0.1)'; }}
+          onFocus={(e) => { e.target.style.borderColor = 'rgba(13,71,161,0.5)'; e.target.style.boxShadow = '0 0 0 3px rgba(13,71,161,0.1)'; }}
           onBlur={(e) => { e.target.style.borderColor = 'rgba(255,255,255,0.4)'; e.target.style.boxShadow = 'none'; }}
         >
           <option value="">Select a service...</option>
@@ -178,7 +178,7 @@ export default function ContactForm() {
           style={{ ...glassInputStyle, resize: 'vertical' }}
           rows={4}
           placeholder="How can we help you?"
-          onFocus={(e) => { e.target.style.borderColor = 'rgba(15,76,44,0.5)'; e.target.style.boxShadow = '0 0 0 3px rgba(15,76,44,0.1)'; }}
+          onFocus={(e) => { e.target.style.borderColor = 'rgba(13,71,161,0.5)'; e.target.style.boxShadow = '0 0 0 3px rgba(13,71,161,0.1)'; }}
           onBlur={(e) => { e.target.style.borderColor = 'rgba(255,255,255,0.4)'; e.target.style.boxShadow = 'none'; }}
         />
         {errors.message && <p style={{ fontSize: 12, color: '#EF4444', marginTop: 4 }}>{errors.message.message}</p>}
@@ -190,14 +190,14 @@ export default function ContactForm() {
         style={{
           width: '100%', padding: '14px 24px', fontSize: 15, fontWeight: 700,
           fontFamily: "'Poppins', sans-serif",
-          background: 'linear-gradient(135deg, #0F4C2C 0%, #166534 100%)',
+          background: 'linear-gradient(135deg, #0D47A1 0%, #1A1A1A 100%)',
           color: '#fff', border: 'none', borderRadius: 12, cursor: 'pointer',
           display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 10,
           transition: 'transform 0.2s, box-shadow 0.2s',
-          boxShadow: '0 4px 20px rgba(15,76,44,0.3)',
+          boxShadow: '0 4px 20px rgba(13,71,161,0.3)',
         }}
-        onMouseEnter={(e) => { e.target.style.transform = 'translateY(-2px)'; e.target.style.boxShadow = '0 6px 28px rgba(15,76,44,0.4)'; }}
-        onMouseLeave={(e) => { e.target.style.transform = 'translateY(0)'; e.target.style.boxShadow = '0 4px 20px rgba(15,76,44,0.3)'; }}
+        onMouseEnter={(e) => { e.target.style.transform = 'translateY(-2px)'; e.target.style.boxShadow = '0 6px 28px rgba(13,71,161,0.4)'; }}
+        onMouseLeave={(e) => { e.target.style.transform = 'translateY(0)'; e.target.style.boxShadow = '0 4px 20px rgba(13,71,161,0.3)'; }}
       >
         <MessageCircle size={16} />
         {isSubmitting ? 'Sending...' : 'Send via Email & WhatsApp'}

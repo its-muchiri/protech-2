@@ -1,46 +1,47 @@
 'use client';
 
-import Image from 'next/image';
 import Link from 'next/link';
-import { ArrowRight } from 'lucide-react';
+import { ArrowRight, Check } from 'lucide-react';
 import IconRenderer from './IconRenderer';
 
 export default function ServiceCard({ service, variant = 'standard' }) {
-  const { slug, name, startingPrice, heroImage, description, subServices, icon: iconName } = service;
+  const { slug, name, startingPrice, description, subServices, icon: iconName, stat } = service;
 
   if (variant === 'featured') {
     return (
       <Link
         href={`/services/${slug}`}
-        className="group block overflow-hidden rounded-xl bg-white border border-gray-200 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300"
-        style={{ minHeight: 380, display: 'flex', flexDirection: 'column' }}
+        className="group block bg-white hover:shadow-lg transition-all duration-300"
+        style={{ borderRadius: 12, overflow: 'hidden', display: 'flex', flexDirection: 'column', border: '1px solid #E8EBF0', textDecoration: 'none' }}
       >
-        <div className="relative h-48 overflow-hidden">
-          <Image
-            src={heroImage}
-            alt={name}
-            fill
-            className="object-cover transition-transform duration-500 group-hover:scale-105"
-            sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
-          />
-          <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-black/10 to-transparent" />
-        </div>
+        <div style={{ height: 4, background: 'linear-gradient(90deg, #6A1B9A, #D4AF37)' }} />
         <div className="flex flex-1 flex-col p-6">
-          <h3 className="font-serif text-xl font-bold text-gray-900 mb-2 leading-snug">{name}</h3>
-          <p className="text-gray-600 text-sm mb-4 line-clamp-2 flex-1">{description}</p>
-          {startingPrice && (
-            <span className="text-primary-600 font-semibold text-sm mb-3 block">From {startingPrice}</span>
-          )}
-          <div className="flex flex-wrap gap-1 mb-4">
+          <div className="flex items-start gap-4 mb-4">
+            <div style={{ width: 48, height: 48, borderRadius: 12, background: 'rgba(106,27,154,0.08)', border: '1px solid rgba(106,27,154,0.15)', display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }}>
+              <IconRenderer name={iconName} size={24} style={{ color: '#6A1B9A' }} />
+            </div>
+            <div>
+              <h3 className="font-heading font-bold text-gray-900 mb-1 leading-snug" style={{ fontFamily: "'Poppins', sans-serif", fontSize: 18 }}>{name}</h3>
+              {stat && <span style={{ fontSize: 12, fontWeight: 600, color: '#0D47A1', letterSpacing: '0.03em' }}>{stat}</span>}
+            </div>
+          </div>
+          <p className="text-gray-600 text-sm mb-4" style={{ color: '#5A6C7D', lineHeight: 1.65 }}>{description}</p>
+          <div className="flex flex-col gap-2 mb-4">
             {subServices?.slice(0, 3).map((sub, i) => (
-              <span key={i} className="text-xs bg-gray-100 text-gray-700 px-2 py-1 rounded">
+              <span key={i} className="flex items-start gap-2 text-sm" style={{ color: '#1A1A1A', fontSize: 13.5 }}>
+                <Check size={15} style={{ color: '#D4AF37', marginTop: 2, flexShrink: 0 }} strokeWidth={3} />
                 {sub}
               </span>
             ))}
           </div>
-          <span className="inline-flex items-center gap-1 text-primary-600 font-semibold text-sm mt-auto">
-            View Details <ArrowRight size={14} />
-          </span>
+          <div className="mt-auto pt-4 border-t" style={{ borderColor: '#E8EBF0', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+            {startingPrice ? (
+              <span style={{ fontSize: 13, fontWeight: 600, color: '#0D47A1' }}>From {startingPrice}</span>
+            ) : <span />}
+            <span className="inline-flex items-center gap-1 font-semibold text-sm" style={{ color: '#6A1B9A' }}>
+              VIEW DETAILS <ArrowRight size={14} />
+            </span>
+          </div>
         </div>
       </Link>
     );
@@ -50,24 +51,27 @@ export default function ServiceCard({ service, variant = 'standard' }) {
     return (
       <Link
         href={`/services/${slug}`}
-        className="group block p-5 bg-white rounded-lg border border-gray-200 hover:border-primary-300 hover:shadow-lg transition-all duration-300"
-        style={{ display: 'flex', flexDirection: 'column', minHeight: 220 }}
+        className="group block p-6 bg-white transition-all duration-300"
+        style={{ borderRadius: 12, border: '1px solid #E8EBF0', display: 'flex', flexDirection: 'column', minHeight: 240, textDecoration: 'none' }}
+        onMouseEnter={e => { e.currentTarget.style.boxShadow = '0 12px 32px rgba(106,27,154,0.2)'; e.currentTarget.style.transform = 'translateY(-2px)'; }}
+        onMouseLeave={e => { e.currentTarget.style.boxShadow = 'none'; e.currentTarget.style.transform = 'translateY(0)'; }}
       >
+        <div style={{ height: 3, background: 'linear-gradient(90deg, #6A1B9A, #D4AF37)', borderRadius: 2, marginBottom: 20 }} />
         <div className="flex items-start gap-4">
-          <div className="w-12 h-12 rounded-lg bg-primary-50 flex items-center justify-center flex-shrink-0">
-            <IconRenderer name={iconName} size={22} style={{ color: '#0F4C2C' }} />
+          <div style={{ width: 44, height: 44, borderRadius: 12, background: 'rgba(106,27,154,0.08)', border: '1px solid rgba(106,27,154,0.15)', display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }}>
+            <IconRenderer name={iconName} size={22} style={{ color: '#6A1B9A' }} />
           </div>
           <div className="flex-1 min-w-0">
-            <h3 className="font-semibold text-gray-900 mb-1 leading-snug">{name}</h3>
-            <p className="text-gray-500 text-sm line-clamp-2">{description}</p>
+            <h3 className="font-semibold text-gray-900 mb-1 leading-snug" style={{ fontFamily: "'Poppins', sans-serif", fontSize: 16, color: '#1A1A1A' }}>{name}</h3>
+            <p className="text-gray-500 text-sm line-clamp-2" style={{ color: '#5A6C7D' }}>{description}</p>
           </div>
         </div>
-        <div className="mt-auto pt-3 border-t border-gray-100 flex items-center justify-between">
-          {startingPrice && (
-            <span className="text-primary-600 font-semibold text-sm">From {startingPrice}</span>
-          )}
-          <span className="inline-flex items-center gap-1 text-primary-600 font-medium text-sm">
-            Details <ArrowRight size={13} />
+        <div className="mt-auto pt-3 flex items-center justify-between">
+          {startingPrice ? (
+            <span style={{ fontSize: 12.5, fontWeight: 600, color: '#0D47A1' }}>From {startingPrice}</span>
+          ) : <span />}
+          <span className="inline-flex items-center gap-1 font-semibold text-sm" style={{ color: '#6A1B9A' }}>
+            VIEW DETAILS <ArrowRight size={13} />
           </span>
         </div>
       </Link>
@@ -77,31 +81,36 @@ export default function ServiceCard({ service, variant = 'standard' }) {
   return (
     <Link
       href={`/services/${slug}`}
-      className="service-glass-card group block overflow-hidden"
+      className="group block p-6 bg-white transition-all duration-300"
+      style={{ borderRadius: 12, border: '1px solid #E8EBF0', display: 'flex', flexDirection: 'column', minHeight: 260, textDecoration: 'none' }}
+      onMouseEnter={e => { e.currentTarget.style.boxShadow = '0 12px 32px rgba(106,27,154,0.2)'; e.currentTarget.style.transform = 'translateY(-2px)'; }}
+      onMouseLeave={e => { e.currentTarget.style.boxShadow = 'none'; e.currentTarget.style.transform = 'translateY(0)'; }}
     >
-      <div className="service-glass-card__image-wrap">
-        <Image
-          src={heroImage}
-          alt={name}
-          fill
-          className="service-glass-card__image"
-        />
-      </div>
-
-      <div className="service-glass-card__overlay">
-        <div className="service-glass-card__content">
-          <h3 className="service-glass-card__name">{name}</h3>
-
-          {startingPrice && (
-            <span className="service-glass-card__price">
-              From {startingPrice}
-            </span>
-          )}
-
-          <span className="service-glass-card__cta">
-            View Details <ArrowRight size={16} />
-          </span>
+      <div style={{ height: 3, background: 'linear-gradient(90deg, #6A1B9A, #D4AF37)', borderRadius: 2, marginBottom: 20 }} />
+      <div className="flex items-start gap-4">
+        <div style={{ width: 48, height: 48, borderRadius: 12, background: 'rgba(106,27,154,0.08)', border: '1px solid rgba(106,27,154,0.15)', display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }}>
+          <IconRenderer name={iconName} size={24} style={{ color: '#6A1B9A' }} />
         </div>
+        <div className="flex-1 min-w-0">
+          <h3 className="font-semibold text-gray-900 mb-1 leading-snug" style={{ fontFamily: "'Poppins', sans-serif", fontSize: 17, color: '#1A1A1A' }}>{name}</h3>
+          <p className="text-gray-500 text-sm mb-3 line-clamp-2" style={{ color: '#5A6C7D', lineHeight: 1.6 }}>{description}</p>
+        </div>
+      </div>
+      <div className="flex flex-col gap-2 mb-4">
+        {subServices?.slice(0, 3).map((sub, i) => (
+          <span key={i} className="flex items-start gap-2 text-sm" style={{ color: '#1A1A1A', fontSize: 13 }}>
+            <Check size={14} style={{ color: '#D4AF37', marginTop: 2, flexShrink: 0 }} strokeWidth={3} />
+            {sub}
+          </span>
+        ))}
+      </div>
+      <div className="mt-auto pt-3 flex items-center justify-between">
+        {startingPrice ? (
+          <span style={{ fontSize: 12.5, fontWeight: 600, color: '#0D47A1' }}>From {startingPrice}</span>
+        ) : <span />}
+        <span className="inline-flex items-center gap-1 font-semibold text-sm" style={{ color: '#6A1B9A' }}>
+          VIEW DETAILS <ArrowRight size={13} />
+        </span>
       </div>
     </Link>
   );

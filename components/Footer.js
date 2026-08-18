@@ -1,4 +1,4 @@
-﻿'use client';
+'use client';
 
 import Link from 'next/link';
 import { Building2, Phone, Mail, MapPin, Clock } from 'lucide-react';
@@ -28,7 +28,7 @@ const COMPANY_LINKS = [
 const CERTS = ['NCA', 'EPRA', 'NEMA', 'KRA', 'ERC', 'ISO'];
 
 const glassPanel = {
-  background: 'rgba(15,76,44,0.85)',
+  background: 'rgba(13,71,161,0.85)',
   backdropFilter: 'blur(20px)',
   WebkitBackdropFilter: 'blur(20px)',
   border: '1px solid rgba(255,255,255,0.1)',
@@ -56,7 +56,7 @@ export default function Footer() {
     <footer
       className="animate-fadeIn safe-area-bottom"
       style={{
-        background: 'linear-gradient(160deg, #0B1F3A 0%, #0F4C2C 100%)',
+        background: 'linear-gradient(160deg, #1A1A1A 0%, #1A1A1A 55%, #0A3881 100%)',
         color: 'rgba(255,255,255,0.75)',
         paddingTop: 48,
         paddingBottom: 'calc(32px + env(safe-area-inset-bottom))',
@@ -82,7 +82,7 @@ export default function Footer() {
               </div>
             </Link>
             <p style={{ fontSize: 12, lineHeight: 1.7, color: 'rgba(255,255,255,0.6)', marginBottom: 16 }}>
-              Kenya&apos;s trusted multi-service contractor. NCA, EPRA, NEMA, KRA and ISO certified, delivering 17 professional services across the country.
+              Kenya&apos;s trusted multi-service contractor. NCA, EPRA, NEMA, KRA and ISO certified, delivering expert services across four core categories nationwide.
             </p>
             <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
               {['Fb', 'Tw', 'Li', 'Yt'].map(s => (
@@ -109,8 +109,8 @@ export default function Footer() {
                     minHeight: '36px',
                   }}
                   onMouseEnter={e => {
-                    e.currentTarget.style.background = 'rgba(14,78,44,0.5)';
-                    e.currentTarget.style.borderColor = 'rgba(14,78,44,0.7)';
+                    e.currentTarget.style.background = 'rgba(13,71,161,0.5)';
+                    e.currentTarget.style.borderColor = 'rgba(13,71,161,0.7)';
                   }}
                   onMouseLeave={e => {
                     e.currentTarget.style.background = 'rgba(255,255,255,0.08)';
@@ -132,7 +132,7 @@ export default function Footer() {
                   key={s}
                   href="/services"
                   style={linkStyle}
-                  onMouseEnter={e => (e.currentTarget.style.color = '#86EFAC')}
+                  onMouseEnter={e => (e.currentTarget.style.color = '#D4AF37')}
                   onMouseLeave={e => (e.currentTarget.style.color = 'rgba(255,255,255,0.6)')}
                 >
                   {s}
@@ -150,7 +150,7 @@ export default function Footer() {
                   key={l.label}
                   href={l.href}
                   style={linkStyle}
-                  onMouseEnter={e => (e.currentTarget.style.color = '#86EFAC')}
+                  onMouseEnter={e => (e.currentTarget.style.color = '#D4AF37')}
                   onMouseLeave={e => (e.currentTarget.style.color = 'rgba(255,255,255,0.6)')}
                 >
                   {l.label}
@@ -164,20 +164,20 @@ export default function Footer() {
             <div style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 600, fontSize: 14, color: '#fff', marginBottom: 12 }}>Contact</div>
             <div style={{ display: 'flex', flexDirection: 'column', gap: 10 }}>
               <a href={`tel:${PHONE}`} style={{ display: 'flex', alignItems: 'center', gap: 10, fontSize: 13, color: 'rgba(255,255,255,0.65)', textDecoration: 'none', lineHeight: 1.5, minHeight: '44px' }}>
-                <Phone size={14} style={{ flexShrink: 0, color: '#86EFAC' }} />
+                <Phone size={14} style={{ flexShrink: 0, color: '#D4AF37' }} />
                 <span>{PHONE}</span>
               </a>
 
               <a href="mailto:protech.ke.group@gmail.com" style={{ display: 'flex', alignItems: 'center', gap: 10, fontSize: 13, color: 'rgba(255,255,255,0.65)', textDecoration: 'none', lineHeight: 1.5, minHeight: '44px' }}>
-                <Mail size={14} style={{ flexShrink: 0, color: '#86EFAC' }} />
+                <Mail size={14} style={{ flexShrink: 0, color: '#D4AF37' }} />
                 <span>protech.ke.group@gmail.com</span>
               </a>
               <div style={{ display: 'flex', alignItems: 'center', gap: 10, fontSize: 13, color: 'rgba(255,255,255,0.65)', lineHeight: 1.5, minHeight: '44px' }}>
-                <MapPin size={14} style={{ flexShrink: 0, color: '#86EFAC' }} />
+                <MapPin size={14} style={{ flexShrink: 0, color: '#D4AF37' }} />
                 <span>Nairobi, Kenya</span>
               </div>
               <div style={{ display: 'flex', alignItems: 'center', gap: 10, fontSize: 13, color: 'rgba(255,255,255,0.65)', lineHeight: 1.5, minHeight: '44px' }}>
-                <Clock size={14} style={{ flexShrink: 0, color: '#86EFAC' }} />
+                <Clock size={14} style={{ flexShrink: 0, color: '#D4AF37' }} />
                 <span style={{ whiteSpace: 'pre-line' }}>{'Mon-Sat: 7am-7pm\nEmergency: 24/7'}</span>
               </div>
             </div>

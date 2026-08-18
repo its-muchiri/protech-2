@@ -126,7 +126,7 @@ export default function BlogPostPage({ params }) {
 
                 {/* CTA */}
                 <div className="glass-strong-dark p-6 text-white animate-fadeInUp" style={{animationDelay: '200ms'}}>
-                  <div className="absolute inset-0 bg-gradient-to-r from-orange-600/20 to-transparent pointer-events-none" />
+                  <div className="absolute inset-0 bg-gradient-to-r from-primary-600/20 to-transparent pointer-events-none" />
                   <div className="relative">
                     <h2 className="font-serif text-xl md:text-2xl font-bold mb-3">Get a Free Quote</h2>
                     <p className="text-gray-300 mb-5 max-w-xs text-sm">

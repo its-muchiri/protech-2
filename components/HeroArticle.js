@@ -17,7 +17,7 @@ export default function HeroArticle({ post }) {
           <div className="absolute inset-0 bg-gradient-to-t from-black/85 via-black/50 to-transparent group-hover:from-black/90 transition-all duration-700" />
         </div>
         <div className="absolute bottom-0 left-0 right-0 p-5 md:p-8 lg:p-10 max-w-5xl">
-          <div className="glass-badge inline-block mb-4" style={{background: 'rgba(234,88,12,0.2)', borderColor: 'rgba(234,88,12,0.3)', color: '#EA580C'}}>
+          <div className="glass-badge inline-block mb-4" style={{background: 'rgba(212,175,55,0.2)', borderColor: 'rgba(212,175,55,0.3)', color: '#D4AF37'}}>
             Featured Story • {post.categoryLabel}
           </div>
           <h1 className="font-serif text-3xl md:text-5xl lg:text-6xl font-bold leading-tight text-white mb-4 line-clamp-3 tracking-tight">

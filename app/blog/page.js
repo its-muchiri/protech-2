@@ -29,10 +29,10 @@ export default function BlogPage() {
       
       {/* Editorial Hero */}
       <section className="blog-hero relative overflow-hidden">
-        <div className="absolute inset-0 bg-gradient-to-r from-orange-600/5 via-transparent to-emerald-600/5" />
+        <div className="absolute inset-0 bg-gradient-to-r from-primary-600/5 via-transparent to-secondary-600/5" />
         <div className="container mx-auto px-4 relative z-10">
           <div className="max-w-4xl">
-            <span className="glass-badge inline-block mb-5" style={{background: 'rgba(234,88,12,0.2)', borderColor: 'rgba(234,88,12,0.3)', color: '#EA580C'}}>
+            <span className="glass-badge inline-block mb-5" style={{background: 'rgba(212,175,55,0.2)', borderColor: 'rgba(212,175,55,0.3)', color: '#D4AF37'}}>
               The ProTech Journal
             </span>
             <h1 className="font-serif text-4xl md:text-6xl lg:text-7xl font-bold text-white leading-[1.1] mb-6 tracking-tight">
