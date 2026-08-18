@@ -5,7 +5,7 @@ slug: safari-tours-starting-from-nairobi-jomo-kenyatta-airport-nbo
 primary_keyword: 'Safari tours starting from Nairobi Jomo Kenyatta Airport (NBO)'
 secondary_keywords:
 - 'KATO registered company for Amboseli private photography tour'
-- 'Reviews for  vs  family safari Kenya'
+- 'Reviews for [Company A] vs [Company B] family safari Kenya'
 - 'Buy guided Kenya safari tour'
 - 'Purchase Nairobi National Park day tour booking'
 - 'Reserve 5 day Amboseli Tsavo combo package'

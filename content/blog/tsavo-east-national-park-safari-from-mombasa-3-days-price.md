@@ -5,7 +5,7 @@ slug: tsavo-east-national-park-safari-from-mombasa-3-days-price
 primary_keyword: 'Tsavo East National Park safari from Mombasa 3 days price'
 secondary_keywords:
 - 'August Masai Mara migration package deals'
-- 'Reserve tour with  Kenya'
+- 'Reserve tour with [Local Operator Name] Kenya'
 - 'Choose best Kenya safari tour operator'
 - 'Cultural experience included Kenya safari package booking'
 - 'Budget Kenya tour package deal'

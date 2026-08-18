@@ -5,7 +5,7 @@ slug: leopard-spotting-kenya-safari
 primary_keyword: 'Leopard spotting Kenya safari'
 secondary_keywords:
 - 'Book Northern circuit Kenya safari package'
-- 'Masai Mara tour cost'
+- '[Operator Name] Masai Mara tour cost'
 - 'Finalize Kenya safari itinerary booking'
 - 'Guided photo safari package Kenya book'
 - 'Family safari package Kenya book'

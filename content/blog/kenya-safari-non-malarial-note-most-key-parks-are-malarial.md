@@ -4,14 +4,17 @@ description: 'Kenya safari guide covering kenya safari non-malarial (note: most 
 slug: kenya-safari-non-malarial-note-most-key-parks-are-malarial
 primary_keyword: 'Kenya safari non-malarial (Note: Most key parks ARE malarial)'
 secondary_keywords:
+- 'Luxury tented camp safari Kenya cost per person USA'
+- 'Book Kenya conservation safari experience USA rhino focus'
+- 'Book safari near Nairobi National Park day trip price'
+- 'Masai Mara safari booking from USA dates & availability'
+- 'Kenya travel agents specializing in safaris Europe based'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3
 word_count: 550
 status: draft
 ---
-
-
 # Kenya Safari Non-malarial (Note: Most Key Parks ARE Malarial): Complete Guide
 
 ## Introduction

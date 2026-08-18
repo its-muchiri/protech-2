@@ -8,7 +8,7 @@ secondary_keywords:
 - 'Buy discounted off-peak Kenya safari package April'
 - 'Quote all-in price 10 day family safari Kenya December'
 - 'Price and book 6 day Ashnil Samburu Mara package'
-- 'Reserve 7 day Richard''''s River Camp private conservancy package'
+- 'Reserve 7 day Richard's River Camp private conservancy package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

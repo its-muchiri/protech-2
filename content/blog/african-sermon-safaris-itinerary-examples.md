@@ -6,7 +6,7 @@ primary_keyword: 'African Sermon Safaris itinerary examples'
 secondary_keywords:
 - 'Buy 4 day fly-in Samburu package deal'
 - 'Buy package 7 day Kenya walking safari guided tour'
-- 'Book 4 day Hell''''s Gate Naivasha adventure package'
+- 'Book 4 day Hell's Gate Naivasha adventure package'
 - 'Quote for 6 day Tsavo Man Eaters Trail package'
 - 'Secure booking 7 day Kenya safari package'
 search_intent: transactional

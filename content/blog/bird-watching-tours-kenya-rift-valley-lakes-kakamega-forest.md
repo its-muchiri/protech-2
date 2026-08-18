@@ -8,7 +8,7 @@ secondary_keywords:
 - 'Meru National Park package discount booking'
 - 'Lodge safari package Kenya deals online'
 - 'Samburu safari bundle deal quote'
-- 'Quote from  Kenya safari'
+- 'Quote from [Local Operator Name] Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

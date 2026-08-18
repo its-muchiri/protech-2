@@ -5,7 +5,7 @@ slug: kenya-budget-camping-safari-reviews
 primary_keyword: 'Kenya budget camping safari reviews'
 secondary_keywords:
 - 'Add-ons for Kenya safari package purchase'
-- '(Adding ''''buy'''', ''''book'''', ''''package'''', ''''cost'''', ''''quote'''', ''''deal'''', ''''reserve'''', ''''operator'''' to core terms)'
+- '(Adding 'buy', 'book', 'package', 'cost', 'quote', 'deal', 'reserve', 'operator' to core terms)'
 - 'Christmas safari deal buy'
 - 'Book 9 day mid-range Kenya classic circuit package'
 - 'Get quote 9 day Northern Kenya special species package'

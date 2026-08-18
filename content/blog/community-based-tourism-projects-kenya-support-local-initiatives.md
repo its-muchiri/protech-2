@@ -7,7 +7,7 @@ secondary_keywords:
 - 'Kenya photographic safari tours specialized guides / vehicles'
 - 'Kenya safari and beach combined tours Masai Mara and Diani'
 - 'Best hiking trails near Thika / Kiambu Karura Forest / Kereita Forest Ziplining'
-- 'Hell''''s Gate National Park day trip cycling / hiking tour price'
+- 'Hell's Gate National Park day trip cycling / hiking tour price'
 - 'Go Kenya Tours and Safaris packages'
 search_intent: transactional
 article_style: Travel Booking Guide

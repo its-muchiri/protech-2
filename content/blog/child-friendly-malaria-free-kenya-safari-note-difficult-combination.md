@@ -4,14 +4,17 @@ description: 'Kenya safari guide covering child friendly malaria free kenya safa
 slug: child-friendly-malaria-free-kenya-safari-note-difficult-combination
 primary_keyword: 'Child friendly malaria free Kenya safari (Note: difficult combination)'
 secondary_keywords:
+- 'Kenya Tanzania combined tour itinerary quote'
+- 'Reserve Kenya safari private vehicle package'
+- 'Book large group corporate Kenya safari package deal'
+- 'Purchase August Masai Mara migration package quote'
+- 'Quote 12 day ultimate luxury Kenya private jet safari package exclusive use'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3
 word_count: 550
 status: draft
 ---
-
-
 # Child Friendly Malaria Free Kenya Safari (Note: Difficult Combination): Complete Guide
 
 ## Introduction

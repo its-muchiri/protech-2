@@ -6,7 +6,7 @@ primary_keyword: 'Reliable Kenya safari company USA booking BBB rating'
 secondary_keywords:
 - 'Maasai village visit Kenya'
 - 'See Big 5 Kenya'
-- 'Grevy''''s zebra safari Kenya'
+- 'Grevy's zebra safari Kenya'
 - 'Kenya safari from UK'
 - 'Kenya safari in February'
 search_intent: transactional

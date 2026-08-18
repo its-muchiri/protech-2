@@ -7,7 +7,7 @@ secondary_keywords:
 - 'Get quote 5 day Kenya budget camping joining safari'
 - 'Buy value package 10 day multi-park Kenya safari'
 - 'Price 14 day Elewana Collection SkySafari Kenya package'
-- 'Reserve 9 day Joy''''s Camp Shaba Samburu package deal'
+- 'Reserve 9 day Joy's Camp Shaba Samburu package deal'
 - 'Secure booking philanthropic safari package Kenya donation focus'
 search_intent: transactional
 article_style: Travel Booking Guide

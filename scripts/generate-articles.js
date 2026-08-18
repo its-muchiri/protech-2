@@ -29,6 +29,14 @@ function slugify(str) {
     .replace(/^-+|-+$/g, '');
 }
 
+function clean(val) {
+  if (!val) return val;
+  return val
+    .replace(/\[[^\]]+\]/g, '')
+    .replace(/'/g, "''")
+    .trim();
+}
+
 function hashStr(str) {
   let h = 0;
   for (let i = 0; i < str.length; i++) {
@@ -72,12 +80,13 @@ function titleCasePhrase(keyword) {
 // ---------- TEMPLATE ENGINE ----------
 
 function buildMedicalArticle(kw, secondaryKeywords) {
-  const kwLower = kw.keyword.toLowerCase();
-  const kwTitle = titleCasePhrase(kw.keyword);
+  const cleanKw = clean(kw.keyword);
+  const kwLower = cleanKw.toLowerCase();
+  const kwTitle = titleCasePhrase(cleanKw);
   const prefix = kw.prefix === 'BEST' ? 'BEST ' : '';
   const title = `${prefix}${kwTitle}: 2026 Price Guide`;
   const description = `Kenya buying guide to ${kwLower}. Learn what to consider, what it costs, and how to choose a reliable local supplier.`;
-  const slug = slugify(kw.keyword);
+  const slug = slugify(cleanKw);
 
   const sections = [
     ['## Understanding the Kenya Market',
@@ -99,17 +108,19 @@ function buildMedicalArticle(kw, secondaryKeywords) {
      `Yes. ProTech Consultants delivers and supports customers across Nairobi and all counties in Kenya, with installation and training where needed.`],
   ];
 
-  const intro = `Looking for ${kwLower} in Kenya? You are not alone. Procurement teams, clinic managers, and hospital administrators across the country search for terms like this every day when they are ready to buy, upgrade, or restock. This guide walks you through what to consider, what things cost, and how to work with a dependable local supplier so you can make a confident decision.`;
+  const intro = clean(`Looking for ${kwLower} in Kenya? You are not alone. Procurement teams, clinic managers, and hospital administrators across the country search for terms like this every day when they are ready to buy, upgrade, or restock. This guide walks you through what to consider, what things cost, and how to work with a dependable local supplier so you can make a confident decision.`);
 
-  return { title, description, slug, primary_keyword: kw.keyword, secondaryKeywords, search_intent: 'transactional', article_style: 'Commercial Buying Guide', sections, faqs, intro };
+  return { title, description, slug, primary_keyword: cleanKw, secondaryKeywords: secondaryKeywords.map(clean), search_intent: 'transactional', article_style: 'Commercial Buying Guide', sections, faqs, intro };
 }
 
 function buildSafariArticle(kw, secondaryKeywords) {
-  const kwLower = kw.keyword.toLowerCase();
-  const kwTitle = titleCasePhrase(kw.keyword);
+  // Clean the keyword ONCE at the start
+  const cleanKw = clean(kw.keyword);
+  const kwLower = cleanKw.toLowerCase();
+  const kwTitle = titleCasePhrase(cleanKw);
   const title = `${kwTitle}: Complete Guide`;
   const description = `Kenya safari guide covering ${kwLower}, including what is included, pricing, and booking advice.`;
-  const slug = slugify(kw.keyword);
+  const slug = slugify(cleanKw);
 
   const sections = [
     ['## What a Safari Package Typically Includes',
@@ -131,17 +142,18 @@ function buildSafariArticle(kw, secondaryKeywords) {
      `Reputable operators confirm availability and take a deposit to secure your dates. Always get a written confirmation outlining the full package before paying.`],
   ];
 
-  const intro = `Dreaming of a Kenya safari? ${capitalizeFirst(kwLower)} is exactly the kind of search travellers make when they are ready to plan the trip of a lifetime. This guide helps you understand what a safari package includes, how pricing works, and how to book with confidence.`;
+  const intro = clean(`Dreaming of a Kenya safari? ${capitalizeFirst(kwLower)} is exactly the kind of search travellers make when they are ready to plan the trip of a lifetime. This guide helps you understand what a safari package includes, how pricing works, and how to book with confidence.`);
 
-  return { title, description, slug, primary_keyword: kw.keyword, secondaryKeywords, search_intent: 'transactional', article_style: 'Travel Booking Guide', sections, faqs, intro };
+  return { title, description, slug, primary_keyword: cleanKw, secondaryKeywords: secondaryKeywords.map(clean), search_intent: 'transactional', article_style: 'Travel Booking Guide', sections, faqs, intro };
 }
 
 function buildFlightArticle(kw, secondaryKeywords) {
-  const kwLower = kw.keyword.toLowerCase();
-  const kwTitle = titleCasePhrase(kw.keyword);
+  const cleanKw = clean(kw.keyword);
+  const kwLower = cleanKw.toLowerCase();
+  const kwTitle = titleCasePhrase(cleanKw);
   const title = `${kwTitle}: Complete Guide`;
   const description = `Everything you need to know about ${kwLower}, including routes, airlines, booking tips, and fares.`;
-  const slug = slugify(kw.keyword);
+  const slug = slugify(cleanKw);
 
   const sections = [
     ['## Understanding Your Options',
@@ -163,9 +175,9 @@ function buildFlightArticle(kw, secondaryKeywords) {
      `Yes. Airfares are dynamic and respond to demand, season, and how close the departure is. Comparing options and booking at the right time saves real money.`],
   ];
 
-  const intro = `Planning travel and looking for information on ${kwLower}? You have come to the right place. This guide covers the routes, airlines, booking tips, and fares you need to know so you can travel with confidence and get the best value for your money.`;
+  const intro = clean(`Planning travel and looking for information on ${kwLower}? You have come to the right place. This guide covers the routes, airlines, booking tips, and fares you need to know so you can travel with confidence and get the best value for your money.`);
 
-  return { title, description, slug, primary_keyword: kw.keyword, secondaryKeywords, search_intent: 'informational', article_style: 'Flight Booking Guide', sections, faqs, intro };
+  return { title, description, slug, primary_keyword: cleanKw, secondaryKeywords: secondaryKeywords.map(clean), search_intent: 'informational', article_style: 'Flight Booking Guide', sections, faqs, intro };
 }
 
 const builders = {
@@ -239,11 +251,11 @@ for (const kw of keywords) {
   const frontmatter = [
     '---',
     `title: '${article.title}'`,
-    `description: ${article.description.replace(/'/g, '')}`,
+    `description: '${article.description}'`,
     `slug: ${article.slug}`,
-    `primary_keyword: ${article.primary_keyword}`,
+    `primary_keyword: '${article.primary_keyword}'`,
     'secondary_keywords:',
-    ...secondaryKeywords.map(k => `- ${k}`),
+    ...secondaryKeywords.map(k => `- '${k}'`),
     `search_intent: ${article.search_intent}`,
     `article_style: ${article.article_style}`,
     'style_batch: 3',

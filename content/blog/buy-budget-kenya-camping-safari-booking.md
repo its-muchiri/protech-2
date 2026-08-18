@@ -4,6 +4,7 @@ description: 'Kenya safari guide covering buy budget kenya camping safari bookin
 slug: buy-budget-kenya-camping-safari-booking
 primary_keyword: 'Buy budget Kenya camping safari booking'
 secondary_keywords:
+- 'Kenya safari non-malarial (Note: Most key parks ARE malarial)'
 - 'Vaccinations for Kenya safari'
 - 'Kenya safari for first-timers'
 - 'Cost of 3 day Masai Mara safari from Nairobi'

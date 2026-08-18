@@ -4,8 +4,8 @@ description: 'Kenya safari guide covering book amboseli safari holiday package u
 slug: book-amboseli-safari-holiday-package-uk
 primary_keyword: 'Book Amboseli safari holiday package UK'
 secondary_keywords:
-- 'Book 7 day luxury fly-in Masai Mara migration package July'
-- 'Purchase 6 day Meru Elsa''''s Kopje luxury fly-in package quote'
+- 'Book 7 day luxury fly-in Masai Mara migration package July [Year]'
+- 'Purchase 6 day Meru Elsa's Kopje luxury fly-in package quote'
 - 'Local Kenyan tour companies vs international operators'
 - 'Affordable Masai Mara camping safari group joining price'
 - 'Lake Nakuru National Park day trip from Nairobi cost Flamingo Hill Camp'

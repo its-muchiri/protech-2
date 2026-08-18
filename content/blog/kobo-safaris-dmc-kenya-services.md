@@ -4,7 +4,7 @@ description: 'Kenya safari guide covering kobo safaris dmc kenya services, inclu
 slug: kobo-safaris-dmc-kenya-services
 primary_keyword: 'Kobo Safaris DMC Kenya services'
 secondary_keywords:
-- 'Hell''''s Gate National Park day trip cycling / hiking tour price'
+- 'Hell's Gate National Park day trip cycling / hiking tour price'
 - 'Go Kenya Tours and Safaris packages'
 - 'Kenya safari payment terms deposit / balance due date'
 - 'Luggage restrictions fly-in safari Kenya soft bags required'

@@ -4,11 +4,11 @@ description: 'Kenya safari guide covering kenya safari deals, including what is 
 slug: kenya-safari-deals
 primary_keyword: 'Kenya safari deals'
 secondary_keywords:
-- 'Kenya vacation safari'
-- 'Tsavo East safari'
-- 'Kakamega Forest safari'
-- 'Child-friendly Kenya safari'
-- 'Tailor-made Kenya safari'
+- 'Kenya safari package offers'
+- 'Kenya Uganda gorilla safari package cost'
+- 'Budget Kenya Uganda combo tour deal'
+- 'Book [Operator Name] Kenya safari package'
+- 'Finalize Kenya safari itinerary booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -4,10 +4,10 @@ description: 'Kenya safari guide covering book long kenya safari package (10+ da
 slug: book-long-kenya-safari-package-10-days
 primary_keyword: 'Book long Kenya safari package (10+ days)'
 secondary_keywords:
-- 'package quote (e.g., Governors'', Kicheche, Porini)'
+- '[Specific Camp Collection] package quote (e.g., Governors', Kicheche, Porini)'
 - 'Book senior friendly Kenya safari package easy pace'
 - 'Compare fly-in vs overland Kenya safari package cost buy'
-- 'Reserve 5 day family lodge Amboseli package Christmas  deal'
+- 'Reserve 5 day family lodge Amboseli package Christmas [Year] deal'
 - 'Quote 7 day Kicheche Camps migration special package July booking'
 search_intent: transactional
 article_style: Travel Booking Guide

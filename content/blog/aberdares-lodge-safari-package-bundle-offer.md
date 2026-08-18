@@ -4,7 +4,7 @@ description: 'Kenya safari guide covering aberdares lodge safari package bundle 
 slug: aberdares-lodge-safari-package-bundle-offer
 primary_keyword: 'Aberdares lodge safari package bundle offer'
 secondary_keywords:
-- 'Early bird booking Kenya safari package'
+- 'Early bird booking Kenya safari package [Year]'
 - 'Best Kenya safari package deals online'
 - 'Book fly-in Kenya safari package all inclusive'
 - 'Reserve Lake Nakuru package'

@@ -4,7 +4,7 @@ description: 'Everything you need to know about ethiopian airlines offices in na
 slug: ethiopian-airlines-offices-in-nairobi
 primary_keyword: 'ethiopian airlines offices in nairobi'
 secondary_keywords:
-- 'today''''s flights from eldoret to nairobi'
+- 'today's flights from eldoret to nairobi'
 - 'kq flight amsterdam to nairobi'
 - 'kenya airways flights bookings'
 - 'kq flights cancelled'

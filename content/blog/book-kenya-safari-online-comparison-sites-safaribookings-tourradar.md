@@ -5,7 +5,7 @@ slug: book-kenya-safari-online-comparison-sites-safaribookings-tourradar
 primary_keyword: 'Book Kenya safari online comparison sites (SafariBookings, TourRadar)'
 secondary_keywords:
 - 'Book Masai Mara safari online UK migration season'
-- 'Lake Naivasha boat safari booking Hell''''s Gate tour USA'
+- 'Lake Naivasha boat safari booking Hell's Gate tour USA'
 - 'European travel agency Kenya safari booking reliable'
 - 'Compare Kenya tour operator packages UK cost & inclusions'
 - 'Last minute Kenya safari deals UK departing next week'

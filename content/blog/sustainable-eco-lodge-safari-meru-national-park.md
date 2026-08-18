@@ -4,10 +4,10 @@ description: 'Kenya safari guide covering sustainable eco lodge safari meru nati
 slug: sustainable-eco-lodge-safari-meru-national-park
 primary_keyword: 'Sustainable eco lodge safari Meru National Park'
 secondary_keywords:
-- 'package quote (e.g., Governors'', Kicheche, Porini)'
+- '[Specific Camp Collection] package quote (e.g., Governors', Kicheche, Porini)'
 - 'Book senior friendly Kenya safari package easy pace'
 - 'Compare fly-in vs overland Kenya safari package cost buy'
-- 'Reserve 5 day family lodge Amboseli package Christmas  deal'
+- 'Reserve 5 day family lodge Amboseli package Christmas [Year] deal'
 - 'Quote 7 day Kicheche Camps migration special package July booking'
 search_intent: transactional
 article_style: Travel Booking Guide

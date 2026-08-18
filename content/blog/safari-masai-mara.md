@@ -5,7 +5,7 @@ slug: safari-masai-mara
 primary_keyword: 'Safari Masai Mara'
 secondary_keywords:
 - 'Top rated family safari packages Kenya review buy'
-- 'Early bird booking Kenya safari  discount quote'
+- 'Early bird booking Kenya safari [Year+1] discount quote'
 - 'Quote 10 day best value family safari Kenya itinerary park fees included'
 - 'List of KATO registered tour operators Kenya'
 - 'Small group tour operators Kenya'

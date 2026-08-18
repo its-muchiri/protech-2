@@ -6,7 +6,7 @@ primary_keyword: 'Aberdares treetop lodge package rates'
 secondary_keywords:
 - 'Lodge safari package Kenya deals online'
 - 'Samburu safari bundle deal quote'
-- 'Quote from  Kenya safari'
+- 'Quote from [Local Operator Name] Kenya safari'
 - 'Book Kenya safari and beach extension package deal'
 - 'Buy multi-generational family safari package Kenya cost'
 search_intent: transactional

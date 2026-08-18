@@ -5,7 +5,7 @@ slug: small-group-tour-operators-kenya
 primary_keyword: 'Small group tour operators Kenya'
 secondary_keywords:
 - 'Luxury Kenya Zanzibar package booking'
-- 'Early bird booking Kenya safari package'
+- 'Early bird booking Kenya safari package [Year]'
 - 'Best Kenya safari package deals online'
 - 'Book fly-in Kenya safari package all inclusive'
 - 'Reserve Lake Nakuru package'

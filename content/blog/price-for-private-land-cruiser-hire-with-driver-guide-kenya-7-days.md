@@ -6,7 +6,7 @@ primary_keyword: 'Price for private Land Cruiser hire with driver guide Kenya 7 
 secondary_keywords:
 - 'Mount Longonot hike day trip from Nairobi / Thika price / guide'
 - 'Day trip Nairobi National Park tour company price'
-- 'Pollman''''s Tours & Safaris Kenya contact / services'
+- 'Pollman's Tours & Safaris Kenya contact / services'
 - 'Perfect Wilderness Tours Kenya reviews'
 - 'Tipping guide for safari driver / lodge staff Kenya'
 search_intent: transactional

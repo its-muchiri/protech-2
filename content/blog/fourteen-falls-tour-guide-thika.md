@@ -4,7 +4,7 @@ description: 'Kenya safari guide covering fourteen falls tour guide thika, inclu
 slug: fourteen-falls-tour-guide-thika
 primary_keyword: 'Fourteen Falls tour guide Thika'
 secondary_keywords:
-- 'Quote for 4 day Elsa''''s Kopje Meru package booking'
+- 'Quote for 4 day Elsa's Kopje Meru package booking'
 - 'Book scientific research participation safari package (niche)'
 - 'Sustainable tour operators Kenya'
 - 'Samburu National Reserve tour packages'

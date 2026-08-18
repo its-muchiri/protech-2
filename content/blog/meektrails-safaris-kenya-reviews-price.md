@@ -5,7 +5,7 @@ slug: meektrails-safaris-kenya-reviews-price
 primary_keyword: 'Meektrails Safaris Kenya reviews / price'
 secondary_keywords:
 - 'Best Kenya safari tour deals online'
-- '10 day Kenya Tanzania tour sale'
+- '10 day Kenya Tanzania tour sale [Season]'
 - 'Last minute 12 day luxury tented camp migration safari offer'
 - 'Private Kenya safari tour bundle buy online'
 - 'ATOL protected Kenya safari package booking UK operator'

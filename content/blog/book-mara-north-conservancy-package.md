@@ -4,9 +4,9 @@ description: 'Kenya safari guide covering book mara north conservancy package, i
 slug: book-mara-north-conservancy-package
 primary_keyword: 'Book Mara North Conservancy package'
 secondary_keywords:
-- 'Kenya safari package purchase'
+- '[Budget Operator] Kenya safari package purchase'
 - 'Add-ons for Kenya safari package purchase'
-- '(Adding ''buy'', ''book'', ''package'', ''cost'', ''quote'', ''deal'', ''reserve'', ''operator'' to core terms)'
+- '(Adding 'buy', 'book', 'package', 'cost', 'quote', 'deal', 'reserve', 'operator' to core terms)'
 - 'Christmas safari deal buy'
 - 'Book 9 day mid-range Kenya classic circuit package'
 search_intent: transactional

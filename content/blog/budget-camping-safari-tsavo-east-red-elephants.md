@@ -5,7 +5,7 @@ slug: budget-camping-safari-tsavo-east-red-elephants
 primary_keyword: 'Budget camping safari Tsavo East red elephants'
 secondary_keywords:
 - 'Best luxury Masai Mara package to book'
-- 'Purchase last minute Kenya safari package deal'
+- 'Purchase last minute Kenya safari package deal [Next Month]'
 - 'Book 5 day Samburu Special Five photographic tour package expert guide'
 - 'Best tour companies in Kenya reviews TripAdvisor'
 - 'Travel agents Thika booking Kenya tours'

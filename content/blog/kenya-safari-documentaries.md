@@ -8,7 +8,7 @@ secondary_keywords:
 - 'Kenya safari price'
 - 'Value Kenya safari'
 - 'Unfenced camp Kenya safari'
-- 'Rock climbing Hell''''s Gate'
+- 'Rock climbing Hell's Gate'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

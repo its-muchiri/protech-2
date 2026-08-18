@@ -6,9 +6,9 @@ primary_keyword: 'Meru National Park package price estimate'
 secondary_keywords:
 - 'Purchase Kenya safari cultural visit included package'
 - 'Reserve VIP exclusive Kenya safari package private jet option'
-- 'Buy off-season Kenya safari discount package April'
+- 'Buy off-season Kenya safari discount package April [Year]'
 - 'Buy 3 day budget Amboseli fly-in package last minute deal Nairobi'
-- 'Reserve 8 day Kenya budget group joining safari guarantee departure'
+- 'Reserve 8 day Kenya budget group joining safari guarantee departure [Date]'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

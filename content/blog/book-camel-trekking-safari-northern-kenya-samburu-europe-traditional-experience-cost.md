@@ -5,8 +5,8 @@ slug: book-camel-trekking-safari-northern-kenya-samburu-europe-traditional-exper
 primary_keyword: 'Book camel trekking safari northern Kenya Samburu Europe traditional experience cost'
 secondary_keywords:
 - 'Amboseli Tsavo East West package booking'
-- 'Book Kenya safari package for'
-- 'Direct booking Kenya safari'
+- 'Book Kenya safari package for [Specific Month/Year]'
+- 'Direct booking Kenya safari [Operator Name]'
 - 'Secure best price Kenya safari tour'
 - 'Birding specialist guide package Kenya book'
 search_intent: transactional

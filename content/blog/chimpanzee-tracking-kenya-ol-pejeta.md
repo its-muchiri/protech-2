@@ -5,7 +5,7 @@ slug: chimpanzee-tracking-kenya-ol-pejeta
 primary_keyword: 'Chimpanzee tracking Kenya (Ol Pejeta)'
 secondary_keywords:
 - '10 day Kenya Tanzania migration package buy'
-- 'Reserve Kenya safari package  months in advance'
+- 'Reserve Kenya safari package [Number] months in advance'
 - 'Compare Kenya safari package prices'
 - 'Kenya safari package including park fees cost'
 - 'Samburu safari operator quote'

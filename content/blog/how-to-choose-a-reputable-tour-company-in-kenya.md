@@ -5,7 +5,7 @@ slug: how-to-choose-a-reputable-tour-company-in-kenya
 primary_keyword: 'How to choose a reputable tour company in Kenya'
 secondary_keywords:
 - 'Masai Mara safari'
-- 'Hell''''s Gate National Park safari'
+- 'Hell's Gate National Park safari'
 - 'High-end Kenya safari'
 - 'Great Migration Kenya safari'
 - 'Eco safari Kenya'

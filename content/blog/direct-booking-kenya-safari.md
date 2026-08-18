@@ -4,11 +4,11 @@ description: 'Kenya safari guide covering direct booking kenya safari, including
 slug: direct-booking-kenya-safari
 primary_keyword: 'Direct booking Kenya safari'
 secondary_keywords:
-- 'Family friendly beach resorts Kenya kids club / activities'
-- 'Bomas of Kenya cultural tour Nairobi price / show times'
-- 'Ol Pejeta Conservancy day trip from Nairobi cost / travel time'
-- 'African Sermon Safaris itinerary examples'
-- 'Hire 4x4 Land Cruiser with driver guide Kenya daily rate'
+- 'Price check and book Kenya safari package [Month, Year]'
+- 'Community-based tourism operators Kenya'
+- 'Laikipia conservancy tours luxury'
+- 'Chyulu Hills safari operators'
+- 'Photographic safari workshops Kenya operators'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

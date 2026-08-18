@@ -4,7 +4,7 @@ description: 'Kenya safari guide covering kenya vacation safari, including what 
 slug: kenya-vacation-safari
 primary_keyword: 'Kenya vacation safari'
 secondary_keywords:
-- 'Kenya safari price quote'
+- '[Luxury Operator] Kenya safari price quote'
 - 'Kenya safari booking confirmation details'
 - 'Bush meals included Kenya safari package price'
 - 'Reserve private safari vehicle package'

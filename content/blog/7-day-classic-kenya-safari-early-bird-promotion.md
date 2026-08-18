@@ -5,7 +5,7 @@ slug: 7-day-classic-kenya-safari-early-bird-promotion
 primary_keyword: '7 day classic Kenya safari early bird promotion'
 secondary_keywords:
 - 'Green season Kenya safari package booking'
-- 'Kenya safari price quote'
+- '[Luxury Operator] Kenya safari price quote'
 - 'Kenya safari booking confirmation details'
 - 'Bush meals included Kenya safari package price'
 - 'Reserve private safari vehicle package'

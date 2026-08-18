@@ -7,7 +7,7 @@ secondary_keywords:
 - 'Safari operators Kiambu County'
 - 'Kenya tours for seniors mobility considerations'
 - 'Community project volunteer tour organizers Kenya'
-- 'Adventure tour company Hell''''s Gate cycling and Naivasha boat ride'
+- 'Adventure tour company Hell's Gate cycling and Naivasha boat ride'
 - 'Reserve Kenya holiday safari booking'
 search_intent: transactional
 article_style: Travel Booking Guide

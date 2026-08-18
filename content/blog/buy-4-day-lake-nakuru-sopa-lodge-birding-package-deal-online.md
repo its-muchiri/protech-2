@@ -4,7 +4,7 @@ description: 'Kenya safari guide covering buy 4 day lake nakuru sopa lodge birdi
 slug: buy-4-day-lake-nakuru-sopa-lodge-birding-package-deal-online
 primary_keyword: 'Buy 4 day Lake Nakuru Sopa Lodge birding package deal online'
 secondary_keywords:
-- 'Direct booking Kenya safari'
+- 'Direct booking Kenya safari [Operator Name]'
 - 'Secure best price Kenya safari tour'
 - 'Birding specialist guide package Kenya book'
 - 'Kenya Tanzania package quote'

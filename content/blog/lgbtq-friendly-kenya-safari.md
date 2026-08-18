@@ -7,7 +7,7 @@ secondary_keywords:
 - 'Book Kenya safari and beach extension package deal'
 - 'Buy multi-generational family safari package Kenya cost'
 - 'Reserve green season Kenya photographic safari package price'
-- 'Secure 11 day Kenya Uganda gorilla trek combo package booking'
+- 'Secure 11 day Kenya Uganda gorilla trek combo package booking [Operator Name]'
 - 'Buy 10 day luxury mobile camping safari package private chef included cost'
 search_intent: transactional
 article_style: Travel Booking Guide

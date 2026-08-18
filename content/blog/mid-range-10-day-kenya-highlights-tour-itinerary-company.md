@@ -8,7 +8,7 @@ secondary_keywords:
 - 'Affordable 7 day Kenya safari booking'
 - 'Masai Mara Lake Nakuru safari package deal'
 - 'Easter holiday Kenya safari package buy'
-- 'Kenya safari reviews and booking'
+- '[Operator Name] Kenya safari reviews and booking'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

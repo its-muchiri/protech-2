@@ -6,7 +6,7 @@ primary_keyword: 'Giraffe Centre Nairobi tour Kiss a Giraffe experience cost'
 secondary_keywords:
 - 'ATOL protected Kenya safari package booking UK operator'
 - 'Buy solo female traveler safe Kenya safari package group joining'
-- 'Book Kenya safari package July  migration'
+- 'Book Kenya safari package July [Year] migration'
 - 'Buy 14 day premium honeymoon Kenya coast safari private vehicle package'
 - 'Reserve 12 day East Africa highlights tour package flights included option buy'
 search_intent: transactional

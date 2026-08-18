@@ -4,7 +4,7 @@ description: 'Kenya safari guide covering book small group kenya safari reservat
 slug: book-small-group-kenya-safari-reservation
 primary_keyword: 'Book small group Kenya safari reservation'
 secondary_keywords:
-- 'Quote for 4 day Elsa''''s Kopje Meru package booking'
+- 'Quote for 4 day Elsa's Kopje Meru package booking'
 - 'Book scientific research participation safari package (niche)'
 - 'Sustainable tour operators Kenya'
 - 'Samburu National Reserve tour packages'

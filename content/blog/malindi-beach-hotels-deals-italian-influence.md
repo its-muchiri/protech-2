@@ -8,7 +8,7 @@ secondary_keywords:
 - 'Cost of 4 day Masai Mara express tour'
 - 'Quote for 7 day luxury Masai Mara package'
 - 'Best Kenya safari tour deals online'
-- '10 day Kenya Tanzania tour sale'
+- '10 day Kenya Tanzania tour sale [Season]'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

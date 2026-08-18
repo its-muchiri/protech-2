@@ -5,7 +5,7 @@ slug: kenya-tour-package-cancellation-policy-refund-options
 primary_keyword: 'Kenya tour package cancellation policy refund options'
 secondary_keywords:
 - 'Spirit of Kenya safari reviews customized tours'
-- 'All inclusive Kenya safari packages definition / what''''s included'
+- 'All inclusive Kenya safari packages definition / what's included'
 - 'Using Mpesa for payments Kenya safari'
 - 'Kenya bird watching safari specialists expert guides'
 - 'Day trips from Kiambu County tour operators'

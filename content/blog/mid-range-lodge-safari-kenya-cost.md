@@ -4,7 +4,7 @@ description: 'Kenya safari guide covering mid-range lodge safari kenya cost, inc
 slug: mid-range-lodge-safari-kenya-cost
 primary_keyword: 'Mid-range lodge safari Kenya cost'
 secondary_keywords:
-- 'Book 14 day Kenya photo workshop package  availability'
+- 'Book 14 day Kenya photo workshop package [Pro Photographer Name] availability'
 - 'How to choose a reputable tour company in Kenya'
 - 'Amboseli National Park tour 2 days from Nairobi price'
 - 'Sweetwaters Serena Camp Ol Pejeta price'

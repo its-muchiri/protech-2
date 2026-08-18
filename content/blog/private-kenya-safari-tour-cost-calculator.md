@@ -7,7 +7,7 @@ secondary_keywords:
 - 'Day trips from Thika tour organizers'
 - 'Airport transfer included safari packages Kenya'
 - 'KATO registered company for Amboseli private photography tour'
-- 'Reviews for  vs  family safari Kenya'
+- 'Reviews for [Company A] vs [Company B] family safari Kenya'
 - 'Buy guided Kenya safari tour'
 search_intent: transactional
 article_style: Travel Booking Guide

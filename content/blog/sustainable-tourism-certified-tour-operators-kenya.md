@@ -7,7 +7,7 @@ secondary_keywords:
 - 'Compare Kenya safari package prices USA operators'
 - 'Kenya bird watching safari tours USA specialist booking'
 - 'Book Masai Mara safari online UK migration season'
-- 'Lake Naivasha boat safari booking Hell''''s Gate tour USA'
+- 'Lake Naivasha boat safari booking Hell's Gate tour USA'
 - 'European travel agency Kenya safari booking reliable'
 search_intent: transactional
 article_style: Travel Booking Guide

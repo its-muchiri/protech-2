@@ -5,7 +5,7 @@ slug: emirates-flights-from-amsterdam-to-dubai
 primary_keyword: 'emirates flights from amsterdam to dubai'
 secondary_keywords:
 - 'flights from eldoret to nairobi price'
-- 'today''''s flights from eldoret to nairobi'
+- 'today's flights from eldoret to nairobi'
 - 'kq flight amsterdam to nairobi'
 - 'kenya airways flights bookings'
 - 'kq flights cancelled'

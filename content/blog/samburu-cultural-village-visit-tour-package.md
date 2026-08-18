@@ -5,7 +5,7 @@ slug: samburu-cultural-village-visit-tour-package
 primary_keyword: 'Samburu cultural village visit tour package'
 secondary_keywords:
 - '7 day classic Kenya safari early bird promotion'
-- 'Sale 14 day honeymoon Kenya beach safari package'
+- 'Sale 14 day honeymoon Kenya beach safari package [Month]'
 - 'Luxury Kenya safari holiday package buy'
 - 'Find reliable Kenya tour operator package deal'
 - 'Buy photographic safari package camera gear rental included (niche)'

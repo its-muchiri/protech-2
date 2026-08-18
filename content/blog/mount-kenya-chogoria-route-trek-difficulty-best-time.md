@@ -7,7 +7,7 @@ secondary_keywords:
 - 'Aberdares treetop lodge package sale price'
 - 'Luxury tented camp safari discount booking'
 - 'Lake Nakuru tour package cost 4 days'
-- 'Reserve tour  Kenya branch'
+- 'Reserve tour [International Operator Name] Kenya branch'
 - 'Buy full board Kenya lodge safari package online'
 search_intent: transactional
 article_style: Travel Booking Guide

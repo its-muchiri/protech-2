@@ -8,6 +8,7 @@ secondary_keywords:
 - 'Kenya safari packing list'
 - 'Electricity Kenya safari lodges'
 - 'Guided bird watching safari Lake Nakuru Kenya'
+- 'Child friendly malaria free Kenya safari (Note: difficult combination)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

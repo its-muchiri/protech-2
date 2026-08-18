@@ -8,7 +8,7 @@ secondary_keywords:
 - 'Watamu marine park snorkeling tours'
 - 'Fly-in safari operators Kenya Mara North'
 - 'Activity-Specific Searches'
-- 'Rock climbing tours Hell''''s Gate'
+- 'Rock climbing tours Hell's Gate'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

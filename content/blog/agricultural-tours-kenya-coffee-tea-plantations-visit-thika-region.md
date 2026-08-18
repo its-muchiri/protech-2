@@ -4,7 +4,7 @@ description: 'Kenya safari guide covering agricultural tours kenya coffee / tea 
 slug: agricultural-tours-kenya-coffee-tea-plantations-visit-thika-region
 primary_keyword: 'Agricultural tours Kenya coffee / tea plantations visit Thika region'
 secondary_keywords:
-- 'Pollman''''s Tours & Safaris Kenya contact / services'
+- 'Pollman's Tours & Safaris Kenya contact / services'
 - 'Perfect Wilderness Tours Kenya reviews'
 - 'Tipping guide for safari driver / lodge staff Kenya'
 - 'Customer testimonials Kenya safari companies video reviews'

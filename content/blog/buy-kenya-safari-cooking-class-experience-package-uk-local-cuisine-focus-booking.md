@@ -4,7 +4,7 @@ description: 'Kenya safari guide covering buy kenya safari cooking class experie
 slug: buy-kenya-safari-cooking-class-experience-package-uk-local-cuisine-focus-booking
 primary_keyword: 'Buy Kenya safari cooking class experience package UK local cuisine focus booking'
 secondary_keywords:
-- 'Masai Mara tour cost'
+- '[Operator Name] Masai Mara tour cost'
 - 'Finalize Kenya safari itinerary booking'
 - 'Guided photo safari package Kenya book'
 - 'Family safari package Kenya book'

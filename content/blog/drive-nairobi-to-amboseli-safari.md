@@ -5,7 +5,7 @@ slug: drive-nairobi-to-amboseli-safari
 primary_keyword: 'Drive Nairobi to Amboseli safari'
 secondary_keywords:
 - 'Price 14 day Elewana Collection SkySafari Kenya package'
-- 'Reserve 9 day Joy''''s Camp Shaba Samburu package deal'
+- 'Reserve 9 day Joy's Camp Shaba Samburu package deal'
 - 'Secure booking philanthropic safari package Kenya donation focus'
 - 'Eco-friendly safari companies Kenya'
 - 'Samburu fly-in safari companies'

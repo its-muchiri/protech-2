@@ -6,7 +6,7 @@ primary_keyword: 'Purchase full board Kenya safari tour'
 secondary_keywords:
 - 'Safari tours Kenya'
 - 'Masai Mara safari'
-- 'Hell''''s Gate National Park safari'
+- 'Hell's Gate National Park safari'
 - 'High-end Kenya safari'
 - 'Great Migration Kenya safari'
 search_intent: transactional

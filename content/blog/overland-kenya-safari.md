@@ -7,7 +7,7 @@ secondary_keywords:
 - 'Confirmed itinerary cost 7 day Masai Mara booking'
 - 'Reserve accessible safari package Kenya quote needed'
 - 'Buy 6 day Mara Engai Wilderness Lodge package deal'
-- 'Secure 10 day luxury bespoke safari package Kenya operator'
+- 'Secure 10 day luxury bespoke safari package Kenya operator [High-end Operator]'
 - 'Buy wellness and yoga safari retreat package Kenya book'
 search_intent: transactional
 article_style: Travel Booking Guide

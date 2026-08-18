@@ -5,7 +5,7 @@ slug: one-week-kenya-wildlife-tour-budget-enquiry
 primary_keyword: 'One week Kenya wildlife tour budget enquiry'
 secondary_keywords:
 - 'Choose best value Kenya budget safari operator package'
-- 'Book Kenya safari departing  quote needed'
+- 'Book Kenya safari departing [Specific Date] quote needed'
 - 'Reserve 15 day grand Kenya overland truck budget group package booking'
 - 'Reliable Kenya travel agencies near Thika'
 - 'Private tour companies Kenya custom itineraries'

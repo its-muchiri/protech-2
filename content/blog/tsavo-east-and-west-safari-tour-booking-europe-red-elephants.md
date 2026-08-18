@@ -4,7 +4,7 @@ description: 'Kenya safari guide covering tsavo east & west safari tour booking 
 slug: tsavo-east-and-west-safari-tour-booking-europe-red-elephants
 primary_keyword: 'Tsavo East & West safari tour booking Europe red elephants'
 secondary_keywords:
-- 'Giraffe safari Kenya (Rothschild''''s, Reticulated)'
+- 'Giraffe safari Kenya (Rothschild's, Reticulated)'
 - 'Nairobi day trip safari'
 - 'Best time for Kenya safari'
 - 'Kenya safari in December'

@@ -6,7 +6,7 @@ primary_keyword: 'Kenya safari offers'
 secondary_keywords:
 - 'Secure Kenya tour package airport transfers included quote'
 - 'Top rated family safari packages Kenya review buy'
-- 'Early bird booking Kenya safari  discount quote'
+- 'Early bird booking Kenya safari [Year+1] discount quote'
 - 'Quote 10 day best value family safari Kenya itinerary park fees included'
 - 'List of KATO registered tour operators Kenya'
 search_intent: transactional

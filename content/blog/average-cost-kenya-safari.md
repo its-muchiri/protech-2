@@ -4,7 +4,7 @@ description: 'Kenya safari guide covering average cost kenya safari, including w
 slug: average-cost-kenya-safari
 primary_keyword: 'Average cost Kenya safari'
 secondary_keywords:
-- 'Direct booking Kenya safari lodge  package'
+- 'Direct booking Kenya safari lodge [Lodge Name] package'
 - 'Book luxury package private chef included Kenya (niche)'
 - 'Select Kenya Tanzania combo package itinerary quote'
 - 'Buy package for Kenya public holiday weekend deal'

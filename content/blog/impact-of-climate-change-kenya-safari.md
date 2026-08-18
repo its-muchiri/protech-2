@@ -8,7 +8,7 @@ secondary_keywords:
 - 'Laikipia luxury safari deals online'
 - 'Small group Kenya safari package special offers'
 - 'Tsavo safari trip plan purchase'
-- 'Masai Mara package cost'
+- '[Operator Name] Masai Mara package cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

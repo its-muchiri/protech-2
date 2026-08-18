@@ -7,7 +7,7 @@ secondary_keywords:
 - 'Ol Pejeta Conservancy safari special offer'
 - 'Private guided Kenya safari early bird promotion'
 - 'Amboseli holiday package booking'
-- 'Book Kenya safari with'
+- 'Book Kenya safari with [Operator Name]'
 - 'Secure package with hot air balloon Masai Mara booking'
 search_intent: transactional
 article_style: Travel Booking Guide

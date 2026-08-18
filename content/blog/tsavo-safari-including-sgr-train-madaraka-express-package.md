@@ -4,7 +4,7 @@ description: 'Kenya safari guide covering tsavo safari including sgr train madar
 slug: tsavo-safari-including-sgr-train-madaraka-express-package
 primary_keyword: 'Tsavo safari including SGR train Madaraka Express package'
 secondary_keywords:
-- 'Price check and book Kenya safari package'
+- 'Price check and book Kenya safari package [Month, Year]'
 - 'Community-based tourism operators Kenya'
 - 'Laikipia conservancy tours luxury'
 - 'Chyulu Hills safari operators'

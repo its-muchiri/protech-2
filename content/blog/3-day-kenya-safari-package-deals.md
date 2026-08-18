@@ -8,7 +8,7 @@ secondary_keywords:
 - 'Kenya tour operators for UK market recommendations'
 - 'Book with local Kenya safari operator direct price'
 - 'Time-Sensitive/Urgency (Last minute, Availability, Specific dates/months)'
-- 'Book Kenya safari for specific dates  USA'
+- 'Book Kenya safari for specific dates [e.g., August 10-17, 2025] USA'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

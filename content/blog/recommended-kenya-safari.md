@@ -6,7 +6,7 @@ primary_keyword: 'Recommended Kenya safari'
 secondary_keywords:
 - 'Basic Kenya safari lodge package buy'
 - '10 day Kenya Tanzania migration package buy'
-- 'Reserve Kenya safari package  months in advance'
+- 'Reserve Kenya safari package [Number] months in advance'
 - 'Compare Kenya safari package prices'
 - 'Kenya safari package including park fees cost'
 search_intent: transactional

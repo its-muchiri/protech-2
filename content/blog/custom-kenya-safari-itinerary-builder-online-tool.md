@@ -4,7 +4,7 @@ description: 'Kenya safari guide covering custom kenya safari itinerary builder 
 slug: custom-kenya-safari-itinerary-builder-online-tool
 primary_keyword: 'Custom Kenya safari itinerary builder online tool'
 secondary_keywords:
-- 'Book Kenya safari for specific dates  USA'
+- 'Book Kenya safari for specific dates [e.g., August 10-17, 2025] USA'
 - 'Check Kenya tour operator license and reviews online UK'
 - 'Book small group safari Lake Nakuru & Naivasha Kenya from Germany agency'
 - 'Book responsible eco-safari tour Basecamp Masai Mara Kenya Europe sustainable travel award'

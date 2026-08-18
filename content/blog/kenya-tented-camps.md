@@ -8,7 +8,7 @@ secondary_keywords:
 - 'Kenya safari insurance'
 - 'Private fly-in safari Masai Mara honeymoon'
 - 'Short fly-in safari Ol Pejeta Conservancy'
-- 'Is  legit Kenya safari'
+- 'Is [Company Name] legit Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

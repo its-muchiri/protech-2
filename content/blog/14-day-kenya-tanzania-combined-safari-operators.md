@@ -7,7 +7,7 @@ secondary_keywords:
 - 'Budget Kenya camping safari cost estimate'
 - 'Kenya safari package deals'
 - '3 day Kenya safari package deals'
-- 'Fly-in Kenya safari package sale'
+- 'Fly-in Kenya safari package sale [Month]'
 - 'Ol Pejeta family safari itinerary price'
 search_intent: transactional
 article_style: Travel Booking Guide

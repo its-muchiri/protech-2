@@ -5,7 +5,7 @@ slug: special-offer-6-day-group-joining-nakuru-mara-safari-booking
 primary_keyword: 'Special offer 6 day group joining Nakuru Mara safari booking'
 secondary_keywords:
 - 'Cost of 5 day Samburu special five photo package buy'
-- 'Book tour package Kenya  recommended'
+- 'Book tour package Kenya [Operator Name] recommended'
 - 'Reserve Ol Pejeta family package school holidays'
 - 'Final check price 14 day Kenya discovery package tour'
 - 'Quote for 10 day Cheli & Peacock premier safari package'

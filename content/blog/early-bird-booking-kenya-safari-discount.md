@@ -4,7 +4,7 @@ description: 'Kenya safari guide covering early bird booking kenya safari discou
 slug: early-bird-booking-kenya-safari-discount
 primary_keyword: 'Early bird booking Kenya safari discount'
 secondary_keywords:
-- 'Kenya safari reviews and booking'
+- '[Operator Name] Kenya safari reviews and booking'
 - 'Kenya safari package price match'
 - 'Kenya safari package including transfers quote'
 - 'All-inclusive safari Kenya book'

@@ -8,7 +8,7 @@ secondary_keywords:
 - 'Reserve now pay later Kenya safari package (if offered)'
 - '(Continuing with more diverse high-intent combinations)'
 - 'Get quote 7 day Loisaba Tented Camp Laikipia package'
-- 'Buy 13 day comprehensive Kenya safari tour package'
+- 'Buy 13 day comprehensive Kenya safari tour package [Reputable Operator]'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

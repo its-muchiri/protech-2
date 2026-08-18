@@ -4,7 +4,7 @@ description: 'Kenya safari guide covering find best value kenya mid-range lodge 
 slug: find-best-value-kenya-mid-range-lodge-safari-package-usa-reviews-operator-comparison
 primary_keyword: 'Find best value Kenya mid-range lodge safari package USA reviews operator comparison'
 secondary_keywords:
-- 'Purchase 6 day Meru Elsa''''s Kopje luxury fly-in package quote'
+- 'Purchase 6 day Meru Elsa's Kopje luxury fly-in package quote'
 - 'Local Kenyan tour companies vs international operators'
 - 'Affordable Masai Mara camping safari group joining price'
 - 'Lake Nakuru National Park day trip from Nairobi cost Flamingo Hill Camp'

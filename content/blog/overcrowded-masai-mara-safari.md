@@ -6,7 +6,7 @@ primary_keyword: 'Overcrowded Masai Mara safari'
 secondary_keywords:
 - 'Kenya Zanzibar beach safari package deal'
 - 'Book Northern circuit Kenya safari package'
-- 'Masai Mara tour cost'
+- '[Operator Name] Masai Mara tour cost'
 - 'Finalize Kenya safari itinerary booking'
 - 'Guided photo safari package Kenya book'
 search_intent: transactional

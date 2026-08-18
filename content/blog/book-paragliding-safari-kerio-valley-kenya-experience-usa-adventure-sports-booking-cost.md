@@ -4,7 +4,7 @@ description: 'Kenya safari guide covering book paragliding safari kerio valley k
 slug: book-paragliding-safari-kerio-valley-kenya-experience-usa-adventure-sports-booking-cost
 primary_keyword: 'Book paragliding safari Kerio Valley Kenya experience USA adventure sports booking cost'
 secondary_keywords:
-- '10 day Kenya Tanzania tour sale'
+- '10 day Kenya Tanzania tour sale [Season]'
 - 'Last minute 12 day luxury tented camp migration safari offer'
 - 'Private Kenya safari tour bundle buy online'
 - 'ATOL protected Kenya safari package booking UK operator'

@@ -7,7 +7,7 @@ secondary_keywords:
 - 'Kenya budget camping safari package book'
 - 'Amboseli Kilimanjaro safari package buy'
 - 'August Masai Mara migration package deals'
-- 'Reserve tour with  Kenya'
+- 'Reserve tour with [Local Operator Name] Kenya'
 - 'Choose best Kenya safari tour operator'
 search_intent: transactional
 article_style: Travel Booking Guide

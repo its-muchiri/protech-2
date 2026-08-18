@@ -7,7 +7,7 @@ secondary_keywords:
 - 'Estimate for Kenya adventure safari trip'
 - 'Estimate for 6 day Samburu Nakuru safari'
 - 'Price enquiry 5 day family fly-in Amboseli package'
-- 'Samburu safari package sale'
+- 'Samburu safari package sale [Month]'
 - 'Family friendly Kenya safari tour discount code'
 search_intent: transactional
 article_style: Travel Booking Guide

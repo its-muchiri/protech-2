@@ -7,7 +7,7 @@ secondary_keywords:
 - 'Reserve Mount Kenya Sirimon route climb and safari package Europe group departure dates'
 - 'Find Kenya safari planning expert consultation online UK service fee quote'
 - 'Find vegan meal options Kenya safari lodge booking Europe dietary requirements communication needed'
-- 'Book rock climbing Hell''''s Gate safari add-on Kenya UK adventure gear included cost'
+- 'Book rock climbing Hell's Gate safari add-on Kenya UK adventure gear included cost'
 - 'Purchase Kenya coffee plantation tour Kiambu safari add-on Europe farm stay booking'
 search_intent: transactional
 article_style: Travel Booking Guide

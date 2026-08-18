@@ -6,7 +6,7 @@ primary_keyword: 'Purchase reliable Tsavo East & West safari package Europe revi
 secondary_keywords:
 - 'Discount 5 day family fly-in Amboseli package early bird'
 - 'Aberdares lodge safari package bundle offer'
-- 'Direct booking Kenya safari lodge  package'
+- 'Direct booking Kenya safari lodge [Lodge Name] package'
 - 'Book luxury package private chef included Kenya (niche)'
 - 'Select Kenya Tanzania combo package itinerary quote'
 search_intent: transactional

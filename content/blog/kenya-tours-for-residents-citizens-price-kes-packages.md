@@ -8,7 +8,7 @@ secondary_keywords:
 - 'Purchase tour from Kenya safari specialist operator'
 - 'Purchase all-inclusive fly-in safari package Kenya cost'
 - 'Choose best value Kenya budget safari operator package'
-- 'Book Kenya safari departing  quote needed'
+- 'Book Kenya safari departing [Specific Date] quote needed'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

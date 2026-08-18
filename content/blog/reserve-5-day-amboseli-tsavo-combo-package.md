@@ -6,7 +6,7 @@ primary_keyword: 'Reserve 5 day Amboseli Tsavo combo package'
 secondary_keywords:
 - 'Reserve with trusted Kenya safari operator package'
 - 'Final cost 12 day Kenya Tanzania luxury migration package'
-- 'Buy 10 day Kenya wildlife photography tour package led by'
+- 'Buy 10 day Kenya wildlife photography tour package led by [Photographer Name]'
 - 'Book 8 day Gamewatchers Safaris Porini circuit package'
 - 'Reserve private jet Kenya safari package quote'
 search_intent: transactional

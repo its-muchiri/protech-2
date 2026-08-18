@@ -4,7 +4,7 @@ description: 'Kenya safari guide covering secure online booking platform kenya s
 slug: secure-online-booking-platform-kenya-safari-usa-trusted
 primary_keyword: 'Secure online booking platform Kenya safari USA trusted'
 secondary_keywords:
-- 'Pollman''''s Tours & Safaris Kenya contact / services'
+- 'Pollman's Tours & Safaris Kenya contact / services'
 - 'Perfect Wilderness Tours Kenya reviews'
 - 'Tipping guide for safari driver / lodge staff Kenya'
 - 'Customer testimonials Kenya safari companies video reviews'

@@ -5,7 +5,7 @@ slug: el-molo-village-tour-lake-turkana-operators
 primary_keyword: 'El Molo village tour Lake Turkana operators'
 secondary_keywords:
 - 'Best hiking trails near Thika / Kiambu Karura Forest / Kereita Forest Ziplining'
-- 'Hell''''s Gate National Park day trip cycling / hiking tour price'
+- 'Hell's Gate National Park day trip cycling / hiking tour price'
 - 'Go Kenya Tours and Safaris packages'
 - 'Custom Kenya safari itinerary builder online tool'
 - 'WiFi availability safari lodges Kenya cost / speed'

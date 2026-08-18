@@ -5,7 +5,7 @@ slug: kenya-safari-itinerary
 primary_keyword: 'Kenya safari itinerary'
 secondary_keywords:
 - 'Activity-Specific Searches'
-- 'Rock climbing tours Hell''''s Gate'
+- 'Rock climbing tours Hell's Gate'
 - 'Long stay Kenya vacation planners'
 - 'Group joining safari price Kenya'
 - 'Karen Nairobi based tour operators'

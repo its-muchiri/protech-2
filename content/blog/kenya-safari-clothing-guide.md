@@ -8,7 +8,7 @@ secondary_keywords:
 - 'Low cost Kenya safari holiday booking'
 - 'Book Kenya Tanzania safari package'
 - 'Luxury Kenya Zanzibar package booking'
-- 'Early bird booking Kenya safari package'
+- 'Early bird booking Kenya safari package [Year]'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

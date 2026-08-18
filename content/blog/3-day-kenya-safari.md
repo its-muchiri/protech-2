@@ -5,7 +5,7 @@ slug: 3-day-kenya-safari
 primary_keyword: '3 day Kenya safari'
 secondary_keywords:
 - 'Safari tour van hire Nairobi price per day 7 seater'
-- 'Reliable tour operator Kenya forum recommendations (Lonely Planet, Fodor''''s)'
+- 'Reliable tour operator Kenya forum recommendations (Lonely Planet, Fodor's)'
 - 'Kenya yoga retreat safari lodges offering wellness programs'
 - 'East African residents safari deals Kenya / Tanzania / Uganda'
 - 'Reserve Kenya wildlife tour package UK cost'

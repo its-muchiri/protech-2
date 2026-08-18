@@ -1,6 +1,6 @@
 ---
 title: 'All Inclusive Kenya Safari Packages Definition / What''s Included: Complete Guide'
-description: 'Kenya safari guide covering all inclusive kenya safari packages definition / whats included, including what is included, pricing, and booking advice.'
+description: 'Kenya safari guide covering all inclusive kenya safari packages definition / what''s included, including what is included, pricing, and booking advice.'
 slug: all-inclusive-kenya-safari-packages-definition-what-s-included
 primary_keyword: 'All inclusive Kenya safari packages definition / what''s included'
 secondary_keywords:
@@ -15,17 +15,17 @@ style_batch: 3
 word_count: 550
 status: draft
 ---
-# All Inclusive Kenya Safari Packages Definition / What's Included: Complete Guide
+# All Inclusive Kenya Safari Packages Definition / What''s Included: Complete Guide
 
 ## Introduction
 
-Dreaming of a Kenya safari? All inclusive kenya safari packages definition / what's included is exactly the kind of search travellers make when they are ready to plan the trip of a lifetime. This guide helps you understand what a safari package includes, how pricing works, and how to book with confidence.
+Dreaming of a Kenya safari? All inclusive kenya safari packages definition / what''''s included is exactly the kind of search travellers make when they are ready to plan the trip of a lifetime. This guide helps you understand what a safari package includes, how pricing works, and how to book with confidence.
 
 ## What a Safari Package Typically Includes
 
 Most Kenya safari packages bundle the essentials so you can focus on the experience: accommodation in lodges or camps, game drives in shared or private vehicles, park entry fees, meals, and an experienced guide. Some packages add internal flights, airport transfers, and activities such as hot-air balloon rides over the Masai Mara.
 
-Understanding exactly what is included — and what is not — is essential before you book. A clear package breakdown prevents surprises and lets you compare offers fairly. When considering all inclusive kenya safari packages definition / what's included, confirm the accommodation standard, group size, and vehicle type before you commit.
+Understanding exactly what is included — and what is not — is essential before you book. A clear package breakdown prevents surprises and lets you compare offers fairly. When considering all inclusive kenya safari packages definition / what''s included, confirm the accommodation standard, group size, and vehicle type before you commit.
 
 ## Kenya's Iconic Destinations
 

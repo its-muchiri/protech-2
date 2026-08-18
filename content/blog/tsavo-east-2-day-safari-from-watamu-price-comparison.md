@@ -6,7 +6,7 @@ primary_keyword: 'Tsavo East 2 day safari from Watamu price comparison'
 secondary_keywords:
 - 'Small group Kenya safari package special offers'
 - 'Tsavo safari trip plan purchase'
-- 'Masai Mara package cost'
+- '[Operator Name] Masai Mara package cost'
 - 'Purchase Kenya safari cultural visit included package'
 - 'Reserve VIP exclusive Kenya safari package private jet option'
 search_intent: transactional
