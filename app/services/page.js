@@ -4,6 +4,7 @@ import BlogCarouselSection from '@/components/BlogCarouselSection';
 import IconRenderer from '@/components/IconRenderer';
 import LogoCarousel from '@/components/LogoCarousel';
 import CertificationSection from '@/components/CertificationSection';
+import Reveal from '@/components/Reveal';
 import { governmentAuthorities } from '@/data/government-authorities';
 import { kenyaCounties } from '@/data/kenya-counties';
 
@@ -92,7 +93,7 @@ export default function ServicesPage() {
       </section>
 
       {/* Featured Services */}
-      <section className="glass-section" style={{ background: 'rgba(255,255,255,0.6)', padding: '80px 0', margin: '40px auto', maxWidth: '1280px', borderRadius: 24 }}>
+      <section className="glass-section" style={{ background: 'rgba(255,255,255,0.6)', padding: '64px 0', margin: '24px auto', maxWidth: '1280px', borderRadius: 24 }}>
         <div className="container-custom">
           <div style={{ textAlign: 'center', maxWidth: 720, margin: '0 auto 60px' }}>
             <h2 style={{
@@ -116,10 +117,12 @@ export default function ServicesPage() {
           <div style={{
             display: 'grid',
             gridTemplateColumns: 'repeat(auto-fit, minmax(340px, 1fr))',
-            gap: 28,
+            gap: 24,
           }}>
-            {featuredServices.map((service) => (
-              <ServiceCard key={service.slug} service={service} variant="featured" />
+            {featuredServices.map((service, i) => (
+              <Reveal key={service.slug} delay={(i % 3) * 100}>
+                <ServiceCard service={service} variant="featured" />
+              </Reveal>
             ))}
           </div>
         </div>
@@ -178,8 +181,10 @@ export default function ServicesPage() {
                   gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))',
                   gap: 20,
                 }}>
-                  {groupServices.map((service) => (
-                    <ServiceCard key={service.slug} service={service} variant="compact" />
+                  {groupServices.map((service, i) => (
+                    <Reveal key={service.slug} delay={(i % 3) * 100}>
+                      <ServiceCard service={service} variant="compact" />
+                    </Reveal>
                   ))}
                 </div>
               </section>
@@ -189,7 +194,7 @@ export default function ServicesPage() {
       </section>
 
       {/* Why Choose ProTech */}
-      <section className="glass-section" style={{ background: 'rgba(255,255,255,0.6)', padding: '80px 0', margin: '40px auto', maxWidth: '1280px', borderRadius: 24 }}>
+      <section className="glass-section" style={{ background: 'rgba(255,255,255,0.6)', padding: '64px 0', margin: '24px auto', maxWidth: '1280px', borderRadius: 24 }}>
         <div className="container-custom">
           <div style={{ textAlign: 'center', maxWidth: 720, margin: '0 auto 60px' }}>
             <h2 style={{
@@ -223,32 +228,35 @@ export default function ServicesPage() {
               { title: 'Transparent Pricing', description: 'Detailed BOQs, no hidden costs, milestone-based payments, and fixed-price options for defined scopes.', icon: 'Lightbulb' },
               { title: '24/7 Support', description: 'Emergency response teams for critical infrastructure — power, water, security, and medical equipment — with SLA-backed uptime.', icon: 'Wrench' },
             ].map((item, i) => (
-              <div key={i} className="glass-card hover-lift" style={{
-                padding: '32px 24px',
-              }}>
-                <div className="glass" style={{ width: 48, height: 48, background: 'rgba(13,71,161,0.1)', borderRadius: 12, display: 'flex', alignItems: 'center', justifyContent: 'center', marginBottom: 16 }}>
-                  <IconRenderer name={item.icon} size={24} style={{ color: '#0D47A1' }} />
-                </div>
-                <h4 style={{
-                  fontFamily: "'Poppins', sans-serif",
-                  fontWeight: 600,
-                  fontSize: 18,
-                  color: '#1A1A1A',
-                  marginBottom: 8,
+              <Reveal key={i} delay={(i % 3) * 100}>
+                <div className="glass-card hover-lift" style={{
+                  padding: '28px 24px',
+                  height: '100%',
                 }}>
-                  {item.title}
-                </h4>
-                <p style={{ fontSize: 15, color: '#334155', lineHeight: 1.6 }}>
-                  {item.description}
-                </p>
-              </div>
+                  <div className="glass" style={{ width: 48, height: 48, background: 'rgba(13,71,161,0.1)', borderRadius: 12, display: 'flex', alignItems: 'center', justifyContent: 'center', marginBottom: 16 }}>
+                    <IconRenderer name={item.icon} size={24} style={{ color: '#0D47A1' }} />
+                  </div>
+                  <h4 style={{
+                    fontFamily: "'Poppins', sans-serif",
+                    fontWeight: 600,
+                    fontSize: 18,
+                    color: '#1A1A1A',
+                    marginBottom: 8,
+                  }}>
+                    {item.title}
+                  </h4>
+                  <p style={{ fontSize: 15, color: '#334155', lineHeight: 1.6 }}>
+                    {item.description}
+                  </p>
+                </div>
+              </Reveal>
             ))}
           </div>
         </div>
       </section>
 
       {/* Service Delivery Process */}
-      <section className="glass-section glass-dark" style={{ background: 'rgba(13,71,161,0.9)', padding: '80px 0', margin: '40px auto', maxWidth: '1280px', borderRadius: 24, border: '1px solid rgba(255,255,255,0.1)' }}>
+      <section className="glass-section glass-dark" style={{ background: 'rgba(13,71,161,0.9)', padding: '64px 0', margin: '24px auto', maxWidth: '1280px', borderRadius: 24, border: '1px solid rgba(255,255,255,0.1)' }}>
         <div className="container-custom">
           <div style={{ textAlign: 'center', maxWidth: 720, margin: '0 auto 60px' }}>
             <h2 style={{
@@ -283,16 +291,17 @@ export default function ServicesPage() {
               { step: '05', title: 'Execution & Supervision', desc: 'Certified project managers oversee daily operations with quality checks at every milestone.', accent: '#0D47A1', bg: 'rgba(13,71,161,0.15)', border: 'rgba(13,71,161,0.4)' },
               { step: '06', title: 'Testing, Handover & Support', desc: 'Commissioning tests, client walkthrough, documentation handover, and warranty activation.', accent: '#D4AF37', bg: 'rgba(212,175,55,0.15)', border: 'rgba(212,175,55,0.4)' },
             ].map((item, i) => (
-              <div key={i} className="glass-card-hover" style={{ padding: '36px 28px', textAlign: 'center', background: item.bg, border: `2px solid ${item.border}` }}>
-                <div style={{
-                  width: 64, height: 64, margin: '0 auto 22px',
-                  background: `linear-gradient(135deg, ${item.accent} 0%, ${item.accent}CC 100%)`,
-                  borderRadius: '50%',
-                  display: 'flex', alignItems: 'center', justifyContent: 'center',
-                  fontFamily: "'Poppins', sans-serif",
-                  fontWeight: 800, fontSize: 20, color: '#fff',
-                  boxShadow: `0 8px 24px ${item.accent}40`,
-                  border: '3px solid rgba(255,255,255,0.2)',
+              <Reveal key={i} delay={(i % 3) * 100}>
+                <div className="glass-card-hover" style={{ padding: '32px 26px', textAlign: 'center', background: item.bg, border: `2px solid ${item.border}` }}>
+                  <div style={{
+                    width: 64, height: 64, margin: '0 auto 22px',
+                    background: `linear-gradient(135deg, ${item.accent} 0%, ${item.accent}CC 100%)`,
+                    borderRadius: '50%',
+                    display: 'flex', alignItems: 'center', justifyContent: 'center',
+                    fontFamily: "'Poppins', sans-serif",
+                    fontWeight: 800, fontSize: 20, color: '#fff',
+                    boxShadow: `0 8px 24px ${item.accent}40`,
+                    border: '3px solid rgba(255,255,255,0.2)',
                 }}>
                   {item.step}
                 </div>
@@ -309,7 +318,8 @@ export default function ServicesPage() {
                 <p style={{ fontSize: 14.5, color: 'rgba(255,255,255,0.85)', lineHeight: 1.65, fontWeight: 400 }}>
                   {item.desc}
                 </p>
-              </div>
+                </div>
+              </Reveal>
             ))}
           </div>
         </div>
@@ -319,7 +329,7 @@ export default function ServicesPage() {
       <CertificationSection />
 
       {/* CTA Section */}
-      <section className="glass-section glass-dark" style={{ background: 'rgba(13,71,161,0.9)', padding: '80px 0', margin: '40px auto', maxWidth: '1280px', borderRadius: 24, border: '1px solid rgba(255,255,255,0.1)' }}>
+      <section className="glass-section glass-dark" style={{ background: 'rgba(13,71,161,0.9)', padding: '64px 0', margin: '24px auto', maxWidth: '1280px', borderRadius: 24, border: '1px solid rgba(255,255,255,0.1)' }}>
         <div className="container-custom" style={{ textAlign: 'center', maxWidth: 720, margin: '0 auto' }}>
           <h2 style={{
             fontFamily: "'Poppins', sans-serif",

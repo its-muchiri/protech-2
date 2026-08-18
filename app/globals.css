@@ -61,10 +61,10 @@ html {
   --space-4: clamp(1rem, 0.8rem + 1vw, 1.5rem);
   --space-5: clamp(1.25rem, 1rem + 1.25vw, 2rem);
   --space-6: clamp(1.5rem, 1.2rem + 1.5vw, 2.5rem);
-  --space-8: clamp(2rem, 1.5rem + 2vw, 3.5rem);
-  --space-10: clamp(2.5rem, 2rem + 2.5vw, 4.5rem);
-  --space-12: clamp(3rem, 2.5rem + 3vw, 5.5rem);
-  --space-16: clamp(4rem, 3rem + 4vw, 7rem);
+  --space-8: clamp(1.75rem, 1.5rem + 1vw, 2.5rem);
+  --space-10: clamp(2rem, 1.75rem + 1.5vw, 3.5rem);
+  --space-12: clamp(2.25rem, 2rem + 1.5vw, 4rem);
+  --space-16: clamp(2.75rem, 2.5rem + 2vw, 5rem);
   
   /* Container max-widths */
   --container-sm: 640px;
@@ -385,20 +385,20 @@ img {
 
 /* ── SECTIONS ── */
 .section-padding {
-  padding: var(--space-16) 0;
+  padding: var(--space-10) 0;
 }
 @media (max-width: 768px) {
-  .section-padding { padding: var(--space-10) 0; }
+  .section-padding { padding: var(--space-8) 0; }
 }
 @media (max-width: 480px) {
-  .section-padding { padding: var(--space-8) 0; }
+  .section-padding { padding: var(--space-6) 0; }
 }
 
 .section-tight {
-  padding: var(--space-10) 0;
+  padding: var(--space-8) 0;
 }
 .section-tighter {
-  padding: var(--space-6) 0;
+  padding: var(--space-5) 0;
 }
 
 .section-title {
@@ -470,6 +470,63 @@ img {
 }
 
 /* ── WHATSAPP FLOAT (removed) ── */
+
+/* ── MOBILE ASPECT-RATIO FIXES ── */
+@media (max-width: 768px) {
+  /* Image covers stay proportional */
+  .hero-section img,
+  section img[style*="objectFit: cover"],
+  img[style*="object-fit: cover"] {
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
+  }
+
+  /* Card media containers hold their ratio */
+  .blog-card__media,
+  .service-glass-card__image-wrap,
+  [class*="__media"],
+  [class*="__image-wrap"] {
+    aspect-ratio: 16 / 9;
+  }
+
+  /* Constrain full-bleed banner heights so they don't swallow the viewport */
+  section[style*="min-height"] img {
+    max-height: none;
+  }
+
+  /* CategoryShowcase and service image cards */
+  .category-card {
+    min-height: 260px;
+  }
+  .category-card .category-card-body {
+    padding: 18px 16px;
+  }
+
+  /* Even grid card sizes on narrow screens */
+  .grid,
+  [style*="repeat(auto-fit"] {
+    grid-auto-rows: auto;
+  }
+
+  /* Sticky bottom bar sits above content, not over it */
+  body.has-sticky-bar {
+    padding-bottom: 60px;
+  }
+}
+
+@media (max-width: 375px) {
+  .hero-section .hero-content-card {
+    padding: 26px 18px !important;
+  }
+  .hero-section h1 {
+    font-size: clamp(24px, 7vw, 32px) !important;
+  }
+  .category-card {
+    min-height: 240px;
+  }
+}
+/* ── END MOBILE ASPECT-RATIO FIXES ── */
 
 @keyframes wapulse {
   0%, 100% { box-shadow: 0 4px 20px rgba(37,211,102,0.45); }

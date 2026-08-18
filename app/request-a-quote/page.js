@@ -3,6 +3,7 @@
 import { useState } from 'react';
 import { useForm } from 'react-hook-form';
 import BlogCarousel from '@/components/BlogCarousel';
+import Reveal from '@/components/Reveal';
 import { useIsMobile } from '@/lib/useMediaQuery';
 import {
   MessageCircle, Phone, Mail, CheckCircle2,
@@ -235,9 +236,9 @@ export default function RequestQuotePage() {
       </section>
 
 {/* Main Form Section */}
-      <section style={{ padding: isMobile ? '48px 0' : '72px 0', background: 'linear-gradient(180deg, #1A1A1A 0%, #0D2847 100%)' }}>
+      <section style={{ padding: isMobile ? '48px 0' : '64px 0', background: 'linear-gradient(180deg, #1A1A1A 0%, #0D2847 100%)' }}>
         <div className="container-custom" style={{ maxWidth: 1140, margin: '0 auto' }}>
-          <div style={{ display: 'grid', gridTemplateColumns: isMobile ? '1fr' : '1fr 1fr', gap: isMobile ? '32px' : '48px', alignItems: 'start' }}>
+          <Reveal style={{ display: 'grid', gridTemplateColumns: isMobile ? '1fr' : '1fr 1fr', gap: isMobile ? '32px' : '48px', alignItems: 'start' }}>
             {/* Left: Form */}
             <div style={{ ...glassCardStyle, padding: isMobile ? '28px 20px' : '40px 36px' }}>
               <h2 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 24, color: '#1A1A1A', marginBottom: 6 }}>
@@ -366,9 +367,9 @@ export default function RequestQuotePage() {
                     <span key={cert} style={{ padding: '6px 12px', borderRadius: 999, border: '1.5px solid rgba(13,71,161,0.2)', background: 'rgba(13,71,161,0.06)', fontSize: 11, fontWeight: 700, color: '#1A1A1A' }}>{cert}</span>
                   ))}
                 </div>
-              </div>
+</div>
             </div>
-          </div>
+          </Reveal>
         </div>
       </section>
 

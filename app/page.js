@@ -8,6 +8,8 @@ import ServiceCard from '@/components/ServiceCard';
 import BlogCarousel from '@/components/BlogCarousel';
 import CertificationSection from '@/components/CertificationSection';
 import WhyProTech from '@/components/WhyProTech';
+import CategoryShowcase from '@/components/CategoryShowcase';
+import Reveal from '@/components/Reveal';
 import { services } from '@/data/services';
 import { siteFAQs } from '@/data/faqs';
 import Link from 'next/link';
@@ -145,7 +147,7 @@ Please send me a detailed quotation. Thank you.`;
     <div>
       <Hero />
 
-      {/* Stats Bar */}
+{/* Stats Bar */}
       <div style={{ background: '#0D47A1' }}>
         <div className="container-custom">
           <div className="stats-grid" style={{ display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: 0 }}>
@@ -155,10 +157,12 @@ Please send me a detailed quotation. Thank you.`;
               { value: '47', label: 'Counties Covered' },
               { value: '24/7', label: 'Client Support' },
             ].map((s, i) => (
-              <div key={i} style={{ padding: '28px 24px', textAlign: 'center', borderRight: i < 3 ? '1px solid rgba(255,255,255,0.12)' : 'none' }}>
-                <div style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 800, fontSize: 34, color: '#fff', lineHeight: 1 }}>{s.value}</div>
-                <div style={{ fontSize: 13, color: 'rgba(255,255,255,0.7)', marginTop: 4, fontWeight: 500 }}>{s.label}</div>
-              </div>
+              <Reveal key={i} variant="fadeIn" delay={i * 100}>
+                <div style={{ padding: '24px 20px', textAlign: 'center', borderRight: i < 3 ? '1px solid rgba(255,255,255,0.12)' : 'none' }}>
+                  <div style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 800, fontSize: 30, color: '#fff', lineHeight: 1 }}>{s.value}</div>
+                  <div style={{ fontSize: 13, color: 'rgba(255,255,255,0.7)', marginTop: 4, fontWeight: 500 }}>{s.label}</div>
+                </div>
+              </Reveal>
             ))}
           </div>
         </div>
@@ -181,25 +185,30 @@ Please send me a detailed quotation. Thank you.`;
       {/* Services Grid */}
       <section className="section-padding" style={{ background: '#F5F7FA' }} id="services">
         <div className="container-custom">
-          <div style={{ textAlign: 'center', marginBottom: 56 }}>
+          <Reveal style={{ textAlign: 'center', marginBottom: 40 }}>
             <p style={{ fontSize: 13, fontWeight: 700, color: '#D4AF37', letterSpacing: '0.1em', textTransform: 'uppercase', marginBottom: 8 }}>What We Do</p>
             <h2 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 'clamp(26px, 3.5vw, 38px)', color: '#1A1A1A', marginBottom: 14 }}>Four Service Categories,<br />One Trusted Partner</h2>
             <p style={{ fontSize: 16, color: '#5A6C7D', maxWidth: 520, margin: '0 auto' }}>
               Every service is delivered by certified engineers with regulatory compliance built in from day one.
             </p>
-          </div>
+          </Reveal>
 
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: 24 }}>
             {featuredServices.map((svc, i) => (
-              <ServiceCard key={i} service={svc} variant="featured" />
+              <Reveal key={i} delay={(i % 3) * 100}>
+                <ServiceCard service={svc} variant="featured" />
+              </Reveal>
             ))}
           </div>
 
-          <div style={{ marginTop: 48, textAlign: 'center' }}>
+          <Reveal style={{ marginTop: 40, textAlign: 'center' }}>
             <Link href="/services" className="btn-cta" style={{ backdropFilter: 'blur(8px)' }}>Explore All Services <ArrowRight size={16} /></Link>
-          </div>
+          </Reveal>
         </div>
       </section>
+
+      {/* Category Showcase */}
+      <CategoryShowcase />
 
       {/* Why ProTech */}
       <WhyProTech />
@@ -207,7 +216,7 @@ Please send me a detailed quotation. Thank you.`;
       {/* Why Choose Us + Quote Form */}
       <section className="section-padding" style={{ position: 'relative', background: 'linear-gradient(135deg, #E8EBF0 0%, #F5F7FA 100%)' }}>
         <div className="container-custom">
-          <div className="grid-2col" style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 60, alignItems: 'start' }}>
+          <div className="grid-2col" style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 44, alignItems: 'start' }}>
             <div>
               <p style={{ fontSize: 13, fontWeight: 600, color: '#D4AF37', letterSpacing: '0.1em', textTransform: 'uppercase', marginBottom: 8 }}>Why ProTech</p>
               <h2 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 'clamp(26px, 3vw, 36px)', color: '#1A1A1A', marginBottom: 16 }}>Built on Certification, Delivered with Accountability</h2>
@@ -417,13 +426,14 @@ Please send me a detailed quotation. Thank you.`;
       <section className="section-padding" style={{ position: 'relative', background: 'linear-gradient(135deg, #F5F7FA 0%, #E8EBF0 100%)' }}>
         <div style={{ position: 'absolute', inset: 0, backgroundImage: 'radial-gradient(circle at 20% 30%, rgba(13,71,161,0.08) 0%, transparent 50%), radial-gradient(circle at 80% 70%, rgba(212,175,55,0.06) 0%, transparent 50%)' }} />
         <div className="container-custom" style={{ position: 'relative' }}>
-          <div style={{ textAlign: 'center', marginBottom: 56 }}>
+          <div style={{ textAlign: 'center', marginBottom: 48 }}>
             <p style={{ fontSize: 13, fontWeight: 600, color: '#D4AF37', letterSpacing: '0.1em', textTransform: 'uppercase', marginBottom: 8 }}>Client Stories</p>
             <h2 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 'clamp(26px, 3.5vw, 38px)', color: '#1A1A1A' }}>What Our Clients Say</h2>
           </div>
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: 24 }}>
             {TESTIMONIALS.map((t, i) => (
-              <div key={i} style={{ ...glass, padding: 32, display: 'flex', flexDirection: 'column', gap: 16 }}>
+              <Reveal key={i} delay={i * 100} variant="scaleIn">
+                <div style={{ ...glass, padding: 28, display: 'flex', flexDirection: 'column', gap: 16, height: '100%' }}>
                 <span style={{ display: 'flex', gap: 2 }}>
                   {Array.from({ length: t.rating }).map((_, j) => (
                     <Star key={j} size={14} fill="#D4AF37" color="#D4AF37" />
@@ -434,12 +444,13 @@ Please send me a detailed quotation. Thank you.`;
                   <div style={{ width: 44, height: 44, borderRadius: '50%', background: 'rgba(13, 71, 161, 0.1)', backdropFilter: 'blur(4px)', display: 'flex', alignItems: 'center', justifyContent: 'center', fontFamily: "'Poppins', sans-serif", fontWeight: 700, fontSize: 16, color: '#0D47A1', border: '1px solid rgba(13, 71, 161, 0.2)' }}>
                     {t.name.charAt(0)}
                   </div>
-                  <div>
+<div>
                     <div style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 600, fontSize: 14, color: '#1A1A1A' }}>{t.name}</div>
                     <div style={{ fontSize: 12, color: '#64748B' }}>{t.role} - {t.location}</div>
                   </div>
                 </div>
-              </div>
+                </div>
+              </Reveal>
             ))}
           </div>
         </div>
@@ -484,7 +495,7 @@ Please send me a detailed quotation. Thank you.`;
       <FAQ faqs={siteFAQs} />
 
       {/* Final CTA */}
-      <section style={{ position: 'relative', overflow: 'hidden', padding: '80px 0' }}>
+      <section style={{ position: 'relative', overflow: 'hidden', padding: '64px 0' }}>
         <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(135deg, #1A1A1A 0%, #0D47A1 100%)' }} />
         <div style={{ position: 'absolute', inset: 0, backgroundImage: 'radial-gradient(circle at 80% 50%, rgba(212,175,55,0.3) 0%, transparent 60%)' }} />
         <div className="container-custom" style={{ position: 'relative', textAlign: 'center' }}>

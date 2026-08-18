@@ -2,6 +2,7 @@
 
 import Link from 'next/link';
 import { Layers, ShieldCheck, MapPin, PackageCheck, IndianRupee, LifeBuoy, ArrowRight } from 'lucide-react';
+import Reveal from './Reveal';
 
 const POINTS = [
   {
@@ -40,7 +41,7 @@ export default function WhyProTech() {
   return (
     <section className="section-padding" style={{ background: '#ffffff' }}>
       <div className="container-custom">
-        <div style={{ textAlign: 'center', maxWidth: 720, margin: '0 auto 60px' }}>
+        <Reveal style={{ textAlign: 'center', maxWidth: 720, margin: '0 auto 48px' }}>
           <p style={{ fontSize: 13, fontWeight: 700, color: '#D4AF37', letterSpacing: '0.1em', textTransform: 'uppercase', marginBottom: 10 }}>
             Why ProTech
           </p>
@@ -50,36 +51,39 @@ export default function WhyProTech() {
           <p style={{ fontSize: 16, color: '#5A6C7D', lineHeight: 1.7 }}>
             We don&apos;t just deliver services — we build lasting partnerships through expertise, transparency, and accountability.
           </p>
-        </div>
+        </Reveal>
 
         <div style={{
           display: 'grid',
           gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))',
           gap: 24,
         }}>
-          {POINTS.map(({ icon: Icon, title, description }) => (
-            <div key={title} className="bg-white" style={{
-              borderRadius: 12,
-              border: '1px solid #E8EBF0',
-              padding: '32px 24px',
-              display: 'flex',
-              flexDirection: 'column',
-              transition: 'box-shadow 0.3s, transform 0.3s',
-            }} onMouseEnter={e => { e.currentTarget.style.boxShadow = '0 12px 32px rgba(106,27,154,0.15)'; e.currentTarget.style.transform = 'translateY(-3px)'; }} onMouseLeave={e => { e.currentTarget.style.boxShadow = 'none'; e.currentTarget.style.transform = 'translateY(0)'; }}>
-              <div style={{ width: 48, height: 48, borderRadius: 12, background: 'rgba(106,27,154,0.08)', border: '1px solid rgba(106,27,154,0.15)', display: 'flex', alignItems: 'center', justifyContent: 'center', marginBottom: 16 }}>
-                <Icon size={24} style={{ color: '#6A1B9A' }} strokeWidth={2} />
+          {POINTS.map(({ icon: Icon, title, description }, idx) => (
+            <Reveal key={title} delay={(idx % 3) * 100}>
+              <div className="bg-white" style={{
+                borderRadius: 12,
+                border: '1px solid #E8EBF0',
+                padding: '28px 24px',
+                display: 'flex',
+                flexDirection: 'column',
+                height: '100%',
+                transition: 'box-shadow 0.3s, transform 0.3s',
+              }} onMouseEnter={e => { e.currentTarget.style.boxShadow = '0 12px 32px rgba(106,27,154,0.15)'; e.currentTarget.style.transform = 'translateY(-3px)'; }} onMouseLeave={e => { e.currentTarget.style.boxShadow = 'none'; e.currentTarget.style.transform = 'translateY(0)'; }}>
+                <div style={{ width: 48, height: 48, borderRadius: 12, background: 'rgba(106,27,154,0.08)', border: '1px solid rgba(106,27,154,0.15)', display: 'flex', alignItems: 'center', justifyContent: 'center', marginBottom: 16 }}>
+                  <Icon size={24} style={{ color: '#6A1B9A' }} strokeWidth={2} />
+                </div>
+                <h3 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 600, fontSize: 18, color: '#1A1A1A', marginBottom: 8 }}>
+                  {title}
+                </h3>
+                <p style={{ fontSize: 14.5, color: '#5A6C7D', lineHeight: 1.65 }}>
+                  {description}
+                </p>
               </div>
-              <h3 style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 600, fontSize: 18, color: '#1A1A1A', marginBottom: 8 }}>
-                {title}
-              </h3>
-              <p style={{ fontSize: 14.5, color: '#5A6C7D', lineHeight: 1.65 }}>
-                {description}
-              </p>
-            </div>
+            </Reveal>
           ))}
         </div>
 
-        <div style={{ textAlign: 'center', marginTop: 44 }}>
+        <Reveal style={{ textAlign: 'center', marginTop: 40 }}>
           <Link href="/services" style={{
             display: 'inline-flex',
             alignItems: 'center',
@@ -95,7 +99,7 @@ export default function WhyProTech() {
           }}>
             Explore All Services <ArrowRight size={15} />
           </Link>
-        </div>
+        </Reveal>
       </div>
     </section>
   );

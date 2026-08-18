@@ -1,7 +1,14 @@
 'use client';
 
 import Link from 'next/link';
-import { ArrowRight, ShieldCheck, BadgeCheck, Award, FileCheck2 } from 'lucide-react';
+import { ArrowRight, ShieldCheck, Award, FileCheck2, BadgeCheck } from 'lucide-react';
+
+const IMAGES = [
+  '/protech-img/construction-civil-engineering/construction-civil-engineering_1.jpg',
+  '/protech-img/solar-power-renewable-energy/solar-power-renewable-energy_1.jpg',
+  '/protech-img/borehole-drilling-water-services/borehole-drilling-water-services_1.jpg',
+  '/protech-img/security-systems-physical-security/security-systems-physical-security_1.jpg',
+];
 
 const TRUST_BADGES = [
   { icon: ShieldCheck, label: 'NCA Certified' },
@@ -12,37 +19,54 @@ const TRUST_BADGES = [
 
 export default function Hero() {
   return (
-    <section className="hero-section safe-area-top safe-area-bottom" style={{ position: 'relative', minHeight: '100vh', display: 'flex', alignItems: 'center', overflow: 'hidden', background: '#1A1A1A' }}>
+    <section className="hero-section safe-area-top" style={{ position: 'relative', display: 'flex', alignItems: 'center', overflow: 'hidden', background: '#1A1A1A' }}>
+      {IMAGES.map((src) => (
+        <img
+          key={src}
+          src={src}
+          alt=""
+          style={{
+            position: 'absolute',
+            inset: 0,
+            width: '100%',
+            height: '100%',
+            objectFit: 'cover',
+            opacity: 0.35,
+          }}
+          aria-hidden="true"
+        />
+      ))}
+
+      {/* Brand gradient overlay */}
       <div style={{
         position: 'absolute',
         inset: 0,
-        background: 'linear-gradient(135deg, #0D47A1 0%, #1A1A1A 100%)',
+        background: 'linear-gradient(120deg, rgba(13,71,161,0.92) 0%, rgba(26,26,26,0.7) 55%, rgba(26,26,26,0.55) 100%)',
       }} />
 
-      {/* Subtle gold accent glow */}
+      {/* Gold accent glow */}
       <div style={{
         position: 'absolute',
-        top: '10%',
-        right: '-10%',
-        width: 420,
-        height: 420,
+        top: '8%',
+        right: '-8%',
+        width: 380,
+        height: 380,
         borderRadius: '50%',
-        background: 'radial-gradient(circle, rgba(212,175,55,0.18) 0%, rgba(212,175,55,0) 70%)',
-        pointerEvents: 'none',
-      }} />
-      <div style={{
-        position: 'absolute',
-        bottom: '-15%',
-        left: '-8%',
-        width: 480,
-        height: 480,
-        borderRadius: '50%',
-        background: 'radial-gradient(circle, rgba(106,27,154,0.25) 0%, rgba(106,27,154,0) 70%)',
+        background: 'radial-gradient(circle, rgba(212,175,55,0.22) 0%, rgba(212,175,55,0) 70%)',
         pointerEvents: 'none',
       }} />
 
-      <div className="container-custom" style={{ position: 'relative', zIndex: 1, padding: 'var(--space-10) var(--space-6)', width: '100%' }}>
-        <div style={{ maxWidth: 680 }}>
+      <div className="container-custom" style={{ position: 'relative', zIndex: 1, padding: 'var(--space-8) var(--space-6)', width: '100%' }}>
+        <div className="hero-content-card" style={{
+          maxWidth: 620,
+          backdropFilter: 'blur(20px)',
+          WebkitBackdropFilter: 'blur(20px)',
+          background: 'rgba(255,255,255,0.08)',
+          border: '1px solid rgba(255,255,255,0.16)',
+          borderRadius: 20,
+          padding: 'var(--space-6) var(--space-5)',
+          boxShadow: '0 16px 48px rgba(0,0,0,0.3)',
+        }}>
           <div style={{
             display: 'inline-flex',
             alignItems: 'center',
@@ -50,46 +74,43 @@ export default function Hero() {
             background: 'rgba(212,175,55,0.12)',
             border: '1px solid rgba(212,175,55,0.35)',
             borderRadius: 999,
-            padding: '8px 18px',
-            marginBottom: 'var(--space-5)',
+            padding: '6px 16px',
+            marginBottom: 'var(--space-4)',
           }}>
             <span style={{ fontSize: 'var(--font-size-xs)', fontWeight: 700, color: '#D4AF37', letterSpacing: '0.08em', textTransform: 'uppercase' }}>
               Kenya&apos;s Premium Multi-Service Contractor
             </span>
           </div>
 
-          {/* Gold accent line */}
           <div style={{
-            width: 72,
+            width: 60,
             height: 4,
             borderRadius: 2,
             background: 'linear-gradient(90deg, #D4AF37, rgba(212,175,55,0.15))',
-            marginBottom: 'var(--space-5)',
+            marginBottom: 'var(--space-4)',
           }} />
 
           <h1 style={{
             fontFamily: "'Poppins', sans-serif",
             fontWeight: 800,
-            fontSize: 'clamp(28px, 5vw, 54px)',
-            lineHeight: 1.1,
+            fontSize: 'clamp(26px, 4.5vw, 48px)',
+            lineHeight: 1.12,
             color: '#fff',
-            marginBottom: 'var(--space-4)',
+            marginBottom: 'var(--space-3)',
           }}>
-            Built Right.<br />
-            Delivered <span style={{ color: '#D4AF37' }}>Once.</span><br />
-            Every Time.
+            Built Right. Delivered Once.<br />
+            <span style={{ color: '#D4AF37' }}>Every Time.</span>
           </h1>
 
           <p style={{
             fontSize: 'var(--font-size-lg)',
-            lineHeight: 1.7,
-            color: 'rgba(255,255,255,0.82)',
-            marginBottom: 'var(--space-6)',
-            maxWidth: 540,
+            lineHeight: 1.65,
+            color: 'rgba(255,255,255,0.85)',
+            marginBottom: 'var(--space-5)',
+            maxWidth: 520,
           }}>
             From construction and solar power to boreholes and security systems &mdash;
-            ProTech Consultants is Kenya&apos;s certified, accountable partner for every
-            engineering need. Four service categories. One standard of excellence.
+            one certified partner for every engineering need across Kenya.
           </p>
 
           <div style={{ display: 'flex', gap: 'var(--space-3)', flexWrap: 'wrap' }}>
@@ -103,7 +124,7 @@ export default function Hero() {
                 color: '#1A1A1A',
                 fontWeight: 700,
                 fontSize: 'var(--font-size-base)',
-                padding: 'var(--space-3) var(--space-5)',
+                padding: '14px 28px',
                 borderRadius: 10,
                 textDecoration: 'none',
                 transition: 'background 0.2s, transform 0.15s',
@@ -116,28 +137,27 @@ export default function Hero() {
             </Link>
           </div>
 
-          {/* Trust badges */}
           <div style={{
             display: 'flex',
-            gap: 'var(--space-3)',
+            gap: 'var(--space-2)',
             flexWrap: 'wrap',
-            marginTop: 'var(--space-6)',
+            marginTop: 'var(--space-5)',
             alignItems: 'center',
           }}>
             {TRUST_BADGES.map(({ icon: Icon, label }) => (
               <div key={label} style={{
                 display: 'inline-flex',
                 alignItems: 'center',
-                gap: 8,
-                background: 'rgba(255,255,255,0.07)',
+                gap: 7,
+                background: 'rgba(255,255,255,0.08)',
                 border: '1px solid rgba(255,255,255,0.14)',
                 borderRadius: 10,
-                padding: '10px 16px',
+                padding: '8px 14px',
                 backdropFilter: 'blur(12px)',
                 WebkitBackdropFilter: 'blur(12px)',
               }}>
-                <Icon size={16} color="#D4AF37" strokeWidth={2} />
-                <span style={{ fontSize: 'var(--font-size-xs)', fontWeight: 600, color: 'rgba(255,255,255,0.9)', letterSpacing: '0.04em' }}>
+                <Icon size={15} color="#D4AF37" strokeWidth={2} />
+                <span style={{ fontSize: 'var(--font-size-xs)', fontWeight: 600, color: 'rgba(255,255,255,0.92)', letterSpacing: '0.04em' }}>
                   {label}
                 </span>
               </div>
