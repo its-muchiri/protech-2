@@ -1,5 +1,5 @@
 ---
-title: 'How to Set Up a Medical Lab in Kenya: Buying Guide'
+title: 'BEST How to Set Up a Medical Lab in Kenya: Buying Guide'
 description: Kenya buying guide to how to set up a medical lab in Kenya. Learn what
   to consider, what it costs, and how to choose a reliable local supplier.
 slug: how-to-set-up-a-medical-lab-in-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 581
 status: draft
 ---
-# How to Set Up a Medical Lab in Kenya: Buying Guide
+# BEST How to Set Up a Medical Lab in Kenya: Buying Guide
 
 ## Introduction
 

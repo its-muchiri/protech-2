@@ -1,5 +1,5 @@
 ---
-title: 'Ophthalmology Instruments Kenya: Buying Guide'
+title: 'BEST Ophthalmology Instruments Kenya: Buying Guide'
 description: Kenya buying guide to ophthalmology instruments Kenya. Learn what to
   consider, what it costs, and how to choose a reliable local supplier.
 slug: ophthalmology-instruments-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# Ophthalmology Instruments Kenya: Buying Guide
+# BEST Ophthalmology Instruments Kenya: Buying Guide
 
 ## Introduction
 

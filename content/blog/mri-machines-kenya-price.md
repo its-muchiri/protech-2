@@ -1,5 +1,5 @@
 ---
-title: 'MRI Machines Kenya Price: 2026 Price Guide'
+title: 'BEST MRI Machines Kenya Price: 2026 Price Guide'
 description: Kenya buying guide to MRI machines Kenya price. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: mri-machines-kenya-price
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 570
 status: draft
 ---
-# MRI Machines Kenya Price: 2026 Price Guide
+# BEST MRI Machines Kenya Price: 2026 Price Guide
 
 ## Introduction
 

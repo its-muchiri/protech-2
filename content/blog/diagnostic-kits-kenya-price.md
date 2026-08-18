@@ -1,5 +1,5 @@
 ---
-title: 'Diagnostic Kits Kenya Price: 2026 Price Guide'
+title: 'BEST Diagnostic Kits Kenya Price: 2026 Price Guide'
 description: Kenya buying guide to diagnostic kits Kenya price. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: diagnostic-kits-kenya-price
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 567
 status: draft
 ---
-# Diagnostic Kits Kenya Price: 2026 Price Guide
+# BEST Diagnostic Kits Kenya Price: 2026 Price Guide
 
 ## Introduction
 

@@ -1,5 +1,5 @@
 ---
-title: 'Medical Device Regulations Kenya Kebs: Buying Guide'
+title: 'BEST Medical Device Regulations Kenya Kebs: Buying Guide'
 description: Kenya buying guide to medical device regulations Kenya KEBS. Learn what
   to consider, what it costs, and how to choose a reliable local supplier.
 slug: medical-device-regulations-kenya-kebs
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 569
 status: draft
 ---
-# Medical Device Regulations Kenya Kebs: Buying Guide
+# BEST Medical Device Regulations Kenya Kebs: Buying Guide
 
 ## Introduction
 

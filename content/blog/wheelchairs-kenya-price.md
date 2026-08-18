@@ -1,5 +1,5 @@
 ---
-title: 'Wheelchairs Kenya Price: 2026 Price Guide'
+title: 'BEST Wheelchairs Kenya Price: 2026 Price Guide'
 description: Kenya buying guide to wheelchairs Kenya price. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: wheelchairs-kenya-price
@@ -11,7 +11,7 @@ style_batch: 2
 word_count: 564
 status: draft
 ---
-# Wheelchairs Kenya Price: 2026 Price Guide
+# BEST Wheelchairs Kenya Price: 2026 Price Guide
 
 ## Introduction
 

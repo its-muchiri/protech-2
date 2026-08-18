@@ -1,5 +1,5 @@
 ---
-title: 'Infusion Pumps Kenya Price: 2026 Price Guide'
+title: 'BEST Infusion Pumps Kenya Price: 2026 Price Guide'
 description: Kenya buying guide to infusion pumps Kenya price. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: infusion-pumps-kenya-price
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 567
 status: draft
 ---
-# Infusion Pumps Kenya Price: 2026 Price Guide
+# BEST Infusion Pumps Kenya Price: 2026 Price Guide
 
 ## Introduction
 

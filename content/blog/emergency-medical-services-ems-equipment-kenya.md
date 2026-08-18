@@ -1,5 +1,5 @@
 ---
-title: 'Emergency Medical Services (ems) Equipment Kenya: Buying Guide'
+title: 'BEST Emergency Medical Services (ems) Equipment Kenya: Buying Guide'
 description: Kenya buying guide to emergency medical services (EMS) equipment Kenya.
   Learn what to consider, what it costs, and how to choose a reliable local supplier.
 slug: emergency-medical-services-ems-equipment-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 572
 status: draft
 ---
-# Emergency Medical Services (ems) Equipment Kenya: Buying Guide
+# BEST Emergency Medical Services (ems) Equipment Kenya: Buying Guide
 
 ## Introduction
 

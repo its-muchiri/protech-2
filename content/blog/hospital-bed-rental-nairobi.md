@@ -1,5 +1,5 @@
 ---
-title: 'Hospital Bed Rental Nairobi: Buying Guide'
+title: 'BEST Hospital Bed Rental Nairobi: Buying Guide'
 description: Kenya buying guide to hospital bed rental Nairobi. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: hospital-bed-rental-nairobi
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 566
 status: draft
 ---
-# Hospital Bed Rental Nairobi: Buying Guide
+# BEST Hospital Bed Rental Nairobi: Buying Guide
 
 ## Introduction
 

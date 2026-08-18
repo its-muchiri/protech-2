@@ -1,5 +1,5 @@
 ---
-title: 'Infant Warmers Kenya: Buying Guide'
+title: 'BEST Infant Warmers Kenya: Buying Guide'
 description: Kenya buying guide to infant warmers Kenya. Learn what to consider, what
   it costs, and how to choose a reliable local supplier.
 slug: infant-warmers-kenya
@@ -13,7 +13,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# Infant Warmers Kenya: Buying Guide
+# BEST Infant Warmers Kenya: Buying Guide
 
 ## Introduction
 

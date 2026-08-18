@@ -1,5 +1,5 @@
 ---
-title: 'Medical Supply Companies Nairobi: Buying Guide'
+title: 'BEST Medical Supply Companies Nairobi: Buying Guide'
 description: Kenya buying guide to medical supply companies Nairobi. Learn what to
   consider, what it costs, and how to choose a reliable local supplier.
 slug: medical-supply-companies-nairobi
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 566
 status: draft
 ---
-# Medical Supply Companies Nairobi: Buying Guide
+# BEST Medical Supply Companies Nairobi: Buying Guide
 
 ## Introduction
 

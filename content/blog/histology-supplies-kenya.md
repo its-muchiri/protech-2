@@ -1,5 +1,5 @@
 ---
-title: 'Histology Supplies Kenya: Buying Guide'
+title: 'BEST Histology Supplies Kenya: Buying Guide'
 description: Kenya buying guide to histology supplies Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: histology-supplies-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# Histology Supplies Kenya: Buying Guide
+# BEST Histology Supplies Kenya: Buying Guide
 
 ## Introduction
 

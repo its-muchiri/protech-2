@@ -1,5 +1,5 @@
 ---
-title: 'First Aid Kit for Car Kenya: Buying Guide'
+title: 'BEST First Aid Kit for Car Kenya: Buying Guide'
 description: Kenya buying guide to first aid kit for car Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: first-aid-kit-for-car-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 572
 status: draft
 ---
-# First Aid Kit for Car Kenya: Buying Guide
+# BEST First Aid Kit for Car Kenya: Buying Guide
 
 ## Introduction
 

@@ -1,5 +1,5 @@
 ---
-title: 'Mechanical Ventilator Kenya: Buying Guide'
+title: 'BEST Mechanical Ventilator Kenya: Buying Guide'
 description: Kenya buying guide to mechanical ventilator Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: mechanical-ventilator-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 566
 status: draft
 ---
-# Mechanical Ventilator Kenya: Buying Guide
+# BEST Mechanical Ventilator Kenya: Buying Guide
 
 ## Introduction
 

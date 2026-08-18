@@ -1,5 +1,5 @@
 ---
-title: 'Crutches Rental Kenya: Buying Guide'
+title: 'BEST Crutches Rental Kenya: Buying Guide'
 description: Kenya buying guide to crutches rental Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: crutches-rental-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# Crutches Rental Kenya: Buying Guide
+# BEST Crutches Rental Kenya: Buying Guide
 
 ## Introduction
 

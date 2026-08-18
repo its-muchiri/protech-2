@@ -1,5 +1,5 @@
 ---
-title: 'Surgical Supplies Kenya: Buying Guide'
+title: 'BEST Surgical Supplies Kenya: Buying Guide'
 description: Kenya buying guide to surgical supplies Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: surgical-supplies-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# Surgical Supplies Kenya: Buying Guide
+# BEST Surgical Supplies Kenya: Buying Guide
 
 ## Introduction
 

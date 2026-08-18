@@ -1,5 +1,5 @@
 ---
-title: 'Ent Equipment Kenya: Buying Guide'
+title: 'BEST Ent Equipment Kenya: Buying Guide'
 description: Kenya buying guide to ENT equipment Kenya. Learn what to consider, what
   it costs, and how to choose a reliable local supplier.
 slug: ent-equipment-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# Ent Equipment Kenya: Buying Guide
+# BEST Ent Equipment Kenya: Buying Guide
 
 ## Introduction
 

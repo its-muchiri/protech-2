@@ -1,5 +1,5 @@
 ---
-title: 'Diabetic Socks Kenya: Buying Guide'
+title: 'BEST Diabetic Socks Kenya: Buying Guide'
 description: Kenya buying guide to diabetic socks Kenya. Learn what to consider, what
   it costs, and how to choose a reliable local supplier.
 slug: diabetic-socks-kenya
@@ -15,7 +15,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# Diabetic Socks Kenya: Buying Guide
+# BEST Diabetic Socks Kenya: Buying Guide
 
 ## Introduction
 

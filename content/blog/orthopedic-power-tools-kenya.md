@@ -1,5 +1,5 @@
 ---
-title: 'Orthopedic Power Tools Kenya: Buying Guide'
+title: 'BEST Orthopedic Power Tools Kenya: Buying Guide'
 description: Kenya buying guide to orthopedic power tools Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: orthopedic-power-tools-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 566
 status: draft
 ---
-# Orthopedic Power Tools Kenya: Buying Guide
+# BEST Orthopedic Power Tools Kenya: Buying Guide
 
 ## Introduction
 

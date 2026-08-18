@@ -1,5 +1,5 @@
 ---
-title: 'Medical Equipment for Ambulances Kenya: Buying Guide'
+title: 'BEST Medical Equipment for Ambulances Kenya: Buying Guide'
 description: Kenya buying guide to medical equipment for ambulances Kenya. Learn what
   to consider, what it costs, and how to choose a reliable local supplier.
 slug: medical-equipment-for-ambulances-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 569
 status: draft
 ---
-# Medical Equipment for Ambulances Kenya: Buying Guide
+# BEST Medical Equipment for Ambulances Kenya: Buying Guide
 
 ## Introduction
 

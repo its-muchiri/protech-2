@@ -1,5 +1,5 @@
 ---
-title: 'Examination Tables Kenya Price: 2026 Price Guide'
+title: 'BEST Examination Tables Kenya Price: 2026 Price Guide'
 description: Kenya buying guide to examination tables Kenya price. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: examination-tables-kenya-price
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 567
 status: draft
 ---
-# Examination Tables Kenya Price: 2026 Price Guide
+# BEST Examination Tables Kenya Price: 2026 Price Guide
 
 ## Introduction
 

@@ -1,5 +1,5 @@
 ---
-title: 'Eye Clinic Equipment Kenya: Buying Guide'
+title: 'BEST Eye Clinic Equipment Kenya: Buying Guide'
 description: Kenya buying guide to eye clinic equipment Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: eye-clinic-equipment-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 566
 status: draft
 ---
-# Eye Clinic Equipment Kenya: Buying Guide
+# BEST Eye Clinic Equipment Kenya: Buying Guide
 
 ## Introduction
 

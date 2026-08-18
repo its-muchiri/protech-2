@@ -1,5 +1,5 @@
 ---
-title: 'Surgical Instruments Kenya Sets: Buying Guide'
+title: 'BEST Surgical Instruments Kenya Sets: Buying Guide'
 description: Kenya buying guide to surgical instruments Kenya sets. Learn what to
   consider, what it costs, and how to choose a reliable local supplier.
 slug: surgical-instruments-kenya-sets
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 566
 status: draft
 ---
-# Surgical Instruments Kenya Sets: Buying Guide
+# BEST Surgical Instruments Kenya Sets: Buying Guide
 
 ## Introduction
 

@@ -1,5 +1,5 @@
 ---
-title: 'Surgical Lights Kenya: Buying Guide'
+title: 'BEST Surgical Lights Kenya: Buying Guide'
 description: Kenya buying guide to surgical lights Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: surgical-lights-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# Surgical Lights Kenya: Buying Guide
+# BEST Surgical Lights Kenya: Buying Guide
 
 ## Introduction
 

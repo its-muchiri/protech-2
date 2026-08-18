@@ -1,5 +1,5 @@
 ---
-title: 'Accredited Medical Suppliers Kenya: Buying Guide'
+title: 'BEST Accredited Medical Suppliers Kenya: Buying Guide'
 description: Kenya buying guide to accredited medical suppliers Kenya. Learn what
   to consider, what it costs, and how to choose a reliable local supplier.
 slug: accredited-medical-suppliers-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 566
 status: draft
 ---
-# Accredited Medical Suppliers Kenya: Buying Guide
+# BEST Accredited Medical Suppliers Kenya: Buying Guide
 
 ## Introduction
 

@@ -1,5 +1,5 @@
 ---
-title: 'Hiv Test Kit Kenya: Buying Guide'
+title: 'BEST Hiv Test Kit Kenya: Buying Guide'
 description: Kenya buying guide to HIV test kit Kenya. Learn what to consider, what
   it costs, and how to choose a reliable local supplier.
 slug: hiv-test-kit-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 566
 status: draft
 ---
-# Hiv Test Kit Kenya: Buying Guide
+# BEST Hiv Test Kit Kenya: Buying Guide
 
 ## Introduction
 

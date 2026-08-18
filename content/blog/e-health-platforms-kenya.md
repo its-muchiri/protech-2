@@ -1,5 +1,5 @@
 ---
-title: 'E-health Platforms Kenya: Buying Guide'
+title: 'BEST E-health Platforms Kenya: Buying Guide'
 description: Kenya buying guide to e-health platforms Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: e-health-platforms-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# E-health Platforms Kenya: Buying Guide
+# BEST E-health Platforms Kenya: Buying Guide
 
 ## Introduction
 

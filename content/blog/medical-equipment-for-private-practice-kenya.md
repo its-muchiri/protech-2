@@ -1,5 +1,5 @@
 ---
-title: 'Medical Equipment for Private Practice Kenya: Buying Guide'
+title: 'BEST Medical Equipment for Private Practice Kenya: Buying Guide'
 description: Kenya buying guide to medical equipment for private practice Kenya. Learn
   what to consider, what it costs, and how to choose a reliable local supplier.
 slug: medical-equipment-for-private-practice-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 572
 status: draft
 ---
-# Medical Equipment for Private Practice Kenya: Buying Guide
+# BEST Medical Equipment for Private Practice Kenya: Buying Guide
 
 ## Introduction
 

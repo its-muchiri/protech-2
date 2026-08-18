@@ -1,5 +1,5 @@
 ---
-title: 'Hospital Supplies Thika: Buying Guide'
+title: 'BEST Hospital Supplies Thika: Buying Guide'
 description: Kenya buying guide to hospital supplies Thika. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: hospital-supplies-thika
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# Hospital Supplies Thika: Buying Guide
+# BEST Hospital Supplies Thika: Buying Guide
 
 ## Introduction
 

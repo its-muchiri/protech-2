@@ -1,5 +1,5 @@
 ---
-title: 'Rehabilitation Aids Kenya: Buying Guide'
+title: 'BEST Rehabilitation Aids Kenya: Buying Guide'
 description: Kenya buying guide to rehabilitation aids Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: rehabilitation-aids-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# Rehabilitation Aids Kenya: Buying Guide
+# BEST Rehabilitation Aids Kenya: Buying Guide
 
 ## Introduction
 

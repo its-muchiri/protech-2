@@ -1,5 +1,5 @@
 ---
-title: 'Cholesterol Test Kit Kenya: Buying Guide'
+title: 'BEST Cholesterol Test Kit Kenya: Buying Guide'
 description: Kenya buying guide to cholesterol test kit Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: cholesterol-test-kit-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 566
 status: draft
 ---
-# Cholesterol Test Kit Kenya: Buying Guide
+# BEST Cholesterol Test Kit Kenya: Buying Guide
 
 ## Introduction
 

@@ -1,5 +1,5 @@
 ---
-title: 'Medical Supplies Kenya: Buying Guide'
+title: 'BEST Medical Supplies Kenya: Buying Guide'
 description: Kenya buying guide to medical supplies Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: medical-supplies-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# Medical Supplies Kenya: Buying Guide
+# BEST Medical Supplies Kenya: Buying Guide
 
 ## Introduction
 

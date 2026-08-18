@@ -1,5 +1,5 @@
 ---
-title: 'Medical Device Calibration Services Kenya: Buying Guide'
+title: 'BEST Medical Device Calibration Services Kenya: Buying Guide'
 description: Kenya buying guide to medical device calibration services Kenya. Learn
   what to consider, what it costs, and how to choose a reliable local supplier.
 slug: medical-device-calibration-services-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 569
 status: draft
 ---
-# Medical Device Calibration Services Kenya: Buying Guide
+# BEST Medical Device Calibration Services Kenya: Buying Guide
 
 ## Introduction
 

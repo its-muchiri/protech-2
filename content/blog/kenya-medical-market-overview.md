@@ -1,5 +1,5 @@
 ---
-title: 'Kenya Medical Market Overview: Buying Guide'
+title: 'BEST Kenya Medical Market Overview: Buying Guide'
 description: Kenya buying guide to Kenya medical market overview. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: kenya-medical-market-overview
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 566
 status: draft
 ---
-# Kenya Medical Market Overview: Buying Guide
+# BEST Kenya Medical Market Overview: Buying Guide
 
 ## Introduction
 

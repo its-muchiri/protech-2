@@ -1,5 +1,5 @@
 ---
-title: 'Public Hospital Equipment Kenya: Buying Guide'
+title: 'BEST Public Hospital Equipment Kenya: Buying Guide'
 description: Kenya buying guide to public hospital equipment Kenya. Learn what to
   consider, what it costs, and how to choose a reliable local supplier.
 slug: public-hospital-equipment-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 566
 status: draft
 ---
-# Public Hospital Equipment Kenya: Buying Guide
+# BEST Public Hospital Equipment Kenya: Buying Guide
 
 ## Introduction
 

@@ -1,5 +1,5 @@
 ---
-title: 'X-ray Machines Kenya Price: 2026 Price Guide'
+title: 'BEST X-ray Machines Kenya Price: 2026 Price Guide'
 description: Kenya buying guide to X-ray machines Kenya price. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: x-ray-machines-kenya-price
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 570
 status: draft
 ---
-# X-ray Machines Kenya Price: 2026 Price Guide
+# BEST X-ray Machines Kenya Price: 2026 Price Guide
 
 ## Introduction
 

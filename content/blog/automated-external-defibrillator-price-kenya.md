@@ -1,5 +1,5 @@
 ---
-title: 'Automated External Defibrillator Price Kenya: 2026 Price Guide'
+title: 'BEST Automated External Defibrillator Price Kenya: 2026 Price Guide'
 description: Kenya buying guide to automated external defibrillator price Kenya. Learn
   what to consider, what it costs, and how to choose a reliable local supplier.
 slug: automated-external-defibrillator-price-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 573
 status: draft
 ---
-# Automated External Defibrillator Price Kenya: 2026 Price Guide
+# BEST Automated External Defibrillator Price Kenya: 2026 Price Guide
 
 ## Introduction
 

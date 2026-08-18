@@ -1,5 +1,5 @@
 ---
-title: 'Medical Grade Fridges Kenya: Buying Guide'
+title: 'BEST Medical Grade Fridges Kenya: Buying Guide'
 description: Kenya buying guide to medical grade fridges Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: medical-grade-fridges-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 566
 status: draft
 ---
-# Medical Grade Fridges Kenya: Buying Guide
+# BEST Medical Grade Fridges Kenya: Buying Guide
 
 ## Introduction
 

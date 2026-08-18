@@ -1,5 +1,5 @@
 ---
-title: 'Second Hand Medical Equipment Kenya: Buying Guide'
+title: 'BEST Second Hand Medical Equipment Kenya: Buying Guide'
 description: Kenya buying guide to second hand medical equipment Kenya. Learn what
   to consider, what it costs, and how to choose a reliable local supplier.
 slug: second-hand-medical-equipment-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 569
 status: draft
 ---
-# Second Hand Medical Equipment Kenya: Buying Guide
+# BEST Second Hand Medical Equipment Kenya: Buying Guide
 
 ## Introduction
 

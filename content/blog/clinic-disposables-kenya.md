@@ -1,5 +1,5 @@
 ---
-title: 'Clinic Disposables Kenya: Buying Guide'
+title: 'BEST Clinic Disposables Kenya: Buying Guide'
 description: Kenya buying guide to clinic disposables Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: clinic-disposables-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# Clinic Disposables Kenya: Buying Guide
+# BEST Clinic Disposables Kenya: Buying Guide
 
 ## Introduction
 

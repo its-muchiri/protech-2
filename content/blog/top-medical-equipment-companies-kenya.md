@@ -1,5 +1,5 @@
 ---
-title: 'Top Medical Equipment Companies Kenya: Buying Guide'
+title: 'BEST Top Medical Equipment Companies Kenya: Buying Guide'
 description: Kenya buying guide to top medical equipment companies Kenya. Learn what
   to consider, what it costs, and how to choose a reliable local supplier.
 slug: top-medical-equipment-companies-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 569
 status: draft
 ---
-# Top Medical Equipment Companies Kenya: Buying Guide
+# BEST Top Medical Equipment Companies Kenya: Buying Guide
 
 ## Introduction
 

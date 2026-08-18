@@ -1,5 +1,5 @@
 ---
-title: 'Clinic Equipment Kenya: Buying Guide'
+title: 'BEST Clinic Equipment Kenya: Buying Guide'
 description: Kenya buying guide to clinic equipment Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: clinic-equipment-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# Clinic Equipment Kenya: Buying Guide
+# BEST Clinic Equipment Kenya: Buying Guide
 
 ## Introduction
 

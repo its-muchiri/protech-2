@@ -1,5 +1,5 @@
 ---
-title: 'Hematology Analyzers Kenya: Buying Guide'
+title: 'BEST Hematology Analyzers Kenya: Buying Guide'
 description: Kenya buying guide to hematology analyzers Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: hematology-analyzers-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# Hematology Analyzers Kenya: Buying Guide
+# BEST Hematology Analyzers Kenya: Buying Guide
 
 ## Introduction
 

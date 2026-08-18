@@ -1,5 +1,5 @@
 ---
-title: 'Lab Test Kit Suppliers Kenya: Buying Guide'
+title: 'BEST Lab Test Kit Suppliers Kenya: Buying Guide'
 description: Kenya buying guide to lab test kit suppliers Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: lab-test-kit-suppliers-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 569
 status: draft
 ---
-# Lab Test Kit Suppliers Kenya: Buying Guide
+# BEST Lab Test Kit Suppliers Kenya: Buying Guide
 
 ## Introduction
 

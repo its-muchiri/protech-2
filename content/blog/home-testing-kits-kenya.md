@@ -1,5 +1,5 @@
 ---
-title: 'Home Testing Kits Kenya: Buying Guide'
+title: 'BEST Home Testing Kits Kenya: Buying Guide'
 description: Kenya buying guide to home testing kits Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: home-testing-kits-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 566
 status: draft
 ---
-# Home Testing Kits Kenya: Buying Guide
+# BEST Home Testing Kits Kenya: Buying Guide
 
 ## Introduction
 

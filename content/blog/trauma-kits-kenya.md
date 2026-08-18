@@ -1,5 +1,5 @@
 ---
-title: 'Trauma Kits Kenya: Buying Guide'
+title: 'BEST Trauma Kits Kenya: Buying Guide'
 description: Kenya buying guide to trauma kits Kenya. Learn what to consider, what
   it costs, and how to choose a reliable local supplier.
 slug: trauma-kits-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# Trauma Kits Kenya: Buying Guide
+# BEST Trauma Kits Kenya: Buying Guide
 
 ## Introduction
 

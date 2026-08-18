@@ -1,5 +1,5 @@
 ---
-title: 'Patient Monitoring Systems Kenya: Buying Guide'
+title: 'BEST Patient Monitoring Systems Kenya: Buying Guide'
 description: Kenya buying guide to patient monitoring systems Kenya. Learn what to
   consider, what it costs, and how to choose a reliable local supplier.
 slug: patient-monitoring-systems-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 569
 status: draft
 ---
-# Patient Monitoring Systems Kenya: Buying Guide
+# BEST Patient Monitoring Systems Kenya: Buying Guide
 
 ## Introduction
 

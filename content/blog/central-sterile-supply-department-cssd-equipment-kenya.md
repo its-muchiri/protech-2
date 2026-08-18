@@ -1,5 +1,5 @@
 ---
-title: 'Central Sterile Supply Department (cssd) Equipment Kenya: Buying Guide'
+title: 'BEST Central Sterile Supply Department (cssd) Equipment Kenya: Buying Guide'
 description: Kenya buying guide to central sterile supply department (CSSD) equipment
   Kenya. Learn what to consider, what it costs, and how to choose a reliable local
   supplier.
@@ -17,7 +17,7 @@ style_batch: 2
 word_count: 575
 status: draft
 ---
-# Central Sterile Supply Department (cssd) Equipment Kenya: Buying Guide
+# BEST Central Sterile Supply Department (cssd) Equipment Kenya: Buying Guide
 
 ## Introduction
 

@@ -1,5 +1,5 @@
 ---
-title: 'Wheelchair Rental Nairobi: Buying Guide'
+title: 'BEST Wheelchair Rental Nairobi: Buying Guide'
 description: Kenya buying guide to wheelchair rental Nairobi. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: wheelchair-rental-nairobi
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# Wheelchair Rental Nairobi: Buying Guide
+# BEST Wheelchair Rental Nairobi: Buying Guide
 
 ## Introduction
 

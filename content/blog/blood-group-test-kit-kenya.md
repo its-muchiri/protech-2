@@ -1,5 +1,5 @@
 ---
-title: 'Blood Group Test Kit Kenya: Buying Guide'
+title: 'BEST Blood Group Test Kit Kenya: Buying Guide'
 description: Kenya buying guide to blood group test kit Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: blood-group-test-kit-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 569
 status: draft
 ---
-# Blood Group Test Kit Kenya: Buying Guide
+# BEST Blood Group Test Kit Kenya: Buying Guide
 
 ## Introduction
 

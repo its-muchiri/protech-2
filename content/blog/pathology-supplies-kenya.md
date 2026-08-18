@@ -1,5 +1,5 @@
 ---
-title: 'Pathology Supplies Kenya: Buying Guide'
+title: 'BEST Pathology Supplies Kenya: Buying Guide'
 description: Kenya buying guide to pathology supplies Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: pathology-supplies-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# Pathology Supplies Kenya: Buying Guide
+# BEST Pathology Supplies Kenya: Buying Guide
 
 ## Introduction
 

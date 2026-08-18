@@ -1,5 +1,5 @@
 ---
-title: 'Point of Care Testing Devices Kenya: Buying Guide'
+title: 'BEST Point of Care Testing Devices Kenya: Buying Guide'
 description: Kenya buying guide to point of care testing devices Kenya. Learn what
   to consider, what it costs, and how to choose a reliable local supplier.
 slug: point-of-care-testing-devices-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 572
 status: draft
 ---
-# Point of Care Testing Devices Kenya: Buying Guide
+# BEST Point of Care Testing Devices Kenya: Buying Guide
 
 ## Introduction
 

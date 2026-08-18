@@ -1,5 +1,5 @@
 ---
-title: 'Nhif Medical Equipment Benefits Kenya: Buying Guide'
+title: 'BEST Nhif Medical Equipment Benefits Kenya: Buying Guide'
 description: Kenya buying guide to NHIF medical equipment benefits Kenya. Learn what
   to consider, what it costs, and how to choose a reliable local supplier.
 slug: nhif-medical-equipment-benefits-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 569
 status: draft
 ---
-# Nhif Medical Equipment Benefits Kenya: Buying Guide
+# BEST Nhif Medical Equipment Benefits Kenya: Buying Guide
 
 ## Introduction
 

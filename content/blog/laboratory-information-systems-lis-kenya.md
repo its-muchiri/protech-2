@@ -1,5 +1,5 @@
 ---
-title: 'Laboratory Information Systems (lis) Kenya: Buying Guide'
+title: 'BEST Laboratory Information Systems (lis) Kenya: Buying Guide'
 description: Kenya buying guide to laboratory information systems (LIS) Kenya. Learn
   what to consider, what it costs, and how to choose a reliable local supplier.
 slug: laboratory-information-systems-lis-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 569
 status: draft
 ---
-# Laboratory Information Systems (lis) Kenya: Buying Guide
+# BEST Laboratory Information Systems (lis) Kenya: Buying Guide
 
 ## Introduction
 

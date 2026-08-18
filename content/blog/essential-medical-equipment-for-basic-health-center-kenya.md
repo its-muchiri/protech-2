@@ -1,5 +1,5 @@
 ---
-title: 'Essential Medical Equipment for Basic Health Center Kenya: Buying Guide'
+title: 'BEST Essential Medical Equipment for Basic Health Center Kenya: Buying Guide'
 description: Kenya buying guide to essential medical equipment for basic health center
   Kenya. Learn what to consider, what it costs, and how to choose a reliable local
   supplier.
@@ -17,7 +17,7 @@ style_batch: 2
 word_count: 578
 status: draft
 ---
-# Essential Medical Equipment for Basic Health Center Kenya: Buying Guide
+# BEST Essential Medical Equipment for Basic Health Center Kenya: Buying Guide
 
 ## Introduction
 

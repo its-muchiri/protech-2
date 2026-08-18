@@ -1,5 +1,5 @@
 ---
-title: 'New Medical Technologies Kenya: Buying Guide'
+title: 'BEST New Medical Technologies Kenya: Buying Guide'
 description: Kenya buying guide to new medical technologies Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: new-medical-technologies-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 566
 status: draft
 ---
-# New Medical Technologies Kenya: Buying Guide
+# BEST New Medical Technologies Kenya: Buying Guide
 
 ## Introduction
 

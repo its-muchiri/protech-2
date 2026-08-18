@@ -1,5 +1,5 @@
 ---
-title: 'Infection Control Products for Clinics Kenya: Buying Guide'
+title: 'BEST Infection Control Products for Clinics Kenya: Buying Guide'
 description: Kenya buying guide to infection control products for clinics Kenya. Learn
   what to consider, what it costs, and how to choose a reliable local supplier.
 slug: infection-control-products-for-clinics-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 572
 status: draft
 ---
-# Infection Control Products for Clinics Kenya: Buying Guide
+# BEST Infection Control Products for Clinics Kenya: Buying Guide
 
 ## Introduction
 

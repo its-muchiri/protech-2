@@ -1,5 +1,5 @@
 ---
-title: 'Forceps Medical Kenya: Buying Guide'
+title: 'BEST Forceps Medical Kenya: Buying Guide'
 description: Kenya buying guide to forceps medical Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: forceps-medical-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# Forceps Medical Kenya: Buying Guide
+# BEST Forceps Medical Kenya: Buying Guide
 
 ## Introduction
 

@@ -1,5 +1,5 @@
 ---
-title: 'First Aid Kits Kenya Contents: Buying Guide'
+title: 'BEST First Aid Kits Kenya Contents: Buying Guide'
 description: Kenya buying guide to first aid kits Kenya contents. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: first-aid-kits-kenya-contents
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 569
 status: draft
 ---
-# First Aid Kits Kenya Contents: Buying Guide
+# BEST First Aid Kits Kenya Contents: Buying Guide
 
 ## Introduction
 

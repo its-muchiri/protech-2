@@ -1,5 +1,5 @@
 ---
-title: 'Infrared Thermometer Kenya: Buying Guide'
+title: 'BEST Infrared Thermometer Kenya: Buying Guide'
 description: Kenya buying guide to infrared thermometer Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: infrared-thermometer-kenya
@@ -11,7 +11,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# Infrared Thermometer Kenya: Buying Guide
+# BEST Infrared Thermometer Kenya: Buying Guide
 
 ## Introduction
 

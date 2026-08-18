@@ -1,5 +1,5 @@
 ---
-title: 'Burettes Kenya: Buying Guide'
+title: 'BEST Burettes Kenya: Buying Guide'
 description: Kenya buying guide to burettes Kenya. Learn what to consider, what it
   costs, and how to choose a reliable local supplier.
 slug: burettes-kenya
@@ -11,7 +11,7 @@ style_batch: 2
 word_count: 560
 status: draft
 ---
-# Burettes Kenya: Buying Guide
+# BEST Burettes Kenya: Buying Guide
 
 ## Introduction
 

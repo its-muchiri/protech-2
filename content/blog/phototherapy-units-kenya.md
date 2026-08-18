@@ -1,5 +1,5 @@
 ---
-title: 'Phototherapy Units Kenya: Buying Guide'
+title: 'BEST Phototherapy Units Kenya: Buying Guide'
 description: Kenya buying guide to phototherapy units Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: phototherapy-units-kenya
@@ -13,7 +13,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# Phototherapy Units Kenya: Buying Guide
+# BEST Phototherapy Units Kenya: Buying Guide
 
 ## Introduction
 

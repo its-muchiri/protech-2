@@ -1,5 +1,5 @@
 ---
-title: 'Multi-parameter Patient Monitor Kenya: Buying Guide'
+title: 'BEST Multi-parameter Patient Monitor Kenya: Buying Guide'
 description: Kenya buying guide to multi-parameter patient monitor Kenya. Learn what
   to consider, what it costs, and how to choose a reliable local supplier.
 slug: multi-parameter-patient-monitor-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 569
 status: draft
 ---
-# Multi-parameter Patient Monitor Kenya: Buying Guide
+# BEST Multi-parameter Patient Monitor Kenya: Buying Guide
 
 ## Introduction
 

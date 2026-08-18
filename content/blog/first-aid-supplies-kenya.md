@@ -1,5 +1,5 @@
 ---
-title: 'First Aid Supplies Kenya: Buying Guide'
+title: 'BEST First Aid Supplies Kenya: Buying Guide'
 description: Kenya buying guide to first aid supplies Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: first-aid-supplies-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 566
 status: draft
 ---
-# First Aid Supplies Kenya: Buying Guide
+# BEST First Aid Supplies Kenya: Buying Guide
 
 ## Introduction
 

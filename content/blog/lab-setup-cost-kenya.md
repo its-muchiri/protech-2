@@ -1,5 +1,5 @@
 ---
-title: 'Lab Setup Cost Kenya: 2026 Price Guide'
+title: 'BEST Lab Setup Cost Kenya: 2026 Price Guide'
 description: Kenya buying guide to lab setup cost Kenya. Learn what to consider, what
   it costs, and how to choose a reliable local supplier.
 slug: lab-setup-cost-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 567
 status: draft
 ---
-# Lab Setup Cost Kenya: 2026 Price Guide
+# BEST Lab Setup Cost Kenya: 2026 Price Guide
 
 ## Introduction
 

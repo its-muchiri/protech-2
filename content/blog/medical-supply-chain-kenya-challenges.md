@@ -1,5 +1,5 @@
 ---
-title: 'Medical Supply Chain Kenya Challenges: Buying Guide'
+title: 'BEST Medical Supply Chain Kenya Challenges: Buying Guide'
 description: Kenya buying guide to medical supply chain Kenya challenges. Learn what
   to consider, what it costs, and how to choose a reliable local supplier.
 slug: medical-supply-chain-kenya-challenges
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 569
 status: draft
 ---
-# Medical Supply Chain Kenya Challenges: Buying Guide
+# BEST Medical Supply Chain Kenya Challenges: Buying Guide
 
 ## Introduction
 

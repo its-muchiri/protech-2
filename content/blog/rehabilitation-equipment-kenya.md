@@ -1,5 +1,5 @@
 ---
-title: 'Rehabilitation Equipment Kenya: Buying Guide'
+title: 'BEST Rehabilitation Equipment Kenya: Buying Guide'
 description: Kenya buying guide to rehabilitation equipment Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: rehabilitation-equipment-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# Rehabilitation Equipment Kenya: Buying Guide
+# BEST Rehabilitation Equipment Kenya: Buying Guide
 
 ## Introduction
 

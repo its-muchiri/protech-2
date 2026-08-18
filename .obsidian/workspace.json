@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "node_modules/eslint-plugin-react/README.md",
+                "file": "INDEXING_API_SETUP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "INDEXING_API_SETUP"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "node_modules/eslint-plugin-react/README.md",
+                "file": "INDEXING_API_SETUP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "node_modules/eslint-plugin-react/README.md",
+                "file": "INDEXING_API_SETUP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "node_modules/eslint-plugin-react/README.md",
+                "file": "INDEXING_API_SETUP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,41 +190,41 @@
   },
   "active": "8bdcd72c1b1476d3",
   "lastOpenFiles": [
-    "client_secret_310433387530-erjk8pkmemag6lm3ehi4l7985vqatch3.apps.googleusercontent.com.json",
-    "INDEXING_API_SETUP.md",
-    "scripts/backfill-indexing-api.js",
-    "scripts/submit-to-indexing-api.js",
-    "lib/indexing-api.js",
-    "node_modules/googleapis/build/src/apis/youtubereporting/v1.js",
-    "node_modules/googleapis/build/src/apis/youtubereporting/v1.d.ts",
-    "node_modules/googleapis/build/src/apis/youtubereporting/index.js",
-    "node_modules/googleapis/build/src/apis/youtubereporting/index.d.ts",
-    "node_modules/googleapis/build/src/apis/youtube/index.js",
-    "node_modules/googleapis/build/src/apis/youtubeAnalytics/v2.js",
-    "node_modules/googleapis/build/src/apis/youtubeAnalytics/v2.d.ts",
-    "node_modules/googleapis/README.md",
-    "node_modules/node-fetch/README.md",
-    "node_modules/node-fetch/LICENSE.md",
-    "node_modules/googleapis-common/node_modules/rimraf/README.md",
-    "node_modules/googleapis-common/node_modules/google-logging-utils/README.md",
-    "node_modules/googleapis-common/node_modules/gaxios/README.md",
-    "node_modules/googleapis-common/README.md",
-    "node_modules/web-streams-polyfill/README.md",
-    "node_modules/extend/README.md",
-    "node_modules/extend/CHANGELOG.md",
-    "node_modules/bignumber.js/README.md",
-    "node_modules/bignumber.js/LICENCE.md",
-    "node_modules/bignumber.js/CHANGELOG.md",
-    "node_modules/google-auth-library/README.md",
-    "node_modules/formdata-polyfill/README.md",
-    "node_modules/fetch-blob/README.md",
-    "node_modules/jws/readme.md",
-    "node_modules/jws/CHANGELOG.md",
-    "node_modules/https-proxy-agent/README.md",
-    "node_modules/qs/CHANGELOG.md",
-    "node_modules/qs/README.md",
-    "node_modules/qs/LICENSE.md",
-    "node_modules/json-bigint/README.md",
-    "node_modules/ecdsa-sig-formatter/README.md"
+    "content/blog/tour-companies-based-in-mombasa-kenya-south-coast-departures.md",
+    "content/blog/toshiba-ct-scanner-for-sale-in-eldoret.md",
+    "content/blog/top-rated-safari-companies-kenya-safaribookings.md",
+    "content/blog/top-rated-kenya-safari-tours-for-families-tripadvisor-usa.md",
+    "content/blog/top-rated-kenya-safari-specialists-uk-experts.md",
+    "content/blog/top-rated-family-safari-packages-kenya-review-buy.md",
+    "content/blog/top-kenya-safari.md",
+    "content/blog/top-kenya-photographic-safari-guides-booking-usa-portfolio.md",
+    "content/blog/top-10-safari-operators-kenya.md",
+    "content/blog/top-10-kenya-luxury-safari-lodges-booking-rates-usa.md",
+    "content/blog/today-s-flights-from-eldoret-to-nairobi.md",
+    "content/blog/tipping-guide-kenya-safari.md",
+    "content/blog/tipping-guide-for-safari-driver-lodge-staff-kenya.md",
+    "content/blog/time-sensitive-urgency-last-minute-availability-specific-dates-months.md",
+    "content/blog/tilt-table-for-rehabilitation-price-in-kenya.md",
+    "content/blog/tickets-to-nairobi-national-park.md",
+    "content/blog/ticketing-courses-in-kenya.md",
+    "content/blog/ticket-from-kenya-to-usa.md",
+    "content/blog/ticket-from-kenya-to-uk.md",
+    "content/blog/ticket-from-kenya-to-uganda.md",
+    "content/blog/ticket-from-kenya-to-turkey.md",
+    "content/blog/ticket-from-kenya-to-south-africa.md",
+    "content/blog/ticket-from-kenya-to-india.md",
+    "content/blog/ticket-from-kenya-to-germany.md",
+    "content/blog/ticket-from-kenya-to-egypt.md",
+    "content/blog/ticket-from-kenya-to-dubai.md",
+    "scripts/find-brackets.js",
+    "scripts/test-parse.js",
+    "scripts/validate-articles.js",
+    "scripts/add-best-prefix.js",
+    "scripts/check-best.js",
+    "scripts/verify-articles.js",
+    "scripts/generate-articles.js",
+    "data/keywords-by-category.json",
+    "data/keywords-extracted.json",
+    "scripts/extract-keywords.js"
   ]
 }

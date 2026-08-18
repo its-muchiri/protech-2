@@ -1,5 +1,5 @@
 ---
-title: 'Healthcare Logistics Kenya: Buying Guide'
+title: 'BEST Healthcare Logistics Kenya: Buying Guide'
 description: Kenya buying guide to healthcare logistics Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: healthcare-logistics-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# Healthcare Logistics Kenya: Buying Guide
+# BEST Healthcare Logistics Kenya: Buying Guide
 
 ## Introduction
 

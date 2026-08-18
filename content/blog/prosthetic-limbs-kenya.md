@@ -1,5 +1,5 @@
 ---
-title: 'Prosthetic Limbs Kenya: Buying Guide'
+title: 'BEST Prosthetic Limbs Kenya: Buying Guide'
 description: Kenya buying guide to prosthetic limbs Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: prosthetic-limbs-kenya
@@ -12,7 +12,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# Prosthetic Limbs Kenya: Buying Guide
+# BEST Prosthetic Limbs Kenya: Buying Guide
 
 ## Introduction
 

@@ -1,5 +1,5 @@
 ---
-title: 'Cheap Medical Equipment Kenya: Buying Guide'
+title: 'BEST Cheap Medical Equipment Kenya: Buying Guide'
 description: Kenya buying guide to cheap medical equipment Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: cheap-medical-equipment-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 566
 status: draft
 ---
-# Cheap Medical Equipment Kenya: Buying Guide
+# BEST Cheap Medical Equipment Kenya: Buying Guide
 
 ## Introduction
 

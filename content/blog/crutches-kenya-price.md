@@ -1,5 +1,5 @@
 ---
-title: 'Crutches Kenya Price: 2026 Price Guide'
+title: 'BEST Crutches Kenya Price: 2026 Price Guide'
 description: Kenya buying guide to crutches Kenya price. Learn what to consider, what
   it costs, and how to choose a reliable local supplier.
 slug: crutches-kenya-price
@@ -13,7 +13,7 @@ style_batch: 2
 word_count: 564
 status: draft
 ---
-# Crutches Kenya Price: 2026 Price Guide
+# BEST Crutches Kenya Price: 2026 Price Guide
 
 ## Introduction
 

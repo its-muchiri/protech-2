@@ -1,5 +1,5 @@
 ---
-title: 'Disinfectants Kenya for Hospitals: Buying Guide'
+title: 'BEST Disinfectants Kenya for Hospitals: Buying Guide'
 description: Kenya buying guide to disinfectants Kenya for hospitals. Learn what to
   consider, what it costs, and how to choose a reliable local supplier.
 slug: disinfectants-kenya-for-hospitals
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 566
 status: draft
 ---
-# Disinfectants Kenya for Hospitals: Buying Guide
+# BEST Disinfectants Kenya for Hospitals: Buying Guide
 
 ## Introduction
 

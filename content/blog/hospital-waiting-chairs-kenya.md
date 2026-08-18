@@ -1,5 +1,5 @@
 ---
-title: 'Hospital Waiting Chairs Kenya: Buying Guide'
+title: 'BEST Hospital Waiting Chairs Kenya: Buying Guide'
 description: Kenya buying guide to hospital waiting chairs Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: hospital-waiting-chairs-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 566
 status: draft
 ---
-# Hospital Waiting Chairs Kenya: Buying Guide
+# BEST Hospital Waiting Chairs Kenya: Buying Guide
 
 ## Introduction
 

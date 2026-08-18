@@ -1,5 +1,5 @@
 ---
-title: 'Chemical Reagents Kenya: Buying Guide'
+title: 'BEST Chemical Reagents Kenya: Buying Guide'
 description: Kenya buying guide to chemical reagents Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: chemical-reagents-kenya
@@ -14,7 +14,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# Chemical Reagents Kenya: Buying Guide
+# BEST Chemical Reagents Kenya: Buying Guide
 
 ## Introduction
 

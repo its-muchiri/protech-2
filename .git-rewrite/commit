@@ -1,0 +1,6 @@
+tree a9be683918691289bca1a1674375190caa7bd7ea
+parent a36ad414833a8a8e1fd8e0c978f1f5fb4e878020
+author its-muchiri <muchiri.19119@students.kyu.ac.ke> 1786868283 +0300
+committer its-muchiri <muchiri.19119@students.kyu.ac.ke> 1786868283 +0300
+
+Remove WhatsApp buttons from Header/StickyBar, increase carousel speed to 1000ms, add 404 page, add CSP headers, add rate limiting to lead API

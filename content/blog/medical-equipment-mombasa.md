@@ -1,5 +1,5 @@
 ---
-title: 'Medical Equipment Mombasa: Buying Guide'
+title: 'BEST Medical Equipment Mombasa: Buying Guide'
 description: Kenya buying guide to medical equipment Mombasa. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: medical-equipment-mombasa
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# Medical Equipment Mombasa: Buying Guide
+# BEST Medical Equipment Mombasa: Buying Guide
 
 ## Introduction
 

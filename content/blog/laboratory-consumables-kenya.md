@@ -1,5 +1,5 @@
 ---
-title: 'Laboratory Consumables Kenya: Buying Guide'
+title: 'BEST Laboratory Consumables Kenya: Buying Guide'
 description: Kenya buying guide to laboratory consumables Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: laboratory-consumables-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# Laboratory Consumables Kenya: Buying Guide
+# BEST Laboratory Consumables Kenya: Buying Guide
 
 ## Introduction
 

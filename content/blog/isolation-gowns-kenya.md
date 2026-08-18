@@ -1,5 +1,5 @@
 ---
-title: 'Isolation Gowns Kenya: Buying Guide'
+title: 'BEST Isolation Gowns Kenya: Buying Guide'
 description: Kenya buying guide to isolation gowns Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: isolation-gowns-kenya
@@ -13,7 +13,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# Isolation Gowns Kenya: Buying Guide
+# BEST Isolation Gowns Kenya: Buying Guide
 
 ## Introduction
 

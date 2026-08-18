@@ -1,5 +1,5 @@
 ---
-title: 'Surgical Masks Kenya Wholesale: Buying Guide'
+title: 'BEST Surgical Masks Kenya Wholesale: Buying Guide'
 description: Kenya buying guide to surgical masks Kenya wholesale. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: surgical-masks-kenya-wholesale
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 566
 status: draft
 ---
-# Surgical Masks Kenya Wholesale: Buying Guide
+# BEST Surgical Masks Kenya Wholesale: Buying Guide
 
 ## Introduction
 

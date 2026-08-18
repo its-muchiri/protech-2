@@ -1,5 +1,5 @@
 ---
-title: 'Healthcare Products Kenya: Buying Guide'
+title: 'BEST Healthcare Products Kenya: Buying Guide'
 description: Kenya buying guide to healthcare products Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: healthcare-products-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# Healthcare Products Kenya: Buying Guide
+# BEST Healthcare Products Kenya: Buying Guide
 
 ## Introduction
 

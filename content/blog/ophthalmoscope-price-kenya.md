@@ -1,5 +1,5 @@
 ---
-title: 'Ophthalmoscope Price Kenya: 2026 Price Guide'
+title: 'BEST Ophthalmoscope Price Kenya: 2026 Price Guide'
 description: Kenya buying guide to ophthalmoscope price Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: ophthalmoscope-price-kenya
@@ -12,7 +12,7 @@ style_batch: 2
 word_count: 564
 status: draft
 ---
-# Ophthalmoscope Price Kenya: 2026 Price Guide
+# BEST Ophthalmoscope Price Kenya: 2026 Price Guide
 
 ## Introduction
 

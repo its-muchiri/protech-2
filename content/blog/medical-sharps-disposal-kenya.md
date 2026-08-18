@@ -1,5 +1,5 @@
 ---
-title: 'Medical Sharps Disposal Kenya: Buying Guide'
+title: 'BEST Medical Sharps Disposal Kenya: Buying Guide'
 description: Kenya buying guide to medical sharps disposal Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: medical-sharps-disposal-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 566
 status: draft
 ---
-# Medical Sharps Disposal Kenya: Buying Guide
+# BEST Medical Sharps Disposal Kenya: Buying Guide
 
 ## Introduction
 

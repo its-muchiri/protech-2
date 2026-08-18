@@ -1,5 +1,5 @@
 ---
-title: 'Medical Stretchers Kenya Price: 2026 Price Guide'
+title: 'BEST Medical Stretchers Kenya Price: 2026 Price Guide'
 description: Kenya buying guide to medical stretchers Kenya price. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: medical-stretchers-kenya-price
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 567
 status: draft
 ---
-# Medical Stretchers Kenya Price: 2026 Price Guide
+# BEST Medical Stretchers Kenya Price: 2026 Price Guide
 
 ## Introduction
 

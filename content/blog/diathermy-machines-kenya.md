@@ -1,5 +1,5 @@
 ---
-title: 'Diathermy Machines Kenya: Buying Guide'
+title: 'BEST Diathermy Machines Kenya: Buying Guide'
 description: Kenya buying guide to diathermy machines Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: diathermy-machines-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# Diathermy Machines Kenya: Buying Guide
+# BEST Diathermy Machines Kenya: Buying Guide
 
 ## Introduction
 

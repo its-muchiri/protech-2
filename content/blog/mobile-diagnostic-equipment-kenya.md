@@ -1,5 +1,5 @@
 ---
-title: 'Mobile Diagnostic Equipment Kenya: Buying Guide'
+title: 'BEST Mobile Diagnostic Equipment Kenya: Buying Guide'
 description: Kenya buying guide to mobile diagnostic equipment Kenya. Learn what to
   consider, what it costs, and how to choose a reliable local supplier.
 slug: mobile-diagnostic-equipment-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 566
 status: draft
 ---
-# Mobile Diagnostic Equipment Kenya: Buying Guide
+# BEST Mobile Diagnostic Equipment Kenya: Buying Guide
 
 ## Introduction
 

@@ -1,5 +1,5 @@
 ---
-title: 'Covid-19 Test Kit Kenya: Buying Guide'
+title: 'BEST Covid-19 Test Kit Kenya: Buying Guide'
 description: Kenya buying guide to COVID-19 test kit Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: covid-19-test-kit-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 566
 status: draft
 ---
-# Covid-19 Test Kit Kenya: Buying Guide
+# BEST Covid-19 Test Kit Kenya: Buying Guide
 
 ## Introduction
 

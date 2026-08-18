@@ -1,5 +1,5 @@
 ---
-title: 'Emergency Medical Supplies for Businesses Kenya: Buying Guide'
+title: 'BEST Emergency Medical Supplies for Businesses Kenya: Buying Guide'
 description: Kenya buying guide to emergency medical supplies for businesses Kenya.
   Learn what to consider, what it costs, and how to choose a reliable local supplier.
 slug: emergency-medical-supplies-for-businesses-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 572
 status: draft
 ---
-# Emergency Medical Supplies for Businesses Kenya: Buying Guide
+# BEST Emergency Medical Supplies for Businesses Kenya: Buying Guide
 
 ## Introduction
 

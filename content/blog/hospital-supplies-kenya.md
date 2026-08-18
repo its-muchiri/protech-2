@@ -1,5 +1,5 @@
 ---
-title: 'Hospital Supplies Kenya: Buying Guide'
+title: 'BEST Hospital Supplies Kenya: Buying Guide'
 description: Kenya buying guide to hospital supplies Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: hospital-supplies-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# Hospital Supplies Kenya: Buying Guide
+# BEST Hospital Supplies Kenya: Buying Guide
 
 ## Introduction
 

@@ -1,5 +1,5 @@
 ---
-title: 'Clinic Management Software Kenya: Buying Guide'
+title: 'BEST Clinic Management Software Kenya: Buying Guide'
 description: Kenya buying guide to clinic management software Kenya. Learn what to
   consider, what it costs, and how to choose a reliable local supplier.
 slug: clinic-management-software-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 566
 status: draft
 ---
-# Clinic Management Software Kenya: Buying Guide
+# BEST Clinic Management Software Kenya: Buying Guide
 
 ## Introduction
 

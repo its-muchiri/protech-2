@@ -1,5 +1,5 @@
 ---
-title: 'Anesthesia Machine Prices Kenya: 2026 Price Guide'
+title: 'BEST Anesthesia Machine Prices Kenya: 2026 Price Guide'
 description: Kenya buying guide to anesthesia machine prices Kenya. Learn what to
   consider, what it costs, and how to choose a reliable local supplier.
 slug: anesthesia-machine-prices-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 570
 status: draft
 ---
-# Anesthesia Machine Prices Kenya: 2026 Price Guide
+# BEST Anesthesia Machine Prices Kenya: 2026 Price Guide
 
 ## Introduction
 

@@ -1,5 +1,5 @@
 ---
-title: 'Laboratory Reagents Kenya Suppliers: Buying Guide'
+title: 'BEST Laboratory Reagents Kenya Suppliers: Buying Guide'
 description: Kenya buying guide to laboratory reagents Kenya suppliers. Learn what
   to consider, what it costs, and how to choose a reliable local supplier.
 slug: laboratory-reagents-kenya-suppliers
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 566
 status: draft
 ---
-# Laboratory Reagents Kenya Suppliers: Buying Guide
+# BEST Laboratory Reagents Kenya Suppliers: Buying Guide
 
 ## Introduction
 

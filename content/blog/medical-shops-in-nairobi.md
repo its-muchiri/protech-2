@@ -1,5 +1,5 @@
 ---
-title: 'Medical Shops in Nairobi: Buying Guide'
+title: 'BEST Medical Shops in Nairobi: Buying Guide'
 description: Kenya buying guide to medical shops in Nairobi. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: medical-shops-in-nairobi
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 566
 status: draft
 ---
-# Medical Shops in Nairobi: Buying Guide
+# BEST Medical Shops in Nairobi: Buying Guide
 
 ## Introduction
 

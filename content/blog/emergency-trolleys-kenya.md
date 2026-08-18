@@ -1,5 +1,5 @@
 ---
-title: 'Emergency Trolleys Kenya: Buying Guide'
+title: 'BEST Emergency Trolleys Kenya: Buying Guide'
 description: Kenya buying guide to emergency trolleys Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: emergency-trolleys-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# Emergency Trolleys Kenya: Buying Guide
+# BEST Emergency Trolleys Kenya: Buying Guide
 
 ## Introduction
 

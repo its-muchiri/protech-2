@@ -1,5 +1,5 @@
 ---
-title: 'Spectrophotometers Kenya: Buying Guide'
+title: 'BEST Spectrophotometers Kenya: Buying Guide'
 description: Kenya buying guide to spectrophotometers Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: spectrophotometers-kenya
@@ -11,7 +11,7 @@ style_batch: 2
 word_count: 560
 status: draft
 ---
-# Spectrophotometers Kenya: Buying Guide
+# BEST Spectrophotometers Kenya: Buying Guide
 
 ## Introduction
 

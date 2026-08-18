@@ -1,5 +1,5 @@
 ---
-title: 'KEMSA Medical Supplies List in Kenya: Buying Guide & Prices 2026'
+title: 'BEST KEMSA Medical Supplies List in Kenya: Buying Guide & Prices 2026'
 description: Kenya buying guide to KEMSA medical supplies list. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: kemsa-medical-supplies-list
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 570
 status: draft
 ---
-# KEMSA Medical Supplies List in Kenya: Buying Guide & Prices 2026
+# BEST KEMSA Medical Supplies List in Kenya: Buying Guide & Prices 2026
 
 ## Introduction
 

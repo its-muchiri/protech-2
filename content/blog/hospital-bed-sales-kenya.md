@@ -1,5 +1,5 @@
 ---
-title: 'Hospital Bed Sales Kenya: Buying Guide'
+title: 'BEST Hospital Bed Sales Kenya: Buying Guide'
 description: Kenya buying guide to hospital bed sales Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: hospital-bed-sales-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 566
 status: draft
 ---
-# Hospital Bed Sales Kenya: Buying Guide
+# BEST Hospital Bed Sales Kenya: Buying Guide
 
 ## Introduction
 

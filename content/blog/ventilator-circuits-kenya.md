@@ -1,5 +1,5 @@
 ---
-title: 'Ventilator Circuits Kenya: Buying Guide'
+title: 'BEST Ventilator Circuits Kenya: Buying Guide'
 description: Kenya buying guide to ventilator circuits Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: ventilator-circuits-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 566
 status: draft
 ---
-# Ventilator Circuits Kenya: Buying Guide
+# BEST Ventilator Circuits Kenya: Buying Guide
 
 ## Introduction
 

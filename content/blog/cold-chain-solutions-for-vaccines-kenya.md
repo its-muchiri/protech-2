@@ -1,5 +1,5 @@
 ---
-title: 'Cold Chain Solutions for Vaccines Kenya: Buying Guide'
+title: 'BEST Cold Chain Solutions for Vaccines Kenya: Buying Guide'
 description: Kenya buying guide to cold chain solutions for vaccines Kenya. Learn
   what to consider, what it costs, and how to choose a reliable local supplier.
 slug: cold-chain-solutions-for-vaccines-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 572
 status: draft
 ---
-# Cold Chain Solutions for Vaccines Kenya: Buying Guide
+# BEST Cold Chain Solutions for Vaccines Kenya: Buying Guide
 
 ## Introduction
 

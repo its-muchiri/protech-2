@@ -1,5 +1,5 @@
 ---
-title: 'Medical Examination Lights Kenya: Buying Guide'
+title: 'BEST Medical Examination Lights Kenya: Buying Guide'
 description: Kenya buying guide to medical examination lights Kenya. Learn what to
   consider, what it costs, and how to choose a reliable local supplier.
 slug: medical-examination-lights-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 566
 status: draft
 ---
-# Medical Examination Lights Kenya: Buying Guide
+# BEST Medical Examination Lights Kenya: Buying Guide
 
 ## Introduction
 

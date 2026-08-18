@@ -1,5 +1,5 @@
 ---
-title: 'Rural Clinic Medical Supplies Kenya: Buying Guide'
+title: 'BEST Rural Clinic Medical Supplies Kenya: Buying Guide'
 description: Kenya buying guide to rural clinic medical supplies Kenya. Learn what
   to consider, what it costs, and how to choose a reliable local supplier.
 slug: rural-clinic-medical-supplies-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 569
 status: draft
 ---
-# Rural Clinic Medical Supplies Kenya: Buying Guide
+# BEST Rural Clinic Medical Supplies Kenya: Buying Guide
 
 ## Introduction
 

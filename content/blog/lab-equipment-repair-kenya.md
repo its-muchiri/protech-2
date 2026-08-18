@@ -1,5 +1,5 @@
 ---
-title: 'Lab Equipment Repair Kenya: Buying Guide'
+title: 'BEST Lab Equipment Repair Kenya: Buying Guide'
 description: Kenya buying guide to lab equipment repair Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: lab-equipment-repair-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 566
 status: draft
 ---
-# Lab Equipment Repair Kenya: Buying Guide
+# BEST Lab Equipment Repair Kenya: Buying Guide
 
 ## Introduction
 

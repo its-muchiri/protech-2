@@ -1,5 +1,5 @@
 ---
-title: 'Medical Device Companies in Kenya: Buying Guide'
+title: 'BEST Medical Device Companies in Kenya: Buying Guide'
 description: Kenya buying guide to medical device companies in Kenya. Learn what to
   consider, what it costs, and how to choose a reliable local supplier.
 slug: medical-device-companies-in-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 569
 status: draft
 ---
-# Medical Device Companies in Kenya: Buying Guide
+# BEST Medical Device Companies in Kenya: Buying Guide
 
 ## Introduction
 

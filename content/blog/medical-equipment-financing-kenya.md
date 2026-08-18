@@ -1,5 +1,5 @@
 ---
-title: 'Medical Equipment Financing Kenya: Buying Guide'
+title: 'BEST Medical Equipment Financing Kenya: Buying Guide'
 description: Kenya buying guide to medical equipment financing Kenya. Learn what to
   consider, what it costs, and how to choose a reliable local supplier.
 slug: medical-equipment-financing-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 566
 status: draft
 ---
-# Medical Equipment Financing Kenya: Buying Guide
+# BEST Medical Equipment Financing Kenya: Buying Guide
 
 ## Introduction
 

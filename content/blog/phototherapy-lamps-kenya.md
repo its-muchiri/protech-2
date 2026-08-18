@@ -1,5 +1,5 @@
 ---
-title: 'Phototherapy Lamps Kenya: Buying Guide'
+title: 'BEST Phototherapy Lamps Kenya: Buying Guide'
 description: Kenya buying guide to phototherapy lamps Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: phototherapy-lamps-kenya
@@ -14,7 +14,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# Phototherapy Lamps Kenya: Buying Guide
+# BEST Phototherapy Lamps Kenya: Buying Guide
 
 ## Introduction
 

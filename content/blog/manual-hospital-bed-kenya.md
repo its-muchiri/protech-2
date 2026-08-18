@@ -1,5 +1,5 @@
 ---
-title: 'Manual Hospital Bed Kenya: Buying Guide'
+title: 'BEST Manual Hospital Bed Kenya: Buying Guide'
 description: Kenya buying guide to manual hospital bed Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: manual-hospital-bed-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 566
 status: draft
 ---
-# Manual Hospital Bed Kenya: Buying Guide
+# BEST Manual Hospital Bed Kenya: Buying Guide
 
 ## Introduction
 

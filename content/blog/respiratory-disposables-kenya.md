@@ -1,5 +1,5 @@
 ---
-title: 'Respiratory Disposables Kenya: Buying Guide'
+title: 'BEST Respiratory Disposables Kenya: Buying Guide'
 description: Kenya buying guide to respiratory disposables Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: respiratory-disposables-kenya
@@ -14,7 +14,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# Respiratory Disposables Kenya: Buying Guide
+# BEST Respiratory Disposables Kenya: Buying Guide
 
 ## Introduction
 

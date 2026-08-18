@@ -1,5 +1,5 @@
 ---
-title: 'Electronic Health Records (ehr) Kenya: Buying Guide'
+title: 'BEST Electronic Health Records (ehr) Kenya: Buying Guide'
 description: Kenya buying guide to electronic health records (EHR) Kenya. Learn what
   to consider, what it costs, and how to choose a reliable local supplier.
 slug: electronic-health-records-ehr-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 569
 status: draft
 ---
-# Electronic Health Records (ehr) Kenya: Buying Guide
+# BEST Electronic Health Records (ehr) Kenya: Buying Guide
 
 ## Introduction
 

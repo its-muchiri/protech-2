@@ -1,5 +1,5 @@
 ---
-title: 'Urology Supplies Kenya: Buying Guide'
+title: 'BEST Urology Supplies Kenya: Buying Guide'
 description: Kenya buying guide to urology supplies Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: urology-supplies-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# Urology Supplies Kenya: Buying Guide
+# BEST Urology Supplies Kenya: Buying Guide
 
 ## Introduction
 

@@ -1,5 +1,5 @@
 ---
-title: 'Hospital Beds Kenya Price: 2026 Price Guide'
+title: 'BEST Hospital Beds Kenya Price: 2026 Price Guide'
 description: Kenya buying guide to hospital beds Kenya price. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: hospital-beds-kenya-price
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 567
 status: draft
 ---
-# Hospital Beds Kenya Price: 2026 Price Guide
+# BEST Hospital Beds Kenya Price: 2026 Price Guide
 
 ## Introduction
 

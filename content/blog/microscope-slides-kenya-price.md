@@ -1,5 +1,5 @@
 ---
-title: 'Microscope Slides Kenya Price: 2026 Price Guide'
+title: 'BEST Microscope Slides Kenya Price: 2026 Price Guide'
 description: Kenya buying guide to microscope slides Kenya price. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: microscope-slides-kenya-price
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 567
 status: draft
 ---
-# Microscope Slides Kenya Price: 2026 Price Guide
+# BEST Microscope Slides Kenya Price: 2026 Price Guide
 
 ## Introduction
 

@@ -1,5 +1,5 @@
 ---
-title: 'Starting a Clinic in Kenya Medical Supplies: Buying Guide'
+title: 'BEST Starting a Clinic in Kenya Medical Supplies: Buying Guide'
 description: Kenya buying guide to starting a clinic in Kenya medical supplies. Learn
   what to consider, what it costs, and how to choose a reliable local supplier.
 slug: starting-a-clinic-in-kenya-medical-supplies
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 575
 status: draft
 ---
-# Starting a Clinic in Kenya Medical Supplies: Buying Guide
+# BEST Starting a Clinic in Kenya Medical Supplies: Buying Guide
 
 ## Introduction
 

@@ -1,5 +1,5 @@
 ---
-title: 'Electric Hospital Bed Kenya: Buying Guide'
+title: 'BEST Electric Hospital Bed Kenya: Buying Guide'
 description: Kenya buying guide to electric hospital bed Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: electric-hospital-bed-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 566
 status: draft
 ---
-# Electric Hospital Bed Kenya: Buying Guide
+# BEST Electric Hospital Bed Kenya: Buying Guide
 
 ## Introduction
 

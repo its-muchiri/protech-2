@@ -1,5 +1,5 @@
 ---
-title: 'Ecg Machines Kenya Price: 2026 Price Guide'
+title: 'BEST Ecg Machines Kenya Price: 2026 Price Guide'
 description: Kenya buying guide to ECG machines Kenya price. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: ecg-machines-kenya-price
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 567
 status: draft
 ---
-# Ecg Machines Kenya Price: 2026 Price Guide
+# BEST Ecg Machines Kenya Price: 2026 Price Guide
 
 ## Introduction
 

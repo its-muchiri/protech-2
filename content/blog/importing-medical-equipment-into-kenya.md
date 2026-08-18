@@ -1,5 +1,5 @@
 ---
-title: 'Importing Medical Equipment Into Kenya: Buying Guide'
+title: 'BEST Importing Medical Equipment Into Kenya: Buying Guide'
 description: Kenya buying guide to importing medical equipment into Kenya. Learn what
   to consider, what it costs, and how to choose a reliable local supplier.
 slug: importing-medical-equipment-into-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 569
 status: draft
 ---
-# Importing Medical Equipment Into Kenya: Buying Guide
+# BEST Importing Medical Equipment Into Kenya: Buying Guide
 
 ## Introduction
 

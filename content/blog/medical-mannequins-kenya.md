@@ -1,5 +1,5 @@
 ---
-title: 'Medical Mannequins Kenya: Buying Guide'
+title: 'BEST Medical Mannequins Kenya: Buying Guide'
 description: Kenya buying guide to medical mannequins Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: medical-mannequins-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# Medical Mannequins Kenya: Buying Guide
+# BEST Medical Mannequins Kenya: Buying Guide
 
 ## Introduction
 

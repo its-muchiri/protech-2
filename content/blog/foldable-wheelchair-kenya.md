@@ -1,5 +1,5 @@
 ---
-title: 'Foldable Wheelchair Kenya: Buying Guide'
+title: 'BEST Foldable Wheelchair Kenya: Buying Guide'
 description: Kenya buying guide to foldable wheelchair Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: foldable-wheelchair-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# Foldable Wheelchair Kenya: Buying Guide
+# BEST Foldable Wheelchair Kenya: Buying Guide
 
 ## Introduction
 

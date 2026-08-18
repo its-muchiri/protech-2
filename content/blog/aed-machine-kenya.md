@@ -1,5 +1,5 @@
 ---
-title: 'Aed Machine Kenya: Buying Guide'
+title: 'BEST Aed Machine Kenya: Buying Guide'
 description: Kenya buying guide to AED machine Kenya. Learn what to consider, what
   it costs, and how to choose a reliable local supplier.
 slug: aed-machine-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# Aed Machine Kenya: Buying Guide
+# BEST Aed Machine Kenya: Buying Guide
 
 ## Introduction
 

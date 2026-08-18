@@ -1,5 +1,5 @@
 ---
-title: 'Urban Hospital Medical Equipment Kenya: Buying Guide'
+title: 'BEST Urban Hospital Medical Equipment Kenya: Buying Guide'
 description: Kenya buying guide to urban hospital medical equipment Kenya. Learn what
   to consider, what it costs, and how to choose a reliable local supplier.
 slug: urban-hospital-medical-equipment-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 569
 status: draft
 ---
-# Urban Hospital Medical Equipment Kenya: Buying Guide
+# BEST Urban Hospital Medical Equipment Kenya: Buying Guide
 
 ## Introduction
 

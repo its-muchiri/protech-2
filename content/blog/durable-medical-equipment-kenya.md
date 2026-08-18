@@ -1,5 +1,5 @@
 ---
-title: 'Durable Medical Equipment Kenya: Buying Guide'
+title: 'BEST Durable Medical Equipment Kenya: Buying Guide'
 description: Kenya buying guide to durable medical equipment Kenya. Learn what to
   consider, what it costs, and how to choose a reliable local supplier.
 slug: durable-medical-equipment-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 566
 status: draft
 ---
-# Durable Medical Equipment Kenya: Buying Guide
+# BEST Durable Medical Equipment Kenya: Buying Guide
 
 ## Introduction
 

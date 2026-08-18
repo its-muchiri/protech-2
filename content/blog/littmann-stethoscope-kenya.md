@@ -1,5 +1,5 @@
 ---
-title: 'Littmann Stethoscope Kenya: Buying Guide'
+title: 'BEST Littmann Stethoscope Kenya: Buying Guide'
 description: Kenya buying guide to Littmann stethoscope Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: littmann-stethoscope-kenya
@@ -14,7 +14,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# Littmann Stethoscope Kenya: Buying Guide
+# BEST Littmann Stethoscope Kenya: Buying Guide
 
 ## Introduction
 

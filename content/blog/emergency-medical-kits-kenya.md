@@ -1,5 +1,5 @@
 ---
-title: 'Emergency Medical Kits Kenya: Buying Guide'
+title: 'BEST Emergency Medical Kits Kenya: Buying Guide'
 description: Kenya buying guide to emergency medical kits Kenya. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: emergency-medical-kits-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 566
 status: draft
 ---
-# Emergency Medical Kits Kenya: Buying Guide
+# BEST Emergency Medical Kits Kenya: Buying Guide
 
 ## Introduction
 

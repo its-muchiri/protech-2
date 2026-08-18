@@ -1,5 +1,5 @@
 ---
-title: 'Antiseptics Kenya Brands: Buying Guide'
+title: 'BEST Antiseptics Kenya Brands: Buying Guide'
 description: Kenya buying guide to antiseptics Kenya brands. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: antiseptics-kenya-brands
@@ -12,7 +12,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# Antiseptics Kenya Brands: Buying Guide
+# BEST Antiseptics Kenya Brands: Buying Guide
 
 ## Introduction
 

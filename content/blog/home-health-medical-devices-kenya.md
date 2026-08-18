@@ -1,5 +1,5 @@
 ---
-title: 'Home Health Medical Devices Kenya: Buying Guide'
+title: 'BEST Home Health Medical Devices Kenya: Buying Guide'
 description: Kenya buying guide to home health medical devices Kenya. Learn what to
   consider, what it costs, and how to choose a reliable local supplier.
 slug: home-health-medical-devices-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 569
 status: draft
 ---
-# Home Health Medical Devices Kenya: Buying Guide
+# BEST Home Health Medical Devices Kenya: Buying Guide
 
 ## Introduction
 

@@ -1,5 +1,5 @@
 ---
-title: 'Petri Dishes Kenya Suppliers: Buying Guide'
+title: 'BEST Petri Dishes Kenya Suppliers: Buying Guide'
 description: Kenya buying guide to petri dishes Kenya suppliers. Learn what to consider,
   what it costs, and how to choose a reliable local supplier.
 slug: petri-dishes-kenya-suppliers
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 566
 status: draft
 ---
-# Petri Dishes Kenya Suppliers: Buying Guide
+# BEST Petri Dishes Kenya Suppliers: Buying Guide
 
 ## Introduction
 

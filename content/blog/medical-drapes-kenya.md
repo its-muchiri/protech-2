@@ -1,5 +1,5 @@
 ---
-title: 'Medical Drapes Kenya: Buying Guide'
+title: 'BEST Medical Drapes Kenya: Buying Guide'
 description: Kenya buying guide to medical drapes Kenya. Learn what to consider, what
   it costs, and how to choose a reliable local supplier.
 slug: medical-drapes-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 563
 status: draft
 ---
-# Medical Drapes Kenya: Buying Guide
+# BEST Medical Drapes Kenya: Buying Guide
 
 ## Introduction
 

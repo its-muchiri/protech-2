@@ -1,5 +1,5 @@
 ---
-title: 'Refurbished Medical Equipment Kenya: Buying Guide'
+title: 'BEST Refurbished Medical Equipment Kenya: Buying Guide'
 description: Kenya buying guide to refurbished medical equipment Kenya. Learn what
   to consider, what it costs, and how to choose a reliable local supplier.
 slug: refurbished-medical-equipment-kenya
@@ -16,7 +16,7 @@ style_batch: 2
 word_count: 566
 status: draft
 ---
-# Refurbished Medical Equipment Kenya: Buying Guide
+# BEST Refurbished Medical Equipment Kenya: Buying Guide
 
 ## Introduction
 
