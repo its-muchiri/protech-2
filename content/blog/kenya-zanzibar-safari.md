@@ -6,7 +6,7 @@ primary_keyword: 'Kenya Zanzibar safari'
 secondary_keywords:
 - 'Maasai village visit Kenya'
 - 'See Big 5 Kenya'
-- 'Grevy's zebra safari Kenya'
+- 'Grevy''s zebra safari Kenya'
 - 'Kenya safari from USA'
 - 'Kenya safari in March'
 search_intent: transactional

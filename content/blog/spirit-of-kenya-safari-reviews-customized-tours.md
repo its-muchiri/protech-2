@@ -4,7 +4,7 @@ description: 'Kenya safari guide covering spirit of kenya safari reviews customi
 slug: spirit-of-kenya-safari-reviews-customized-tours
 primary_keyword: 'Spirit of Kenya safari reviews customized tours'
 secondary_keywords:
-- 'Sale 14 day honeymoon Kenya beach safari package [Month]'
+- 'Sale 14 day honeymoon Kenya beach safari package'
 - 'Luxury Kenya safari holiday package buy'
 - 'Find reliable Kenya tour operator package deal'
 - 'Buy photographic safari package camera gear rental included (niche)'

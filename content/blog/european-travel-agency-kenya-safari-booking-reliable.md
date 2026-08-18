@@ -6,7 +6,7 @@ primary_keyword: 'European travel agency Kenya safari booking reliable'
 secondary_keywords:
 - 'Book recommended 8 day Kenya wildlife classic package'
 - 'Book 9 day Sanctuary Olonana luxury river package Mara'
-- 'Quote for 4 day Elsa's Kopje Meru package booking'
+- 'Quote for 4 day Elsa''s Kopje Meru package booking'
 - 'Book scientific research participation safari package (niche)'
 - 'Sustainable tour operators Kenya'
 search_intent: transactional

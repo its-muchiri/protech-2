@@ -6,7 +6,7 @@ primary_keyword: 'Kenya safari package itinerary 7 days'
 secondary_keywords:
 - 'Lodge safari package Kenya deals online'
 - 'Lake Nakuru tour package cost 4 days'
-- 'Reserve tour [International Operator Name] Kenya branch'
+- 'Reserve tour  Kenya branch'
 - 'Buy full board Kenya lodge safari package online'
 - 'Compare 7 day Kenya safari package prices'
 search_intent: transactional

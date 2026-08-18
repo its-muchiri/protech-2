@@ -8,7 +8,7 @@ secondary_keywords:
 - 'Discounted Kenya safari tours purchase'
 - 'Kenya Zanzibar beach safari package deal'
 - 'Book Northern circuit Kenya safari package'
-- '[Operator Name] Masai Mara tour cost'
+- 'Masai Mara tour cost'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

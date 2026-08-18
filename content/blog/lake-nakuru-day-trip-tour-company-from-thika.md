@@ -7,7 +7,7 @@ secondary_keywords:
 - 'Cheap Kenya safari package buy online'
 - 'Basic Kenya safari lodge package buy'
 - '10 day Kenya Tanzania migration package buy'
-- 'Reserve Kenya safari package [Number] months in advance'
+- 'Reserve Kenya safari package  months in advance'
 - 'Compare Kenya safari package prices'
 search_intent: transactional
 article_style: Travel Booking Guide

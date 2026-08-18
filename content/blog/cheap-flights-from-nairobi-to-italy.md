@@ -7,7 +7,7 @@ secondary_keywords:
 - 'eldoret airport flights'
 - 'flights from eldoret to jkia'
 - 'flights from eldoret to nairobi price'
-- 'today's flights from eldoret to nairobi'
+- 'today''s flights from eldoret to nairobi'
 - 'kq flight amsterdam to nairobi'
 search_intent: informational
 article_style: Flight Booking Guide

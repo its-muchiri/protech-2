@@ -5,7 +5,7 @@ slug: flight-from-nairobi-mombasa
 primary_keyword: 'flight from nairobi mombasa'
 secondary_keywords:
 - 'flights from eldoret to nairobi price'
-- 'today's flights from eldoret to nairobi'
+- 'today''s flights from eldoret to nairobi'
 - 'kq flight amsterdam to nairobi'
 - 'kenya airways flights bookings'
 - 'kq flights cancelled'

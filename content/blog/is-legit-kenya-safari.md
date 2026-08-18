@@ -5,7 +5,7 @@ slug: is-legit-kenya-safari
 primary_keyword: 'Is  legit Kenya safari'
 secondary_keywords:
 - 'Review and book recommended Kenya honeymoon package'
-- 'Quote for 10 day budget camping Kenya Tanzania combo tour August [Year]'
+- 'Quote for 10 day budget camping Kenya Tanzania combo tour August'
 - 'Book 10 day compare Serena vs Sarova lodges Kenya safari package price'
 - 'Sustainable tourism certified tour operators Kenya'
 - 'Luxury lodges Masai Mara (e.g., Angama Mara, Mara Serena, Governors Camp) price'

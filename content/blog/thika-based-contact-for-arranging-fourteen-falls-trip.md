@@ -4,7 +4,7 @@ description: 'Kenya safari guide covering thika based contact for arranging four
 slug: thika-based-contact-for-arranging-fourteen-falls-trip
 primary_keyword: 'Thika based contact for arranging Fourteen Falls trip'
 secondary_keywords:
-- 'Buy Christmas family safari package Kenya [Year]'
+- 'Buy Christmas family safari package Kenya'
 - 'Secure 8 day photographic group joining Samburu Nakuru tour package price'
 - 'Buy 5 day Ol Pejeta family adventure package chimpanzee visit included deal'
 - 'Tour operators specializing in East Africa (Kenya, Tanzania, Uganda)'

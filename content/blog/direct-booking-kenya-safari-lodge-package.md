@@ -6,7 +6,7 @@ primary_keyword: 'Direct booking Kenya safari lodge  package'
 secondary_keywords:
 - 'Kenya safari package deals'
 - '3 day Kenya safari package deals'
-- 'Fly-in Kenya safari package sale [Month]'
+- 'Fly-in Kenya safari package sale'
 - 'Ol Pejeta family safari itinerary price'
 - 'Buy package from KATO registered Kenya operator'
 search_intent: transactional

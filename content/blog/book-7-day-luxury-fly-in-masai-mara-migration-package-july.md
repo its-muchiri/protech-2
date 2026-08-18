@@ -6,7 +6,7 @@ primary_keyword: 'Book 7 day luxury fly-in Masai Mara migration package July'
 secondary_keywords:
 - 'Best East Africa combined safari packages'
 - 'December holiday family safari package Kenya book'
-- 'Check availability [Operator Name] Kenya safari'
+- 'Check availability  Kenya safari'
 - 'All-inclusive Kenya safari package deals'
 - 'Book Tsavo tour deal'
 search_intent: transactional

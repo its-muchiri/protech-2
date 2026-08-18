@@ -4,7 +4,7 @@ description: 'Kenya buying guide to veterinary weighing scale for large animals.
 slug: veterinary-weighing-scale-for-large-animals
 primary_keyword: 'Veterinary weighing scale for large animals'
 secondary_keywords:
-- 'Doctor's stool and chair suppliers in Mombasa'
+- 'Doctor''s stool and chair suppliers in Mombasa'
 - 'Bedside patient monitor suppliers in Nairobi'
 - 'ICU ventilator price in Kenya'
 - 'Combination therapy unit (IFT, TENS, US) cost'

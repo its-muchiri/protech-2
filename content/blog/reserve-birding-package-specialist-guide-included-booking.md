@@ -5,7 +5,7 @@ slug: reserve-birding-package-specialist-guide-included-booking
 primary_keyword: 'Reserve birding package specialist guide included booking'
 secondary_keywords:
 - 'Tsavo safari trip plan purchase'
-- '[Operator Name] Masai Mara package cost'
+- 'Masai Mara package cost'
 - 'Purchase Kenya safari cultural visit included package'
 - 'Buy multi-generational family safari package Kenya cost'
 - 'Reserve green season Kenya photographic safari package price'

@@ -6,7 +6,7 @@ primary_keyword: 'Buy Reteti Elephant Sanctuary visit Samburu safari Europe ethi
 secondary_keywords:
 - 'Kenya bird watching safari tours USA specialist booking'
 - 'Book Masai Mara safari online UK migration season'
-- 'Lake Naivasha boat safari booking Hell's Gate tour USA'
+- 'Lake Naivasha boat safari booking Hell''s Gate tour USA'
 - 'European travel agency Kenya safari booking reliable'
 - 'Compare Kenya tour operator packages UK cost & inclusions'
 search_intent: transactional

@@ -6,7 +6,7 @@ primary_keyword: 'Italy (Italia) Kenya safari tour operators price'
 secondary_keywords:
 - 'Kenya Zanzibar beach safari package deal'
 - 'Book Northern circuit Kenya safari package'
-- '[Operator Name] Masai Mara tour cost'
+- 'Masai Mara tour cost'
 - 'Finalize Kenya safari itinerary booking'
 - 'Guided photo safari package Kenya book'
 search_intent: transactional

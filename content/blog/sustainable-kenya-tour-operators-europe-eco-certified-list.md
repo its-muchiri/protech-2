@@ -5,7 +5,7 @@ slug: sustainable-kenya-tour-operators-europe-eco-certified-list
 primary_keyword: 'Sustainable Kenya tour operators Europe eco-certified list'
 secondary_keywords:
 - 'Lake Nakuru tour package cost 4 days'
-- 'Reserve tour [International Operator Name] Kenya branch'
+- 'Reserve tour  Kenya branch'
 - 'Buy full board Kenya lodge safari package online'
 - 'Compare 7 day Kenya safari package prices'
 - 'Secure dry season Kenya wildlife viewing package booking'

@@ -5,7 +5,7 @@ slug: buy-guided-kenya-safari-tour
 primary_keyword: 'Buy guided Kenya safari tour'
 secondary_keywords:
 - 'Spirit of Kenya safari reviews customized tours'
-- 'All inclusive Kenya safari packages definition / what's included'
+- 'All inclusive Kenya safari packages definition / what''s included'
 - 'Kenya shillings exchange rate USD / EUR / GBP'
 - 'Service level agreement Kenya tour operator contract terms'
 - 'Travel agents in Thika town booking safaris Elisa Travel Agency'

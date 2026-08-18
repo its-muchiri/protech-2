@@ -6,7 +6,7 @@ primary_keyword: 'Malaria prevention Kenya safari medication / precautions'
 secondary_keywords:
 - 'Tour company accreditation Kenya TRA license'
 - 'Elephant photography safari Amboseli tour operators'
-- 'Hell's Gate National Park cycling and gorge walk tour from Naivasha / Thika'
+- 'Hell''s Gate National Park cycling and gorge walk tour from Naivasha / Thika'
 - 'Overland truck tours Kenya Intrepid / G Adventures price'
 - 'SGR train packages Mombasa beach holiday'
 search_intent: transactional

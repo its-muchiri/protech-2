@@ -4,7 +4,7 @@ description: 'Kenya safari guide covering multi-park kenya safari, including wha
 slug: multi-park-kenya-safari
 primary_keyword: 'Multi-park Kenya safari'
 secondary_keywords:
-- 'Quote for 10 day budget camping Kenya Tanzania combo tour August [Year]'
+- 'Quote for 10 day budget camping Kenya Tanzania combo tour August'
 - 'Book 10 day compare Serena vs Sarova lodges Kenya safari package price'
 - 'Sustainable tourism certified tour operators Kenya'
 - 'Luxury lodges Masai Mara (e.g., Angama Mara, Mara Serena, Governors Camp) price'

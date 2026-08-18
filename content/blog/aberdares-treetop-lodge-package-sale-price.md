@@ -7,7 +7,7 @@ secondary_keywords:
 - 'Find Kenya safari wedding planning services package UK destination wedding venue lodges'
 - 'Safari tours Kenya'
 - 'Masai Mara safari'
-- 'Hell's Gate National Park safari'
+- 'Hell''s Gate National Park safari'
 - 'High-end Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide

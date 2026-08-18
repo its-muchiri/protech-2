@@ -5,7 +5,7 @@ slug: buy-traditional-dhow-sailing-trip-lamu-safari-add-on-kenya-uk-coastal-cult
 primary_keyword: 'Buy traditional dhow sailing trip Lamu safari add-on Kenya UK coastal culture experience price'
 secondary_keywords:
 - 'Easter holiday Kenya safari package buy'
-- '[Operator Name] Kenya safari reviews and booking'
+- 'Kenya safari reviews and booking'
 - 'Kenya safari package price match'
 - 'Kenya safari package including transfers quote'
 - 'All-inclusive safari Kenya book'

@@ -5,7 +5,7 @@ slug: uk-travel-advice-kenya-safari-booking-safe-operators
 primary_keyword: 'UK travel advice Kenya safari booking safe operators'
 secondary_keywords:
 - 'Weekend trips from Kiambu travel agency'
-- 'Tour operators with driver-guides fluent in [Language e.g., German, French, Spanish]'
+- 'Tour operators with driver-guides fluent in'
 - 'Affordable 7 day camping safari Kenya Tanzania migration season'
 - 'KATO operator for accessible safari van hire Nairobi'
 - 'Reserve Kenya safari online booking'

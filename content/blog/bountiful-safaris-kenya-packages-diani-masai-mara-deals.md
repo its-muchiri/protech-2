@@ -6,8 +6,8 @@ primary_keyword: 'Bountiful Safaris Kenya packages Diani / Masai Mara deals'
 secondary_keywords:
 - 'Reserve birding package specialist guide included booking'
 - 'Best price guarantee Kenya migration safari package reserve'
-- 'Book 7 day luxury fly-in Masai Mara migration package July [Year]'
-- 'Purchase 6 day Meru Elsa's Kopje luxury fly-in package quote'
+- 'Book 7 day luxury fly-in Masai Mara migration package July'
+- 'Purchase 6 day Meru Elsa''s Kopje luxury fly-in package quote'
 - 'Local Kenyan tour companies vs international operators'
 search_intent: transactional
 article_style: Travel Booking Guide

@@ -5,7 +5,7 @@ slug: over-50s-safari-tours-kenya
 primary_keyword: 'Over 50s safari tours Kenya'
 secondary_keywords:
 - 'Samburu safari bundle deal quote'
-- 'Quote from [Local Operator Name] Kenya safari'
+- 'Quote from  Kenya safari'
 - 'Book Kenya safari and beach extension package deal'
 - 'Buy multi-generational family safari package Kenya cost'
 - 'Reserve green season Kenya photographic safari package price'

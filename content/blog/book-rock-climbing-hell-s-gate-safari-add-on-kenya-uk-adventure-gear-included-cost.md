@@ -5,7 +5,7 @@ slug: book-rock-climbing-hell-s-gate-safari-add-on-kenya-uk-adventure-gear-inclu
 primary_keyword: 'Book rock climbing Hell''s Gate safari add-on Kenya UK adventure gear included cost'
 secondary_keywords:
 - 'Secure Kenya safari package for family with young children quote'
-- 'Reserve New Year luxury Kenya safari deal [Year]'
+- 'Reserve New Year luxury Kenya safari deal'
 - 'Purchase 6 day mid-range tented camp Masai Mara Nakuru package KATO operator'
 - 'Secure 9 day Laikipia Borana Conservancy luxury horseback safari package reserve'
 - 'Boutique tour companies Kenya personalized service'

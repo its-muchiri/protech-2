@@ -6,7 +6,7 @@ primary_keyword: 'Book one week Kenya wildlife tour reservation'
 secondary_keywords:
 - 'Book 11 day Kenya discovery self-drive package (assisted) quote'
 - 'Cost of 5 day Samburu special five photo package buy'
-- 'Book tour package Kenya [Operator Name] recommended'
+- 'Book tour package Kenya  recommended'
 - 'Reserve Ol Pejeta family package school holidays'
 - 'Final check price 14 day Kenya discovery package tour'
 search_intent: transactional

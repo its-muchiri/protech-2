@@ -7,7 +7,7 @@ secondary_keywords:
 - 'Compare budget Kenya safari packages price'
 - 'Cross border safari Kenya Tanzania operator'
 - 'Last minute August migration package availability'
-- '[Operator Name] custom safari quote Kenya'
+- 'custom safari quote Kenya'
 - 'Kenya safari package with international flights book'
 search_intent: transactional
 article_style: Travel Booking Guide

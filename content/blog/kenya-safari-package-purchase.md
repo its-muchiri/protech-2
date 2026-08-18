@@ -6,7 +6,7 @@ primary_keyword: 'Kenya safari package purchase'
 secondary_keywords:
 - 'Cross border safari Kenya Tanzania operator'
 - 'Last minute August migration package availability'
-- 'Check availability [Operator Name] Kenya safari'
+- 'Check availability  Kenya safari'
 - 'All-inclusive Kenya safari package deals'
 - 'Book Tsavo tour deal'
 search_intent: transactional

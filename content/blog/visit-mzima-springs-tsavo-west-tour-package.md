@@ -6,7 +6,7 @@ primary_keyword: 'Visit Mzima Springs Tsavo West tour package'
 secondary_keywords:
 - 'Book Kenya safari package with international flights'
 - 'Secure Kenya safari package for family with young children quote'
-- 'Reserve New Year luxury Kenya safari deal [Year]'
+- 'Reserve New Year luxury Kenya safari deal'
 - 'Purchase 6 day mid-range tented camp Masai Mara Nakuru package KATO operator'
 - 'Secure 9 day Laikipia Borana Conservancy luxury horseback safari package reserve'
 search_intent: transactional

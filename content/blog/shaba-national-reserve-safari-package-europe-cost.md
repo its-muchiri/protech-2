@@ -7,7 +7,7 @@ secondary_keywords:
 - 'Quote for 6 day Tsavo Man Eaters Trail package'
 - 'Secure booking 7 day Kenya safari package'
 - 'Purchase 5 day Amboseli fly-in package now'
-- 'Book Valentine's romantic safari package Kenya'
+- 'Book Valentine''s romantic safari package Kenya'
 - 'Quote & Book 7 day fly-in Governors Camp package'
 search_intent: transactional
 article_style: Travel Booking Guide

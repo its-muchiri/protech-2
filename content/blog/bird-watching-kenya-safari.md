@@ -4,7 +4,7 @@ description: 'Kenya safari guide covering bird watching kenya safari, including 
 slug: bird-watching-kenya-safari
 primary_keyword: 'Bird watching Kenya safari'
 secondary_keywords:
-- 'Tour operators with driver-guides fluent in [Language e.g., German, French, Spanish]'
+- 'Tour operators with driver-guides fluent in'
 - 'Affordable 7 day camping safari Kenya Tanzania migration season'
 - 'KATO operator for accessible safari van hire Nairobi'
 - 'Reserve Kenya safari online booking'

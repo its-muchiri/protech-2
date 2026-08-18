@@ -5,8 +5,8 @@ slug: last-minute-safari-booking-availability-nairobi
 primary_keyword: 'Last minute safari booking availability Nairobi'
 secondary_keywords:
 - 'Get quote 7 day Loisaba Tented Camp Laikipia package'
-- 'Buy 13 day comprehensive Kenya safari tour package [Reputable Operator]'
-- 'Price check and book Kenya safari package [Month, Year]'
+- 'Buy 13 day comprehensive Kenya safari tour package'
+- 'Price check and book Kenya safari package'
 - 'Community-based tourism operators Kenya'
 - 'Laikipia conservancy tours luxury'
 search_intent: transactional

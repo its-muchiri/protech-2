@@ -8,7 +8,7 @@ secondary_keywords:
 - 'Mount Elgon climbing Kenya side tour operators'
 - 'Karen Blixen Museum tour Nairobi price'
 - 'Spirit of Kenya safari reviews customized tours'
-- 'All inclusive Kenya safari packages definition / what's included'
+- 'All inclusive Kenya safari packages definition / what''s included'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

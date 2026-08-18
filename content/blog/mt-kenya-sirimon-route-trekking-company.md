@@ -4,7 +4,7 @@ description: 'Kenya safari guide covering mt kenya sirimon route trekking compan
 slug: mt-kenya-sirimon-route-trekking-company
 primary_keyword: 'Mt Kenya Sirimon route trekking company'
 secondary_keywords:
-- '10 day Kenya Tanzania tour sale [Season]'
+- '10 day Kenya Tanzania tour sale'
 - 'Last minute 12 day luxury tented camp migration safari offer'
 - 'Private Kenya safari tour bundle buy online'
 - 'ATOL protected Kenya safari package booking UK operator'

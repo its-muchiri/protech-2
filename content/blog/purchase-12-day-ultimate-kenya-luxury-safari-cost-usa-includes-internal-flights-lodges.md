@@ -4,7 +4,7 @@ description: 'Kenya safari guide covering purchase 12-day ultimate kenya luxury 
 slug: purchase-12-day-ultimate-kenya-luxury-safari-cost-usa-includes-internal-flights-lodges
 primary_keyword: 'Purchase 12-day ultimate Kenya luxury safari cost USA includes internal flights lodges'
 secondary_keywords:
-- 'Reserve tour [International Operator Name] Kenya branch'
+- 'Reserve tour  Kenya branch'
 - 'Buy full board Kenya lodge safari package online'
 - 'Compare 7 day Kenya safari package prices'
 - 'Secure dry season Kenya wildlife viewing package booking'

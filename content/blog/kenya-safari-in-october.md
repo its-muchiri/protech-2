@@ -4,7 +4,7 @@ description: 'Kenya safari guide covering kenya safari in october, including wha
 slug: kenya-safari-in-october
 primary_keyword: 'Kenya safari in October'
 secondary_keywords:
-- 'Book 14 day Kenya photo workshop package [Pro Photographer Name] availability'
+- 'Book 14 day Kenya photo workshop package  availability'
 - 'How to choose a reputable tour company in Kenya'
 - 'Amboseli National Park tour 2 days from Nairobi price'
 - 'Sweetwaters Serena Camp Ol Pejeta price'

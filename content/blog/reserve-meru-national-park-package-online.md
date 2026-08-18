@@ -5,7 +5,7 @@ slug: reserve-meru-national-park-package-online
 primary_keyword: 'Reserve Meru National Park package online'
 secondary_keywords:
 - 'Aberdares lodge safari package bundle offer'
-- 'Direct booking Kenya safari lodge [Lodge Name] package'
+- 'Direct booking Kenya safari lodge  package'
 - 'Book luxury package private chef included Kenya (niche)'
 - 'Select Kenya Tanzania combo package itinerary quote'
 - 'Buy package for Kenya public holiday weekend deal'

@@ -5,9 +5,9 @@ slug: is-kenya-safe-for-safari
 primary_keyword: 'Is Kenya safe for safari'
 secondary_keywords:
 - 'Reserve VIP exclusive Kenya safari package private jet option'
-- 'Buy off-season Kenya safari discount package April [Year]'
+- 'Buy off-season Kenya safari discount package April'
 - 'Buy 3 day budget Amboseli fly-in package last minute deal Nairobi'
-- 'Reserve 8 day Kenya budget group joining safari guarantee departure [Date]'
+- 'Reserve 8 day Kenya budget group joining safari guarantee departure'
 - 'Tour company accreditation Kenya TRA license'
 search_intent: transactional
 article_style: Travel Booking Guide

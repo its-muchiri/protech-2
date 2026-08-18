@@ -8,7 +8,7 @@ secondary_keywords:
 - 'Ethical tour companies Kenya community focus'
 - 'Fly-in safari Masai Mara Wilson Airport cost'
 - 'Lake Nakuru lodges price (Sarova Lion Hill, Lake Nakuru Lodge)'
-- 'All-inclusive luxury safari Kenya what's included'
+- 'All-inclusive luxury safari Kenya what''s included'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

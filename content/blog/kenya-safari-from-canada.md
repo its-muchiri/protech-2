@@ -8,7 +8,7 @@ secondary_keywords:
 - '10 day Kenya safari itinerary package book'
 - 'Book sustainable eco-tour operator Kenya package'
 - 'Reserve luxury couples retreat Kenya safari package honeymoon'
-- 'Buy Christmas family safari package Kenya [Year]'
+- 'Buy Christmas family safari package Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

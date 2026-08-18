@@ -8,7 +8,7 @@ secondary_keywords:
 - 'Lake Magadi day trip flamingo tour price / road condition'
 - 'Sunworld Safaris Kenya reviews'
 - 'Safari tour van hire Nairobi price per day 7 seater'
-- 'Reliable tour operator Kenya forum recommendations (Lonely Planet, Fodor's)'
+- 'Reliable tour operator Kenya forum recommendations (Lonely Planet, Fodor''s)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

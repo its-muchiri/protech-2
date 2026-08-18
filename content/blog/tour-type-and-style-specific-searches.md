@@ -4,7 +4,7 @@ description: 'Kenya safari guide covering tour type & style specific searches, i
 slug: tour-type-and-style-specific-searches
 primary_keyword: 'Tour Type & Style Specific Searches'
 secondary_keywords:
-- 'Direct booking Kenya safari [Operator Name]'
+- 'Direct booking Kenya safari'
 - 'Secure best price Kenya safari tour'
 - 'Birding specialist guide package Kenya book'
 - 'Kenya Tanzania package quote'

@@ -8,7 +8,7 @@ secondary_keywords:
 - 'Double dome surgical light price'
 - 'Autoclave validation and testing services in Nairobi'
 - 'Hospital bed rental services in Nairobi'
-- 'Doctor's stool and chair suppliers in Mombasa'
+- 'Doctor''s stool and chair suppliers in Mombasa'
 search_intent: transactional
 article_style: Commercial Buying Guide
 style_batch: 3

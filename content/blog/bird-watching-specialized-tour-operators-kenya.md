@@ -6,7 +6,7 @@ primary_keyword: 'Bird watching specialized tour operators Kenya'
 secondary_keywords:
 - 'Buy multi-generational family safari package Kenya cost'
 - 'Reserve green season Kenya photographic safari package price'
-- 'Secure 11 day Kenya Uganda gorilla trek combo package booking [Operator Name]'
+- 'Secure 11 day Kenya Uganda gorilla trek combo package booking'
 - 'Buy 10 day luxury mobile camping safari package private chef included cost'
 - 'Inbound tour operators Kenya contact list'
 search_intent: transactional

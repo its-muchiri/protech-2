@@ -8,7 +8,7 @@ secondary_keywords:
 - 'Secure 7 day fly-in safari package Finch Hattons Tsavo West deal booking'
 - 'Destination Management Companies (DMCs) Kenya list'
 - 'Combine Amboseli Tsavo safari 5 day itinerary'
-- 'Meru National Park safari lodges Elsa's Kopje price'
+- 'Meru National Park safari lodges Elsa''s Kopje price'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -7,7 +7,7 @@ secondary_keywords:
 - 'Malindi beach hotels deals Italian influence'
 - 'Mount Longonot hike day trip from Nairobi / Thika price / guide'
 - 'Day trip Nairobi National Park tour company price'
-- 'Pollman's Tours & Safaris Kenya contact / services'
+- 'Pollman''s Tours & Safaris Kenya contact / services'
 - 'Perfect Wilderness Tours Kenya reviews'
 search_intent: transactional
 article_style: Travel Booking Guide

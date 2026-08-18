@@ -5,7 +5,7 @@ slug: purchase-private-kenya-safari-package
 primary_keyword: 'Purchase private Kenya safari package'
 secondary_keywords:
 - 'Best luxury Masai Mara package to book'
-- 'Purchase last minute Kenya safari package deal [Next Month]'
+- 'Purchase last minute Kenya safari package deal'
 - 'Book 5 day Samburu Special Five photographic tour package expert guide'
 - 'Best tour companies in Kenya reviews TripAdvisor'
 - 'Travel agents Thika booking Kenya tours'

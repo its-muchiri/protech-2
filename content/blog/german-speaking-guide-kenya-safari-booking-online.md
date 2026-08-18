@@ -8,7 +8,7 @@ secondary_keywords:
 - 'Luxury tented camps Kenya'
 - 'Hot air balloon safari Kenya'
 - 'Star gazing Kenya safari'
-- 'Best place to see [Animal Name] Kenya'
+- 'Best place to see  Kenya'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

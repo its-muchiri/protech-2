@@ -6,7 +6,7 @@ primary_keyword: 'Diani beach holiday all inclusive package wheelchair accessibl
 secondary_keywords:
 - 'Masai Mara Lake Nakuru safari package deal'
 - 'Easter holiday Kenya safari package buy'
-- '[Operator Name] Kenya safari reviews and booking'
+- 'Kenya safari reviews and booking'
 - 'Kenya safari package price match'
 - 'Kenya safari package including transfers quote'
 search_intent: transactional

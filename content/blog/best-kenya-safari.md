@@ -4,7 +4,7 @@ description: 'Kenya safari guide covering best kenya safari, including what is i
 slug: best-kenya-safari
 primary_keyword: 'Best Kenya safari'
 secondary_keywords:
-- 'Reserve tour [International Operator Name] Kenya branch'
+- 'Reserve tour  Kenya branch'
 - 'Buy full board Kenya lodge safari package online'
 - 'Compare 7 day Kenya safari package prices'
 - 'Secure dry season Kenya wildlife viewing package booking'

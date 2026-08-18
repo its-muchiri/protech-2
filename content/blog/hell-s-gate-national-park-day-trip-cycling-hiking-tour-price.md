@@ -6,7 +6,7 @@ primary_keyword: 'Hell''s Gate National Park day trip cycling / hiking tour pric
 secondary_keywords:
 - 'Book sustainable eco-tour operator Kenya package'
 - 'Reserve luxury couples retreat Kenya safari package honeymoon'
-- 'Buy Christmas family safari package Kenya [Year]'
+- 'Buy Christmas family safari package Kenya'
 - 'Secure 8 day photographic group joining Samburu Nakuru tour package price'
 - 'Buy 5 day Ol Pejeta family adventure package chimpanzee visit included deal'
 search_intent: transactional

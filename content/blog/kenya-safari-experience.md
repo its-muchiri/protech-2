@@ -5,7 +5,7 @@ slug: kenya-safari-experience
 primary_keyword: 'Kenya safari experience'
 secondary_keywords:
 - 'Green season Kenya safari package booking'
-- '[Luxury Operator] Kenya safari price quote'
+- 'Kenya safari price quote'
 - 'Kenya safari booking confirmation details'
 - 'Bush meals included Kenya safari package price'
 - 'Reserve private safari vehicle package'

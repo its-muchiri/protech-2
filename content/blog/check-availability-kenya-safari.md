@@ -6,7 +6,7 @@ primary_keyword: 'Check availability  Kenya safari'
 secondary_keywords:
 - 'Best tour companies Kenya reviews'
 - 'Online travel agency Kenya safari'
-- 'Hell's Gate National Park cycling tour company'
+- 'Hell''s Gate National Park cycling tour company'
 - 'Tour Type & Style Specific Searches'
 - 'Kenya student tour operators budget'
 search_intent: transactional

@@ -4,7 +4,7 @@ description: 'Kenya safari guide covering kenya safari in february, including wh
 slug: kenya-safari-in-february
 primary_keyword: 'Kenya safari in February'
 secondary_keywords:
-- 'Book rock climbing Hell's Gate safari add-on Kenya UK adventure gear included cost'
+- 'Book rock climbing Hell''s Gate safari add-on Kenya UK adventure gear included cost'
 - 'Purchase Kenya coffee plantation tour Kiambu safari add-on Europe farm stay booking'
 - 'African safari Kenya'
 - 'Amboseli National Park safari'

@@ -7,7 +7,7 @@ secondary_keywords:
 - 'Kenya safari package offers'
 - 'Kenya Uganda gorilla safari package cost'
 - 'Budget Kenya Uganda combo tour deal'
-- 'Book [Operator Name] Kenya safari package'
+- 'Book  Kenya safari package'
 - 'Kenya safari tour cost comparison'
 search_intent: transactional
 article_style: Travel Booking Guide

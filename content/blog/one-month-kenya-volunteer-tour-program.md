@@ -6,7 +6,7 @@ primary_keyword: 'One month Kenya volunteer tour program'
 secondary_keywords:
 - 'Book senior friendly Kenya safari package easy pace'
 - 'Compare fly-in vs overland Kenya safari package cost buy'
-- 'Reserve 5 day family lodge Amboseli package Christmas [Year] deal'
+- 'Reserve 5 day family lodge Amboseli package Christmas  deal'
 - 'Quote 7 day Kicheche Camps migration special package July booking'
 - 'Ethical tour companies Kenya community focus'
 search_intent: transactional

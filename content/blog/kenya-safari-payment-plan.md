@@ -6,7 +6,7 @@ primary_keyword: 'Kenya safari payment plan'
 secondary_keywords:
 - 'Reserve spot 7 day photographic workshop package Kenya'
 - 'Get deal on 8 day Kicheche Camps luxury package Mara conservancy'
-- 'Buy 9 day Cottar's 1920s Safari Camp luxury package'
+- 'Buy 9 day Cottar''s 1920s Safari Camp luxury package'
 - 'Quote helicopter transfer Kenya safari package add-on'
 - 'Reliable travel agency Nairobi Kenya'
 search_intent: transactional

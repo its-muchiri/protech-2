@@ -6,7 +6,7 @@ primary_keyword: 'Book Kenya conservation focused safari Ol Pejeta rhino trackin
 secondary_keywords:
 - 'Luxury tented camp safari discount booking'
 - 'Lake Nakuru tour package cost 4 days'
-- 'Reserve tour [International Operator Name] Kenya branch'
+- 'Reserve tour  Kenya branch'
 - 'Buy full board Kenya lodge safari package online'
 - 'Compare 7 day Kenya safari package prices'
 search_intent: transactional

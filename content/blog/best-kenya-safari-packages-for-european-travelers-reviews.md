@@ -4,7 +4,7 @@ description: 'Kenya safari guide covering best kenya safari packages for europea
 slug: best-kenya-safari-packages-for-european-travelers-reviews
 primary_keyword: 'Best Kenya safari packages for European travelers reviews'
 secondary_keywords:
-- 'Best place to see [Animal Name] Kenya'
+- 'Best place to see  Kenya'
 - 'Fly Nairobi to Masai Mara safari'
 - 'Kenya safari green season'
 - 'Off-season Kenya safari'

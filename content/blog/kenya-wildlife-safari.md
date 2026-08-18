@@ -4,7 +4,7 @@ description: 'Kenya safari guide covering kenya wildlife safari, including what 
 slug: kenya-wildlife-safari
 primary_keyword: 'Kenya wildlife safari'
 secondary_keywords:
-- 'Reserve 9 day Joy's Camp Shaba Samburu package deal'
+- 'Reserve 9 day Joy''s Camp Shaba Samburu package deal'
 - 'Secure booking philanthropic safari package Kenya donation focus'
 - 'Eco-friendly safari companies Kenya'
 - 'Samburu fly-in safari companies'

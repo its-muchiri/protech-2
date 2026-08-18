@@ -4,7 +4,7 @@ description: 'Kenya safari guide covering guided bird watching safari lake nakur
 slug: guided-bird-watching-safari-lake-nakuru-kenya
 primary_keyword: 'Guided bird watching safari Lake Nakuru Kenya'
 secondary_keywords:
-- 'Book Kenya safari with [Operator Name]'
+- 'Book Kenya safari with'
 - 'Secure package with hot air balloon Masai Mara booking'
 - 'Quote for accessible wheelchair friendly Kenya safari package'
 - 'Book peak season Kenya safari package availability check'

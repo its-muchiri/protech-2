@@ -8,7 +8,7 @@ secondary_keywords:
 - '9 day migration special safari discount booking'
 - 'Deal 4 day Tsavo lodge safari package from Mombasa online'
 - 'Honeymoon Kenya holiday package deal reserve'
-- '[Specific Camp Collection] package quote (e.g., Governors', Kicheche, Porini)'
+- 'package quote (e.g., Governors'', Kicheche, Porini)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

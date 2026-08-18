@@ -6,7 +6,7 @@ primary_keyword: 'Kenya safari blog'
 secondary_keywords:
 - 'Destination Management Companies (DMCs) Kenya list'
 - 'Combine Amboseli Tsavo safari 5 day itinerary'
-- 'Meru National Park safari lodges Elsa's Kopje price'
+- 'Meru National Park safari lodges Elsa''s Kopje price'
 - 'Bird watching tours Kenya Rift Valley lakes / Kakamega Forest'
 - 'Water sports Diani Beach kitesurfing / diving operators price'
 search_intent: transactional

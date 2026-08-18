@@ -4,7 +4,7 @@ description: 'Kenya safari guide covering book tailor-made kenya safari itinerar
 slug: book-tailor-made-kenya-safari-itinerary
 primary_keyword: 'Book tailor-made Kenya safari itinerary'
 secondary_keywords:
-- 'Reviews for [Company A] vs [Company B] family safari Kenya'
+- 'Reviews for  vs  family safari Kenya'
 - 'Buy guided Kenya safari tour'
 - 'Book Naivasha boat safari package'
 - 'Secure 6 day Samburu Nakuru safari booking'

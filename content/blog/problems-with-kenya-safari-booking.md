@@ -8,7 +8,7 @@ secondary_keywords:
 - 'Promo code Kenya safari package'
 - 'East Africa highlights tour package cost'
 - 'Green season Kenya safari package booking'
-- '[Luxury Operator] Kenya safari price quote'
+- 'Kenya safari price quote'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

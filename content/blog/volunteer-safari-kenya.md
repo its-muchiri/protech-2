@@ -6,7 +6,7 @@ primary_keyword: 'Volunteer safari Kenya'
 secondary_keywords:
 - 'Fly-in safari Masai Mara Wilson Airport cost'
 - 'Lake Nakuru lodges price (Sarova Lion Hill, Lake Nakuru Lodge)'
-- 'All-inclusive luxury safari Kenya what's included'
+- 'All-inclusive luxury safari Kenya what''s included'
 - 'Diani Beach holiday packages all inclusive price'
 - 'Naro Moru route Mount Kenya climb technical sections'
 search_intent: transactional

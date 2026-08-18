@@ -4,7 +4,7 @@ description: 'Kenya safari guide covering book luxury kenya safari lodge uk excl
 slug: book-luxury-kenya-safari-lodge-uk-exclusive
 primary_keyword: 'Book luxury Kenya safari lodge UK exclusive'
 secondary_keywords:
-- 'Reserve Kenya safari package [Number] months in advance'
+- 'Reserve Kenya safari package  months in advance'
 - 'Compare Kenya safari package prices'
 - 'Kenya safari package including park fees cost'
 - 'Samburu safari operator quote'

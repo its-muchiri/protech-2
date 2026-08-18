@@ -5,7 +5,7 @@ slug: book-senior-friendly-kenya-safari-package-easy-pace
 primary_keyword: 'Book senior friendly Kenya safari package easy pace'
 secondary_keywords:
 - 'August Masai Mara migration package deals'
-- 'Reserve tour with [Local Operator Name] Kenya'
+- 'Reserve tour with  Kenya'
 - 'Choose best Kenya safari tour operator'
 - 'Cultural experience included Kenya safari package booking'
 - 'Budget Kenya tour package deal'

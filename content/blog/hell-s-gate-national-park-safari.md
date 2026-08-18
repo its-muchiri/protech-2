@@ -6,7 +6,7 @@ primary_keyword: 'Hell''s Gate National Park safari'
 secondary_keywords:
 - 'Book Kenya Tanzania safari package'
 - 'Luxury Kenya Zanzibar package booking'
-- 'Early bird booking Kenya safari package [Year]'
+- 'Early bird booking Kenya safari package'
 - 'Best Kenya safari package deals online'
 - 'Book fly-in Kenya safari package all inclusive'
 search_intent: transactional

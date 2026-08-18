@@ -6,9 +6,9 @@ primary_keyword: 'Phone signal Kenya safari'
 secondary_keywords:
 - 'Kenya safari and Victoria Falls package quote'
 - 'Secure peak season Kenya safari package'
-- '[Budget Operator] Kenya safari package purchase'
+- 'Kenya safari package purchase'
 - 'Add-ons for Kenya safari package purchase'
-- '(Adding 'buy', 'book', 'package', 'cost', 'quote', 'deal', 'reserve', 'operator' to core terms)'
+- '(Adding ''buy'', ''book'', ''package'', ''cost'', ''quote'', ''deal'', ''reserve'', ''operator'' to core terms)'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

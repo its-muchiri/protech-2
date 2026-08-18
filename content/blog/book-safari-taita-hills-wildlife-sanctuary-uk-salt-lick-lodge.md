@@ -5,7 +5,7 @@ slug: book-safari-taita-hills-wildlife-sanctuary-uk-salt-lick-lodge
 primary_keyword: 'Book safari Taita Hills Wildlife Sanctuary UK Salt Lick Lodge'
 secondary_keywords:
 - 'Kenya wellness safari retreat booking UK spa lodge'
-- 'Meru National Park safari cost Europe Elsa's Kopje booking'
+- 'Meru National Park safari cost Europe Elsa''s Kopje booking'
 - 'Masai Mara safari booking from USA dates & availability'
 - 'Kenya travel agents specializing in safaris Europe based'
 - 'Independent travel agent Kenya safari booking Europe'

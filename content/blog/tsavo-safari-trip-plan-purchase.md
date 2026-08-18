@@ -6,7 +6,7 @@ primary_keyword: 'Tsavo safari trip plan purchase'
 secondary_keywords:
 - 'Book with local Kenya safari operator direct price'
 - 'Time-Sensitive/Urgency (Last minute, Availability, Specific dates/months)'
-- 'Book Kenya safari for specific dates [e.g., August 10-17, 2025] USA'
+- 'Book Kenya safari for specific dates  USA'
 - 'Check Kenya tour operator license and reviews online UK'
 - 'Book small group safari Lake Nakuru & Naivasha Kenya from Germany agency'
 search_intent: transactional

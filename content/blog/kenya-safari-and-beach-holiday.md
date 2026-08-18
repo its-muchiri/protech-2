@@ -5,7 +5,7 @@ slug: kenya-safari-and-beach-holiday
 primary_keyword: 'Kenya safari and beach holiday'
 secondary_keywords:
 - 'Compare fly-in vs overland Kenya safari package cost buy'
-- 'Reserve 5 day family lodge Amboseli package Christmas [Year] deal'
+- 'Reserve 5 day family lodge Amboseli package Christmas  deal'
 - 'Quote 7 day Kicheche Camps migration special package July booking'
 - 'Ethical tour companies Kenya community focus'
 - 'Fly-in safari Masai Mara Wilson Airport cost'

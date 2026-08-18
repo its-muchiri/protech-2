@@ -255,7 +255,7 @@ for (const kw of keywords) {
     `slug: ${article.slug}`,
     `primary_keyword: '${article.primary_keyword}'`,
     'secondary_keywords:',
-    ...secondaryKeywords.map(k => `- '${k}'`),
+    ...article.secondaryKeywords.map(k => `- '${k}'`),
     `search_intent: ${article.search_intent}`,
     `article_style: ${article.article_style}`,
     'style_batch: 3',

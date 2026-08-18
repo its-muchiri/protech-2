@@ -8,7 +8,7 @@ secondary_keywords:
 - 'Shared safari Kenya package booking'
 - 'Best East Africa combined safari packages'
 - 'December holiday family safari package Kenya book'
-- 'Check availability [Operator Name] Kenya safari'
+- 'Check availability  Kenya safari'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

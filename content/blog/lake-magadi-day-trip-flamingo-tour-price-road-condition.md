@@ -5,8 +5,8 @@ slug: lake-magadi-day-trip-flamingo-tour-price-road-condition
 primary_keyword: 'Lake Magadi day trip flamingo tour price / road condition'
 secondary_keywords:
 - 'Amboseli Tsavo East West package booking'
-- 'Book Kenya safari package for [Specific Month/Year]'
-- 'Direct booking Kenya safari [Operator Name]'
+- 'Book Kenya safari package for'
+- 'Direct booking Kenya safari'
 - 'Secure best price Kenya safari tour'
 - 'Birding specialist guide package Kenya book'
 search_intent: transactional

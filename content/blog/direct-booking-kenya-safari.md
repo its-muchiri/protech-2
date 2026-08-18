@@ -4,7 +4,7 @@ description: 'Kenya safari guide covering direct booking kenya safari, including
 slug: direct-booking-kenya-safari
 primary_keyword: 'Direct booking Kenya safari'
 secondary_keywords:
-- 'Price check and book Kenya safari package [Month, Year]'
+- 'Price check and book Kenya safari package'
 - 'Community-based tourism operators Kenya'
 - 'Laikipia conservancy tours luxury'
 - 'Chyulu Hills safari operators'

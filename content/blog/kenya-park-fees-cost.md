@@ -4,7 +4,7 @@ description: 'Kenya safari guide covering kenya park fees cost, including what i
 slug: kenya-park-fees-cost
 primary_keyword: 'Kenya park fees cost'
 secondary_keywords:
-- '10 day Kenya Tanzania tour sale [Season]'
+- '10 day Kenya Tanzania tour sale'
 - 'Last minute 12 day luxury tented camp migration safari offer'
 - 'Private Kenya safari tour bundle buy online'
 - 'ATOL protected Kenya safari package booking UK operator'

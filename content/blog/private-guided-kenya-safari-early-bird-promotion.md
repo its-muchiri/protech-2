@@ -4,7 +4,7 @@ description: 'Kenya safari guide covering private guided kenya safari early bird
 slug: private-guided-kenya-safari-early-bird-promotion
 primary_keyword: 'Private guided Kenya safari early bird promotion'
 secondary_keywords:
-- '[Operator Name] custom safari quote Kenya'
+- 'custom safari quote Kenya'
 - 'Kenya safari package with international flights book'
 - 'Amboseli package cost'
 - 'Last minute deal Kenya safari buy'

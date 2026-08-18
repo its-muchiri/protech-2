@@ -4,7 +4,7 @@ description: 'Kenya safari guide covering find french-speaking driver-guide keny
 slug: find-french-speaking-driver-guide-kenya-safari-package-booking-europe-reliable-operator-needed
 primary_keyword: 'Find French-speaking driver-guide Kenya safari package booking Europe reliable operator needed'
 secondary_keywords:
-- 'Book Valentine's romantic safari package Kenya'
+- 'Book Valentine''s romantic safari package Kenya'
 - 'Quote & Book 7 day fly-in Governors Camp package'
 - 'Reserve 10 day Offbeat Safaris mobile camping package'
 - 'Book 5 star all-inclusive Kenya safari package deal online'

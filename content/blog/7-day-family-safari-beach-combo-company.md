@@ -5,7 +5,7 @@ slug: 7-day-family-safari-beach-combo-company
 primary_keyword: '7 day family safari beach combo company'
 secondary_keywords:
 - 'Kenya wellness safari retreat booking UK spa lodge'
-- 'Meru National Park safari cost Europe Elsa's Kopje booking'
+- 'Meru National Park safari cost Europe Elsa''s Kopje booking'
 - 'Private Kenya safari quote UK couple honeymoon'
 - 'Reliable Kenya safari company USA booking BBB rating'
 - 'Kenya safari operator safety record check USA'

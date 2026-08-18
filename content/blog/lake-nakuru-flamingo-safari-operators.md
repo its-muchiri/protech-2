@@ -8,7 +8,7 @@ secondary_keywords:
 - 'Honeymoon package Kenya cost'
 - 'Buy 4 day fly-in Samburu package deal'
 - 'Buy package 7 day Kenya walking safari guided tour'
-- 'Book 4 day Hell's Gate Naivasha adventure package'
+- 'Book 4 day Hell''s Gate Naivasha adventure package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

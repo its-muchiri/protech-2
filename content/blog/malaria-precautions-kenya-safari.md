@@ -8,7 +8,7 @@ secondary_keywords:
 - '6 day Samburu Nakuru safari sale price'
 - 'Discount 5 day family fly-in Amboseli package early bird'
 - 'Aberdares lodge safari package bundle offer'
-- 'Direct booking Kenya safari lodge [Lodge Name] package'
+- 'Direct booking Kenya safari lodge  package'
 search_intent: transactional
 article_style: Travel Booking Guide
 style_batch: 3

@@ -5,9 +5,9 @@ slug: small-group-kenya-safari-package-price-list
 primary_keyword: 'Small group Kenya safari package price list'
 secondary_keywords:
 - 'Secure peak season Kenya safari package'
-- '[Budget Operator] Kenya safari package purchase'
+- 'Kenya safari package purchase'
 - 'Add-ons for Kenya safari package purchase'
-- '(Adding 'buy', 'book', 'package', 'cost', 'quote', 'deal', 'reserve', 'operator' to core terms)'
+- '(Adding ''buy'', ''book'', ''package'', ''cost'', ''quote'', ''deal'', ''reserve'', ''operator'' to core terms)'
 - 'Christmas safari deal buy'
 search_intent: transactional
 article_style: Travel Booking Guide

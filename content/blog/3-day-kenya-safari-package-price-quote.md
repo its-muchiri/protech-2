@@ -7,7 +7,7 @@ secondary_keywords:
 - 'Book celebrity style Kenya luxury safari package price'
 - 'Best tour companies Kenya reviews'
 - 'Online travel agency Kenya safari'
-- 'Hell's Gate National Park cycling tour company'
+- 'Hell''s Gate National Park cycling tour company'
 - 'Tour Type & Style Specific Searches'
 search_intent: transactional
 article_style: Travel Booking Guide

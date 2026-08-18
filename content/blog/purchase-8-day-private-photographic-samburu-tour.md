@@ -4,7 +4,7 @@ description: 'Kenya safari guide covering purchase 8 day private photographic sa
 slug: purchase-8-day-private-photographic-samburu-tour
 primary_keyword: 'Purchase 8 day private photographic Samburu tour'
 secondary_keywords:
-- 'All inclusive Kenya safari packages definition / what's included'
+- 'All inclusive Kenya safari packages definition / what''s included'
 - 'Kenya shillings exchange rate USD / EUR / GBP'
 - 'Service level agreement Kenya tour operator contract terms'
 - 'Travel agents in Thika town booking safaris Elisa Travel Agency'

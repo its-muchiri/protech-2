@@ -5,7 +5,7 @@ slug: kenya-safari-payment-options-mpesa-credit-card
 primary_keyword: 'Kenya safari payment options Mpesa credit card'
 secondary_keywords:
 - 'Price and book 6 day Ashnil Samburu Mara package'
-- 'Reserve 7 day Richard's River Camp private conservancy package'
+- 'Reserve 7 day Richard''s River Camp private conservancy package'
 - 'Secure booking ultra-luxury Kenya tented suite package'
 - 'Top 10 safari operators Kenya'
 - 'Last minute safari deals Kenya companies'
